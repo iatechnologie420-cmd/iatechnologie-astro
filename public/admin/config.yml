@@ -3,8 +3,7 @@ backend:
   repo: iatechnologie420-cmd/iatechnologie-astro
   branch: main
   auth_type: pkce
-  app_id: ""
-  # L'app_id sera rempli après création de l'OAuth App GitHub
+  app_id: "Ov23likr4pcEki95huFa"
 
 local_backend: true
 
