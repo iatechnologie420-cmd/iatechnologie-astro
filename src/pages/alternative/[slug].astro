@@ -1,0 +1,242 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const alternatives = await getCollection('alternatives');
+  return alternatives.map((alt) => ({
+    params: { slug: alt.data.mainToolSlug },
+    props: { alternative: alt.data },
+  }));
+}
+
+const { alternative } = Astro.props;
+const tools = [...alternative.tools].sort((a, b) => b.rating - a.rating);
+const currentYear = new Date().getFullYear();
+const displayName = alternative.mainTool;
+const pageTitle = `Les ${tools.length} meilleures alternatives à ${displayName} en ${currentYear}`;
+
+const pricingLabels: Record<string, string> = { free: 'Gratuit', freemium: 'Freemium', paid: 'Payant' };
+const pricingColors: Record<string, string> = {
+  free: 'bg-primary/20 text-primary border-primary/30',
+  freemium: 'bg-accent/20 text-accent border-accent/30',
+  paid: 'bg-secondary text-secondary-foreground border-border',
+};
+
+const faqItems = [
+  { q: `Quelle est la meilleure alternative à ${displayName} en ${currentYear} ?`, a: `La meilleure alternative dépend de vos besoins spécifiques. Consultez notre comparatif détaillé ci-dessus pour trouver l'outil le plus adapté à votre usage.` },
+  { q: `Les alternatives à ${displayName} sont-elles gratuites ?`, a: `Plusieurs alternatives proposent des plans gratuits ou freemium. Vérifiez le détail des prix dans notre tableau comparatif pour trouver l'option qui correspond à votre budget.` },
+  { q: `Pourquoi chercher une alternative à ${displayName} ?`, a: `Les raisons sont multiples : prix, fonctionnalités spécifiques, respect de la vie privée, performances dans certains domaines, ou simplement pour diversifier ses outils IA.` },
+  { q: `Comment choisir entre les alternatives à ${displayName} ?`, a: `Identifiez d'abord votre cas d'usage principal (rédaction, code, recherche, etc.), puis comparez les fonctionnalités, les prix et les avis. Testez les versions gratuites avant de vous engager.` },
+];
+
+const jsonLdList = {
+  '@context': 'https://schema.org', '@type': 'ItemList', name: pageTitle,
+  numberOfItems: tools.length,
+  itemListElement: tools.map((tool, i) => ({
+    '@type': 'ListItem', position: i + 1,
+    item: { '@type': 'SoftwareApplication', name: tool.name, description: tool.short_description, applicationCategory: 'AI Tool',
+      aggregateRating: { '@type': 'AggregateRating', ratingValue: tool.rating, bestRating: 5, ratingCount: 1 },
+      offers: { '@type': 'Offer', price: tool.pricing_type === 'free' ? '0' : tool.price_starting, priceCurrency: 'USD' },
+    },
+  })),
+};
+
+const jsonLdFaq = {
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: faqItems.map((item) => ({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })),
+};
+---
+
+<BaseLayout
+  title={`${pageTitle} | IA Technologie`}
+  description={`Découvrez les meilleures alternatives à ${displayName} : comparatif détaillé, prix, avantages et inconvénients.`}
+  jsonLd={jsonLdList}
+>
+  <div class="min-h-screen bg-background">
+    <Navbar />
+    <main>
+      <!-- Hero -->
+      <section class="relative overflow-hidden py-16 md:py-24 noise-bg">
+        <div class="absolute inset-0 bg-gradient-to-b from-primary/5 via-transparent to-transparent"></div>
+        <div class="absolute left-1/2 top-0 -translate-x-1/2 h-[500px] w-[800px] rounded-full bg-primary/5 blur-[120px]"></div>
+
+        <div class="container relative z-10 max-w-4xl">
+          <a href="/" class="inline-flex items-center gap-2 mb-6 text-sm text-muted-foreground hover:text-foreground transition-colors">
+            <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
+            Retour
+          </a>
+
+          <nav class="mb-6 text-sm text-muted-foreground">
+            <a href="/" class="hover:text-primary transition-colors">Accueil</a>
+            <span class="mx-2">/</span>
+            <span class="text-foreground">Alternative à {displayName}</span>
+          </nav>
+
+          <h1 class="mb-4 font-heading text-3xl font-bold leading-tight text-foreground md:text-5xl animate-on-scroll">
+            Les meilleures <span class="gradient-text">alternatives à {displayName}</span> en {currentYear}
+          </h1>
+          <p class="max-w-2xl text-lg text-muted-foreground animate-on-scroll">
+            Vous cherchez une alternative à {displayName} ? Découvrez notre sélection des {tools.length} meilleurs outils, testés et comparés par nos experts.
+          </p>
+        </div>
+      </section>
+
+      <!-- Comparison Table -->
+      {tools.length > 0 && (
+        <section class="py-12 md:py-16">
+          <div class="container max-w-4xl">
+            <h2 class="mb-6 font-heading text-2xl font-bold text-foreground animate-on-scroll">Comparatif rapide</h2>
+            <div class="rounded-2xl border border-border/50 bg-card/60 backdrop-blur-sm overflow-x-auto animate-on-scroll">
+              <table class="w-full min-w-[600px] border-collapse">
+                <thead>
+                  <tr class="border-b border-border/50">
+                    <th class="px-4 py-3 text-left text-sm font-semibold text-muted-foreground">Outil</th>
+                    <th class="px-4 py-3 text-center text-sm font-semibold text-muted-foreground">Note</th>
+                    <th class="px-4 py-3 text-center text-sm font-semibold text-muted-foreground">Prix</th>
+                    <th class="px-4 py-3 text-center text-sm font-semibold text-muted-foreground">Type</th>
+                    <th class="px-4 py-3 text-center text-sm font-semibold text-muted-foreground">Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {tools.slice(0, 5).map((tool, i) => (
+                    <tr class={`border-b border-border/30 transition-colors hover:bg-card/80 ${i === 0 ? 'bg-primary/5' : ''}`}>
+                      <td class="px-4 py-4">
+                        <div class="flex items-center gap-3">
+                          <img src={tool.logo_url} alt={tool.name} class="h-8 w-8 rounded-lg object-contain" loading="lazy" />
+                          <span class="font-semibold text-foreground">{tool.name}</span>
+                          {i === 0 && <span class="inline-flex items-center rounded-full bg-primary text-primary-foreground text-[10px] px-2 py-0.5 font-bold">#1</span>}
+                        </div>
+                      </td>
+                      <td class="px-4 py-4 text-center">
+                        <div class="flex items-center justify-center gap-1">
+                          <svg class="h-3.5 w-3.5 fill-primary text-primary" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" /></svg>
+                          <span class="font-semibold text-foreground">{tool.rating}</span>
+                        </div>
+                      </td>
+                      <td class="px-4 py-4 text-center text-sm font-medium text-foreground">{tool.price_starting}</td>
+                      <td class="px-4 py-4 text-center">
+                        <span class={`rounded-full border px-2.5 py-0.5 text-xs font-medium ${pricingColors[tool.pricing_type] || pricingColors.freemium}`}>
+                          {pricingLabels[tool.pricing_type] || tool.pricing_type}
+                        </span>
+                      </td>
+                      <td class="px-4 py-4 text-center">
+                        <a href={tool.affiliate_url} target="_blank" rel="noopener noreferrer nofollow" class={`inline-flex items-center justify-center h-8 px-3 rounded-md text-xs font-medium gap-1 ${i === 0 ? 'bg-primary text-primary-foreground' : 'border border-border text-foreground hover:bg-card'}`}>
+                          Essayer
+                          <svg class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+                        </a>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      )}
+
+      <!-- Detailed Cards -->
+      {tools.length > 0 && (
+        <section class="py-12 md:py-16">
+          <div class="container max-w-4xl">
+            <h2 class="mb-8 font-heading text-2xl font-bold text-foreground animate-on-scroll">Analyse détaillée</h2>
+            <div class="space-y-6">
+              {tools.map((tool, i) => (
+                <div id={tool.slug} class={`group relative rounded-2xl border bg-card/80 backdrop-blur-sm transition-all duration-300 hover:border-primary/30 ${i === 0 ? 'border-primary/50 glow-sm' : 'border-border/50'} animate-on-scroll`} style={`transition-delay: ${i * 0.08}s;`}>
+                  {i === 0 && (
+                    <div class="absolute -top-3 left-6 z-10">
+                      <span class="inline-flex items-center gap-1 rounded-full bg-primary px-3 py-1 text-xs font-bold text-primary-foreground">
+                        <svg class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+                        Meilleur choix
+                      </span>
+                    </div>
+                  )}
+                  <div class="p-6 md:p-8">
+                    <div class="mb-6 flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
+                      <div class="flex items-start gap-4">
+                        <div class="flex h-14 w-14 shrink-0 items-center justify-center rounded-xl bg-secondary p-2">
+                          <img src={tool.logo_url} alt={tool.name} class="h-10 w-10 object-contain" loading="lazy" />
+                        </div>
+                        <div>
+                          <div class="mb-1 flex items-center gap-3">
+                            <span class="text-sm font-bold text-muted-foreground">#{i + 1}</span>
+                            <h3 class="font-heading text-xl font-bold text-foreground md:text-2xl">{tool.name}</h3>
+                          </div>
+                          <p class="text-sm text-muted-foreground">{tool.short_description}</p>
+                        </div>
+                      </div>
+                      <a href={tool.affiliate_url} target="_blank" rel="noopener noreferrer nofollow" class="inline-flex items-center justify-center gap-2 rounded-md bg-primary text-primary-foreground px-6 h-11 font-medium glow-sm shrink-0">
+                        Essayer {tool.name}
+                        <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+                      </a>
+                    </div>
+                    <div class="mb-4 flex flex-wrap gap-2">
+                      {tool.features.map((f) => (
+                        <span class="inline-flex items-center rounded-full bg-secondary text-secondary-foreground text-xs px-2.5 py-0.5 font-medium">{f}</span>
+                      ))}
+                    </div>
+                    <p class="text-sm leading-relaxed text-muted-foreground mb-4">{tool.description}</p>
+                    <div class="grid gap-4 sm:grid-cols-2">
+                      <div class="rounded-xl bg-primary/5 p-4">
+                        <h4 class="mb-3 flex items-center gap-2 text-sm font-semibold text-primary">
+                          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                          Avantages
+                        </h4>
+                        <ul class="space-y-2">
+                          {tool.pros.map((pro) => (
+                            <li class="flex items-start gap-2 text-sm text-muted-foreground">
+                              <svg class="mt-0.5 h-3.5 w-3.5 shrink-0 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                              {pro}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                      <div class="rounded-xl bg-destructive/5 p-4">
+                        <h4 class="mb-3 flex items-center gap-2 text-sm font-semibold text-destructive">
+                          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
+                          Inconvénients
+                        </h4>
+                        <ul class="space-y-2">
+                          {tool.cons.map((con) => (
+                            <li class="flex items-start gap-2 text-sm text-muted-foreground">
+                              <svg class="mt-0.5 h-3.5 w-3.5 shrink-0 text-destructive/60" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
+                              {con}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      <!-- FAQ -->
+      <section class="py-12 md:py-16">
+        <div class="container max-w-3xl">
+          <h2 class="mb-8 font-heading text-2xl font-bold text-foreground animate-on-scroll">Questions fréquentes</h2>
+          <div class="space-y-3">
+            {faqItems.map((item, i) => (
+              <details class="group rounded-xl border border-border/50 bg-card/60 animate-on-scroll" style={`transition-delay: ${i * 0.05}s;`}>
+                <summary class="flex w-full items-center justify-between px-6 py-4 text-left cursor-pointer transition-colors hover:border-primary/30 list-none">
+                  <span class="font-medium text-foreground">{item.q}</span>
+                  <svg class="h-5 w-5 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
+                </summary>
+                <div class="px-6 pb-4 pt-2 text-sm text-muted-foreground">{item.a}</div>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+    </main>
+    <Footer />
+  </div>
+
+  <!-- FAQ JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLdFaq)} />
+</BaseLayout>

@@ -1,0 +1,46 @@
+backend:
+  name: github
+  repo: iatechnologie420-cmd/iatechnologie-astro
+  branch: main
+  auth_type: pkce
+  app_id: ""
+  # L'app_id sera rempli après création de l'OAuth App GitHub
+
+local_backend: true
+
+media_folder: "public/images"
+public_folder: "/images"
+
+site_url: "https://iatechnologie.com"
+display_url: "https://iatechnologie.com"
+
+collections:
+  - name: "articles"
+    label: "Articles de Blog"
+    folder: "src/content/articles"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titre de l'article", name: "title", widget: "string"}
+      - {label: "URL (Slug)", name: "slug", widget: "string"}
+      - {label: "Extrait (Courte description)", name: "excerpt", widget: "text", required: false}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Image de couverture", name: "featuredImage", widget: "image", required: false}
+      - {label: "Catégories (IDs)", name: "categories", widget: "list", required: false}
+      - {label: "Contenu formaté", name: "body", widget: "markdown"}
+
+  - name: "outils"
+    label: "Les Outils IA"
+    folder: "src/content/outils"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Nom de l'outil", name: "title", widget: "string"}
+      - {label: "URL (Slug)", name: "slug", widget: "string"}
+      - {label: "Courte présentation", name: "excerpt", widget: "text"}
+      - {label: "Date d'ajout", name: "date", widget: "datetime"}
+      - {label: "Logo / Image de miniature", name: "featuredImage", widget: "image", required: false}
+      - {label: "Lien de l'outil (URL externe, optionnel)", name: "link", widget: "string", required: false}
+      - {label: "Catégories", name: "categories", widget: "list", required: false}
+      - {label: "Cas d'usage", name: "casUsage", widget: "list", required: false}
+      - {label: "Description détaillée / Fonctionnalités", name: "body", widget: "markdown"}

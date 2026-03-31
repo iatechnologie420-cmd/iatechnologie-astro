@@ -1,0 +1,36 @@
+{
+  "mainTool": "ChatGPT",
+  "mainToolSlug": "chatgpt",
+  "tools": [
+    {
+      "name": "Claude",
+      "slug": "claude",
+      "description": "Claude d'Anthropic est un assistant IA conversationnel axé sur la sécurité et la fiabilité. Il excelle dans l'analyse de documents longs et la rédaction structurée.",
+      "short_description": "Assistant IA par Anthropic, expert en analyse et rédaction",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Anthropic_logo.svg/200px-Anthropic_logo.svg.png",
+      "website_url": "https://claude.ai",
+      "affiliate_url": "https://claude.ai",
+      "pricing_type": "freemium",
+      "price_starting": "20$/mois",
+      "rating": 4.8,
+      "pros": ["Analyse de documents longs", "Réponses nuancées et fiables", "Respect de la vie privée"],
+      "cons": ["Pas de génération d'images", "Moins de plugins que ChatGPT"],
+      "features": ["Analyse de PDF", "Rédaction", "Code", "Résumé"]
+    },
+    {
+      "name": "Gemini",
+      "slug": "gemini",
+      "description": "Gemini de Google est un modèle multimodal puissant, intégré à l'écosystème Google (Search, Gmail, Docs).",
+      "short_description": "IA multimodale par Google, intégrée à l'écosystème Google",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/200px-Google_Gemini_logo.svg.png",
+      "website_url": "https://gemini.google.com",
+      "affiliate_url": "https://gemini.google.com",
+      "pricing_type": "freemium",
+      "price_starting": "21.99$/mois",
+      "rating": 4.5,
+      "pros": ["Intégration Google", "Multimodal natif", "Accès gratuit généreux"],
+      "cons": ["Parfois moins précis", "Disponibilité variable selon les régions"],
+      "features": ["Recherche web", "Analyse d'images", "Code", "Intégration Workspace"]
+    }
+  ]
+}

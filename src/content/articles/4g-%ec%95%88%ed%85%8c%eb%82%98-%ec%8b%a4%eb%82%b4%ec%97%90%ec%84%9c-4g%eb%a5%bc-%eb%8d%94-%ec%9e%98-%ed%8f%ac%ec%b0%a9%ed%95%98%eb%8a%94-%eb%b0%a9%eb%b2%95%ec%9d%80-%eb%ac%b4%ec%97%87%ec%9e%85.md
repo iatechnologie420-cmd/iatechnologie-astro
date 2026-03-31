@@ -1,0 +1,130 @@
+---
+title: "4G 안테나: 실내에서 4G를 더 잘 포착하는 방법은 무엇입니까?"
+slug: "4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85"
+excerpt: "4G 작동 방식과 한계 이해 4G란 무엇입니까? 기술 4G, 또한 ~으로 알려진 4세대 이동통신 표준의 연속이다. 3G 그리고 가장 최근의 것보다 먼저 5G. 고속 모바일 인터넷 연결을 제공하므로 더 나은 데이터 전송 혜택을 누릴 수 있습니다. 여기에는 고화질 비디오 스트리밍, 빠른 속도로 웹 검색, 더 빠른 애플리케이션 다운로드가 포함됩니다. 4G는 어떻게 작동하나요? 거기 4G 고급 [&hellip;]"
+date: "2024-03-09T12:16:09"
+featuredImage: "/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
+categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%9d%b8%ed%94%84%eb%9d%bc-%eb%b0%8f-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-ko"]
+---
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Internet 2G to 4G LTE in a wood with mimo antenna" width="500" height="281" src="https://www.youtube.com/embed/4aRyEPPrJCw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#4G_%EC%9E%91%EB%8F%99_%EB%B0%A9%EC%8B%9D%EA%B3%BC_%ED%95%9C%EA%B3%84_%EC%9D%B4%ED%95%B4" >4G 작동 방식과 한계 이해</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#4G%EB%9E%80_%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C" >4G란 무엇입니까?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#4G%EB%8A%94_%EC%96%B4%EB%96%BB%EA%B2%8C_%EC%9E%91%EB%8F%99%ED%95%98%EB%82%98%EC%9A%94" >4G는 어떻게 작동하나요?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#4G%EC%9D%98_%ED%95%9C%EA%B3%84" >4G의 한계</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#%EC%8B%A4%EB%82%B4_4G_%EC%88%98%EC%8B%A0_%EA%B0%9C%EC%84%A0_%ED%8C%81_%EB%B0%8F_%EC%86%94%EB%A3%A8%EC%85%98" >실내 4G 수신 개선: 팁 및 솔루션</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#4G_%EC%88%98%EC%8B%A0%EC%97%90_%EC%98%81%ED%96%A5%EC%9D%84_%EB%AF%B8%EC%B9%98%EB%8A%94_%EC%9A%94%EC%9D%B8_%EC%9D%B4%ED%95%B4" >4G 수신에 영향을 미치는 요인 이해</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#%ED%86%B5%EC%8B%A0%ED%83%91_%EC%9C%84%EC%B9%98_%ED%99%95%EC%9D%B8" >통신탑 위치 확인</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#4G_%EC%8B%A0%ED%98%B8_%EC%A4%91%EA%B3%84%EA%B8%B0_%EB%98%90%EB%8A%94_%EC%A6%9D%ED%8F%AD%EA%B8%B0_%EC%82%AC%EC%9A%A9" >4G 신호 중계기 또는 증폭기 사용</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9D%B4%EB%82%98_%EB%AA%A8%EB%8E%80%EC%9D%98_%EC%9C%84%EC%B9%98%EB%A5%BC_%E2%80%8B%E2%80%8B%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EC%84%B8%EC%9A%94" >휴대폰이나 모뎀의 위치를 ​​최적화하세요</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%A0%9C%EA%B3%B5%EC%97%85%EC%B2%B4_%EB%98%90%EB%8A%94_%EC%9A%94%EA%B8%88%EC%A0%9C_%EB%B3%80%EA%B2%BD" >서비스 제공업체 또는 요금제 변경</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/ko/4g-%ec%95%88%ed%85%8c%eb%82%98-%ec%8b%a4%eb%82%b4%ec%97%90%ec%84%9c-4g%eb%a5%bc-%eb%8d%94-%ec%9e%98-%ed%8f%ac%ec%b0%a9%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9e%85/#%EC%99%B8%EB%B6%80_%EC%95%88%ED%85%8C%EB%82%98_%EC%84%A4%EC%B9%98" >외부 안테나 설치</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="4G_%EC%9E%91%EB%8F%99_%EB%B0%A9%EC%8B%9D%EA%B3%BC_%ED%95%9C%EA%B3%84_%EC%9D%B4%ED%95%B4"></span>4G 작동 방식과 한계 이해<span class="ez-toc-section-end"></span></h2>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="4G%EB%9E%80_%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C"></span>4G란 무엇입니까?<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>                기술 <strong>4G</strong>, 또한 ~으로 알려진 <strong>4세대</strong> 이동통신 표준의 연속이다. <strong>3G</strong> 그리고 가장 최근의 것보다 먼저 <strong>5G</strong>. 고속 모바일 인터넷 연결을 제공하므로 더 나은 데이터 전송 혜택을 누릴 수 있습니다. 여기에는 고화질 비디오 스트리밍, 빠른 속도로 웹 검색, 더 빠른 애플리케이션 다운로드가 포함됩니다.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="4G%EB%8A%94_%EC%96%B4%EB%96%BB%EA%B2%8C_%EC%9E%91%EB%8F%99%ED%95%98%EB%82%98%EC%9A%94"></span>4G는 어떻게 작동하나요?<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>                거기 <strong>4G</strong> 고급 변조 기술과 안테나 배열을 사용하여 무선 네트워크의 용량과 속도를 높입니다. 기술 <strong>롱텀 에볼루션(LTE)</strong> 4G 구현에 가장 널리 사용되므로 더 나은 스펙트럼 효율성과 더 빠른 속도를 제공합니다. </p>
+
+
+
+<p>                구체적으로 4G는 무선 주파수로 데이터를 전송하고 수신하는 통신 타워 네트워크 덕분에 작동합니다. 스마트폰, 태블릿, 라우터 등 4G 지원 장치는 이 네트워크에 연결하여 인터넷에 액세스할 수 있습니다. 데이터는 셀룰러 네트워크를 통해 라우팅되어 원격 서버에 도달한 후 동일한 방식으로 요청된 정보를 전송하여 응답합니다.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="4G%EC%9D%98_%ED%95%9C%EA%B3%84"></span>4G의 한계<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>                속도와 연결성 측면에서 장점이 있음에도 불구하고 <strong>4G</strong> 여전히 특정 제한 사항이 있습니다.</p>
+
+
+
+<ul class="wp-block-list">
+<li>거기 <strong>지리적 범위</strong> 특히 농촌이나 인구 밀도가 낮은 지역에서는 서비스가 덜 제공되는 지역이 있어 동질적이지 않습니다.</li>
+
+
+
+<li>그만큼 <strong>연결 속도</strong> 동일한 네트워크에 있는 사용자 수의 영향을 받을 수 있으며, 이로 인해 사용량이 많은 시간대에는 대역폭이 느려질 수 있습니다.</li>
+
+
+
+<li>4G는 민감하다<strong>간섭</strong>특히 건물 내부나 많은 네트워크가 공존하는 지역에서는 더욱 그렇습니다.</li>
+
+
+
+<li>4G에 필요한 인프라 구축은 <strong>상당한 경제적 투자</strong>, 운영자와 정부 모두를 위해. 이 비용으로 인해 특정 지역에서는 배포가 느려지거나 제한될 수 있습니다.</li>
+
+
+
+<li>소비<strong>에너지</strong> 높을수록 모바일 장치의 배터리 수명이 단축될 수 있습니다.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%EC%8B%A4%EB%82%B4_4G_%EC%88%98%EC%8B%A0_%EA%B0%9C%EC%84%A0_%ED%8C%81_%EB%B0%8F_%EC%86%94%EB%A3%A8%EC%85%98"></span>실내 4G 수신 개선: 팁 및 솔루션<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png" alt="" class="wp-image-1082" srcset="/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png 1792w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--300x171.png 300w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1024x585.png 1024w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--150x86.png 150w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--768x439.png 768w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="4G_%EC%88%98%EC%8B%A0%EC%97%90_%EC%98%81%ED%96%A5%EC%9D%84_%EB%AF%B8%EC%B9%98%EB%8A%94_%EC%9A%94%EC%9D%B8_%EC%9D%B4%ED%95%B4"></span>4G 수신에 영향을 미치는 요인 이해<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>리셉션 <strong>4G</strong> 건물 내부는 통신탑의 위치, 집에 사용되는 건축 자재, 심지어 날씨까지 다양한 요인의 영향을 받을 수 있습니다. 두꺼운 주변 벽이나 금속 구조물과 같은 물리적 장애물은 통신 신호를 차단하거나 약화시킬 수 있습니다. 따라서 수신 개선을 위한 솔루션을 찾기 전에 이러한 요소를 식별하는 것이 필수적입니다. <strong>4G</strong>.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%ED%86%B5%EC%8B%A0%ED%83%91_%EC%9C%84%EC%B9%98_%ED%99%95%EC%9D%B8"></span>통신탑 위치 확인<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>통신 타워에 대한 근접성과 방향은 수신 품질에 중요한 역할을 합니다. <strong>4G</strong>. 애플리케이션과 웹사이트를 사용하면 이러한 타워를 찾고 신호를 수신하기에 가장 좋은 위치를 결정할 수 있습니다. 장비를 가장 가까운 타워로 향하게 하면 수신 품질이 크게 향상될 수 있습니다.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="4G_%EC%8B%A0%ED%98%B8_%EC%A4%91%EA%B3%84%EA%B8%B0_%EB%98%90%EB%8A%94_%EC%A6%9D%ED%8F%AD%EA%B8%B0_%EC%82%AC%EC%9A%A9"></span>4G 신호 중계기 또는 증폭기 사용<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>증폭기라고도 알려진 신호 중계기는 신호를 포착합니다. <strong>4G</strong> 건물 외부에서 내부로 재분배합니다. 신호가 약하거나 방해받는 지역에서 수신을 개선하는 데 매우 효과적일 수 있습니다. 이동통신사가 사용하는 주파수에 맞는 중계기를 선택하는 것이 중요합니다.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9D%B4%EB%82%98_%EB%AA%A8%EB%8E%80%EC%9D%98_%EC%9C%84%EC%B9%98%EB%A5%BC_%E2%80%8B%E2%80%8B%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EC%84%B8%EC%9A%94"></span>휴대폰이나 모뎀의 위치를 ​​최적화하세요<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>실내에서의 장치 위치는 신호 수신에 영향을 줄 수 있습니다. 직접적인 장애물을 피하고 전화기나 모뎀을 창 근처에 배치하고 전기 제품에서 멀리 배치하면 수신 상태가 향상될 수 있습니다.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%A0%9C%EA%B3%B5%EC%97%85%EC%B2%B4_%EB%98%90%EB%8A%94_%EC%9A%94%EA%B8%88%EC%A0%9C_%EB%B3%80%EA%B2%BD"></span>서비스 제공업체 또는 요금제 변경<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>모든 노력에도 불구하고 리셉션이 <strong>4G</strong> 여전히 상태가 좋지 않다면 이동통신사를 바꾸는 것을 고려해 보세요. 일부 운영자는 다른 운영자보다 특정 영역을 더 잘 처리합니다. 다음과 같은 다른 네트워크와의 계획 <strong>3G</strong> 또는 <strong>5G</strong>, 때로는 위치에 따라 더 나은 수신을 제공할 수도 있습니다.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%EC%99%B8%EB%B6%80_%EC%95%88%ED%85%8C%EB%82%98_%EC%84%A4%EC%B9%98"></span>외부 안테나 설치<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>4G 신호를 더 잘 포착하기 위해 외부 안테나를 설치하는 것이 가능한 경우도 있습니다. 이 유형의 안테나는 지붕에 설치되며 케이블을 통해 모뎀이나 전화기에 연결됩니다. 그러나 위치 및 연결을 최적화하려면 전문가에게 설치를 요청하는 것이 좋습니다.</p>
+
+

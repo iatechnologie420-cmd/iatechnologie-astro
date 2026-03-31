@@ -1,0 +1,25 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout title="Page introuvable — IA Technologie">
+  <div class="min-h-screen bg-background">
+    <Navbar />
+    <main class="py-32">
+      <div class="container max-w-xl text-center">
+        <div class="mb-8 text-8xl font-heading font-bold gradient-text">404</div>
+        <h1 class="mb-4 font-heading text-2xl font-bold text-foreground">Page introuvable</h1>
+        <p class="mb-8 text-muted-foreground">
+          La page que vous cherchez n'existe pas ou a été déplacée.
+        </p>
+        <a href="/" class="inline-flex items-center justify-center rounded-full px-8 h-12 font-semibold bg-primary text-primary-foreground glow-sm">
+          Retour à l'accueil
+          <svg class="ml-2 h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>
+        </a>
+      </div>
+    </main>
+    <Footer />
+  </div>
+</BaseLayout>

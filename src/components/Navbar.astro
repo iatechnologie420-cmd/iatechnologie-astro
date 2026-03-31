@@ -1,0 +1,96 @@
+---
+const navLinks = [
+  { label: 'Catégories', href: '/#categories' },
+  { label: 'Outils IA', href: '/#outils' },
+  { label: "Cas d'usage", href: '/#cas-usage' },
+  { label: 'Blog', href: '/blog' },
+];
+---
+
+<header
+  id="main-navbar"
+  class="sticky top-0 z-50 transition-all duration-500 bg-transparent"
+>
+  <div class="container flex h-16 items-center justify-between">
+    <a
+      href="/"
+      class="font-heading text-xl font-bold tracking-wider text-foreground hover:text-primary transition-colors"
+    >
+      <span class="gradient-text">IA</span> TECHNOLOGIE
+    </a>
+
+    <nav class="hidden items-center gap-1 md:flex">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class="relative px-4 py-2 text-sm text-muted-foreground transition-colors hover:text-foreground group"
+        >
+          {link.label}
+          <span class="absolute bottom-0 left-1/2 h-0.5 w-0 bg-primary transition-all duration-300 group-hover:left-1/4 group-hover:w-1/2 rounded-full" />
+        </a>
+      ))}
+    </nav>
+
+    <div class="hidden items-center gap-3 md:flex">
+      <a
+        href="/#categories"
+        class="inline-flex items-center justify-center rounded-full px-6 h-9 text-sm font-medium bg-primary text-primary-foreground glow-sm hover:glow-md transition-shadow"
+      >
+        Explorer
+      </a>
+    </div>
+
+    <!-- Mobile menu button -->
+    <button
+      id="mobile-menu-btn"
+      class="md:hidden inline-flex items-center justify-center rounded-md p-2 text-muted-foreground hover:text-foreground"
+      aria-label="Menu"
+    >
+      <svg id="menu-icon" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+      <svg id="close-icon" class="h-6 w-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile menu -->
+  <nav id="mobile-menu" class="hidden overflow-hidden glass border-t border-border/50 px-4 pb-4 md:hidden">
+    {navLinks.map((link) => (
+      <a
+        href={link.href}
+        class="block w-full py-3 text-left text-sm text-muted-foreground transition-colors hover:text-primary"
+      >
+        {link.label}
+      </a>
+    ))}
+  </nav>
+</header>
+
+<script>
+  // Scroll effect
+  const navbar = document.getElementById('main-navbar');
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 20) {
+      navbar?.classList.add('glass', 'border-b', 'border-border/50', 'shadow-lg', 'shadow-background/50');
+      navbar?.classList.remove('bg-transparent');
+    } else {
+      navbar?.classList.remove('glass', 'border-b', 'border-border/50', 'shadow-lg', 'shadow-background/50');
+      navbar?.classList.add('bg-transparent');
+    }
+  }, { passive: true });
+
+  // Mobile menu toggle
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  const menuIcon = document.getElementById('menu-icon');
+  const closeIcon = document.getElementById('close-icon');
+
+  btn?.addEventListener('click', () => {
+    const isOpen = !menu?.classList.contains('hidden');
+    menu?.classList.toggle('hidden');
+    menuIcon?.classList.toggle('hidden');
+    closeIcon?.classList.toggle('hidden');
+  });
+</script>

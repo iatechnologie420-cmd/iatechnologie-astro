@@ -1,0 +1,82 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const categories = await getCollection('categories');
+  const allOutils = await getCollection('outils');
+
+  return categories.map((cat) => {
+    const outils = allOutils.filter((o) => o.data.categories.includes(cat.data.slug));
+    return {
+      params: { slug: cat.data.slug },
+      props: { category: cat.data, outils },
+    };
+  });
+}
+
+const { category, outils } = Astro.props;
+---
+
+<BaseLayout
+  title={`Outils IA : ${category.name} — IA Technologie`}
+  description={category.description || `Découvrez les meilleurs outils IA dans la catégorie ${category.name}.`}
+>
+  <div class="min-h-screen bg-background">
+    <Navbar />
+    <main class="py-12">
+      <div class="container">
+        <a href="/" class="inline-flex items-center gap-2 mb-6 text-sm text-muted-foreground hover:text-foreground transition-colors">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
+          Retour à l'accueil
+        </a>
+
+        <div class="mb-12 animate-on-scroll">
+          <div class="mb-4 text-5xl">{category.icon}</div>
+          <h1 class="mb-3 font-heading text-3xl font-bold text-foreground md:text-4xl">
+            Outils IA : {category.name}
+          </h1>
+          {category.description && (
+            <p class="max-w-2xl text-lg text-muted-foreground">{category.description}</p>
+          )}
+          <p class="mt-2 text-sm text-primary font-medium">
+            {outils.length} outil{outils.length > 1 ? 's' : ''} disponible{outils.length > 1 ? 's' : ''}
+          </p>
+        </div>
+
+        {outils.length === 0 ? (
+          <div class="rounded-xl border border-dashed border-border py-16 text-center">
+            <p class="text-muted-foreground">Aucun outil dans cette catégorie pour le moment.</p>
+          </div>
+        ) : (
+          <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {outils.map((outil: any, i: number) => (
+              <a
+                href={`/outil/${outil.data.slug}`}
+                class="group h-full rounded-xl border border-border bg-card transition-all duration-300 hover:border-primary/40 hover:shadow-lg hover:-translate-y-1 block animate-on-scroll"
+                style={`transition-delay: ${i * 0.08}s;`}
+              >
+                <div class="p-5">
+                  <div class="mb-3 flex flex-wrap gap-1.5">
+                    {outil.data.categories.map((c: string) => (
+                      <span class="inline-flex items-center rounded-full text-xs bg-secondary text-secondary-foreground px-2.5 py-0.5 font-medium">{c}</span>
+                    ))}
+                  </div>
+                  <h2 class="mb-2 font-heading text-lg font-semibold text-foreground group-hover:text-primary transition-colors">{outil.data.title}</h2>
+                  <p class="mb-4 text-sm text-muted-foreground line-clamp-3">{outil.data.excerpt}</p>
+                  <div class="flex items-center text-sm font-medium text-primary">
+                    Voir l'outil
+                    <svg class="ml-1.5 h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
+        )}
+      </div>
+    </main>
+    <Footer />
+  </div>
+</BaseLayout>

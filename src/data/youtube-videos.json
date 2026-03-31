@@ -1,0 +1,27 @@
+{
+  "subscriberCount": 6218,
+  "channelName": "IA Technologie",
+  "videos": [
+    {
+      "id": "OrfUKbw1BpA",
+      "title": "🔥 TurboQuant : Google Révolutionne la taille et vitesse des IA ? 😱",
+      "thumbnail": "https://img.youtube.com/vi/OrfUKbw1BpA/mqdefault.jpg",
+      "publishedAt": "2026-03-27T00:00:00Z",
+      "description": "Google vient d'annoncer TurboQuant..."
+    },
+    {
+      "id": "DEL1Rb_shxY",
+      "title": "Google Stitch : la plus grosse update de l'outil qui fait peur à Figma",
+      "thumbnail": "https://img.youtube.com/vi/DEL1Rb_shxY/mqdefault.jpg",
+      "publishedAt": "2026-03-20T00:00:00Z",
+      "description": "L'outil ultime pour le design."
+    },
+    {
+      "id": "pxAeEs3T7Zg",
+      "title": "🎁 5000€ d'outils IA & Tech GRATUIT pour étudiants",
+      "thumbnail": "https://img.youtube.com/vi/pxAeEs3T7Zg/mqdefault.jpg",
+      "publishedAt": "2026-03-15T00:00:00Z",
+      "description": "GitHub Student Pack et bien plus..."
+    }
+  ]
+}

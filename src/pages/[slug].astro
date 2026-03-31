@@ -1,0 +1,71 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((article) => ({
+    params: { slug: article.data.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+
+const formatDate = (dateString: string) =>
+  new Date(dateString).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: article.data.title,
+  image: article.data.featuredImage ? [article.data.featuredImage] : undefined,
+  datePublished: article.data.date,
+  dateModified: article.data.date,
+};
+---
+
+<BaseLayout
+  title={`${article.data.title} | IA Technologie`}
+  description={article.data.excerpt}
+  ogImage={article.data.featuredImage}
+  jsonLd={jsonLd}
+>
+  <div class="min-h-screen bg-background">
+    <Navbar />
+    <main class="py-12">
+      <div class="container max-w-4xl">
+        <a href="/blog" class="inline-flex items-center gap-2 mb-8 text-sm text-muted-foreground hover:text-foreground transition-colors">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
+          Retour au Blog
+        </a>
+
+        <article class="animate-on-scroll">
+          <header class="mb-10 text-center">
+            <div class="mb-4 flex items-center justify-center gap-2 text-sm text-muted-foreground">
+              <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+              <time datetime={article.data.date}>{formatDate(article.data.date)}</time>
+            </div>
+            <h1 class="mb-8 font-heading text-3xl font-bold leading-tight text-foreground md:text-5xl lg:text-6xl">
+              {article.data.title}
+            </h1>
+          </header>
+
+          {article.data.featuredImage && (
+            <div class="mb-12 overflow-hidden rounded-3xl">
+              <img src={article.data.featuredImage} alt={article.data.title} class="h-full max-h-[500px] w-full object-cover" />
+            </div>
+          )}
+
+          <div class="prose prose-lg max-w-none dark:prose-invert prose-headings:font-heading prose-headings:text-foreground prose-p:text-muted-foreground prose-p:leading-relaxed prose-a:text-primary prose-strong:text-foreground prose-img:rounded-2xl">
+            <Content />
+          </div>
+        </article>
+      </div>
+    </main>
+    <Footer />
+  </div>
+</BaseLayout>

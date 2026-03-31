@@ -1,0 +1,79 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const outils = await getCollection('outils');
+  return outils.map((outil) => ({
+    params: { slug: outil.data.slug },
+    props: { outil },
+  }));
+}
+
+const { outil } = Astro.props;
+const { Content } = await render(outil);
+
+const categories = outil.data.categories || [];
+const casUsage = outil.data.casUsage || [];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'SoftwareApplication',
+  name: outil.data.title,
+  applicationCategory: categories.join(', '),
+  url: outil.data.link || `https://iatechnologie.com/outil/${outil.data.slug}`,
+};
+---
+
+<BaseLayout
+  title={`${outil.data.title} — Avis et test complet | IA Technologie`}
+  description={outil.data.excerpt}
+  jsonLd={jsonLd}
+>
+  <div class="min-h-screen bg-background">
+    <Navbar />
+    <main class="py-12">
+      <div class="container max-w-4xl">
+        <a href="/" class="inline-flex items-center gap-2 mb-6 text-sm text-muted-foreground hover:text-foreground transition-colors">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
+          Retour
+        </a>
+
+        <article class="animate-on-scroll">
+          <!-- Header -->
+          <div class="mb-8">
+            <div class="mb-4 flex flex-wrap gap-2">
+              {categories.map((cat: string) => (
+                <a
+                  href={`/categorie/${cat}`}
+                  class="inline-flex items-center rounded-full text-xs bg-primary text-primary-foreground px-2.5 py-0.5 font-medium hover:opacity-80 transition-opacity cursor-pointer"
+                >
+                  {cat}
+                </a>
+              ))}
+              {casUsage.map((cu: string) => (
+                <a
+                  href={`/cas-usage/${cu}`}
+                  class="inline-flex items-center rounded-full text-xs border border-border px-2.5 py-0.5 font-medium text-muted-foreground hover:text-primary hover:border-primary/30 transition-colors cursor-pointer"
+                >
+                  {cu}
+                </a>
+              ))}
+            </div>
+            <h1 class="mb-4 font-heading text-3xl font-bold text-foreground md:text-4xl">
+              {outil.data.title}
+            </h1>
+          </div>
+
+          <!-- Content -->
+          <div class="prose prose-lg max-w-none dark:prose-invert prose-headings:font-heading prose-headings:text-foreground prose-p:text-muted-foreground prose-a:text-primary prose-strong:text-foreground">
+            <Content />
+          </div>
+        </article>
+      </div>
+    </main>
+    <Footer />
+  </div>
+</BaseLayout>

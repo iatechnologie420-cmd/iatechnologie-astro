@@ -1,0 +1,25 @@
+{
+  "name": "iatechnologie-astro",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "import-wp": "node scripts/import-wordpress.mjs",
+    "sync-youtube": "node scripts/fetch-youtube.mjs",
+    "cms": "npx decap-server"
+  },
+  "dependencies": {
+    "astro": "^5.7.10",
+    "@astrojs/tailwind": "^6.0.2",
+    "@astrojs/sitemap": "^3.3.1",
+    "tailwindcss": "^3.4.17",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6"
+  }
+}
