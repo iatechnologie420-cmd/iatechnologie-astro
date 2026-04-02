@@ -4,13 +4,13 @@ import { glob, file } from 'astro/loaders';
 const outilsCollection = defineCollection({
   loader: glob({ pattern: '**/*.md', base: 'src/content/outils' }),
   schema: z.object({
-    title: z.string(),
-    slug: z.string(),
-    excerpt: z.string().default(''),
-    date: z.string().default(''),
+    title: z.string().optional().default('Titre manquant'),
+    slug: z.string().optional(),
+    excerpt: z.string().optional().default(''),
+    date: z.string().optional().default(''),
     featuredImage: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    casUsage: z.array(z.string()).default([]),
+    categories: z.array(z.string()).optional().default([]),
+    casUsage: z.array(z.string()).optional().default([]),
     link: z.string().optional(),
   }),
 });
@@ -18,12 +18,12 @@ const outilsCollection = defineCollection({
 const articlesCollection = defineCollection({
   loader: glob({ pattern: '**/*.md', base: 'src/content/articles' }),
   schema: z.object({
-    title: z.string(),
-    slug: z.string(),
-    excerpt: z.string().default(''),
-    date: z.string().default(''),
+    title: z.string().optional().default('Titre manquant'),
+    slug: z.string().optional(),
+    excerpt: z.string().optional().default(''),
+    date: z.string().optional().default(''),
     featuredImage: z.string().optional(),
-    categories: z.array(z.string()).default([]),
+    categories: z.array(z.string()).optional().default([]),
   }),
 });
 
