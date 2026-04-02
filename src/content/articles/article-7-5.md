@@ -1,0 +1,230 @@
+---
+title: "د لوی معلوماتو لغت: هغه شرایط چې تاسو یې د پوهیدو لپاره پوهیدلو ته اړتیا لرئ"
+slug: "article-7-5"
+excerpt: "د لویو معلوماتو نړۍ ته پیژندنه د لوی معلومات د مخ پر ودې سکتور استازیتوب کوي چې د سوداګرۍ او سازمانونو د معلوماتو تحلیل او ګټه اخیستنې لارې بدلوي. په مخ په زیاتیدونکي ډیجیټل نړۍ کې، ډاټا په چټک سرعت او په مختلفو بڼو کې تولید کیږي. د لوی ډیټا دوره نور یوازې یوه ګونګه [&hellip;]"
+date: "2024-03-09T12:14:06"
+featuredImage: "/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-3.png"
+categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%a9%d9%85%d9%be%db%8c%d9%88%d9%bc%d8%b1%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d9%bc%d8%a7-ps"]
+---
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Big Data &amp; Hadoop Full Course In 12 Hours [2024] | BigData Hadoop Tutorial For Beginners | Edureka" width="500" height="281" src="https://www.youtube.com/embed/9QxZhapbo0o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%AF_%D9%84%D9%88%DB%8C%D9%88_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D9%86%DA%93%DB%8D_%D8%AA%D9%87_%D9%BE%DB%8C%DA%98%D9%86%D8%AF%D9%86%D9%87" >د لویو معلوماتو نړۍ ته پیژندنه</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D9%84%D9%88%DB%8C_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA_%DA%85%D9%87_%D8%B4%DB%8C_%D8%AF%DB%8C%D8%9F" >لوی معلومات څه شی دی؟</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%AF_%D9%84%D9%88%DB%8C%D9%88_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_3Vs" >د لویو معلوماتو 3Vs</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D9%84%D9%88%DB%8C_%DA%89%DB%8C%D9%BC%D8%A7_%D9%BC%DB%8C%DA%A9%D9%86%D8%A7%D9%84%D9%88%DA%98%D9%8A_%D8%A7%D9%88_%D8%A7%D9%88%D8%B2%D8%A7%D8%B1" >لوی ډیټا ټیکنالوژي او اوزار</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%AF_%D9%84%D9%88%DB%8C_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D8%AA%D8%AD%D9%84%DB%8C%D9%84%D9%88%D9%86%D9%87" >د لوی معلوماتو تحلیلونه</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D9%BE%D9%87_%D9%86%D9%86%D9%86%DB%8D_%D9%86%DA%93%DB%8D_%DA%A9%DB%90_%D8%AF_%D9%84%D9%88%DB%8C%D9%88_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D8%A7%D8%BA%DB%8C%D8%B2%D9%87" >په نننۍ نړۍ کې د لویو معلوماتو اغیزه</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%AF_%D9%84%D9%88%DB%8C_%DA%89%DB%8C%D9%BC%D8%A7_%D9%86%D9%86%DA%AB%D9%88%D9%86%DB%90" >د لوی ډیټا ننګونې</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-8" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A_%D9%85%D9%81%DA%A9%D9%88%D8%B1%DB%90_%D8%A7%D9%88_%DA%A9%D9%84%DB%8C%D8%AF%D9%8A_%D9%85%D9%81%DA%A9%D9%88%D8%B1%DB%90" >اساسي مفکورې او کلیدي مفکورې</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%AF_%D8%B0%D8%AE%DB%8C%D8%B1%D9%87_%DA%A9%D9%88%D9%84%D9%88_%D8%B2%DB%8C%D8%B1%D8%A8%D9%86%D8%A7" >د ذخیره کولو زیربنا</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D9%88%DB%8C%D8%B4%D9%84_%D8%B4%D9%88%D9%8A_%DA%89%DB%8C%D9%BC%D8%A7%D8%A8%DB%8C%D8%B3_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D8%B3%DB%8C%D8%B3%D9%BC%D9%85%D9%88%D9%86%D9%87" >ویشل شوي ډیټابیس مدیریت سیسټمونه</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%AF_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D9%BE%D8%B1%D9%88%D8%B3%D8%B3_%DA%A9%D9%88%D9%84%D9%88_%DA%86%D9%88%DA%A9%D8%A7%D9%BC%D9%88%D9%86%D9%87" >د معلوماتو پروسس کولو چوکاټونه</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%AF_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D8%AA%D8%AD%D9%84%DB%8C%D9%84%D9%8A_%D9%88%D8%B3%DB%8C%D9%84%DB%90" >د معلوماتو تحلیلي وسیلې</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/ps/%d8%af-%d9%84%d9%88%db%8c-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%88-%d9%84%d8%ba%d8%aa-%d9%87%d8%ba%d9%87-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%da%86%db%90-%d8%aa%d8%a7%d8%b3%d9%88-%db%8c%db%90/#%D8%AF_%DA%A9%D9%84%D8%A7%D9%88%DA%89_%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%BC%D8%B1%D9%8A_%D8%A7%D9%88_%D9%84%D9%88%DB%8C_%DA%89%DB%8C%D9%BC%D8%A7_%D8%AE%D8%AF%D9%85%D8%AA%D9%88%D9%86%D9%87" >د کلاوډ کمپیوټري او لوی ډیټا خدمتونه</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%84%D9%88%DB%8C%D9%88_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D9%86%DA%93%DB%8D_%D8%AA%D9%87_%D9%BE%DB%8C%DA%98%D9%86%D8%AF%D9%86%D9%87"></span>د لویو معلوماتو نړۍ ته پیژندنه<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>د <strong>لوی معلومات</strong> د مخ پر ودې سکتور استازیتوب کوي چې د سوداګرۍ او سازمانونو د معلوماتو تحلیل او ګټه اخیستنې لارې بدلوي. په مخ په زیاتیدونکي ډیجیټل نړۍ کې، ډاټا په چټک سرعت او په مختلفو بڼو کې تولید کیږي. </p>
+
+
+
+<p>د لوی ډیټا دوره نور یوازې یوه ګونګه خبره نه ده؛ دا یو حقیقت دی چې ټول صنعتونه جوړوي او د ساینس، AI او ټیکنالوژۍ حدود بیا تعریفوي.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%84%D9%88%DB%8C_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA_%DA%85%D9%87_%D8%B4%DB%8C_%D8%AF%DB%8C%D8%9F"></span>لوی معلومات څه شی دی؟<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>د <strong>لوی معلومات</strong> د ډیټا سیټونو ته اشاره کوي چې دومره لوی یا پیچلي دي چې دوی د دودیز ډیټابیس مدیریت سافټویر او وسیلو له وړتیا څخه بهر دي. دا ډاټا د متنوع او مختلف سرچینو څخه راځي، لکه ټولنیز شبکې، آنلاین لیږدونه، IoT (د شیانو انټرنیټ) سینسرونه، یا حتی ملټي میډیا ریکارډونه.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%84%D9%88%DB%8C%D9%88_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_3Vs"></span>د لویو معلوماتو 3Vs<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د لوی ډیټا مفهوم اکثرا د دریو Vs لخوا لنډیز کیږي: <strong>حجم</strong>, <strong>سرعت</strong> او <strong>ډول ډول</strong>. حجم د تولید شوي ډیټا مقدار ته اشاره کوي ، سرعت هغه سرعت ته اشاره کوي چې تولید او پروسس کیږي ، او تنوع د ډیټا مختلف ډولونو ته اشاره کوي ، جوړښت شوي او غیر جوړښت شوي ، چې شتون لري. دې دریو Vs ته ځینې وختونه اضافه کیږي <strong>اعتبار</strong>د معلوماتو دقت لپاره، او د <strong>ارزښت</strong>د دې معلوماتو اهمیت او ګټورتیا استازیتوب کوي.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D9%84%D9%88%DB%8C_%DA%89%DB%8C%D9%BC%D8%A7_%D9%BC%DB%8C%DA%A9%D9%86%D8%A7%D9%84%D9%88%DA%98%D9%8A_%D8%A7%D9%88_%D8%A7%D9%88%D8%B2%D8%A7%D8%B1"></span>لوی ډیټا ټیکنالوژي او اوزار<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د لویو معلوماتو اداره او پروسس کولو لپاره، <strong>ټیکنالوژي</strong> او <strong>اوزار</strong> ځانګړي اړین دي. پلیټ فارمونه لکه <strong>اپاچی هډوپ</strong> او <strong>سپارک</strong> د توزیع شوي ذخیره کولو او لوی ډیټا سیټونو پروسس کول فعال کړئ. نور وسیلې لکه NoSQL، غیر اړونده ډیټابیسونه هم د دوی د انعطاف او د لوی مقدار متضاد ډیټا اداره کولو وړتیا لپاره خوښ دي.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%84%D9%88%DB%8C_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D8%AA%D8%AD%D9%84%DB%8C%D9%84%D9%88%D9%86%D9%87"></span>د لوی معلوماتو تحلیلونه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د معلوماتو راټولول یوازې لومړی ګام دی؛ د لوی ډیټا تحلیلونه هغه څه دي چې دا خام ډیټا د پریکړې کولو لپاره ارزښتناکه معلوماتو ته بدلوي. پدې کې د پرمختللي تخنیکونو کارول شامل دي لکه <strong>ماشین زده کړه</strong>د وړاندوینې تحلیل یا حتی د طبیعي ژبې پروسس کول د نمونو ، رجحاناتو موندلو او بصیرت ترلاسه کولو لپاره.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D9%BE%D9%87_%D9%86%D9%86%D9%86%DB%8D_%D9%86%DA%93%DB%8D_%DA%A9%DB%90_%D8%AF_%D9%84%D9%88%DB%8C%D9%88_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D8%A7%D8%BA%DB%8C%D8%B2%D9%87"></span>په نننۍ نړۍ کې د لویو معلوماتو اغیزه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>لوی معلومات په مختلفو برخو لکه بازارموندنه، روغتیا، مالیه، یا چاپیریال کې د پام وړ اغیزه لري. د ډیری ډیټا تحلیل کولو وړتیا سوداګرۍ ته اجازه ورکوي چې خپل پیرودونکي ښه پوه کړي ، د دوی عملیات غوره کړي او خپل محصولات او خدمات نوي کړي.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%84%D9%88%DB%8C_%DA%89%DB%8C%D9%BC%D8%A7_%D9%86%D9%86%DA%AB%D9%88%D9%86%DB%90"></span>د لوی ډیټا ننګونې<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د دې ګټو سره سره، لوی ډیټا هم ننګونې وړاندې کوي، په ځانګړې توګه د شرایطو سره <strong>امنیت</strong> او د <strong>د شخصي ژوند ساتنه</strong>. د مقرراتو او انفرادي حقونو درناوی په وخت کې د معلوماتو د خپریدو اداره کول اسانه کار ندی. سربیره پردې، د متخصصینو لپاره دوامداره اړتیا شتون لري چې کولی شي دا ډاټا په مؤثره توګه اداره او تحلیل کړي.</p>
+
+
+
+<p>د لوی ډیټا نړۍ پراخه او په دوامداره توګه وده کوي. د ټیکنالوژیو او تحلیلي میتودونو پرمختګ سره ، د دې ډیری ډیټا څخه د ګټې اخیستنې وړتیا به یوازې وده وکړي. هغه سازمانونه چې د لوی ډیټا احتمالي ګټه پورته کوي د پام وړ رقابتي ګټه به ولري، په داسې دور کې پیل کوي چیرې چې ډاټا د هر وخت څخه ډیر ارزښت لري.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A_%D9%85%D9%81%DA%A9%D9%88%D8%B1%DB%90_%D8%A7%D9%88_%DA%A9%D9%84%DB%8C%D8%AF%D9%8A_%D9%85%D9%81%DA%A9%D9%88%D8%B1%DB%90"></span>اساسي مفکورې او کلیدي مفکورې<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data.png" alt="" class="wp-image-1262" srcset="/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data.png 1792w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-300x171.png 300w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-1024x585.png 1024w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-150x86.png 150w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-768x439.png 768w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>       نن ورځ موږ یو لړ ټیکنالوژي او وسایل لرو چې د لوی ډیټا پروسس کولو توان ورکوي، یا &#8220;لوی ډاټا&#8221;. د دې ټیکنالوژیو پوهیدل د هر هغه چا لپاره بنسټیز دي چې غواړي د لوی ډیټا سیټونو سره کار وکړي یا د ډیجیټل بدلون پروژو کې دخیل وي.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D8%B0%D8%AE%DB%8C%D8%B1%D9%87_%DA%A9%D9%88%D9%84%D9%88_%D8%B2%DB%8C%D8%B1%D8%A8%D9%86%D8%A7"></span>د ذخیره کولو زیربنا<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>            د هرې لوی ډیټا پروسس کولو ستراتیژۍ اساس دی <strong>زیربنا زیربنا</strong> قوي او د توزیع وړ. دلته په بازار کې ځینې اختیارونه شتون لري:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>د هډوپ توزیع شوي فایل سیسټم (HDFS)</strong> : یو ویشل شوی فایل سیسټم چې د ډیرو معلوماتو ذخیره کولو ته اجازه ورکوي.</li>
+
+
+
+<li><strong>ایمیزون S3</strong> : د شیانو ذخیره کولو خدمت لخوا وړاندیز شوی <strong>د ایمیزون ویب خدمتونه</strong>.</li>
+
+
+
+<li><strong>د ګوګل کلاوډ ذخیره</strong> : د توزیع وړ او دوامدار ذخیره کولو حل لخوا وړاندیز شوی <strong>ګوګل کلاوډ</strong>.</li>
+
+
+
+<li><strong>د مایکروسافټ Azure بلاب ذخیره</strong> : د کلاوډ اعتراض ذخیره کولو خدمت لخوا وړاندیز شوی <strong>د مایکروسافټ Azure</strong>.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D9%88%DB%8C%D8%B4%D9%84_%D8%B4%D9%88%D9%8A_%DA%89%DB%8C%D9%BC%D8%A7%D8%A8%DB%8C%D8%B3_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D8%B3%DB%8C%D8%B3%D9%BC%D9%85%D9%88%D9%86%D9%87"></span>ویشل شوي ډیټابیس مدیریت سیسټمونه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>            د ډیټا لوی مقدار اداره کولو لپاره ، دودیز ډیټابیس مدیریت سیسټمونه کافي ندي. لاندې ویشل شوي ډیټابیسونه د لویو معلوماتو پروسس او تحلیل وړوي:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>اپاچی کیسیندرا</strong> : په ډیری سرورونو کې توزیع شوي لوی مقدار ډیټا اداره کولو لپاره ډیزاین شوی.</li>
+
+
+
+<li><strong>MongoDB</strong> : NoSQL ډیټابیس د ډیټا لوی مقدار ته اجازه ورکوي چې په انعطاف سره اداره شي.</li>
+
+
+
+<li><strong>کوچبیس</strong> : د ډیټا لوی مقدار سره د متقابل غوښتنلیکونو لپاره لوړ فعالیت وړاندیز کوي.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D9%BE%D8%B1%D9%88%D8%B3%D8%B3_%DA%A9%D9%88%D9%84%D9%88_%DA%86%D9%88%DA%A9%D8%A7%D9%BC%D9%88%D9%86%D9%87"></span>د معلوماتو پروسس کولو چوکاټونه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>            یوځل چې زیرمه شي ، لوی معلومات ځانګړي وسیلو ته اړتیا لري ترڅو په مؤثره توګه پروسس او تحلیل شي. لاندې چوکاټونه په دې ایکوسیستم کې اړین دي:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>اپاچی هډوپ</strong> : یو چاپیریال چې د سرور کلسترونو کې د لوی ډیټا ویشلو پروسس کولو ته اجازه ورکوي.</li>
+
+
+
+<li><strong>اپاچی سپارک</strong> : د لوی ډیټا لپاره د ګړندي ډیټا پروسس کولو انجن چې د ډیری پروګرامینګ ژبو ملاتړ کوي.</li>
+
+
+
+<li><strong>اپاچی فلنک</strong> : چوکاټ په ریښتیني وخت او د معلوماتو جریان دوامداره پروسس باندې تمرکز کوي.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D8%AA%D8%AD%D9%84%DB%8C%D9%84%D9%8A_%D9%88%D8%B3%DB%8C%D9%84%DB%90"></span>د معلوماتو تحلیلي وسیلې<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>            دا د معلوماتو ذخیره کولو او پروسس کولو لپاره کافي ندي؛ دا هم مهمه ده چې د ګټورو معلوماتو د استخراج لپاره د دوی تحلیل کولو وړتیا ولرئ. دلته د ډیټا تحلیل ځینې وسیلې دي چې دا کار اسانه کوي:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Apache Hive</strong> : هغه وسیله چې په هډوپ کې د معلوماتو پوښتنې او مدیریت ته اجازه ورکوي، SQL ته نږدې ژبه کاروي.</li>
+
+
+
+<li><strong>نقاشي</strong> : سافټویر چې کاروونکو سره مرسته کوي د ډیټا لیدونو او متقابل ډشبورډونو رامینځته کولو کې.</li>
+
+
+
+<li><strong>پاور BI</strong> د <strong>مایکروسافټ</strong>: د معلوماتو تحلیل او شریکولو لپاره د سوداګرۍ استخباراتي وسیله.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%DA%A9%D9%84%D8%A7%D9%88%DA%89_%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%BC%D8%B1%D9%8A_%D8%A7%D9%88_%D9%84%D9%88%DB%8C_%DA%89%DB%8C%D9%BC%D8%A7_%D8%AE%D8%AF%D9%85%D8%AA%D9%88%D9%86%D9%87"></span>د کلاوډ کمپیوټري او لوی ډیټا خدمتونه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>            د <strong>کلاوډ کمپیوټري</strong> د سوداګرۍ لوی ډیټا پروسس کولو ته د رسیدو لاره کې انقلاب رامینځته کړی. ډیری خدمتونه د عملیاتو اتومات کولو او ساده کولو لپاره شتون لري:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ګوګل BigQuery</strong> : بې سروره تصدۍ ډیټا ګودام په پیمانه د ډیټا تحلیل لپاره ډیزاین شوی.</li>
+
+
+
+<li><strong>د AWS لوی ډیټا خدمتونه</strong> : د ایمیزون لخوا وړاندیز شوي مختلف خدمتونه د لوی ډیټا پروسس کولو لپاره ، لکه لچکدار نقشه ریډوس (EMR).</li>
+
+
+
+<li><strong>Azure HDInsight</strong> : د مایکروسافټ لخوا وړاندیز شوی خدمت چې په کلاوډ کې د هډوپ حلونه وړاندې کوي.</li>
+</ul>
+
+
+
+<p>            د دې ټیکنالوژیو او وسیلو ماسټر کول یوه پیچلې پروسه ده ، د لوی ډیټا او جوړښتونو ژورې پوهاوي ته اړتیا لري چې د دې لوی مقدار معلوماتو ملاتړ کوي. په هرصورت، په ساحه کې د مسلکي کسانو لپاره یا د هغو کسانو لپاره چې د یو کیدو هیله لري، د دې وسیلو په لړۍ کې ماهر کول اړین دي ترڅو د خام ډیټا ټیرابایټ ارزښتناکه بصیرت بدل کړي.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2.png" alt="" class="wp-image-1264" srcset="/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2.png 1792w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-300x171.png 300w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-1024x585.png 1024w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-150x86.png 150w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-768x439.png 768w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>    </p>
+
+
+
+<p>په لنډه توګه، د <strong>لوی معلومات</strong> د معلوماتو د پراخو حجمونو پروسس او تحلیل لپاره د پخوا نه د تصور وړ امکانات چمتو کولو سره د سوداګرۍ او ټولنې منظره بدلوي. په هرصورت، دا خورا مهم دي چې د اخالقي ارزښتونو او د افرادو محرمیت ساتلو په وخت کې د دې وړتیا څخه د ګټې اخیستنې لپاره په احتیاط سره حرکت وکړئ.</p>
+
+
+
+<p>درک کړئ <strong>ایپس</strong> او <strong>ننګونې</strong> د <strong>لوی معلومات</strong> د هر هغه سازمان لپاره چې غواړي پدې دوامداره پرمختللې ډیجیټل نړۍ کې رقابتي او اخلاقي پاتې شي یو اړین چلند دی.</p>
+
+

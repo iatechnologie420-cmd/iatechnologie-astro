@@ -1,0 +1,340 @@
+---
+title: "ಆಟೋಎನ್‌ಕೋಡರ್ ಎಂದರೇನು? ಅಂತಿಮ ಮಾರ್ಗದರ್ಶಿ!"
+slug: "article-125"
+excerpt: "ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು, ಅಥವಾ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ, ಯಂತ್ರ ಕಲಿಕೆ ಮತ್ತು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ತಮ್ಮನ್ನು ತಾವು ಪ್ರಬಲ ಸಾಧನಗಳಾಗಿ ಇರಿಸಿಕೊಳ್ಳಿ. ಈ ವಿಶೇಷ ನರಗಳ ಜಾಲಗಳನ್ನು ಆಯಾಮ ಕಡಿತ, ಅಸಂಗತತೆ ಪತ್ತೆ, ಡೇಟಾ ಡಿನಾಯ್ಸಿಂಗ್ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳಿಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಈ ಲೇಖನವು ಈ ಆಕರ್ಷಕ ತಂತ್ರಜ್ಞಾನದ ಪರಿಚಯವನ್ನು ಒದಗಿಸುತ್ತದೆ, ಅದರ ಕೆಲಸದ ತತ್ವ, ಅದರ ಅನ್ವಯಗಳು ಮತ್ತು ಸಂಶೋಧನೆ ಮತ್ತು ಉದ್ಯಮದಲ್ಲಿ ಅದರ ಬೆಳೆಯುತ್ತಿರುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಆಟೋಎನ್‌ಕೋಡರ್ ಎಂದರೇನು? ಎ ಆಟೋಎನ್ಕೋಡರ್ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡದ [&hellip;]"
+date: "2024-03-09T12:06:17"
+categories: ["%e0%b2%95%e0%b2%82%e0%b2%aa%e0%b3%8d%e0%b2%af%e0%b3%82%e0%b2%9f%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b3%87%e0%b2%9f%e0%b2%be-kn", "%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d"]
+---
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Tracking Corn &amp; Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು, ಅಥವಾ <em>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು</em> ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ, ಯಂತ್ರ ಕಲಿಕೆ ಮತ್ತು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ತಮ್ಮನ್ನು ತಾವು ಪ್ರಬಲ ಸಾಧನಗಳಾಗಿ ಇರಿಸಿಕೊಳ್ಳಿ. ಈ ವಿಶೇಷ ನರಗಳ ಜಾಲಗಳನ್ನು ಆಯಾಮ ಕಡಿತ, ಅಸಂಗತತೆ ಪತ್ತೆ, ಡೇಟಾ ಡಿನಾಯ್ಸಿಂಗ್ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳಿಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಈ ಲೇಖನವು ಈ ಆಕರ್ಷಕ ತಂತ್ರಜ್ಞಾನದ ಪರಿಚಯವನ್ನು ಒದಗಿಸುತ್ತದೆ, ಅದರ ಕೆಲಸದ ತತ್ವ, ಅದರ ಅನ್ವಯಗಳು ಮತ್ತು ಸಂಶೋಧನೆ ಮತ್ತು ಉದ್ಯಮದಲ್ಲಿ ಅದರ ಬೆಳೆಯುತ್ತಿರುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.</p>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%8E%E0%B2%82%E0%B2%A6%E0%B2%B0%E0%B3%87%E0%B2%A8%E0%B3%81" >ಆಟೋಎನ್‌ಕೋಡರ್ ಎಂದರೇನು?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81_%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86_%E0%B2%95%E0%B3%86%E0%B2%B2%E0%B2%B8_%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B3%81%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%B5%E0%B3%86" >ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ?</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%95_%E0%B2%85%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81" >ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಪ್ರಾಯೋಗಿಕ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%85%E0%B2%A1%E0%B2%9A%E0%B2%A3%E0%B3%86_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%A1%E0%B2%BF%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D" >ಆಟೋಎನ್‌ಕೋಡರ್: ಎನ್‌ಕೋಡಿಂಗ್, ಅಡಚಣೆ ಮತ್ತು ಡಿಕೋಡಿಂಗ್</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D" >ಕೋಡಿಂಗ್</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%85%E0%B2%A1%E0%B2%9A%E0%B2%A3%E0%B3%86" >ಅಡಚಣೆ</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%A1%E0%B2%BF%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D" >ಡಿಕೋಡಿಂಗ್</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-8" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%95_%E0%B2%85%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%B5%E0%B3%8D%E0%B2%AF%E0%B2%A4%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%B8%E0%B2%97%E0%B2%B3%E0%B3%81" >ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಪ್ರಾಯೋಗಿಕ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ವ್ಯತ್ಯಾಸಗಳು</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%95_%E0%B2%85%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81-2" >ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಪ್ರಾಯೋಗಿಕ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%AF%E0%B2%BE%E0%B2%AE%E0%B2%A6_%E0%B2%95%E0%B2%A1%E0%B2%BF%E0%B2%A4" >ಆಯಾಮದ ಕಡಿತ</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%B6%E0%B2%AC%E0%B3%8D%E0%B2%A6_%E0%B2%B0%E0%B2%A6%E0%B3%8D%E0%B2%A6%E0%B2%A4%E0%B2%BF_%E0%B2%A1%E0%B2%BF%E0%B2%A8%E0%B2%BE%E0%B2%AF%E0%B3%8D%E0%B2%B8%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D" >ಶಬ್ದ ರದ್ದತಿ (ಡಿನಾಯ್ಸಿಂಗ್)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE_%E0%B2%95%E0%B2%82%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B3%86%E0%B2%B7%E0%B2%A8%E0%B3%8D" >ಡೇಟಾ ಕಂಪ್ರೆಷನ್</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE_%E0%B2%89%E0%B2%A4%E0%B3%8D%E0%B2%AA%E0%B2%BE%E0%B2%A6%E0%B2%A8%E0%B3%86_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%86%E0%B2%B0%E0%B3%8B%E0%B2%AA" >ಡೇಟಾ ಉತ್ಪಾದನೆ ಮತ್ತು ಆರೋಪ</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%B0%E0%B3%82%E0%B2%AA%E0%B2%BE%E0%B2%82%E0%B2%A4%E0%B2%B0%E0%B2%97%E0%B2%B3%E0%B3%81" >ಆಟೋಎನ್‌ಕೋಡರ್ ರೂಪಾಂತರಗಳು</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-15" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%B5%E0%B2%BF%E0%B2%AD%E0%B2%BF%E0%B2%A8%E0%B3%8D%E0%B2%A8_%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81_VAE" >ವಿಭಿನ್ನ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು (VAE)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-16" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%B5%E0%B2%BF%E0%B2%B0%E0%B2%B3_%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81" >ವಿರಳ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-17" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%A1%E0%B2%BF%E0%B2%A8%E0%B2%BE%E0%B2%AF%E0%B3%8D%E0%B2%B8%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81" >ಡಿನಾಯ್ಸಿಂಗ್ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-18" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%85%E0%B2%A8%E0%B3%81%E0%B2%95%E0%B3%8D%E0%B2%B0%E0%B2%AE_%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81" >ಅನುಕ್ರಮ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-19" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B3%8D_%E0%B2%89%E0%B2%A6%E0%B2%BE%E0%B2%B9%E0%B2%B0%E0%B2%A3%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B2%BF%E0%B2%97%E0%B3%86_%E0%B2%A4%E0%B2%B0%E0%B2%AC%E0%B3%87%E0%B2%A4%E0%B2%BF_%E0%B2%A8%E0%B3%80%E0%B2%A1%E0%B3%81%E0%B2%B5%E0%B3%81%E0%B2%A6%E0%B3%81_%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86" >ಆಟೋಎನ್‌ಕೋಡರ್ ಮತ್ತು ಕೋಡ್ ಉದಾಹರಣೆಗಳಿಗೆ ತರಬೇತಿ ನೀಡುವುದು ಹೇಗೆ</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-20" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%A4%E0%B2%B0%E0%B2%AC%E0%B3%87%E0%B2%A4%E0%B2%BF_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%95%E0%B3%8D%E0%B2%B0%E0%B2%BF%E0%B2%AF%E0%B3%86" >ಆಟೋಎನ್‌ಕೋಡರ್ ತರಬೇತಿ ಪ್ರಕ್ರಿಯೆ</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-21" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%95%E0%B3%86%E0%B2%B0%E0%B2%BE%E0%B2%B8%E0%B3%8D%E2%80%8C%E0%B2%A8%E0%B3%8A%E0%B2%82%E0%B2%A6%E0%B2%BF%E0%B2%97%E0%B3%86_%E0%B2%89%E0%B2%A6%E0%B2%BE%E0%B2%B9%E0%B2%B0%E0%B2%A3%E0%B3%86_%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B3%8D" >ಕೆರಾಸ್‌ನೊಂದಿಗೆ ಉದಾಹರಣೆ ಕೋಡ್</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-22" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%89%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%AE_%E0%B2%B5%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%AF%E0%B2%BE%E0%B2%AE%E0%B2%95%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%97%E0%B2%BF_%E0%B2%B8%E0%B2%B2%E0%B2%B9%E0%B3%86" >ಉತ್ತಮ ವ್ಯಾಯಾಮಕ್ಕಾಗಿ ಸಲಹೆ</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-23" href="/kn/%e0%b2%86%e0%b2%9f%e0%b3%8b%e0%b2%8e%e0%b2%a8%e0%b3%8d%e0%b2%95%e0%b3%8b%e0%b2%a1%e0%b2%b0%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%82/#%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3_%E0%B2%85%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81" >ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%8E%E0%B2%82%E0%B2%A6%E0%B2%B0%E0%B3%87%E0%B2%A8%E0%B3%81"></span>ಆಟೋಎನ್‌ಕೋಡರ್ ಎಂದರೇನು?<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>ಎ <strong>ಆಟೋಎನ್ಕೋಡರ್</strong> ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡದ ಕಲಿಕೆಗಾಗಿ ಬಳಸಲಾಗುವ ಕೃತಕ ನರಮಂಡಲದ ಒಂದು ವಿಧವಾಗಿದೆ. ಆಟೋಎನ್‌ಕೋಡರ್‌ನ ಮುಖ್ಯ ಗುರಿಯು ಇನ್‌ಪುಟ್ ಡೇಟಾದ ಒಂದು ಕಾಂಪ್ಯಾಕ್ಟ್ ಪ್ರಾತಿನಿಧ್ಯವನ್ನು (ಎನ್‌ಕೋಡಿಂಗ್) ಉತ್ಪಾದಿಸುವುದು ಮತ್ತು ನಂತರ ಈ ಪ್ರಾತಿನಿಧ್ಯದಿಂದ ಡೇಟಾವನ್ನು ಮರುನಿರ್ಮಾಣ ಮಾಡುವುದು. ಆಗಾಗ್ಗೆ ಆಯಾಮದ ಕಡಿತಕ್ಕಾಗಿ ಡೇಟಾದ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ಸೆರೆಹಿಡಿಯುವುದು ಕಲ್ಪನೆ. ಆಟೋಎನ್‌ಕೋಡರ್‌ನ ರಚನೆಯು ಸಾಮಾನ್ಯವಾಗಿ ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳಿಂದ ಕೂಡಿದೆ:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ಎನ್ಕೋಡರ್</strong> (<em>ಎನ್ಕೋಡ್ ಮಾಡಿ</em>): ನೆಟ್‌ವರ್ಕ್‌ನ ಈ ಮೊದಲ ಭಾಗವು ಇನ್‌ಪುಟ್ ಡೇಟಾವನ್ನು ಕಡಿಮೆ ರೂಪದಲ್ಲಿ ಸಂಕುಚಿತಗೊಳಿಸಲು ಕಾರಣವಾಗಿದೆ.</li>
+
+
+
+<li><strong>ಡಿಕೋಡರ್</strong> (<em>ಡಿಕೋಡ್ ಮಾಡಿ</em>): ಎರಡನೇ ಭಾಗವು ಸಂಕುಚಿತ ಎನ್‌ಕೋಡಿಂಗ್ ಅನ್ನು ಪಡೆಯುತ್ತದೆ ಮತ್ತು ಮೂಲ ಡೇಟಾವನ್ನು ಮರುನಿರ್ಮಾಣ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81_%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86_%E0%B2%95%E0%B3%86%E0%B2%B2%E0%B2%B8_%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B3%81%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%B5%E0%B3%86"></span>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ?<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಹಲವಾರು ಹಂತಗಳಲ್ಲಿ ವಿವರಿಸಬಹುದು:</p>
+
+
+
+<ol class="wp-block-list">
+<li>ನೆಟ್ವರ್ಕ್ ಡೇಟಾವನ್ನು ಇನ್ಪುಟ್ ಆಗಿ ಸ್ವೀಕರಿಸುತ್ತದೆ.</li>
+
+
+
+<li>ಎನ್‌ಕೋಡರ್ ಡೇಟಾವನ್ನು ವೈಶಿಷ್ಟ್ಯದ ವೆಕ್ಟರ್‌ಗೆ ಸಂಕುಚಿತಗೊಳಿಸುತ್ತದೆ, ಇದನ್ನು ಕೋಡ್ ಅಥವಾ ಸುಪ್ತ ಸ್ಥಳ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.</li>
+
+
+
+<li>ಡಿಕೋಡರ್ ಈ ವೆಕ್ಟರ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಆರಂಭಿಕ ಡೇಟಾವನ್ನು ಮರುನಿರ್ಮಾಣ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ.</li>
+
+
+
+<li>ಪುನರ್ನಿರ್ಮಾಣದ ಗುಣಮಟ್ಟವನ್ನು ನಷ್ಟದ ಕಾರ್ಯವನ್ನು ಬಳಸಿಕೊಂಡು ಅಳೆಯಲಾಗುತ್ತದೆ, ಇದು ಮೂಲ ಒಳಹರಿವು ಮತ್ತು ಪುನರ್ನಿರ್ಮಾಣದ ಉತ್ಪನ್ನಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡುತ್ತದೆ.</li>
+
+
+
+<li>ಈ ನಷ್ಟದ ಕಾರ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನೆಟ್‌ವರ್ಕ್ ತನ್ನ ತೂಕವನ್ನು ಬ್ಯಾಕ್‌ಪ್ರೊಪಗೇಶನ್ ಅಲ್ಗಾರಿದಮ್‌ಗಳ ಮೂಲಕ ಸರಿಹೊಂದಿಸುತ್ತದೆ.</li>
+</ol>
+
+
+
+<p>ಈ ಪುನರಾವರ್ತನೆಯ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ, ಮರುನಿರ್ಮಾಣ ಪ್ರಕ್ರಿಯೆಯ ಸಮಯದಲ್ಲಿ ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಸಂರಕ್ಷಿಸಲು ಒತ್ತು ನೀಡುವುದರೊಂದಿಗೆ, ಆಟೊಎನ್‌ಕೋಡರ್ ಡೇಟಾದ ಸಮರ್ಥ ಪ್ರಾತಿನಿಧ್ಯವನ್ನು ಕಲಿಯುತ್ತದೆ.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%95_%E0%B2%85%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಪ್ರಾಯೋಗಿಕ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ಬಹುಮುಖವಾಗಿವೆ ಮತ್ತು ಹಲವಾರು ಪ್ರದೇಶಗಳಲ್ಲಿ ಅನ್ವಯಿಸಬಹುದು:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ಆಯಾಮದ ಕಡಿತ</strong>: PCA (ಪ್ರಿನ್ಸಿಪಲ್ ಕಾಂಪೊನೆಂಟ್ ಅನಾಲಿಸಿಸ್) ನಂತೆ, ಆದರೆ ರೇಖಾತ್ಮಕವಲ್ಲದ ಸಾಮರ್ಥ್ಯದೊಂದಿಗೆ.</li>
+
+
+
+<li><strong>ಡಿನೋಯಿಸಿಂಗ್</strong>: ಡೇಟಾದಲ್ಲಿನ &#8220;ಶಬ್ದ&#8221; ವನ್ನು ನಿರ್ಲಕ್ಷಿಸಲು ಅವರು ಕಲಿಯಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.</li>
+
+
+
+<li><strong>ಡೇಟಾ ಕಂಪ್ರೆಷನ್</strong>: ಸಾಂಪ್ರದಾಯಿಕ ಸಂಕೋಚನ ವಿಧಾನಗಳಿಗಿಂತ ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾದ ಎನ್‌ಕೋಡಿಂಗ್‌ಗಳನ್ನು ಅವರು ಕಲಿಯಬಹುದು.</li>
+
+
+
+<li><strong>ಡೇಟಾ ಉತ್ಪಾದನೆ</strong>: ಸುಪ್ತ ಜಾಗವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡುವ ಮೂಲಕ, ಮೂಲ ನಮೂದುಗಳನ್ನು ಹೋಲುವ ಹೊಸ ಡೇಟಾ ನಿದರ್ಶನಗಳನ್ನು ರಚಿಸಲು ಅವರು ಅನುಮತಿಸುತ್ತಾರೆ.</li>
+
+
+
+<li><strong>ಅಸಂಗತತೆ ಪತ್ತೆ</strong>: ಕಲಿತ ವಿತರಣೆಗೆ ಹೊಂದಿಕೆಯಾಗದ ಡೇಟಾವನ್ನು ಗುರುತಿಸಲು ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ಸಹಾಯ ಮಾಡಬಹುದು.</li>
+</ul>
+
+
+
+<p>ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳುವುದಾದರೆ, ಡೇಟಾದ ಅರ್ಥಪೂರ್ಣ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅನ್ವೇಷಿಸಲು ಮತ್ತು ವ್ಯಾಖ್ಯಾನಿಸಲು ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಸಾಮರ್ಥ್ಯವು ಅವುಗಳನ್ನು ಯಾವುದೇ AI ವೈದ್ಯರ ಟೂಲ್‌ಕಿಟ್‌ನಲ್ಲಿ ಹೊಂದಿರಬೇಕಾದ ಸಾಧನವನ್ನಾಗಿ ಮಾಡುತ್ತದೆ.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%85%E0%B2%A1%E0%B2%9A%E0%B2%A3%E0%B3%86_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%A1%E0%B2%BF%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D"></span>ಆಟೋಎನ್‌ಕೋಡರ್: ಎನ್‌ಕೋಡಿಂಗ್, ಅಡಚಣೆ ಮತ್ತು ಡಿಕೋಡಿಂಗ್<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet.png" alt="" class="wp-image-1191" srcset="/images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet.png 1792w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-300x171.png 300w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1024x585.png 1024w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-150x86.png 150w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-768x439.png 768w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D"></span>ಕೋಡಿಂಗ್<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>ಎನ್‌ಕೋಡಿಂಗ್ ಅಥವಾ ಎನ್‌ಕೋಡಿಂಗ್ ಹಂತವು ಇನ್‌ಪುಟ್ ಡೇಟಾವನ್ನು ಸಂಕುಚಿತ ಪ್ರಾತಿನಿಧ್ಯವಾಗಿ ಪರಿವರ್ತಿಸುವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಆರಂಭಿಕ ಡೇಟಾ, ದೊಡ್ಡದಾಗಿರಬಹುದು, ಆಟೋಎನ್‌ಕೋಡರ್ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ನೀಡಲಾಗುತ್ತದೆ. ನೆಟ್‌ವರ್ಕ್‌ನ ಲೇಯರ್‌ಗಳು ಡೇಟಾದ ಆಯಾಮವನ್ನು ಕ್ರಮೇಣ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ, ಅಗತ್ಯ ಮಾಹಿತಿಯನ್ನು ಸಣ್ಣ ಪ್ರಾತಿನಿಧ್ಯ ಜಾಗಕ್ಕೆ ಸಂಕುಚಿತಗೊಳಿಸುತ್ತದೆ. ನೆಟ್‌ವರ್ಕ್‌ನ ಪ್ರತಿಯೊಂದು ಪದರವು ರೇಖಾತ್ಮಕವಲ್ಲದ ರೂಪಾಂತರಗಳನ್ನು ಅನ್ವಯಿಸುವ ನ್ಯೂರಾನ್‌ಗಳಿಂದ ಕೂಡಿದೆ, ಉದಾಹರಣೆಗೆ, ReLU ಅಥವಾ Sigmoid ನಂತಹ ಸಕ್ರಿಯಗೊಳಿಸುವ ಕಾರ್ಯಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಅಗತ್ಯ ಮಾಹಿತಿಯನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವ ಡೇಟಾದ ಹೊಸ ಪ್ರಾತಿನಿಧ್ಯವನ್ನು ತಲುಪಲು.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%85%E0%B2%A1%E0%B2%9A%E0%B2%A3%E0%B3%86"></span>ಅಡಚಣೆ<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಅಡಚಣೆಯು ಆಟೋಎನ್‌ಕೋಡರ್‌ನ ಕೇಂದ್ರ ಭಾಗವಾಗಿದೆ, ಅಲ್ಲಿ ಡೇಟಾ ಪ್ರಾತಿನಿಧ್ಯವು ಅದರ ಕಡಿಮೆ ಆಯಾಮವನ್ನು ತಲುಪುತ್ತದೆ, ಇದನ್ನು ಕೋಡ್ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಈ ಸಂಕುಚಿತ ಪ್ರಾತಿನಿಧ್ಯವು ಇನ್‌ಪುಟ್ ಡೇಟಾದ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಉಳಿಸಿಕೊಂಡಿದೆ. ಅಡಚಣೆಯು ಫಿಲ್ಟರ್ ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಇದು ಮಾಹಿತಿಯನ್ನು ಸಾಂದ್ರೀಕರಿಸಲು ಪರಿಣಾಮಕಾರಿ ಮಾರ್ಗವನ್ನು ಕಲಿಯಲು ಸ್ವಯಂಕೋಡರ್ ಅನ್ನು ಒತ್ತಾಯಿಸುತ್ತದೆ. ಇದನ್ನು ದತ್ತಾಂಶ ಸಂಕೋಚನದ ಒಂದು ರೂಪಕ್ಕೆ ಹೋಲಿಸಬಹುದು, ಆದರೆ ಪ್ರಮಾಣಿತ ಅಲ್ಗಾರಿದಮ್‌ಗಳಿಂದ ವ್ಯಾಖ್ಯಾನಿಸುವುದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿ ಡೇಟಾದಿಂದ ಸಂಕೋಚನವನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕಲಿಯಲಾಗುತ್ತದೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%A1%E0%B2%BF%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D"></span>ಡಿಕೋಡಿಂಗ್<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಡಿಕೋಡಿಂಗ್ ಹಂತವು ಕೋಡಿಂಗ್‌ಗೆ ಸಮ್ಮಿತೀಯ ಹಂತವಾಗಿದೆ, ಅಲ್ಲಿ ಸಂಕುಚಿತ ಪ್ರಾತಿನಿಧ್ಯವನ್ನು ಔಟ್‌ಪುಟ್‌ಗೆ ಮರುನಿರ್ಮಾಣ ಮಾಡಲಾಗುತ್ತದೆ, ಇದು ಮೂಲ ಇನ್‌ಪುಟ್‌ಗೆ ಸಾಧ್ಯವಾದಷ್ಟು ನಿಷ್ಠಾವಂತವಾಗಿರಲು ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ಅಡಚಣೆಯ ಪ್ರಾತಿನಿಧ್ಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ, ನರಮಂಡಲವು ಕ್ರಮೇಣ ಡೇಟಾದ ಆಯಾಮವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಇದು ಕೋಡಿಂಗ್ನ ಹಿಮ್ಮುಖ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ: ಸತತ ಪದರಗಳು ಕಡಿಮೆ ಪ್ರಾತಿನಿಧ್ಯದಿಂದ ಆರಂಭಿಕ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಪುನರ್ನಿರ್ಮಿಸುತ್ತವೆ. ಡಿಕೋಡಿಂಗ್ ಪರಿಣಾಮಕಾರಿಯಾಗಿದ್ದರೆ, ಆಟೋಎನ್‌ಕೋಡರ್‌ನ ಔಟ್‌ಪುಟ್ ಮೂಲ ಡೇಟಾದ ಅತ್ಯಂತ ಹತ್ತಿರದ ಅಂದಾಜು ಆಗಿರಬೇಕು.</p>
+
+
+
+<p>ಮೇಲ್ವಿಚಾರಣೆಯಿಲ್ಲದ ಕಲಿಕೆಯಲ್ಲಿ, ಡೇಟಾದ ಆಧಾರವಾಗಿರುವ ರಚನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ವಿಶೇಷವಾಗಿ ಉಪಯುಕ್ತವಾಗಿವೆ. ಈ ನೆಟ್‌ವರ್ಕ್‌ಗಳ ಪರಿಣಾಮಕಾರಿತ್ವವನ್ನು ಇನ್‌ಪುಟ್‌ಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಪುನರುತ್ಪಾದಿಸುವ ಸಾಮರ್ಥ್ಯದ ಮೂಲಕ ಅಳೆಯಲಾಗುವುದಿಲ್ಲ, ಬದಲಿಗೆ ಕೋಡ್‌ನಲ್ಲಿ ಡೇಟಾದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಮತ್ತು ಸಂಬಂಧಿತ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಸೆರೆಹಿಡಿಯುವ ಸಾಮರ್ಥ್ಯದ ಮೂಲಕ. ಈ ಕೋಡ್ ಅನ್ನು ಆಯಾಮ ಕಡಿತ, ದೃಶ್ಯೀಕರಣ, ಅಥವಾ ಹೆಚ್ಚು ಸಂಕೀರ್ಣವಾದ ಆರ್ಕಿಟೆಕ್ಚರ್‌ಗಳಲ್ಲಿ ಇತರ ನರ ನೆಟ್‌ವರ್ಕ್‌ಗಳಿಗೆ ಪೂರ್ವ ಸಂಸ್ಕರಣೆಯಂತಹ ಕಾರ್ಯಗಳಿಗೆ ಬಳಸಬಹುದು.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%95_%E0%B2%85%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%B5%E0%B3%8D%E0%B2%AF%E0%B2%A4%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%B8%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಪ್ರಾಯೋಗಿಕ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ವ್ಯತ್ಯಾಸಗಳು<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1.png" alt="" class="wp-image-1192" srcset="/images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1.png 1792w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1-300x171.png 300w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1-150x86.png 150w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1-768x439.png 768w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>ಎಲ್&#8217;<strong>ಆಟೋಎನ್ಕೋಡರ್</strong>, ಆರ್ಟಿಫಿಶಿಯಲ್ ಇಂಟೆಲಿಜೆನ್ಸ್ (AI) ನಿಂದ ನಡೆಸಲ್ಪಡುವ ಆಳವಾದ ಕಲಿಕೆಯ ಆರ್ಸೆನಲ್‌ನಲ್ಲಿನ ಪ್ರಮುಖ ಅಂಶವಾಗಿದೆ, ಇದು ಡೇಟಾವನ್ನು ಕಡಿಮೆ ಆಯಾಮದ ಪ್ರಾತಿನಿಧ್ಯಕ್ಕೆ ಎನ್‌ಕೋಡ್ ಮಾಡಲು ಮತ್ತು ಸಂಬಂಧಿತ ಪುನರ್ನಿರ್ಮಾಣ ಸಾಧ್ಯವಾಗುವ ರೀತಿಯಲ್ಲಿ ಅದನ್ನು ಕೊಳೆಯಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ನರಮಂಡಲವಾಗಿದೆ. ಅವುಗಳನ್ನು ಪರೀಕ್ಷಿಸೋಣ <strong>ಪ್ರಾಯೋಗಿಕ ಅನ್ವಯಗಳು</strong> ಮತ್ತು ಈ ಆಕರ್ಷಕ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೊರಹೊಮ್ಮಿದ ರೂಪಾಂತರಗಳು.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%95_%E0%B2%85%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81-2"></span>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಪ್ರಾಯೋಗಿಕ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>ಮೇಲ್ವಿಚಾರಣೆಯಿಲ್ಲದೆ ಡೇಟಾದ ಸಮರ್ಥ ಮತ್ತು ಅರ್ಥಪೂರ್ಣ ಪ್ರಾತಿನಿಧ್ಯಗಳನ್ನು ಕಲಿಯುವ ಸಾಮರ್ಥ್ಯದಿಂದಾಗಿ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ಬಹುಸಂಖ್ಯೆಯ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ತಮ್ಮ ದಾರಿಯನ್ನು ಕಂಡುಕೊಂಡಿದ್ದಾರೆ. ಕೆಲವು ಉದಾಹರಣೆಗಳು ಇಲ್ಲಿವೆ:</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%AF%E0%B2%BE%E0%B2%AE%E0%B2%A6_%E0%B2%95%E0%B2%A1%E0%B2%BF%E0%B2%A4"></span>ಆಯಾಮದ ಕಡಿತ<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>PCA (ಪ್ರಿನ್ಸಿಪಲ್ ಕಾಂಪೊನೆಂಟ್ ಅನಾಲಿಸಿಸ್) ನಂತೆ, ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳನ್ನು ಆಗಾಗ್ಗೆ ಬಳಸಲಾಗುತ್ತದೆ <strong>ಆಯಾಮದ ಕಡಿತ</strong>. ಮೂಲ ಡೇಟಾಸೆಟ್‌ನಲ್ಲಿರುವ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ಸಂರಕ್ಷಿಸುವಾಗ ಗಣನೆಗೆ ತೆಗೆದುಕೊಳ್ಳಬೇಕಾದ ವೇರಿಯೇಬಲ್‌ಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಮೂಲಕ ಡೇಟಾ ಸಂಸ್ಕರಣೆಯನ್ನು ಸರಳಗೊಳಿಸಲು ಈ ತಂತ್ರವು ಸಾಧ್ಯವಾಗಿಸುತ್ತದೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B6%E0%B2%AC%E0%B3%8D%E0%B2%A6_%E0%B2%B0%E0%B2%A6%E0%B3%8D%E0%B2%A6%E0%B2%A4%E0%B2%BF_%E0%B2%A1%E0%B2%BF%E0%B2%A8%E0%B2%BE%E0%B2%AF%E0%B3%8D%E0%B2%B8%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D"></span>ಶಬ್ದ ರದ್ದತಿ (ಡಿನಾಯ್ಸಿಂಗ್)<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಭಾಗಶಃ ನಾಶವಾದ ಡೇಟಾದಿಂದ ಇನ್‌ಪುಟ್ ಅನ್ನು ಪುನರ್ನಿರ್ಮಿಸಲು ಕಲಿಯುವ ಅವರ ಸಾಮರ್ಥ್ಯದೊಂದಿಗೆ, ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ವಿಶೇಷವಾಗಿ ಉಪಯುಕ್ತವಾಗಿವೆ <strong>ಶಬ್ದ ರದ್ದತಿ</strong>. ಶಬ್ದದ ಹಸ್ತಕ್ಷೇಪದ ಹೊರತಾಗಿಯೂ ಉಪಯುಕ್ತ ಡೇಟಾವನ್ನು ಗುರುತಿಸಲು ಮತ್ತು ಮರುಸ್ಥಾಪಿಸಲು ಅವರು ನಿರ್ವಹಿಸುತ್ತಾರೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE_%E0%B2%95%E0%B2%82%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B3%86%E0%B2%B7%E0%B2%A8%E0%B3%8D"></span>ಡೇಟಾ ಕಂಪ್ರೆಷನ್<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಡೇಟಾವನ್ನು ಹೆಚ್ಚು ಕಾಂಪ್ಯಾಕ್ಟ್ ರೂಪದಲ್ಲಿ ಎನ್ಕೋಡ್ ಮಾಡಲು ಕಲಿಯುವ ಮೂಲಕ, ಆಟೋಎನ್ಕೋಡರ್ಗಳನ್ನು ಬಳಸಬಹುದು <strong>ಡೇಟಾ ಕಂಪ್ರೆಷನ್</strong>. ಪ್ರಾಯೋಗಿಕವಾಗಿ ಈ ಉದ್ದೇಶಕ್ಕಾಗಿ ಅವುಗಳನ್ನು ಇನ್ನೂ ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗಿಲ್ಲವಾದರೂ, ಅವುಗಳ ಸಾಮರ್ಥ್ಯವು ಗಮನಾರ್ಹವಾಗಿದೆ, ವಿಶೇಷವಾಗಿ ನಿರ್ದಿಷ್ಟ ಡೇಟಾ ಪ್ರಕಾರಗಳನ್ನು ಕುಗ್ಗಿಸಲು.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE_%E0%B2%89%E0%B2%A4%E0%B3%8D%E0%B2%AA%E0%B2%BE%E0%B2%A6%E0%B2%A8%E0%B3%86_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%86%E0%B2%B0%E0%B3%8B%E0%B2%AA"></span>ಡೇಟಾ ಉತ್ಪಾದನೆ ಮತ್ತು ಆರೋಪ<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು ತಮ್ಮ ತರಬೇತಿ ಡೇಟಾವನ್ನು ಹೋಲುವ ಹೊಸ ಡೇಟಾ ನಿದರ್ಶನಗಳನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಈ ಸಾಮರ್ಥ್ಯವನ್ನು ಸಹ ಬಳಸಬಹುದು <strong>ಆರೋಪ</strong>, ಇದು ಡೇಟಾಸೆಟ್‌ನಲ್ಲಿ ಕಾಣೆಯಾದ ಡೇಟಾವನ್ನು ಭರ್ತಿ ಮಾಡುವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%B0%E0%B3%82%E0%B2%AA%E0%B2%BE%E0%B2%82%E0%B2%A4%E0%B2%B0%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಆಟೋಎನ್‌ಕೋಡರ್ ರೂಪಾಂತರಗಳು<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>ಸ್ಟ್ಯಾಂಡರ್ಡ್ ಆಟೋಎನ್‌ಕೋಡರ್‌ನ ಹೊರತಾಗಿ, ಡೇಟಾದ ನಿಶ್ಚಿತಗಳು ಮತ್ತು ಅಗತ್ಯವಿರುವ ಕಾರ್ಯಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳಲು ವಿವಿಧ ರೂಪಾಂತರಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಗಿದೆ. ಇಲ್ಲಿ ಕೆಲವು ಗಮನಾರ್ಹ ವ್ಯತ್ಯಾಸಗಳಿವೆ:</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B5%E0%B2%BF%E0%B2%AD%E0%B2%BF%E0%B2%A8%E0%B3%8D%E0%B2%A8_%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81_VAE"></span>ವಿಭಿನ್ನ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು (VAE)<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ದಿ <strong>ವೈವಿಧ್ಯಮಯ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು</strong> (<strong>VAE</strong>) ದತ್ತಾಂಶವನ್ನು ಉತ್ಪಾದಿಸಲು ಅನುಮತಿಸುವ ಸ್ಟೋಕಾಸ್ಟಿಕ್ ಪದರವನ್ನು ಸೇರಿಸಿ. ಚಿತ್ರಗಳು ಅಥವಾ ಸಂಗೀತದಂತಹ ವಿಷಯದ ಪೀಳಿಗೆಯಲ್ಲಿ VAE ಗಳು ವಿಶೇಷವಾಗಿ ಜನಪ್ರಿಯವಾಗಿವೆ, ಏಕೆಂದರೆ ಅವುಗಳು ಒಂದೇ ಮಾದರಿಯ ಪ್ರಕಾರ ತೋರಿಕೆಯ ಹೊಸ ಮತ್ತು ವಿಭಿನ್ನ ಅಂಶಗಳನ್ನು ಉತ್ಪಾದಿಸಲು ಸಾಧ್ಯವಾಗಿಸುತ್ತದೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B5%E0%B2%BF%E0%B2%B0%E0%B2%B3_%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ವಿರಳ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ದಿ <strong>ವಿರಳ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು</strong> ಗುಪ್ತ ನೋಡ್‌ಗಳಲ್ಲಿ ಸೀಮಿತ ಚಟುವಟಿಕೆಯನ್ನು ವಿಧಿಸುವ ಪೆನಾಲ್ಟಿಯನ್ನು ಸಂಯೋಜಿಸಿ. ಡೇಟಾದ ವಿಶಿಷ್ಟ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವಲ್ಲಿ ಅವು ಪರಿಣಾಮಕಾರಿಯಾಗಿವೆ, ಅದು ಅವುಗಳನ್ನು ಉಪಯುಕ್ತವಾಗಿಸುತ್ತದೆ <strong>ವರ್ಗೀಕರಣ</strong> ಮತ್ತು <strong>ಅಸಂಗತತೆ ಪತ್ತೆ</strong>.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%A1%E0%B2%BF%E0%B2%A8%E0%B2%BE%E0%B2%AF%E0%B3%8D%E0%B2%B8%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಡಿನಾಯ್ಸಿಂಗ್ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ದಿ <strong>ಡಿನಾರ್ಮಲೈಸ್ಡ್ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು</strong> ಇನ್‌ಪುಟ್ ಡೇಟಾದಲ್ಲಿ ಶಬ್ದದ ಪರಿಚಯವನ್ನು ವಿರೋಧಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ದೃಢವಾದ ಪ್ರಾತಿನಿಧ್ಯಗಳನ್ನು ಕಲಿಯಲು ಮತ್ತು ಅದಕ್ಕಾಗಿ ಅವು ಶಕ್ತಿಯುತವಾಗಿವೆ <strong>ಡೇಟಾ ಪೂರ್ವ ಸಂಸ್ಕರಣೆ</strong> ಇತರ ಯಂತ್ರ ಕಲಿಕೆ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಮೊದಲು.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%85%E0%B2%A8%E0%B3%81%E0%B2%95%E0%B3%8D%E0%B2%B0%E0%B2%AE_%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಅನುಕ್ರಮ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ದಿ <strong>ಅನುಕ್ರಮ ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳು</strong> ಪಠ್ಯ ಅಥವಾ ಸಮಯ ಸರಣಿಯಂತಹ ಅನುಕ್ರಮಗಳಲ್ಲಿ ಆಯೋಜಿಸಲಾದ ಪ್ರಕ್ರಿಯೆ ಡೇಟಾ. ಕಾಲಾನಂತರದಲ್ಲಿ ಮಾಹಿತಿಯನ್ನು ಎನ್ಕೋಡ್ ಮಾಡಲು ಮತ್ತು ಡಿಕೋಡ್ ಮಾಡಲು ಅವರು ಸಾಮಾನ್ಯವಾಗಿ LSTM (ಲಾಂಗ್ ಶಾರ್ಟ್-ಟರ್ಮ್ ಮೆಮೊರಿ) ನಂತಹ ಪುನರಾವರ್ತಿತ ನೆಟ್ವರ್ಕ್ಗಳನ್ನು ಬಳಸುತ್ತಾರೆ.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B3%8D_%E0%B2%89%E0%B2%A6%E0%B2%BE%E0%B2%B9%E0%B2%B0%E0%B2%A3%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B2%BF%E0%B2%97%E0%B3%86_%E0%B2%A4%E0%B2%B0%E0%B2%AC%E0%B3%87%E0%B2%A4%E0%B2%BF_%E0%B2%A8%E0%B3%80%E0%B2%A1%E0%B3%81%E0%B2%B5%E0%B3%81%E0%B2%A6%E0%B3%81_%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86"></span>ಆಟೋಎನ್‌ಕೋಡರ್ ಮತ್ತು ಕೋಡ್ ಉದಾಹರಣೆಗಳಿಗೆ ತರಬೇತಿ ನೀಡುವುದು ಹೇಗೆ<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-2.png" alt="" class="wp-image-1193" srcset="/images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-2.png 1792w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-2-300x171.png 300w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-2-150x86.png 150w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-2-768x439.png 768w, /images/blog/Quest-ce-quun-auto-encodeur-Le-guide-complet-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>ನ ತರಬೇತಿ ಎ <strong>ಆಟೋಎನ್ಕೋಡರ್</strong> ಇತರ ಅನ್ವಯಗಳ ನಡುವೆ ಆಯಾಮ ಕಡಿತ ಮತ್ತು ಅಸಂಗತತೆಯನ್ನು ಪತ್ತೆಹಚ್ಚಲು ಯಂತ್ರ ಕಲಿಕೆಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅತ್ಯಗತ್ಯ ಕಾರ್ಯವಾಗಿದೆ. ಪೈಥಾನ್ ಮತ್ತು ಲೈಬ್ರರಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಅಂತಹ ಮಾದರಿಯನ್ನು ಹೇಗೆ ತರಬೇತಿ ಮಾಡುವುದು ಎಂದು ನಾವು ಇಲ್ಲಿ ನೋಡುತ್ತೇವೆ <strong>ಕೆರಾಸ್</strong>, ಕೋಡ್ ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ನೀವು ಪರೀಕ್ಷಿಸಬಹುದು ಮತ್ತು ನಿಮ್ಮ ಯೋಜನೆಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳಬಹುದು.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D_%E0%B2%A4%E0%B2%B0%E0%B2%AC%E0%B3%87%E0%B2%A4%E0%B2%BF_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%95%E0%B3%8D%E0%B2%B0%E0%B2%BF%E0%B2%AF%E0%B3%86"></span>ಆಟೋಎನ್‌ಕೋಡರ್ ತರಬೇತಿ ಪ್ರಕ್ರಿಯೆ<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಆಟೋಎನ್‌ಕೋಡರ್ ಅನ್ನು ತರಬೇತಿ ಮಾಡಲು, ಒಬ್ಬರು ಸಾಮಾನ್ಯವಾಗಿ ನಷ್ಟದ ಮೆಟ್ರಿಕ್ ಅನ್ನು ಬಳಸುತ್ತಾರೆ, ಅಂದರೆ ಸರಾಸರಿ ಸ್ಕ್ವೇರ್ ದೋಷ (MSE), ಇದು ಮೂಲ ಇನ್‌ಪುಟ್ ಮತ್ತು ಅದರ ಪುನರ್ನಿರ್ಮಾಣದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಅಳೆಯುತ್ತದೆ. ಈ ನಷ್ಟದ ಕಾರ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ತರಬೇತಿಯ ಗುರಿಯಾಗಿದೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%95%E0%B3%86%E0%B2%B0%E0%B2%BE%E0%B2%B8%E0%B3%8D%E2%80%8C%E0%B2%A8%E0%B3%8A%E0%B2%82%E0%B2%A6%E0%B2%BF%E0%B2%97%E0%B3%86_%E0%B2%89%E0%B2%A6%E0%B2%BE%E0%B2%B9%E0%B2%B0%E0%B2%A3%E0%B3%86_%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B3%8D"></span>ಕೆರಾಸ್‌ನೊಂದಿಗೆ ಉದಾಹರಣೆ ಕೋಡ್<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಆಟೋಎನ್‌ಕೋಡರ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು ತರಬೇತಿ ನೀಡುವ ಸರಳ ಉದಾಹರಣೆ ಇಲ್ಲಿದೆ <strong>ಕೆರಾಸ್</strong>:</p>
+
+
+
+<pre class="wp-block-code"><code>
+
+keras.layers ನಿಂದ ಇನ್‌ಪುಟ್, ದಟ್ಟವಾದ ಆಮದು
+keras.models ನಿಂದ ಮಾಡೆಲ್ ಅನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳಿ
+
+# ಪ್ರವೇಶ ಗಾತ್ರ
+# ಸುಪ್ತ ಸ್ಥಳದ ಆಯಾಮ (ವೈಶಿಷ್ಟ್ಯ ಪ್ರಾತಿನಿಧ್ಯ)
+ಎನ್ಕೋಡಿಂಗ್_ಡಿಮ್ = 32
+
+# ಎನ್‌ಕೋಡರ್‌ನ ವ್ಯಾಖ್ಯಾನ
+input_img = ಇನ್‌ಪುಟ್(ಆಕಾರ=(input_dim,))
+ಎನ್ಕೋಡೆಡ್ = ದಟ್ಟವಾದ(ಎನ್ಕೋಡಿಂಗ್_ಡಿಮ್, ಆಕ್ಟಿವೇಶನ್='ರೆಲು')(ಇನ್ಪುಟ್_ಐಎಂಜಿ)
+
+# ಡಿಕೋಡರ್ ವ್ಯಾಖ್ಯಾನ
+ಡಿಕೋಡೆಡ್ = ದಟ್ಟವಾದ(ಇನ್‌ಪುಟ್_ಡಿಮ್, ಆಕ್ಟಿವೇಶನ್='ಸಿಗ್ಮೋಯ್ಡ್')(ಎನ್‌ಕೋಡ್)
+
+# ಆಟೋಎನ್‌ಕೋಡರ್ ಮಾದರಿ
+ಆಟೋಎನ್‌ಕೋಡರ್ = ಮಾಡೆಲ್ (ಇನ್‌ಪುಟ್_ಐಎಂಜಿ, ಡಿಕೋಡ್)
+
+# ಮಾದರಿ ಸಂಕಲನ
+autoencoder.compile(ಆಪ್ಟಿಮೈಜರ್='ಆಡಮ್', ನಷ್ಟ='ಬೈನರಿ_ಕ್ರಾಸೆಂಟ್ರೊಪಿ')
+
+# ಆಟೋಎನ್‌ಕೋಡರ್ ತರಬೇತಿ
+autoencoder.fit(X_train,
+                ಯುಗಗಳು=50,
+                batch_size=256,
+                ಷಫಲ್=ನಿಜ,
+                ಮೌಲ್ಯೀಕರಣ_ಡೇಟಾ=(X_test, X_test))
+
+</code></pre>
+
+
+
+<p>ಈ ಉದಾಹರಣೆಯಲ್ಲಿ, `X_train` ಮತ್ತು `X_test` ತರಬೇತಿ ಮತ್ತು ಪರೀಕ್ಷಾ ಡೇಟಾವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಆಟೋಎನ್‌ಕೋಡರ್ ತನ್ನದೇ ಆದ ಇನ್‌ಪುಟ್ `X_train` ಅನ್ನು ಔಟ್‌ಪುಟ್ ಆಗಿ ಊಹಿಸಲು ತರಬೇತಿ ಪಡೆದಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%89%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%AE_%E0%B2%B5%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%AF%E0%B2%BE%E0%B2%AE%E0%B2%95%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%97%E0%B2%BF_%E0%B2%B8%E0%B2%B2%E0%B2%B9%E0%B3%86"></span>ಉತ್ತಮ ವ್ಯಾಯಾಮಕ್ಕಾಗಿ ಸಲಹೆ<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p></p>
+
+
+
+<p>ಮುಂತಾದ ತಂತ್ರಗಳನ್ನು ಬಳಸಿ <strong>ಅಡ್ಡ ಮೌಲ್ಯೀಕರಣ</strong>, ಅಲ್ಲಿ <strong>ಬ್ಯಾಚ್ ಸಾಮಾನ್ಯೀಕರಣ</strong> ಮತ್ತು <strong>ಕಾಲ್ಬ್ಯಾಕ್ಗಳು</strong> ಆಟೋಎನ್‌ಕೋಡರ್ ಡ್ರೈವ್‌ನ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸಲು ಕೆರಾಸ್ ಸಹ ಸಹಾಯ ಮಾಡುತ್ತದೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%8E%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3_%E0%B2%85%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ತರಬೇತಿಯ ನಂತರ, ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳನ್ನು ಇದಕ್ಕಾಗಿ ಬಳಸಬಹುದು:</p>
+
+
+
+<ul class="wp-block-list">
+<li>ಆಯಾಮ ಕಡಿತ,</li>
+
+
+
+<li>ಅಸಂಗತತೆ ಪತ್ತೆ,</li>
+
+
+
+<li>ಇತರ ಯಂತ್ರ ಕಲಿಕೆ ಕಾರ್ಯಗಳಿಗೆ ಉಪಯುಕ್ತವಾದ ವಿವರಣೆಗಳ ಮೇಲ್ವಿಚಾರಣೆಯಿಲ್ಲದ ಕಲಿಕೆ.</li>
+</ul>
+
+
+
+<p>ತೀರ್ಮಾನಕ್ಕೆ, ಆಟೋಎನ್‌ಕೋಡರ್‌ಗೆ ತರಬೇತಿ ನೀಡುವುದು ನರಮಂಡಲದ ಆರ್ಕಿಟೆಕ್ಚರ್‌ಗಳ ತಿಳುವಳಿಕೆ ಮತ್ತು ಉತ್ತಮ-ಶ್ರುತಿ ಹೈಪರ್‌ಪ್ಯಾರಾಮೀಟರ್‌ಗಳಲ್ಲಿ ಅನುಭವದ ಅಗತ್ಯವಿರುವ ಕಾರ್ಯವಾಗಿದೆ. ಆದಾಗ್ಯೂ, ಆಟೋಎನ್‌ಕೋಡರ್‌ಗಳ ಸರಳತೆ ಮತ್ತು ನಮ್ಯತೆಯು ಅವುಗಳನ್ನು ಅನೇಕ ಡೇಟಾ ಸಂಸ್ಕರಣಾ ಸಮಸ್ಯೆಗಳಿಗೆ ಅಮೂಲ್ಯವಾದ ಸಾಧನವನ್ನಾಗಿ ಮಾಡುತ್ತದೆ.</p>
+
+

@@ -1,0 +1,290 @@
+---
+title: "データマイナー: 役割、スキル、トレーニング、給与"
+slug: "article-2-21"
+excerpt: "データマイナーの役割と使命 ザ データマイナー、またはデータ探査者は、データと人工知能の世界で重要な役割を果たします。これは、企業内の意思決定と戦略的管理を促進する重要な影の役割です。その使命とその役割の重要性について詳しく説明します。 データマイナーとは何ですか? ザ データマイナー は、大量のデータ (ビッグデータ) から洞察を抽出する責任を負うデータの専門家です。統計、コンピューター サイエンス、ビジネス分析のスキルを武器に、ビジネスにとって価値のあるパターン、傾向、相関関係を明らかにすることに重点を置いています。そのノウハウにより、生データを戦略的な情報に変換することが可能になります。 データの収集と準備 最初のミッションは、 データマイナー さまざまなソースからデータを収集することで構成されます。これには、企業の内部データベース、Web 上の行動データ、ソーシャル ネットワーク、さらには特殊な外部ソースが含まれる場合があります。次に、その後の分析に使用できるようにするために、このデータをクリーニングして準備する必要があります。つまり、データを標準化し、構造化し、場合によっては匿名化する必要があります。 データマイニング データが準備できたら、 データマイナー データマイニングで問題の核心に迫る、あるいは データマイニング。このステップは、統計的手法、機械学習（機械学習) とデータ視覚化により、大規模なデータセット内のパターンや隠れたモチーフを検出します。この調査は、市場機会、修正すべき誤動作、または理解すべき顧客行動を明らかにする洞察につながります。 モデリングと予測分析 ザ データマイナー また、将来の傾向や行動を予測するためにモデリング技術も採用しています。これには、統計モデルまたはアルゴリズムの作成が含まれます。 機械学習 過去および現在のデータに基づいて、将来の売上、詐欺リスク、有望な市場セグメントの特定など、ビジネスのさまざまな側面について信頼できる予測を立てることができます。 結果の伝達 データの抽出と分析を超えて、 データマイナー には、その結果を明確かつわかりやすい方法で伝えるという使命もあります。これには、レポート、インタラクティブなダッシュボードの作成、さらには意思決定者への結果の提示が含まれます。このステップは非常に重要です。複雑な情報を、専門家でなくても簡単に理解できる戦略的および運用上の決定に変換する必要があります。 技術的および倫理的な監視 プロフェッショナル データマイニング 自分の分野の技術的および方法論的発展を常に最新の状態に保つ必要があります。また、個人データを扱う際には、データ倫理に注意し、プライバシー、セキュリティ基準、および GDPR (一般データ保護規則) などの規制を尊重する必要があります。 ザ データマイナー したがって、社内のデータ活用において主導的な役割を果たします。技術スキル、ビジネス分析、コミュニケーションの融合により、彼は質の高いデータに基づく戦略の開発と情報に基づいた意思決定に積極的に貢献しています。情報を機会に変えることがその使命の中心です。 データマイニングで優れた能力を発揮するための重要なスキル ザ データマイニング、またはデータ マイニングは、大量のデータから有用な知識を抽出するデータ サイエンスの中核分野です。生成されるデータ量が増え続けるにつれ、データ マイニング スキルの需要がますます高まっています。 この分野で優れた能力を発揮したい専門家が習得すべき重要なスキルを以下に示します。 データベースとデータストレージについての理解 データベース管理システムについての十分な理解 (DBMS）は必須です。これには、次のようなリレーショナル データベースの知識が含まれます。 MySQL [&hellip;]"
+date: "2024-03-09T12:08:33"
+featuredImage: "/images/blog/Data-Miner-role-competences-formations-et-salaire-3.png"
+categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf-ja", "%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a8%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-ja"]
+---
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to use Data Miner to gain leads for SMMA Cold Calling" width="500" height="281" src="https://www.youtube.com/embed/FRB2jpRGP9g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%A8%E4%BD%BF%E5%91%BD" >データマイナーの役割と使命</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B" >データマイナーとは何ですか?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%8F%8E%E9%9B%86%E3%81%A8%E6%BA%96%E5%82%99" >データの収集と準備</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0" >データマイニング</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E4%BA%88%E6%B8%AC%E5%88%86%E6%9E%90" >モデリングと予測分析</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BC%9D%E9%81%94" >結果の伝達</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E6%8A%80%E8%A1%93%E7%9A%84%E3%81%8A%E3%82%88%E3%81%B3%E5%80%AB%E7%90%86%E7%9A%84%E3%81%AA%E7%9B%A3%E8%A6%96" >技術的および倫理的な監視</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-8" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A7%E5%84%AA%E3%82%8C%E3%81%9F%E8%83%BD%E5%8A%9B%E3%82%92%E7%99%BA%E6%8F%AE%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E9%87%8D%E8%A6%81%E3%81%AA%E3%82%B9%E3%82%AD%E3%83%AB" >データマイニングで優れた能力を発揮するための重要なスキル</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E7%90%86%E8%A7%A3" >データベースとデータストレージについての理解</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E7%B5%B1%E8%A8%88%E3%81%A8%E6%95%B0%E5%AD%A6%E3%81%AE%E7%9F%A5%E8%AD%98" >統計と数学の知識</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%BF%92%E5%BE%97%E3%81%99%E3%82%8B" >機械学習のアルゴリズムとモデルを習得する</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AD%E3%83%AB" >プログラミングスキル</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E5%87%A6%E7%90%86%E3%81%A8%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E5%B0%82%E9%96%80%E7%9F%A5%E8%AD%98" >データ処理とクリーニングの専門知識</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-14" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E8%A6%96%E8%A6%9A%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98" >データ視覚化ツールに関する知識</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-15" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0" >データマイナーになるためのトレーニング</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-16" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E5%A4%A7%E5%AD%A6%E7%A0%94%E4%BF%AE" >大学研修</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-17" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E5%B7%A5%E5%AD%A6%E9%83%A8" >工学部</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-18" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E5%B0%82%E9%96%80%E7%9A%84%E3%81%AA%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A8%E8%AA%8D%E5%AE%9A%E8%B3%87%E6%A0%BC" >専門的なトレーニングと認定資格</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-19" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%A8MOOC" >オンラインコースとMOOC</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-20" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E5%AE%9F%E5%8B%99%E7%B5%8C%E9%A8%93%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7" >実務経験の重要性</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-21" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%B5%A6%E4%B8%8E%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97" >データマイニングにおける給与とキャリアの見通し</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-22" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9" >データマイニングにおけるキャリアのチャンス</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-23" href="/ja/%e3%83%87%e3%83%bc%e3%82%bf%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc-%e5%bd%b9%e5%89%b2%e3%80%81%e3%82%b9%e3%82%ad%e3%83%ab%e3%80%81%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%80%81%e7%b5%a6/#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%B5%A6%E4%B8%8E" >データマイニングの給与</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%A8%E4%BD%BF%E5%91%BD"></span>データマイナーの役割と使命<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>ザ <strong>データマイナー</strong>、またはデータ探査者は、データと人工知能の世界で重要な役割を果たします。これは、企業内の意思決定と戦略的管理を促進する重要な影の役割です。その使命とその役割の重要性について詳しく説明します。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B"></span>データマイナーとは何ですか?<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>ザ <strong>データマイナー</strong> は、大量のデータ (ビッグデータ) から洞察を抽出する責任を負うデータの専門家です。統計、コンピューター サイエンス、ビジネス分析のスキルを武器に、ビジネスにとって価値のあるパターン、傾向、相関関係を明らかにすることに重点を置いています。そのノウハウにより、生データを戦略的な情報に変換することが可能になります。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%8F%8E%E9%9B%86%E3%81%A8%E6%BA%96%E5%82%99"></span>データの収集と準備<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>最初のミッションは、 <strong>データマイナー</strong> さまざまなソースからデータを収集することで構成されます。これには、企業の内部データベース、Web 上の行動データ、ソーシャル ネットワーク、さらには特殊な外部ソースが含まれる場合があります。次に、その後の分析に使用できるようにするために、このデータをクリーニングして準備する必要があります。つまり、データを標準化し、構造化し、場合によっては匿名化する必要があります。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0"></span>データマイニング<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>データが準備できたら、 <strong>データマイナー</strong> データマイニングで問題の核心に迫る、あるいは <strong>データマイニング</strong>。このステップは、統計的手法、機械学習（<strong>機械学習</strong>) とデータ視覚化により、大規模なデータセット内のパターンや隠れたモチーフを検出します。この調査は、市場機会、修正すべき誤動作、または理解すべき顧客行動を明らかにする洞察につながります。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E4%BA%88%E6%B8%AC%E5%88%86%E6%9E%90"></span>モデリングと予測分析<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ザ <strong>データマイナー</strong> また、将来の傾向や行動を予測するためにモデリング技術も採用しています。これには、統計モデルまたはアルゴリズムの作成が含まれます。 <strong>機械学習</strong> 過去および現在のデータに基づいて、将来の売上、詐欺リスク、有望な市場セグメントの特定など、ビジネスのさまざまな側面について信頼できる予測を立てることができます。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E7%B5%90%E6%9E%9C%E3%81%AE%E4%BC%9D%E9%81%94"></span>結果の伝達<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>データの抽出と分析を超えて、 <strong>データマイナー</strong> には、その結果を明確かつわかりやすい方法で伝えるという使命もあります。これには、レポート、インタラクティブなダッシュボードの作成、さらには意思決定者への結果の提示が含まれます。このステップは非常に重要です。複雑な情報を、専門家でなくても簡単に理解できる戦略的および運用上の決定に変換する必要があります。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E6%8A%80%E8%A1%93%E7%9A%84%E3%81%8A%E3%82%88%E3%81%B3%E5%80%AB%E7%90%86%E7%9A%84%E3%81%AA%E7%9B%A3%E8%A6%96"></span>技術的および倫理的な監視<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>プロフェッショナル <strong>データマイニング</strong> 自分の分野の技術的および方法論的発展を常に最新の状態に保つ必要があります。また、個人データを扱う際には、データ倫理に注意し、プライバシー、セキュリティ基準、および GDPR (一般データ保護規則) などの規制を尊重する必要があります。</p>
+
+
+
+<p>ザ <strong>データマイナー</strong> したがって、社内のデータ活用において主導的な役割を果たします。技術スキル、ビジネス分析、コミュニケーションの融合により、彼は質の高いデータに基づく戦略の開発と情報に基づいた意思決定に積極的に貢献しています。情報を機会に変えることがその使命の中心です。</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A7%E5%84%AA%E3%82%8C%E3%81%9F%E8%83%BD%E5%8A%9B%E3%82%92%E7%99%BA%E6%8F%AE%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E9%87%8D%E8%A6%81%E3%81%AA%E3%82%B9%E3%82%AD%E3%83%AB"></span>データマイニングで優れた能力を発揮するための重要なスキル<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Miner-role-competences-formations-et-salaire.png" alt="" class="wp-image-1396" srcset="/images/blog/Data-Miner-role-competences-formations-et-salaire.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>ザ <strong>データマイニング</strong>、またはデータ マイニングは、大量のデータから有用な知識を抽出するデータ サイエンスの中核分野です。生成されるデータ量が増え続けるにつれ、データ マイニング スキルの需要がますます高まっています。 </p>
+
+
+
+<p>この分野で優れた能力を発揮したい専門家が習得すべき重要なスキルを以下に示します。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E7%90%86%E8%A7%A3"></span>データベースとデータストレージについての理解<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>データベース管理システムについての十分な理解 (<strong>DBMS</strong>）は必須です。これには、次のようなリレーショナル データベースの知識が含まれます。 <strong>MySQL</strong> または <strong>PostgreSQL</strong>、および次のような非リレーショナル データベース <strong>モンゴDB</strong>。データをクエリおよび操作するための SQL 言語の習得も不可欠です。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E7%B5%B1%E8%A8%88%E3%81%A8%E6%95%B0%E5%AD%A6%E3%81%AE%E7%9F%A5%E8%AD%98"></span>統計と数学の知識<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>統計と数学はデータマイニングの中心です。確率、推論統計、微分積分、線形代数をよく理解することが不可欠です。この知識により、さまざまなデータ マイニング アルゴリズムを理解し、実装できるようになります。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%BF%92%E5%BE%97%E3%81%99%E3%82%8B"></span>機械学習のアルゴリズムとモデルを習得する<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>データマイニングは以下に大きく依存します <strong>機械学習</strong> 予測分析と分類用。デシジョン ツリー、ニューラル ネットワーク、サポート ベクター マシン、クラスタリングなどの機械学習アルゴリズムに関する知識は非常に重要です。ディープラーニングの原理を理解することも大きな資産です。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AD%E3%83%AB"></span>プログラミングスキル<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ようなプログラミング言語 <strong>パイソン</strong> そして <strong>R</strong> データマイニングの分野で広く使用されています。シンプルで Pandas、NumPy、SciPy、Scikit-learn、Tensorflow などの豊富なライブラリを備えた Python の習熟度は特に重要です。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E5%87%A6%E7%90%86%E3%81%A8%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E5%B0%82%E9%96%80%E7%9F%A5%E8%AD%98"></span>データ処理とクリーニングの専門知識<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>データマイニングで信頼性の高い結果を得るには、データの品質が不可欠です。したがって、クレンジング、正規化、強化、変換などのデータ処理スキルが不可欠です。これには、欠損値の処理、エラーの検出と修正、分析モデルでより適切に使用できるようにするためのデータの変換が含まれます。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E8%A6%96%E8%A6%9A%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98"></span>データ視覚化ツールに関する知識<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>データの視覚化は、データ マイニングの結果を理解して提示するために不可欠な要素です。などのツールを使いこなす <strong>絵画</strong>、 <strong>PowerBI</strong>、または Matplotlib や Seaborn などの Python ライブラリは、データ内で検出されたパターンを効果的に説明するための人気のスキルです。</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0"></span>データマイナーになるためのトレーニング<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Miner-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1397" srcset="/images/blog/Data-Miner-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E5%A4%A7%E5%AD%A6%E7%A0%94%E4%BF%AE"></span>大学研修<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>            大学では、データマイナーとしてのキャリアを目指す人向けに専門コースを提供することがよくあります。トレーニングの例をいくつか示します。</p>
+
+
+
+<ul class="wp-block-list">
+<li>データサイエンスの修士(<strong>データサイエンス</strong>）</li>
+
+
+
+<li>応用数学、統計学の修士号</li>
+
+
+
+<li>ビジネスインテリジェンスの修士号</li>
+</ul>
+
+
+
+<p>            これらの修士課程を修了すると、学生は通常、データ マイニングの分野を開始するための十分な準備が整います。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E5%B7%A5%E5%AD%A6%E9%83%A8"></span>工学部<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>            工学系の学校では、理論と実践を組み合わせるために、多くの場合企業と提携して、適応されたコースも提供しています。これらのトレーニング コースには通常、インターンシップや具体的なプロジェクトが含まれており、重要な専門的経験を積むことができます。これらは、データ サイエンスまたはビッグ データを専門とするエンジニアリングの卒業証書を取得することにつながります。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E5%B0%82%E9%96%80%E7%9A%84%E3%81%AA%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A8%E8%AA%8D%E5%AE%9A%E8%B3%87%E6%A0%BC"></span>専門的なトレーニングと認定資格<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>            すでに雇用されており、スキルを再トレーニングまたは磨きたいと考えている人のために、データ マイニングに焦点を当てた短期の専門トレーニング コースがあります。いくつかの組織が認知された認定資格を提供しています。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>認定分析プロフェッショナル</strong> （キャップ​​）</li>
+
+
+
+<li><strong>EMC データ サイエンス アソシエイト</strong> (EMCDSA)</li>
+
+
+
+<li>アナリティクスにおける SAS 認定</li>
+</ul>
+
+
+
+<p>            これらの認定は、学術的なトレーニングを補完したり、専門家のスキルを検証する方法として役立ちます。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%A8MOOC"></span>オンラインコースとMOOC<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>            オンライン学習は、大学の学習コースをすべて受講できない人にとって柔軟な選択肢です。のようなプラットフォーム <strong>コーセラ</strong>、 <strong>edX</strong> または <strong>ユダシティ</strong> 有名な大学や企業のデータ マイニングおよびデータ サイエンスのコースを受講する機会を提供し、修了証明書を取得できる可能性があります。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E5%AE%9F%E5%8B%99%E7%B5%8C%E9%A8%93%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7"></span>実務経験の重要性<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>            理論的なトレーニングに加えて、将来のデータマイナーにとっては実践的な経験を積むことが重要です。実際のプロジェクトに参加したり、インターンシップを完了したり、次のようなコンテストの一環としてデータに取り組んだりできます。 <strong>カグル</strong> 競技会は、正式なトレーニングと同じくらい有益な場合があります。 </p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%B5%A6%E4%B8%8E%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97"></span>データマイニングにおける給与とキャリアの見通し<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Miner-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1398" srcset="/images/blog/Data-Miner-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9"></span>データマイニングにおけるキャリアのチャンス<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>データマイニングにおけるキャリアは多様であり、さまざまな業界に適応できます。キャリアプロフィールの例をいくつか示します。</p>
+
+
+
+<ul class="wp-block-list">
+<li>データアナリスト</li>
+
+
+
+<li>データサイエンティスト</li>
+
+
+
+<li>機械学習エンジニア</li>
+
+
+
+<li>データマイニングスペシャリスト</li>
+
+
+
+<li>ビジネスインテリジェンスアナリスト</li>
+
+
+
+<li>ビッグデータエンジニア</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%B5%A6%E4%B8%8E"></span>データマイニングの給与<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>データマイニング分野での給与は、経験、勤務地、教育、専門スキルなどのいくつかの要因によって異なります。市場調査によると、この分野で観測された平均年収の範囲は次のとおりです。</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>経歴</td><td>平均年収</td></tr><tr><td>データアナリスト</td><td>45,000ユーロ &#8211; 65,000ユーロ</td></tr><tr><td>データサイエンティスト</td><td>55,000ユーロ &#8211; 80,000ユーロ</td></tr><tr><td>機械学習エンジニア</td><td>50,000ユーロ &#8211; 75,000ユーロ</td></tr><tr><td>データマイニングスペシャリスト</td><td>50,000ユーロ &#8211; 70,000ユーロ</td></tr><tr><td>ビジネスインテリジェンスアナリスト</td><td>45,000ユーロ &#8211; 68,000ユーロ</td></tr><tr><td>ビッグデータエンジニア</td><td>55,000ユーロ &#8211; 85,000ユーロ</td></tr></tbody></table></figure>
+
+
+
+<p>データマイニングは、魅力的な給与と大きな成長の見通しを備えた有望なキャリアです。資格のある専門家に対する需要は増え続けており、この分野は専門的な機会の点で最もダイナミックで有利な分野の1つとなっています。 </p>
+
+
+
+<p>データマイニングのキャリアに興味のある人は、このデジタル進化によってもたらされる機会を活用するために、分析スキルと技術スキルを継続的に開発することに重点を置く必要があります。</p>
+
+

@@ -25,3 +25,4 @@ npm-debug.log*
 
 # Import scripts temp files
 scripts/import_wp.py
+public/images/

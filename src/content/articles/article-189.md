@@ -1,0 +1,228 @@
+---
+title: "ಶಾರ್ಡಿಂಗ್ ಎಂದರೇನು? ವ್ಯಾಖ್ಯಾನ ಮತ್ತು ಅನುಕೂಲಗಳು"
+slug: "article-189"
+excerpt: "ಅಂಡರ್ಸ್ಟ್ಯಾಂಡಿಂಗ್ ಶಾರ್ಡಿಂಗ್: ವ್ಯಾಖ್ಯಾನ ಮತ್ತು ಮೂಲ ತತ್ವಗಳು ಡೇಟಾಬೇಸ್‌ಗಳ ಪ್ರಪಂಚ ಮತ್ತು ದೊಡ್ಡ ಪ್ರಮಾಣದ ಡೇಟಾ ಸಂಗ್ರಹಣೆಯು ಸಂಕೀರ್ಣವಾಗಿದೆ ಮತ್ತು ನಿರಂತರವಾಗಿ ವಿಕಸನಗೊಳ್ಳುತ್ತಿದೆ. ಘಾತೀಯವಾಗಿ ಹೆಚ್ಚುತ್ತಿರುವ ದತ್ತಾಂಶವನ್ನು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ನಿರ್ವಹಿಸಲು, ಐಟಿ ಆರ್ಕಿಟೆಕ್ಚರ್‌ಗಳು ಈ ಡೇಟಾದ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ನಿರ್ವಹಣೆಯನ್ನು ಅತ್ಯುತ್ತಮವಾಗಿಸಲು ಆವಿಷ್ಕಾರ ಮತ್ತು ಪರಿಹಾರಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಬೇಕು. ಈ ಸಮಸ್ಯೆಗೆ ಒಂದು ವಿಧಾನವು ಒಂದು ತಂತ್ರವಾಗಿದೆ ಹಂಚುವುದು. ಈ ಲೇಖನದಲ್ಲಿ, ನಾವು ಶಾರ್ಡಿಂಗ್ ಅನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ, ಅದರ ಮೂಲ ತತ್ವಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ ಮತ್ತು ಆಧುನಿಕ ಡೇಟಾಬೇಸ್ ವ್ಯವಸ್ಥೆಗಳಲ್ಲಿ [&hellip;]"
+date: "2024-03-09T12:31:31"
+featuredImage: "/images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-3.png"
+categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d", "%e0%b2%ae%e0%b3%82%e0%b2%b2%e0%b2%b8%e0%b3%8c%e0%b2%95%e0%b2%b0%e0%b3%8d%e0%b2%af-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a8%e0%b3%86%e0%b2%9f%e0%b3%8d%e0%b2%b5%e0%b2%b0%e0%b3%8d"]
+---
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Database Sharding and Partitioning" width="500" height="281" src="https://www.youtube.com/embed/wXvljefXyEo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%85%E0%B2%82%E0%B2%A1%E0%B2%B0%E0%B3%8D%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%82%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%B5%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%96%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%A8_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%AE%E0%B3%82%E0%B2%B2_%E0%B2%A4%E0%B2%A4%E0%B3%8D%E0%B2%B5%E0%B2%97%E0%B2%B3%E0%B3%81" >ಅಂಡರ್ಸ್ಟ್ಯಾಂಡಿಂಗ್ ಶಾರ್ಡಿಂಗ್: ವ್ಯಾಖ್ಯಾನ ಮತ್ತು ಮೂಲ ತತ್ವಗಳು</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%8E%E0%B2%82%E0%B2%A6%E0%B2%B0%E0%B3%87%E0%B2%A8%E0%B3%81" >ಶಾರ್ಡಿಂಗ್ ಎಂದರೇನು?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%B6%E0%B3%87%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86_%E0%B2%95%E0%B3%86%E0%B2%B2%E0%B2%B8_%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B3%81%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%A6%E0%B3%86" >ಶೇರ್ಡಿಂಗ್ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%A8_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%AF%E0%B3%8B%E0%B2%9C%E0%B2%A8%E0%B2%97%E0%B2%B3%E0%B3%81" >ಶಾರ್ಡಿಂಗ್ನ ಪ್ರಯೋಜನಗಳು</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%B8%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B3%81%E0%B2%97%E0%B2%B3%E0%B3%81_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%97%E0%B2%A3%E0%B2%A8%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B3%81" >ಸವಾಲುಗಳು ಮತ್ತು ಪರಿಗಣನೆಗಳು</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-6" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE%E0%B2%B5%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B3%81_%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86_%E0%B2%B5%E0%B2%BF%E0%B2%A4%E0%B2%B0%E0%B2%BF%E0%B2%B8%E0%B2%B2%E0%B2%BE%E0%B2%97%E0%B3%81%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%A6%E0%B3%86" >ಡೇಟಾವನ್ನು ಹೇಗೆ ವಿತರಿಸಲಾಗುತ್ತದೆ?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%9A%E0%B3%82%E0%B2%B0%E0%B3%81%E0%B2%97%E0%B2%B3%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BF_%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE_%E0%B2%B8%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B2%B9%E0%B2%A3%E0%B3%86" >ಚೂರುಗಳಲ್ಲಿ ಡೇಟಾ ಸಂಗ್ರಹಣೆ</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%A8_%E0%B2%85%E0%B2%A8%E0%B2%BE%E0%B2%A8%E0%B3%81%E0%B2%95%E0%B3%82%E0%B2%B2%E0%B2%97%E0%B2%B3%E0%B3%81" >ಶಾರ್ಡಿಂಗ್ನ ಅನಾನುಕೂಲಗಳು</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%B9%E0%B2%82%E0%B2%9A%E0%B3%81%E0%B2%B5%E0%B2%BF%E0%B2%95%E0%B3%86%E0%B2%AF_%E0%B2%A4%E0%B2%BE%E0%B2%82%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B2%BF%E0%B2%95_%E0%B2%B8%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B3%81%E0%B2%97%E0%B2%B3%E0%B3%81" >ಹಂಚುವಿಕೆಯ ತಾಂತ್ರಿಕ ಸವಾಲುಗಳು</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/kn/%e0%b2%b6%e0%b2%be%e0%b2%b0%e0%b3%8d%e0%b2%a1%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%8e%e0%b2%82%e0%b2%a6%e0%b2%b0%e0%b3%87%e0%b2%a8%e0%b3%81-%e0%b2%b5%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%96/#%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%97%E0%B2%BE%E0%B2%97%E0%B2%BF_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%95_%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%97%E0%B2%A3%E0%B2%A8%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B3%81" >ಶಾರ್ಡಿಂಗ್ಗಾಗಿ ಪ್ರಾಯೋಗಿಕ ಪರಿಗಣನೆಗಳು</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%85%E0%B2%82%E0%B2%A1%E0%B2%B0%E0%B3%8D%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%82%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%B5%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%96%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%A8_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%AE%E0%B3%82%E0%B2%B2_%E0%B2%A4%E0%B2%A4%E0%B3%8D%E0%B2%B5%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಅಂಡರ್ಸ್ಟ್ಯಾಂಡಿಂಗ್ ಶಾರ್ಡಿಂಗ್: ವ್ಯಾಖ್ಯಾನ ಮತ್ತು ಮೂಲ ತತ್ವಗಳು<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>ಡೇಟಾಬೇಸ್‌ಗಳ ಪ್ರಪಂಚ ಮತ್ತು ದೊಡ್ಡ ಪ್ರಮಾಣದ ಡೇಟಾ ಸಂಗ್ರಹಣೆಯು ಸಂಕೀರ್ಣವಾಗಿದೆ ಮತ್ತು ನಿರಂತರವಾಗಿ ವಿಕಸನಗೊಳ್ಳುತ್ತಿದೆ. ಘಾತೀಯವಾಗಿ ಹೆಚ್ಚುತ್ತಿರುವ ದತ್ತಾಂಶವನ್ನು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ನಿರ್ವಹಿಸಲು, ಐಟಿ ಆರ್ಕಿಟೆಕ್ಚರ್‌ಗಳು ಈ ಡೇಟಾದ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ನಿರ್ವಹಣೆಯನ್ನು ಅತ್ಯುತ್ತಮವಾಗಿಸಲು ಆವಿಷ್ಕಾರ ಮತ್ತು ಪರಿಹಾರಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಬೇಕು. ಈ ಸಮಸ್ಯೆಗೆ ಒಂದು ವಿಧಾನವು ಒಂದು ತಂತ್ರವಾಗಿದೆ <strong>ಹಂಚುವುದು</strong>. </p>
+
+
+
+<p>ಈ ಲೇಖನದಲ್ಲಿ, ನಾವು ಶಾರ್ಡಿಂಗ್ ಅನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ, ಅದರ ಮೂಲ ತತ್ವಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ ಮತ್ತು ಆಧುನಿಕ ಡೇಟಾಬೇಸ್ ವ್ಯವಸ್ಥೆಗಳಲ್ಲಿ ಇದು ಏಕೆ ಅವಶ್ಯಕವಾಗಿದೆ.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%8E%E0%B2%82%E0%B2%A6%E0%B2%B0%E0%B3%87%E0%B2%A8%E0%B3%81"></span>ಶಾರ್ಡಿಂಗ್ ಎಂದರೇನು?<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>ದಿ <strong>ಹಂಚುವುದು</strong> ವಿತರಿಸಿದ ಡೇಟಾಬೇಸ್ ಅಥವಾ ಡೇಟಾಬೇಸ್ ನಿರ್ವಹಣಾ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಡೇಟಾವನ್ನು ಅಡ್ಡಲಾಗಿ ವಿಭಜಿಸುವ ವಿಧಾನವಾಗಿದೆ. ಈ ತಂತ್ರವು ಡೇಟಾಬೇಸ್ ಅನ್ನು ಸಣ್ಣ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸುವುದನ್ನು ಒಳಗೊಂಡಿದೆ <em>ಚೂರುಗಳು</em>, ಇದನ್ನು ಹಲವಾರು ಸರ್ವರ್‌ಗಳಲ್ಲಿ ವಿತರಿಸಬಹುದು. ಪ್ರತಿಯೊಂದು ಚೂರು ಸ್ವತಂತ್ರ ಡೇಟಾಬೇಸ್‌ನಂತೆ ಡೇಟಾ ಮತ್ತು ಕಾರ್ಯಗಳ ಉಪವಿಭಾಗವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಇದರ ಮುಖ್ಯ ಪ್ರಯೋಜನವೆಂದರೆ ಪ್ರತಿ ಸರ್ವರ್‌ನಲ್ಲಿನ ಲೋಡ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಮೂಲಕ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಡೇಟಾ ಮತ್ತು ವಹಿವಾಟುಗಳನ್ನು ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ನಿರ್ವಹಿಸಲು ಇದು ಅನುಮತಿಸುತ್ತದೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B6%E0%B3%87%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D_%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86_%E0%B2%95%E0%B3%86%E0%B2%B2%E0%B2%B8_%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B3%81%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%A6%E0%B3%86"></span>ಶೇರ್ಡಿಂಗ್ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಶರ್ಡಿಂಗ್ ಅಲ್ಗಾರಿದಮ್‌ನಿಂದ ನಿರ್ಧರಿಸಲ್ಪಡುವ ಡೇಟಾ ವಿತರಣಾ ತರ್ಕವನ್ನು ಆಧರಿಸಿದೆ. ವಿಭಿನ್ನ ಅಲ್ಗಾರಿದಮ್‌ಗಳಿವೆ, ಆದರೆ ಆಯ್ಕೆಯು ಸಾಮಾನ್ಯವಾಗಿ ಸಿಸ್ಟಮ್ ನಿರ್ವಹಿಸಬೇಕಾದ ಡೇಟಾ ಮತ್ತು ಪ್ರಶ್ನೆಗಳ ಸ್ವರೂಪವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ಅಲ್ಗಾರಿದಮ್‌ಗಳ ಸಾಮಾನ್ಯ ಉದಾಹರಣೆಗಳಲ್ಲಿ ಶ್ರೇಣಿ-ಆಧಾರಿತ ಶಾರ್ಡಿಂಗ್ (ಮೌಲ್ಯಗಳ ಶ್ರೇಣಿಗಳ ಪ್ರಕಾರ ಡೇಟಾವನ್ನು ವಿತರಿಸಲಾಗುತ್ತದೆ), ಹ್ಯಾಶ್ ಶೇರ್ಡಿಂಗ್ (ಕೆಲವು ಕೀಗಳ ಹ್ಯಾಶ್ ಡೇಟಾದ ಸ್ಥಳವನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ) ಅಥವಾ ಶಾರ್ಡಿಂಗ್ ಡೈರೆಕ್ಟರಿ-ಆಧಾರಿತ ( ಪತ್ತೆ ಮಾಡಲು ಲುಕಪ್ ಟೇಬಲ್‌ನೊಂದಿಗೆ ಡೇಟಾ).</p>
+
+
+
+<p>ಚೂರುಗಳನ್ನು ರಚಿಸಿದ ನಂತರ ಮತ್ತು ಡೇಟಾವನ್ನು ವಿತರಿಸಿದ ನಂತರ, ಕೇಂದ್ರೀಕೃತ ನಿರ್ವಹಣಾ ವ್ಯವಸ್ಥೆಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಕರೆಯಲಾಗುತ್ತದೆ <em>ಚೂರು ಮ್ಯಾನೇಜರ್</em> ಅಥವಾ <em>ಸ್ವಿಂಗ್</em>, ವಿವಿಧ ಚೂರುಗಳ ನಡುವೆ ವಹಿವಾಟುಗಳು ಮತ್ತು ವಿನಂತಿಗಳನ್ನು ಸಂಘಟಿಸಲು ಅವಶ್ಯಕವಾಗಿದೆ. ಈ ವ್ಯವಸ್ಥೆಯು ಪ್ರಶ್ನೆಗಳನ್ನು ಸರಿಯಾದ ಶಾರ್ಡ್‌ಗೆ ನಿರ್ದೇಶಿಸುತ್ತದೆ ಎಂದು ಖಚಿತಪಡಿಸುತ್ತದೆ, ಹೀಗಾಗಿ ಡೇಟಾಬೇಸ್‌ನ ಸಂಬಂಧಿತ ಭಾಗದೊಂದಿಗೆ ಮಾತ್ರ ಸಂವಹನವನ್ನು ಅನುಮತಿಸುತ್ತದೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%A8_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%AF%E0%B3%8B%E0%B2%9C%E0%B2%A8%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಶಾರ್ಡಿಂಗ್ನ ಪ್ರಯೋಜನಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಶಾರ್ಡಿಂಗ್ ಹಲವಾರು ಪ್ರಯೋಜನಗಳನ್ನು ನೀಡುತ್ತದೆ ಅದು ದೊಡ್ಡ ವ್ಯವಸ್ಥೆಗಳಿಗೆ ಆಕರ್ಷಕವಾಗಿದೆ:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ಸ್ಕೇಲೆಬಿಲಿಟಿ</strong> : ಶಾರ್ಡಿಂಗ್ ಹೆಚ್ಚು ಸರ್ವರ್‌ಗಳನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ಹೆಚ್ಚಿದ ಲೋಡ್‌ಗೆ ಸುಲಭವಾಗಿ ಹೊಂದಿಕೊಳ್ಳಲು ಡೇಟಾಬೇಸ್‌ಗಳನ್ನು ಅನುಮತಿಸುತ್ತದೆ.</li>
+
+
+
+<li><strong>ಪ್ರದರ್ಶನ</strong> : ಪ್ರತಿ ಸರ್ವರ್‌ನಲ್ಲಿನ ಲೋಡ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಮೂಲಕ, ವಿಶೇಷವಾಗಿ ಬರೆಯುವ ಕಾರ್ಯಾಚರಣೆಗಳಿಗಾಗಿ ಪ್ರಶ್ನೆ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಹೆಚ್ಚು ಸುಧಾರಿಸಬಹುದು.</li>
+
+
+
+<li><strong>ಲಭ್ಯತೆ</strong> : ಒಂದು ಚೂರು ಕಡಿಮೆಯಾದರೂ, ಇತರರು ಕೆಲಸ ಮಾಡುವುದನ್ನು ಮುಂದುವರೆಸುತ್ತಾರೆ, ಒಟ್ಟಾರೆಯಾಗಿ ವ್ಯವಸ್ಥೆಯ ವಿಶ್ವಾಸಾರ್ಹತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B8%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B3%81%E0%B2%97%E0%B2%B3%E0%B3%81_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%97%E0%B2%A3%E0%B2%A8%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಸವಾಲುಗಳು ಮತ್ತು ಪರಿಗಣನೆಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಆದಾಗ್ಯೂ, ಶಾರ್ಡಿಂಗ್ ತನ್ನ ಸವಾಲುಗಳ ಪಾಲನ್ನು ಸಹ ಹೊಂದಿದೆ:</p>
+
+
+
+<ul class="wp-block-list">
+<li>ಚೂರುಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಸಂಕೀರ್ಣತೆಯು ಚೂರುಗಳ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೆಚ್ಚಾಗಬಹುದು.</li>
+
+
+
+<li>ವಿವಿಧ ಚೂರುಗಳಾದ್ಯಂತ ಮಾಹಿತಿ ಅಗತ್ಯವಿರುವ ವಹಿವಾಟುಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಹೆಚ್ಚು ಜಟಿಲವಾಗಿದೆ.</li>
+
+
+
+<li>ಚೂರುಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾದಂತೆ ಡೇಟಾ ಸ್ಥಿರತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಹೆಚ್ಚು ಕಷ್ಟವಾಗಬಹುದು.</li>
+</ul>
+
+
+
+<p>ಹೀಗಾಗಿ, ಕೊಟ್ಟಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಶಾರ್ಡಿಂಗ್ ಸರಿಯಾದ ತಂತ್ರವಾಗಿದೆಯೇ ಎಂಬುದನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಪರಿಗಣಿಸುವುದು ಮುಖ್ಯ. ಕೆಲವೊಮ್ಮೆ ಲಂಬ ವಿಭಜನೆ, ಡೇಟಾ ಪುನರಾವರ್ತನೆ ಅಥವಾ ಸಂಬಂಧವಿಲ್ಲದ ಡೇಟಾಬೇಸ್ ಅನ್ನು ಬಳಸುವಂತಹ ಇತರ ವಿಧಾನಗಳು ಹೆಚ್ಚು ಸೂಕ್ತವಾಗಬಹುದು.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE%E0%B2%B5%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B3%81_%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86_%E0%B2%B5%E0%B2%BF%E0%B2%A4%E0%B2%B0%E0%B2%BF%E0%B2%B8%E0%B2%B2%E0%B2%BE%E0%B2%97%E0%B3%81%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%A6%E0%B3%86"></span>ಡೇಟಾವನ್ನು ಹೇಗೆ ವಿತರಿಸಲಾಗುತ್ತದೆ?<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-1.png" alt="" class="wp-image-1070" srcset="/images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-1.png 1792w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-1-300x171.png 300w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-1-1024x585.png 1024w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-1-150x86.png 150w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-1-768x439.png 768w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>ಚೂರುಚೂರು ಪರಿಸರದಲ್ಲಿ ಡೇಟಾ ವಿತರಣೆಯನ್ನು ವಿವಿಧ ಅಲ್ಗಾರಿದಮ್‌ಗಳ ಪ್ರಕಾರ ಕೈಗೊಳ್ಳಬಹುದು. ಅತ್ಯಂತ ಸಾಮಾನ್ಯವಾದ ಕೆಲವು ಇಲ್ಲಿವೆ:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ಪ್ರಮುಖ ಶ್ರೇಣಿಯ ಆಧಾರದ ಮೇಲೆ ಹಂಚಿಕೆ:</strong> ಡೇಟಾವನ್ನು ನಿರ್ದಿಷ್ಟ ಕೀಗೆ ಅನುಗುಣವಾಗಿ ವಿಭಜಿಸಲಾಗಿದೆ, ಅಲ್ಲಿ ಪ್ರತಿ ಚೂರು ಮೌಲ್ಯಗಳ ಶ್ರೇಣಿಗೆ ಕಾರಣವಾಗಿದೆ.</li>
+
+
+
+<li><strong>ಹ್ಯಾಶ್ ಆಧಾರಿತ ಶರ್ಡಿಂಗ್:</strong> ಒಂದು ಕೀಲಿಯನ್ನು ಆಧರಿಸಿ ನಿರ್ದಿಷ್ಟ ದಾಖಲೆಯನ್ನು ಯಾವ ಶಾರ್ಡ್ ಸಂಗ್ರಹಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು ಹ್ಯಾಶ್ ಕಾರ್ಯವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.</li>
+
+
+
+<li><strong>ಡೈರೆಕ್ಟರಿ ಆಧಾರಿತ ಶಾರ್ಡಿಂಗ್:</strong> ಒಂದು ಡೈರೆಕ್ಟರಿಯು ದಾಖಲೆಗಳು ಮತ್ತು ಅವುಗಳನ್ನು ಸಂಗ್ರಹಿಸಲಾದ ಚೂರುಗಳ ನಡುವೆ ಮ್ಯಾಪಿಂಗ್ ಅನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ.</li>
+</ul>
+
+
+
+<p>ಈ ವಿಧಾನಗಳು ಡೇಟಾದ ತುಲನಾತ್ಮಕವಾಗಿ ಸಮತೋಲಿತ ವಿತರಣೆ, ಅಡಚಣೆಗಳಲ್ಲಿ ಕಡಿತ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆ ಸಮಯದಲ್ಲಿ ಸುಧಾರಣೆಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%9A%E0%B3%82%E0%B2%B0%E0%B3%81%E0%B2%97%E0%B2%B3%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BF_%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE_%E0%B2%B8%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B2%B9%E0%B2%A3%E0%B3%86"></span>ಚೂರುಗಳಲ್ಲಿ ಡೇಟಾ ಸಂಗ್ರಹಣೆ<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಪ್ರತಿಯೊಂದು ಚೂರುಗಳಲ್ಲಿ ಇತರ ಚೂರುಗಳಿಂದ ಸ್ವತಂತ್ರವಾಗಿ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ. ಇದರರ್ಥ ಪ್ರತಿ ಚೂರು ತನ್ನದೇ ಆದ ಸ್ಕೀಮಾಗಳು ಮತ್ತು ಸೂಚಿಕೆಗಳೊಂದಿಗೆ ಸ್ವತಂತ್ರ ಡೇಟಾಬೇಸ್ ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಚೂರುಗಳಾದ್ಯಂತ ಡೇಟಾ ಸ್ಥಿರತೆಯನ್ನು ಭೌತಿಕವಾಗಿ ಬದಲಿಗೆ ತಾರ್ಕಿಕವಾಗಿ ನಿರ್ವಹಿಸಲಾಗುತ್ತದೆ, ಇದು ಅನೇಕ ಚೂರುಗಳನ್ನು ವ್ಯಾಪಿಸಿರುವ ವಹಿವಾಟುಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಕೆಲವೊಮ್ಮೆ ಸಂಕೀರ್ಣತೆಯನ್ನು ಪರಿಚಯಿಸಬಹುದು.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%A8_%E0%B2%85%E0%B2%A8%E0%B2%BE%E0%B2%A8%E0%B3%81%E0%B2%95%E0%B3%82%E0%B2%B2%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಶಾರ್ಡಿಂಗ್ನ ಅನಾನುಕೂಲಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಆದಾಗ್ಯೂ, ಹಂಚುವಿಕೆಯು ಕೆಲವು ಅನಾನುಕೂಲಗಳನ್ನು ಹೊಂದಿದೆ:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ಸಂಕೀರ್ಣತೆ:</strong> ಬಹು ಚೂರುಗಳನ್ನು ನಿರ್ವಹಿಸುವುದು ಮತ್ತು ನಿರ್ವಹಿಸುವುದು ಸಂಕೀರ್ಣವಾಗಬಹುದು, ವಿಶೇಷವಾಗಿ ಡೇಟಾ ಸ್ಥಿರತೆ ಮತ್ತು ವಹಿವಾಟು ನಿರ್ವಹಣೆಗೆ.</li>
+
+
+
+<li><strong>ಕಳಪೆ ವಿತರಣೆಯ ಅಪಾಯಗಳು:</strong> ಡೇಟಾದ ಅಸಮ ವಿತರಣೆಯು &#8220;ಹಾಟ್ ಸ್ಪಾಟ್‌ಗಳಿಗೆ&#8221; ಕಾರಣವಾಗಬಹುದು, ಅಲ್ಲಿ ಕೆಲವು ಚೂರುಗಳು ಓವರ್‌ಲೋಡ್ ಆಗಿರುತ್ತವೆ.</li>
+
+
+
+<li><strong>ವೆಚ್ಚಗಳು:</strong> ಹೆಚ್ಚಿನ ಮೂಲಸೌಕರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಮತ್ತು ನಿರ್ವಹಿಸುವ ಅಗತ್ಯವು ವೆಚ್ಚವನ್ನು ಹೆಚ್ಚಿಸಬಹುದು.</li>
+
+
+
+<li></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-2.png" alt="" class="wp-image-1071" srcset="/images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-2.png 1792w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-2-300x171.png 300w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-2-1024x585.png 1024w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-2-150x86.png 150w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-2-768x439.png 768w, /images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B9%E0%B2%82%E0%B2%9A%E0%B3%81%E0%B2%B5%E0%B2%BF%E0%B2%95%E0%B3%86%E0%B2%AF_%E0%B2%A4%E0%B2%BE%E0%B2%82%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B2%BF%E0%B2%95_%E0%B2%B8%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B3%81%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಹಂಚುವಿಕೆಯ ತಾಂತ್ರಿಕ ಸವಾಲುಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ಹಂಚುವಿಕೆಯ ಅನುಷ್ಠಾನವು ಹಲವಾರು ತಾಂತ್ರಿಕ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತದೆ:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ವಿನ್ಯಾಸ ಸಂಕೀರ್ಣತೆ</strong> : ಶರ್ಡಿಂಗ್ ಕೀಗಳನ್ನು ನಿಗದಿಪಡಿಸುವುದು ಬಹಳ ಮುಖ್ಯ ಮತ್ತು ಎಚ್ಚರಿಕೆಯಿಂದ ಮಾಡಬೇಕು, ಏಕೆಂದರೆ ಕಳಪೆ ವಿನ್ಯಾಸವು ಡೇಟಾ ವಿತರಣೆಯಲ್ಲಿ ಅಸಮತೋಲನಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು ಮತ್ತು ಸಿಸ್ಟಮ್ ದಕ್ಷತೆಯನ್ನು ರಾಜಿ ಮಾಡಬಹುದು.</li>
+
+
+
+<li><strong>ಅಡ್ಡ ಪ್ರಶ್ನೆಗಳು</strong> : ಬಹು ಚೂರುಗಳ ಮೇಲೆ ಪ್ರಶ್ನೆಗಳನ್ನು ನಿರ್ವಹಿಸುವುದು ಸಂಕೀರ್ಣ ಮತ್ತು ತೊಡಕಿನದ್ದಾಗಿರಬಹುದು ಏಕೆಂದರೆ ಇದಕ್ಕೆ ಚೂರುಗಳ ನಡುವೆ ಸಂವಹನ ಮತ್ತು ಒಟ್ಟುಗೂಡಿಸುವ ಕಾರ್ಯವಿಧಾನಗಳು ಬೇಕಾಗುತ್ತವೆ.</li>
+
+
+
+<li><strong>ವಿತರಿಸಿದ ವಹಿವಾಟುಗಳು</strong> : ಬಹು ಚೂರುಗಳಾದ್ಯಂತ ವಹಿವಾಟುಗಳ ಸಮಗ್ರತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವುದು ಸಂಕೀರ್ಣವಾಗಿದೆ ಮತ್ತು ಅತ್ಯಾಧುನಿಕ ಸಮನ್ವಯ ಪ್ರೋಟೋಕಾಲ್‌ಗಳು ಮತ್ತು ಲಾಕಿಂಗ್ ಕಾರ್ಯವಿಧಾನಗಳ ಅಗತ್ಯವಿದೆ.</li>
+
+
+
+<li><strong>ಸ್ಕೇಲಿಂಗ್</strong> : ಶಾರ್ಡಿಂಗ್ ಸ್ಕೇಲೆಬಿಲಿಟಿಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆಯಾದರೂ, ವಾಸ್ತವವಾಗಿ ನಂತರ ಚೂರುಗಳನ್ನು ಸೇರಿಸುವುದು ಅಥವಾ ತೆಗೆದುಹಾಕುವುದು ಸಂಕೀರ್ಣವಾಗಬಹುದು ಮತ್ತು ಆಗಾಗ್ಗೆ ಡೇಟಾದ ಪುನರ್ವಿತರಣೆ ಅಗತ್ಯವಿರುತ್ತದೆ.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D%E0%B2%97%E0%B2%BE%E0%B2%97%E0%B2%BF_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%95_%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%97%E0%B2%A3%E0%B2%A8%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B3%81"></span>ಶಾರ್ಡಿಂಗ್ಗಾಗಿ ಪ್ರಾಯೋಗಿಕ ಪರಿಗಣನೆಗಳು<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ತಾಂತ್ರಿಕ ಸವಾಲುಗಳ ಜೊತೆಗೆ, ಗಣನೆಗೆ ತೆಗೆದುಕೊಳ್ಳಲು ಪ್ರಾಯೋಗಿಕ ಪರಿಗಣನೆಗಳಿವೆ:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ವೆಚ್ಚ</strong> : ಶಾರ್ಡಿಂಗ್ ಅನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸುವ ಮತ್ತು ನಿರ್ವಹಿಸುವ ಸಂಕೀರ್ಣತೆಯು ಹಾರ್ಡ್‌ವೇರ್, ಸಾಫ್ಟ್‌ವೇರ್ ಮತ್ತು ವಿಶೇಷ ಮಾನವ ಸಂಪನ್ಮೂಲಗಳ ವಿಷಯದಲ್ಲಿ ಗಮನಾರ್ಹ ವೆಚ್ಚಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು.</li>
+
+
+
+<li><strong>ಪ್ರದರ್ಶನ</strong> : ಸೂಕ್ತವಲ್ಲದ ಶಾರ್ಡಿಂಗ್ ತಂತ್ರವನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು ಕಳಪೆ ಕಾರ್ಯಕ್ಷಮತೆಗೆ ಕಾರಣವಾಗಬಹುದು, ವಿಶೇಷವಾಗಿ ಲೋಡ್ ಬ್ಯಾಲೆನ್ಸಿಂಗ್ ಅನ್ನು ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸದಿದ್ದರೆ.</li>
+
+
+
+<li><strong>ಡೇಟಾ ಸ್ಥಿರತೆ</strong> : ಎಲ್ಲಾ ಚೂರುಗಳಾದ್ಯಂತ ಡೇಟಾ ಸ್ಥಿರತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು ಅತ್ಯಗತ್ಯ ಆದರೆ ಸಾಧಿಸಲು ಕಷ್ಟ, ವಿಶೇಷವಾಗಿ ಹೆಚ್ಚು ವಿತರಿಸಿದ ಪರಿಸರದಲ್ಲಿ.</li>
+
+
+
+<li><strong>ತಾಂತ್ರಿಕ ಪರಿಣತಿ</strong> : ಶಾರ್ಡಿಂಗ್‌ನ ಸಂಕೀರ್ಣತೆಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಮತ್ತು ಸಮಸ್ಯೆಗಳಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಆಳವಾದ ತಾಂತ್ರಿಕ ಪರಿಣತಿಯ ಅಗತ್ಯವಿದೆ.</li>
+
+
+
+<li><strong>ಬ್ಯಾಕಪ್‌ಗಳು ಮತ್ತು ಮರುಸ್ಥಾಪನೆಗಳು</strong> : ಬ್ಯಾಕ್‌ಅಪ್‌ಗಳು ಮತ್ತು ಮರುಸ್ಥಾಪನೆಗಳನ್ನು ನಿರ್ವಹಿಸುವುದು ಶಾರ್ಡಿಂಗ್‌ನೊಂದಿಗೆ ಹೆಚ್ಚು ಸಂಕೀರ್ಣವಾಗುತ್ತದೆ, ಏಕೆಂದರೆ ಈ ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು ಹಲವಾರು ಚೂರುಗಳಾದ್ಯಂತ ಸಂಯೋಜಿಸಬೇಕು.</li>
+</ul>
+
+
+
+<p>ಕೊನೆಯಲ್ಲಿ, ಹೆಚ್ಚಿನ ಮಟ್ಟದ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ಸ್ಕೇಲೆಬಿಲಿಟಿ ಅಗತ್ಯವಿರುವ ಡೇಟಾಬೇಸ್‌ಗಳಿಗೆ ಶರ್ಡಿಂಗ್ ಪ್ರಬಲ ತಂತ್ರವಾಗಿದ್ದರೂ, ಇದು ಸವಾಲುಗಳ ಸರಣಿಯನ್ನು ಹೇರುತ್ತದೆ ಮತ್ತು ಗಮನಾರ್ಹವಾದ ಪ್ರಾಯೋಗಿಕ ಪರಿಗಣನೆಗಳನ್ನು ಅತ್ಯುತ್ತಮವಾಗಿ ಕಾರ್ಯಗತಗೊಳಿಸಲು ಅಗತ್ಯವಿರುತ್ತದೆ. ಸಮಸ್ಯೆಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವ ಮೂಲಕ ಮತ್ತು ಶಾರ್ಡಿಂಗ್ ತಂತ್ರವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಸಿದ್ಧಪಡಿಸುವ ಮೂಲಕ, ಸಂಬಂಧಿತ ಅಪಾಯಗಳು ಮತ್ತು ವೆಚ್ಚಗಳನ್ನು ಕಡಿಮೆ ಮಾಡುವಾಗ ಸಂಸ್ಥೆಗಳು ಅದರ ಪ್ರಯೋಜನಗಳಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಪ್ರಯೋಜನ ಪಡೆಯಬಹುದು.</p>
+
+

@@ -1,0 +1,123 @@
+---
+slug: "article-50"
+title: "株式市場におけるメディアン・テクノロジーズ：本当のチャンス？"
+slug: ""
+excerpt: "メディアンテクノロジーズとは何ですか？ Median Technologies は、臨床試験用の医療画像および画像分析ソリューションを専門とするテクノロジー企業です。 2002 年に設立された同社は、医療画像の解釈と分析のための革新的なソリューションを提供し、この分野で世界的リーダーとしての地位を急速に確立しました。 Median Technologies の製品とサービス メディアンテクノロジーズ は、以下を含む医療画像分析のための幅広い製品とサービスを提供しています。 &#8211; iBiopsy®: 医療画像の自動分析を可能にし、組織や病変に関する正確かつ詳細な情報を提供する人工知能プラットフォーム。この革新的なテクノロジーにより、研究者や臨床医はより信頼性の高いデータをより迅速に入手して、情報に基づいた意思決定を行うことができます。 画像解析ソフト： Median Technologies は、病変の正確な評価と病気の進行のより効果的なモニタリングを可能にする LesionQuant™ や LMS などの医療画像分析用の特定のソフトウェアも提供しています。 株式市場におけるメディアン・テクノロジーズ Median Technologies は、ユーロネクスト パリに ALMDT というシンボルで上場されており、ソフトウェア分野で活動しています。この記事の執筆終了時点で、株価は3.860ユーロで取引されており、前取引と比べて1.98％の上昇を記録した。この日の取引では株価は3,720ユーロから3,860ユーロの間で推移し、出来高は26,808株となった。 同社の時価総額は7100万ユーロで、前回の取引セッションで取引された資本の割合は0.15％だった。また、この訴訟は PEA および PEA-PME の対象となることにも留意する必要があり、税制優遇の点でフランスの個人投資家に一定の柔軟性があることを示しています。。 同社はまた、画像解析技術を医療診断や治療に利用するためにクリニックや病院とのパートナーシップを構築することで、事業の多角化にも成功しています。これらのパートナーシップにより、Median Technologies は大規模臨床試験の枠組み内で製品とサービスを開発、販売することも可能になります。 2023 年の Median Technologies の財務および運営実績 革新と技術の進歩 株式市場におけるメディアン・テクノロジーズ株の進化 過去数年間の株式市場におけるメディアン・テクノロジーズ株の進化は目覚ましいものがあります。 IPO以来、同社の成長見通しに対する投資家の信頼を反映して、同社株は持続的な成長を遂げている。 同社の世界市場での拡大の拡大と医療画像分野での主導的な地位により、多くの金融アナリストはメディアン・テクノロジーズの株式には強力な長期成長の可能性があると考えています。 Median Technologies の 2024 年の見通し Median Technologies は、iCRO [&hellip;]"
+date: "2024-03-09T12:29:31"
+featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+categories: ["%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a8%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-ja"]
+---
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F" >メディアンテクノロジーズとは何ですか？</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#Median_Technologies_%E3%81%AE%E8%A3%BD%E5%93%81%E3%81%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9" >Median Technologies の製品とサービス</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#%E2%80%93_iBiopsy%C2%AE" >&#8211; iBiopsy®:</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#%E7%94%BB%E5%83%8F%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88%EF%BC%9A" >画像解析ソフト：</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA" >株式市場におけるメディアン・テクノロジーズ</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#2023_%E5%B9%B4%E3%81%AE_Median_Technologies_%E3%81%AE%E8%B2%A1%E5%8B%99%E3%81%8A%E3%82%88%E3%81%B3%E9%81%8B%E5%96%B6%E5%AE%9F%E7%B8%BE" >2023 年の Median Technologies の財務および運営実績</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#%E9%9D%A9%E6%96%B0%E3%81%A8%E6%8A%80%E8%A1%93%E3%81%AE%E9%80%B2%E6%AD%A9" >革新と技術の進歩</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E6%A0%AA%E3%81%AE%E9%80%B2%E5%8C%96" >株式市場におけるメディアン・テクノロジーズ株の進化</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-9" href="/ja/%e6%a0%aa%e5%bc%8f%e5%b8%82%e5%a0%b4%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e3%83%bb%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba%ef%bc%9a/#Median_Technologies_%E3%81%AE_2024_%E5%B9%B4%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97" >Median Technologies の 2024 年の見通し</a></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F"></span>メディアンテクノロジーズとは何ですか？<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>Median Technologies は、臨床試験用の医療画像および画像分析ソリューションを専門とするテクノロジー企業です。 2002 年に設立された同社は、医療画像の解釈と分析のための革新的なソリューションを提供し、この分野で世界的リーダーとしての地位を急速に確立しました。</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="Median_Technologies_%E3%81%AE%E8%A3%BD%E5%93%81%E3%81%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"></span>Median Technologies の製品とサービス<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p><strong>メディアンテクノロジーズ</strong> は、以下を含む医療画像分析のための幅広い製品とサービスを提供しています。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E2%80%93_iBiopsy%C2%AE"></span>&#8211; iBiopsy®: <span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>医療画像の自動分析を可能にし、組織や病変に関する正確かつ詳細な情報を提供する人工知能プラットフォーム。この革新的なテクノロジーにより、研究者や臨床医はより信頼性の高いデータをより迅速に入手して、情報に基づいた意思決定を行うことができます。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E7%94%BB%E5%83%8F%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88%EF%BC%9A"></span>画像解析ソフト： <span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>Median Technologies は、病変の正確な評価と病気の進行のより効果的なモニタリングを可能にする LesionQuant™ や LMS などの医療画像分析用の特定のソフトウェアも提供しています。</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA"></span>株式市場におけるメディアン・テクノロジーズ<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>Median Technologies は、ユーロネクスト パリに ALMDT というシンボルで上場されており、ソフトウェア分野で活動しています。この記事の執筆終了時点で、株価は3.860ユーロで取引されており、前取引と比べて1.98％の上昇を記録した。この日の取引では株価は3,720ユーロから3,860ユーロの間で推移し、出来高は26,808株となった。 </p>
+
+
+
+<p>同社の時価総額は7100万ユーロで、前回の取引セッションで取引された資本の割合は0.15％だった。また、この訴訟は PEA および PEA-PME の対象となることにも留意する必要があり、税制優遇の点でフランスの個人投資家に一定の柔軟性があることを示しています。<a href="https://www.boursorama.com/cours/1rPALMDT/" target="_blank" rel="noreferrer noopener"></a>。</p>
+
+
+
+<p>同社はまた、画像解析技術を医療診断や治療に利用するためにクリニックや病院とのパートナーシップを構築することで、事業の多角化にも成功しています。これらのパートナーシップにより、Median Technologies は大規模臨床試験の枠組み内で製品とサービスを開発、販売することも可能になります。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="2023_%E5%B9%B4%E3%81%AE_Median_Technologies_%E3%81%AE%E8%B2%A1%E5%8B%99%E3%81%8A%E3%82%88%E3%81%B3%E9%81%8B%E5%96%B6%E5%AE%9F%E7%B8%BE"></span>2023 年の Median Technologies の財務および運営実績<span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>2023年の売上高</strong>：2,220万ユーロ。2022年と2023年上半期の新型コロナウイルス感染症に関連した外出制限の影響を受け、主に中国での受注が減少したため、前年比で減少した。</li>
+
+
+
+<li><strong>やり残し</strong>：年末には6,690万ユーロという記録的な水準に達し、同社の臨床画像サービス（iCRO）に対する強い需要を示し、治験腫瘍クリニックにおける人工知能への関心の高まりを裏付けた。</li>
+
+
+
+<li><strong>資金調達</strong>：同社は、2023年7月の借り換えが成功し、2024年初めに欧州銀行投資公社（EIB）からの融資の一部として850万ユーロの資金調達が成功したため、2025年第2四半期まで財務状況を確保した。 ）。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E9%9D%A9%E6%96%B0%E3%81%A8%E6%8A%80%E8%A1%93%E3%81%AE%E9%80%B2%E6%AD%A9"></span>革新と技術の進歩<span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>eyonis™ LCS (肺がんスクリーニング)</strong>: Median は、医療機器としてのソフトウェア (SaMD) である eyonis™ LCS の重要な研究を完了し、独立した検証研究の結果で優れたパフォーマンスを示しました。同社は 2025 年までに FDA 510(k) 認可と CE マーキングを達成することを目指しており、肺がんの早期発見において米国と欧州で大きな市場の可能性を秘めています。</li>
+
+
+
+<li><strong>肝細胞癌 (HCC) の検出</strong>: AI eyonis™ HCC モデルは、直径 10 mm ほどの小さな HCC 病変の検出において 92% の感度を示し、AI 支援なしの平均検出率を上回り、有望な結果を示しました。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E6%A0%AA%E3%81%AE%E9%80%B2%E5%8C%96"></span>株式市場におけるメディアン・テクノロジーズ株の進化<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>過去数年間の株式市場におけるメディアン・テクノロジーズ株の進化は目覚ましいものがあります。 IPO以来、同社の成長見通しに対する投資家の信頼を反映して、同社株は持続的な成長を遂げている。</p>
+
+
+
+<p>同社の世界市場での拡大の拡大と医療画像分野での主導的な地位により、多くの金融アナリストはメディアン・テクノロジーズの株式には強力な長期成長の可能性があると考えています。</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="Median_Technologies_%E3%81%AE_2024_%E5%B9%B4%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97"></span>Median Technologies の 2024 年の見通し<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>Median Technologies は、iCRO 活動の拡大、製薬および世界的診断における戦略的パートナーシップの開発、eyonis™ LCS の臨床研究の推進など、2024 年のいくつかの重要な目標について概説しました。</p>
+
+
+
+<p>この情報は、2023 年に直面する課題にもかかわらず、医療画像および人工知能の分野における革新的なプレーヤーとしての Median Technologies の立場を浮き彫りにしています。同社の戦略的アプローチと開発パイプラインは、今後数年間の継続的な成長と拡大を約束します。</p>
+
+
+
+<p></p>
+
+

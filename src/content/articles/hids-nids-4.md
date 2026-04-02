@@ -1,0 +1,246 @@
+---
+title: "HIDS と NIDS: 違いと使用法"
+slug: "hids-nids-4"
+excerpt: "侵入検知システムの概要: HIDS と NIDS 情報システムのセキュリティは、あらゆる規模の企業や組織にとって中心的な懸念事項です。脅威の増大とサイバー攻撃の巧妙化に直面し、効果的な防御メカニズムを導入することが不可欠です。このうち、 侵入検知システム (IDS) は、コンピュータ ネットワークを監視し、不審なアクティビティを検出する上で重要な役割を果たします。特に、 ホスト侵入検知システム (HIDS） そしてその ネットワーク侵入検知システム (ネス) は、追加の保護層を提供する 2 つの補完的なタイプです。 HIDS (ホストベースの侵入検知システム) とは何ですか? あ HIDS 個々のコンピュータまたはホストにインストールされるソフトウェアです。インストールされているシステムで不審なアクティビティがないか監視し、これらのイベントを管理者または中央セキュリティ イベント管理 (SIEM) システムに報告します。 HIDS は、システム ファイル、実行中のプロセス、アクティビティ ログ、およびファイル システムの整合性を分析して、侵入の可能性を検出します。 NIDS (ネットワークベースの侵入検知システム) とは何ですか? 対照的に、 ネス はネットワーク レベルに配置され、スイッチング システムおよびルーティング システムを通過するトラフィックを監視します。分散型サービス拒否 (DDoS)、ポート スキャン、またはネットワークを横断するその他の形式の異常な動作など、ネットワーク インフラストラクチャをターゲットとした攻撃を検出できます。 HIDSとNIDSの比較 侵入検知システムを選択する場合は、HIDS と NIDS の違いを理解し、どちらが組織の特定の環境に最適であるかを判断することが重要です。 基準 HIDS 巣 位置決め 個々のホストにインストールされる ネットワークインフラに実装 機能している [&hellip;]"
+date: "2024-03-09T11:57:34"
+featuredImage: "/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
+categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%81%e3%83%a3%e3%81%a8%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af-ja", "%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a8%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-ja"]
+---
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Network Based IDS (NIDS)" width="500" height="281" src="https://www.youtube.com/embed/sjnJrc_iNho?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#%E4%BE%B5%E5%85%A5%E6%A4%9C%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E6%A6%82%E8%A6%81_HIDS_%E3%81%A8_NIDS" >侵入検知システムの概要: HIDS と NIDS</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#HIDS_%E3%83%9B%E3%82%B9%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E4%BE%B5%E5%85%A5%E6%A4%9C%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B" >HIDS (ホストベースの侵入検知システム) とは何ですか?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#NIDS_%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E4%BE%B5%E5%85%A5%E6%A4%9C%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B" >NIDS (ネットワークベースの侵入検知システム) とは何ですか?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#HIDS%E3%81%A8NIDS%E3%81%AE%E6%AF%94%E8%BC%83" >HIDSとNIDSの比較</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#HIDS_%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_%E6%A9%9F%E8%83%BD%E3%81%A8%E5%88%A9%E7%82%B9" >HIDS について: 機能と利点</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#HIDS%E3%81%AE%E7%89%B9%E5%BE%B4" >HIDSの特徴</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#HIDS%E3%81%AE%E5%88%A9%E7%82%B9" >HIDSの利点</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-8" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#NIDS_%E3%81%AE%E8%AA%AC%E6%98%8E_%E3%81%9D%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A8%E5%88%A9%E7%82%B9" >NIDS の説明: その仕組みと利点</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#NIDS_%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF" >NIDS の仕組み</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-10" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#NIDS_%E3%81%AE%E5%88%A9%E7%82%B9" >NIDS の利点</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#NIDS_%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E8%80%83%E6%85%AE%E4%BA%8B%E9%A0%85" >NIDS を選択する際の考慮事項</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#HIDS_%E3%81%A8_NIDS_%E3%81%AE%E9%81%B8%E6%8A%9E_%E6%B1%BA%E5%AE%9A%E5%9F%BA%E6%BA%96%E3%81%A8%E4%BD%BF%E7%94%A8%E7%8A%B6%E6%B3%81" >HIDS と NIDS の選択: 決定基準と使用状況</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#HIDS_%E3%81%A8_NIDS_%E3%81%AE%E3%81%A9%E3%81%A1%E3%82%89%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%99%E3%82%8B%E3%81%8B%E3%81%AE%E5%88%A4%E6%96%AD%E5%9F%BA%E6%BA%96" >HIDS と NIDS のどちらを選択するかの判断基準</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="/ja/hids-%e3%81%a8-nids-%e9%81%95%e3%81%84%e3%81%a8%e4%bd%bf%e7%94%a8%e6%b3%95/#HIDS_%E3%81%A8_NIDS_%E3%81%AE%E4%BD%BF%E7%94%A8%E7%8A%B6%E6%B3%81" >HIDS と NIDS の使用状況</a></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E4%BE%B5%E5%85%A5%E6%A4%9C%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E6%A6%82%E8%A6%81_HIDS_%E3%81%A8_NIDS"></span>侵入検知システムの概要: HIDS と NIDS<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>情報システムのセキュリティは、あらゆる規模の企業や組織にとって中心的な懸念事項です。脅威の増大とサイバー攻撃の巧妙化に直面し、効果的な防御メカニズムを導入することが不可欠です。このうち、 <strong>侵入検知システム</strong> (<strong>IDS</strong>) は、コンピュータ ネットワークを監視し、不審なアクティビティを検出する上で重要な役割を果たします。特に、 <strong>ホスト侵入検知システム</strong> (<strong>HIDS</strong>） そしてその <strong>ネットワーク侵入検知システム</strong> (<strong>ネス</strong>) は、追加の保護層を提供する 2 つの補完的なタイプです。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDS_%E3%83%9B%E3%82%B9%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E4%BE%B5%E5%85%A5%E6%A4%9C%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B"></span>HIDS (ホストベースの侵入検知システム) とは何ですか?<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>あ <strong>HIDS</strong> 個々のコンピュータまたはホストにインストールされるソフトウェアです。インストールされているシステムで不審なアクティビティがないか監視し、これらのイベントを管理者または中央セキュリティ イベント管理 (SIEM) システムに報告します。 HIDS は、システム ファイル、実行中のプロセス、アクティビティ ログ、およびファイル システムの整合性を分析して、侵入の可能性を検出します。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="NIDS_%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E4%BE%B5%E5%85%A5%E6%A4%9C%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B"></span>NIDS (ネットワークベースの侵入検知システム) とは何ですか?<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>対照的に、 <strong>ネス</strong> はネットワーク レベルに配置され、スイッチング システムおよびルーティング システムを通過するトラフィックを監視します。分散型サービス拒否 (DDoS)、ポート スキャン、またはネットワークを横断するその他の形式の異常な動作など、ネットワーク インフラストラクチャをターゲットとした攻撃を検出できます。</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="HIDS%E3%81%A8NIDS%E3%81%AE%E6%AF%94%E8%BC%83"></span>HIDSとNIDSの比較<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>侵入検知システムを選択する場合は、HIDS と NIDS の違いを理解し、どちらが組織の特定の環境に最適であるかを判断することが重要です。</p>
+
+
+
+<figure class="wp-block-table"><table><thead><tr><th>基準</th><th>HIDS</th><th>巣</th></tr></thead><tbody><tr><td>位置決め</td><td>個々のホストにインストールされる</td><td>ネットワークインフラに実装</td></tr><tr><td>機能している</td><td>ローカルファイルとプロセスを監視します</td><td>ネットワークトラフィックを監視します</td></tr><tr><td>検出された攻撃の種類</td><td>ファイルの変更、ルートキットなど。</td><td>ポートスキャン、DDoSなど</td></tr><tr><td>範囲</td><td>ホストマシン限定</td><td>ネットワーク全体に拡張</td></tr><tr><td>パフォーマンス</td><td>ホストの負荷の影響を受ける可能性があります</td><td>ネットワークトラフィック量に依存</td></tr></tbody></table></figure>
+
+
+
+<p>効果的に組み合わせることで <strong>HIDS</strong> そして <strong>巣</strong>、企業はセキュリティの全体的な視点から恩恵を受け、悪意のあるアクティビティをより確実に検出できます。</p>
+
+
+
+<p>HIDS および NIDS の導入は、サイバー脅威との戦いにおける積極的な戦略を表します。各組織は、これらの必須の侵入検知システムを統合することにより、最適なセキュリティ インフラストラクチャを構築するための固有のニーズを評価する必要があります。常に警戒を怠らず、適切なツールを装備することで、デジタル リソースを侵入から大幅に保護することができます。</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="HIDS_%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_%E6%A9%9F%E8%83%BD%E3%81%A8%E5%88%A9%E7%82%B9"></span>HIDS について: 機能と利点<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png" alt="" class="wp-image-1641" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDS%E3%81%AE%E7%89%B9%E5%BE%B4"></span>HIDSの特徴<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>        ザ <strong>特徴</strong> HIDS の主な機能には、構成とファイルの監査、ファイル整合性の監視、悪意のある動作パターンの認識、およびログ管理が含まれます。 HIDS システムは、不審なアクティビティが検出された場合に、接続を閉じたりアクセス権を変更したりすることで、積極的に動作することもできます。 HIDS は、より包括的な IT セキュリティをカバーするために、NIDS に加えてよく使用されます。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDS%E3%81%AE%E5%88%A9%E7%82%B9"></span>HIDSの利点<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>        HIDS を使用すると、いくつかのメリットが得られます。 <strong>利点</strong>。まず、ホスト システムを正確に監視することで、NIDS が見逃した可能性のある侵入をきめ細かく検出できます。これらは、重要なシステム ファイルへの不正な変更やローカル悪用の試みを特定するのに特に効果的です。もう 1 つの利点は、ネットワーク トラフィックが暗号化されている場合でも HIDS の有効性が維持されることですが、NIDS では必ずしもそうであるとは限りません。さらに、HIDS は、該当するセキュリティ ポリシーおよび規制への準拠を確保するのに役立ちます。</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="NIDS_%E3%81%AE%E8%AA%AC%E6%98%8E_%E3%81%9D%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A8%E5%88%A9%E7%82%B9"></span>NIDS の説明: その仕組みと利点<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png" alt="" class="wp-image-1642" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="NIDS_%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF"></span>NIDS の仕組み<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>の操作 <strong>ネス</strong> いくつかの主要な段階に分類できます。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>データ収集</strong> : NIDS は、ネットワーク上を移動するパケットを吸い上げることにより、ネットワーク トラフィックをリアルタイムで監視します。</li>
+
+
+
+<li><strong>トラフィック分析</strong> : 収集されたデータは、署名検査、ヒューリスティック分析、動作分析などのさまざまな方法を使用して分析されます。</li>
+
+
+
+<li><strong>アラームと通知</strong> : 不審なアクティビティが検出されると、NIDS はアラームを鳴らし、ネットワーク管理者に通知を送信します。</li>
+
+
+
+<li><strong>統合と対応</strong> : 一部の NIDS は、他のセキュリティ システムと統合して、検出された脅威に対する自動応答を調整できます。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="NIDS_%E3%81%AE%E5%88%A9%E7%82%B9"></span>NIDS の利点<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>の実装 <strong>ネス</strong> 企業ネットワーク内では、いくつかの大きな利点があります。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>リアルタイムアラート</strong> : 管理者が潜在的な脅威を即座に認識し、迅速に対応できるようにします。</li>
+
+
+
+<li><strong>侵入防止</strong> : NIDS は、異常なアクティビティを迅速に検出することで、重大な損害を引き起こす前に侵入を防ぐのに役立ちます。</li>
+
+
+
+<li><strong>トラフィックを理解する</strong> : ネットワーク上で何が起こっているかをより良く可視化します。これはセキュリティ管理に不可欠です。</li>
+
+
+
+<li><strong>法規制への適合</strong> : 場合によっては、NIDS を使用すると、さまざまなサイバーセキュリティ標準や規制の要件を満たすことができます。</li>
+
+
+
+<li><strong>事件の記録</strong> : 後の分析や、場合によっては法的証拠のためにセキュリティ インシデントを記録する機能を提供します。</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="NIDS_%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E8%80%83%E6%85%AE%E4%BA%8B%E9%A0%85"></span>NIDS を選択する際の考慮事項<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>正しいものを選択してください <strong>ネス</strong> 企業特有のニーズを徹底的に分析する必要があります。以下に重要な考慮事項をいくつか示します。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ネットワークの互換性</strong> : NIDS が既存のネットワーク インフラストラクチャとシームレスに統合できることを確認します。</li>
+
+
+
+<li><strong>検出能力</strong> : NIDS シグネチャと検出方法の有効性、および脅威に応じて進化する能力を評価します。</li>
+
+
+
+<li><strong>パフォーマンス</strong> : NIDS は、大幅な遅延を引き起こすことなくネットワーク トラフィック量を処理できなければなりません。</li>
+
+
+
+<li><strong>管理のしやすさ</strong> : アラートを簡単かつ効率的に管理できるように、NIDS インターフェイスはユーザーフレンドリーである必要があります。</li>
+
+
+
+<li></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="HIDS_%E3%81%A8_NIDS_%E3%81%AE%E9%81%B8%E6%8A%9E_%E6%B1%BA%E5%AE%9A%E5%9F%BA%E6%BA%96%E3%81%A8%E4%BD%BF%E7%94%A8%E7%8A%B6%E6%B3%81"></span>HIDS と NIDS の選択: 決定基準と使用状況<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png" alt="" class="wp-image-1643" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDS_%E3%81%A8_NIDS_%E3%81%AE%E3%81%A9%E3%81%A1%E3%82%89%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%99%E3%82%8B%E3%81%8B%E3%81%AE%E5%88%A4%E6%96%AD%E5%9F%BA%E6%BA%96"></span>HIDS と NIDS のどちらを選択するかの判断基準<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>HIDS システムと NIDS システムのどちらを選択するかは、いくつかの要因によって決まります。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>監視の規模</strong> : HIDS は個々のシステムの監視に適していますが、NIDS はネットワーク環境向けに設計されています。</li>
+
+
+
+<li><strong>保護するデータの種類</strong> : 特定のサーバーに保存されている重要なデータを保護する必要がある場合は、HIDS の方が適切かもしれません。データ転送を安全にするには、NIDS が望ましいです。</li>
+
+
+
+<li><strong>システムパフォーマンス</strong> : HIDS は、保護しているホスト上でより多くのシステム リソースを消費する可能性がありますが、NIDS は通常、ネットワーク監視に専用のリソースを必要とします。</li>
+
+
+
+<li><strong>導入の複雑さ</strong> : HIDS のインストールは、より特殊なネットワーク構成が必要な NIDS のセットアップよりも複雑ではありません。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDS_%E3%81%A8_NIDS_%E3%81%AE%E4%BD%BF%E7%94%A8%E7%8A%B6%E6%B3%81"></span>HIDS と NIDS の使用状況<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>HIDS と NIDS のどちらを使用するかの決定は、多くの場合、使用状況によって決まります。</p>
+
+
+
+<ul class="wp-block-list">
+<li>多くのリモート エンドポイントを持つ企業の場合、各デバイスで HIDS を使用すると、綿密な監視が可能になります。</li>
+
+
+
+<li>大規模で異種ネットワークを持つ組織は、ネットワーク活動をグローバルに可視化するために NIDS を好む場合があります。</li>
+
+
+
+<li>サーバーのパフォーマンスと整合性が重要であるデータセンターでは、サーバーごとに HIDS を実装することでメリットが得られます。</li>
+</ul>
+
+
+
+<p>HIDS と NIDS のどちらを選択するかは、セキュリティ目標、IT 構造、組織の運用条件に合わせて慎重に選択する必要があります。 HIDS はシステムレベルの詳細な監視に最適ですが、NIDS はネットワーク全体の監視ニーズによりよく対応します。この 2 つを組み合わせることが、サイバーセキュリティの脅威に対する最善の防御となる場合があります。</p>
+
+
+
+<p>一部のサプライヤーは、両方のシステムの機能を統合したハイブリッド ソリューションを提供していることに注意してください。 <strong>シマンテック</strong>、 <strong>マカフィー</strong>、 または <strong>鼻を鳴らす</strong>。最終的な選択をする前に、時間をかけてニーズを評価してください。</p>
+
+

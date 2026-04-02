@@ -1,0 +1,311 @@
+---
+title: "د متن کان کیندنه څه ده؟ تعریف"
+slug: "article-2-38"
+excerpt: "د متن کان کیندنې پیژندنه د د متن کان کیندنه، یا په فرانسوي کې د متن کان کیندنه ، د ډیټا ساینس یوه څانګه ده چې د متن ډیټا لوی سیټونو څخه د ګټورو معلوماتو استخراج باندې تمرکز کوي. ډیری وختونه سره تړاو لري د طبیعي ژبې پروسس کول (NLP)، د متن کان کیندنې د [&hellip;]"
+date: "2024-03-09T12:10:25"
+categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%a9%d9%85%d9%be%db%8c%d9%88%d9%bc%d8%b1%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d9%bc%d8%a7-ps"]
+---
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Natural Language Processing (NLP) &amp; Text Mining Tutorial | Machine Learning Tutorial | Simplilearn" width="500" height="281" src="https://www.youtube.com/embed/7WfoYl-EPtI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%BE%DB%8C%DA%98%D9%86%D8%AF%D9%86%D9%87" >د متن کان کیندنې پیژندنه</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%86%D9%86%DA%AB%D9%88%D9%86%DB%90" >د متن کان کیندنې ننګونې</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%BE%D8%B1%D9%88%D8%B3%D9%87" >د متن کان کیندنې پروسه</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%88%D8%B3%DB%8C%D9%84%DB%90" >د متن کان کیندنې وسیلې</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%86%D9%86%DA%AB%D9%88%D9%86%DB%90-2" >د متن کان کیندنې ننګونې</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-6" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D8%AA%D8%AE%D9%86%DB%8C%DA%A9%D9%88%D9%86%D9%87" >د متن کان کیندنې تخنیکونه</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D8%A7%D8%B5%D9%84%D9%8A_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D8%AA%D8%AE%D9%86%DB%8C%DA%A9%D9%88%D9%86%D9%87" >د اصلي متن کان کیندنې تخنیکونه</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%BE%D8%B1%D9%85%D8%AE%D8%AA%D9%84%D9%84%D9%8A_%D8%AA%D8%AE%D9%86%DB%8C%DA%A9%D9%88%D9%86%D9%87" >د متن کان کیندنې پرمختللي تخنیکونه</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-9" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%DA%A9%D8%A7%D8%B1%D9%88%D9%84%D9%88_%D8%BA%D9%88%DA%9A%D8%AA%D9%86%D9%84%DB%8C%DA%A9%D9%88%D9%86%D9%87_%D8%A7%D9%88_%D9%85%D8%AB%D8%A7%D9%84%D9%88%D9%86%D9%87" >د متن کان کیندنې کارولو غوښتنلیکونه او مثالونه</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-10" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%85%D8%AA%D9%86%D9%88%D8%B9_%D8%BA%D9%88%DA%9A%D8%AA%D9%86%D9%84%DB%8C%DA%A9%D9%88%D9%86%D9%87" >د متن کان کیندنې متنوع غوښتنلیکونه</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/ps/%d8%af-%d9%85%d8%aa%d9%86-%da%a9%d8%a7%d9%86-%da%a9%db%8c%d9%86%d8%af%d9%86%d9%87-%da%85%d9%87-%d8%af%d9%87%d8%9f-%d8%aa%d8%b9%d8%b1%db%8c%d9%81/#%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%DA%A9%D8%A7%D8%B1%D9%88%D9%84%D9%88_%D9%85%D8%AB%D8%A7%D9%84%D9%88%D9%86%D9%87" >د متن کان کیندنې کارولو مثالونه</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%BE%DB%8C%DA%98%D9%86%D8%AF%D9%86%D9%87"></span>د متن کان کیندنې پیژندنه<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>د <strong>د متن کان کیندنه</strong>، یا په فرانسوي کې د متن کان کیندنه ، د ډیټا ساینس یوه څانګه ده چې د متن ډیټا لوی سیټونو څخه د ګټورو معلوماتو استخراج باندې تمرکز کوي. ډیری وختونه سره تړاو لري <strong>د طبیعي ژبې پروسس کول</strong> (NLP)، د متن کان کیندنې د تخنیکونو او وسایلو یوه ټولګه شامله ده چې د انسان ژبې د پوهیدو، تحلیل او پروسس کولو وړتیا لري چې په متني بڼه کې راټول شوي. </p>
+
+
+
+<p>د متن کان کیندنې مخ په زیاتیدونکي کارول په لویه کچه د ډیجیټل موجود ډیټا د چاودنې له امله دي، په ځانګړې توګه د ټولنیزو شبکو، خبرونو سایټونو او آنلاین فورمونو له لارې، د معلوماتو څیړنې لپاره ارزښتناکه سرچینې چمتو کول، د ستراتیژیک یا پیرودونکو خدماتو څارنه.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%86%D9%86%DA%AB%D9%88%D9%86%DB%90"></span>د متن کان کیندنې ننګونې<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>د مسلې <strong>د متن کان کیندنه</strong> ډیری دي او په مختلفو سکتورونو اغیزه کوي. شرکتونه دا د پیرودونکو احساساتو تحلیل کولو، د بازار رجحاناتو یا حتی د خپلو محصولاتو ښه کولو لپاره کاروي. په روغتیا پاملرنې کې، د متن کان کیندنه کولی شي د ساینسي مقالو او طبي ریکارډونو څخه د حیاتي معلوماتو په استخراج سره د بایو میډیکل څیړنې کې مرسته وکړي. </p>
+
+
+
+<p>په اکاډمیک کچه، دا د کیفي ډیټا تحلیل وړ کوي په پخوانۍ غیر تصور وړ پیمانه. په لنډه توګه، د متن کان کیندنې ماسټر کول رقابتي ګټه وړاندې کوي او په عملي پوهه کې د خام ډیټا په بدلولو سره په باخبره پریکړه کولو کې مرسته کوي.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%BE%D8%B1%D9%88%D8%B3%D9%87"></span>د متن کان کیندنې پروسه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د پروسې <strong>د متن کان کیندنه</strong> په څو مهمو پړاوونو ویشل کیدی شي:</p>
+
+
+
+<ol class="wp-block-list">
+<li>د معلوماتو راټولول: د متني ډیټا سیټونو انتخاب او چمتو کول.</li>
+
+
+
+<li>د معلوماتو پاکول: د غلطیو له مینځه وړل او معیاري کول (د ټکي له مینځه وړل، کوچني تورونه، او نور).</li>
+
+
+
+<li>نښه کول: متن په کوچنیو واحدونو لکه کلمو یا جملو ویشل.</li>
+
+
+
+<li>مورفوسینټیک تحلیل: د وینا د برخو پیژندنه او په متن کې د دوی فعالیت.</li>
+
+
+
+<li>د نوم شوي وجود استخراج: د عناصرو پیژندل او طبقه بندي کول لکه مناسب نومونه، ځایونه یا نیټې.</li>
+
+
+
+<li>د متن ویکتورایزیشن: د متن بدلول په ډیجیټل بڼه کې د الګوریتمیک ماډلونو لخوا کارول کیدی شي.</li>
+
+
+
+<li>د ماشین زده کړې الګوریتم پلي کول: د نمونو ، رجحاناتو پیژندلو یا وړاندوینې کولو لپاره د الګوریتمونو کارول.</li>
+
+
+
+<li>د پایلو تشریح او لید: د پایلو وړاندې کول په داسې طریقه چې پای کارونکي پوه شي.</li>
+</ol>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%88%D8%B3%DB%8C%D9%84%DB%90"></span>د متن کان کیندنې وسیلې<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>متخصصینو ته د ترسره کولو لپاره ډیری وسایل او کتابتونونه شتون لري <strong>د متن کان کیندنه</strong>. د غوره پیژندل شوي او کارول شوي څخه موږ موندلی شو:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>NLTK</strong> : د Python لپاره د ژبې پروسس کولو کتابتون، د پیل کونکو لپاره مناسب.</li>
+
+
+
+<li><strong>TextBlob</strong> : د Python بل کتابتون، د عام متن کان کیندنې دندو لپاره کارول اسانه دي.</li>
+
+
+
+<li><strong>جینسیم</strong> : د Python کتابتون د موضوع ماډلینګ او د اسنادو ورته والی باندې تمرکز کوي.</li>
+
+
+
+<li><strong>SpaCy</strong> : د طبیعي ژبې پروسس کې د صنعتي غوښتنلیکونو لپاره یو ډیر پرمختللی کتابتون.</li>
+
+
+
+<li><strong>اپاچی OpenNLP</strong> : د ماشین زده کړې پر بنسټ د کلمو پروسس کولو لپاره د جاوا وسیله.</li>
+
+
+
+<li>پلیټ فارمونه لکه <strong>RapidMiner</strong> یا <strong>KNIME</strong> کوم چې د متن کان کیندنې لپاره ګرافیکي انٹرفیس وړاندیز کوي.</li>
+
+
+
+<li></li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%86%D9%86%DA%AB%D9%88%D9%86%DB%90-2"></span>د متن کان کیندنې ننګونې<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د دې پرمختګ سره سره، د <strong>د متن کان کیندنه</strong> باید لا هم ځینې مشکلات له منځه یوسو:</p>
+
+
+
+<ul class="wp-block-list">
+<li>د ژبو تنوع او ژبني بیان معیاري کول او تحلیل پیچلي کوي.</li>
+
+
+
+<li>د انساني ژبې ابهام د څو معناوو د ټاکلو لپاره پیچلي الګوریتم ته اړتیا لري.</li>
+
+
+
+<li>د طنز، طنز، او ځانګړي کلتوري شرایطو شتون کولی شي د احساساتو تحلیلونه تحریف کړي.</li>
+
+
+
+<li>د شخصي یا حساس متن ډیټا کارولو شاوخوا محرمیت او اخلاقي مسلې.</li>
+</ul>
+
+
+
+<p>په هرصورت، د مصنوعي استخباراتو او NLP په برخه کې د پرله پسې پرمختګونو سره، دا ننګونې په زیاتیدونکي توګه د پام وړ کیږي.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D8%AA%D8%AE%D9%86%DB%8C%DA%A9%D9%88%D9%86%D9%87"></span>د متن کان کیندنې تخنیکونه<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-que-le-text-mining-.png" alt="" class="wp-image-1204" srcset="/images/blog/Quest-ce-que-le-text-mining-.png 1792w, /images/blog/Quest-ce-que-le-text-mining--300x171.png 300w, /images/blog/Quest-ce-que-le-text-mining--1024x585.png 1024w, /images/blog/Quest-ce-que-le-text-mining--150x86.png 150w, /images/blog/Quest-ce-que-le-text-mining--768x439.png 768w, /images/blog/Quest-ce-que-le-text-mining--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D8%A7%D8%B5%D9%84%D9%8A_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D8%AA%D8%AE%D9%86%DB%8C%DA%A9%D9%88%D9%86%D9%87"></span>د اصلي متن کان کیندنې تخنیکونه<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>د متن کان کیندنه په مختلفو بنسټیزو تخنیکونو تکیه کوي چې د متن څخه د ګټورو معلوماتو چمتو کولو او استخراج لپاره اړین دي. دلته د دې تخنیکونو څخه ځینې دي:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>نښه کول</strong> : د متن په بنسټیزو واحدونو ویشل، لکه کلمې یا جملې.</li>
+
+
+
+<li><strong>د متن پاکول</strong> : د غیر ضروري حروفو لرې کول یا د هغو کلمو بندول چې کوم مهم معلومات نه ورکوي.</li>
+
+
+
+<li><strong>ډډ کول او لیمماتائزیشن</strong> : د کلمو کمول د دوی ریښې یا بنسټیز شکل ته د پرتله کولو او تحلیل اسانتیا لپاره.</li>
+
+
+
+<li><strong>د وینا برخه نښه کول</strong> : په متن کې د وینا د برخو پیژندنه (اسمونه، فعلونه، صفتونه، او نور).</li>
+
+
+
+<li><strong>نحوي تحلیل</strong> : د جملې د ګرامري جوړښت تحلیل ترڅو د جملې مختلف عناصر او د دوی اړیکې وپیژني.</li>
+
+
+
+<li><strong>N-ګرامه</strong> : د ژبې د عامو نمونو د موندلو لپاره د نږدې کلمو ټولګه جوړول.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%BE%D8%B1%D9%85%D8%AE%D8%AA%D9%84%D9%84%D9%8A_%D8%AA%D8%AE%D9%86%DB%8C%DA%A9%D9%88%D9%86%D9%87"></span>د متن کان کیندنې پرمختللي تخنیکونه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د لومړنیو معلوماتو د استخراج څخه بهر، د متن کان کیندنې کې پرمختللي تخنیکونه هم کارول کیږي، په شمول:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>د متن طبقه بندي</strong> : د ماشین زده کړې الګوریتمونو په کارولو سره دمخه تاسیس شوي کټګوریو ته د متنونو اتوماتیک ګمارنه.</li>
+
+
+
+<li><strong>کلسترول</strong> : د مخکینۍ تعریف شوي کټګوریو کارولو پرته د ورته متنونو ګروپ کول.</li>
+
+
+
+<li><strong>د احساساتو تحلیل</strong> : د نظرونو او احساساتو ارزونه چې په متن کې څرګند شوي.</li>
+
+
+
+<li><strong>د نومول شویو ادارو استخراج</strong> : د ځانګړو ادارو پیژندنه او طبقه بندي کول لکه د خلکو، سازمانونو یا ځایونو نومونه.</li>
+
+
+
+<li><strong>د اتوماتیک متن لنډیز</strong> : د متن د محتوا د لنډیزونو نسل.</li>
+
+
+
+<li><strong>د ژبپوهنې نمونې پیژندنه</strong> : په ژبه کې د تکراري یا د پام وړ جوړښتونو پیژندنه.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%DA%A9%D8%A7%D8%B1%D9%88%D9%84%D9%88_%D8%BA%D9%88%DA%9A%D8%AA%D9%86%D9%84%DB%8C%DA%A9%D9%88%D9%86%D9%87_%D8%A7%D9%88_%D9%85%D8%AB%D8%A7%D9%84%D9%88%D9%86%D9%87"></span>د متن کان کیندنې کارولو غوښتنلیکونه او مثالونه<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-que-le-text-mining-1-1.png" alt="" class="wp-image-1205" srcset="/images/blog/Quest-ce-que-le-text-mining-1-1.png 1792w, /images/blog/Quest-ce-que-le-text-mining-1-1-300x171.png 300w, /images/blog/Quest-ce-que-le-text-mining-1-1-1024x585.png 1024w, /images/blog/Quest-ce-que-le-text-mining-1-1-150x86.png 150w, /images/blog/Quest-ce-que-le-text-mining-1-1-768x439.png 768w, /images/blog/Quest-ce-que-le-text-mining-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%D9%85%D8%AA%D9%86%D9%88%D8%B9_%D8%BA%D9%88%DA%9A%D8%AA%D9%86%D9%84%DB%8C%DA%A9%D9%88%D9%86%D9%87"></span>د متن کان کیندنې متنوع غوښتنلیکونه<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>د متن کان کیندنې خپل غوښتنلیک په پراخه ساحه کې موندلی، چې د هغې د ګټې اخیستنې لیږد جوړوي:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>رقابتي څارنه</strong>: سوداګرۍ په ویب کې بیاکتنې او تبصرې تحلیلوي ترڅو د دوی د برانډ او د دوی سیالانو شهرت وڅاري.</li>
+
+
+
+<li><strong>د پیرودونکو اړیکو مدیریت</strong>: د زنګ وهلو مرکزونه د متن کان کیندنې څخه کار اخلي ترڅو د تلیفون لیږد تحلیل کړي او د خدماتو کیفیت ښه کړي.</li>
+
+
+
+<li><strong>روغتیا</strong>: طبي مطالعات د متن کان کیندنې څخه کار اخلي ترڅو د ناروغانو ریکارډونه تحلیل کړي او په تشخیص کې مرسته وکړي.</li>
+
+
+
+<li><strong>مالیه</strong>: مالي شنونکي د خبرونو یا مالي راپورونو څخه د بازار احساساتو اندازه کولو لپاره د متن کان کیندنې ګټه پورته کوي.</li>
+
+
+
+<li><strong>علمي څیړنه</strong>: څیړونکي د متن کان کیندنې څخه کار اخلي ترڅو د لوی مقدار خپرونو سپړنه وکړي او د څیړنې په ځانګړي ساحه کې رجحانات وپیژني.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%AA%D9%86_%DA%A9%D8%A7%D9%86_%DA%A9%DB%8C%D9%86%D8%AF%D9%86%DB%90_%DA%A9%D8%A7%D8%B1%D9%88%D9%84%D9%88_%D9%85%D8%AB%D8%A7%D9%84%D9%88%D9%86%D9%87"></span>د متن کان کیندنې کارولو مثالونه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د متن کان کیندنې د کارولو کانکریټ مثالونه په بیلابیلو شرایطو کې د هغې احتمالي اغیزې په ګوته کوي:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>د احساساتو تحلیل</strong>: د مثال په توګه، یو کاروبار کولی شي په ټولنیزو رسنیو کې تبصرې تحلیل کړي ترڅو د خپلو محصولاتو یا خدماتو په اړه د پیرودونکو نظرونه مشخص کړي.</li>
+
+
+
+<li><strong>د معلوماتو استخراج</strong>: وکیلان کولی شي د متن کان کیندنې څخه کار واخلي ترڅو په منظم ډول د حقایقو، پایلو او پریکړو په تشریح کولو سره د اړونده پخوانیو قضیو په چټکتیا سره ومومي.</li>
+
+
+
+<li><strong>د اسنادو اتومات طبقه بندي</strong>: ډیجیټل کتابتونونه د متن کان کیندنې څخه کار اخلي ترڅو د دوی د مینځپانګې سره سم کارونه طبقه بندي کړي او لټونونه اسانه کړي.</li>
+
+
+
+<li><strong>د ادبي غلا کشف</strong>: ښوونیز بنسټونه د متن کان کیندنې سافټویر کاروي ترڅو د زده کونکو کار د موجوده ډیټابیس سره پرتله کړي او د غلا کشف کړي.</li>
+
+
+
+<li><strong>د رجحان وړاندوینه</strong>: شرکتونه د خپلو بازارموندنې ستراتیژیو لارښود کولو لپاره د مصرف کونکو رجحاناتو په اړه خبرونه او خپرونې تحلیلوي.</li>
+</ul>
+
+
+
+<p>په لنډه توګه، د غوښتنلیکونه <strong>د متن کان کیندنه</strong> د هغو ساحو په څیر متنوع دي چې دوی په کې کار کوي. د پیچلي متن ډیټا په جوړښت شوي ، د عمل وړ معلوماتو ته بدلولو سره ، د متن کان کیندنه د سوداګرۍ او سازمانونو لپاره ارزښتناکه وسیله ده چې غواړي د لوی کچې ډیټا تحلیلونو څخه ګټه پورته کړي. د AI او NLP تخنیکونو دوامداره تکامل ژمنه کوي چې د دې زړه راښکونکي ټیکنالوژۍ ځواک او لاسرسي ته وده ورکړي.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-que-le-text-mining-1-2.png" alt="" class="wp-image-1206" srcset="/images/blog/Quest-ce-que-le-text-mining-1-2.png 1792w, /images/blog/Quest-ce-que-le-text-mining-1-2-300x171.png 300w, /images/blog/Quest-ce-que-le-text-mining-1-2-1024x585.png 1024w, /images/blog/Quest-ce-que-le-text-mining-1-2-150x86.png 150w, /images/blog/Quest-ce-que-le-text-mining-1-2-768x439.png 768w, /images/blog/Quest-ce-que-le-text-mining-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@learnwithdrprince/video/7057488608042749230" data-video-id="7057488608042749230" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@learnwithdrprince" href="https://www.tiktok.com/@learnwithdrprince?refer=embed" rel="noopener">@learnwithdrprince</a> <p>Text mining strategy <a title="thisishoweedoit" target="_blank" href="https://www.tiktok.com/tag/thisishoweedoit?refer=embed" rel="noopener">#thisishoweedoit</a> <a title="lawsofmotion" target="_blank" href="https://www.tiktok.com/tag/lawsofmotion?refer=embed" rel="noopener">#lawsofmotion</a> <a title="isaacnewton" target="_blank" href="https://www.tiktok.com/tag/isaacnewton?refer=embed" rel="noopener">#isaacnewton</a> <a title="physicalscience" target="_blank" href="https://www.tiktok.com/tag/physicalscience?refer=embed" rel="noopener">#physicalscience</a> <a title="teachersoftiktok" target="_blank" href="https://www.tiktok.com/tag/teachersoftiktok?refer=embed" rel="noopener">#teachersoftiktok</a></p> <a target="_blank" title="♬ This Is How We Do It (Instrumental) - Montell Jordan" href="https://www.tiktok.com/music/This-Is-How-We-Do-It-Instrumental-6716682893936035842?refer=embed" rel="noopener">♬ This Is How We Do It (Instrumental) &#8211; Montell Jordan</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+</div></figure>
+
+

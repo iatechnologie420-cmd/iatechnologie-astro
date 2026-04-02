@@ -1,0 +1,358 @@
+---
+title: "Откријте ги професиите за податоци и вештачка интелигенција"
+slug: "article-1-23"
+excerpt: "Вовед во професиите на податоци и вештачка интелигенција Подемот на податоците и вештачката интелигенција (ВИ) доведе до изобилство на иновативни и разновидни професии. Во срцето на дигиталната револуција, овие специјализации станаа суштински за компаниите кои сакаат да го искористат потенцијалот што го нудат податоците и интелигентната автоматизација. Разбирање на професиите на податоци Науката за податоци, [&hellip;]"
+date: "2024-03-09T12:54:45"
+featuredImage: "/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
+categories: ["%d0%bf%d1%80%d0%b5%d1%81%d0%bc%d0%b5%d1%82%d1%83%d0%b2%d0%b0%d1%9a%d0%b5-%d0%b8-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-mk"]
+---
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%92%D0%BE%D0%B2%D0%B5%D0%B4_%D0%B2%D0%BE_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B8_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0" >Вовед во професиите на податоци и вештачка интелигенција</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8" >Разбирање на професиите на податоци</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9E%D1%82%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8_%D1%81%D0%BE_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0" >Откривање на професии со вештачка интелигенција</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%92%D0%B5%D1%88%D1%82%D0%B8%D0%BD%D0%B8_%D0%B8_%D0%BE%D0%B1%D1%83%D0%BA%D0%B0" >Вештини и обука</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%90%D0%BB%D0%B0%D1%82%D0%BA%D0%B8_%D0%B8_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" >Алатки и технологии</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9A%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B8_%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B8_%D0%BD%D0%B0_%D0%B0%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%98%D0%B0" >Конкретни случаи на апликација</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9F%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8%D1%82%D0%B5_%D0%B8_%D0%B8%D0%B4%D0%BD%D0%B8%D0%BD%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8%D1%82%D0%B5_%D0%BF%D0%BE%D0%B2%D1%80%D0%B7%D0%B0%D0%BD%D0%B8_%D1%81%D0%BE_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B8_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0" >Предизвиците и иднината на професиите поврзани со податоци и вештачка интелигенција</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-8" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%83%D1%86%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BD%D0%B8_%D1%81%D0%B5_%D0%BA%D0%BB%D1%83%D1%87%D0%BD%D0%B8_%D0%B2%D0%B5%D1%88%D1%82%D0%B8%D0%BD%D0%B8_%D0%B8_%D0%BE%D0%B1%D1%83%D0%BA%D0%B0" >Револуција на податоци: потребни се клучни вештини и обука</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%B3%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D1%82%D0%B5_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B8_%D0%BD%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8" >Разбирање на големите податоци и нивните предизвици</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9A%D0%BB%D1%83%D1%87%D0%BD%D0%B8%D1%82%D0%B5_%D0%B2%D0%B5%D1%88%D1%82%D0%B8%D0%BD%D0%B8_%D0%BD%D0%B0_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0%D1%82%D0%B0_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8" >Клучните вештини на науката за податоци</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9E%D0%B1%D1%83%D0%BA%D0%B0_%D0%B7%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BC%D0%B0%D1%9A%D0%B5_%D1%81%D0%BE%D0%BF%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8%D1%82%D0%B5" >Обука за преземање сопственост на податоците</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9F%D0%BE%D0%BC%D0%B5%D1%93%D1%83_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0%D1%82%D0%B0_%D0%B8_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%D1%82%D0%B0_%D0%B2%D0%B0%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B0_%D0%BD%D0%B0_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE" >Помеѓу теоријата и практиката: важноста на искуството</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-13" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0%D1%82%D0%B0_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B8_%D0%BD%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5_%D0%BC%D0%B8%D1%81%D0%B8%D0%B8" >Главните професии на науката за податоци и нивните мисии</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D1%82_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8" >Научникот за податоци, експерт за податоци</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-15" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B0%D1%80%D0%BE%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%BF%D1%80%D0%B5%D0%B2%D0%B5%D0%B4%D1%83%D0%B2%D0%B0%D1%87%D0%BE%D1%82_%D0%BD%D0%B0_%D0%B1%D1%80%D0%BE%D1%98%D0%BA%D0%B8" >Аналитичарот на податоци, преведувачот на бројки</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-16" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D1%82_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0" >Инженерот за податоци, градител на инфраструктура</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-17" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82_%D0%BD%D0%B0_%D0%B5%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BE%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8" >Архитект на податоци, архитект на екосистемот на податоци</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-18" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%92%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0_%D0%B2%D0%BE_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B8%D1%81%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8_%D0%B8_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%B8%D0%B4%D0%BD%D0%B8%D0%BD%D0%B0%D1%82%D0%B0" >Вештачката интелигенција во служба на бизнисите: предизвици и професии на иднината</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-19" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9F%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0_%D0%B7%D0%B0_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B8%D1%81%D0%B8%D1%82%D0%B5" >Предизвиците на вештачката интелигенција за бизнисите</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-20" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%B8%D0%B4%D0%BD%D0%B8%D0%BD%D0%B0%D1%82%D0%B0_%D0%BF%D0%BE%D0%B2%D1%80%D0%B7%D0%B0%D0%BD%D0%B8_%D1%81%D0%BE_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0" >Професиите на иднината поврзани со вештачката интелигенција</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-21" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BD%D0%B0_%D0%B5_%D0%BE%D0%B1%D1%83%D0%BA%D0%B0_%D0%B8_%D0%B2%D0%B5%D1%88%D1%82%D0%B8%D0%BD%D0%B8" >Потребна е обука и вештини</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-22" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%92%D0%BB%D0%B8%D1%98%D0%B0%D0%BD%D0%B8%D0%B5%D1%82%D0%BE_%D0%B2%D1%80%D0%B7_%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D0%B8_%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8_%D0%BD%D0%B0_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82" >Влијанието врз различни сектори на активност</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-23" href="/mk/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d1%98%d1%82%d0%b5-%d0%b3%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d0%b8%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b8-%d0%b2/#%D0%95%D1%82%D0%B8%D1%87%D0%BA%D0%B8_%D0%B8_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8" >Етички и регулаторни предизвици</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D0%92%D0%BE%D0%B2%D0%B5%D0%B4_%D0%B2%D0%BE_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B8_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0"></span>Вовед во професиите на податоци и вештачка интелигенција<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>Подемот на податоците и вештачката интелигенција (ВИ) доведе до изобилство на иновативни и разновидни професии. Во срцето на дигиталната револуција, овие специјализации станаа суштински за компаниите кои сакаат да го искористат потенцијалот што го нудат податоците и интелигентната автоматизација.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8"></span>Разбирање на професиите на податоци<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>Науката за податоци, вистински пресек помеѓу статистиката, анализата на податоци и ИТ, нуди низа професии чија мисија е да извлечат знаење или увид од сложени податоци. Во центарот на овие професии е Data Scientist, кој користи алгоритамски модели за да анализира масивни податоци. Други улоги вклучуваат аналитичар на податоци, кој се фокусира на толкување на податоците за да заклучи трендови и обрасци, и инженер за податоци кој развива и управува со техничката инфраструктура неопходна за складирање и манипулирање со податоци.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9E%D1%82%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8_%D1%81%D0%BE_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0"></span>Откривање на професии со вештачка интелигенција<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>ВИ стана стратешка компонента за многу сектори на активност. Придружните професии цветаат и особено го вклучуваат развивачот на вештачка интелигенција, специјалист за имплементација на решенија за вештачка интелигенција во апликациите и услугите. Инженерот за машинско учење, од друга страна, дизајнира модели способни да научат големи количини на податоци. Не заборавајќи го експертот за роботика, кој ја поврзува вештачката интелигенција со контролата на автоматските физички системи.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%92%D0%B5%D1%88%D1%82%D0%B8%D0%BD%D0%B8_%D0%B8_%D0%BE%D0%B1%D1%83%D0%BA%D0%B0"></span>Вештини и обука<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Покрај солидните програмски вештини, често во Python или R, професионалците за податоци и вештачка интелигенција мора да имаат силно познавање на математиката, особено статистиката. Тие, исто така, мора да се вооружат со најновите алатки и технологии во оваа област, како што се платформите <strong>TensorFlow</strong> Или <strong>PyTorch</strong>, и да ги совладате етичките прашања поврзани со употребата на податоците. Курсевите за обука се разновидни и се движат од специјализирани магистерски студии до онлајн курсеви понудени од платформи како што се <strong>Coursera</strong> Или <strong>edX</strong>.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%90%D0%BB%D0%B0%D1%82%D0%BA%D0%B8_%D0%B8_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8"></span>Алатки и технологии<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Секојдневниот живот на професионалците за податоци и вештачка интелигенција се врти околу повеќе алатки и платформи. Меѓу нив, наоѓаме:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>SQL</strong> и системи за управување со бази на податоци</li>
+
+
+
+<li>Интегрирани развојни околини како <strong>тетратка Јупитер</strong></li>
+
+
+
+<li>Рамки за обработка на податоци во реално време како <strong>Апачи Кафка</strong></li>
+
+
+
+<li><strong>Гит</strong> за управување со верзијата и заедничка работа</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9A%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B8_%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B8_%D0%BD%D0%B0_%D0%B0%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%98%D0%B0"></span>Конкретни случаи на апликација<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Апликациите на податоци и вештачка интелигенција се огромни и влијаат на скоро сите сектори:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Финансии</strong> : откривање измама, управување со ризик, алгоритамско тргување</li>
+
+
+
+<li><strong>Здравје</strong> : асистирана дијагноза, оптимизација на третман, медицински истражувања</li>
+
+
+
+<li><strong>Малопродажба</strong> : персонализација на искуството на клиентите, управување со залихи</li>
+
+
+
+<li><strong>Транспорт</strong> : оптимизација на маршрутата, автономни возила</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9F%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8%D1%82%D0%B5_%D0%B8_%D0%B8%D0%B4%D0%BD%D0%B8%D0%BD%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8%D1%82%D0%B5_%D0%BF%D0%BE%D0%B2%D1%80%D0%B7%D0%B0%D0%BD%D0%B8_%D1%81%D0%BE_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B8_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0"></span>Предизвиците и иднината на професиите поврзани со податоци и вештачка интелигенција<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Професиите за податоци и вештачка интелигенција продолжуваат да се развиваат, постојано прилагодувајќи се на новите технолошки можности и општествените предизвици. Подемот на <strong>голем податок</strong> ја истакна важноста на заштитата на личните податоци и безбедноста на ИТ. Во исто време, интеграцијата на вештачката интелигенција во производите за широка потрошувачка, како што се интелигентните лични асистенти на <strong>Google</strong> Или <strong>Амазон</strong>, ги исцртува контурите на иднината каде технологијата и секојдневниот живот се тесно поврзани.<br>Светот на податоци и вештачка интелигенција е богат и динамичен, нудејќи низа возбудливи кариери. За љубителите на технологијата и иновациите, можностите се многубројни и ветувачки. Овие професии, кои претрпуваат брзи промени, се во срцето на утрешните предизвици и ги привлекуваат оние кои сакаат активно да учествуваат во градењето на иднината каде податоците и вештачката интелигенција го обликуваат нашиот свет.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%83%D1%86%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BD%D0%B8_%D1%81%D0%B5_%D0%BA%D0%BB%D1%83%D1%87%D0%BD%D0%B8_%D0%B2%D0%B5%D1%88%D1%82%D0%B8%D0%BD%D0%B8_%D0%B8_%D0%BE%D0%B1%D1%83%D0%BA%D0%B0"></span>Револуција на податоци: потребни се клучни вештини и обука<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>Во срцето на дигиталната трансформација, револуцијата на податоци продира низ целата економија и општество. Податоците сега се стратешко средство за компаниите и централна вештина за професионалците. Разбирањето на прашањата и стекнувањето на потребните вештини станува од суштинско значење за оние кои сакаат да напредуваат или да започнат кариера фокусирана на податоци. Ајде да видиме кои се овие клучни вештини и како да тренираме ефективно.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%B3%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D1%82%D0%B5_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B8_%D0%BD%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8"></span>Разбирање на големите податоци и нивните предизвици<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>Пред да се нурнете во вештините и обуката, од клучно значење е да се разбере што всушност значи терминот „големи податоци“. Се однесува на збирки на податоци кои се толку големи и сложени што е тешко да се обработат со традиционални алатки за управување со бази на податоци. Прашањата околу овие податоци се повеќекратни: одлучување засновано на реални податоци, персонализација на услугите, оптимизација на оперативните процеси и многу повеќе. </p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9A%D0%BB%D1%83%D1%87%D0%BD%D0%B8%D1%82%D0%B5_%D0%B2%D0%B5%D1%88%D1%82%D0%B8%D0%BD%D0%B8_%D0%BD%D0%B0_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0%D1%82%D0%B0_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8"></span>Клучните вештини на науката за податоци<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>За да се движите низ морето на големи податоци, тука се основните вештини:<br>1. Статистичка и математичка анализа: Како основа на секоја работа со податоци, способноста за разбирање и примена на статистичките принципи е најважна.<br>2. Програмирање: Совладување на јазици како <strong>Пајтон</strong> Или <strong>Р</strong> често е неопходно да се манипулира со податоците.<br>3. Машинско учење: Разбирањето како да се развијат, тестираат и применуваат моделите за предвидување станува сè побарувана вештина.<br>4. Обработка и визуелизација на податоци**: Знајте како да користите алатки како на пр <strong>Сликарство</strong> Или <strong>Моќ БИ</strong> да ги презентира податоците на пристапен начин.<br>5. Управување со бази на податоци**: Познавање на релациони и нерелациски системи за управување со бази на податоци.<br>6. Технологии за големи податоци**: Запознавање со рамки како <strong>Хадуп</strong> Или <strong>Искра</strong>.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9E%D0%B1%D1%83%D0%BA%D0%B0_%D0%B7%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BC%D0%B0%D1%9A%D0%B5_%D1%81%D0%BE%D0%BF%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8%D1%82%D0%B5"></span>Обука за преземање сопственост на податоците<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Еве како да тренирате за да ги стекнете овие вештини:<br>&#8211; Онлајн курсеви: Платформи како <strong>Coursera</strong> Или <strong>edX</strong> нудат специфични курсеви за наука за податоци и големи податоци.<br>&#8211; Универзитети и училишта: Дипломски курсеви по инженерство на податоци, магистерски студии по наука за податоци или анализа на податоци.<br>&#8211; Индустриски сертификати: <strong>Google</strong>, <strong>Мајкрософт</strong> И <strong>IBM</strong> нудат сертификати во науката за податоци и анализа на податоци.<br>&#8211; Bootcamps: Интензивни програми кои нудат целосно потопување во областа на науката за податоци.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9F%D0%BE%D0%BC%D0%B5%D1%93%D1%83_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0%D1%82%D0%B0_%D0%B8_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%D1%82%D0%B0_%D0%B2%D0%B0%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B0_%D0%BD%D0%B0_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE"></span>Помеѓу теоријата и практиката: важноста на искуството<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Стекнувањето теоретски вештини мора да биде надополнето со пракса. Еве како:<br>&#8211; Лични проекти: Креирајте проекти за манипулација со податоци за подобро да ги асимилирате концептите.<br>&#8211; Практиканти и програми за работа-студирање: Барајте професионални можности да ги примените вештините во реална ситуација.<br>На крајот на краиштата, револуцијата на податоците не е само за поседување на вештини, туку и за нивната интелигентна примена во различни контексти. Со правилна обука и доза на љубопитност, професионалците за податоци играат клучна улога во насочувањето на бизнисите кон успех во дигиталната ера.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0%D1%82%D0%B0_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B8_%D0%BD%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5_%D0%BC%D0%B8%D1%81%D0%B8%D0%B8"></span>Главните професии на науката за податоци и нивните мисии<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>Светот на науката за податоци продолжува да се шири, нарушувајќи ги воспоставените професионални обрасци. Добиените професии нудат различни мисии, но сите се фокусирани на искористување и анализа на огромни податоци. Да ги погледнеме подетално овие професии кои ја обликуваат иднината на обработката на информациите.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D1%82_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8"></span>Научникот за податоци, експерт за податоци<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>Во срцето на професиите на науката за податоци, <strong>Научник за податоци</strong> се истакнува како сестран експерт. Вистински алхемичар на податоци, тој има способност да создаде вредност од огромни збирки податоци (големи податоци). Нејзините главни мисии вклучуваат:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Собира и чисти често неструктурирани податоци</li>
+
+
+
+<li>Дизајн на предвидливи модели и алгоритми</li>
+
+
+
+<li>Користете напредни статистички техники за да ги анализирате податоците</li>
+
+
+
+<li>Пренесете ги вашите резултати со носителите на одлуки во компанијата</li>
+
+
+
+<li>Обезбедете етичност и доверливост на обработените информации</li>
+</ul>
+
+
+
+<p>Умешен во програмски јазици како што се <strong>Пајтон</strong> Или <strong>Р</strong>, како и алатки и платформи како што се <strong>Хадуп</strong> Или <strong>Искра</strong>, Научникот за податоци е тој што ги трансформира необработените податоци во функционални согледувања.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B0%D1%80%D0%BE%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%BF%D1%80%D0%B5%D0%B2%D0%B5%D0%B4%D1%83%D0%B2%D0%B0%D1%87%D0%BE%D1%82_%D0%BD%D0%B0_%D0%B1%D1%80%D0%BE%D1%98%D0%BA%D0%B8"></span>Аналитичарот на податоци, преведувачот на бројки<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>L&#8217;<strong>Аналитичар на податоци</strong> игра клучна улога во разбирањето и преведувањето на податоците во функционални увиди за бизнисот. Нејзините мисии вклучуваат:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Истражете ги збирките на податоци за да извлечете релевантни информации</li>
+
+
+
+<li>Креирајте визуелни извештаи користејќи контролни табли</li>
+
+
+
+<li>Тесно соработувајте со оперативните тимови за да ги разберете нивните потреби</li>
+
+
+
+<li>Вршете основни статистички анализи за поддршка на донесувањето одлуки</li>
+
+
+
+<li>Обезбедете мониторинг за да се оптимизираат процесите на анализа</li>
+</ul>
+
+
+
+<p>Користење на решенија како <strong>Сликарство</strong>, <strong>Microsoft Power BI</strong> или <strong>Google Analytics</strong> често се бара да ги извршува своите задачи.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D1%82_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0"></span>Инженерот за податоци, градител на инфраструктура<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>L&#8217;<strong>Инженер за податоци</strong>, или Data Engineer, се фокусира на дизајнирање и одржување на инфраструктурата неопходна за складирање и обработка на податоци. Неговите одговорности вклучуваат:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Изградете робусни и скалабилни цевководи за податоци</li>
+
+
+
+<li>Оптимизирајте ги системите за складирање податоци</li>
+
+
+
+<li>Работете со Data Scientists за да ја подготвите околината за нивните анализи</li>
+
+
+
+<li>Управувајте со базите на податоци и гарантирајте ги нивните перформанси</li>
+
+
+
+<li>Обезбедете пристап до податоците и обезбедете го нивниот интегритет</li>
+</ul>
+
+
+
+<p>Надлежни во <strong>SQL</strong>, во софтверското инженерство и запознаени со системи како <strong>Веб-услуги на Амазон</strong> (AWS) или <strong>Google Cloud Platform</strong> (GCP), тој е гарант за квалитетот и достапноста на податоците.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82_%D0%BD%D0%B0_%D0%B5%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BE%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8"></span>Архитект на податоци, архитект на екосистемот на податоци<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>НА <strong>Архитект на податоци</strong> ги воспоставува основите на кои ќе се изградат другите професионалци на Data Science. Тој е одговорен за:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Дефинирајте ја целокупната архитектура на податоци во рамките на компанијата</li>
+
+
+
+<li>Дизајнирајте оптимизирани модели на податоци за известување и анализа</li>
+
+
+
+<li>Обезбедете приспособливост и системска интеграција</li>
+
+
+
+<li>Соработувајте со ИТ тимови за да ги имплементирате најдобрите практики</li>
+
+
+
+<li>Предвидете ги идните потреби за управување со податоци</li>
+</ul>
+
+
+
+<p>Архитектите на податоци мора да имаат стратешка визија за да создадат кохерентна и ефикасна средина за податоци за нивната организација.<br>Практиката на Data Science мобилизира низа вештини и експертиза кои се дистрибуирани во овие различни професии. Заедничко за сите нив е вредноста создадена од податоците. Без разлика дали за да се оптимизираат процесите, да се создадат иновативни производи или да се информира стратешкото одлучување, професионалците во областа се од суштинско значење за дигиталната трансформација и интелигентното искористување на достапните податоци. Нивната улога само расте како што технологиите се развиваат и обемот на податоци продолжува да расте експоненцијално.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D0%92%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0_%D0%B2%D0%BE_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B8%D1%81%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8_%D0%B8_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%B8%D0%B4%D0%BD%D0%B8%D0%BD%D0%B0%D1%82%D0%B0"></span>Вештачката интелигенција во служба на бизнисите: предизвици и професии на иднината<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>Вештачката интелигенција (ВИ) го редефинира начинот на функционирање на бизнисите, создавајќи нова ера на иновации и конкурентност. Денес, тоа е моќен лост за раст и трансформација за организации од сите големини. Со анализа на големи количини на податоци и донесување автономни одлуки, ВИ им нуди на бизнисите можност значително да ја подобрат нивната ефикасност, продуктивност и да испорачаат персонализирани кориснички искуства. Овој технолошки хоризонт предизвикува појава на перспективни професии и го означува почетокот на револуцијата на пазарот на труд.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9F%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0_%D0%B7%D0%B0_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B8%D1%81%D0%B8%D1%82%D0%B5"></span>Предизвиците на вештачката интелигенција за бизнисите<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>Имплементацијата на вештачката интелигенција во професионалната средина е придружена со различни прашања кои бараат стратешко размислување.</p>
+
+
+
+<p>&#8211; <strong>Анализа и обработка на податоци</strong>: AI овозможува оптимална експлоатација на податоците, трансформирани во стратешки информации за деловни одлуки.<br>&#8211; <strong>Автоматизирање</strong>: Повторливите задачи кои одземаат многу време се делегираат на машините, со што се ослободува времето на вработените за задачи со поголема додадена вредност.<br>&#8211; <strong>Персонализација</strong> искуство на клиентите: ВИ помага да се разберат и да се предвидат потребите на клиентите нудејќи решенија прилагодени.<br>&#8211; <strong>Оптимизација на трошоците</strong>: Ефикасноста што ја обезбедува вештачката интелигенција помага да се намалат оперативните трошоци.<br>&#8211; <strong>Иновации</strong>: Технолошкиот мониторинг и интеграцијата на вештачката интелигенција се извори на нови иновативни производи и услуги.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%B8%D0%B4%D0%BD%D0%B8%D0%BD%D0%B0%D1%82%D0%B0_%D0%BF%D0%BE%D0%B2%D1%80%D0%B7%D0%B0%D0%BD%D0%B8_%D1%81%D0%BE_%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0"></span>Професиите на иднината поврзани со вештачката интелигенција<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Доаѓањето на вештачката интелигенција во светот на бизнисот води кон раѓање на нови професии и реинвенција на постоечките професии.<br>1. <strong>Научник за податоци</strong>: Експертот за податоци кој дизајнира предвидливи модели од големи податоци.<br>2. <strong>Инженер за вештачка интелигенција</strong>: Специјалист за развој на алгоритми и системи за вештачка интелигенција.<br>3. <strong>Аналитичар за сајбер безбедност</strong>: Чувар на системската безбедност, уште поклучен во ерата на вештачката интелигенција.<br>4. <strong>Раководител за етика на вештачка интелигенција</strong>: Нова функција која се појавува за следење на усогласувањето на практиките на вештачката интелигенција со прописите и моралот.<br>5. <strong>UX дизајнер</strong>: Креатор на кориснички интерфејси кои вклучуваат функции за вештачка интелигенција за подобрување на искуството на клиентите.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BD%D0%B0_%D0%B5_%D0%BE%D0%B1%D1%83%D0%BA%D0%B0_%D0%B8_%D0%B2%D0%B5%D1%88%D1%82%D0%B8%D0%BD%D0%B8"></span>Потребна е обука и вештини<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Стекнувањето вештини за вештачка интелигенција бара обука за основни дисциплини како што се математика, статистика, компјутерски науки, но и етика и право. Силни аналитички вештини, добро разбирање на технологиите за машинско учење и длабоко учење и практично знаење за управување со проекти се од фундаментално значење.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%92%D0%BB%D0%B8%D1%98%D0%B0%D0%BD%D0%B8%D0%B5%D1%82%D0%BE_%D0%B2%D1%80%D0%B7_%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D0%B8_%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8_%D0%BD%D0%B0_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82"></span>Влијанието врз различни сектори на активност<span class="ez-toc-section-end"></span></h4>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>Сектор</td><td>Влијание на вештачката интелигенција</td></tr><tr><td>Финансии</td><td>Откривање измами, виртуелни финансиски советници, алгоритамско тргување</td></tr><tr><td>Здравје</td><td>Помошна дијагноза, хируршка роботика, управување со датотеки со пациенти</td></tr><tr><td>Малопродажба</td><td>Персонализирање на патувањето на клиентите, оптимизирано управување со залихите</td></tr><tr><td>Транспорт</td><td>Оптимизација на рутата, автономни возила, предвидливо одржување</td></tr></tbody></table></figure>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D0%95%D1%82%D0%B8%D1%87%D0%BA%D0%B8_%D0%B8_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B2%D0%B8%D1%86%D0%B8"></span>Етички и регулаторни предизвици<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>Интеграцијата на вештачката интелигенција во бизнисите покренува различни етички и правни прашања. Заштитата на личните податоци, објаснувањето на одлуките за алгоритам, спречувањето на пристрасност и правичната распределба на технолошките придобивки се главните предизвици што треба да се исполнат. Повеќе од кога било, неопходна е соработка меѓу компаниите, регулаторите и граѓанското општество за да се надгледува распоредувањето на вештачката интелигенција.</p>
+
+
+
+<p>Вештачката интелигенција е постојана револуција која го преобликува пејзажот на бизнисот и работата. За успешно спроведување на оваа трансформација, организациите не само што мора да ги интегрираат најсовремените технички и научни вештини, туку и да развијат етичко размислување за употребата на овие технологии. Вештачката интелигенција не е само моќна алатка, туку е и катализатор за промени што ја обликува иднината на нашите општества и отвора иновативни професионални можности.</p>
+
+

@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('articles');
+const outils = await getCollection('outils');
+const categories = await getCollection('categories');
+---
+
+<html>
+  <body>
+    <h1>Debug Collections</h1>
+    <h2>Articles ({articles.length})</h2>
+    <ul>
+      {articles.slice(0, 5).map(a => (
+        <li>{a.id} - {a.data.title}</li>
+      ))}
+    </ul>
+    <h2>Outils ({outils.length})</h2>
+    <ul>
+      {outils.slice(0, 5).map(o => (
+        <li>{o.id} - {o.data.title}</li>
+      ))}
+    </ul>
+    <h2>Categories ({categories.length})</h2>
+    <ul>
+      {categories.slice(0, 5).map(c => (
+        <li>{c.id} - {c.data.name}</li>
+      ))}
+    </ul>
+  </body>
+</html>

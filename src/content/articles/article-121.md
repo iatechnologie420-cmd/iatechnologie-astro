@@ -1,0 +1,216 @@
+---
+title: "الان تورینګ او د مصنوعي استخباراتو زیږون"
+slug: "article-121"
+excerpt: "الن تورینګ: د مصنوعي استخباراتو بنسټ ایښودونکی الن تورینګ: د مصنوعي استخباراتو بنسټ ایښودونکید مصنوعي استخباراتو (AI) تاریخ په بشپړه توګه د الان تورینګ نوم له یادولو پرته نشي ویل کیدی، چې د ډیری خلکو لخوا د دې ساحې بنسټ ایښودونکی پلار ګڼل کیږي چې نن ورځ زموږ د ورځني ژوند ډیری اړخونو ته انقلاب [&hellip;]"
+date: "2024-03-09T12:55:06"
+featuredImage: "/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
+categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3%d8%a7%d8%b3%d8%a7%d8%aa-ps"]
+---
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">ویډیو الان تورینګ: د AI پلار</figcaption></figure>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_82_2 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%A7%D9%84%D9%86_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%D8%A8%D9%86%D8%B3%D9%BC_%D8%A7%DB%8C%DA%9A%D9%88%D8%AF%D9%88%D9%86%DA%A9%DB%8C" >الن تورینګ: د مصنوعي استخباراتو بنسټ ایښودونکی</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%A7%D9%84%D9%86_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%DA%85%D9%88%DA%A9_%D9%88%D9%88%D8%9F" >الن تورینګ څوک وو؟</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D8%A7%D9%88_%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%DA%89%DB%8C%D8%B2%D8%A7%DB%8C%D9%86" >تورینګ او د مصنوعي استخباراتو ډیزاین</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%A8%D9%86%D8%B3%D9%BC%DB%8C%D8%B2_%D8%AA%DB%8C%D9%88%D8%B1%DB%8D_%D8%A7%D9%88_%D8%AE%DB%8C%D8%A7%D9%84%D9%8A_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%D9%88%D9%86%D9%87" >بنسټیز تیورۍ او خیالي ماشینونه</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%B9%D8%B5%D8%B1%D9%8A_AI_%D8%AA%D9%87_%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%85%DB%8C%D8%B1%D8%A7%D8%AB" >عصري AI ته د تورینګ میراث</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-6" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%D8%AF_AI_%D9%BE%D9%87_%D9%BE%D8%B1%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7_%D8%A8%D8%A7%D9%86%D8%AF%DB%90_%D8%A7%D8%B5%D9%88%D9%84_%D8%A7%D9%88_%D8%A7%D8%BA%DB%8C%D8%B2%D9%87" >د تورینګ ماشین: د AI په پراختیا باندې اصول او اغیزه</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%DA%85%D9%87_%D8%B4%DB%8C_%D8%AF%DB%8C%D8%9F" >د تورینګ ماشین څه شی دی؟</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AF_%D9%86%DA%93%DB%8C%D9%88%D8%A7%D9%84_%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%D8%A7%D8%B5%D9%88%D9%84" >د نړیوال ماشین اصول</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%D9%BE%D9%87_%D9%BE%D8%B1%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7_%D8%A7%D8%BA%DB%8C%D8%B2%D9%87" >د مصنوعي استخباراتو په پراختیا اغیزه</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AF_%D8%AC%DA%AB%DA%93%DB%90_%D9%BE%D8%B1_%D9%85%D9%87%D8%A7%D9%84_%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%88%D9%86%DA%89%D9%87" >د جګړې پر مهال د تورینګ ونډه</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%A7%D9%84%D8%A7%D9%86_%D9%BC%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D8%AF_%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD_%DA%A9%D9%88%D9%84%D9%88_%D9%85%D8%AE%DA%A9%DA%9A" >الان ټورینګ: د تشریح کولو مخکښ</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%DA%85%D8%AE%D9%87_%D8%AF_%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%BC%D8%B1_%D8%B2%DB%8C%DA%96%D9%88%D9%86_%D9%BE%D9%88%D8%B1%DB%90" >د تورینګ ماشین څخه د کمپیوټر زیږون پورې</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%D8%AF_%D9%85%D9%81%DA%A9%D9%88%D8%B1%DB%90_%D9%BE%D9%87_%D9%84%D9%88%D8%B1" >د مصنوعي استخباراتو د مفکورې په لور</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-14" href="/ps/%d8%a7%d9%84%d8%a7%d9%86-%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%ab-%d8%a7%d9%88-%d8%af-%d9%85%d8%b5%d9%86%d9%88%d8%b9%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa%d9%88-%d8%b2%db%8c%da%96/#%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D8%A7%D8%B2%D9%85%D9%88%DB%8C%D9%86%D9%87_%D8%A7%D9%88_%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%D8%B1%D8%A7%D8%AA%D9%84%D9%88%D9%86%DA%A9%DB%8C" >د تورینګ ازموینه او د مصنوعي استخباراتو راتلونکی</a></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D9%86_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%D8%A8%D9%86%D8%B3%D9%BC_%D8%A7%DB%8C%DA%9A%D9%88%D8%AF%D9%88%D9%86%DA%A9%DB%8C"></span>الن تورینګ: د مصنوعي استخباراتو بنسټ ایښودونکی<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>الن تورینګ: د مصنوعي استخباراتو بنسټ ایښودونکی<br>د مصنوعي استخباراتو (AI) تاریخ په بشپړه توګه د الان تورینګ نوم له یادولو پرته نشي ویل کیدی، چې د ډیری خلکو لخوا د دې ساحې بنسټ ایښودونکی پلار ګڼل کیږي چې نن ورځ زموږ د ورځني ژوند ډیری اړخونو ته انقلاب ورکوي. د هغه ونډه د ساده اختراع څخه ښه ده؛ دا د مفاهیمو او تیوریو پر بنسټ والړ دی چې لاهم هغه بنسټونه جوړوي چې پر بنسټ یې AI وده او وده کوي.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D9%86_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%DA%85%D9%88%DA%A9_%D9%88%D9%88%D8%9F"></span>الن تورینګ څوک وو؟<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>الان تورینګ یو برتانوي ریاضي پوه و چې کار یې د کمپیوټري او مصنوعي استخباراتو په پراختیا کې پریکړه کونکی اغیزه درلوده. د دویمې نړیوالې جګړې په جریان کې، د نازي کوډونو د تشریح کولو لپاره د هغه ژمنې، په ځانګړې توګه د هغه ماشین سره چې نوم یې یادیږي <strong>بم</strong>د متحدینو په بریا کې ډیره مرسته وکړه. په هرصورت، دا د نړۍ له جګړې وروسته وه چې د هغه څیړنې په 1950 کې د هغه د مشهورې مقالې &#8220;کمپیوټینګ ماشینري او استخبارات&#8221; په لیکلو سره واقعیا انقلابي اړخ واخیست.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D8%A7%D9%88_%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%DA%89%DB%8C%D8%B2%D8%A7%DB%8C%D9%86"></span>تورینګ او د مصنوعي استخباراتو ډیزاین<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>تورینګ د فکر کولو تجربه وړاندیز کړه چې اوس یې په نوم پیژندل کیږي <strong>د تورینګ ازموینه</strong>، کوم چې هڅه کوي دا معلومه کړي چې ایا یو ماشین د دې وړتیا لري چې د انسان څخه بې توپیره استخبارات څرګند کړي. د یوې ساده پوښتنې څخه ډیر، د تورینګ ازموینه د مصنوعي استخباراتو ارزونې لپاره د حوالې معیار تعریفوي.</p>
+
+
+
+<ul class="wp-block-list">
+<li>د ټورینګ ازموینه: د مصنوعي استخباراتو معیار</li>
+
+
+
+<li>د تقلید لوبه: د ماشین ارزونه</li>
+
+
+
+<li>د یونیورسل ماشین مفهوم: د عصري کمپیوټرونو لپاره ماډل</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A8%D9%86%D8%B3%D9%BC%DB%8C%D8%B2_%D8%AA%DB%8C%D9%88%D8%B1%DB%8D_%D8%A7%D9%88_%D8%AE%DB%8C%D8%A7%D9%84%D9%8A_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%D9%88%D9%86%D9%87"></span>بنسټیز تیورۍ او خیالي ماشینونه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>تورینګ د مفهوم مفهوم هم معرفي کړ <strong>د تورینګ ماشین</strong>، یو تجرید ماډل چې کولی شي د یو لړ مقرراتو سره سم په پټه کې د سمبولونو لړۍ اداره کړي. دا مفهوم د کمپیوټري وړتیا اصلي ماډل ګڼل کیږي، کوم چې د تورینګ افکارو ژوروالی او پرمختګ په داسې وخت کې ښیي کله چې کمپیوټرونه لکه څنګه چې موږ پوهیږو لا تر اوسه شتون نه درلود. </p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>مفاهیم</td><td>په AI کې ونډې</td></tr><tr><td>د تورینګ ماشین</td><td>د کمپیوټر محاسبې نظریاتي بنسټونه</td></tr><tr><td>الګوریتمیک</td><td>د AIs لپاره د استدلال او ستونزې حل کولو اساسات</td></tr><tr><td>کمپیوټري استخبارات</td><td>د غیر بیولوژیکي استخباراتو اصول</td></tr></tbody></table></figure>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B9%D8%B5%D8%B1%D9%8A_AI_%D8%AA%D9%87_%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%85%DB%8C%D8%B1%D8%A7%D8%AB"></span>عصري AI ته د تورینګ میراث<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د هغه مخکښ نظرونه د مصنوعي استخباراتو په بنسټیزو څیړنو او عملي غوښتنلیکونو اغیزه کوي. د AI فعالیت کې بې ساري وده او په برخو کې د دوی ادغام لکه څنګه چې د روغتیا ، مالیې یا روبوټیک په څیر مختلف دي د دې ارزښتناک میراث یوازې یو څو څرګند څرګندونه دي.</p>
+
+
+
+<p>ځینې ​​مفکورې او جوړښتونه چې د تورینګ له کار څخه رامینځته شوي، لکه مصنوعي عصبي شبکې او ژورې زده کړې (<strong>ژوره زده کړه</strong>)، نن ورځ د AI ترټولو پرمختللي سرحدونه استازیتوب کوي، د غوښتنلیکونو احساس کول چې یو وخت د ساینس افسانه ګڼل کیږي.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%D8%AF_AI_%D9%BE%D9%87_%D9%BE%D8%B1%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7_%D8%A8%D8%A7%D9%86%D8%AF%DB%90_%D8%A7%D8%B5%D9%88%D9%84_%D8%A7%D9%88_%D8%A7%D8%BA%DB%8C%D8%B2%D9%87"></span>د تورینګ ماشین: د AI په پراختیا باندې اصول او اغیزه<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png" alt="" class="wp-image-737" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>د تورینګ ماشین یو بنسټیز مفهوم دی چې د مصنوعي استخباراتو (AI) په ساحه کې خورا ډیر اغیزه کړې. د برتانوي ریاضي پوه ایلن تورینګ لخوا رامینځته شوی ، دا تیوریکي ماشین د هرډول محاسبې الګوریتم د سمولو وړتیا لري. د دې رامینځته کول د کمپیوټر ساینس پرمختګ لپاره بنسټ کیښود او د AI په ډګر کې د پرمختګ لپاره لاره هواره کړه. </p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%DA%85%D9%87_%D8%B4%DB%8C_%D8%AF%DB%8C%D8%9F"></span>د تورینګ ماشین څه شی دی؟<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>د تورینګ ماشین یو خلاص ماډل دی چې یو ماشین تشریح کوي چې د یو لړ مقرراتو سره سم په ربن کې د سمبولونو مینځلو وړتیا لري. دا ربن په بکسونو ویشل شوی، هر یو د محدود الفبا سمبول لري. ماشین د لوستلو / لیکلو سر لري چې کولی شي سمبولونه ولولي او بدل کړي، په بیله بیا ټیپ په یو وخت کې کیڼ یا ښي مربع ته حرکت وکړي. د دې ماشین چلند د کړنو جدول لخوا ټاکل کیږي، د هغه څه سره چې موږ نن ورځ پروګرام بولو. </p>
+
+
+
+<p>دا په ترتیب سره کار کوي، په ربن کې د سمبول لوستل او د اوسني داخلي حالت لخوا ټاکل شوي عمل ترسره کول او سمبول لوستل، کوم چې دا د خپلو کړنو جدول کې موندلی شي. دا بیا کولی شي سمبول بدل کړي، ربن حرکت وکړي، خپل داخلي حالت بدل کړي یا ودروي.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%86%DA%93%DB%8C%D9%88%D8%A7%D9%84_%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%D8%A7%D8%B5%D9%88%D9%84"></span>د نړیوال ماشین اصول<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>تورینګ د مفهوم مفهوم هم معرفي کړ <strong>د نړیوال تورینګ ماشین</strong>، یو ماشین چې د بل تورینګ ماشین سمولو وړتیا لري. دا مفهوم خورا پیاوړی دی ځکه چې دا پدې معنی ده چې یو واحد ماشین کولی شي هر ډول ممکنه محاسبه ترسره کړي، په دې شرط چې دا د مناسب پروګرام او ډیټا سره چمتو شوي وي، دا په اصل کې زموږ عصري کمپیوټر څنګه کار کوي.</p>
+
+
+
+<ol class="wp-block-list">
+<li>ماشین د ټیپ څخه برنامه او ډاټا لوستل کوي.</li>
+
+
+
+<li>دا د معلوماتو په مینځلو سره برنامه پرمخ وړي.</li>
+
+
+
+<li>دا د پایلې محاسبه کولو وروسته ودریږي.</li>
+</ol>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%D9%BE%D9%87_%D9%BE%D8%B1%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7_%D8%A7%D8%BA%DB%8C%D8%B2%D9%87"></span>د مصنوعي استخباراتو په پراختیا اغیزه<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د تورینګ ماشین نظري مفکورې د الګوریتم او کمپیوټري وړتیا دقیق تعریف وړاندې کړ، کوم چې د کمپیوټر ساینس او ​​​​AI بنسټیز بنسټونه دي. مطلب دا دی چې که ستونزه د الګوریتم لخوا حل کیدی شي، نو دا د تورینګ ماشین او د توسع کولو په واسطه د کمپیوټر لخوا حل کیدی شي.</p>
+
+
+
+<p>د تورینګ ماشین د الګوریتمونو رامینځته کولو لپاره تیوریکي بنسټ کېښود چې د پیچلو ستونزو حل کولو وړتیا لري ، کوم چې د عصري AI زړه دی. عصبي شبکې، د ماشین زده کړه، روبوټکس او د AI ډیری نورې څانګې د تورینګ لخوا پرمختللي مفکورې باندې رامینځته کیږي.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>نفوذ</td><td>تفصیل</td></tr><tr><td>الګوریتمیک</td><td>د ډیزاین <strong>کمپیوټر پروګرامونه</strong> اغیزمن او اغیزمن په مستقیم ډول د تورینګ ماشین لخوا الهام شوی.</td></tr><tr><td>محاسبه</td><td>دا د الګوریتمیک محاسبې وړتیاوې او محدودیتونه تشریح کول ممکن کړي، د مصنوعي استخباراتو مطالعې لپاره اړین دي.</td></tr><tr><td>موډل کول</td><td>په AI کې ډیری ماډلونه او تخنیکونه د کمپیوټري تیوري پراساس دي چې د تورینګ کار پایله ده.</td></tr></tbody></table><figcaption class="wp-element-caption">د تورینګ د کار اغیزه</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D8%AC%DA%AB%DA%93%DB%90_%D9%BE%D8%B1_%D9%85%D9%87%D8%A7%D9%84_%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%88%D9%86%DA%89%D9%87"></span>د جګړې پر مهال د تورینګ ونډه<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png" alt="" class="wp-image-738" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>دوهمه نړیواله جګړه د ټیکنالوژیکي اختراع لپاره یو کتلست و، او د دې دورې ترټولو مهم شخصیت الان تورینګ و، یو تکړه برتانوي ریاضي پوه و. د اینیګما ماشین د کوډ ماتولو لپاره پیژندل شوی چې د آلمانانو لخوا د دوی د مخابراتو کوډ کولو لپاره کارول کیږي ، تورینګ پریکړه کونکي مرحلې رامینځته کړې چې د مصنوعي استخباراتو (AI) مفکورې لامل کیږي.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A7%D9%86_%D9%BC%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D8%AF_%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD_%DA%A9%D9%88%D9%84%D9%88_%D9%85%D8%AE%DA%A9%DA%9A"></span>الان ټورینګ: د تشریح کولو مخکښ<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p>د جګړې په جریان کې، د متحدینو ځواکونو ځانونه د یوې لویې ننګونې سره مخ وموندل: د اینګما ماشین لخوا رامینځته شوي پټ کوډونه کشف کول. الان تورینګ د کریپټینالیټیک بم په رامینځته کولو سره پدې سیوري جګړه کې پریکړه کونکی رول لوبولی ، یو داسې وسیله چې د اینګما اسرار افشا کولو وړتیا لري. د دې وسیلې او د تورینګ بصیرت څخه مننه ، د دښمن پیغامونو ډیکریپشن دا ممکنه کړه چې د جګړې په جریان کې اغیزه وکړي.</p>
+
+
+
+<p>د تورینګ بم په میتودیکي اصولو کار وکړ تر څو په سیستماتیک ډول د اینیګما ماشین د ترتیباتو ترکیبونه و ازمویي تر هغه چې سم پیرامیټرونه یې وموندل چې روښانه پیغام یې څرګند کړ. د دې تشریح کولو کار د اتوماتیک ژبې پروسس کولو او د AI لټون الګوریتمونو کې د څیړنې وړاندوینې په توګه لیدل کیدی شي.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%DA%85%D8%AE%D9%87_%D8%AF_%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%BC%D8%B1_%D8%B2%DB%8C%DA%96%D9%88%D9%86_%D9%BE%D9%88%D8%B1%DB%90"></span>د تورینګ ماشین څخه د کمپیوټر زیږون پورې<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>د ریاضیاتو او منطق په برخه کې د هغه څیړنې د جګړې وروسته د لومړي پروګرام وړ کمپیوټرونو د جوړولو لپاره تیوریکي بنسټونه کېښودل. د تورینګ ماشین د تخنیکي مفکورې څخه ډیر و، دا د یوې ورځې لپاره د ماشینونو لیدلو لپاره لید و چې کولی شي د انسان د ادراکي وړتیاو تقلید یا تجاوز وکړي.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%D8%AF_%D9%85%D9%81%DA%A9%D9%88%D8%B1%DB%90_%D9%BE%D9%87_%D9%84%D9%88%D8%B1"></span>د مصنوعي استخباراتو د مفکورې په لور<span class="ez-toc-section-end"></span></h4>
+
+
+
+<p>په 1950 کې په خپله مقاله کې، &#8220;کمپیوټینګ ماشینري او استخبارات&#8221;، الن تورینګ د ماشین فکر کولو امکان تر پوښتنې لاندې راوست. هغه د مشهور تورینګ ټیسټ وړاندیز وکړ، یوه فکري تجربه چې موخه یې دا ده چې معلومه کړي چې ایا ماشین کولی شي د انسان څخه د توپیر وړ عقلي چلند ښکاره کړي.</p>
+
+
+
+<p>پدې شرایطو کې، تورینګ د ډیری لویو پوښتنو اټکل کوي چې لاهم د AI ساحه پرمخ وړي: د ژبې پوهه، زده کړه، شعور او د ماشین احساسات. دا د راتلونکي څیړنې لپاره لارښود چمتو کوي او د ساینس پوهانو نسل هڅوي ترڅو داسې سیسټمونه رامینځته کړي چې د ادراکي استدلال تقلید یا نقل کوي.</p>
+
+
+
+<p>دلته د الان تورینګ د لویو ونډو لیست دی:</p>
+
+
+
+<p>&#8211; د اینګما کوډ کوډ کول<br>&#8211; د کریپټانالیټیک بم ډیزاین<br>&#8211; د تورینګ ماشین جوړول<br>&#8211; د تورینګ ازموینې مفهوم په اړه فکر وکړئ<br>&#8211; د مصنوعي استخباراتو په برخه کې د څیړنې لپاره لاره پرانیزي</p>
+
+
+
+<p>په لنډه توګه، د تورینګ یخ ډوب شوې برخه د متحدینو په بریا کې د هغه پریکړه کونکی ګډون و. مګر دا د هغه نظري او مفکورې میراث دی چې د کمپیوټري کولو لپاره زموږ چلند ته یې بدلون ورکړ او د AI لپاره یې لاره هواره کړه، هغه ساحه چې نن ورځ د امکاناتو ساحې څخه تیریږي. جګړې تورینګ صحنې ته اړ کړ، مګر د هغه پراخه نظریات د نظامي شرایطو څخه هاخوا د ټیکنالوژیکي ساحې اغیزې ته دوام ورکوي، معاصر نړۍ او سبا ته بڼه ورکوي.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF_%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AB_%D8%A7%D8%B2%D9%85%D9%88%DB%8C%D9%86%D9%87_%D8%A7%D9%88_%D8%AF_%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%88_%D8%B1%D8%A7%D8%AA%D9%84%D9%88%D9%86%DA%A9%DB%8C"></span>د تورینګ ازموینه او د مصنوعي استخباراتو راتلونکی<span class="ez-toc-section-end"></span></h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png" alt="" class="wp-image-739" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>د تورینګ ټیسټ، چې په ۱۹۵۰ لسیزه کې د برتانوي ریاضي پوه الان تورینګ لخوا ډیزاین شوی، د مصنوعي استخباراتو (AI) تاریخي نښه ګرځیدلی. لکه څنګه چې AI پرمختګ ته دوام ورکوي، د تورینګ ازموینه د پوهیدو لپاره یوه وسیله پاتې کیږي چې ماشینونه څنګه د انسان استدلال تقلید کوي. </p>
+
+
+
+<p>د AI ټیکنالوژیو ظهور زموږ په ټولنه کې د پام وړ اغیزه کوي ، د سټیمینګ پلیټ فارمونو کې د سپارښتنې سیسټمونو څخه نیولې تر مجازی معاونانو لکه ایپل سری یا ایمیزون الیکسا یا حتی پدې وروستیو کې د OpenAi ChatGPT.</p>
+
+
