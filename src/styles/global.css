@@ -119,6 +119,11 @@
 
   /* Scroll animation classes */
   /* Animation classes removed to fix visibility issues */
+  .animate-on-scroll {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+  }
 }
 
 @keyframes shine {
