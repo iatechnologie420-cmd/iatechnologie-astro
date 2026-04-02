@@ -33,7 +33,7 @@ const { casUsage, outils } = Astro.props;
           Retour à l'accueil
         </a>
 
-        <div class="mb-12 animate-on-scroll">
+        <div class="mb-12 ">
           <h1 class="mb-3 font-heading text-3xl font-bold text-foreground md:text-4xl">
             Outils IA pour : {casUsage.name}
           </h1>
@@ -54,7 +54,7 @@ const { casUsage, outils } = Astro.props;
             {outils.map((outil: any, i: number) => (
               <a
                 href={`/outil/${outil.data.slug}`}
-                class="group h-full rounded-xl border border-border bg-card transition-all duration-300 hover:border-primary/40 hover:shadow-lg hover:-translate-y-1 block animate-on-scroll"
+                class="group h-full rounded-xl border border-border bg-card transition-all duration-300 hover:border-primary/40 hover:shadow-lg hover:-translate-y-1 block "
                 style={`transition-delay: ${i * 0.08}s;`}
               >
                 <div class="p-5">

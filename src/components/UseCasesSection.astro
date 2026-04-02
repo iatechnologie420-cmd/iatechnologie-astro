@@ -8,7 +8,7 @@ const casUsages = await getCollection('cas-usage');
   <div class="absolute top-0 left-1/2 -translate-x-1/2 h-px w-3/4 bg-gradient-to-r from-transparent via-primary/30 to-transparent"></div>
 
   <div class="container relative z-10">
-    <div class="mb-16 text-center animate-on-scroll">
+    <div class="mb-16 text-center ">
       <span class="mb-4 inline-block rounded-full bg-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-primary">
         Cas d'usage
       </span>
@@ -25,7 +25,7 @@ const casUsages = await getCollection('cas-usage');
       {casUsages.map((cu, i) => (
         <a
           href={`/cas-usage/${cu.data.slug}`}
-          class="group relative flex flex-col items-center text-center rounded-2xl glass-card p-6 transition-all duration-500 hover:border-primary/40 hover:shadow-xl hover:shadow-primary/10 hover:-translate-y-1.5 cursor-pointer overflow-hidden animate-on-scroll"
+          class="group relative flex flex-col items-center text-center rounded-2xl glass-card p-6 transition-all duration-500 hover:border-primary/40 hover:shadow-xl hover:shadow-primary/10 hover:-translate-y-1.5 cursor-pointer overflow-hidden "
           style={`transition-delay: ${i * 0.04}s;`}
         >
           <div class="absolute inset-0 rounded-2xl bg-gradient-to-b from-primary/0 via-primary/0 to-primary/0 transition-all duration-700 group-hover:from-primary/5 group-hover:via-transparent group-hover:to-primary/5"></div>

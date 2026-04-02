@@ -75,10 +75,10 @@ const jsonLdFaq = {
             <span class="text-foreground">Alternative à {displayName}</span>
           </nav>
 
-          <h1 class="mb-4 font-heading text-3xl font-bold leading-tight text-foreground md:text-5xl animate-on-scroll">
+          <h1 class="mb-4 font-heading text-3xl font-bold leading-tight text-foreground md:text-5xl ">
             Les meilleures <span class="gradient-text">alternatives à {displayName}</span> en {currentYear}
           </h1>
-          <p class="max-w-2xl text-lg text-muted-foreground animate-on-scroll">
+          <p class="max-w-2xl text-lg text-muted-foreground ">
             Vous cherchez une alternative à {displayName} ? Découvrez notre sélection des {tools.length} meilleurs outils, testés et comparés par nos experts.
           </p>
         </div>
@@ -88,8 +88,8 @@ const jsonLdFaq = {
       {tools.length > 0 && (
         <section class="py-12 md:py-16">
           <div class="container max-w-4xl">
-            <h2 class="mb-6 font-heading text-2xl font-bold text-foreground animate-on-scroll">Comparatif rapide</h2>
-            <div class="rounded-2xl border border-border/50 bg-card/60 backdrop-blur-sm overflow-x-auto animate-on-scroll">
+            <h2 class="mb-6 font-heading text-2xl font-bold text-foreground ">Comparatif rapide</h2>
+            <div class="rounded-2xl border border-border/50 bg-card/60 backdrop-blur-sm overflow-x-auto ">
               <table class="w-full min-w-[600px] border-collapse">
                 <thead>
                   <tr class="border-b border-border/50">
@@ -141,10 +141,10 @@ const jsonLdFaq = {
       {tools.length > 0 && (
         <section class="py-12 md:py-16">
           <div class="container max-w-4xl">
-            <h2 class="mb-8 font-heading text-2xl font-bold text-foreground animate-on-scroll">Analyse détaillée</h2>
+            <h2 class="mb-8 font-heading text-2xl font-bold text-foreground ">Analyse détaillée</h2>
             <div class="space-y-6">
               {tools.map((tool, i) => (
-                <div id={tool.slug} class={`group relative rounded-2xl border bg-card/80 backdrop-blur-sm transition-all duration-300 hover:border-primary/30 ${i === 0 ? 'border-primary/50 glow-sm' : 'border-border/50'} animate-on-scroll`} style={`transition-delay: ${i * 0.08}s;`}>
+                <div id={tool.slug} class={`group relative rounded-2xl border bg-card/80 backdrop-blur-sm transition-all duration-300 hover:border-primary/30 ${i === 0 ? 'border-primary/50 glow-sm' : 'border-border/50'} `} style={`transition-delay: ${i * 0.08}s;`}>
                   {i === 0 && (
                     <div class="absolute -top-3 left-6 z-10">
                       <span class="inline-flex items-center gap-1 rounded-full bg-primary px-3 py-1 text-xs font-bold text-primary-foreground">
@@ -219,10 +219,10 @@ const jsonLdFaq = {
       <!-- FAQ -->
       <section class="py-12 md:py-16">
         <div class="container max-w-3xl">
-          <h2 class="mb-8 font-heading text-2xl font-bold text-foreground animate-on-scroll">Questions fréquentes</h2>
+          <h2 class="mb-8 font-heading text-2xl font-bold text-foreground ">Questions fréquentes</h2>
           <div class="space-y-3">
             {faqItems.map((item, i) => (
-              <details class="group rounded-xl border border-border/50 bg-card/60 animate-on-scroll" style={`transition-delay: ${i * 0.05}s;`}>
+              <details class="group rounded-xl border border-border/50 bg-card/60 " style={`transition-delay: ${i * 0.05}s;`}>
                 <summary class="flex w-full items-center justify-between px-6 py-4 text-left cursor-pointer transition-colors hover:border-primary/30 list-none">
                   <span class="font-medium text-foreground">{item.q}</span>
                   <svg class="h-5 w-5 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>

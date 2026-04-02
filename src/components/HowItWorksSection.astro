@@ -35,7 +35,7 @@ const steps = [
   <div class="absolute top-0 left-1/2 -translate-x-1/2 h-px w-3/4 bg-gradient-to-r from-transparent via-primary/30 to-transparent"></div>
 
   <div class="container relative z-10">
-    <div class="mb-20 text-center animate-on-scroll">
+    <div class="mb-20 text-center ">
       <span class="mb-4 inline-block rounded-full bg-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-primary">Simple & rapide</span>
       <h2 class="mb-4 font-heading text-4xl font-bold text-foreground md:text-5xl">
         Comment ça <span class="gradient-text">marche ?</span>
@@ -48,7 +48,7 @@ const steps = [
 
     <div class="grid gap-6 md:grid-cols-3">
       {steps.map((step, i) => (
-        <div class="group relative animate-on-scroll" style={`transition-delay: ${i * 0.15}s;`}>
+        <div class="group relative " style={`transition-delay: ${i * 0.15}s;`}>
           <div class="relative overflow-hidden rounded-3xl glass-card p-8 transition-all duration-500 hover:border-primary/30 hover:shadow-2xl hover:shadow-primary/10 hover:-translate-y-2 h-full flex flex-col">
             <span class="absolute -top-4 -right-2 font-heading text-[120px] font-bold leading-none text-primary/[0.04] select-none">{step.number}</span>
 

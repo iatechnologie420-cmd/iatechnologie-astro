@@ -118,16 +118,7 @@
   }
 
   /* Scroll animation classes */
-  .animate-on-scroll {
-    opacity: 1 !important;
-    transform: none !important;
-    transition: opacity 0.7s ease-out, transform 0.7s ease-out;
-  }
-
-  .animate-on-scroll.is-visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  /* Animation classes removed to fix visibility issues */
 }
 
 @keyframes shine {

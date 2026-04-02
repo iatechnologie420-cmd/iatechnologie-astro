@@ -4,7 +4,7 @@
 <section class="relative py-24 noise-bg">
   <div class="absolute inset-0 bg-gradient-to-b from-card/80 via-background to-card/80"></div>
   <div class="container relative z-10 max-w-4xl">
-    <div class="mb-12 text-center animate-on-scroll">
+    <div class="mb-12 text-center ">
       <span class="mb-4 inline-block rounded-full bg-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-primary">Guide</span>
       <h2 class="font-heading text-4xl font-bold text-foreground md:text-5xl">
         Tout savoir sur les <span class="gradient-text">outils IA</span>
@@ -18,7 +18,7 @@
         { title: "Les bénéfices de l'IA pour votre productivité", content: "L'intelligence artificielle peut transformer radicalement votre façon de travailler. Que ce soit pour <strong class='text-foreground'>automatiser des tâches répétitives</strong>, <strong class='text-foreground'>générer du contenu de qualité en quelques minutes</strong>, ou <strong class='text-foreground'>analyser des données complexes instantanément</strong>, les outils IA permettent de gagner un temps considérable tout en améliorant la qualité de vos productions." },
         { title: "Notre approche chez IA Technologie", content: "Nous analysons chaque outil selon des critères précis : fonctionnalités, rapport qualité-prix, facilité d'utilisation, support client, et évolutivité. Nos reviews sont indépendantes et basées sur des tests réels. Nous publions aussi régulièrement des <strong class='text-foreground'>tutoriels et guides pratiques</strong> sur notre <a href='https://www.youtube.com/@iatechnologiedotcom' target='_blank' rel='noopener noreferrer' class='text-primary underline underline-offset-4 hover:text-primary/80 transition-colors'>chaîne YouTube</a> pour vous aider à tirer le meilleur de chaque outil." },
       ].map((block, i) => (
-        <div class="relative rounded-2xl glass-card p-8 animate-on-scroll" style={`transition-delay: ${i * 0.1}s;`}>
+        <div class="relative rounded-2xl glass-card p-8 " style={`transition-delay: ${i * 0.1}s;`}>
           <div class="absolute top-0 left-8 h-1 w-12 rounded-full bg-gradient-to-r from-primary to-primary-glow"></div>
           <h3 class="mb-4 font-heading text-xl font-semibold text-foreground">{block.title}</h3>
           <div class="text-muted-foreground leading-relaxed" set:html={block.content} />
