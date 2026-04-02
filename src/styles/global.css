@@ -119,8 +119,8 @@
 
   /* Scroll animation classes */
   .animate-on-scroll {
-    opacity: 0;
-    transform: translateY(30px);
+    opacity: 1 !important;
+    transform: none !important;
     transition: opacity 0.7s ease-out, transform 0.7s ease-out;
   }
 
