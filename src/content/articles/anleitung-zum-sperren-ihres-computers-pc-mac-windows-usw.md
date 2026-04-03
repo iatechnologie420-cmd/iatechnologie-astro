@@ -1,4 +1,5 @@
 ---
+
 title: "Anleitung zum Sperren Ihres Computers (PC, Mac, Windows usw.)"
 slug: "anleitung-zum-sperren-ihres-computers-pc-mac-windows-usw"
 excerpt: "Die Notwendigkeit, Ihren Computer zu sichern In der heutigen Zeit, in der Aktivitäten immer schneller digitalisiert werden, ist die Sicherheit unseres Computers zu einem wichtigen Anliegen für Einzelpersonen und Unternehmen geworden. Hier finden Sie eine detaillierte Anleitung zu den richtigen Verhaltensweisen, die Sie anwenden sollten, um Ihr Computersystem wirksam zu schützen. Computer sind die zentralen [&hellip;]"

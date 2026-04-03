@@ -1,4 +1,5 @@
 ---
+
 title: "Special keyboard characters: Top shortcuts to know (On Windows and Mac)"
 slug: "special-keyboard-characters-top-shortcuts-to-know-on-windows-and-mac"
 excerpt: "Special characters are symbols or signs that do not correspond to the standard letters and numbers of a traditional keyboard. The use of these special characters is of great importance in various contexts such as computer programming, text writing, password security, and mathematical or scientific data entry. In programming, special characters are essential. They allow [&hellip;]"

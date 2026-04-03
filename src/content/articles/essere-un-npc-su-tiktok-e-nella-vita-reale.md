@@ -1,4 +1,5 @@
 ---
+
 title: "Essere un NPC su Tiktok e nella vita reale&#8230;?"
 slug: "essere-un-npc-su-tiktok-e-nella-vita-reale"
 excerpt: "Il fenomeno dei “controller NPC” su TikTok Nell&#8217;universo infinito di Tic toc, un fenomeno piuttosto singolare ha catturato l’attenzione degli utenti: “ Controllori NPC » (Personaggi non giocanti). Precedentemente confinata ai videogiochi, l&#8217;espressione &#8220;NPC&#8221; si sta ora insinuando nel gergo dei social media, definendo un&#8217;esperienza che mescola realtà aumentata e interazione sociale. Ma cosa c&#8217;è [&hellip;]"

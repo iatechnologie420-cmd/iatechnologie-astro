@@ -1,4 +1,5 @@
 ---
+
 title: "Ce este text mining? definiție"
 slug: "ce-este-text-mining-definitie"
 excerpt: "Introducere în text mining THE minarea textului, sau text mining în franceză, este o ramură a științei datelor care se concentrează pe extragerea de informații utile din seturi mari de date text. Adesea asociat cu procesarea limbajului natural (NLP), text mining implică un set de tehnici și instrumente capabile să înțeleagă, să analizeze și să [&hellip;]"

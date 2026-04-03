@@ -1,4 +1,5 @@
 ---
+
 title: "Unified Communications: is onbereikbaarheid onmogelijk geworden?"
 slug: "unified-communications-is-onbereikbaarheid-onmogelijk-geworden"
 excerpt: "Unified Communications: definitie en principe Wat is uniforme communicatie? DE Uniforme communicatie (CU), of Unified Communications in het Engels, duidt een reeks diensten en oplossingen aan die tot doel hebben verschillende vormen van communicatie binnen dezelfde interface of hetzelfde platform te integreren of te verenigen. Dit omvat instant messaging, videoconferenties, spraakoproepen (VoIP), e-mail, webconferenties en [&hellip;]"

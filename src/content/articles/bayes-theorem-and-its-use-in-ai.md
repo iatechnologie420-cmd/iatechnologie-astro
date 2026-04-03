@@ -1,4 +1,5 @@
 ---
+
 title: "Bayes&#8217; theorem and its use in AI"
 slug: "bayes-theorem-and-its-use-in-ai"
 excerpt: "Introduction to Bayes&#8217; theorem THE Bayes&#8217; theorem is a fundamental formula in probability and statistics that describes the updating of our beliefs in the presence of new information. Named in honor of the Reverend Thomas Bayes, this theorem plays a crucial role in many fields ranging from machine learning to decision-making under uncertainty. The essence [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Chief Data Officer (CDO): ​​roll, oskused, koolitus ja palk"
 slug: "chief-data-officer-cdo-roll-oskused-koolitus-ja-palk"
 excerpt: "Andmejuhi strateegiline koht ettevõttes Suurandmete ja andmeanalüütika ajastul mõistavad ettevõtted üha enam oma andmete strateegilise haldamise ja võimendamise tähtsust. Selle tunnustuse keskmes on võtmeroll: Andmeametnik (CDO). CDO on oluline valitsemise, andmete kvaliteedi, eeskirjade järgimise tasakaalustamiseks ja andmete võimendamiseks konkurentsieelise saavutamiseks. See artikkel toob perspektiivi CDO üliolulise funktsiooni praegusel ettevõtlusmaastikul. Andmeülema rolli tekkimine ja areng Kui [&hellip;]"

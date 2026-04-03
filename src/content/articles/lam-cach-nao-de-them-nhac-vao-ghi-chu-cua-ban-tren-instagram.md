@@ -1,4 +1,5 @@
 ---
+
 title: "Làm cách nào để thêm nhạc vào ghi chú của bạn trên Instagram?"
 slug: "lam-cach-nao-de-them-nhac-vao-ghi-chu-cua-ban-tren-instagram"
 excerpt: "Sử dụng tính năng âm nhạc trên Instagram Instagram đã trở thành một nền tảng thiết yếu để chia sẻ những khoảnh khắc, hình ảnh và video trong cuộc sống. Để làm cho bài đăng của bạn hấp dẫn hơn nữa, bạn có thể tích hợp âm nhạc vào nội dung của mình. Trong bài [&hellip;]"

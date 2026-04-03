@@ -1,4 +1,5 @@
 ---
+
 title: "Wat is een autoencoder? De ultieme gids!"
 slug: "wat-is-een-autoencoder-de-ultieme-gids"
 excerpt: "Automatische encoders, of automatische encoders in het Engels zichzelf positioneren als krachtige hulpmiddelen op het gebied van machinaal leren en kunstmatige intelligentie. Deze speciale neurale netwerken worden gebruikt voor het verkleinen van dimensies, het detecteren van afwijkingen, het verwijderen van ruis in gegevens en meer. Dit artikel geeft een inleiding tot deze fascinerende technologie, waarbij [&hellip;]"

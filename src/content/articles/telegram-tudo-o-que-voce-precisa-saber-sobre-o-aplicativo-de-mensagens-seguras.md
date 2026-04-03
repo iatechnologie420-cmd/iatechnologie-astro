@@ -1,4 +1,5 @@
 ---
+
 title: "Telegram: tudo o que você precisa saber sobre o aplicativo de mensagens seguras"
 slug: "telegram-tudo-o-que-voce-precisa-saber-sobre-o-aplicativo-de-mensagens-seguras"
 excerpt: "O que é telegrama? Telegrama é um aplicativo de mensagens instantâneas focado em velocidade e segurança. Tornou-se uma das plataformas de comunicação mais populares do mundo graças à sua combinação de recursos avançados, interface intuitiva e compromisso com a proteção da privacidade do usuário. Desde o seu lançamento em 2013, Telegrama tem se destacado entre [&hellip;]"

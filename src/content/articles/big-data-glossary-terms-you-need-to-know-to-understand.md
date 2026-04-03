@@ -1,4 +1,5 @@
 ---
+
 title: "Big Data Glossary: ​​Terms you need to know to understand"
 slug: "big-data-glossary-terms-you-need-to-know-to-understand"
 excerpt: "Introduction to the world of big data THE Big Data represents a growing sector that is transforming the way businesses and organizations analyze and leverage data. In an increasingly digital world, data is generated at breakneck speed and in a variety of formats. The era of Big Data is no longer just a buzzword; it [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Häiriv tehnoloogia, mis muudab pangandust?"
 slug: "hairiv-tehnoloogia-mis-muudab-pangandust"
 excerpt: "Panganduse ümberkujundamine murrangulise tehnoloogia kaudu on viimastel aastatel finantssektorit põhjalikult muutnud. Tehnoloogia areng on võimaldanud esile kerkida uusi innovaatilisi lahendusi, mis muudavad pankade tegevust ja klientidega suhtlemist. Selles artiklis uurime selle ümberkujundamise erinevaid mõõtmeid ja selle mõju pangandussektorile. Digitaliseerimine: täielikult digitaalne ajastu Panganduse ümberkujundamise esimene mõõde murrangulise tehnoloogia kaudu on digitaliseerimine. Traditsioonilised pangad on pidanud [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Odkryj zawody związane z danymi i sztuczną inteligencją"
 slug: "odkryj-zawody-zwiazane-z-danymi-i-sztuczna-inteligencja"
 excerpt: "Wprowadzenie do zawodów związanych z danymi i sztuczną inteligencją Rozwój danych i sztucznej inteligencji (AI) spowodował powstanie wielu innowacyjnych i zróżnicowanych zawodów. W sercu rewolucji cyfrowej specjalizacje te stały się niezbędne dla firm chcących wykorzystać potencjał, jaki dają dane i inteligentna automatyzacja. Zrozumienie zawodów związanych z danymi Data Science, prawdziwe skrzyżowanie statystyki, analizy danych i [&hellip;]"

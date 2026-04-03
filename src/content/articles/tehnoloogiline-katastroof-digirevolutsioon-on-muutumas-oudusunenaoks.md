@@ -1,4 +1,5 @@
 ---
+
 title: "Tehnoloogiline katastroof: digirevolutsioon on muutumas õudusunenäoks?"
 slug: "tehnoloogiline-katastroof-digirevolutsioon-on-muutumas-oudusunenaoks"
 excerpt: "Digipöörde mõju meie ühiskonnale Meie aega iseloomustav digipööre on seganud paljusid meie ühiskonna tahke. Digitehnoloogiad ja juurdepääs Internetile on muutnud meie suhtlemis-, töö-, tarbimis- ja isegi eluviisi. See artikkel uurib selle revolutsiooni tagajärgi meie igapäevaelule ja toob esile olulised probleemid, millega peame silmitsi seisma. Digirevolutsiooni tagajärjed 1. SuhtlemineDigirevolutsioon on radikaalselt muutnud meie suhtlemisviisi. Sotsiaalmeedia, kiirsuhtlusrakendused [&hellip;]"

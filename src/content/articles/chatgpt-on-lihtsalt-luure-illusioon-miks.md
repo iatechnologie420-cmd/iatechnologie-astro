@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT on lihtsalt luure illusioon: miks?"
 slug: "chatgpt-on-lihtsalt-luure-illusioon-miks"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Inimese intelligentsuse simuleerimine AI abil? Võimalus simuleerida inimeste intelligentsust masinatega on alati olnud erakordne huvi nii teadlastele kui ka laiemale avalikkusele. Kui idee masinast, mis on võimeline mõtlema, arutlema ja aru saama nagu inimene, võib endiselt tunduda ulmena, tõestavad tehisintellekti (AI) edusammud meile, et oleme sellele reaalsusele lähemal kui kunagi varem. Lahkame koos selle [&hellip;]"

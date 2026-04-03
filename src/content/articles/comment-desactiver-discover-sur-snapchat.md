@@ -1,4 +1,5 @@
 ---
+
 title: "Comment désactiver Discover sur Snapchat (sans jailbreak)"
 slug: "comment-desactiver-discover-sur-snapchat"
 excerpt: "Tu utilises Snapchat principalement pour rester en contact avec tes amis, mais tu te retrouves constamment piégé dans la section Discover, à scroller des contenus addictifs, des stories publiques ou des vidéos qui te volent un temps précieux ? Bonne nouvelle : il existe une méthode simple, propre, gratuite et sans jailbreak pour&nbsp;supprimer Discover de [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Anti-RFID veski: Af hverju þú þarft það ekki"
 slug: "anti-rfid-veski-af-hverju-thu-tharft-thad-ekki"
 excerpt: "Skilningur á RFID tækni og áhættu hennar Hvað er RFID? Þarna Útvarpsbylgjur (RFID) er tækni sem gerir sjálfvirka auðkenningu á hlutum, dýrum eða fólki sem notar útvarpsbylgjur. Það notar lítil rafeindatæki sem kallast Merki Eða RFID merki, sem geyma gögn og senda þessar upplýsingar til RFID lesanda. Merki geta verið óvirk (án eigin aflgjafa, virkjað [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "MidJourney: alles wat je moet weten over controversiële AI"
 slug: "midjourney-alles-wat-je-moet-weten-over-controversiele-ai"
 excerpt: "MidReis begrijpen MidJourney is krachtige kunstmatige intelligentie, die de manier waarop we omgaan met technologie transformeert. Gebruik deze gids als hulpmiddel om de oorsprong en belangrijkste functies ervan te begrijpen. Wat is MidJourney? MidJourney is een hulpmiddel kunstmatige intelligentie avant-garde ontworpen om onze dagelijkse interacties met nieuwe technologieën te verbeteren en te vergemakkelijken. Het maakt [&hellip;]"

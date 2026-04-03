@@ -1,4 +1,5 @@
 ---
+
 title: "Technologische ramp: de digitale revolutie verandert in een nachtmerrie?"
 slug: "technologische-ramp-de-digitale-revolutie-verandert-in-een-nachtmerrie"
 excerpt: "De impact van de digitale revolutie op onze samenleving De digitale revolutie die onze tijd kenmerkt, heeft veel aspecten van onze samenleving ontwricht. Digitale technologieën en toegang tot internet hebben de manier veranderd waarop we communiceren, werken, consumeren en zelfs leven. Dit artikel onderzoekt de gevolgen van deze revolutie op ons dagelijks leven en belicht [&hellip;]"

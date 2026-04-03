@@ -1,4 +1,5 @@
 ---
+
 title: "Deepfake : tout savoir sur la nouvelle menace liée à l’IA"
 slug: "deepfake-tout-savoir"
 excerpt: "Définition et fonctionnement du Deepfake Définition du Deepfake Le terme deepfake est une contraction des mots anglais &#8220;deep learning&#8221; (apprentissage profond) et &#8220;fake&#8221; (faux). Cette technologie repose sur des algorithmes d&#8217;intelligence artificielle spécialement conçus pour créer ou modifier du contenu audiovisuel, notamment des vidéos et des pistes audio. Le résultat est souvent si convaincant qu&#8217;il [&hellip;]"

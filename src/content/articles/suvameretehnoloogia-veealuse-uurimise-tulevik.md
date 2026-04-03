@@ -1,4 +1,5 @@
 ---
+
 title: "Süvameretehnoloogia: veealuse uurimise tulevik?"
 slug: "suvameretehnoloogia-veealuse-uurimise-tulevik"
 excerpt: "Mis on süvameretehnoloogia? Avamere süvatehnoloogia, tuntud ka kui süvamere puurimistehnoloogia, on teadusharu, mille eesmärk on uurida ja kasutada merepõhjas leiduvaid ressursse sügavusel 500 kuni mitu tuhat meetrit. See tehnoloogia avab uued võimalused avamerel asuvate nafta-, gaasi- ja maavaravarude uurimiseks ja kasutamiseks. Sügava avamere väljakutsed Avamere süvatehnoloogia kujutab endast märkimisväärseid tehnilisi ja logistilisi väljakutseid. Peamised väljakutsed, [&hellip;]"

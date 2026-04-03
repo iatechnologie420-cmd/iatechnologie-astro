@@ -1,4 +1,5 @@
 ---
+
 title: "Tuner instrumentów Google: rewolucja dla muzyków?"
 slug: "tuner-instrumentow-google-rewolucja-dla-muzykow"
 excerpt: "Znaczenie strojenia instrumentów muzycznych Strojenie jest jednym z najważniejszych aspektów gry na instrumencie muzycznym. Niezależnie od tego, czy jesteś początkującym, czy doświadczonym muzykiem, musisz regularnie dostrajać swój instrument, aby uzyskać najlepszy możliwy dźwięk. W tym artykule zbadamy znaczenie strojenia instrumentów muzycznych i podamy kilka wskazówek, dzięki którym będziesz mieć pewność, że Twój instrument będzie zawsze [&hellip;]"

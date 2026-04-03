@@ -1,4 +1,5 @@
 ---
+
 title: "Kako visok in kako težak je Mark Zuckerberg?"
 slug: "kako-visok-in-kako-tezak-je-mark-zuckerberg"
 excerpt: "Višina Marka Zuckerberga: mit ali resničnost? Polemika okoli njegove velikosti Že nekaj let je vprašanje višine Marka Zuckerberga, ustanovitelja Facebooka, predmet številnih ugibanj in razprav. Nekateri trdijo, da je manjši, kot je videti, medtem ko drugi trdijo, da je v resnici precej visok. Kakšna je torej resnica o višini Marka Zuckerberga? Neutemeljene govorice Po internetu [&hellip;]"

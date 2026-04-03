@@ -1,4 +1,5 @@
 ---
+
 title: "PyGraft: DataViz için açık kaynaklı Python aracı hakkında bilmeniz gereken her şey"
 slug: "pygraft-dataviz-icin-acik-kaynakli-python-araci-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "PyGraft: açık kaynak DataViz&#8217;in yeni yıldızı PyGraft Veri profesyonellerine ve meraklılarına veri görselleştirmeleri oluşturma konusunda zenginleştirici ve güçlü bir deneyim sağlamak için tasarlanmış, gelecek vaat eden bir araç olarak ortaya çıkıyor. Gelişmiş işleme yetenekleri ve olağanüstü esnekliğe sahip, PyGraft bir projedir açık kaynak zaten konuşulmaya başlandı. Peki PyGraft nedir ve DataViz&#8217;e yaklaşımınızda nasıl devrim yaratabilir? [&hellip;]"

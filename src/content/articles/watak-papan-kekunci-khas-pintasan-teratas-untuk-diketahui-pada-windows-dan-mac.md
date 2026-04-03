@@ -1,4 +1,5 @@
 ---
+
 title: "Watak papan kekunci khas: Pintasan teratas untuk diketahui (Pada Windows dan Mac)"
 slug: "watak-papan-kekunci-khas-pintasan-teratas-untuk-diketahui-pada-windows-dan-mac"
 excerpt: "Aksara khas ialah simbol atau tanda yang tidak sepadan dengan huruf dan nombor standard papan kekunci tradisional. Penggunaan aksara khas ini sangat penting dalam pelbagai konteks seperti pengaturcaraan komputer, penulisan teks, keselamatan kata laluan dan kemasukan data matematik atau saintifik. Dalam pengaturcaraan, watak istimewa adalah penting. Mereka membenarkan anda melakukan operasi tertentu, seperti memisahkan rentetan [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Pelajari teknik cepat: dalam 12 langkah"
 slug: "pelajari-teknik-cepat-dalam-12-langkah"
 excerpt: "Pengantar rekayasa cepat Apa itu Rekayasa Cepat? ITU Rekayasa Cepat adalah bidang baru yang berfokus pada pengoptimalan perintah atau perintah yang kami berikan pada sistem kecerdasan buatan (AI), khususnya yang berbasis bahasa alami, seperti generator teks. Ini adalah disiplin ilmu yang sangat penting dengan hadirnya model pemrosesan bahasa seperti GPT-4 OpenAI. Idenya adalah untuk belajar [&hellip;]"

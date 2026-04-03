@@ -1,4 +1,5 @@
 ---
+
 title: "Programowanie obiektowe: co to jest i do czego służy?"
 slug: "programowanie-obiektowe-co-to-jest-i-do-czego-sluzy"
 excerpt: "Podstawy programowania obiektowego Tam Programowanie obiektowe (OOP) to paradygmat programowania wykorzystujący „obiekty” do projektowania aplikacji i programów komputerowych. Obiekty te reprezentują byty ze świata rzeczywistego i umożliwiają programistom tworzenie bardziej elastycznego, skalowalnego i łatwiejszego w utrzymaniu oprogramowania. W tym artykule omówimy podstawowe pojęcia stanowiące podstawę OOP. Abstrakcja L&#8217;abstrakcja to proces, podczas którego programista ukrywa wszystkie [&hellip;]"

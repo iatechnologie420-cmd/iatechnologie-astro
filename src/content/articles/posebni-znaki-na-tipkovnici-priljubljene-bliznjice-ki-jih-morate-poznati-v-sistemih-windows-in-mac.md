@@ -1,4 +1,5 @@
 ---
+
 title: "Posebni znaki na tipkovnici: priljubljene bližnjice, ki jih morate poznati (v sistemih Windows in Mac)"
 slug: "posebni-znaki-na-tipkovnici-priljubljene-bliznjice-ki-jih-morate-poznati-v-sistemih-windows-in-mac"
 excerpt: "Posebni znaki so simboli ali znaki, ki ne ustrezajo standardnim črkam in številkam tradicionalne tipkovnice. Uporaba teh posebnih znakov je zelo pomembna v različnih kontekstih, kot so računalniško programiranje, pisanje besedil, varnost z geslom in vnos matematičnih ali znanstvenih podatkov. V programiranju, so posebni znaki bistveni. Omogočajo vam izvajanje določenih operacij, kot je ločevanje znakovnih [&hellip;]"

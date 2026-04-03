@@ -1,4 +1,5 @@
 ---
+
 title: "Samsung Xcover 7: Giải pháp tối ưu cho những nhà thám hiểm?"
 slug: "samsung-xcover-7-giai-phap-toi-uu-cho-nhung-nha-tham-hiem"
 excerpt: "Đặc tính kỹ thuật của Samsung Xcover 7 Samsung Xcover 7 là điện thoại mới nhất trong dòng Xcover, được biết đến với khả năng chống chịu các yếu tố và độ bền. Với các tính năng tiên tiến và thiết kế chắc chắn, Xcover 7 được thiết kế dành cho những người năng động, [&hellip;]"

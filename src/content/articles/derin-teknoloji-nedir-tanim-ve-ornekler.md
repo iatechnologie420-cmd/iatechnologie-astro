@@ -1,4 +1,5 @@
 ---
+
 title: "Derin teknoloji nedir? tanım ve örnekler"
 slug: "derin-teknoloji-nedir-tanim-ve-ornekler"
 excerpt: "Orada Derin Teknolojiveya en son teknoloji, günümüzün startup ve inovasyon dünyasında bir devrimi temsil ediyor. Değişikliklerinin derinliği ve yıkıcı potansiyeliyle daha geleneksel teknolojilerden öne çıkıyor. Ama gerçekte ne demek istiyoruz? Derin Teknolojive diğer teknoloji türlerinden farkı nedir? Deep Tech&#8217;un tanımı Dönem Derin Teknoloji Önemli bilimsel keşiflere veya mühendislik ilerlemelerine dayanan teknolojileri ifade eder. Bu teknolojiler [&hellip;]"

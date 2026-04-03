@@ -1,4 +1,5 @@
 ---
+
 title: "Bayesov izrek in njegova uporaba v AI"
 slug: "bayesov-izrek-in-njegova-uporaba-v-ai"
 excerpt: "Uvod v Bayesov izrek THE Bayesov izrek je temeljna formula v verjetnosti in statistiki, ki opisuje posodabljanje naših prepričanj ob prisotnosti novih informacij. Ta izrek, imenovan v čast prečastitemu Thomasu Bayesu, igra ključno vlogo na številnih področjih, od strojnega učenja do odločanja v negotovosti. Bistvo Bayesovega izreka Srce od Bayesov izrek je pogojna verjetnost. V [&hellip;]"

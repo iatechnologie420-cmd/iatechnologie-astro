@@ -1,4 +1,5 @@
 ---
+
 title: "El juego Morpion de Google: ¿Cómo jugarlo y vencer a la inteligencia artificial?"
 slug: "el-juego-morpion-de-google-como-jugarlo-y-vencer-a-la-inteligencia-artificial"
 excerpt: "Las reglas del juego Tic-Toe de Google Objetivo del juego El juego Morpion, también llamado Tic-tac-toe, es un juego de estrategia que se juega en una cuadrícula de 3&#215;3. El objetivo es alinear tres símbolos idénticos (cruz o círculo) horizontal, vertical o diagonalmente delante de tu oponente. Configuración El juego Google Tic Toe está disponible [&hellip;]"

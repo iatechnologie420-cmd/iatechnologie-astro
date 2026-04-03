@@ -1,4 +1,5 @@
 ---
+
 title: "Glosari Data Besar: Istilah yang anda perlu tahu untuk memahami"
 slug: "glosari-data-besar-istilah-yang-anda-perlu-tahu-untuk-memahami"
 excerpt: "Pengenalan kepada dunia data besar THE Data besar mewakili sektor yang semakin berkembang yang mengubah cara perniagaan dan organisasi menganalisis dan memanfaatkan data. Dalam dunia yang semakin digital, data dijana pada kelajuan yang sangat pantas dan dalam pelbagai format. Era Data Besar bukan lagi sekadar kata kunci; ia adalah realiti yang membentuk keseluruhan industri dan [&hellip;]"

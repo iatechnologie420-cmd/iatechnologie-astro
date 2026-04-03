@@ -1,4 +1,5 @@
 ---
+
 title: "Công nghệ ngoài khơi sâu: tương lai của việc thăm dò dưới nước?"
 slug: "cong-nghe-ngoai-khoi-sau-tuong-lai-cua-viec-tham-do-duoi-nuoc"
 excerpt: "Công nghệ nước sâu là gì? Công nghệ khoan biển sâu hay còn gọi là công nghệ khoan nước sâu là ngành nhằm tìm kiếm, khai thác tài nguyên có sẵn dưới đáy biển, ở độ sâu từ 500 đến vài nghìn mét. Công nghệ này mở ra những khả năng mới cho việc thăm [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Segway Navimow endurskoðun: Sjálfvirka sláttuvél framtíðarinnar?"
 slug: "segway-navimow-endurskodun-sjalfvirka-slattuvel-framtidarinnar"
 excerpt: "Kostir Segway Navimow sjálfvirkrar sláttuvélar Ímyndaðu þér að geta notið garðsins til fulls án þess að hafa áhyggjur af því að slá grasið. Þökk sé Segway Navimow sjálfvirkri sláttuvél er þetta leiðinlega verkefni nú úr sögunni. Pakkað nýstárlegum eiginleikum og háþróaðri tækni, þessi sjálfstæða sláttuvél býður upp á marga kosti sem munu gera daglegt líf [&hellip;]"

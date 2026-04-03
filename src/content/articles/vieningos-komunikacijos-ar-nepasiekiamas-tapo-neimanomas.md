@@ -1,4 +1,5 @@
 ---
+
 title: "Vieningos komunikacijos: ar nepasiekiamas tapo neįmanomas?"
 slug: "vieningos-komunikacijos-ar-nepasiekiamas-tapo-neimanomas"
 excerpt: "Vieningos komunikacijos: apibrėžimas ir principas Kas yra Unified Communications? THE Vieningos komunikacijos (CU), arba Unified Communications anglų kalba, nurodo paslaugų ir sprendimų rinkinį, kuriuo siekiama integruoti arba suvienodinti įvairias komunikacijos formas toje pačioje sąsajoje arba platformoje. Tai apima tiesioginius pranešimus, vaizdo konferencijas, balso skambučius (VoIP), el. paštą, žiniatinklio konferencijas ir balso paštą. Pagrindinis tikslas – [&hellip;]"

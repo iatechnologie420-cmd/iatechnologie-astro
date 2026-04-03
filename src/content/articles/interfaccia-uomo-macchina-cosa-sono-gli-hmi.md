@@ -1,4 +1,5 @@
 ---
+
 title: "Interfaccia uomo-macchina: cosa sono gli HMI?"
 slug: "interfaccia-uomo-macchina-cosa-sono-gli-hmi"
 excerpt: "Definizione di interfaccia uomo-macchina L&#8217;interfaccia uomo-macchina si riferisce a tutti i mezzi e gli strumenti implementati per consentire un&#8217;interazione efficace tra un utente umano e un sistema informatico. Comprende tutto, dalla progettazione visiva degli schermi ai dispositivi di input come tastiera, mouse e interfacce tattili e vocali. L&#8217;evoluzione storica dell&#8217;HMI Gli HMI hanno subito una [&hellip;]"

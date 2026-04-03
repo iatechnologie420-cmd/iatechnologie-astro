@@ -1,4 +1,5 @@
 ---
+
 title: "Google hljóðfærastillir: bylting fyrir tónlistarmenn?"
 slug: "google-hljodfaerastillir-bylting-fyrir-tonlistarmenn"
 excerpt: "Mikilvægi þess að stilla hljóðfæri Stilling er einn mikilvægasti þátturinn þegar kemur að því að spila á hljóðfæri. Hvort sem þú ert byrjandi eða reyndur tónlistarmaður þarftu að stilla hljóðfærið þitt reglulega til að fá sem besta hljóðið. Í þessari grein munum við kanna mikilvægi þess að stilla hljóðfæri og gefa þér nokkur ráð til [&hellip;]"

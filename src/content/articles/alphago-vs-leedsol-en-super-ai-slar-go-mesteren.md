@@ -1,4 +1,5 @@
 ---
+
 title: "AlphaGo vs Leedsol: En super AI slår Go-mesteren"
 slug: "alphago-vs-leedsol-en-super-ai-slar-go-mesteren"
 excerpt: "Et historisk sammenstøt: kunstig intelligens utfordrer mesteren til Go Go-verdenen var historisk dominert av menneskelige mestere, inntil en betydelig hendelse som rystet etablerte paradigmer. Kunstig intelligens, dette verktøyet utviklet av menneskelig oppfinnsomhet, tok utfordringen med å takle et av de mest komplekse strategispillene i historien. Dette historiske sammenstøtet mellom de logiske kretsene til en superdatamaskin [&hellip;]"

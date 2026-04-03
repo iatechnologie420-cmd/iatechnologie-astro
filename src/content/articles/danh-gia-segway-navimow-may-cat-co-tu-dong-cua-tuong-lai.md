@@ -1,4 +1,5 @@
 ---
+
 title: "Đánh giá Segway Navimow: Máy cắt cỏ tự động của tương lai?"
 slug: "danh-gia-segway-navimow-may-cat-co-tu-dong-cua-tuong-lai"
 excerpt: "Ưu điểm của máy cắt cỏ tự động Segway Navimow Hãy tưởng tượng bạn có thể tận hưởng trọn vẹn khu vườn của mình mà không phải lo lắng về công việc cắt cỏ. Nhờ có máy cắt cỏ tự động Segway Navimow, công việc tẻ nhạt này giờ đã trở thành quá khứ. Được [&hellip;]"

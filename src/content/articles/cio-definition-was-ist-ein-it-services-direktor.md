@@ -1,4 +1,5 @@
 ---
+
 title: "CIO-Definition: Was ist ein IT-Services-Direktor?"
 slug: "cio-definition-was-ist-ein-it-services-direktor"
 excerpt: "Rolle und Aufgaben des Direktors für IT-Dienste Die wesentliche Rolle des Direktors für IT-Dienste DER Leiter IT-Services, auch bekannt als CIO Oder Direktor der Informationssystemenimmt in modernen Unternehmen einen strategischen Platz ein. Im digitalen Zeitalter, in dem Information und Technologie zum Kern beruflicher Aktivitäten geworden sind, ist das Verständnis der eigenen Verantwortlichkeiten und Missionen von [&hellip;]"

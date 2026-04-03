@@ -1,4 +1,5 @@
 ---
+
 title: "World of Warcraft Classic Hardcore: how to start the adventure right?"
 slug: "world-of-warcraft-classic-hardcore-how-to-start-the-adventure-right"
 excerpt: "Understand the fundamental rules of Hardcore mode The mode hardcore In World of Warcraft Classic adds a captivating and demanding dimension to the game. For adventurers looking for thrills and challenges, this guide will help you dive into this exhilarating game mode by mastering its basic rules. What is Hardcore mode? The mode hardcore In [&hellip;]"

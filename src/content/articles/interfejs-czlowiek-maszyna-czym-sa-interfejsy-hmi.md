@@ -1,4 +1,5 @@
 ---
+
 title: "Interfejs człowiek-maszyna: czym są interfejsy HMI?"
 slug: "interfejs-czlowiek-maszyna-czym-sa-interfejsy-hmi"
 excerpt: "Definicja interfejsu człowiek-maszyna Interfejs człowiek-maszyna odnosi się do wszystkich środków i narzędzi wdrożonych w celu umożliwienia skutecznej interakcji pomiędzy użytkownikiem a systemem komputerowym. Obejmuje wszystko, od wizualnego projektu ekranów po urządzenia wejściowe, takie jak klawiatura, mysz, a nawet interfejsy dotykowe i głosowe. Historyczna ewolucja HMI Od czasu pojawienia się informatyki interfejsy HMI przeszły znaczną ewolucję. [&hellip;]"

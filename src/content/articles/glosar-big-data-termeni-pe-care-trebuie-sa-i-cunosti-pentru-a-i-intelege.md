@@ -1,4 +1,5 @@
 ---
+
 title: "Glosar Big Data: Termeni pe care trebuie să-i cunoști pentru a-i înțelege"
 slug: "glosar-big-data-termeni-pe-care-trebuie-sa-i-cunosti-pentru-a-i-intelege"
 excerpt: "Introducere în lumea datelor mari THE Date mare reprezintă un sector în creștere care transformă modul în care întreprinderile și organizațiile analizează și valorifică datele. Într-o lume din ce în ce mai digitală, datele sunt generate cu o viteză vertiginoasă și într-o varietate de formate. Era Big Data nu mai este doar un cuvânt la [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Google Deep Dream: kompletny przewodnik po oszałamiającej sztucznej inteligencji"
 slug: "google-deep-dream-kompletny-przewodnik-po-oszalamiajacej-sztucznej-inteligencji"
 excerpt: "Zrozumienie koncepcji Google Deep Dream W fascynującym świecie sztucznej inteligencji pojawiła się szczególnie imponująca innowacja: Głęboki sen Google. Uważany za oszałamiająca sztuczna inteligencjakoncepcja ta łączy w sobie zaawansowaną technologię i nieograniczoną wyobraźnię, tworząc zapierające dech w piersiach reprezentacje wizualne. Aby w pełni zrozumieć istotę tej technologii, w tym artykule przyjrzymy się jej podstawom, działaniu i [&hellip;]"

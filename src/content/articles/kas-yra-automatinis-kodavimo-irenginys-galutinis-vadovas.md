@@ -1,4 +1,5 @@
 ---
+
 title: "Kas yra automatinis kodavimo įrenginys? Galutinis vadovas!"
 slug: "kas-yra-automatinis-kodavimo-irenginys-galutinis-vadovas"
 excerpt: "Automatiniai kodavimo įrenginiai arba automatiniai kodavimo įrenginiai anglų kalba, pozicionuoja save kaip galingus įrankius mašininio mokymosi ir dirbtinio intelekto srityje. Šie specialūs neuroniniai tinklai naudojami matmenų mažinimui, anomalijų aptikimui, duomenų triukšmo slopinimui ir kt. Šiame straipsnyje pateikiamas šios patrauklios technologijos įvadas, pabrėžiamas jos veikimo principas, pritaikymas ir didėjanti svarba moksliniams tyrimams bei pramonei. Kas yra [&hellip;]"

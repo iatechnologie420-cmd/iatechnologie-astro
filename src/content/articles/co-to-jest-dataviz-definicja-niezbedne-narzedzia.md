@@ -1,4 +1,5 @@
 ---
+
 title: "Co to jest dataviz? Definicja, niezbędne narzędzia"
 slug: "co-to-jest-dataviz-definicja-niezbedne-narzedzia"
 excerpt: "Zrozumienie Dataviz: wizualizacja danych Dzisiaj, w dobie ogromnej ilości danych generowanych co sekundę, umiejętność przedstawienia tych informacji w sposób jasny i skuteczny staje się kluczowa. To tutaj Wizualizacja danych, Lub datawiz, dyscyplina, która łączy projektowanie, narrację i analizę statystyczną w celu przekształcania złożonych danych w intuicyjne reprezentacje wizualne. Cele Dataviz Główną ambicją dataviz jest udostępnienie [&hellip;]"

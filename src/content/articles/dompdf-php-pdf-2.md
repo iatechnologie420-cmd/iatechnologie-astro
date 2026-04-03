@@ -1,4 +1,5 @@
 ---
+
 title: "Dompdf：如何用 PHP 创建优雅的 PDF？"
 slug: "dompdf-php-pdf-2"
 excerpt: "Dompdf简介 Dompdf 是一个 PHP 库，允许您从 HTML 内容生成 PDF 文件。该解决方案对于生成 PDF 格式的报告、发票或任何其他文档非常有用。在本文中，我们将了解 Dompdf 的基本功能，并学习如何使用它创建优雅且实用的 PDF。 先决条件 在安装 Dompdf 之前，请确保您具备以下条件： Dompdf安装 要安装 Dompdf，请按照以下步骤操作： 现在您已经安装了 Dompdf，您可以开始在 Web 应用程序中生成优雅且实用的 PDF 文件。 Dompdf 提供了许多用于自定义 PDF 渲染的高级功能，例如管理图像、自定义字体和 CSS 样式。 用 PHP 创建优雅的 PDF 安装和使用Dompdf的另一种方法 以下是要遵循的步骤：1.从官网下载最新版本的Dompdf。2. 解压下载的文件并将其放入您的 PHP 项目中。3. 包含 Dompdfautoload.php 文件以将该库加载到 PHP 脚本中。 从 HTML 模板创建 PDF 现在我们已经安装了 Dompdf，我们将了解如何使用 HTML 模板创建 [&hellip;]"

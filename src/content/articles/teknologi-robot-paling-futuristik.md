@@ -1,4 +1,5 @@
 ---
+
 title: "Teknologi robot paling futuristik"
 slug: "teknologi-robot-paling-futuristik"
 excerpt: "Penemuan robot revolusioner ITU robot revolusioner bukan lagi fiksi ilmiah, kini menjadi bagian dari kehidupan kita sehari-hari dan mengubah berbagai industri dengan cara baru. Munculnyakecerdasan buatan (AI) dan robotika tingkat lanjut membuka pintu ke era di mana otomasi menjadi lebih mudah beradaptasi, otonom, dan terintegrasi ke dalam aktivitas manusia. Pada artikel ini, kita akan mengeksplorasi [&hellip;]"

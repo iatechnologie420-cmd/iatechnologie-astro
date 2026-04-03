@@ -1,4 +1,5 @@
 ---
+
 title: "AWS Cloud – Alles, was Sie über die Amazon Web Services Cloud wissen müssen"
 slug: "aws-cloud-alles-was-sie-uber-die-amazon-web-services-cloud-wissen-mussen"
 excerpt: "Einführung in Amazon Web Services (AWS): eine Revolution im Cloud Computing Seit seiner Gründung im Jahr 2006 Amazon Web Services (AWS) hat die IT-Landschaft radikal verändert, indem es eine Cloud-Services-Plattform bereitgestellt hat, die beispiellose Flexibilität, Skalierbarkeit und Skaleneffekte bietet. Ziel dieser Einführung ist es, die Funktionsprinzipien von zu verdeutlichenAWS und um zu erklären, warum diese [&hellip;]"

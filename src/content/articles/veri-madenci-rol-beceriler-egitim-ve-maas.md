@@ -1,4 +1,5 @@
 ---
+
 title: "Veri Madenci: rol, beceriler, eğitim ve maaş"
 slug: "veri-madenci-rol-beceriler-egitim-ve-maas"
 excerpt: "Veri madencisinin rolü ve görevleri THE Veri Madencisi, veya veri arayıcısı, veri ve yapay zeka dünyasında çok önemli bir rol oynar. Şirketlerde karar almayı ve stratejik yönetimi kolaylaştıran önemli bir gölge aktördür. Misyonlarını ve rolünün önemini detaylandıracağız. Veri madencisi nedir? THE Veri Madencisi büyük hacimli verilerden (Büyük Veri) içgörüler elde etmekten sorumlu bir veri uzmanıdır. [&hellip;]"

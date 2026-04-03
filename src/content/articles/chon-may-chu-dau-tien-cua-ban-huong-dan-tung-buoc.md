@@ -1,4 +1,5 @@
 ---
+
 title: "Chọn máy chủ đầu tiên của bạn: hướng dẫn từng bước"
 slug: "chon-may-chu-dau-tien-cua-ban-huong-dan-tung-buoc"
 excerpt: "Hiểu sự khác biệt giữa các loại máy chủ Máy chủ đóng một vai trò quan trọng trong việc vận hành mạng, lưu trữ trang web, lưu trữ dữ liệu và hỗ trợ tính toán, cùng nhiều nhiệm vụ khác. Những cỗ máy mạnh mẽ này có thể có nhiều dạng khác nhau, mỗi dạng [&hellip;]"

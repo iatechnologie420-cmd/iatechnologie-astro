@@ -1,4 +1,5 @@
 ---
+
 title: "SSD: tutto quello che devi sapere sull&#8217;archiviazione dei dati su unità a stato solido"
 slug: "ssd-tutto-quello-che-devi-sapere-sullarchiviazione-dei-dati-su-unita-a-stato-solido"
 excerpt: "Introduzione agli SSD e al loro funzionamento L&#8217;avvento dei dischi a stato solido, o SSD (Disco a stato solido in inglese), ha segnato una vera e propria rivoluzione nel campo della memorizzazione dei dati. A differenza dei tradizionali dischi rigidi (HDD) che utilizzano piatti magnetici per archiviare informazioni, gli HDD SSD fare affidamento su chip [&hellip;]"

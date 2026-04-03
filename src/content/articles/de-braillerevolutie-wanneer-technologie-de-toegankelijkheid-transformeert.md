@@ -1,4 +1,5 @@
 ---
+
 title: "De braillerevolutie: wanneer technologie de toegankelijkheid transformeert"
 slug: "de-braillerevolutie-wanneer-technologie-de-toegankelijkheid-transformeert"
 excerpt: "De braillerevolutie in het technologische tijdperk Ontstaan ​​van braille en hedendaagse aanpassingen Oorspronkelijk ontwikkeld door Louis Braille in de 19e eeuw, bracht het schrijfsysteem voor blinden en slechtzienden, bekend als braille, een revolutie teweeg in de manier waarop ze communiceren. Geïnspireerd door een mechanisme dat is ontworpen om door het leger in het donker te [&hellip;]"

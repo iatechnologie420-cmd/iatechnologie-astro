@@ -1,4 +1,5 @@
 ---
+
 title: "Apa itu pusat info TI? definisi dan penjelasan"
 slug: "apa-itu-pusat-info-ti-definisi-dan-penjelasan"
 excerpt: "A pusat informasi komputer, juga disebut sebagai Pusat Informasi, mengacu pada sistem terpusat yang didedikasikan untuk manajemen data dalam suatu organisasi. Tujuannya adalah untuk mengumpulkan, menyimpan, mengatur dan menyebarkan informasi yang diperlukan untuk aktivitas perusahaan. Fungsinya penting untuk memungkinkan analis dan pengambil keputusan mengeksploitasi data dengan cara yang efisien dan terinformasi. Pada artikel ini, kita [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Khai thác văn bản là gì? sự định nghĩa"
 slug: "khai-thac-van-ban-la-gi-su-dinh-nghia"
 excerpt: "Giới thiệu về khai thác văn bản CÁC khai thác văn bản, hay khai thác văn bản trong tiếng Pháp, là một nhánh của khoa học dữ liệu tập trung vào việc trích xuất thông tin hữu ích từ các tập hợp dữ liệu văn bản lớn. Thường gắn liền với xử lý ngôn ngữ [&hellip;]"

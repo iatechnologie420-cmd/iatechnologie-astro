@@ -1,4 +1,5 @@
 ---
+
 title: "Co to jest eksploracja tekstu? definicja"
 slug: "co-to-jest-eksploracja-tekstu-definicja"
 excerpt: "Wprowadzenie do eksploracji tekstu TO eksploracja tekstu, czyli eksploracja tekstu w języku francuskim, to gałąź nauki o danych, która koncentruje się na wydobywaniu przydatnych informacji z dużych zbiorów danych tekstowych. Często kojarzony z przetwarzanie języka naturalnego (NLP) eksploracja tekstu obejmuje zestaw technik i narzędzi umożliwiających zrozumienie, analizowanie i przetwarzanie ludzkiego języka zebranego w formie tekstowej. [&hellip;]"

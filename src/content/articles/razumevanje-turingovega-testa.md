@@ -1,4 +1,5 @@
 ---
+
 title: "Razumevanje Turingovega testa"
 slug: "razumevanje-turingovega-testa"
 excerpt: "Izvor in principi Turingovega testa V svetu umetne inteligence (AI) in računalništva zavzema Turingov test vidno mesto. To je primerjalna metoda, namenjena ocenjevanju zmožnosti stroja, da posnema človeško inteligenco. Začetki in načela tega revolucionarnega testa segajo v sredino 20. stoletja in temeljijo na kompleksnih filozofskih in računalniških konceptih. Zgodovina Turingovega testa Turingov test je dobil [&hellip;]"

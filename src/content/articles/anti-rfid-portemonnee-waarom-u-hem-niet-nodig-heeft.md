@@ -1,4 +1,5 @@
 ---
+
 title: "Anti-RFID-portemonnee: waarom u hem niet nodig heeft"
 slug: "anti-rfid-portemonnee-waarom-u-hem-niet-nodig-heeft"
 excerpt: "Inzicht in RFID-technologie en de risico&#8217;s ervan Wat is RFID? Daar Radio Frequentie Identificatie (RFID) is een technologie die de automatische identificatie van objecten, dieren of mensen mogelijk maakt met behulp van radiogolven. Het maakt gebruik van kleine elektronische apparaten genaamd etiketten Of RFID-tags, die gegevens opslaan en deze informatie naar een RFID-lezer verzenden. Tags [&hellip;]"

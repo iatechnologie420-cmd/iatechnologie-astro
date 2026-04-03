@@ -1,4 +1,5 @@
 ---
+
 title: "Big Data-woordenlijst: termen die u moet kennen om te begrijpen"
 slug: "big-data-woordenlijst-termen-die-u-moet-kennen-om-te-begrijpen"
 excerpt: "Introductie in de wereld van big data DE Grote gegevens vertegenwoordigt een groeiende sector die de manier transformeert waarop bedrijven en organisaties gegevens analyseren en benutten. In een wereld die steeds digitaler wordt, worden gegevens razendsnel en in verschillende formaten gegenereerd. Het tijdperk van Big Data is niet langer slechts een modewoord; het is een [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Was ist ein IT-Infocenter? Definition und Erklärung"
 slug: "was-ist-ein-it-infocenter-definition-und-erklarung"
 excerpt: "A Computer-Infocenter, auch bezeichnet als Informationszentrumbezieht sich auf ein zentralisiertes System zur Datenverwaltung innerhalb einer Organisation. Sein Ziel ist es, die für die Geschäftstätigkeit des Unternehmens erforderlichen Informationen zu sammeln, zu speichern, zu organisieren und zu verbreiten. Seine Funktion ist von entscheidender Bedeutung, um Analysten und Entscheidungsträgern eine effiziente und fundierte Nutzung von Daten zu [&hellip;]"

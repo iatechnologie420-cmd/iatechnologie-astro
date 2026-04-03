@@ -1,4 +1,5 @@
 ---
+
 title: "World of Warcraft Classic Hardcore: hoe begin je het avontuur goed?"
 slug: "world-of-warcraft-classic-hardcore-hoe-begin-je-het-avontuur-goed"
 excerpt: "Begrijp de fundamentele regels van de hardcore-modus De mode hardcore In World of Warcraft-klassieker voegt een boeiende en veeleisende dimensie toe aan het spel. Voor avonturiers die op zoek zijn naar spanning en uitdagingen, zal deze gids je helpen in deze opwindende spelmodus te duiken door de basisregels onder de knie te krijgen. Wat is [&hellip;]"

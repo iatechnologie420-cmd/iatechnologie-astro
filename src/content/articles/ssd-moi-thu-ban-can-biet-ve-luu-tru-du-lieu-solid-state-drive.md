@@ -1,4 +1,5 @@
 ---
+
 title: "SSD: mọi thứ bạn cần biết về lưu trữ dữ liệu Solid-State Drive"
 slug: "ssd-moi-thu-ban-can-biet-ve-luu-tru-du-lieu-solid-state-drive"
 excerpt: "Giới thiệu về SSD và cách chúng hoạt động Sự ra đời của đĩa trạng thái rắn, hoặc SSD (Ổ đĩa thể rắn bằng tiếng Anh), đánh dấu một cuộc cách mạng thực sự trong lĩnh vực lưu trữ dữ liệu. Không giống như các ổ đĩa cứng truyền thống (HDD) sử dụng đĩa từ [&hellip;]"

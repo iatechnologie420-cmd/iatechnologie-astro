@@ -1,4 +1,5 @@
 ---
+
 title: "Velge din første server: en trinn-for-trinn guide"
 slug: "velge-din-forste-server-en-trinn-for-trinn-guide"
 excerpt: "Forstå forskjellene mellom servertyper Servere spiller en viktig rolle i å drive nettverk, hoste nettsteder, lagre data og støtte databehandling, blant andre oppgaver. Disse kraftige maskinene kan komme i forskjellige former, hver med sine egne særtrekk og ideelle bruk. Denne artikkelen tar sikte på å gjennomgå det viktigste servertyper og deres forskjeller for bedre å [&hellip;]"

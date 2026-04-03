@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT hanyalah ilusi kecerdasan: mengapa?"
 slug: "chatgpt-hanyalah-ilusi-kecerdasan-mengapa-2"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Simulasi kecerdasan manusia oleh AI? Keupayaan untuk mensimulasikan kecerdasan manusia dengan mesin sentiasa menjadi daya tarikan tunggal, baik untuk saintis dan orang awam. Jika idea mesin yang mampu berfikir, menaakul dan memahami seperti manusia mungkin masih kelihatan seperti fiksyen sains, kemajuan dalam kecerdasan buatan (AI) membuktikan kepada kita bahawa kita lebih dekat berbanding sebelum [&hellip;]"

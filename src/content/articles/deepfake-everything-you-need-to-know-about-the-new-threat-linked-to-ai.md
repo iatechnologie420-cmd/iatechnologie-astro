@@ -1,4 +1,5 @@
 ---
+
 title: "Deepfake: everything you need to know about the new threat linked to AI"
 slug: "deepfake-everything-you-need-to-know-about-the-new-threat-linked-to-ai"
 excerpt: "Definition and operation of Deepfake Definition of Deepfake The term deepfake is a contraction of the English words &#8220;deep learning&#8221; and &#8220;fake&#8221;. This technology is based on algorithmsartificial intelligence specially designed for creating or editing audiovisual content, including videos and audio tracks. The result is often so convincing that it can deceive the eye and [&hellip;]"

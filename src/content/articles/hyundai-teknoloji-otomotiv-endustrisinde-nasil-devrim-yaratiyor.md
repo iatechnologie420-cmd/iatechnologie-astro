@@ -1,4 +1,5 @@
 ---
+
 title: "Hyundai: Teknoloji otomotiv endüstrisinde nasıl devrim yaratıyor?"
 slug: "hyundai-teknoloji-otomotiv-endustrisinde-nasil-devrim-yaratiyor"
 excerpt: "Dijital dönüşüm, ürün ve hizmetlerle etkileşim şeklimizi önemli ölçüde değiştirdi ve otomotiv endüstrisi de bir istisna değil. Bu evrimin mükemmel bir örneği şurada görülebilir: HyundaiSektörün ön saflarında yer almayı, en son teknolojik gelişmeleri üretimine ve faaliyetlerine dahil etmeyi başaran . Dijital teknolojiyi Hyundai operasyonlarına dahil etmek Hyundai, operasyonlarını optimize etmek için çeşitli dijital teknolojileri benimsedi. [&hellip;]"

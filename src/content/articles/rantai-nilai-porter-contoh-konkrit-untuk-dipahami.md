@@ -1,4 +1,5 @@
 ---
+
 title: "Rantai nilai PORTER | Contoh konkrit untuk dipahami"
 slug: "rantai-nilai-porter-contoh-konkrit-untuk-dipahami"
 excerpt: "Memahami Rantai Nilai Michael Porter Rantai nilai adalah konsep yang dikembangkan oleh ekonom dan akademisi Amerika Michael Porter dalam karyanya “Competitive Advantage” yang diterbitkan pada tahun 1985. Model ini penting untuk menganalisis aktivitas internal perusahaan guna mengoptimalkan nilai yang diciptakan dan keunggulan kompetitif. Artikel ini memberi Anda panduan untuk memahami dan menggunakan rantai nilai Michael [&hellip;]"

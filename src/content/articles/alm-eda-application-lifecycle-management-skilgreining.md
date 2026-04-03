@@ -1,4 +1,5 @@
 ---
+
 title: "ALM eða Application Lifecycle Management: skilgreining"
 slug: "alm-eda-application-lifecycle-management-skilgreining"
 excerpt: "Grundvallaratriðin L&#8217;Lifecycle Management app (ALM) er kerfisbundið stjórnar- og stjórnunarkerfi fyrir hugbúnaðarþróun. Það nær yfir starfshætti, ferla og verkfæri sem gera teymum kleift að stjórna líftíma forrits frá getnaði til starfsloka. Skoðum nánar þætti og mikilvægi ALM í nútíma hugbúnaðarþróun. Hvað er ALM? ALM vísar til samfellu starfsvenja og ferla við gerð og viðhald umsókna [&hellip;]"

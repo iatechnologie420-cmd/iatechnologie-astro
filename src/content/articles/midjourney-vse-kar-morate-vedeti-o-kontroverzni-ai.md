@@ -1,4 +1,5 @@
 ---
+
 title: "MidJourney: vse, kar morate vedeti o kontroverzni AI"
 slug: "midjourney-vse-kar-morate-vedeti-o-kontroverzni-ai"
 excerpt: "Razumevanje MidJourneyja MidJourney je zmogljiva umetna inteligenca, ki spreminja naš način interakcije s tehnologijo. Uporabite ta vodnik kot vir za razumevanje njegovega izvora in ključnih funkcij. Kaj je MidJourney? MidJourney je orodje umetna inteligenca avantgarda, zasnovana za izboljšanje in olajšanje naših vsakodnevnih interakcij z novimi tehnologijami. Je del nenehno rastoče pokrajine aplikacij AI, vključno z [&hellip;]"

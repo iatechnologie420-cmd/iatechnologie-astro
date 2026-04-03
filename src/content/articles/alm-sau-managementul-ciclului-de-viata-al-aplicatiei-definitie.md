@@ -1,4 +1,5 @@
 ---
+
 title: "ALM sau Managementul ciclului de viață al aplicației: definiție"
 slug: "alm-sau-managementul-ciclului-de-viata-al-aplicatiei-definitie"
 excerpt: "Fundamentele L&#8217;Aplicația de management al ciclului de viață (ALM) este un cadru sistematic de guvernare și management pentru dezvoltarea de software. Acesta cuprinde practicile, procesele și instrumentele care permit echipelor să gestioneze ciclul de viață al unei aplicații de la concepție până la retragere. Să aruncăm o privire mai atentă asupra componentelor și importanței ALM [&hellip;]"

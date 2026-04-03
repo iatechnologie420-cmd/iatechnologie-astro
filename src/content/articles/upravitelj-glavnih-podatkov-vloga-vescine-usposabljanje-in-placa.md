@@ -1,4 +1,5 @@
 ---
+
 title: "Upravitelj glavnih podatkov: vloga, veščine, usposabljanje in plača"
 slug: "upravitelj-glavnih-podatkov-vloga-vescine-usposabljanje-in-placa"
 excerpt: "Ključna vloga upravitelja glavnih podatkov pri upravljanju podatkov V svetu, kjer so podatki postali glavno strateško sredstvo za podjetja, upravljanje podatkov je bistvenega pomena za zagotavljanje kakovosti, varnosti in učinkovitosti informacij. V središču tega upravljanja je Upravitelj glavnih podatkov (MDM) igra ključno vlogo. Skupaj raziščimo odgovornosti in vplive tega strateškega položaja. Kaj je upravljanje z [&hellip;]"

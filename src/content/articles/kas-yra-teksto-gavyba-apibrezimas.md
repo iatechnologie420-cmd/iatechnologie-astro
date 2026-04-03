@@ -1,4 +1,5 @@
 ---
+
 title: "Kas yra teksto gavyba? apibrėžimas"
 slug: "kas-yra-teksto-gavyba-apibrezimas"
 excerpt: "Įvadas į teksto gavybą THE teksto gavyba, arba teksto gavyba prancūziškai, yra duomenų mokslo šaka, kurios tikslas – išgauti naudingą informaciją iš didelių tekstinių duomenų rinkinių. Dažnai siejama su natūralios kalbos apdorojimas (NLP), teksto gavyba apima metodų ir įrankių rinkinį, galintį suprasti, analizuoti ir apdoroti tekstine forma surinktą žmonių kalbą. Didėjantis teksto gavybos naudojimas daugiausia [&hellip;]"

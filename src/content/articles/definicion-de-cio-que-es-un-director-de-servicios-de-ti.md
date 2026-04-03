@@ -1,4 +1,5 @@
 ---
+
 title: "Definición de CIO: ¿qué es un director de servicios de TI?"
 slug: "definicion-de-cio-que-es-un-director-de-servicios-de-ti"
 excerpt: "Rol y misiones del Director de Servicios TI El papel esencial del Director de Servicios TI EL Director de Servicios TI, también conocido como CIO O director de sistemas de informacion, ocupa un lugar estratégico dentro de las empresas modernas. En la era digital, donde la información y la tecnología se han convertido en el [&hellip;]"

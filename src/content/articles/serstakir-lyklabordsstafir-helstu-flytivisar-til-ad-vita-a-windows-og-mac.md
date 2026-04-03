@@ -1,4 +1,5 @@
 ---
+
 title: "Sérstakir lyklaborðsstafir: Helstu flýtivísar til að vita (á Windows og Mac)"
 slug: "serstakir-lyklabordsstafir-helstu-flytivisar-til-ad-vita-a-windows-og-mac"
 excerpt: "Sérstafir eru tákn eða tákn sem samsvara ekki venjulegum bókstöfum og tölustöfum á hefðbundnu lyklaborði. Notkun þessara sérstafa skiptir miklu máli í ýmsum samhengi eins og tölvuforritun, textagerð, lykilorðaöryggi og stærðfræðilegri eða vísindalegri gagnafærslu. Í forritun, sérstafir eru nauðsynlegir. Þeir gera þér kleift að framkvæma sérstakar aðgerðir, svo sem að aðskilja stafastrengi eða tákna flóknar [&hellip;]"

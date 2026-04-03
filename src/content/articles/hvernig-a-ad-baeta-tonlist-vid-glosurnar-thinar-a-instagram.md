@@ -1,4 +1,5 @@
 ---
+
 title: "Hvernig á að bæta tónlist við glósurnar þínar á Instagram?"
 slug: "hvernig-a-ad-baeta-tonlist-vid-glosurnar-thinar-a-instagram"
 excerpt: "Notaðu tónlistareiginleika á Instagram Instagram er orðið ómissandi vettvangur til að deila augnablikum lífsins, myndum og myndböndum. Til að gera færslurnar þínar enn meira aðlaðandi geturðu samþætt tónlist inn í efnið þitt. Í þessari grein munum við kanna mismunandi tónlistareiginleika á Instagram og hvernig á að nota þá til að búa til frumlegar og grípandi [&hellip;]"

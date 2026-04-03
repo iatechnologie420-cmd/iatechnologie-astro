@@ -1,4 +1,5 @@
 ---
+
 title: "Dezastru tehnologic: revoluția digitală se transformă într-un coșmar?"
 slug: "dezastru-tehnologic-revolutia-digitala-se-transforma-intr-un-cosmar"
 excerpt: "Impactul revoluției digitale asupra societății noastre Revoluția digitală care caracterizează timpul nostru a perturbat multe aspecte ale societății noastre. Tehnologiile digitale și accesul la internet au transformat modul în care comunicăm, lucrăm, consumăm și chiar trăim. Acest articol explorează consecințele acestei revoluții asupra vieții noastre de zi cu zi și evidențiază problemele cruciale cu care [&hellip;]"

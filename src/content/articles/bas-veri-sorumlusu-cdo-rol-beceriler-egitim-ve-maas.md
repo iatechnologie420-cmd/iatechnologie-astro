@@ -1,4 +1,5 @@
 ---
+
 title: "Baş Veri Sorumlusu (CDO): ​​rol, beceriler, eğitim ve maaş"
 slug: "bas-veri-sorumlusu-cdo-rol-beceriler-egitim-ve-maas"
 excerpt: "Veri Direktörünün şirketteki stratejik yeri Büyük veri ve veri analitiği çağında işletmeler, verilerini stratejik olarak yönetmenin ve bunlardan yararlanmanın önemini giderek daha fazla anlıyor. Bu tanınmanın merkezinde önemli bir rol vardır: Baş Veri Sorumlusu (CDO). CDO, yönetişimi, veri kalitesini, mevzuat uyumluluğunu dengelemek ve rekabet avantajı için verilerden yararlanmak için gereklidir. Bu makale CDO&#8217;nun mevcut girişimcilik [&hellip;]"

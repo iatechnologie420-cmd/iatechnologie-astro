@@ -1,4 +1,5 @@
 ---
+
 title: "Người quản lý dữ liệu chính: vai trò, kỹ năng, đào tạo và tiền lương"
 slug: "nguoi-quan-ly-du-lieu-chinh-vai-tro-ky-nang-dao-tao-va-tien-luong"
 excerpt: "Vai trò chính của Trình quản lý dữ liệu chính trong quản trị dữ liệu Trong một thế giới nơi dữ liệu đã trở thành tài sản chiến lược quan trọng của doanh nghiệp, quản trị dữ liệu là điều cần thiết để đảm bảo chất lượng, tính bảo mật và hiệu quả của thông [&hellip;]"

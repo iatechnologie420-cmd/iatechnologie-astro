@@ -1,4 +1,5 @@
 ---
+
 title: "Cognitivism: Is our intelligence artificial?"
 slug: "cognitivism-is-our-intelligence-artificial"
 excerpt: "The origins of cognitivism and human intelligence The origins of cognitivism THE cognitivism is an approach in psychology that focuses on the internal mechanisms of thought, treating the human mind as an information processing system. The origins of this approach date back mainly to the 1950s and 1960s, as a reaction to behaviorism, which was [&hellip;]"

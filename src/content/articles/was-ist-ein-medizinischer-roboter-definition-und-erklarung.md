@@ -1,4 +1,5 @@
 ---
+
 title: "Was ist ein medizinischer Roboter? Definition und Erklärung"
 slug: "was-ist-ein-medizinischer-roboter-definition-und-erklarung"
 excerpt: "Definition und Typologie medizinischer Roboter Das Aufkommen der Robotik im Gesundheitswesen hat enorme Möglichkeiten zur Verbesserung der medizinischen Versorgung und Chirurgie eröffnet. Diese Technologien, bekannt als medizinische Roboter, sind mechanische Geräte oder Computersysteme, die in der Lage sind, komplexe Vorgänge mit hoher Präzision auszuführen, oft unter der Aufsicht oder direkten Kontrolle von qualifiziertem medizinischem Personal. [&hellip;]"

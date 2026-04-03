@@ -1,4 +1,5 @@
 ---
+
 title: "PyGraft: semua yang perlu Anda ketahui tentang alat Python open source untuk DataViz"
 slug: "pygraft-semua-yang-perlu-anda-ketahui-tentang-alat-python-open-source-untuk-dataviz"
 excerpt: "PyGraft: bintang baru DataViz open source Graft Py muncul sebagai alat yang menjanjikan, dirancang untuk memberikan para profesional dan penggemar data pengalaman yang kaya dan kuat dalam membuat visualisasi data. Menampilkan kemampuan pemrosesan tingkat lanjut dan fleksibilitas luar biasa, Graft Py adalah sebuah proyek sumber terbuka yang sudah mulai dibicarakan. Namun apa itu PyGraft dan [&hellip;]"

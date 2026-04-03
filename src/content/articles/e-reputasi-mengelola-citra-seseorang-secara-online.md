@@ -1,4 +1,5 @@
 ---
+
 title: "E-reputasi: Mengelola citra seseorang secara online"
 slug: "e-reputasi-mengelola-citra-seseorang-secara-online"
 excerpt: "Memahami e-reputasi dan pentingnya Dengan terus berkembangnya teknologi digital dan semakin terintegrasinya media sosial ke dalam kehidupan kita sehari-hari,e-reputasi telah menjadi faktor penting bagi individu dan bisnis. Ini merupakan semua informasi yang ada di Internet yang mempengaruhi persepsi publik terhadap suatu merek, perusahaan atau seseorang. akue-reputasi dibentuk oleh komentar, opini, gambar, dan interaksi di berbagai [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Giliosios jūros technologijos: povandeninių tyrinėjimų ateitis?"
 slug: "giliosios-juros-technologijos-povandeniniu-tyrinejimu-ateitis"
 excerpt: "Kas yra giluminės jūrinės technologijos? Giliavandenės jūros technologijos, dar vadinamos giliavandenių gręžimo technologija, yra disciplina, kuria siekiama ištirti ir eksploatuoti jūros dugne esančius išteklius nuo 500 iki kelių tūkstančių metrų gylyje. Ši technologija atveria naujas galimybes tyrinėti ir eksploatuoti naftos, dujų ir naudingųjų iškasenų išteklius jūroje. Iššūkiai giliai jūroje Giluminės jūrinės technologijos kelia didelių techninių [&hellip;]"

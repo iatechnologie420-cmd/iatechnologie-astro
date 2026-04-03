@@ -1,4 +1,5 @@
 ---
+
 title: "IT / Informacinės technologijos: kas yra informacinės technologijos?"
 slug: "it-informacines-technologijos-kas-yra-informacines-technologijos"
 excerpt: "IT supratimas: informacinių technologijų apibrėžimas ir raida Kas tai? Terminas IT, Dėl Informacinės technologijos anglų kalba žymi visas technologijas, susijusias su apdorojimu ir valdymu informacija ir duomenis. Taigi ši didžiulė sritis apima kompiuterių mokslą, telekomunikacijos, duomenų bazių valdymo sistemos, informacijos saugumas ir daug daugiau. IT yra labai svarbios šiuolaikiniame pasaulyje: jos leidžia įmonėms efektyviai veikti, [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Hoe voeg je muziek toe aan je notities op Instagram?"
 slug: "hoe-voeg-je-muziek-toe-aan-je-notities-op-instagram"
 excerpt: "Gebruik muziekfuncties op Instagram Instagram is een essentieel platform geworden voor het delen van levensmomenten, afbeeldingen en video&#8217;s. Om uw berichten nog aantrekkelijker te maken, kunt u muziek in uw inhoud integreren. In dit artikel verkennen we de verschillende muziekfuncties op Instagram en hoe je deze kunt gebruiken om originele en boeiende berichten te maken. [&hellip;]"

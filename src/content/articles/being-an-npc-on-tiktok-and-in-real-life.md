@@ -1,4 +1,5 @@
 ---
+
 title: "Being an NPC on Tiktok and in real life&#8230;?"
 slug: "being-an-npc-on-tiktok-and-in-real-life"
 excerpt: "The phenomenon of “NPC controllers” on TikTok In the infinite universe of TikTok, a rather singular phenomenon has captured the attention of users: “ NPC controllers » (Non-Player Characters). Previously confined to video games, the expression &#8220;NPC&#8221; is now creeping into social media jargon, defining an experience that mixes augmented reality and social interaction. But [&hellip;]"

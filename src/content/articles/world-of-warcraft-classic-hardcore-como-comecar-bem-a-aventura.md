@@ -1,4 +1,5 @@
 ---
+
 title: "World of Warcraft Classic Hardcore: como começar bem a aventura?"
 slug: "world-of-warcraft-classic-hardcore-como-comecar-bem-a-aventura"
 excerpt: "Entenda as regras fundamentais do modo Hardcore O modo incondicional Em Clássico do World of Warcraft adiciona uma dimensão cativante e exigente ao jogo. Para aventureiros em busca de emoções e desafios, este guia irá ajudá-lo a mergulhar neste modo de jogo emocionante, dominando suas regras básicas. O que é o modo Hardcore? O modo [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "World of Warcraft Classic Hardcore: hvernig á að hefja ævintýrið rétt?"
 slug: "world-of-warcraft-classic-hardcore-hvernig-a-ad-hefja-aevintyrid-rett"
 excerpt: "Skilja grundvallarreglur Hardcore ham Hátturinn harðkjarna Í World of Warcraft Classic bætir grípandi og krefjandi vídd við leikinn. Fyrir ævintýramenn sem eru að leita að spennu og áskorunum mun þessi handbók hjálpa þér að kafa inn í þennan hrífandi leikham með því að ná tökum á grunnreglum hans. Hvað er harðkjarnahamur? Hátturinn harðkjarna Í WoW [&hellip;]"

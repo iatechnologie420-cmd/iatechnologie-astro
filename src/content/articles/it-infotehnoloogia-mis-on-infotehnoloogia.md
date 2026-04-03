@@ -1,4 +1,5 @@
 ---
+
 title: "IT / Infotehnoloogia: mis on infotehnoloogia?"
 slug: "it-infotehnoloogia-mis-on-infotehnoloogia"
 excerpt: "IT mõistmine: infotehnoloogiate definitsioon ja areng Mis see on? Termin IT, Sest Infotehnoloogia inglise keeles tähistab kõiki töötlemise ja haldamisega seotud tehnoloogiaid teavet ja andmed. See suur valdkond hõlmab seega arvutiteadust, telekommunikatsioon, andmebaasihaldussüsteemid, infoturve ja palju muud. IT on tänapäeva maailmas hädavajalik: see võimaldab ettevõtetel tõhusalt tegutseda, valitsustel teenuseid pakkuda ning üksikisikutel suhelda ja juurdepääsu [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Kognitivisme: Adakah kecerdasan kita buatan?"
 slug: "kognitivisme-adakah-kecerdasan-kita-buatan"
 excerpt: "Asal-usul kognitivisme dan kecerdasan manusia Asal-usul kognitivisme THE kognitivisme adalah pendekatan dalam psikologi yang memfokuskan kepada mekanisme dalaman pemikiran, memperlakukan minda manusia sebagai sistem pemprosesan maklumat. Asal-usul pendekatan ini bermula terutamanya pada tahun 1950-an dan 1960-an, sebagai reaksi terhadap behaviorisme, yang sangat dominan pada masa itu dan yang memberi tumpuan secara eksklusif pada tingkah laku [&hellip;]"

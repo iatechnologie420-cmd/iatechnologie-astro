@@ -1,4 +1,5 @@
 ---
+
 title: "Bagaimana teknologi ilmu perilaku dapat meningkatkan kehidupan kita sehari-hari?"
 slug: "bagaimana-teknologi-ilmu-perilaku-dapat-meningkatkan-kehidupan-kita-sehari-hari"
 excerpt: "Dampak teknologi dalam ilmu perilaku Teknologi telah mempengaruhi banyak bidang secara signifikan, termasuk ilmu perilaku. Berkat kemajuan teknologi, para peneliti memiliki akses terhadap alat dan metode yang memungkinkan mereka untuk lebih memahami dan menganalisis perilaku manusia. Dalam artikel ini, kita akan mengeksplorasi berbagai aspek dampak teknologi dalam ilmu perilaku dan bagaimana teknologi dapat meningkatkan kehidupan [&hellip;]"

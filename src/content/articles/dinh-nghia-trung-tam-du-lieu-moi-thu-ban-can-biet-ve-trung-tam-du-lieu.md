@@ -1,4 +1,5 @@
 ---
+
 title: "Định nghĩa Trung tâm dữ liệu: mọi thứ bạn cần biết về trung tâm dữ liệu"
 slug: "dinh-nghia-trung-tam-du-lieu-moi-thu-ban-can-biet-ve-trung-tam-du-lieu"
 excerpt: "Hiểu các nguyên tắc cơ bản Trong kỷ nguyên Dữ liệu lớn và chuyển đổi kỹ thuật số, các công ty phải có khả năng khai thác dữ liệu của mình một cách hiệu quả. CÁC Trung tâm dữ liệu, hay “trung tâm dữ liệu”, là một giải pháp kiến ​​trúc đáp ứng nhu cầu [&hellip;]"

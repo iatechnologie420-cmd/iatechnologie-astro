@@ -1,4 +1,5 @@
 ---
+
 title: "Hversu miklu betri er ChatGPT-4 en ChatGPT-3?"
 slug: "hversu-miklu-betri-er-chatgpt-4-en-chatgpt-3"
 excerpt: "Uppgangur tækninnargervigreind heldur áfram að umbreyta stafrænu landslagi með því að bjóða upp á sífellt flóknari verkfæri. Á þessu nýja tímum, samfelldar útgáfur af SpjallGPT af OpenAI sýnir fullkomlega þessa framför. Þó að ChatGPT-3 hafi þegar markað tímamót, ýtir nýjasta endurtekning þess, ChatGPT-4, á mörkin þess sem náttúruleg málvinnsla (NLP) getur gert. Við skulum kíkja [&hellip;]"

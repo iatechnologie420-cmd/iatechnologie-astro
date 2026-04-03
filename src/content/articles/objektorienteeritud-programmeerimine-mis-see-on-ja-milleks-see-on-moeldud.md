@@ -1,4 +1,5 @@
 ---
+
 title: "Objektorienteeritud programmeerimine: mis see on ja milleks see on mõeldud?"
 slug: "objektorienteeritud-programmeerimine-mis-see-on-ja-milleks-see-on-moeldud"
 excerpt: "Objektorienteeritud programmeerimise alused Seal Objektorienteeritud programmeerimine (OOP) on programmeerimisparadigma, mis kasutab &#8220;objekte&#8221; arvutirakenduste ja -programmide kujundamiseks. Need objektid esindavad reaalseid üksusi ja võimaldavad arendajatel luua paindlikumat, skaleeritavamat ja hooldatavamat tarkvara. Selles artiklis uurime põhikontseptsioone, mis moodustavad OOP-i aluse. Abstraktsioon L&#8217;abstraktsioon on protsess, mille käigus programmeerija peidab objekti kõik ebaolulised detailid, et näidata kasutajale ainult olulisi [&hellip;]"

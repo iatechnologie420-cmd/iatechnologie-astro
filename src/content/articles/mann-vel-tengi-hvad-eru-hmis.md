@@ -1,4 +1,5 @@
 ---
+
 title: "Mann-vél tengi: hvað eru HMIs?"
 slug: "mann-vel-tengi-hvad-eru-hmis"
 excerpt: "Skilgreining á Mann-Vél tengi Mann-vél viðmótið vísar til allra leiða og tóla sem eru útfærð til að gera skilvirk samskipti milli mannsnotanda og tölvukerfis. Það nær yfir allt frá sjónrænni hönnun skjáa til inntakstækja eins og lyklaborðs, músar og jafnvel snerti- og raddviðmóta. Söguleg þróun HMI HMIs hafa gengið í gegnum töluverða þróun frá tilkomu [&hellip;]"

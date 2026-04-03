@@ -1,4 +1,5 @@
 ---
+
 title: "Google-instrumenttuner: revolutie voor muzikanten?"
 slug: "google-instrumenttuner-revolutie-voor-muzikanten"
 excerpt: "Het belang van het stemmen van muziekinstrumenten Stemmen is een van de belangrijkste aspecten als het gaat om het bespelen van een muziekinstrument. Of je nu een beginner of een ervaren muzikant bent, je moet je instrument regelmatig stemmen om het best mogelijke geluid te krijgen. In dit artikel onderzoeken we het belang van het [&hellip;]"

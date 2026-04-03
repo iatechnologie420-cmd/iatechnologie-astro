@@ -1,4 +1,5 @@
 ---
+
 title: "Mis on automaatkooder? Ülim juhend!"
 slug: "mis-on-automaatkooder-ulim-juhend"
 excerpt: "Autoencoders või autokodeerijad inglise keeles positsioneerida end võimsate tööriistadena masinõppe ja tehisintellekti valdkonnas. Neid spetsiaalseid närvivõrke kasutatakse mõõtmete vähendamiseks, anomaaliate tuvastamiseks, andmete müra vähendamiseks ja muuks. See artikkel tutvustab seda põnevat tehnoloogiat, tuues esile selle tööpõhimõtte, rakendused ja kasvava tähtsuse teadusuuringutes ja tööstuses. Mis on automaatkooder? A autoenkooder on kunstliku närvivõrgu tüüp, mida kasutatakse järelevalveta [&hellip;]"

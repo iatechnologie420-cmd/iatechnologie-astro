@@ -1,4 +1,5 @@
 ---
+
 title: "Kognitivizem: Ali je naša inteligenca umetna?"
 slug: "kognitivizem-ali-je-nasa-inteligenca-umetna"
 excerpt: "Izvori kognitivizma in človeške inteligence Začetki kognitivizma THE kognitivizem je pristop v psihologiji, ki se osredotoča na notranje mehanizme mišljenja in obravnava človeški um kot sistem za obdelavo informacij. Začetki tega pristopa segajo predvsem v 50. in 60. leta 20. stoletja, kot reakcija na biheviorizem, ki je bil takrat zelo dominanten in se je osredotočal [&hellip;]"

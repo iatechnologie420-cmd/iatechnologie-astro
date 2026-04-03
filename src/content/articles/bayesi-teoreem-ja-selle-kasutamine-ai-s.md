@@ -1,4 +1,5 @@
 ---
+
 title: "Bayesi teoreem ja selle kasutamine AI-s"
 slug: "bayesi-teoreem-ja-selle-kasutamine-ai-s"
 excerpt: "Sissejuhatus Bayesi teoreemi THE Bayesi teoreem on tõenäosuse ja statistika põhivalem, mis kirjeldab meie uskumuste ajakohastamist uue teabe olemasolul. See teoreem, mis on nimetatud austaja Thomas Bayesi auks, mängib otsustavat rolli paljudes valdkondades, alates masinõppest kuni ebakindluse tingimustes otsustamiseni. Bayesi teoreemi olemus Süda Bayesi teoreem on tingimuslik tõenäosus. Kõige lihtsamal kujul väljendab see, kuidas posterioorset [&hellip;]"

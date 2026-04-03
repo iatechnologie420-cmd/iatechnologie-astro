@@ -1,4 +1,5 @@
 ---
+
 title: "Big Data-ordliste: Begreper du trenger å vite for å forstå"
 slug: "big-data-ordliste-begreper-du-trenger-a-vite-for-a-forsta"
 excerpt: "Introduksjon til big data-verdenen DE Stor Data representerer en voksende sektor som endrer måten virksomheter og organisasjoner analyserer og utnytter data på. I en stadig mer digital verden genereres data i en rasende hastighet og i en rekke formater. Tiden med Big Data er ikke lenger bare et buzzword; det er en realitet som former [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Unified Communications: has unreachability become impossible?"
 slug: "unified-communications-has-unreachability-become-impossible"
 excerpt: "Unified communications: Definition and principle What is Unified Communications? THE Unified Communications (CU), or Unified Communications in English, designates a set of services and solutions which aim to integrate or unify various forms of communications within the same interface or platform. This includes instant messaging, video conferencing, voice calling (VoIP), email, web conferencing, and voicemail, [&hellip;]"

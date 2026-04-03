@@ -1,4 +1,5 @@
 ---
+
 title: "Googlova igra Morpion: Kako jo igrati in premagati umetno inteligenco?"
 slug: "googlova-igra-morpion-kako-jo-igrati-in-premagati-umetno-inteligenco"
 excerpt: "Pravila Googlove igre Tic-Toe Cilj igre Igra Morpion, imenovana tudi Tic-tac-toe, je strateška igra, ki se igra na mreži 3&#215;3. Cilj je postaviti tri enake simbole (križ ali krog) vodoravno, navpično ali diagonalno pred nasprotnikom. Nastaviti Igra Google Tic Toe je na voljo na spletu in jo je mogoče igrati na različnih napravah, vključno s [&hellip;]"

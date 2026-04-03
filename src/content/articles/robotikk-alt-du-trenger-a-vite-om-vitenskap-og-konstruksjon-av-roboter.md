@@ -1,4 +1,5 @@
 ---
+
 title: "Robotikk: alt du trenger å vite om vitenskap og konstruksjon av roboter"
 slug: "robotikk-alt-du-trenger-a-vite-om-vitenskap-og-konstruksjon-av-roboter"
 excerpt: "Forstå vitenskapen bak maskinene Robotikk er en fascinerende gren av teknologi som kombinerer ulike kunnskapsfelt for å lage maskiner som er i stand til å utføre oppgaver autonomt eller semi-autonomt. I denne artikkelen vil vi utforske grunnlaget for robotikk, forstå de grunnleggende prinsippene som lar roboter operere, og vurdere virkningen av disse teknologiene i hverdagen [&hellip;]"

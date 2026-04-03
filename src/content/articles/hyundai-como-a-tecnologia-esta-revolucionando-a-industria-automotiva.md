@@ -1,4 +1,5 @@
 ---
+
 title: "Hyundai: Como a tecnologia está revolucionando a indústria automotiva?"
 slug: "hyundai-como-a-tecnologia-esta-revolucionando-a-industria-automotiva"
 excerpt: "A transformação digital mudou significativamente a forma como interagimos com produtos e serviços, e a indústria automóvel não é exceção. Um excelente exemplo desta evolução pode ser visto em Hyundai, que conseguiu incorporar os mais recentes avanços tecnológicos em sua produção e operações para permanecer na vanguarda do setor. Incorporando tecnologia digital nas operações da [&hellip;]"

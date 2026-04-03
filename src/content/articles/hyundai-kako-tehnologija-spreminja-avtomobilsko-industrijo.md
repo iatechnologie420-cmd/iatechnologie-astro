@@ -1,4 +1,5 @@
 ---
+
 title: "Hyundai: Kako tehnologija spreminja avtomobilsko industrijo?"
 slug: "hyundai-kako-tehnologija-spreminja-avtomobilsko-industrijo"
 excerpt: "Digitalna transformacija je bistveno spremenila naš način interakcije z izdelki in storitvami in avtomobilska industrija ni izjema. Odličen primer tega razvoja je mogoče videti v Hyundai, ki ji je uspelo vključiti najnovejše tehnološke dosežke v svojo proizvodnjo in delovanje ter tako ostati v ospredju panoge. Vključevanje digitalne tehnologije v Hyundaijevo poslovanje Hyundai je sprejel različne [&hellip;]"

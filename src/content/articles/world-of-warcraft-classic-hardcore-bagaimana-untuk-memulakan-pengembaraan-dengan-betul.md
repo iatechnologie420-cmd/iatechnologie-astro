@@ -1,4 +1,5 @@
 ---
+
 title: "World of Warcraft Classic Hardcore: bagaimana untuk memulakan pengembaraan dengan betul?"
 slug: "world-of-warcraft-classic-hardcore-bagaimana-untuk-memulakan-pengembaraan-dengan-betul"
 excerpt: "Fahami peraturan asas mod Tegar Mod tegar Dalam Dunia Warcraft Klasik menambah dimensi yang menawan dan menuntut pada permainan. Bagi pengembara yang mencari keseronokan dan cabaran, panduan ini akan membantu anda menyelami mod permainan yang menggembirakan ini dengan menguasai peraturan asasnya. Apakah mod Tegar? Mod tegar Dalam Wow Klasik adalah cabaran yang dibuat sendiri oleh [&hellip;]"

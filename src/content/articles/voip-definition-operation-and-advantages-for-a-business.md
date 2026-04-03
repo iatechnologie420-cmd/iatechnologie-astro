@@ -1,4 +1,5 @@
 ---
+
 title: "VOIP: Definition, operation and advantages for a business"
 slug: "voip-definition-operation-and-advantages-for-a-business"
 excerpt: "Definition of VOIP and basic principles The technology of Voice over Internet Protocol (VoIP) represents a major evolution in the way we communicate. Long dominated by traditional telephone lines, telephony is undergoing a digital transformation allowing voice to be transmitted as well as data over the internet. So let&#8217;s take a closer look at what [&hellip;]"

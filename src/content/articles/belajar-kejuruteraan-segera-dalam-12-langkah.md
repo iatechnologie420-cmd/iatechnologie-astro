@@ -1,4 +1,5 @@
 ---
+
 title: "Belajar kejuruteraan segera: dalam 12 langkah"
 slug: "belajar-kejuruteraan-segera-dalam-12-langkah"
 excerpt: "Pengenalan kepada kejuruteraan segera Apakah Kejuruteraan Prompt? THE Kejuruteraan Segera ialah bidang baru muncul yang memfokuskan pada mengoptimumkan gesaan, atau perintah, yang kami berikan kepada sistem kecerdasan buatan (AI), terutamanya yang berdasarkan bahasa semula jadi, seperti penjana teks. Ia merupakan disiplin yang sangat penting dengan kedatangan model pemprosesan bahasa seperti GPT-4 daripada OpenAI. Ideanya adalah [&hellip;]"

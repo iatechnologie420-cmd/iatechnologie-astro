@@ -1,4 +1,5 @@
 ---
+
 title: "Hızlı mühendisliği öğrenin: 12 adımda"
 slug: "hizli-muhendisligi-ogrenin-12-adimda"
 excerpt: "Hızlı mühendisliğe giriş Hızlı Mühendislik Nedir? THE Hızlı Mühendislik yapay zeka (AI) sistemlerine, özellikle de metin oluşturucular gibi doğal dile dayalı sistemlere verdiğimiz istemleri veya komutları optimize etmeye odaklanan, yeni ortaya çıkan bir alandır. GPT-4 gibi dil işleme modellerinin ortaya çıkmasıyla özellikle önemli bir disiplin haline geldi. OpenAI. Buradaki fikir, elde edilen yanıtların kalitesini ve [&hellip;]"

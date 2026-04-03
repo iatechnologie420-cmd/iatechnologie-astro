@@ -1,4 +1,5 @@
 ---
+
 title: "Den mest futuristiske robotteknologien"
 slug: "den-mest-futuristiske-robotteknologien"
 excerpt: "Oppdagelse av revolusjonerende roboter DE revolusjonerende roboter er ikke lenger science fiction, de er nå en del av vårt daglige liv og transformerer ulike bransjer på nye måter. Fremveksten avkunstig intelligens (AI) og avansert robotikk åpner døren til en tid hvor automatisering blir mer tilpasningsdyktig, autonom og integrert i menneskelige aktiviteter. I denne artikkelen skal [&hellip;]"

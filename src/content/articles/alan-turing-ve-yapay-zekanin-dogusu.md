@@ -1,4 +1,5 @@
 ---
+
 title: "Alan Turing ve yapay zekanın doğuşu"
 slug: "alan-turing-ve-yapay-zekanin-dogusu"
 excerpt: "Alan Turing: Yapay Zekanın Kurucu Babası Alan Turing: Yapay Zekanın Kurucu BabasıYapay zekanın (AI) tarihi, bugün günlük hayatımızın pek çok alanında devrim yaratan bu alanın kurucu babası olarak kabul edilen Alan Turing&#8217;in adını anmadan tam anlamıyla anlatılamaz. Onun katkısı basit buluşun çok ötesine geçiyor; hala yapay zekanın üzerinde gelişip evrimleştiği temelleri oluşturan kavram ve teorilere [&hellip;]"

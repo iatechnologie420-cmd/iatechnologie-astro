@@ -1,4 +1,5 @@
 ---
+
 title: "Jak naprawić zepsuty komputer?"
 slug: "jak-naprawic-zepsuty-komputer"
 excerpt: "Diagnozowanie awarii komputera Napotkanie problemu z komputerem może czasami przerodzić się w prawdziwy ból głowy. Komputer to skomplikowany zespół technologiczny i jeśli coś nie działa zgodnie z oczekiwaniami, często istnieje wiele możliwych przyczyn. W tym artykule oferujemy praktyczny przewodnik, który pomoże Ci zidentyfikować problem i znaleźć możliwe rozwiązania w celu zdiagnozowania awarii komputera. Identyfikacja znaków [&hellip;]"

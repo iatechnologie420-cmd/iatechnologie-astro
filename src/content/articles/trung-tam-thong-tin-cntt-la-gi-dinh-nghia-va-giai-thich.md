@@ -1,4 +1,5 @@
 ---
+
 title: "Trung tâm thông tin CNTT là gì? định nghĩa và giải thích"
 slug: "trung-tam-thong-tin-cntt-la-gi-dinh-nghia-va-giai-thich"
 excerpt: "MỘT trung tâm thông tin máy tính, Còn được gọi là Trung tâm Thông tin, đề cập đến một hệ thống tập trung dành riêng cho việc quản lý dữ liệu trong một tổ chức. Mục tiêu của nó là thu thập, lưu trữ, sắp xếp và phổ biến thông tin cần thiết cho hoạt [&hellip;]"

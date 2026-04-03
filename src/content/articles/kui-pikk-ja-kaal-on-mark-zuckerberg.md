@@ -1,4 +1,5 @@
 ---
+
 title: "Kui pikk ja kaal on Mark Zuckerberg?"
 slug: "kui-pikk-ja-kaal-on-mark-zuckerberg"
 excerpt: "Mark Zuckerbergi pikkus: müüt või tegelikkus? Tema suuruse ümber käiv vaidlus Facebooki asutaja Mark Zuckerbergi pikkuse küsimus on mitu aastat olnud paljude spekulatsioonide ja arutelude objektiks. Mõned väidavad, et see on väiksem, kui välja näeb, samas kui teised väidavad, et see on tegelikult üsna kõrge. Mis on siis tõde Mark Zuckerbergi pikkuse kohta? Alusetud kuulujutud [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Anti-RFID piniginė: kodėl jums jos nereikia"
 slug: "anti-rfid-pinigine-kodel-jums-jos-nereikia"
 excerpt: "RFID technologijos ir jos rizikos supratimas Kas yra RFID? Ten Radio dažnio nustatymas (RFID) – tai technologija, leidžianti radijo bangomis automatiškai atpažinti objektus, gyvūnus ar žmones. Jame naudojami nedideli elektroniniai prietaisai, vadinami etiketės Arba RFID žymos, kurios saugo duomenis ir perduoda šią informaciją į RFID skaitytuvą. Žymos gali būti pasyvios (be savo maitinimo šaltinio, aktyvuojamos [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Entendiendo la prueba de Turing"
 slug: "entendiendo-la-prueba-de-turing"
 excerpt: "Orígenes y principios del test de Turing En el mundo de la inteligencia artificial (IA) y la informática, el test de Turing ocupa un lugar destacado. Se trata de un método de referencia diseñado para evaluar la capacidad de una máquina para imitar la inteligencia humana. Los orígenes y principios de esta prueba revolucionaria se [&hellip;]"

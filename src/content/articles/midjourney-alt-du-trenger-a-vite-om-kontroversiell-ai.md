@@ -1,4 +1,5 @@
 ---
+
 title: "MidJourney: alt du trenger å vite om kontroversiell AI"
 slug: "midjourney-alt-du-trenger-a-vite-om-kontroversiell-ai"
 excerpt: "Forstå MidJourney MidJourney er kraftig kunstig intelligens, som forvandler måten vi samhandler med teknologi på. Bruk denne veiledningen som en ressurs for å forstå dens opprinnelse og nøkkelfunksjoner. Hva er MidJourney? MidJourney er et verktøy kunstig intelligens avantgarde designet for å forbedre og lette vår daglige interaksjon med ny teknologi. Det er en del av [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "AlphaGo vs Leedsol: Ofur gervigreind sigrar Go meistarann"
 slug: "alphago-vs-leedsol-ofur-gervigreind-sigrar-go-meistarann"
 excerpt: "Sögulegur árekstur: gervigreind ögrar meistara Go Heimur Go var sögulega ráðinn af mannlegum meistara, þar til mikilvægur atburður sem hristi viðurkenndar hugmyndafræði. Gervigreind, þetta tól þróað af hugviti manna, tók áskorunina um að takast á við einn flóknasta herkænskuleik sögunnar. Þessi sögulega árekstur milli rökrænna hringrása ofurtölvu og stefnumótandi huga heimsmeistara í Go eru þáttaskil [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Pepper: alles wat je moet weten over de sociale robot van SoftBank"
 slug: "pepper-alles-wat-je-moet-weten-over-de-sociale-robot-van-softbank"
 excerpt: "Pepper: Presentatie en basisfuncties Overzicht De sociale robot Peper is een technologische prestatie die is ontworpen om te communiceren met mensen in een sociale omgeving. Uitgerust met talloze sensoren en geavanceerde AI, begrijpt en reageert Pepper op onze emoties, terwijl hij zich aanpast aan ons gedrag. In dit artikel zullen we de basisfuncties van Pepper [&hellip;]"

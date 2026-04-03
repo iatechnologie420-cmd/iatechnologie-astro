@@ -1,4 +1,5 @@
 ---
+
 title: "Mis on teksti kaevandamine? määratlus"
 slug: "mis-on-teksti-kaevandamine-maaratlus"
 excerpt: "Sissejuhatus tekstikaevandusse THE teksti kaevandaminee tekstikaevandamine prantsuse keeles on andmeteaduse haru, mis keskendub kasuliku teabe hankimisele suurtest tekstiandmete kogumitest. Sageli seostatakse loomuliku keele töötlemine (NLP) hõlmab tekstikaeve tehnikate ja tööriistade komplekti, mis on võimelised tekstivormis kogutud inimkeelt mõistma, analüüsima ja töötlema. Tekstikaevandamise kasvav kasutamine on suuresti tingitud digitaalselt kättesaadavate andmete plahvatuslikust kasvust, eriti sotsiaalvõrgustike, uudistesaitide [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Spot: pies-robot z Boston Dynamics"
 slug: "spot-pies-robot-z-boston-dynamics"
 excerpt: "Odkrycie Spota, psiego robota firmy Boston Dynamics Znany jako śmietanka nowoczesnej robotyki, Miejsce, pies-robot z Boston Dynamics, wywołał falę uderzeniową w świecie nowych technologii. Zaprojektowany, aby zastąpić swoje odpowiedniki, jest emblematycznym przykładem robotów zwierzęcych gotowych zastąpić swoje modele. Spot, rewolucja technologiczna Miejsce doskonale ucieleśnia ten postęp technologiczny. Przy jego projektowaniu przyświecała idea jak najwierniejszego odtworzenia [&hellip;]"

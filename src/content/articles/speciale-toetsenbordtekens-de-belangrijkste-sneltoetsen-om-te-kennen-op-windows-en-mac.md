@@ -1,4 +1,5 @@
 ---
+
 title: "Speciale toetsenbordtekens: de belangrijkste sneltoetsen om te kennen (op Windows en Mac)"
 slug: "speciale-toetsenbordtekens-de-belangrijkste-sneltoetsen-om-te-kennen-op-windows-en-mac"
 excerpt: "Speciale tekens zijn symbolen of tekens die niet overeenkomen met de standaardletters en cijfers van een traditioneel toetsenbord. Het gebruik van deze speciale tekens is van groot belang in verschillende contexten, zoals computerprogrammering, tekstschrijven, wachtwoordbeveiliging en wiskundige of wetenschappelijke gegevensinvoer. Bij het programmeren, zijn speciale tekens essentieel. Hiermee kunt u specifieke bewerkingen uitvoeren, zoals het [&hellip;]"

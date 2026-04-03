@@ -1,4 +1,5 @@
 ---
+
 title: "PyGraft: todo lo que necesitas saber sobre la herramienta Python de código abierto para DataViz"
 slug: "pygraft-todo-lo-que-necesitas-saber-sobre-la-herramienta-python-de-codigo-abierto-para-dataviz"
 excerpt: "PyGraft: la nueva estrella del DataViz de código abierto PyGraft surge como una herramienta prometedora, diseñada para brindar a los entusiastas y profesionales de los datos una experiencia enriquecedora y poderosa en la creación de visualizaciones de datos. Con capacidades de procesamiento avanzadas y una flexibilidad notable, PyGraft es un proyecto fuente abierta del que [&hellip;]"

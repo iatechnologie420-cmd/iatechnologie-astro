@@ -1,4 +1,5 @@
 ---
+
 title: "Antena 4G: Bagaimana cara menangkap 4G di dalam ruangan dengan lebih baik?"
 slug: "antena-4g-bagaimana-cara-menangkap-4g-di-dalam-ruangan-dengan-lebih-baik"
 excerpt: "Pahami cara kerja 4G dan batasannya Apa itu 4G? Teknologi 4G, juga dikenal sebagai generasi ke-4 standar telekomunikasi seluler, merupakan kelanjutan dari 3G dan mendahului yang terbaru 5G. Ia menawarkan koneksi Internet seluler berkecepatan tinggi, memungkinkan Anda memanfaatkan transfer data yang lebih baik. Ini termasuk streaming video dalam definisi tinggi, menjelajahi web dengan kecepatan tinggi, [&hellip;]"

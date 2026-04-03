@@ -1,4 +1,5 @@
 ---
+
 title: "Kokio ūgio ir svorio yra Markas Zuckerbergas?"
 slug: "kokio-ugio-ir-svorio-yra-markas-zuckerbergas"
 excerpt: "Marko Zuckerbergo ūgis: mitas ar tikrovė? Ginčai dėl jo dydžio Kelerius metus „Facebook“ įkūrėjo Marko Zuckerbergo ūgio klausimas buvo daugelio spėlionių ir diskusijų objektas. Kai kurie teigia, kad jis mažesnis, nei atrodo, o kiti tvirtina, kad jis iš tikrųjų gana aukštas. Taigi, kokia tiesa apie Marko Zuckerbergo ūgį? Nepagrįsti gandai Internete sklando daug gandų, teigiančių, [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Spot: robothunden fra Boston Dynamics"
 slug: "spot-robothunden-fra-boston-dynamics"
 excerpt: "Oppdagelsen av Spot, hunderoboten fra Boston Dynamics Kjent for å være kremen av moderne robotikk, Få øye på, robothunden fra Boston Dynamics, har skapt en sjokkbølge i verden av nye teknologier. Designet for å erstatte sine jevnaldrende, er det det emblematiske eksemplet på dyreroboter klare til å erstatte modellene deres. Spot, en teknologisk revolusjon Få [&hellip;]"

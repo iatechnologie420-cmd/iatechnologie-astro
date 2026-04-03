@@ -1,4 +1,5 @@
 ---
+
 title: "Pepper: allt sem þú þarft að vita um félagslega vélmenni SoftBank"
 slug: "pepper-allt-sem-thu-tharft-ad-vita-um-felagslega-velmenni-softbank"
 excerpt: "Pepper: Kynning og grunnaðgerðir Samantekt Félagslega vélmennið Pipar er tæknilegt afrek sem ætlað er að hafa samskipti við menn í félagslegu umhverfi. Pepper er búinn fjölmörgum skynjurum og háþróaðri gervigreind og skilur og bregst við tilfinningum okkar á meðan hann aðlagast hegðun okkar. Í gegnum þessa grein munum við kynna grunnaðgerðir Pepper sem og helstu [&hellip;]"

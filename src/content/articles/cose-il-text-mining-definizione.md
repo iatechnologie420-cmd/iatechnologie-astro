@@ -1,4 +1,5 @@
 ---
+
 title: "Cos&#8217;è il text mining? definizione"
 slug: "cose-il-text-mining-definizione"
 excerpt: "Introduzione al text mining IL estrazione di testo, o text mining in francese, è una branca della scienza dei dati che si concentra sull&#8217;estrazione di informazioni utili da grandi insiemi di dati di testo. Spesso associato a elaborazione del linguaggio naturale (NLP), il text mining prevede un insieme di tecniche e strumenti in grado di [&hellip;]"

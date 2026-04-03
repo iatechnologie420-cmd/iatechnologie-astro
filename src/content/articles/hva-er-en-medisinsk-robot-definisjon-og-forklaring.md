@@ -1,4 +1,5 @@
 ---
+
 title: "Hva er en medisinsk robot? definisjon og forklaring"
 slug: "hva-er-en-medisinsk-robot-definisjon-og-forklaring"
 excerpt: "Definisjon og typologi av medisinske roboter Inntoget av robotikk i helsevesenet har åpnet enorme muligheter for å forbedre medisinsk behandling og kirurgi. Disse teknologiene, kjent som medisinske roboter, er mekaniske enheter eller datasystemer som er i stand til å utføre komplekse handlinger med høy presisjon, ofte under tilsyn eller direkte kontroll av kvalifisert medisinsk personell. [&hellip;]"

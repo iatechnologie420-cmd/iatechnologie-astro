@@ -1,4 +1,5 @@
 ---
+
 title: "Chief Data Officer (CDO): ​​vloga, spretnosti, usposabljanje in plača"
 slug: "chief-data-officer-cdo-vloga-spretnosti-usposabljanje-in-placa"
 excerpt: "Strateško mesto Chief Data Officerja v podjetju V dobi velikih podatkov in podatkovne analitike podjetja vse bolj prepoznavajo pomen strateškega upravljanja in izkoriščanja svojih podatkov. V središču tega priznanja je ključna vloga: Glavni vodja podatkov (CDO). CDO je bistvenega pomena za uravnoteženje upravljanja, kakovosti podatkov, skladnosti s predpisi in izkoriščanja podatkov za konkurenčno prednost. Ta [&hellip;]"

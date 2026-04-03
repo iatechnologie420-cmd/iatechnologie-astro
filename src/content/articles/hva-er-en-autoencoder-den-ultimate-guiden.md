@@ -1,4 +1,5 @@
 ---
+
 title: "Hva er en autoencoder? Den ultimate guiden!"
 slug: "hva-er-en-autoencoder-den-ultimate-guiden"
 excerpt: "Autoenkodere, eller autoenkodere på engelsk, posisjonere seg som kraftige verktøy innen maskinlæring og kunstig intelligens. Disse spesielle nevrale nettverkene brukes til dimensjonsreduksjon, avviksdeteksjon, dataavblending og mer. Denne artikkelen gir en introduksjon til denne fascinerende teknologien, og fremhever dens arbeidsprinsipp, dens applikasjoner og dens økende betydning i forskning og industri. Hva er en autoencoder? EN autoenkoder [&hellip;]"

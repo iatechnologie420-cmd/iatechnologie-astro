@@ -1,4 +1,5 @@
 ---
+
 title: "Kognitivisme: Apakah kecerdasan kita buatan?"
 slug: "kognitivisme-apakah-kecerdasan-kita-buatan"
 excerpt: "Asal usul kognitivisme dan kecerdasan manusia Asal usul kognitivisme ITU kognitivisme adalah pendekatan dalam psikologi yang berfokus pada mekanisme internal pemikiran, memperlakukan pikiran manusia sebagai sistem pemrosesan informasi. Asal usul pendekatan ini terutama dimulai pada tahun 1950-an dan 1960-an, sebagai reaksi terhadap behaviorisme, yang sangat dominan pada saat itu dan berfokus secara eksklusif pada perilaku [&hellip;]"

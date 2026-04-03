@@ -1,4 +1,5 @@
 ---
+
 title: "Object-oriented programming: what is it and what is it for?"
 slug: "object-oriented-programming-what-is-it-and-what-is-it-for"
 excerpt: "Fundamentals of Object Oriented Programming There Object Oriented Programming (OOP) is a programming paradigm that uses &#8220;objects&#8221; to design computer applications and programs. These objects represent real-world entities and allow developers to create more flexible, scalable, and maintainable software. In this article, we will explore the basic concepts that form the foundation of OOP. Abstraction [&hellip;]"

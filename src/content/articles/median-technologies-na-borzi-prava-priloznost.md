@@ -1,4 +1,5 @@
 ---
+
 title: "Median Technologies na borzi: prava priložnost?"
 slug: "median-technologies-na-borzi-prava-priloznost"
 excerpt: "Kaj je Median Technologies? Median Technologies je tehnološko podjetje, specializirano za rešitve za medicinsko slikanje in analizo slik za klinična preskušanja. Podjetje, ustanovljeno leta 2002, se je hitro uveljavilo kot vodilno podjetje na svojem področju in ponuja inovativne rešitve za interpretacijo in analizo medicinskih slik. Izdelki in storitve podjetja Median Technologies Median Technologies ponuja celotno [&hellip;]"

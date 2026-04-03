@@ -1,4 +1,5 @@
 ---
+
 title: "Telegram: tutto quello che c&#8217;è da sapere sull&#8217;applicazione di messaggistica sicura"
 slug: "telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura"
 excerpt: "Cos&#8217;è Telegram? Telegramma è un&#8217;applicazione di messaggistica istantanea incentrata sulla velocità e sulla sicurezza. È diventata una delle piattaforme di comunicazione più popolari al mondo grazie alla sua combinazione di funzionalità avanzate, interfaccia intuitiva e impegno nella protezione della privacy degli utenti. Dal suo lancio nel 2013, Telegramma si è distinta tra una moltitudine di [&hellip;]"

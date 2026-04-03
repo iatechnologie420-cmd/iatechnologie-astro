@@ -1,4 +1,5 @@
 ---
+
 title: "Permainan Morpion Google: Bagaimana untuk bermain dan mengalahkan kecerdasan buatan?"
 slug: "permainan-morpion-google-bagaimana-untuk-bermain-dan-mengalahkan-kecerdasan-buatan"
 excerpt: "Peraturan permainan Tic-Toe Google Objektif permainan Permainan Morpion, juga dipanggil Tic-tac-toe, ialah permainan strategi yang dimainkan pada grid 3&#215;3. Matlamatnya adalah untuk membariskan tiga simbol yang sama (silang atau bulatan) secara mendatar, menegak atau menyerong sebelum lawan anda. Sediakan Permainan Google Tic Toe tersedia dalam talian dan boleh dimainkan pada peranti yang berbeza, termasuk telefon [&hellip;]"

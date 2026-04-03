@@ -1,4 +1,5 @@
 ---
+
 title: "En fütüristik robot teknolojisi"
 slug: "en-futuristik-robot-teknolojisi"
 excerpt: "Devrim yaratan robotların keşfi THE devrimci robotlar artık bilim kurgu değil, artık günlük hayatımızın bir parçası ve çeşitli endüstrileri yeni yollarla dönüştürüyorlar. Yükselişiyapay zeka (AI) ve ileri robotik Otomasyonun daha uyarlanabilir, otonom ve insan faaliyetlerine entegre olduğu bir çağın kapısını açıyor. Bu makalede en yenilikçi robotlardan bazılarını ve bunların gelecek için ne anlama geldiğini inceleyeceğiz. [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Impara il prompt engineering: in 12 passaggi"
 slug: "impara-il-prompt-engineering-in-12-passaggi"
 excerpt: "Introduzione al Prompt Engineering Cos&#8217;è il Prompt Engineering? IL Ingegneria rapida è un campo emergente che si concentra sull’ottimizzazione delle istruzioni, o comandi, che diamo ai sistemi di intelligenza artificiale (AI), in particolare quelli basati sul linguaggio naturale, come i generatori di testo. È una disciplina particolarmente importante con l&#8217;arrivo di modelli di elaborazione del [&hellip;]"

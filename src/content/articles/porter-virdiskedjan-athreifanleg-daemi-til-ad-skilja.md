@@ -1,4 +1,5 @@
 ---
+
 title: "PORTER virðiskeðjan | Áþreifanleg dæmi til að skilja"
 slug: "porter-virdiskedjan-athreifanleg-daemi-til-ad-skilja"
 excerpt: "Að skilja Michael Porter virðiskeðjuna Virðiskeðjan er hugtak þróað af bandaríska hagfræðingnum og fræðimanninum Michael Porter í verki sínu &#8220;Competitive Advantage&#8221; sem kom út árið 1985. Þetta líkan er nauðsynlegt til að greina innri starfsemi fyrirtækis til að hámarka skapað verðmæti þess og samkeppnisforskot. Þessi grein gefur þér leiðbeiningar um að skilja og nota virðiskeðju [&hellip;]"

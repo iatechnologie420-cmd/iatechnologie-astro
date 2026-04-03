@@ -1,4 +1,5 @@
 ---
+
 title: "AI Marketing: technology for the benefit of businesses?"
 slug: "ai-marketing-technology-for-the-benefit-of-businesses"
 excerpt: "Artificial Intelligence (AI) is gradually emerging as a transformative force for marketing. Reinventing marketing with AI, understanding its implications for brand marketing, and the potential for interaction saves time, increases efficiency, and opens the way to new methods of consumer engagement. This growth marks the transition from traditional marketing to more informed, personalized and real-time [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Auswahl Ihres ersten Servers: eine Schritt-für-Schritt-Anleitung"
 slug: "auswahl-ihres-ersten-servers-eine-schritt-fur-schritt-anleitung"
 excerpt: "Die Unterschiede zwischen Servertypen verstehen Server spielen unter anderem eine wichtige Rolle beim Betrieb von Netzwerken, beim Hosten von Websites, beim Speichern von Daten und bei der Unterstützung der Datenverarbeitung. Diese leistungsstarken Maschinen gibt es in verschiedenen Formen, jede mit ihren eigenen Besonderheiten und idealen Einsatzmöglichkeiten. Ziel dieses Artikels ist es, das Wesentliche zu überprüfen [&hellip;]"

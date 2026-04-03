@@ -1,4 +1,5 @@
 ---
+
 title: "Chief Data Officer (CDO): ​​função, habilidades, treinamento e salário"
 slug: "chief-data-officer-cdo-funcao-habilidades-treinamento-e-salario"
 excerpt: "O lugar estratégico do Chief Data Officer na empresa Na era do big data e da análise de dados, as empresas reconhecem cada vez mais a importância de gerir e aproveitar os seus dados estrategicamente. No centro deste reconhecimento está um papel fundamental: o Diretor de Dados (CDO). O CDO é essencial para equilibrar governança, [&hellip;]"

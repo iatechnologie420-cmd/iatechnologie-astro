@@ -1,4 +1,5 @@
 ---
+
 title: "MidJourney: wszystko, co musisz wiedzieć o kontrowersyjnej sztucznej inteligencji"
 slug: "midjourney-wszystko-co-musisz-wiedziec-o-kontrowersyjnej-sztucznej-inteligencji"
 excerpt: "Zrozumienie środkowej podróży MidJourney to potężna sztuczna inteligencja, która zmienia sposób, w jaki wchodzimy w interakcję z technologią. Skorzystaj z tego przewodnika jako źródła wiedzy na temat jego pochodzenia i kluczowych funkcji. Co to jest MidJourney? MidJourney jest narzędziem sztuczna inteligencja awangarda zaprojektowana, aby usprawnić i ułatwić naszą codzienną interakcję z nowymi technologiami. Jest częścią [&hellip;]"

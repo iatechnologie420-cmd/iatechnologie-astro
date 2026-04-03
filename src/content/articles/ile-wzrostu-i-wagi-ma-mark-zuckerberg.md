@@ -1,4 +1,5 @@
 ---
+
 title: "Ile wzrostu i wagi ma Mark Zuckerberg?"
 slug: "ile-wzrostu-i-wagi-ma-mark-zuckerberg"
 excerpt: "Wzrost Marka Zuckerberga: mit czy rzeczywistość? Kontrowersje wokół jego rozmiaru Od kilku lat kwestia wzrostu Marka Zuckerberga, założyciela Facebooka, jest przedmiotem wielu spekulacji i dyskusji. Niektórzy twierdzą, że jest mniejszy, niż się wydaje, inni twierdzą, że w rzeczywistości jest dość wysoki. Jaka jest więc prawda o wzroście Marka Zuckerberga? Bezpodstawne pogłoski W Internecie krąży wiele [&hellip;]"

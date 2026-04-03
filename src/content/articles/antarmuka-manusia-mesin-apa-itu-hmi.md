@@ -1,4 +1,5 @@
 ---
+
 title: "Antarmuka Manusia-Mesin: apa itu HMI?"
 slug: "antarmuka-manusia-mesin-apa-itu-hmi"
 excerpt: "Definisi Antarmuka Manusia-Mesin Antarmuka manusia-mesin mengacu pada semua sarana dan alat yang diterapkan untuk memungkinkan interaksi efektif antara pengguna manusia dan sistem komputer. Ini mencakup segalanya mulai dari desain visual layar hingga perangkat input seperti keyboard, mouse, dan bahkan antarmuka sentuh dan suara. Evolusi sejarah HMI HMI telah mengalami banyak evolusi sejak munculnya komputasi. Awalnya [&hellip;]"

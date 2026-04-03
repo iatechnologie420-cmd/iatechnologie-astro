@@ -1,4 +1,5 @@
 ---
+
 title: "Data Miner: função, habilidades, treinamento e salário"
 slug: "data-miner-funcao-habilidades-treinamento-e-salario"
 excerpt: "O papel e as missões do minerador de dados O Minerador de dados, ou prospector de dados, desempenha um papel crucial no mundo dos dados e da inteligência artificial. É um ator sombra essencial que facilita a tomada de decisões e a gestão estratégica dentro das empresas. Detalharemos suas missões e a importância de seu [&hellip;]"

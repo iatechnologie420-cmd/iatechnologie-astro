@@ -1,4 +1,5 @@
 ---
+
 title: "ALM atau Pengurusan Kitaran Hayat Aplikasi: definisi"
 slug: "alm-atau-pengurusan-kitaran-hayat-aplikasi-definisi"
 excerpt: "Asas-asasnya L&#8217;Apl Pengurusan Kitaran Hayat (ALM) ialah rangka kerja tadbir urus dan pengurusan yang sistematik untuk pembangunan perisian. Ia merangkumi amalan, proses dan alatan yang membolehkan pasukan menguruskan kitaran hayat aplikasi dari konsep hingga bersara. Mari kita lihat dengan lebih dekat komponen dan kepentingan ALM dalam pembangunan perisian moden. Apa itu ALM? ALM merujuk kepada [&hellip;]"

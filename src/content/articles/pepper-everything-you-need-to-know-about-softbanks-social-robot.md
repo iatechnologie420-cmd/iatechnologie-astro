@@ -1,4 +1,5 @@
 ---
+
 title: "Pepper: everything you need to know about SoftBank’s social robot"
 slug: "pepper-everything-you-need-to-know-about-softbanks-social-robot"
 excerpt: "Pepper: Presentation and basic functions Summary The social robot Pepper is a technological feat designed to interact with humans in a social environment. Equipped with numerous sensors and advanced AI, Pepper understands and reacts to our emotions while adapting to our behaviors. Through this article, we will present the basic functions of Pepper as well [&hellip;]"

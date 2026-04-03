@@ -1,4 +1,5 @@
 ---
+
 title: "Samsung Xcover 7: Soluția supremă pentru aventurieri?"
 slug: "samsung-xcover-7-solutia-suprema-pentru-aventurieri"
 excerpt: "Caracteristicile tehnice ale Samsung Xcover 7 Samsung Xcover 7 este cel mai recent telefon din gama Xcover, cunoscut pentru rezistența la elemente și durabilitate. Cu funcții avansate și un design robust, Xcover 7 este conceput pentru persoanele active care au nevoie de un smartphone de încredere în orice situație. În acest articol, vom arunca o [&hellip;]"

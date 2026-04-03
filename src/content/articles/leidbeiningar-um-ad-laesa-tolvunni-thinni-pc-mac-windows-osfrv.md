@@ -1,4 +1,5 @@
 ---
+
 title: "Leiðbeiningar um að læsa tölvunni þinni (PC, Mac, Windows, osfrv.)"
 slug: "leidbeiningar-um-ad-laesa-tolvunni-thinni-pc-mac-windows-osfrv"
 excerpt: "Þörfin til að tryggja tölvuna þína Á núverandi tímum, þar sem starfsemin er að verða stafræn á hraðari hraða, hefur öryggi tölvunnar okkar orðið mikið áhyggjuefni fyrir einstaklinga jafnt sem fyrirtæki. Hér er ítarleg leiðarvísir um góð viðbrögð til að nota til að vernda tölvukerfið þitt á áhrifaríkan hátt. Tölvur eru miðpunktur persónulegra og faglegra [&hellip;]"

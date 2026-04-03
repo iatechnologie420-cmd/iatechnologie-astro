@@ -1,4 +1,5 @@
 ---
+
 title: "E-reputation: Administrere en persons bilde på nettet"
 slug: "e-reputation-administrere-en-persons-bilde-pa-nettet"
 excerpt: "Forstå e-omdømme og dets betydning Med den fortsatte utviklingen av digitale teknologier og den økende integreringen av sosiale medier i våre daglige liv,e-omdømme har blitt en avgjørende faktor for enkeltpersoner og bedrifter. Det utgjør all informasjon som finnes på Internett som påvirker offentlig oppfatning av et merke, et selskap eller en person. L&#8217;e-omdømme er formet [&hellip;]"

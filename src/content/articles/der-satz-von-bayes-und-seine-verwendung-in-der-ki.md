@@ -1,4 +1,5 @@
 ---
+
 title: "Der Satz von Bayes und seine Verwendung in der KI"
 slug: "der-satz-von-bayes-und-seine-verwendung-in-der-ki"
 excerpt: "Einführung in den Satz von Bayes DER Satz von Bayes ist eine grundlegende Formel in der Wahrscheinlichkeitsrechnung und Statistik, die die Aktualisierung unserer Überzeugungen bei Vorhandensein neuer Informationen beschreibt. Dieses nach Reverend Thomas Bayes benannte Theorem spielt in vielen Bereichen eine entscheidende Rolle, vom maschinellen Lernen bis zur Entscheidungsfindung unter Unsicherheit. Die Essenz des Satzes [&hellip;]"

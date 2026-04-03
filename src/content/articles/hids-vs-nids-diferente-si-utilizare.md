@@ -1,4 +1,5 @@
 ---
+
 title: "HIDS vs NIDS: diferențe și utilizare"
 slug: "hids-vs-nids-diferente-si-utilizare"
 excerpt: "Introducere în sistemele de detectare a intruziunilor: HIDS și NIDS Securitatea sistemului informatic este o preocupare centrală pentru întreprinderi și organizații de toate dimensiunile. Confruntat cu amenințările tot mai mari și cu sofisticarea atacurilor cibernetice, este imperativ să se pună în aplicare mecanisme de apărare eficiente. Printre acestea, cel sisteme de detectare a intruziunilor (IDS) [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Có nên đầu tư vào trí tuệ nhân tạo lúc này?"
 slug: "co-nen-dau-tu-vao-tri-tue-nhan-tao-luc-nay"
 excerpt: "Trước khi trả lời có hay không liệu bây giờ có phải là lúc đầu tư vào AI hay không, hãy cùng xem lại lịch sử của AI để đặt mọi thứ vào bối cảnh và đưa ra quyết định sáng suốt. Sự phát triển của trí tuệ nhân tạo AI thông thường AI thông [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Comment utiliser gratuitement Veo 3 via Google Cloud + Vertex AI (1300$ crédits Google offert)"
 slug: "comment-utiliser-gratuitement-veo-3-google-cloud-vertex-ai"
 excerpt: "Envie de tester Veo 3, l&#8217;intelligence artificielle générative de vidéos la plus avancée de Google, sans rien payer ? Voici le guide ultime pour accéder à Veo 3 gratuitement via Vertex AI sur Google Cloud et télécharger toutes tes vidéos. 🚨 ATTENTION – Lisez ceci avant de commencer Cette méthode vous permet d’utiliser&nbsp;Veo 3 gratuitement&nbsp;grâce aux&nbsp;300 $ [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Cloud Mining: teknologi untuk menjana wang di rumah"
 slug: "cloud-mining-teknologi-untuk-menjana-wang-di-rumah"
 excerpt: "Cloud Mining: dapatkan mata wang kripto tanpa peralatan THE perlombongan awan adalah kaedah yang membolehkan individu mengambil bahagian dalam pengekstrakan mata wang kripto tanpa perlu membeli dan menyelenggara peralatan pengekstrakan mereka sendiri. Teknik ini sesuai untuk mereka yang ingin terlibat dalam perlombongan mata wang kripto tetapi tidak mempunyai sumber teknikal, fizikal atau kewangan untuk menguruskan [&hellip;]"

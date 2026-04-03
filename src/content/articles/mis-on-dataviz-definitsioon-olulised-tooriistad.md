@@ -1,4 +1,5 @@
 ---
+
 title: "Mis on dataviz? Definitsioon, olulised tööriistad"
 slug: "mis-on-dataviz-definitsioon-olulised-tooriistad"
 excerpt: "Datavizi mõistmine: andmete visualiseerimine Tänapäeval, kui iga sekund genereeritakse tohutult palju andmeid, on oluline teada, kuidas seda teavet selgelt ja tõhusalt esitada. See on koht, kus andmete visualiseerimine, Or dataviz, distsiplinaarvaldkond, mis ühendab disaini, narratiivi ja statistilise analüüsi, et muuta keerulised andmed intuitiivseteks visuaalseteks esitusviisideks. Datavizi eesmärgid Datavizi peamine eesmärk on muuta andmed kättesaadavaks kõigile, [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Deepfake: mọi thứ bạn cần biết về mối đe dọa mới liên quan đến AI"
 slug: "deepfake-moi-thu-ban-can-biet-ve-moi-de-doa-moi-lien-quan-den-ai"
 excerpt: "Định nghĩa và hoạt động của Deepfake Định nghĩa của Deepfake Thuật ngữ giả sâu là sự rút gọn của các từ tiếng Anh &#8220;deep learning&#8221; và &#8220;fake&#8221;. Công nghệ này dựa trên các thuật toántrí tuệ nhân tạo được thiết kế đặc biệt để tạo hoặc chỉnh sửa nội dung nghe nhìn, bao gồm [&hellip;]"

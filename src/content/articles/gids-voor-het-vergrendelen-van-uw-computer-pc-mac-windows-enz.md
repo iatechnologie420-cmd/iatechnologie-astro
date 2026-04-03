@@ -1,4 +1,5 @@
 ---
+
 title: "Gids voor het vergrendelen van uw computer (pc, Mac, Windows, enz.)"
 slug: "gids-voor-het-vergrendelen-van-uw-computer-pc-mac-windows-enz"
 excerpt: "De noodzaak om uw computer te beveiligen In het huidige tijdperk, waarin activiteiten in een versneld tempo digitaal worden, is de veiligheid van onze computers een grote zorg geworden voor zowel individuen als bedrijven. Hier vindt u een gedetailleerde gids over de goede reflexen die u kunt gebruiken om uw computersysteem effectief te beschermen. Computers [&hellip;]"

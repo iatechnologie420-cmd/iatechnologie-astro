@@ -1,4 +1,5 @@
 ---
+
 title: "Ali naj zdaj vlagamo v umetno inteligenco?"
 slug: "ali-naj-zdaj-vlagamo-v-umetno-inteligenco"
 excerpt: "Preden odgovorite z da ali ne, ali je zdaj čas za naložbe v umetno inteligenco, preglejmo zgodovino umetne inteligence, da stvari postavimo v kontekst in sprejmemo premišljeno odločitev. Evolucija umetne inteligence Konvencionalni AI Konvencionalna umetna inteligenca, znana tudi kot &#8220;šibka umetna inteligenca&#8221;, ima svoje začetke v 50. letih 20. stoletja. Takrat so se raziskovalci osredotočali [&hellip;]"

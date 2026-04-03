@@ -1,4 +1,5 @@
 ---
+
 title: "Dataviz nedir? Tanım, temel araçlar"
 slug: "dataviz-nedir-tanim-temel-araclar"
 excerpt: "Dataviz&#8217;i Anlamak: veri görselleştirme Günümüzde her saniye üretilen muazzam miktarda veriyle birlikte, bu bilginin nasıl açık ve etkili bir şekilde sunulacağını bilmek önemli hale geliyor. Burası veri goruntuleme, Veya verivizkarmaşık verileri sezgisel görsel temsillere dönüştürmek için tasarım, anlatı ve istatistiksel analizi birleştiren disiplinli bir alandır. Dataviz&#8217;in hedefleri Dataviz&#8217;in temel amacı, bireyin analitik becerilerine bakılmaksızın verileri [&hellip;]"

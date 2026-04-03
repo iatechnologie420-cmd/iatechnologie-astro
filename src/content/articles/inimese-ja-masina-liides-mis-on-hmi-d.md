@@ -1,4 +1,5 @@
 ---
+
 title: "Inimese ja masina liides: mis on HMI-d?"
 slug: "inimese-ja-masina-liides-mis-on-hmi-d"
 excerpt: "Inimese-masina liidese definitsioon Inimene-masin liides viitab kõikidele vahenditele ja tööriistadele, mida kasutatakse inimkasutaja ja arvutisüsteemi vahelise tõhusa suhtluse võimaldamiseks. See hõlmab kõike alates ekraanide visuaalsest kujundusest kuni sisendseadmeteni, nagu klaviatuur, hiir ning puute- ja häälliidesed. HMI ajalooline areng HMI-d on alates andmetöötluse tulekust läbi teinud märkimisväärse arengu. Need olid algselt algelised ja keskendusid käsuridadele, kuid [&hellip;]"

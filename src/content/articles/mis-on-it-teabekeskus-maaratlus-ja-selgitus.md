@@ -1,4 +1,5 @@
 ---
+
 title: "Mis on IT-teabekeskus? määratlus ja selgitus"
 slug: "mis-on-it-teabekeskus-maaratlus-ja-selgitus"
 excerpt: "A arvutiteabekeskus, mida nimetatakse ka teabekeskus, viitab tsentraliseeritud süsteemile, mis on pühendatud organisatsioonisisesele andmehaldusele. Selle eesmärk on ettevõtte tegevuseks vajaliku teabe kogumine, säilitamine, korrastamine ja levitamine. Selle funktsioon on oluline, et võimaldada analüütikutel ja otsustajatel andmeid tõhusalt ja teadlikul viisil kasutada. Selles artiklis uurime IT-teabekeskuse erinevaid komponente ja lisandväärtust. Teabekeskuse eesmärgid IT teabekeskus täidab mitmeid [&hellip;]"

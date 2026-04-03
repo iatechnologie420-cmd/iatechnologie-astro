@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT je le iluzija inteligence: zakaj?"
 slug: "chatgpt-je-le-iluzija-inteligence-zakaj"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Simulacija človeške inteligence z AI? Sposobnost simulacije človeške inteligence s stroji je bila vedno posebna fascinacija, tako za znanstvenike kot za širšo javnost. Če se zamisel o stroju, ki je sposoben razmišljati, sklepati in razumeti kot človek, še vedno zdi znanstvena fantastika, nam napredek umetne inteligence (AI) dokazuje, da smo tej realnosti bližje kot [&hellip;]"

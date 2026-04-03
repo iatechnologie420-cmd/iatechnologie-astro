@@ -1,4 +1,5 @@
 ---
+
 title: "Dompdf: Kako ustvariti elegantne PDF-je v PHP?"
 slug: "dompdf-kako-ustvariti-elegantne-pdf-je-v-php"
 excerpt: "Uvod v Dompdf Dompdf je knjižnica PHP, ki omogoča ustvarjanje datotek PDF iz vsebine HTML. Ta rešitev je zelo uporabna za ustvarjanje poročil, računov ali katerega koli drugega dokumenta v formatu PDF. V tem članku bomo odkrili osnovne funkcije Dompdf in se naučili, kako ga uporabljati za ustvarjanje elegantnih in funkcionalnih PDF-jev. Predpogoji Preden namestite [&hellip;]"

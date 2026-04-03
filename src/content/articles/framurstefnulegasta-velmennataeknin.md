@@ -1,4 +1,5 @@
 ---
+
 title: "Framúrstefnulegasta vélmennatæknin"
 slug: "framurstefnulegasta-velmennataeknin"
 excerpt: "Uppgötvun byltingarkenndra vélmenna THE byltingarkennd vélmenni eru ekki lengur vísindaskáldskapur, þeir eru nú hluti af daglegu lífi okkar og eru að umbreyta ýmsum atvinnugreinum á nýjan hátt. Uppgangur afgervigreind (AI) og háþróuð vélfærafræði opnar dyrnar að tímum þar sem sjálfvirkni verður aðlögunarhæfni, sjálfstæðari og samþætt mannlegri starfsemi. Í þessari grein munum við kanna nokkur af [&hellip;]"

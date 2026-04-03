@@ -1,4 +1,5 @@
 ---
+
 title: "Những robot tốt nhất trong vũ trụ Star Wars"
 slug: "nhung-robot-tot-nhat-trong-vu-tru-star-wars"
 excerpt: "Huyền thoại cơ học: C-3PO và R2-D2 Được coi là droid tiêu biểu nhất của saga Chiến tranh giữa các vì sao, C-3PO và R2-D2 đã ghi dấu ấn với nhiều thế hệ người hâm mộ bằng tính cách độc đáo, câu chuyện và vai trò quan trọng của họ xuyên suốt các tập phim. [&hellip;]"

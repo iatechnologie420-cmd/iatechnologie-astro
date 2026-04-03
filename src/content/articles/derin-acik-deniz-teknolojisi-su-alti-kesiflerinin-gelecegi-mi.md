@@ -1,4 +1,5 @@
 ---
+
 title: "Derin açık deniz teknolojisi: Su altı keşiflerinin geleceği mi?"
 slug: "derin-acik-deniz-teknolojisi-su-alti-kesiflerinin-gelecegi-mi"
 excerpt: "Derin deniz teknolojisi nedir? Derin deniz sondaj teknolojisi olarak da bilinen derin offshore teknolojisi, deniz tabanında 500 ila birkaç bin metre arasındaki derinliklerde bulunan kaynakları keşfetmeyi ve bunlardan yararlanmayı amaçlayan bir disiplindir. Bu teknoloji, açık denizde bulunan petrol, gaz ve maden rezervlerinin araştırılması ve işletilmesi için yeni olanaklar sunuyor. Derin açık denizin zorlukları Derin offshore [&hellip;]"

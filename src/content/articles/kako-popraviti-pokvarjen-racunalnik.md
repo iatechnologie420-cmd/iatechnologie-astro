@@ -1,4 +1,5 @@
 ---
+
 title: "Kako popraviti pokvarjen računalnik?"
 slug: "kako-popraviti-pokvarjen-racunalnik"
 excerpt: "Diagnosticiranje okvare vašega računalnika Težava z računalnikom se lahko včasih spremeni v pravi glavobol. Računalnik je kompleksna tehnološka združba in ko nekaj ne deluje po pričakovanjih, je pogosto možnih več razlogov. V tem članku vam ponujamo praktičen vodnik, ki vam bo pomagal prepoznati težavo in najti možne rešitve za diagnosticiranje okvare vašega računalnika. Identifikacija opozorilnih [&hellip;]"

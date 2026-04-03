@@ -1,4 +1,5 @@
 ---
+
 title: "Definisi Data Hub: semua yang perlu Anda ketahui tentang data hub"
 slug: "definisi-data-hub-semua-yang-perlu-anda-ketahui-tentang-data-hub"
 excerpt: "Pahami dasar-dasarnya Di era Big Data dan transformasi digital, perusahaan harus mampu memanfaatkan datanya secara efektif. ITU Pusat Data, atau “pusat data”, merupakan respons arsitektural terhadap meningkatnya kebutuhan akan pengelolaan, pembagian, dan analisis data. Dalam artikel ini, kami akan merinci dasar-dasar Data Hub dan peran utamanya dalam strategi data perusahaan. Apa itu Pusat Data? A [&hellip;]"

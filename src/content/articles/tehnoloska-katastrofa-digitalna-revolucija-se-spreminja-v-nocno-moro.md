@@ -1,4 +1,5 @@
 ---
+
 title: "Tehnološka katastrofa: digitalna revolucija se spreminja v nočno moro?"
 slug: "tehnoloska-katastrofa-digitalna-revolucija-se-spreminja-v-nocno-moro"
 excerpt: "Vpliv digitalne revolucije na našo družbo Digitalna revolucija, ki je značilna za naš čas, je motila številne vidike naše družbe. Digitalne tehnologije in dostop do interneta so spremenili naš način komuniciranja, dela, potrošnje in celo življenja. Ta članek raziskuje posledice te revolucije na naše vsakdanje življenje in izpostavlja ključna vprašanja, s katerimi se moramo soočiti. [&hellip;]"

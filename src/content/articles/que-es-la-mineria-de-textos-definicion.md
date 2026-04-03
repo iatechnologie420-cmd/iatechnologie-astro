@@ -1,4 +1,5 @@
 ---
+
 title: "¿Qué es la minería de textos? definición"
 slug: "que-es-la-mineria-de-textos-definicion"
 excerpt: "Introducción a la minería de textos EL extracción de textos, o minería de textos en francés, es una rama de la ciencia de datos que se centra en extraer información útil de grandes conjuntos de datos de texto. A menudo asociado con procesamiento natural del lenguaje (PNL), la minería de textos implica un conjunto de [&hellip;]"

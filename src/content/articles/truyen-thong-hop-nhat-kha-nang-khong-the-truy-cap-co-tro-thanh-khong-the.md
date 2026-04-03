@@ -1,4 +1,5 @@
 ---
+
 title: "Truyền thông hợp nhất: khả năng không thể truy cập có trở thành không thể?"
 slug: "truyen-thong-hop-nhat-kha-nang-khong-the-truy-cap-co-tro-thanh-khong-the"
 excerpt: "Truyền thông hợp nhất: Định nghĩa và nguyên tắc Truyền thông hợp nhất là gì? CÁC truyền thông Hợp nhất (CU), hay Truyền thông Hợp nhất trong tiếng Anh, chỉ một tập hợp các dịch vụ và giải pháp nhằm tích hợp hoặc thống nhất các hình thức liên lạc khác nhau trong cùng một [&hellip;]"

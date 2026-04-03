@@ -1,4 +1,5 @@
 ---
+
 title: "Temui profesion Data dan Kepintaran Buatan"
 slug: "temui-profesion-data-dan-kepintaran-buatan"
 excerpt: "Pengenalan kepada profesion Data dan Kepintaran Buatan Peningkatan data dan kecerdasan buatan (AI) telah menimbulkan banyak profesion yang inovatif dan pelbagai. Di tengah-tengah revolusi digital, pengkhususan ini menjadi penting bagi syarikat yang ingin memanfaatkan potensi yang ditawarkan oleh data dan automasi pintar. Memahami profesion Data Sains Data, persimpangan sebenar antara statistik, analisis data dan IT, [&hellip;]"

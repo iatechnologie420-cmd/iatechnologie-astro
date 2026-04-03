@@ -1,4 +1,5 @@
 ---
+
 title: "Teknologi disruptif mengubah perbankan?"
 slug: "teknologi-disruptif-mengubah-perbankan"
 excerpt: "Transformasi perbankan melalui teknologi disruptif telah mengubah sektor keuangan secara signifikan dalam beberapa tahun terakhir. Kemajuan teknologi telah memungkinkan munculnya solusi inovatif baru yang mengubah cara bank beroperasi dan berinteraksi dengan nasabahnya. Dalam artikel ini, kita akan mengeksplorasi berbagai dimensi transformasi ini dan dampaknya terhadap industri perbankan. Digitalisasi: era serba digital Dimensi pertama dari transformasi [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Spot: the dog robot from Boston Dynamics"
 slug: "spot-the-dog-robot-from-boston-dynamics"
 excerpt: "Discovery of Spot, the dog robot from Boston Dynamics Renowned for being the cream of modern robotics, Spot, the robot dog from Boston Dynamics, has created a shock wave in the world of new technologies. Designed to replace its peers, it is the emblematic example of animal robots ready to replace their models. Spot, a [&hellip;]"

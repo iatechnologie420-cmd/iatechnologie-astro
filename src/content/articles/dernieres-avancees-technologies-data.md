@@ -1,4 +1,5 @@
 ---
+
 title: "Quelles sont les dernières avancées des technologies data ?"
 slug: "dernieres-avancees-technologies-data"
 excerpt: "Les technologies data jouent un rôle de plus en plus essentiel dans notre société moderne. Avec la numérisation croissante de nos vies et l&#8217;explosion des données générées quotidiennement, il est crucial de comprendre l&#8217;importance de ces technologies et leur impact sur notre monde. Dans cet article, nous explorerons les différentes facettes des technologies data et [&hellip;]"

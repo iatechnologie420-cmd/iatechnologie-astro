@@ -1,4 +1,5 @@
 ---
+
 title: "Metin madenciliği nedir? tanım"
 slug: "metin-madenciligi-nedir-tanim"
 excerpt: "Metin madenciliğine giriş THE metin madenciliğiFransızca metin madenciliği veya metin madenciliği, büyük metin verisi kümelerinden yararlı bilgilerin çıkarılmasına odaklanan bir veri bilimi dalıdır. Çoğu zaman ilişkili doğal dil işleme (NLP), metin madenciliği, metin biçiminde toplanan insan dilini anlama, analiz etme ve işleme kapasitesine sahip bir dizi teknik ve aracı içerir. Metin madenciliğinin artan kullanımı, büyük [&hellip;]"

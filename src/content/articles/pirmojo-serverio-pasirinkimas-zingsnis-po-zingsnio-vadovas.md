@@ -1,4 +1,5 @@
 ---
+
 title: "Pirmojo serverio pasirinkimas: žingsnis po žingsnio vadovas"
 slug: "pirmojo-serverio-pasirinkimas-zingsnis-po-zingsnio-vadovas"
 excerpt: "Serverių tipų skirtumų supratimas Serveriai, be kitų užduočių, atlieka gyvybiškai svarbų vaidmenį valdant tinklus, prieglobojant svetaines, saugant duomenis ir palaikant skaičiavimą. Šios galingos mašinos gali būti įvairių formų, kurių kiekviena turi savo ypatybes ir idealų naudojimą. Šiuo straipsniu siekiama apžvelgti pagrindinius serverių tipai ir jų skirtumus, kad juos geriau suprastume. Fiziniai serveriai THE fiziniai serveriai, [&hellip;]"

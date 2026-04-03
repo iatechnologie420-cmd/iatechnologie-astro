@@ -1,4 +1,5 @@
 ---
+
 title: "E-reputation: Managing a person’s image online"
 slug: "e-reputation-managing-a-persons-image-online"
 excerpt: "Understanding e-reputation and its importance With the continued evolution of digital technologies and the increasing integration of social media into our daily lives, thee-reputation has become a crucial factor for individuals and businesses. It constitutes all the information present on the Internet which influences public perception of a brand, a company or a person. L&#8217;e-reputation [&hellip;]"

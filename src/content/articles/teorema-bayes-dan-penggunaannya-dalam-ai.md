@@ -1,4 +1,5 @@
 ---
+
 title: "Teorema Bayes dan penggunaannya dalam AI"
 slug: "teorema-bayes-dan-penggunaannya-dalam-ai"
 excerpt: "Singkatnya, itu Teorema Bayes adalah alat yang ampuh untuk memahami probabilitas bersyarat dan untuk menyempurnakan keyakinan kita dengan mempertimbangkan informasi baru. Kesederhanaan matematisnya kontras dengan implikasi dan penerapannya yang luas, menjadikannya subjek dasar yang wajib dibaca oleh siapa pun yang tertarik pada statistik, pengambilan keputusan, dan kecerdasan buatan. Dasar-dasar Inferensi Bayesian aku Inferensi Bayesian adalah [&hellip;]"

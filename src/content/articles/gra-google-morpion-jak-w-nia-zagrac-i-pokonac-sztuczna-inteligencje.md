@@ -1,4 +1,5 @@
 ---
+
 title: "Gra Google Morpion: jak w nią zagrać i pokonać sztuczną inteligencję?"
 slug: "gra-google-morpion-jak-w-nia-zagrac-i-pokonac-sztuczna-inteligencje"
 excerpt: "Zasady gry w kółko i krzyżyk Google Cel gry Gra Morpion, zwana także Kółko i krzyżyk, to gra strategiczna rozgrywana na siatce 3&#215;3. Celem jest ułożenie trzech identycznych symboli (krzyża lub koła) poziomo, pionowo lub ukośnie przed przeciwnikiem. Organizować coś Gra Google Tic Toe jest dostępna online i można w nią grać na różnych urządzeniach, [&hellip;]"

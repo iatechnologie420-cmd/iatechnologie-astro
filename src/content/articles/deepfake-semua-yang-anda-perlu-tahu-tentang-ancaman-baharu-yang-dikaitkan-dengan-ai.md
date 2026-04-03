@@ -1,4 +1,5 @@
 ---
+
 title: "Deepfake: semua yang anda perlu tahu tentang ancaman baharu yang dikaitkan dengan AI"
 slug: "deepfake-semua-yang-anda-perlu-tahu-tentang-ancaman-baharu-yang-dikaitkan-dengan-ai"
 excerpt: "Definisi dan operasi Deepfake Definisi Deepfake Istilah deepfake ialah penguncupan daripada perkataan Inggeris &#8220;deep learning&#8221; dan &#8220;fake&#8221;. Teknologi ini berdasarkan algoritmakecerdasan buatan direka khas untuk mencipta atau mengedit kandungan audiovisual, termasuk video dan trek audio. Hasilnya selalunya sangat meyakinkan sehingga boleh menipu mata dan telinga, menjadikannya tidak dapat dikesan pada pandangan pertama kepada kebanyakan orang. [&hellip;]"

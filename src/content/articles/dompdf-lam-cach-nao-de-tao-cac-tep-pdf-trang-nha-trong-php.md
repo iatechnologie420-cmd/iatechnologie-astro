@@ -1,4 +1,5 @@
 ---
+
 title: "Dompdf: Làm cách nào để tạo các tệp PDF trang nhã trong PHP?"
 slug: "dompdf-lam-cach-nao-de-tao-cac-tep-pdf-trang-nha-trong-php"
 excerpt: "Giới thiệu về Dompdf Dompdf là thư viện PHP cho phép bạn tạo tệp PDF từ nội dung HTML. Giải pháp này rất hữu ích để tạo báo cáo, hóa đơn hoặc bất kỳ tài liệu nào khác ở định dạng PDF. Trong bài viết này, chúng ta sẽ khám phá các tính năng cơ [&hellip;]"

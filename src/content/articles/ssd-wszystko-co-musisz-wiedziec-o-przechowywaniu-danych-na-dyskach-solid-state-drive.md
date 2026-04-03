@@ -1,4 +1,5 @@
 ---
+
 title: "SSD: wszystko, co musisz wiedzieć o przechowywaniu danych na dyskach Solid-State Drive"
 slug: "ssd-wszystko-co-musisz-wiedziec-o-przechowywaniu-danych-na-dyskach-solid-state-drive"
 excerpt: "Wprowadzenie do dysków SSD i ich działania Pojawienie się dysków półprzewodnikowych lub SSD (Dysk SSD w języku angielskim), zapoczątkowała prawdziwą rewolucję w dziedzinie przechowywania danych. W przeciwieństwie do tradycyjnych dysków twardych (HDD), które wykorzystują talerze magnetyczne do przechowywania informacji, dyski twarde SSD polegać na układach pamięci flash pozbawionych ruchomych części. Ta zmiana technologii zapewnia znaczne [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Elegir tu primer servidor: una guía paso a paso"
 slug: "elegir-tu-primer-servidor-una-guia-paso-a-paso"
 excerpt: "Comprender las diferencias entre los tipos de servidores Los servidores desempeñan un papel vital en el funcionamiento de redes, alojamiento de sitios web, almacenamiento de datos y soporte informático, entre otras tareas. Estas poderosas máquinas pueden presentarse en diferentes formas, cada una con sus particularidades y uso ideal. Este artículo tiene como objetivo revisar los [&hellip;]"

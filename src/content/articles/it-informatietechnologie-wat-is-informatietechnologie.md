@@ -1,4 +1,5 @@
 ---
+
 title: "IT / Informatietechnologie: wat is informatietechnologie?"
 slug: "it-informatietechnologie-wat-is-informatietechnologie"
 excerpt: "IT begrijpen: definitie en evolutie van informatietechnologieën Wat is het? De voorwaarde HET, voor Informatie Technologie in het Engels duidt dit alle technologieën aan die verband houden met de verwerking en het beheer van informatie en gegevens. Dit uitgestrekte terrein omvat dus de informatica, telecommunicatie, databasebeheersystemen, informatiebeveiliging en nog veel meer. IT is essentieel in [&hellip;]"

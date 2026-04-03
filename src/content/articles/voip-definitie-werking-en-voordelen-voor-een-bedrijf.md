@@ -1,4 +1,5 @@
 ---
+
 title: "VOIP: definitie, werking en voordelen voor een bedrijf"
 slug: "voip-definitie-werking-en-voordelen-voor-een-bedrijf"
 excerpt: "Definitie van VOIP en basisprincipes De technologie van Voice over internetprotocol (VoIP) vertegenwoordigt een belangrijke evolutie in de manier waarop we communiceren. Telefonie wordt lange tijd gedomineerd door traditionele telefoonlijnen en ondergaat een digitale transformatie waardoor zowel spraak als gegevens via internet kunnen worden verzonden. Laten we dus eens nader bekijken wat VoIP is en [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Ali tehnologije Nike revolucionirajo svet športa?"
 slug: "ali-tehnologije-nike-revolucionirajo-svet-sporta"
 excerpt: "Nikeove tehnološke inovacije v športu Nike je ikonična blagovna znamka na področju športne opreme, svoj ugled pa v veliki meri temelji na sposobnosti nenehnega inoviranja. Od svoje ustanovitve leta 1964 je podjetje pokazalo izjemno iznajdljivost pri razvoju tehnologij, ki izboljšujejo uspešnost športnikov in revolucionirajo svet športa. Tehnologija Flyknit: lahkotnost in prileganje Eden najbolj osupljivih primerov [&hellip;]"

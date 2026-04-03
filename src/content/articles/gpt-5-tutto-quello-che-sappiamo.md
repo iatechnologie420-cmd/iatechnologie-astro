@@ -1,4 +1,5 @@
 ---
+
 title: "GPT-5: tutto quello che sappiamo"
 slug: "gpt-5-tutto-quello-che-sappiamo"
 excerpt: "L&#8217;evoluzione dell&#8217;intelligenza artificiale: da GPT-3 a GPT-5 La progressione fulminea diintelligenza artificiale generativa nel panorama tecnologico è guidato proprio in questo momento dal fenomeno ChatGPT. A partire da GPT-3 poi, in attesa di GPT-4, è stata sviluppata una versione intermedia GPT-3.5 OpenAI. Ma la vera rivoluzione si sta preparando con l’anticipazione del futuro GPT-5, promesso [&hellip;]"

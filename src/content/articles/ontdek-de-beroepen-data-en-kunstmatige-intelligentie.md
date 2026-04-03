@@ -1,4 +1,5 @@
 ---
+
 title: "Ontdek de beroepen Data en Kunstmatige Intelligentie"
 slug: "ontdek-de-beroepen-data-en-kunstmatige-intelligentie"
 excerpt: "Inleiding tot beroepen op het gebied van data en kunstmatige intelligentie De opkomst van data en kunstmatige intelligentie (AI) heeft geleid tot een overvloed aan innovatieve en gevarieerde beroepen. In het hart van de digitale revolutie zijn deze specialisaties essentieel geworden voor bedrijven die willen profiteren van het potentieel dat data en intelligente automatisering bieden. [&hellip;]"

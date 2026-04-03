@@ -1,4 +1,5 @@
 ---
+
 title: "Bored Ape Yacht Club: tudo o que você precisa saber"
 slug: "bored-ape-yacht-club-tudo-o-que-voce-precisa-saber"
 excerpt: "O que é o Bored Ape Yacht Club? O Clube de Iate Macaco Entediado é um fenómeno recente que está a abalar o mundo da Tokens Não Fungíveis (NFT). Esses macacos virtuais ilustrados de forma única se tornaram o símbolo do status de bilionário no mundo criptográfico. Mas o que torna esses NFTs tão especiais? [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Bilişselcilik: Zekamız yapay mı?"
 slug: "bilisselcilik-zekamiz-yapay-mi"
 excerpt: "Bilişselciliğin ve insan zekasının kökenleri Bilişselciliğin kökenleri THE bilişselcilik düşüncenin iç mekanizmalarına odaklanan, insan zihnini bir bilgi işlem sistemi olarak ele alan bir psikoloji yaklaşımıdır. Bu yaklaşımın kökenleri esas olarak 1950&#8217;li ve 1960&#8217;lı yıllara, o dönemde oldukça baskın olan ve yalnızca gözlemlenebilir davranışlara odaklanan, içsel zihinsel süreçleri göz ardı eden davranışçılığa bir tepki olarak dayanmaktadır. [&hellip;]"

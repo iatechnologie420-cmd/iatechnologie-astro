@@ -1,4 +1,5 @@
 ---
+
 title: "Qu’est-ce que le Sharding ? définition et avantages"
 slug: "qu-est-ce-que-le-sharding"
 excerpt: "Comprendre le sharding : définition et principes de base Le monde des bases de données et du stockage de données à grande échelle est complexe et constamment en évolution. Pour gérer efficacement les volumes de données qui augmentent de façon exponentielle, les architectures informatiques doivent innover et trouver des solutions pour optimiser les performances et [&hellip;]"

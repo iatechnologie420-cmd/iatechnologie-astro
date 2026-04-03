@@ -1,4 +1,5 @@
 ---
+
 title: "Master Data Manager: hlutverk, færni, þjálfun og laun"
 slug: "master-data-manager-hlutverk-faerni-thjalfun-og-laun"
 excerpt: "Lykilhlutverk aðalgagnastjóra í gagnastjórnun Í heimi þar sem gögn eru orðin mikil stefnumótandi eign fyrir fyrirtæki, gagnastjórnun er nauðsynlegt til að tryggja gæði, öryggi og skilvirkni upplýsinga. Kjarninn í þessari stjórnarhætti er Aðalgagnastjóri (MDM) gegnir mikilvægu hlutverki. Við skulum kanna saman ábyrgð og áhrif þessarar stefnumótandi stöðu. Hvað er Master Data Management? Áður en einblínt [&hellip;]"

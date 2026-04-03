@@ -1,4 +1,5 @@
 ---
+
 title: "Wat is een digitale werkplek / augmented work?"
 slug: "wat-is-een-digitale-werkplek-augmented-work"
 excerpt: "Wat is een digitale werkruimte? De voorwaarde Digitale werkruimte, Of digitale werkruimtedefinieert een werkomgeving die dankzij digitale technologieën geen fysieke barrières meer kent. Het brengt een reeks tools en technologieën samen waarmee gebruikers verbinding kunnen maken, kunnen samenwerken en hun professionele taken kunnen uitvoeren, ongeacht hun fysieke locatie. Dit artikel bespreekt de essentiële pijlers van [&hellip;]"

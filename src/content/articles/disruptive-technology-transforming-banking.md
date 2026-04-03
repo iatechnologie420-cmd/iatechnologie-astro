@@ -1,4 +1,5 @@
 ---
+
 title: "Disruptive technology transforming banking?"
 slug: "disruptive-technology-transforming-banking"
 excerpt: "The transformation of banking through disruptive technology has profoundly changed the financial sector in recent years. Technological advances have enabled the emergence of new innovative solutions, which are changing the way banks operate and interact with their customers. In this article, we will explore the different dimensions of this transformation and the impacts it is [&hellip;]"

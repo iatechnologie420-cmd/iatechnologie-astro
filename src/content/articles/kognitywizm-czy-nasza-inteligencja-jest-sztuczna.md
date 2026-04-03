@@ -1,4 +1,5 @@
 ---
+
 title: "Kognitywizm: czy nasza inteligencja jest sztuczna?"
 slug: "kognitywizm-czy-nasza-inteligencja-jest-sztuczna"
 excerpt: "Geneza kognitywizmu i inteligencji człowieka Początki kognitywizmu TO kognitywizm to podejście w psychologii skupiające się na wewnętrznych mechanizmach myślenia, traktujące ludzki umysł jako system przetwarzania informacji. Początki tego podejścia sięgają głównie lat 50. i 60. XX wieku, jako reakcja na bardzo dominujący wówczas behawioryzm, skupiający się wyłącznie na zachowaniach obserwowalnych, zaniedbując wewnętrzne procesy psychiczne. TO [&hellip;]"

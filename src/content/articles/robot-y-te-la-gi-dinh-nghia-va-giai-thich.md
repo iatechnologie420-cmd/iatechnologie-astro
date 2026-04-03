@@ -1,4 +1,5 @@
 ---
+
 title: "Robot y tế là gì? định nghĩa và giải thích"
 slug: "robot-y-te-la-gi-dinh-nghia-va-giai-thich"
 excerpt: "Định nghĩa và phân loại robot y tế Sự ra đời của robot trong chăm sóc sức khỏe đã mở ra những khả năng to lớn để cải thiện việc chăm sóc y tế và phẫu thuật. Những công nghệ này, được gọi là robot y tế, là các thiết bị cơ khí hoặc hệ [&hellip;]"

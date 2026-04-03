@@ -1,4 +1,5 @@
 ---
+
 title: "Unified Communications: har utilgjengelighet blitt umulig?"
 slug: "unified-communications-har-utilgjengelighet-blitt-umulig"
 excerpt: "Samlet kommunikasjon: Definisjon og prinsipp Hva er enhetlig kommunikasjon? DE Samlet kommunikasjon (CU), eller Unified Communications på engelsk, betegner et sett med tjenester og løsninger som tar sikte på å integrere eller forene ulike former for kommunikasjon innenfor samme grensesnitt eller plattform. Dette inkluderer direktemeldinger, videokonferanser, taleanrop (VoIP), e-post, nettkonferanser og talepost, for å nevne [&hellip;]"

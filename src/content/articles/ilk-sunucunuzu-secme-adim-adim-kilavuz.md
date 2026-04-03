@@ -1,4 +1,5 @@
 ---
+
 title: "İlk sunucunuzu seçme: adım adım kılavuz"
 slug: "ilk-sunucunuzu-secme-adim-adim-kilavuz"
 excerpt: "Sunucu türleri arasındaki farkları anlama Sunucular, diğer görevlerin yanı sıra ağların çalıştırılmasında, web sitelerinin barındırılmasında, verilerin depolanmasında ve bilgi işlemin desteklenmesinde hayati bir rol oynar. Bu güçlü makineler, her birinin kendine has özellikleri ve ideal kullanımı olan farklı şekillerde olabilir. Bu makale ana konuyu gözden geçirmeyi amaçlamaktadır. sunucu türleri ve farklılıkları daha iyi anlayabilmek için. [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "4G antennas: How to better capture 4G indoors?"
 slug: "4g-antennas-how-to-better-capture-4g-indoors"
 excerpt: "Understand how 4G works and its limits What is 4G? Technology 4G, also known as 4th generation of standards for mobile telecommunications, is the continuation of the 3G and precedes the very recent 5G. It offers a high-speed mobile Internet connection, allowing you to benefit from better data transfer. This includes streaming videos in high [&hellip;]"

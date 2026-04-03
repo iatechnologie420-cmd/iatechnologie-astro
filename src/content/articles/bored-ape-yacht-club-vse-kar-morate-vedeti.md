@@ -1,4 +1,5 @@
 ---
+
 title: "Bored Ape Yacht Club: vse, kar morate vedeti"
 slug: "bored-ape-yacht-club-vse-kar-morate-vedeti"
 excerpt: "Kaj je Bored Ape Yacht Club? THE Bored Ape Yacht Club je nedavni pojav, ki pretresa svet Nezamenljivi žetoni (NFT). Te edinstveno ilustrirane virtualne opice so postale simbol statusa milijarderja v kripto svetu. Toda zakaj so ti NFT-ji tako posebni? In zakaj so pritegnili domišljijo toliko ljudi? V tem članku se potopimo v fascinanten svet [&hellip;]"

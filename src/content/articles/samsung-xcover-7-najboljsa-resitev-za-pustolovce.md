@@ -1,4 +1,5 @@
 ---
+
 title: "Samsung Xcover 7: Najboljša rešitev za pustolovce?"
 slug: "samsung-xcover-7-najboljsa-resitev-za-pustolovce"
 excerpt: "Tehnične lastnosti Samsung Xcover 7 Samsung Xcover 7 je najnovejši telefon v seriji Xcover, znan po svoji odpornosti na vremenske vplive in vzdržljivosti. Z naprednimi funkcijami in robustno zasnovo je Xcover 7 zasnovan za aktivne ljudi, ki potrebujejo zanesljiv pametni telefon v vsaki situaciji. V tem članku si bomo podrobneje ogledali tehnične lastnosti, zaradi katerih [&hellip;]"

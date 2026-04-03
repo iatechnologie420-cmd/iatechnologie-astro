@@ -1,4 +1,5 @@
 ---
+
 title: "Hyundai: Bagaimanakah teknologi merevolusikan industri automotif?"
 slug: "hyundai-bagaimanakah-teknologi-merevolusikan-industri-automotif"
 excerpt: "Transformasi digital telah mengubah dengan ketara cara kami berinteraksi dengan produk dan perkhidmatan, dan industri automotif tidak terkecuali. Contoh terbaik evolusi ini boleh dilihat dalam Hyundai, yang telah berjaya menggabungkan kemajuan teknologi terkini ke dalam pengeluaran dan operasinya untuk kekal di barisan hadapan dalam industri. Menggabungkan teknologi digital ke dalam operasi Hyundai Hyundai telah menggunakan [&hellip;]"

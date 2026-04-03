@@ -1,4 +1,5 @@
 ---
+
 title: "Technologinės naujovės: kur esame šiandien?"
 slug: "technologines-naujoves-kur-esame-siandien"
 excerpt: "Naujausi technologiniai pasiekimai Naujausi technologiniai pasiekimai Naujausi technologiniai pasiekimai radikaliai pakeitė mūsų gyvenimo, darbo ir bendravimo būdą. Reguliariai atsiranda naujų technologijų, kurios skatina mūsų visuomenę link vis labiau susietos ir novatoriškesnės ateities. Šiame straipsnyje mes išnagrinėsime kai kuriuos naujausius žaidimus keičiančius technologinius pasiekimus įvairiose srityse. 1. Dirbtinis intelektas (DI) Dirbtinis intelektas neabejotinai yra vienas reikšmingiausių [&hellip;]"

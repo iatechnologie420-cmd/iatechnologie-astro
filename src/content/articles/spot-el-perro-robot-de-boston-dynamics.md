@@ -1,4 +1,5 @@
 ---
+
 title: "Spot: el perro robot de Boston Dynamics"
 slug: "spot-el-perro-robot-de-boston-dynamics"
 excerpt: "Descubrimiento de Spot, el perro robot de Boston Dynamics Reconocido por ser la flor y nata de la robótica moderna, Lugar, el perro robot de Boston Dynamics, ha creado una onda expansiva en el mundo de las nuevas tecnologías. Diseñado para reemplazar a sus pares, es el ejemplo emblemático de robots animales listos para reemplazar [&hellip;]"

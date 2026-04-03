@@ -1,4 +1,5 @@
 ---
+
 title: "Anti-RFID-lommebok: Hvorfor du ikke trenger den"
 slug: "anti-rfid-lommebok-hvorfor-du-ikke-trenger-den"
 excerpt: "Forstå RFID-teknologi og dens risikoer Hva er RFID? Der Radiofrekvens identifikasjon (RFID) er en teknologi som tillater automatisk identifikasjon av objekter, dyr eller mennesker ved hjelp av radiobølger. Den bruker små elektroniske enheter kalt etiketter Eller RFID-brikker, som lagrer data og overfører denne informasjonen til en RFID-leser. Tagger kan være passive (uten egen strømkilde, aktivert [&hellip;]"

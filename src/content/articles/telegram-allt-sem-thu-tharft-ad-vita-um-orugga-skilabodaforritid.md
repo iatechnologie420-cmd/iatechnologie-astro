@@ -1,4 +1,5 @@
 ---
+
 title: "Telegram: allt sem þú þarft að vita um örugga skilaboðaforritið"
 slug: "telegram-allt-sem-thu-tharft-ad-vita-um-orugga-skilabodaforritid"
 excerpt: "Hvað er Telegram? Telegram er spjallforrit með áherslu á hraða og öryggi. Það er orðið einn vinsælasti samskiptavettvangur í heimi þökk sé samsetningu háþróaðra eiginleika, leiðandi viðmóts og skuldbindingar til að vernda friðhelgi notenda. Frá því það var sett á markað árið 2013, Telegram hefur staðið upp úr meðal fjölda skilaboðaforrita og staðsetur sig sem [&hellip;]"

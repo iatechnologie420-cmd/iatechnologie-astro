@@ -1,4 +1,5 @@
 ---
+
 title: "What is an autoencoder? The ultimate guide!"
 slug: "what-is-an-autoencoder-the-ultimate-guide"
 excerpt: "Autoencoders, or autoencoders in English, position themselves as powerful tools in the field of machine learning and artificial intelligence. These special neural networks are used for dimension reduction, anomaly detection, data denoising, and more. This article provides an introduction to this fascinating technology, highlighting its working principle, its applications and its growing importance in research [&hellip;]"

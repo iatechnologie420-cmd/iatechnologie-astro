@@ -1,4 +1,5 @@
 ---
+
 title: "Découvrez les métiers de la Data et de l&#8217;Intelligence artificielle"
 slug: "metiers-data-intelligence-artificielle"
 excerpt: "Introduction aux métiers de la Data et de l&#8217;Intelligence Artificielle L&#8217;essor de la data et de l&#8217;intelligence artificielle (IA) a donné lieu à un foisonnement de métiers innovants et variés. Au cœur de la révolution numérique, ces spécialisations sont devenues indispensables pour les entreprises cherchant à tirer profit du potentiel offert par les données et [&hellip;]"

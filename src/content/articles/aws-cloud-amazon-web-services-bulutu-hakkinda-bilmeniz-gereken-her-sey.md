@@ -1,4 +1,5 @@
 ---
+
 title: "AWS Cloud – Amazon Web Services bulutu hakkında bilmeniz gereken her şey"
 slug: "aws-cloud-amazon-web-services-bulutu-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "Amazon Web Services&#8217;e (AWS) Giriş: Bulut bilişimde bir devrim 2006 yılında kurulduğundan bu yana, Amazon Web Hizmetleri (AWS) benzeri görülmemiş esneklik, ölçek ve ölçek ekonomisi sunan bir bulut hizmetleri platformu sunarak BT ortamını kökten değiştirdi. Bu giriş, çalışma prensiplerini açıklığa kavuşturmayı amaçlamaktadır.AWS ve bu çözümün neden bulut bilişimde önemli bir oyuncu haline geldiğini açıklamak. Amazon [&hellip;]"

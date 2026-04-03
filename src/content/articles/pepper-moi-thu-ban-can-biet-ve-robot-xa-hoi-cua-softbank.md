@@ -1,4 +1,5 @@
 ---
+
 title: "Pepper: mọi thứ bạn cần biết về robot xã hội của SoftBank"
 slug: "pepper-moi-thu-ban-can-biet-ve-robot-xa-hoi-cua-softbank"
 excerpt: "Pepper: Trình bày và các chức năng cơ bản Bản tóm tắt Robot xã hội Hạt tiêu là một thành tựu công nghệ được thiết kế để tương tác với con người trong môi trường xã hội. Được trang bị nhiều cảm biến và AI tiên tiến, Pepper hiểu và phản ứng với cảm xúc [&hellip;]"

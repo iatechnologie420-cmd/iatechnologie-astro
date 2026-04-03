@@ -1,4 +1,5 @@
 ---
+
 title: "IMAP skilgreining: allt sem þú þarft að vita"
 slug: "imap-skilgreining-allt-sem-thu-tharft-ad-vita"
 excerpt: "Kynning á IMAP Internet Message Access Protocol (IMAP) er samskiptastaðall sem gerir notendum kleift að taka á móti og stjórna tölvupósti sínum beint á tölvupóstþjónum, sem er frábrugðið hefðbundinni nálgun þar sem tölvupóstum er hlaðið niður í tölvupóstforritið á staðnum. Þetta hefur marga hagnýta kosti í för með sér, sérstaklega í heimi þar sem við [&hellip;]"

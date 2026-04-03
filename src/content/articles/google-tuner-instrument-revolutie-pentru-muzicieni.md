@@ -1,4 +1,5 @@
 ---
+
 title: "Google tuner instrument: revoluție pentru muzicieni?"
 slug: "google-tuner-instrument-revolutie-pentru-muzicieni"
 excerpt: "Importanța acordării instrumentelor muzicale Acordul este unul dintre cele mai importante aspecte atunci când vine vorba de a cânta la un instrument muzical. Indiferent dacă sunteți un începător sau un muzician experimentat, trebuie să vă acordați instrumentul în mod regulat pentru a obține cel mai bun sunet posibil. În acest articol, vom explora importanța acordării [&hellip;]"

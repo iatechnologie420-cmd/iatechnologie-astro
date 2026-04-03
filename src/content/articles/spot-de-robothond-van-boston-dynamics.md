@@ -1,4 +1,5 @@
 ---
+
 title: "Spot: de robothond van Boston Dynamics"
 slug: "spot-de-robothond-van-boston-dynamics"
 excerpt: "Ontdekking van Spot, de hondenrobot van Boston Dynamics Bekend als de crème van de moderne robotica, Plek, de robothond van Boston Dynamics, heeft een schokgolf veroorzaakt in de wereld van nieuwe technologieën. Ontworpen om zijn soortgenoten te vervangen, is het het emblematische voorbeeld van dierenrobots die klaar zijn om hun modellen te vervangen. Spot, een [&hellip;]"

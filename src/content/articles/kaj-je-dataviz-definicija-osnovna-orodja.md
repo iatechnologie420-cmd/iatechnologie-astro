@@ -1,4 +1,5 @@
 ---
+
 title: "Kaj je dataviz? Definicija, osnovna orodja"
 slug: "kaj-je-dataviz-definicija-osnovna-orodja"
 excerpt: "Razumevanje Dataviz: vizualizacija podatkov Danes, ko vsako sekundo nastane ogromna količina podatkov, je bistveno vedeti, kako te informacije predstaviti na jasen in učinkovit način. Tukaj je vizualizacijo podatkov, ali dataviz, disciplinarno področje, ki združuje oblikovanje, naracijo in statistično analizo za pretvorbo kompleksnih podatkov v intuitivne vizualne predstavitve. Cilji Dataviz Glavna ambicija dataviza je narediti podatke [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Data Miner: rol, abilități, pregătire și salariu"
 slug: "data-miner-rol-abilitati-pregatire-si-salariu"
 excerpt: "Rolul și misiunile minerului de date THE Miner de date, sau prospector de date, joacă un rol crucial în lumea datelor și a inteligenței artificiale. Este un actor esențial din umbră care facilitează luarea deciziilor și managementul strategic în cadrul companiilor. Vom detalia misiunile sale și importanța rolului său. Ce este un data miner? THE [&hellip;]"

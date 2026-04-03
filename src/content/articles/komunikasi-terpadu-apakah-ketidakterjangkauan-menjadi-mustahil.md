@@ -1,4 +1,5 @@
 ---
+
 title: "Komunikasi Terpadu: apakah ketidakterjangkauan menjadi mustahil?"
 slug: "komunikasi-terpadu-apakah-ketidakterjangkauan-menjadi-mustahil"
 excerpt: "Komunikasi terpadu: Definisi dan prinsip Apa itu Komunikasi Terpadu? ITU Komunikasi Terpadu (CU), atau Komunikasi Terpadu dalam bahasa Inggris, mengacu pada serangkaian layanan dan solusi yang bertujuan untuk mengintegrasikan atau menyatukan berbagai bentuk komunikasi dalam antarmuka atau platform yang sama. Ini termasuk pesan instan, konferensi video, panggilan suara (VoIP), email, konferensi web, dan pesan suara, [&hellip;]"

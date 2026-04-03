@@ -1,4 +1,5 @@
 ---
+
 title: "Bagaimana Cara Menemukan Koordinat GPS (Lintang dan Bujur) di Google Maps?"
 slug: "bagaimana-cara-menemukan-koordinat-gps-lintang-dan-bujur-di-google-maps"
 excerpt: "ITU GPS (Global Positioning System) adalah teknologi yang menjadi penting dalam kehidupan kita sehari-hari. Menggunakan sinyal yang ditransmisikan oleh satelit, itu sistem GPS memungkinkan kita menentukan posisi kita secara akurat dalam bentuk koordinat geografis. Koordinat ini diwakili oleh dua elemen kunci: the Garis Lintang dan itu garis bujur. Pada artikel ini, kita akan menjelajahi dunia [&hellip;]"

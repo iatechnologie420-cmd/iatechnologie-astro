@@ -1,4 +1,5 @@
 ---
+
 title: "CIO definition: what is an IT Services Director"
 slug: "cio-definition-what-is-an-it-services-director"
 excerpt: "Role and missions of the Director of IT Services The essential role of the Director of IT Services THE Director of IT Services, also known as CIO Or Director of the information systems, holds a strategic place within modern companies. In the digital age, where information and technology have become the core of professional activities, [&hellip;]"

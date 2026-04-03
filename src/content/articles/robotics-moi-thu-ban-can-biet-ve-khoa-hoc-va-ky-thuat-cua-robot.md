@@ -1,4 +1,5 @@
 ---
+
 title: "Robotics: mọi thứ bạn cần biết về khoa học và kỹ thuật của robot"
 slug: "robotics-moi-thu-ban-can-biet-ve-khoa-hoc-va-ky-thuat-cua-robot"
 excerpt: "Hiểu biết về khoa học đằng sau máy móc Robotics là một nhánh công nghệ hấp dẫn kết hợp nhiều lĩnh vực kiến ​​thức khác nhau để tạo ra những cỗ máy có khả năng thực hiện các nhiệm vụ một cách tự động hoặc bán tự động. Trong bài viết này, chúng ta sẽ [&hellip;]"

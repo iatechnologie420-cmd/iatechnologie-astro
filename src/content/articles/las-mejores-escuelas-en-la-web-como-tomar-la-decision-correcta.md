@@ -1,4 +1,5 @@
 ---
+
 title: "Las mejores escuelas en la web: cómo tomar la decisión correcta"
 slug: "las-mejores-escuelas-en-la-web-como-tomar-la-decision-correcta"
 excerpt: "El mundo de la educación cambia constantemente, especialmente con la llegada de las nuevas tecnologías. Hoy en día, muchos cursos de formación son accesibles en línea, lo que ofrece flexibilidad y adaptabilidad a cada alumno. Le guiaremos a través de la gama de opciones disponibles para que pueda tomar una decisión informada escuela web que [&hellip;]"

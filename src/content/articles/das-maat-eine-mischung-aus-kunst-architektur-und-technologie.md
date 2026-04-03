@@ -1,4 +1,5 @@
 ---
+
 title: "Das MAAT: eine Mischung aus Kunst, Architektur und Technologie?"
 slug: "das-maat-eine-mischung-aus-kunst-architektur-und-technologie"
 excerpt: "Die Geschichte des MAAT: eine Mischung aus Kunst und Architektur Das MAAT, Akronym für Museum of Art, Architecture and Technologies, ist ein symbolträchtiger Ort, der von der Verschmelzung von Kunst, Architektur und Technologie zeugt. Es liegt am Ufer des Tejo in Lissabon und verkörpert perfekt die harmonische Verbindung zwischen Ästhetik und Innovation. In diesem Artikel [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Mensch-Maschine-Schnittstelle: Was sind HMIs?"
 slug: "mensch-maschine-schnittstelle-was-sind-hmis"
 excerpt: "Definition der Mensch-Maschine-Schnittstelle Unter Mensch-Maschine-Schnittstelle versteht man alle eingesetzten Mittel und Werkzeuge, um eine effektive Interaktion zwischen einem menschlichen Benutzer und einem Computersystem zu ermöglichen. Es umfasst alles von der visuellen Gestaltung von Bildschirmen über Eingabegeräte wie Tastatur und Maus bis hin zu Touch- und Sprachschnittstellen. Die historische Entwicklung von HMI HMIs haben seit dem [&hellip;]"

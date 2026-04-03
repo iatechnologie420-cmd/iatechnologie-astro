@@ -1,4 +1,5 @@
 ---
+
 title: "Robotik: semua yang anda perlu tahu tentang sains dan kejuruteraan robot"
 slug: "robotik-semua-yang-anda-perlu-tahu-tentang-sains-dan-kejuruteraan-robot"
 excerpt: "Memahami sains di sebalik mesin Robotik ialah cabang teknologi yang menarik yang menggabungkan pelbagai bidang pengetahuan untuk mencipta mesin yang mampu melaksanakan tugas secara autonomi atau separa autonomi. Dalam artikel ini, kita akan meneroka asas robotik, memahami prinsip asas yang membolehkan robot beroperasi dan mempertimbangkan kesan teknologi ini dalam kehidupan seharian kita. Definisi dan sejarah [&hellip;]"

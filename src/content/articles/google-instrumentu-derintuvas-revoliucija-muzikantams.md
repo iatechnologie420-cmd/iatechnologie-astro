@@ -1,4 +1,5 @@
 ---
+
 title: "„Google“ instrumentų derintuvas: revoliucija muzikantams?"
 slug: "google-instrumentu-derintuvas-revoliucija-muzikantams"
 excerpt: "Muzikos instrumentų derinimo svarba Derinimas yra vienas iš svarbiausių aspektų, kai kalbama apie grojimą muzikos instrumentu. Nesvarbu, ar esate pradedantysis, ar patyręs muzikantas, turite reguliariai derinti savo instrumentą, kad gautumėte geriausią įmanomą garsą. Šiame straipsnyje mes išnagrinėsime muzikos instrumentų derinimo svarbą ir pateiksime keletą patarimų, kaip užtikrinti, kad instrumentas visada būtų suderintas, kartu supažindinsime su [&hellip;]"

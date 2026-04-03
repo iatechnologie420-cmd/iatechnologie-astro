@@ -1,4 +1,5 @@
 ---
+
 title: "Pemasaran AI: teknologi untuk manfaat perniagaan?"
 slug: "pemasaran-ai-teknologi-untuk-manfaat-perniagaan"
 excerpt: "Kecerdasan Buatan (AI) secara beransur-ansur muncul sebagai kuasa transformatif untuk pemasaran. Mencipta semula pemasaran dengan AI, memahami implikasinya untuk pemasaran jenama, dan potensi interaksi menjimatkan masa, meningkatkan kecekapan dan membuka jalan kepada kaedah baharu penglibatan pengguna. Pertumbuhan ini menandakan peralihan daripada pemasaran tradisional kepada pemasaran yang lebih termaklum, diperibadikan dan masa nyata. Revolusi pemasaran dengan [&hellip;]"

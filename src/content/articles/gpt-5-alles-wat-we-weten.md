@@ -1,4 +1,5 @@
 ---
+
 title: "GPT-5: alles wat we weten"
 slug: "gpt-5-alles-wat-we-weten"
 excerpt: "De evolutie van kunstmatige intelligentie: van GPT-3 naar GPT-5 De snelle voortgang vangeneratieve kunstmatige intelligentie in het technologische landschap wordt op dit moment gedreven door het fenomeen ChatGPT. Beginnend met GPT-3 werd vervolgens, in afwachting van GPT-4, een tussenversie GPT-3.5 ontwikkeld door OpenAI. Maar de echte revolutie broeit met het vooruitzicht op de toekomstige GPT-5, [&hellip;]"

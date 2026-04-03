@@ -1,4 +1,5 @@
 ---
+
 title: "AWS Awan – Semua yang anda perlu tahu tentang awan Perkhidmatan Web Amazon"
 slug: "aws-awan-semua-yang-anda-perlu-tahu-tentang-awan-perkhidmatan-web-amazon"
 excerpt: "Pengenalan kepada Perkhidmatan Web Amazon (AWS): revolusi dalam pengkomputeran awan Sejak diwujudkan pada tahun 2006, Perkhidmatan Web Amazon (AWS) telah mengubah secara radikal landskap IT dengan menyampaikan platform perkhidmatan awan yang memberikan fleksibiliti, skala dan skala ekonomi yang belum pernah terjadi sebelumnya. Pengenalan ini bertujuan untuk menjelaskan prinsip operasi bagiAWS dan untuk menjelaskan mengapa penyelesaian [&hellip;]"

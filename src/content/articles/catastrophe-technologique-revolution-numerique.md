@@ -1,4 +1,5 @@
 ---
+
 title: "Catastrophe technologique : la révolution numérique tourne au cauchemar ?"
 slug: "catastrophe-technologique-revolution-numerique"
 excerpt: "L&#8217;impact de la révolution numérique sur notre société La révolution numérique qui caractérise notre époque a bouleversé de nombreux aspects de notre société. Les technologies numériques et l&#8217;accès à internet ont transformé notre façon de communiquer, de travailler, de consommer et même de vivre. Cet article explore les conséquences de cette révolution sur notre quotidien [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Esimese serveri valimine: samm-sammult juhend"
 slug: "esimese-serveri-valimine-samm-sammult-juhend"
 excerpt: "Serveritüüpide erinevuste mõistmine Serverid mängivad muude ülesannete hulgas olulist rolli võrkude käitamisel, veebisaitide hostimisel, andmete salvestamisel ja andmetöötluse toetamisel. Need võimsad masinad võivad olla erineval kujul, millest igaühel on oma eripärad ja ideaalne kasutus. Selle artikli eesmärk on läbi vaadata peamised serveri tüübid ja nende erinevusi, et neid paremini mõista. Füüsilised serverid THE füüsilised serverid, [&hellip;]"

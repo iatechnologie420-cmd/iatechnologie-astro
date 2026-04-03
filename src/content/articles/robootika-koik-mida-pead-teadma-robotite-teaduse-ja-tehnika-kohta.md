@@ -1,4 +1,5 @@
 ---
+
 title: "Robootika: kõik, mida pead teadma robotite teaduse ja tehnika kohta"
 slug: "robootika-koik-mida-pead-teadma-robotite-teaduse-ja-tehnika-kohta"
 excerpt: "Masinate taga oleva teaduse mõistmine Robootika on põnev tehnoloogiaharu, mis ühendab erinevaid teadmiste valdkondi, et luua masinaid, mis suudavad ülesandeid täita iseseisvalt või poolautonoomselt. Selles artiklis uurime robootika aluseid, mõistame põhiprintsiipe, mis võimaldavad robotitel töötada, ja kaalume nende tehnoloogiate mõju meie igapäevaelus. Robootika mõiste ja ajalugu Termin robootika viitab robotite uurimisele, projekteerimisele ja rakendamisele. Kuigi [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Spesielle tastaturtegn: Topp snarveier å vite (på Windows og Mac)"
 slug: "spesielle-tastaturtegn-topp-snarveier-a-vite-pa-windows-og-mac"
 excerpt: "Spesialtegn er symboler eller tegn som ikke samsvarer med standard bokstaver og tall på et tradisjonelt tastatur. Bruken av disse spesialtegnene er av stor betydning i ulike sammenhenger som dataprogrammering, tekstskriving, passordsikkerhet og matematisk eller vitenskapelig dataregistrering. I programmering, spesialtegn er avgjørende. De lar deg utføre spesifikke operasjoner, for eksempel å skille tegnstrenger eller representere [&hellip;]"

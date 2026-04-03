@@ -1,4 +1,5 @@
 ---
+
 title: "Alan Turing og fæðing gervigreindar"
 slug: "alan-turing-og-faeding-gervigreindar"
 excerpt: "Alan Turing: stofnfaðir gervigreindar Alan Turing: stofnfaðir gervigreindarSögu gervigreindar (AI) var ekki hægt að segja alveg án þess að nefna nafn Alan Turing, sem af mörgum er talinn vera upphafsfaðir þessa sviðs sem í dag er að gjörbylta svo mörgum þáttum í daglegu lífi okkar. Framlag hans nær langt út fyrir einfalda uppfinningu; það er [&hellip;]"

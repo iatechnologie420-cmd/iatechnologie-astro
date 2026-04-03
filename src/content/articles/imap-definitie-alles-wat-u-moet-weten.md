@@ -1,4 +1,5 @@
 ---
+
 title: "IMAP-definitie: alles wat u moet weten"
 slug: "imap-definitie-alles-wat-u-moet-weten"
 excerpt: "Inleiding tot IMAP Internet Message Access Protocol (IMAP) is een communicatiestandaard waarmee gebruikers hun e-mails rechtstreeks op e-mailservers kunnen ontvangen en beheren, wat afwijkt van de traditionele aanpak waarbij e-mails worden gedownload naar de lokale e-mailclient. Dit brengt veel praktische voordelen met zich mee, vooral in een wereld waarin we vanaf meerdere apparaten toegang hebben [&hellip;]"

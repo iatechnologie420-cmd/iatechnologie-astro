@@ -1,4 +1,5 @@
 ---
+
 title: "Hyundai: Wie revolutioniert Technologie die Automobilindustrie?"
 slug: "hyundai-wie-revolutioniert-technologie-die-automobilindustrie"
 excerpt: "Die digitale Transformation hat die Art und Weise, wie wir mit Produkten und Dienstleistungen interagieren, erheblich verändert, und die Automobilindustrie bildet da keine Ausnahme. Ein hervorragendes Beispiel für diese Entwicklung ist in zu sehen Hyundai, dem es gelungen ist, die neuesten technologischen Fortschritte in seine Produktion und seinen Betrieb zu integrieren, um an der Spitze [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "What is deep tech? definition and examples"
 slug: "what-is-deep-tech-definition-and-examples"
 excerpt: "There Deep Tech, or cutting-edge technology, represents a revolution in the world of startups and innovation today. It stands out from more conventional technologies by the depth of its changes and its disruptive potential. But what do we really mean by Deep Tech, and how is it different from other types of technology? Definition of [&hellip;]"

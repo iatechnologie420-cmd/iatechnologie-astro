@@ -1,4 +1,5 @@
 ---
+
 title: "Hvað er sjálfvirkur kóðari? Fullkominn leiðarvísir!"
 slug: "hvad-er-sjalfvirkur-kodari-fullkominn-leidarvisir"
 excerpt: "Autoencoders, eða sjálfkóðunartæki á ensku, staðsetja sig sem öflug tæki á sviði vélanáms og gervigreindar. Þessi sérstöku tauganet eru notuð til að minnka víddar, greina frávik, gagnasnúning og fleira. Þessi grein veitir kynningu á þessari heillandi tækni, undirstrikar vinnureglu hennar, notkun hennar og vaxandi mikilvægi hennar í rannsóknum og iðnaði. Hvað er sjálfvirkur kóðari? A [&hellip;]"

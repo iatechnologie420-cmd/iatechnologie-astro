@@ -1,4 +1,5 @@
 ---
+
 title: "Kas yra giliosios technologijos? apibrėžimas ir pavyzdžiai"
 slug: "kas-yra-giliosios-technologijos-apibrezimas-ir-pavyzdziai"
 excerpt: "Ten Deep Tech, arba pažangiausios technologijos, šiandien reiškia revoliuciją startuolių ir inovacijų pasaulyje. Iš įprastesnių technologijų jis išsiskiria savo pokyčių gyliu ir galimu trikdymu. Bet ką mes iš tikrųjų turime omenyje sakydami Deep Tech, ir kuo ji skiriasi nuo kitų technologijų? Deep Tech apibrėžimas Terminas Deep Tech reiškia technologijas, kurios yra pagrįstos reikšmingais mokslo atradimais [&hellip;]"

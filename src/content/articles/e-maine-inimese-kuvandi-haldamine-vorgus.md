@@ -1,4 +1,5 @@
 ---
+
 title: "E-maine: inimese kuvandi haldamine võrgus"
 slug: "e-maine-inimese-kuvandi-haldamine-vorgus"
 excerpt: "E-maine ja selle tähtsuse mõistmine Digitehnoloogiate jätkuva arengu ja sotsiaalmeedia üha suureneva integreerimisega meie igapäevaellu one-maine on muutunud üksikisikute ja ettevõtete jaoks otsustavaks teguriks. See koosneb kogu Internetis leiduvast teabest, mis mõjutab üldsuse ettekujutust kaubamärgist, ettevõttest või isikust. L&#8217;e-maine seda kujundavad kommentaarid, arvamused, pildid ja suhtlus erinevatel platvormidel, nagu sotsiaalvõrgustikud, ajaveebid, foorumid või ülevaatesaidid. Ettevõtte [&hellip;]"

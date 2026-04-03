@@ -1,4 +1,5 @@
 ---
+
 slug: "article-63"
 title: "ຄູ່ມືການລັອກຄອມພິວເຕີຂອງທ່ານ (PC, Mac, Windows, ແລະອື່ນໆ)"
 slug: ""

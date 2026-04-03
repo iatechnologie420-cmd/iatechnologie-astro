@@ -1,4 +1,5 @@
 ---
+
 title: "De PORTER-waardeketen | Concrete voorbeelden om te begrijpen"
 slug: "de-porter-waardeketen-concrete-voorbeelden-om-te-begrijpen"
 excerpt: "Inzicht in de Michael Porter-waardeketen De waardeketen is een concept ontwikkeld door de Amerikaanse econoom en academicus Michaël Porter in zijn werk &#8220;Competitive Advantage&#8221;, gepubliceerd in 1985. Dit model is essentieel voor het analyseren van de interne activiteiten van een bedrijf om de gecreëerde waarde en concurrentievoordelen ervan te optimaliseren. Dit artikel geeft u een [&hellip;]"

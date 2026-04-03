@@ -1,4 +1,5 @@
 ---
+
 title: "Google&#8217;i mäng Morpion: kuidas seda mängida ja tehisintellekti võita?"
 slug: "googlei-mang-morpion-kuidas-seda-mangida-ja-tehisintellekti-voita"
 excerpt: "Google&#8217;i Tic-Toe mängu reeglid Mängu eesmärk Morpioni mäng, mida nimetatakse ka Tic-tac-toe&#8217;iks, on strateegiamäng, mida mängitakse 3&#215;3 ruudustikul. Eesmärk on rivistada kolm identset sümbolit (rist või ring) horisontaalselt, vertikaalselt või diagonaalselt vastase ees. Seadistage Google Tic Toe mäng on saadaval võrgus ja seda saab mängida erinevates seadmetes, sealhulgas nutitelefonides, tahvelarvutites või arvutites. Alustamiseks minge lihtsalt [&hellip;]"

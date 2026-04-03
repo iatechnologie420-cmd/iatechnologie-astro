@@ -1,4 +1,5 @@
 ---
+
 title: "O MAAT: uma mistura de arte, arquitetura e tecnologia?"
 slug: "o-maat-uma-mistura-de-arte-arquitetura-e-tecnologia"
 excerpt: "A história do MAAT: uma mistura de arte e arquitetura O MAAT, sigla para Museu de Arte, Arquitetura e Tecnologias, é um local emblemático que testemunha a fusão entre arte, arquitetura e tecnologia. Situado às margens do Tejo, em Lisboa, encarna na perfeição o casamento harmonioso entre estética e inovação. Neste artigo, mergulhamos na fascinante [&hellip;]"

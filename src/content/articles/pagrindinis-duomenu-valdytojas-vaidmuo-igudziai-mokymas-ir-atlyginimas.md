@@ -1,4 +1,5 @@
 ---
+
 title: "Pagrindinis duomenų valdytojas: vaidmuo, įgūdžiai, mokymas ir atlyginimas"
 slug: "pagrindinis-duomenu-valdytojas-vaidmuo-igudziai-mokymas-ir-atlyginimas"
 excerpt: "Pagrindinis duomenų valdytojo vaidmuo duomenų valdyme Pasaulyje, kuriame duomenys tapo svarbiu strateginiu verslo turtu, duomenų valdymas yra būtina siekiant užtikrinti informacijos kokybę, saugumą ir veiksmingumą. Šio valdymo centre yra Pagrindinis duomenų valdytojas (MDM) vaidina lemiamą vaidmenį. Išnagrinėkime kartu šios strateginės pozicijos atsakomybę ir poveikį. Kas yra pagrindinių duomenų valdymas? Prieš sutelkiant dėmesį į pagrindinių duomenų [&hellip;]"

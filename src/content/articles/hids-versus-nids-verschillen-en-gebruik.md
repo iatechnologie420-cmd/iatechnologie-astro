@@ -1,4 +1,5 @@
 ---
+
 title: "HIDS versus NIDS: verschillen en gebruik"
 slug: "hids-versus-nids-verschillen-en-gebruik"
 excerpt: "Inleiding tot inbraakdetectiesystemen: HIDS en NIDS De beveiliging van informatiesystemen is een centrale zorg voor bedrijven en organisaties van elke omvang. Geconfronteerd met de toenemende dreigingen en de verfijning van cyberaanvallen is het absoluut noodzakelijk om effectieve verdedigingsmechanismen in te voeren. Onder deze, de inbraakdetectiesystemen (IDS) spelen een cruciale rol bij het monitoren van computernetwerken [&hellip;]"

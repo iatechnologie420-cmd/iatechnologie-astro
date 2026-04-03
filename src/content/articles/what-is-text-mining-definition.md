@@ -1,4 +1,5 @@
 ---
+
 title: "What is text mining? definition"
 slug: "what-is-text-mining-definition"
 excerpt: "Introduction to text mining THE text mining, or text mining in French, is a branch of data science that focuses on extracting useful information from large sets of text data. Often associated with natural language processing (NLP), text mining involves a set of techniques and tools capable of understanding, analyzing and processing human language collected [&hellip;]"

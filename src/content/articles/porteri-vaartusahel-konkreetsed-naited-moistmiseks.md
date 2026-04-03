@@ -1,4 +1,5 @@
 ---
+
 title: "PORTERi väärtusahel | Konkreetsed näited mõistmiseks"
 slug: "porteri-vaartusahel-konkreetsed-naited-moistmiseks"
 excerpt: "Michael Porteri väärtusahela mõistmine Väärtusahel on Ameerika majandusteadlase ja akadeemiku poolt välja töötatud kontseptsioon Michael Porter oma 1985. aastal ilmunud töös &#8220;Konkurentsieelis&#8221;. See mudel on hädavajalik ettevõtte sisetegevuse analüüsimiseks, et optimeerida selle loodud väärtust ja konkurentsieelisi. See artikkel annab teile juhendi Michael Porteri väärtusahela mõistmiseks ja kasutamiseks. Väärtusahela definitsioon Väärtusahel esindab kõiki tegevusi, mida ettevõte [&hellip;]"

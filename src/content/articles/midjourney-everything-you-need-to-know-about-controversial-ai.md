@@ -1,4 +1,5 @@
 ---
+
 title: "MidJourney: everything you need to know about controversial AI"
 slug: "midjourney-everything-you-need-to-know-about-controversial-ai"
 excerpt: "Understanding MidJourney MidJourney is powerful artificial intelligence, transforming the way we interact with technology. Use this guide as a resource to understand its origins and key functions. What is MidJourney? MidJourney is a tool artificial intelligence avant-garde designed to improve and facilitate our daily interactions with new technologies. It is part of the ever-growing landscape [&hellip;]"

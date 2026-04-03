@@ -1,4 +1,5 @@
 ---
+
 title: "Þessir leikir þar sem gervigreind berja menn"
 slug: "thessir-leikir-thar-sem-gervigreind-berja-menn"
 excerpt: "Dögun ofurtölva og skákáskorunin Tímabil ofurtölva er ekki lengur fjarlæg framtíðarsýn, heldur áþreifanlegur veruleiki sem er að gjörbylta ýmsum geirum, þar á meðal herkænskuleikjum eins og skák. Þessar vélar með stórkostlegan tölvuafli bjóða upp á kjörinn leikvöll til að kanna landamæri gervigreindar og takast á við skákáskorunina með því að spyrja grundvallarspurningarinnar: Hverjir eru raunverulegir [&hellip;]"

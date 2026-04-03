@@ -1,4 +1,5 @@
 ---
+
 title: "Portafoglio anti-RFID: perché non ti serve"
 slug: "portafoglio-anti-rfid-perche-non-ti-serve"
 excerpt: "Comprendere la tecnologia RFID e i suoi rischi Cos&#8217;è l&#8217;RFID? Là Identificazione della frequenza radio (RFID) è una tecnologia che consente l&#8217;identificazione automatica di oggetti, animali o persone mediante onde radio. Utilizza piccoli dispositivi elettronici chiamati etichette O Tag RFID, che memorizzano i dati e trasmettono queste informazioni a un lettore RFID. I tag possono [&hellip;]"

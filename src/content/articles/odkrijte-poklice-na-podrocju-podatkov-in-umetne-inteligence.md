@@ -1,4 +1,5 @@
 ---
+
 title: "Odkrijte poklice na področju podatkov in umetne inteligence"
 slug: "odkrijte-poklice-na-podrocju-podatkov-in-umetne-inteligence"
 excerpt: "Uvod v poklice na področju podatkov in umetne inteligence Vzpon podatkov in umetne inteligence (AI) je povzročil obilico inovativnih in raznolikih poklicev. V središču digitalne revolucije so te specializacije postale bistvenega pomena za podjetja, ki želijo izkoristiti potencial podatkov in inteligentne avtomatizacije. Razumevanje podatkovnih poklicev Podatkovna znanost, pravo stičišče statistike, analize podatkov in informacijske tehnologije, [&hellip;]"

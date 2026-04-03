@@ -1,4 +1,5 @@
 ---
+
 title: "GPT-5: tot ce știm"
 slug: "gpt-5-tot-ce-stim"
 excerpt: "Evoluția inteligenței artificiale: de la GPT-3 la GPT-5 Progresia meteorică ainteligența artificială generativă în peisajul tehnologic este condus chiar în acest moment de fenomen ChatGPT. Începând cu GPT-3 apoi, în așteptarea GPT-4, o versiune intermediară GPT-3.5 a fost dezvoltată de către OpenAI. Dar adevărata revoluție se așteaptă cu anticiparea viitorului GPT-5, promis a fi mai [&hellip;]"

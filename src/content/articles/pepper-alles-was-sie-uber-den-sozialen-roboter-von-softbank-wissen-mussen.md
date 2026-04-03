@@ -1,4 +1,5 @@
 ---
+
 title: "Pepper: Alles, was Sie über den sozialen Roboter von SoftBank wissen müssen"
 slug: "pepper-alles-was-sie-uber-den-sozialen-roboter-von-softbank-wissen-mussen"
 excerpt: "Pepper: Präsentation und Grundfunktionen Zusammenfassung Der soziale Roboter Pfeffer ist eine technologische Leistung, die darauf abzielt, mit Menschen in einem sozialen Umfeld zu interagieren. Ausgestattet mit zahlreichen Sensoren und fortschrittlicher KI versteht Pepper unsere Emotionen, reagiert darauf und passt sich gleichzeitig unserem Verhalten an. In diesem Artikel stellen wir die Grundfunktionen von Pepper sowie seine [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Faut-il investir dans l&#8217;intelligence artificielle dès maintenant ?"
 slug: "faut-il-investir-dans-l-ia"
 excerpt: "Avant de répondre oui ou non si c&#8217;est le moment d&#8217;investir dans l&#8217;IA, passons en revue l&#8217;historique de l&#8217;IA pour remettre les choses en contextes et prendre une décision réfléchie. L&#8217;évolution de l&#8217;intelligence artificielle L&#8217;IA conventionnelle L&#8217;IA conventionnelle, également connue sous le nom de &#8220;IA faible&#8221;, a connu ses débuts dans les années 1950. À [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Spot: pes robot iz Boston Dynamics"
 slug: "spot-pes-robot-iz-boston-dynamics"
 excerpt: "Odkritje Spota, psa robota podjetja Boston Dynamics Slovi kot smetana sodobne robotike, Spot, pes robot podjetja Boston Dynamics, je povzročil šok v svetu novih tehnologij. Zasnovan, da nadomesti svoje vrstnike, je simbolični primer živalskih robotov, ki so pripravljeni nadomestiti svoje modele. Spot, tehnološka revolucija Spot popolnoma uteleša ta tehnološki napredek. Njegovo zasnovo je vodila ideja [&hellip;]"

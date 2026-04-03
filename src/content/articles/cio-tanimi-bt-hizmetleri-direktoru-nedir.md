@@ -1,4 +1,5 @@
 ---
+
 title: "CIO tanımı: BT Hizmetleri Direktörü nedir?"
 slug: "cio-tanimi-bt-hizmetleri-direktoru-nedir"
 excerpt: "BT Hizmetleri Direktörünün rolü ve misyonları BT Hizmetleri Direktörünün temel rolü THE BT Hizmetleri Direktörü, Ayrıca şöyle bilinir CIO Veya Bilgi Sistemleri Direktörü, modern şirketler içerisinde stratejik bir yere sahiptir. Bilgi ve teknolojinin mesleki faaliyetlerin temeli haline geldiği dijital çağda, kişinin sorumluluklarını ve misyonlarını anlaması çok önemlidir. Bu makale CIO&#8217;nun işlevi ve öneminin tam bir [&hellip;]"

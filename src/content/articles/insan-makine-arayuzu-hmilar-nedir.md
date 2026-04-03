@@ -1,4 +1,5 @@
 ---
+
 title: "İnsan-Makine Arayüzü: HMI&#8217;lar nedir?"
 slug: "insan-makine-arayuzu-hmilar-nedir"
 excerpt: "İnsan-Makine Arayüzünün Tanımı İnsan-makine arayüzü, bir insan kullanıcı ile bir bilgisayar sistemi arasında etkili etkileşimi sağlamak için uygulanan tüm araç ve araçları ifade eder. Ekranların görsel tasarımından klavye, fare gibi giriş aygıtlarına ve hatta dokunma ve ses arayüzlerine kadar her şeyi kapsar. HMI&#8217;ın tarihsel gelişimi HMI&#8217;lar bilgi işlemin ortaya çıkışından bu yana önemli bir evrim [&hellip;]"

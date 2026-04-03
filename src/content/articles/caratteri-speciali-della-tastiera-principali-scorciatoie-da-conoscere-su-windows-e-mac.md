@@ -1,4 +1,5 @@
 ---
+
 title: "Caratteri speciali della tastiera: principali scorciatoie da conoscere (su Windows e Mac)"
 slug: "caratteri-speciali-della-tastiera-principali-scorciatoie-da-conoscere-su-windows-e-mac"
 excerpt: "I caratteri speciali sono simboli o segni che non corrispondono alle lettere e ai numeri standard di una tastiera tradizionale. L&#8217;uso di questi caratteri speciali è di grande importanza in vari contesti come la programmazione informatica, la scrittura di testi, la sicurezza delle password e l&#8217;immissione di dati matematici o scientifici. Nella programmazione, i caratteri [&hellip;]"

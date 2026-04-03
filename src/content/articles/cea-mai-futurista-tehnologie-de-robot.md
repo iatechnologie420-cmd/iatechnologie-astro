@@ -1,4 +1,5 @@
 ---
+
 title: "Cea mai futuristă tehnologie de robot"
 slug: "cea-mai-futurista-tehnologie-de-robot"
 excerpt: "Descoperirea roboților revoluționari THE roboți revoluționari nu mai sunt science-fiction, acum fac parte din viața noastră de zi cu zi și transformă diverse industrii în moduri noi. Creștereainteligenţă artificială (AI) și robotică avansată deschide ușa către o eră în care automatizarea devine mai adaptabilă, autonomă și mai integrată în activitățile umane. În acest articol, vom [&hellip;]"

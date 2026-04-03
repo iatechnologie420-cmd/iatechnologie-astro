@@ -1,4 +1,5 @@
 ---
+
 title: "Czy powinniśmy już teraz inwestować w sztuczną inteligencję?"
 slug: "czy-powinnismy-juz-teraz-inwestowac-w-sztuczna-inteligencje"
 excerpt: "Zanim odpowiemy „tak” lub „nie”, czy teraz jest czas na inwestowanie w sztuczną inteligencję, przejrzyjmy historię sztucznej inteligencji, aby umieścić rzeczy w kontekście i podjąć przemyślaną decyzję. Ewolucja sztucznej inteligencji Konwencjonalna sztuczna inteligencja Konwencjonalna sztuczna inteligencja, zwana także „słabą sztuczną inteligencją”, miała swoje początki w latach 50. XX w. W tamtym czasie badacze skupiali się [&hellip;]"

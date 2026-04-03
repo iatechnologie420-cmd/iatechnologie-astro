@@ -1,4 +1,5 @@
 ---
+
 title: "O que é tecnologia profunda? definição e exemplos"
 slug: "o-que-e-tecnologia-profunda-definicao-e-exemplos"
 excerpt: "Lá Tecnologia Profunda, ou tecnologia de ponta, representa uma revolução no mundo das startups e da inovação hoje. Destaca-se das tecnologias mais convencionais pela profundidade das suas mudanças e pelo seu potencial disruptivo. Mas o que realmente queremos dizer com Tecnologia Profundae como ela difere de outros tipos de tecnologia? Definição de tecnologia profunda O [&hellip;]"

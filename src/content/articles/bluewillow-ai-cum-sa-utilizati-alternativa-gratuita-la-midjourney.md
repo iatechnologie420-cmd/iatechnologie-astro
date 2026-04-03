@@ -1,4 +1,5 @@
 ---
+
 title: "BlueWillow AI: cum să utilizați alternativa gratuită la MidJourney?"
 slug: "bluewillow-ai-cum-sa-utilizati-alternativa-gratuita-la-midjourney"
 excerpt: "În lumea în continuă evoluție a IA generativă, alternative ca BlueWillow AI oferă soluții accesibile pentru cei care doresc să valorifice puterea acestui tip de tehnologie. Cunoscut caalternativă gratuită la MidJourney, BlueWillow AI reprezintă un progres semnificativ, în special prin utilizarea metodei inovatoare Stable Diffusion. Alternativă esențială la MidJourney BlueWillow AI este poziționat ca o [&hellip;]"

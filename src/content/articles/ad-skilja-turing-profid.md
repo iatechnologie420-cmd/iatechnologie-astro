@@ -1,4 +1,5 @@
 ---
+
 title: "Að skilja Turing prófið"
 slug: "ad-skilja-turing-profid"
 excerpt: "Uppruni og meginreglur Turing prófsins Í heimi gervigreindar (AI) og tölvunar skipar Turing prófið áberandi sess. Þetta er viðmiðunaraðferð sem er hönnuð til að meta getu vélar til að líkja eftir mannlegri greind. Uppruni og meginreglur þessa byltingarkennda prófs ná aftur til miðrar 20. aldar og eru byggðar á flóknum heimspeki- og reiknihugtökum. Saga Turing [&hellip;]"

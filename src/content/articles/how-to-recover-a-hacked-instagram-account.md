@@ -1,4 +1,5 @@
 ---
+
 title: "How to recover a hacked Instagram account?"
 slug: "how-to-recover-a-hacked-instagram-account"
 excerpt: "Identifying a compromised Instagram account With the constant increase in users on social platforms like Instagram, the risks of account hacking have intensified. Know how to identify if your account Instagram has been compromised is essential to be able to act quickly and effectively. In this article, let&#8217;s learn about the warning signs of a [&hellip;]"

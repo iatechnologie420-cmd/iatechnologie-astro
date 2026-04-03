@@ -1,4 +1,5 @@
 ---
+
 title: "Entdecken Sie die Berufe Daten und Künstliche Intelligenz"
 slug: "entdecken-sie-die-berufe-daten-und-kunstliche-intelligenz"
 excerpt: "Einführung in die Berufe Daten und Künstliche Intelligenz Der Aufstieg von Daten und künstlicher Intelligenz (KI) hat eine Fülle innovativer und vielfältiger Berufe hervorgebracht. Im Zentrum der digitalen Revolution sind diese Spezialisierungen für Unternehmen, die das Potenzial von Daten und intelligenter Automatisierung nutzen möchten, unverzichtbar geworden. Die Datenberufe verstehen Data Science, eine echte Schnittstelle zwischen [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "iCloud-prijzen: vergelijking van de verschillende prijzen en mogelijke abonnementen"
 slug: "icloud-prijzen-vergelijking-van-de-verschillende-prijzen-en-mogelijke-abonnementen"
 excerpt: "iCloud is een cloudopslagdienst die wordt aangeboden door Appel waarmee gegevens zoals documenten, foto&#8217;s en muziek kunnen worden opgeslagen op externe servers om te downloaden naar iOS-, Mac- of Windows-apparaten. Het biedt ook de mogelijkheid om gegevens tussen verschillende apparaten te synchroniseren en eenvoudig bestanden te delen. In dit artikel onderzoeken we de verschillende iCloud-opslagopties [&hellip;]"

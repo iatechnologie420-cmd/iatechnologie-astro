@@ -1,4 +1,5 @@
 ---
+
 title: "PyGraft: kõik, mida peate teadma avatud lähtekoodiga Pythoni tööriista DataViz jaoks"
 slug: "pygraft-koik-mida-peate-teadma-avatud-lahtekoodiga-pythoni-tooriista-dataviz-jaoks"
 excerpt: "PyGraft: avatud lähtekoodiga DataVizi uus täht PyGraft on paljulubav tööriist, mis on loodud andmeprofessionaalidele ja entusiastidele rikastava ja võimsa kogemuse pakkumiseks andmete visualiseerimiste loomisel. Täiustatud töötlemisvõimalused ja märkimisväärne paindlikkus, PyGraft on projekt avatud lähtekoodiga millest on juba räägitud. Kuid mis on PyGraft ja kuidas see võib teie lähenemist DataVizile revolutsiooniliselt muuta? Sukeldume sellesse sissejuhatavasse juhendisse, [&hellip;]"

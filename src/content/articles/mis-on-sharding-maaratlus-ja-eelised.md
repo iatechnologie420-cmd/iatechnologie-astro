@@ -1,4 +1,5 @@
 ---
+
 title: "Mis on Sharding? määratlus ja eelised"
 slug: "mis-on-sharding-maaratlus-ja-eelised"
 excerpt: "Shardingi mõistmine: määratlus ja põhiprintsiibid Andmebaaside ja suuremahuliste andmehoidlate maailm on keeruline ja pidevalt arenev. Eksponentsiaalselt kasvavate andmemahtude tõhusaks haldamiseks peavad IT-arhitektuurid uuendusi tegema ja leidma lahendusi nende andmete toimivuse ja haldamise optimeerimiseks. Üks lähenemisviis sellele probleemile on tehnika nn killustamine. Selles artiklis määratleme jagamise, mõistame selle põhiprintsiipe ja miks see on tänapäevastes andmebaasisüsteemides hädavajalik. [&hellip;]"

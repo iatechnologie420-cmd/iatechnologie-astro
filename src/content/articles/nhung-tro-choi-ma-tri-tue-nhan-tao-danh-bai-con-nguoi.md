@@ -1,4 +1,5 @@
 ---
+
 title: "Những trò chơi mà trí tuệ nhân tạo đánh bại con người"
 slug: "nhung-tro-choi-ma-tri-tue-nhan-tao-danh-bai-con-nguoi"
 excerpt: "Bình minh của siêu máy tính và thử thách cờ vua Kỷ nguyên của siêu máy tính không còn là một viễn cảnh tương lai xa vời nữa mà là một thực tế hữu hình đang cách mạng hóa nhiều lĩnh vực khác nhau, bao gồm cả các trò chơi chiến lược như cờ vua. [&hellip;]"

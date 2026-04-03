@@ -1,4 +1,5 @@
 ---
+
 title: "Turing testini anlamak"
 slug: "turing-testini-anlamak"
 excerpt: "Turing testinin kökenleri ve ilkeleri Yapay zeka (AI) ve bilgi işlem dünyasında Turing testi önemli bir yere sahiptir. Bu, bir makinenin insan zekasını taklit etme yeteneğini değerlendirmek için tasarlanmış bir kıyaslama yöntemidir. Bu devrim niteliğindeki testin kökenleri ve ilkeleri 20. yüzyılın ortalarına kadar uzanmaktadır ve karmaşık felsefi ve hesaplamalı kavramlara dayanmaktadır. Turing Testinin Tarihçesi Turing [&hellip;]"

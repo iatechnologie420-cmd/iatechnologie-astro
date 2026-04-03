@@ -1,4 +1,5 @@
 ---
+
 title: "Harga iCloud: perbandingan harga yang berbeza dan kemungkinan rancangan"
 slug: "harga-icloud-perbandingan-harga-yang-berbeza-dan-kemungkinan-rancangan"
 excerpt: "iCloud ialah perkhidmatan storan awan yang ditawarkan oleh epal yang membenarkan data seperti dokumen, foto dan muzik disimpan pada pelayan jauh untuk dimuat turun ke peranti iOS, Mac atau Windows. Ia juga menyediakan keupayaan untuk menyegerakkan data antara peranti yang berbeza dan berkongsi fail dengan mudah. Dalam artikel ini, kami akan meneroka pilihan storan iCloud [&hellip;]"

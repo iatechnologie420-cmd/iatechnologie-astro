@@ -1,4 +1,5 @@
 ---
+
 title: "Chủ nghĩa nhận thức: Trí thông minh của chúng ta có phải là nhân tạo?"
 slug: "chu-nghia-nhan-thuc-tri-thong-minh-cua-chung-ta-co-phai-la-nhan-tao"
 excerpt: "Nguồn gốc của chủ nghĩa nhận thức và trí thông minh của con người Nguồn gốc của chủ nghĩa nhận thức CÁC chủ nghĩa nhận thức là một cách tiếp cận trong tâm lý học tập trung vào các cơ chế bên trong của suy nghĩ, coi tâm trí con người như một hệ thống [&hellip;]"

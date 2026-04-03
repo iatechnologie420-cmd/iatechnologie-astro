@@ -1,4 +1,5 @@
 ---
+
 title: "Segway Navimow 리뷰: 미래의 자율 잔디 깎는 기계?"
 slug: "segway-navimow-5"
 excerpt: "Segway Navimow 자율 잔디 깎는 기계의 장점 잔디를 깎는 일을 걱정하지 않고 정원을 마음껏 즐길 수 있다고 상상해 보세요. Segway Navimow 자율 잔디 깎는 기계 덕분에 이 지루한 작업은 이제 과거의 일이 되었습니다. 혁신적인 기능과 첨단 기술이 탑재된 이 자율 잔디깎이 기계는 일상 생활을 더욱 편리하게 만들어주는 많은 이점을 제공합니다. 1. 사용의 용이성 Segway Navimow [&hellip;]"

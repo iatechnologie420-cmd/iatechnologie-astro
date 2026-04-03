@@ -1,4 +1,5 @@
 ---
+
 title: "„iCloud“ kainos: skirtingų kainų ir galimų planų palyginimas"
 slug: "icloud-kainos-skirtingu-kainu-ir-galimu-planu-palyginimas"
 excerpt: "„iCloud“ yra debesies saugyklos paslauga, kurią siūlo Apple kuri leidžia duomenis, pvz., dokumentus, nuotraukas ir muziką, saugoti nuotoliniuose serveriuose, kad juos būtų galima atsisiųsti į iOS, Mac arba Windows įrenginius. Tai taip pat suteikia galimybę sinchronizuoti duomenis tarp skirtingų įrenginių ir lengvai bendrinti failus. Šiame straipsnyje išnagrinėsime įvairias „iCloud“ saugojimo parinktis ir kaip jos gali [&hellip;]"

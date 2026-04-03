@@ -1,4 +1,5 @@
 ---
+
 title: "Hướng dẫn khóa máy tính (PC, Mac, Windows,&#8230;)"
 slug: "huong-dan-khoa-may-tinh-pc-mac-windows"
 excerpt: "Sự cần thiết phải bảo mật máy tính của bạn Trong thời đại hiện nay, khi các hoạt động đang được số hóa với tốc độ chóng mặt, việc bảo mật máy tính của chúng ta đã trở thành mối quan tâm lớn đối với các cá nhân cũng như doanh nghiệp. Dưới đây là [&hellip;]"

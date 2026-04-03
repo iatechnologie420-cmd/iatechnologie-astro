@@ -1,4 +1,5 @@
 ---
+
 title: "4G-Antennen: Wie lässt sich 4G in Innenräumen besser erfassen?"
 slug: "4g-antennen-wie-lasst-sich-4g-in-innenraumen-besser-erfassen"
 excerpt: "Verstehen Sie, wie 4G funktioniert und welche Grenzen es hat Was ist 4G? Technologie 4G, auch bekannt als 4. Generation von Standards für die mobile Telekommunikation, ist die Fortführung der 3G und geht dem jüngsten voraus 5G. Es bietet eine schnelle mobile Internetverbindung, sodass Sie von einer besseren Datenübertragung profitieren können. Dazu gehören das Streamen [&hellip;]"

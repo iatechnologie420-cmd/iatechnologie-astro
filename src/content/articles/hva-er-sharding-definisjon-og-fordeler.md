@@ -1,4 +1,5 @@
 ---
+
 title: "Hva er Sharding? definisjon og fordeler"
 slug: "hva-er-sharding-definisjon-og-fordeler"
 excerpt: "Forstå skjæring: definisjon og grunnleggende prinsipper Verden av databaser og storskala datalagring er kompleks og i stadig utvikling. For å effektivt administrere eksponentielt økende datamengder, må IT-arkitekturer innovere og finne løsninger for å optimalisere ytelsen og administrasjonen av disse dataene. En tilnærming til dette problemet er en teknikk som kalles skjæring. I denne artikkelen vil [&hellip;]"

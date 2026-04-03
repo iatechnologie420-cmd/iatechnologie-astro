@@ -1,4 +1,5 @@
 ---
+
 title: "Antenas 4G: Como capturar melhor 4G em ambientes internos?"
 slug: "antenas-4g-como-capturar-melhor-4g-em-ambientes-internos"
 excerpt: "Entenda como funciona o 4G e seus limites O que é 4G? Tecnologia 4G, também conhecido como 4ª geração de padrões para telecomunicações móveis, é a continuação do 3G e precede o muito recente 5G. Oferece uma ligação à Internet móvel de alta velocidade, permitindo-lhe beneficiar de uma melhor transferência de dados. Isso inclui streaming [&hellip;]"

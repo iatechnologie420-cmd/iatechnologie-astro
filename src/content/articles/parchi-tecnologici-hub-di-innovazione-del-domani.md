@@ -1,4 +1,5 @@
 ---
+
 title: "Parchi tecnologici: hub di innovazione del domani?"
 slug: "parchi-tecnologici-hub-di-innovazione-del-domani"
 excerpt: "La nascita dei parchi tecnologici Questi santuari dell’innovazione, conosciuti anche come parchi scientifici o tecnopoli, hanno una ricca storia e sono in continua evoluzione; incarnano il progresso tecnico ed economico. Questo articolo si propone di esplorare le origini e lo sviluppo di questi hub tecnologici, evidenziando il loro ruolo cruciale come catalizzatori dell’innovazione e dello [&hellip;]"

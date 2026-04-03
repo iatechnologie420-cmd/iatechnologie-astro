@@ -1,4 +1,5 @@
 ---
+
 title: "Apa itu teknologi mendalam? definisi dan contoh"
 slug: "apa-itu-teknologi-mendalam-definisi-dan-contoh"
 excerpt: "Di sana Teknologi Mendalam, atau teknologi mutakhir, mewakili sebuah revolusi dalam dunia startup dan inovasi saat ini. Teknologi ini menonjol dibandingkan teknologi konvensional karena kedalaman perubahannya dan potensi disruptifnya. Tapi apa sebenarnya yang kami maksud Teknologi Mendalam, dan apa bedanya dengan jenis teknologi lainnya? Definisi Teknologi Mendalam Syarat Teknologi Mendalam mengacu pada teknologi yang didasarkan [&hellip;]"

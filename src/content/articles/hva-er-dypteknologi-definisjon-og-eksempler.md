@@ -1,4 +1,5 @@
 ---
+
 title: "Hva er dypteknologi? definisjon og eksempler"
 slug: "hva-er-dypteknologi-definisjon-og-eksempler"
 excerpt: "Der Deep Tech, eller banebrytende teknologi, representerer en revolusjon i verden av startups og innovasjon i dag. Det skiller seg ut fra mer konvensjonelle teknologier ved dybden av endringene og dets forstyrrende potensial. Men hva mener vi egentlig med Deep Tech, og hvordan er det forskjellig fra andre typer teknologi? Definisjon av Deep Tech Begrepet [&hellip;]"

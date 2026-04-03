@@ -1,4 +1,5 @@
 ---
+
 title: "Chief Data Officer (CDO): ​​Rolle, Fähigkeiten, Ausbildung und Gehalt"
 slug: "chief-data-officer-cdo-rolle-fahigkeiten-ausbildung-und-gehalt"
 excerpt: "Der strategische Platz des Chief Data Officer im Unternehmen Im Zeitalter von Big Data und Datenanalysen erkennen Unternehmen zunehmend, wie wichtig es ist, ihre Daten strategisch zu verwalten und zu nutzen. Im Zentrum dieser Anerkennung steht eine Schlüsselrolle: die Chief Data Officer (CDO). Der CDO ist für das Gleichgewicht zwischen Governance, Datenqualität, Einhaltung gesetzlicher Vorschriften [&hellip;]"

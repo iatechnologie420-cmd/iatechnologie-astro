@@ -1,4 +1,5 @@
 ---
+
 title: "Bored Ape Yat Kulübü: bilmeniz gereken her şey"
 slug: "bored-ape-yat-kulubu-bilmeniz-gereken-her-sey"
 excerpt: "Bored Ape Yat Kulübü nedir? THE Bored Ape Yat Kulübü dünyasını sarsan yeni bir olgudur Değiştirilemez Tokenlar (NFT). Bu benzersiz şekilde resimlendirilmiş sanal maymunlar, kripto dünyasında milyarder statüsünün sembolü haline geldi. Peki bu NFT&#8217;leri bu kadar özel kılan şey nedir? Ve neden bu kadar çok insanın hayal gücünü ele geçirdiler? Bu yazımızda NFT&#8217;lerin ve Bored [&hellip;]"

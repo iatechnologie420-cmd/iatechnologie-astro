@@ -1,4 +1,5 @@
 ---
+
 title: "Hoe vind ik GPS-coördinaten (breedtegraad en lengtegraad) op Google Maps?"
 slug: "hoe-vind-ik-gps-coordinaten-breedtegraad-en-lengtegraad-op-google-maps"
 excerpt: "DE GPS (Global Positioning System) is een technologie die essentieel is geworden in ons dagelijks leven. Met behulp van signalen die door satellieten worden uitgezonden, kunnen de GPS-systeem stelt ons in staat onze positie nauwkeurig te bepalen in de vorm van geografische coördinaten. Deze coördinaten worden weergegeven door twee sleutelelementen: de breedtegraad en de Lengtegraad. [&hellip;]"

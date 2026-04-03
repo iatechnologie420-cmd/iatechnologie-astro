@@ -1,4 +1,5 @@
 ---
+
 title: "Tiktok&#8217;ta ve gerçek hayatta NPC olmak&#8230;?"
 slug: "tiktokta-ve-gercek-hayatta-npc-olmak"
 excerpt: "TikTok&#8217;ta &#8220;NPC denetleyicileri&#8221; olgusu Sonsuz evrenin içinde Tiktok, oldukça benzersiz bir olgu kullanıcıların dikkatini çekti: &#8221; NPC kontrolörleri » (Oyuncu Olmayan Karakterler). Daha önce video oyunlarıyla sınırlı olan &#8220;NPC&#8221; ifadesi artık sosyal medya jargonuna da giriyor ve artırılmış gerçeklik ile sosyal etkileşimi birleştiren bir deneyimi tanımlıyor. Ancak NPC&#8217;leri kontrol etmeye yönelik bu çılgınlığın arkasında gerçekten [&hellip;]"

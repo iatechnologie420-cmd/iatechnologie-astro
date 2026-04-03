@@ -1,4 +1,5 @@
 ---
+
 title: "E-reputacija: asmens įvaizdžio valdymas internete"
 slug: "e-reputacija-asmens-ivaizdzio-valdymas-internete"
 excerpt: "Suprasti e-reputaciją ir jos svarbą Nuolat tobulėjant skaitmeninėms technologijoms ir vis labiau integruojantis socialinei žiniasklaidai į mūsų kasdienį gyvenimą,e-reputacija tapo itin svarbiu veiksniu asmenims ir įmonėms. Tai yra visa internete esanti informacija, kuri daro įtaką visuomenės suvokimui apie prekės ženklą, įmonę ar asmenį. L&#8217;e-reputacija formuoja komentarai, nuomonės, vaizdai ir sąveika įvairiose platformose, pavyzdžiui, socialiniuose tinkluose, [&hellip;]"

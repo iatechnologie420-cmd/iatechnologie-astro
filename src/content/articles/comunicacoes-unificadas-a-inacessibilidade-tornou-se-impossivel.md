@@ -1,4 +1,5 @@
 ---
+
 title: "Comunicações Unificadas: a inacessibilidade tornou-se impossível?"
 slug: "comunicacoes-unificadas-a-inacessibilidade-tornou-se-impossivel"
 excerpt: "Comunicações unificadas: definição e princípio O que são comunicações unificadas? O Comunicações unificadas (CU), ou Comunicações Unificadas em inglês, designa um conjunto de serviços e soluções que visam integrar ou unificar diversas formas de comunicação dentro de uma mesma interface ou plataforma. Isso inclui mensagens instantâneas, videoconferência, chamadas de voz (VoIP), e-mail, webconferência e correio [&hellip;]"

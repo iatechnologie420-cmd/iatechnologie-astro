@@ -1,4 +1,5 @@
 ---
+
 title: "Kas yra Sharding? apibrėžimas ir pranašumai"
 slug: "kas-yra-sharding-apibrezimas-ir-pranasumai"
 excerpt: "Smulkinimo supratimas: apibrėžimas ir pagrindiniai principai Duomenų bazių ir didelio masto duomenų saugyklų pasaulis yra sudėtingas ir nuolat tobulinamas. Kad galėtų efektyviai valdyti eksponentiškai didėjančius duomenų kiekius, IT architektūros turi diegti naujoves ir rasti sprendimus, kaip optimizuoti šių duomenų veikimą ir valdymą. Vienas iš šios problemos būdų yra technika, vadinama skaldymas. Šiame straipsnyje apibrėžsime dalijimąsi, [&hellip;]"

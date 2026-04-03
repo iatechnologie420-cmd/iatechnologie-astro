@@ -1,4 +1,5 @@
 ---
+
 title: "CNTT/Công nghệ thông tin: công nghệ thông tin là gì?"
 slug: "cntt-cong-nghe-thong-tin-cong-nghe-thong-tin-la-gi"
 excerpt: "Hiểu biết về CNTT: Định nghĩa và sự phát triển của công nghệ thông tin Nó là gì? Thuật ngữ NÓ, Vì Công nghệ thông tin bằng tiếng Anh, chỉ định tất cả các công nghệ liên quan đến việc xử lý và quản lý thông tin và dữ liệu. Lĩnh vực rộng lớn này [&hellip;]"

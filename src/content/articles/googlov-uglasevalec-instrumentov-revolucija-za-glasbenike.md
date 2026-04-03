@@ -1,4 +1,5 @@
 ---
+
 title: "Googlov uglaševalec instrumentov: revolucija za glasbenike?"
 slug: "googlov-uglasevalec-instrumentov-revolucija-za-glasbenike"
 excerpt: "Pomen uglaševanja glasbil Uglasitev je eden najpomembnejših vidikov, ko gre za igranje glasbila. Ne glede na to, ali ste začetnik ali izkušen glasbenik, morate svoj instrument redno uglaševati, da dobite najboljši možni zvok. V tem članku bomo raziskali pomen uglaševanja glasbenih inštrumentov in vam dali nekaj nasvetov, kako zagotoviti, da bo vaš inštrument vedno uglašen, [&hellip;]"

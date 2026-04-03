@@ -1,4 +1,5 @@
 ---
+
 title: "Định lý Bayes và ứng dụng của nó trong AI"
 slug: "dinh-ly-bayes-va-ung-dung-cua-no-trong-ai"
 excerpt: "Giới thiệu định lý Bayes CÁC Định lý Bayes là một công thức cơ bản về xác suất và thống kê mô tả việc cập nhật niềm tin của chúng ta trước sự hiện diện của thông tin mới. Được đặt tên để vinh danh Mục sư Thomas Bayes, định lý này đóng một vai [&hellip;]"

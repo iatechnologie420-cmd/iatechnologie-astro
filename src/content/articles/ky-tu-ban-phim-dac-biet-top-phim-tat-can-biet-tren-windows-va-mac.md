@@ -1,4 +1,5 @@
 ---
+
 title: "Ký tự bàn phím đặc biệt: Top phím tắt cần biết (Trên Windows và Mac)"
 slug: "ky-tu-ban-phim-dac-biet-top-phim-tat-can-biet-tren-windows-va-mac"
 excerpt: "Ký tự đặc biệt là những ký hiệu hoặc dấu hiệu không tương ứng với các chữ cái và số tiêu chuẩn của bàn phím truyền thống. Việc sử dụng các ký tự đặc biệt này có tầm quan trọng lớn trong nhiều bối cảnh khác nhau như lập trình máy tính, viết văn bản, [&hellip;]"

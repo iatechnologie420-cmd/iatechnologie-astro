@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT er bare en illusjon av intelligens: hvorfor?"
 slug: "chatgpt-er-bare-en-illusjon-av-intelligens-hvorfor"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Simuleringen av menneskelig intelligens av AI? Evnen til å simulere menneskelig intelligens med maskiner har alltid vært en enestående fascinasjon, både for forskere og allmennheten. Hvis ideen om en maskin som er i stand til å tenke, resonnere og forstå som et menneske fortsatt kan virke som science fiction, viser fremskritt innen kunstig intelligens [&hellip;]"

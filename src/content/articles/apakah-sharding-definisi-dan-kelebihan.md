@@ -1,4 +1,5 @@
 ---
+
 title: "Apakah Sharding? definisi dan kelebihan"
 slug: "apakah-sharding-definisi-dan-kelebihan"
 excerpt: "Memahami sharding: definisi dan prinsip asas Dunia pangkalan data dan storan data berskala besar adalah kompleks dan sentiasa berkembang. Untuk mengurus volum data yang meningkat secara eksponen, seni bina IT mesti berinovasi dan mencari penyelesaian untuk mengoptimumkan prestasi dan pengurusan data ini. Satu pendekatan untuk masalah ini ialah teknik yang dipanggil serpihan. Dalam artikel ini, [&hellip;]"

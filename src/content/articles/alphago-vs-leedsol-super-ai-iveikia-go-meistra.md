@@ -1,4 +1,5 @@
 ---
+
 title: "AlphaGo vs Leedsol: Super AI įveikia Go meistrą"
 slug: "alphago-vs-leedsol-super-ai-iveikia-go-meistra"
 excerpt: "Istorinis susidūrimas: dirbtinis intelektas meta iššūkį „Go“ meistrui Go pasaulyje istoriškai dominavo žmonių meistrai, kol įvyko reikšmingas įvykis, sukrėtęs nusistovėjusias paradigmas. Dirbtinis intelektas, šis žmogaus išradingumo sukurtas įrankis, ėmėsi iššūkio įveikti vieną sudėtingiausių strateginių žaidimų istorijoje. Šis istorinis superkompiuterio loginių grandinių ir pasaulio Go čempiono strateginio proto susidūrimas yra lūžio taškas pripažįstant AI pažinimo galimybes. [&hellip;]"

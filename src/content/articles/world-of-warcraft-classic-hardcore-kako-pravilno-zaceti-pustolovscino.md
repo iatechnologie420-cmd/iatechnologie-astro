@@ -1,4 +1,5 @@
 ---
+
 title: "World of Warcraft Classic Hardcore: kako pravilno začeti pustolovščino?"
 slug: "world-of-warcraft-classic-hardcore-kako-pravilno-zaceti-pustolovscino"
 excerpt: "Razumeti temeljna pravila Hardcore načina Način hardcore notri World of Warcraft Classic igri doda očarljivo in zahtevno razsežnost. Za pustolovce, ki iščejo vznemirjenje in izzive, vam bo ta vodnik pomagal potopiti se v ta vznemirljivi način igre z obvladovanjem njegovih osnovnih pravil. Kaj je Hardcore način? Način hardcore notri WoW Classic je izziv, ki si [&hellip;]"

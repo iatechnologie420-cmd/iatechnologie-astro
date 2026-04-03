@@ -1,4 +1,5 @@
 ---
+
 title: "Formation Chat GPT : pourquoi faire et comment procéder ?"
 slug: "formation-chat-gpt-pourquoi-faire-et-comment-proceder"
 excerpt: "L&#8217;intérêt de se former à Chat GPT En plein essor technologique, l&#8217;importance de se former a Chat GPT d&#8217;OpenAI est une réalité incontournable. Le potentiel considérable des intelligences artificielles génératives, comme le GPT-4, et leurs impacts sur divers métiers soulignent l&#8217;enjeu majeur d&#8217;apprendre à maîtriser ces outils. Plus que jamais, il est crucial de comprendre [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Li-Fi: the revolution in ultra-fast wireless connectivity"
 slug: "li-fi-the-revolution-in-ultra-fast-wireless-connectivity"
 excerpt: "The silent Li-Fi revolution: light connectivity of tomorrow Introduction to high-tech lighting It is a fact little known to the general public, but Li-Fi (acronym for Light Fidelity) is among the most promising wireless transmission technologies to date, although its first tests date back to 2005. It was developed in the shadows, far from the [&hellip;]"

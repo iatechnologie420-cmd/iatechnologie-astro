@@ -1,4 +1,5 @@
 ---
+
 title: "Spot: o cão-robô da Boston Dynamics"
 slug: "spot-o-cao-robo-da-boston-dynamics"
 excerpt: "Descoberta de Spot, o cão-robô da Boston Dynamics Famoso por ser a nata da robótica moderna, Ver, o cão-robô da Boston Dynamics, criou uma onda de choque no mundo das novas tecnologias. Projetado para substituir seus pares, é o exemplo emblemático de robôs animais prontos para substituir seus modelos. Spot, uma revolução tecnológica Ver incorpora [&hellip;]"

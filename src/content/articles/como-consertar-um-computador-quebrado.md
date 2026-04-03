@@ -1,4 +1,5 @@
 ---
+
 title: "Como consertar um computador quebrado?"
 slug: "como-consertar-um-computador-quebrado"
 excerpt: "Diagnosticando a falha do seu computador Às vezes, encontrar um problema no computador pode se transformar em uma verdadeira dor de cabeça. O computador é um complexo tecnológico complexo e, quando algo não funciona como esperado, muitas vezes há uma infinidade de razões possíveis. Neste artigo oferecemos um guia prático para ajudá-lo a identificar o [&hellip;]"

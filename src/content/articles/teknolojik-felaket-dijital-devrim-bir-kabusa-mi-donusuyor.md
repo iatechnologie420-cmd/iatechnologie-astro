@@ -1,4 +1,5 @@
 ---
+
 title: "Teknolojik felaket: Dijital devrim bir kabusa mı dönüşüyor?"
 slug: "teknolojik-felaket-dijital-devrim-bir-kabusa-mi-donusuyor"
 excerpt: "Dijital devrimin toplumumuz üzerindeki etkisi Zamanımızı karakterize eden dijital devrim, toplumumuzun birçok yönünü bozdu. Dijital teknolojiler ve internete erişim, iletişim kurma, çalışma, tüketme ve hatta yaşama biçimimizi değiştirdi. Bu makale, bu devrimin günlük yaşamlarımız üzerindeki sonuçlarını araştırıyor ve yüzleşmemiz gereken önemli sorunları vurguluyor. Dijital devrimin sonuçları 1. İletişimDijital devrim iletişim şeklimizi kökten değiştirdi. Sosyal medya, [&hellip;]"

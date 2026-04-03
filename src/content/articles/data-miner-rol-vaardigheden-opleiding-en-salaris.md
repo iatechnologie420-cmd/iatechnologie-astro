@@ -1,4 +1,5 @@
 ---
+
 title: "Data Miner: rol, vaardigheden, opleiding en salaris"
 slug: "data-miner-rol-vaardigheden-opleiding-en-salaris"
 excerpt: "De rol en missies van de dataminer DE Data mijner, of data prospector, speelt een cruciale rol in de wereld van data en kunstmatige intelligentie. Het is een essentiële schaduwactor die de besluitvorming en het strategisch management binnen bedrijven faciliteert. We zullen de missies en het belang van zijn rol gedetailleerd beschrijven. Wat is een [&hellip;]"

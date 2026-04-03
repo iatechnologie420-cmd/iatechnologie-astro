@@ -1,4 +1,5 @@
 ---
+
 title: "Antara Muka Manusia-Mesin: apakah itu HMI?"
 slug: "antara-muka-manusia-mesin-apakah-itu-hmi"
 excerpt: "Definisi Antara Muka Manusia-Mesin Antara muka manusia-mesin merujuk kepada semua cara dan alatan yang dilaksanakan untuk membolehkan interaksi berkesan antara pengguna manusia dan sistem komputer. Ia merangkumi segala-galanya daripada reka bentuk visual skrin kepada peranti input seperti papan kekunci, tetikus, dan juga antara muka sentuh dan suara. Evolusi sejarah HMI HMI telah mengalami evolusi yang [&hellip;]"

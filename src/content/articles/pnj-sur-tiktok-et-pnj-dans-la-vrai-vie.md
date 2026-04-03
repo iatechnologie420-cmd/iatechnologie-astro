@@ -1,4 +1,5 @@
 ---
+
 title: "Être un PNJ sur Tiktok et dans la vraie vie&#8230; ?"
 slug: "pnj-sur-tiktok-et-pnj-dans-la-vrai-vie"
 excerpt: "Le phénomène des « controleurs de PNJ » sur TikTok Dans l&#8217;univers infini de TikTok, un phénomène assez singulier a capturé l&#8217;attention des utilisateurs : les « contrôleurs de PNJ » (Personnages Non-Joueur). Auparavant confinée aux jeux vidéo, l&#8217;expression &#8220;PNJ&#8221; s&#8217;insinue désormais dans le jargon des réseaux sociaux, définissant une expérience qui mélange réalité augmentée [&hellip;]"

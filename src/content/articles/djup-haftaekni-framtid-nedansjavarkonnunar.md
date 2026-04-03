@@ -1,4 +1,5 @@
 ---
+
 title: "Djúp haftækni: framtíð neðansjávarkönnunar?"
 slug: "djup-haftaekni-framtid-nedansjavarkonnunar"
 excerpt: "Hvað er djúp aflandstækni? Djúphafstækni, einnig þekkt sem djúpvatnsborunartækni, er fræðigrein sem miðar að því að kanna og nýta auðlindir sem eru til staðar á hafsbotni, á dýpi á bilinu 500 til nokkur þúsund metra. Þessi tækni opnar nýja möguleika fyrir rannsóknir og nýtingu olíu-, gas- og jarðefnabirgða sem staðsettar eru undan ströndum. Áskoranir djúpt [&hellip;]"

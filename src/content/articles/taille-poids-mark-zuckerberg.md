@@ -1,4 +1,5 @@
 ---
+
 title: "Quelle est la taille et le poids de Mark Zuckerberg ?"
 slug: "taille-poids-mark-zuckerberg"
 excerpt: "La taille de Mark Zuckerberg : Mythe ou Réalité? La polémique autour de sa taille Depuis plusieurs années, la question de la taille de Mark Zuckerberg, le fondateur de Facebook, fait l&#8217;objet de nombreuses spéculations et débats. Certains prétendent qu&#8217;il est plus petit qu&#8217;il ne le laisse paraître, tandis que d&#8217;autres affirment qu&#8217;il est en [&hellip;]"

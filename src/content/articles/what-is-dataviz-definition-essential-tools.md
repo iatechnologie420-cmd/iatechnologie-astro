@@ -1,4 +1,5 @@
 ---
+
 title: "What is dataviz? Definition, essential tools"
 slug: "what-is-dataviz-definition-essential-tools"
 excerpt: "Understanding Dataviz: data visualization Today, with the immense amount of data generated every second, it becomes essential to know how to present this information in a clear and effective manner. This is where the data visualization, Or dataviz, a disciplinary field that combines design, narrative and statistical analysis to transform complex data into intuitive visual [&hellip;]"

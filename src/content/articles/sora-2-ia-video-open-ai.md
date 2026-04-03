@@ -1,4 +1,5 @@
 ---
+
 title: "Sora 2 : l’IA vidéo d&#8217;Open AI ultra-réaliste qui va détrôner TikTok ?"
 slug: "sora-2-ia-video-open-ai"
 excerpt: "Imaginez une vidéo si réaliste qu’elle pourrait passer pour une preuve judiciaire : un plan de caméra de surveillance montrant Sam Altman, PDG d’OpenAI, en train de voler une carte graphique dans un supermarché. Cette vidéo existe déjà. Et pourtant, elle n’est pas réelle : elle a été générée par&nbsp;Sora 2, le nouveau modèle vidéo [&hellip;]"

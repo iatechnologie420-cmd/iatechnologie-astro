@@ -1,4 +1,5 @@
 ---
+
 title: "Definisi IMAP: semua yang anda perlu tahu"
 slug: "definisi-imap-semua-yang-anda-perlu-tahu"
 excerpt: "Pengenalan kepada IMAP Protokol Akses Mesej Internet (IMAP) ialah standard komunikasi yang membolehkan pengguna menerima dan mengurus e-mel mereka secara langsung pada pelayan e-mel, yang berbeza daripada pendekatan tradisional di mana e-mel dimuat turun ke klien e-mel setempat. Ini membawa banyak faedah praktikal, terutamanya dalam dunia di mana kami mengakses e-mel kami daripada berbilang peranti. [&hellip;]"

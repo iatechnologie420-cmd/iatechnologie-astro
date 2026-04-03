@@ -1,4 +1,5 @@
 ---
+
 title: "Le top des robots dans l’univers Star Wars"
 slug: "r2d2-robots-univers-star-wars"
 excerpt: "Les légendes mécaniques : C-3PO et R2-D2 Considérés comme les droids les plus emblématiques de la saga Star Wars, C-3PO et R2-D2 ont marqué des générations de fans par leur personnalité unique, leur histoire et leur rôle crucial au fil des épisodes. Cet article plonge dans l&#8217;univers de ces légendes mécaniques, vous révélant leur essence [&hellip;]"

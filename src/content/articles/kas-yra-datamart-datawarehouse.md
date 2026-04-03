@@ -1,4 +1,5 @@
 ---
+
 title: "Kas yra Datamart / Datawarehouse?"
 slug: "kas-yra-datamart-datawarehouse"
 excerpt: "Įvadas į Datamart koncepciją THE datamart yra esminis terminas duomenų analizės ir verslo žvalgybos (BI) pasaulyje. Tai yra duomenų saugyklos poskyris, tai yra specializuota duomenų bazė, kurioje saugomas įmonės informacijos segmentas. Nors duomenų saugykla gali būti laikoma didžiule įmonės duomenų biblioteka, duomenų rinka gali būti vertinama kaip specifinė tos bibliotekos dalis, sutvarkyta pagal tam tikrą [&hellip;]"

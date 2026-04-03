@@ -1,4 +1,5 @@
 ---
+
 title: "E-reputație: gestionarea imaginii unei persoane online"
 slug: "e-reputatie-gestionarea-imaginii-unei-persoane-online"
 excerpt: "Înțelegerea e-reputației și importanța acesteia Odată cu evoluția continuă a tehnologiilor digitale și integrarea tot mai mare a rețelelor sociale în viața noastră de zi cu zi,e-reputație a devenit un factor crucial pentru persoane fizice și companii. Constituie toate informațiile prezente pe Internet care influențează percepția publică asupra unui brand, a unei companii sau a [&hellip;]"

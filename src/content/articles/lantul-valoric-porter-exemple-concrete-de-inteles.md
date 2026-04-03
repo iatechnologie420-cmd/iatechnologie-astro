@@ -1,4 +1,5 @@
 ---
+
 title: "Lanțul valoric PORTER | Exemple concrete de înțeles"
 slug: "lantul-valoric-porter-exemple-concrete-de-inteles"
 excerpt: "Înțelegerea lanțului valoric Michael Porter Lanțul valoric este un concept dezvoltat de economistul și academicianul american Michael Porter în lucrarea sa „Competitive Advantage” publicată în 1985. Acest model este esenţial pentru analiza activităţilor interne ale unei companii în vederea optimizării valorii create şi a avantajelor competitive ale acesteia. Acest articol vă oferă un ghid pentru [&hellip;]"

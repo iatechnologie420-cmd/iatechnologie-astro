@@ -1,4 +1,5 @@
 ---
+
 title: "What is a medical robot? definition and explanation"
 slug: "what-is-a-medical-robot-definition-and-explanation"
 excerpt: "Definition and typology of medical robots The advent of robotics in healthcare has opened up immense possibilities for improving medical care and surgery. These technologies, known as medical robots, are mechanical devices or computer systems capable of performing complex actions with high precision, often under the supervision or direct control of qualified medical personnel. But [&hellip;]"

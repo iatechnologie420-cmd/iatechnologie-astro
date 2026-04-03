@@ -1,4 +1,5 @@
 ---
+
 title: "Wat is tekstmining? definitie"
 slug: "wat-is-tekstmining-definitie"
 excerpt: "Inleiding tot tekstmining DE tekstmining, of text mining in het Frans, is een tak van datawetenschap die zich richt op het extraheren van nuttige informatie uit grote sets tekstgegevens. Vaak geassocieerd met natuurlijke taalverwerking (NLP) omvat text mining een reeks technieken en hulpmiddelen die in staat zijn menselijke taal, verzameld in tekstuele vorm, te begrijpen, [&hellip;]"

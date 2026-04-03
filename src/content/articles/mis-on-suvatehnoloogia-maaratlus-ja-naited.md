@@ -1,4 +1,5 @@
 ---
+
 title: "Mis on süvatehnoloogia? määratlus ja näited"
 slug: "mis-on-suvatehnoloogia-maaratlus-ja-naited"
 excerpt: "Seal Deep Tech, ehk tipptehnoloogia, kujutab endast revolutsiooni idufirmade ja innovatsioonimaailmas tänapäeval. See eristub tavapärasematest tehnoloogiatest oma muutuste sügavuse ja häiriva potentsiaali poolest. Aga mida me tegelikult selle all mõtleme Deep Tech, ja kuidas see erineb teist tüüpi tehnoloogiast? Deep Tech määratlus Termin Deep Tech viitab tehnoloogiatele, mis põhinevad olulistel teaduslikel avastustel või tehnilistel edusammudel. [&hellip;]"

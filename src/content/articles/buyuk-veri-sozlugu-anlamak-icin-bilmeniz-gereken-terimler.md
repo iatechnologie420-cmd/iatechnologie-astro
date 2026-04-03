@@ -1,4 +1,5 @@
 ---
+
 title: "Büyük Veri Sözlüğü: Anlamak için bilmeniz gereken terimler"
 slug: "buyuk-veri-sozlugu-anlamak-icin-bilmeniz-gereken-terimler"
 excerpt: "Büyük veri dünyasına giriş THE Büyük veri işletmelerin ve kuruluşların verileri analiz etme ve kullanma biçimini değiştiren, büyüyen bir sektörü temsil ediyor. Giderek dijitalleşen dünyada, veriler son derece hızlı ve çeşitli formatlarda üretiliyor. Büyük Veri çağı artık sadece moda bir sözcük değil; tüm endüstrileri şekillendiren ve bilimin, yapay zekanın ve teknolojinin sınırlarını yeniden tanımlayan bir [&hellip;]"

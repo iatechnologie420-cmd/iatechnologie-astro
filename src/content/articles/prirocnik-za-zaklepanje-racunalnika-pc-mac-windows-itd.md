@@ -1,4 +1,5 @@
 ---
+
 title: "Priročnik za zaklepanje računalnika (PC, Mac, Windows itd.)"
 slug: "prirocnik-za-zaklepanje-racunalnika-pc-mac-windows-itd"
 excerpt: "Potreba po zaščiti vašega računalnika V sedanjem obdobju, ko dejavnosti postajajo digitalizirane s pospešeno hitrostjo, je varnost našega računalnika postala velika skrb za posameznike in podjetja. Tukaj je podroben vodnik o dobrih refleksih, ki jih je treba sprejeti za učinkovito zaščito vašega računalniškega sistema. Računalniki so osrednja središča naših osebnih in poklicnih podatkov. So tudi [&hellip;]"

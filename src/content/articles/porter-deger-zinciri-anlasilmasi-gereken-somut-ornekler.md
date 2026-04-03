@@ -1,4 +1,5 @@
 ---
+
 title: "PORTER değer zinciri | Anlaşılması gereken somut örnekler"
 slug: "porter-deger-zinciri-anlasilmasi-gereken-somut-ornekler"
 excerpt: "Michael Porter Değer Zincirini Anlamak Değer zinciri Amerikalı ekonomist ve akademisyen tarafından geliştirilen bir kavramdır. Michael Porter 1985 yılında yayınlanan &#8220;Rekabet Avantajı&#8221; adlı çalışmasında. Bu model, bir şirketin yarattığı değeri ve rekabet avantajlarını optimize etmek amacıyla iç faaliyetlerini analiz etmek için gereklidir. Bu makale size Michael Porter&#8217;ın değer zincirini anlama ve kullanma konusunda bir rehber [&hellip;]"

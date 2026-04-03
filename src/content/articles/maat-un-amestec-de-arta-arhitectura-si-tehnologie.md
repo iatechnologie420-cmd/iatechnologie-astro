@@ -1,4 +1,5 @@
 ---
+
 title: "MAAT: un amestec de artă, arhitectură și tehnologie?"
 slug: "maat-un-amestec-de-arta-arhitectura-si-tehnologie"
 excerpt: "Povestea MAAT: un amestec de artă și arhitectură MAAT, acronim pentru Muzeul de Artă, Arhitectură și Tehnologii, este un loc emblematic care mărturisește fuziunea dintre artă, arhitectură și tehnologie. Situat pe malul Tajo-ului în Lisabona, întruchipează perfect căsătoria armonioasă dintre estetică și inovație. În acest articol, ne adâncim în istoria fascinantă a MAAT și explorăm [&hellip;]"

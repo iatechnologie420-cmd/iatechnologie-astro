@@ -1,4 +1,5 @@
 ---
+
 title: "GPT-5: bildiğimiz her şey"
 slug: "gpt-5-bildigimiz-her-sey"
 excerpt: "Yapay zekanın evrimi: GPT-3&#8217;ten GPT-5&#8217;e Meteorik ilerlemeüretken yapay zeka teknolojik manzara tam da şu anda bu fenomen tarafından yönlendiriliyor SohbetGPT. GPT-3&#8217;ten başlayarak GPT-4&#8217;ü beklerken GPT-3.5&#8217;in ara versiyonu geliştirildi. OpenAI. Ancak gerçek devrim, şimdiye kadar var olan her şeyden daha akıllı olacağı vaat edilen GPT-5&#8217;in geleceği beklentisiyle hazırlanıyor. ChatGPT: Gelişmiş bir konuşma aracısı SohbetGPTBugün bir araç [&hellip;]"

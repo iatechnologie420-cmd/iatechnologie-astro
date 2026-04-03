@@ -1,4 +1,5 @@
 ---
+
 title: "HIDS vs NIDS: Perbedaan dan Kegunaan"
 slug: "hids-vs-nids-perbedaan-dan-kegunaan"
 excerpt: "Pengantar Sistem Deteksi Intrusi: HIDS dan NIDS Keamanan sistem informasi merupakan perhatian utama bagi bisnis dan organisasi dari semua ukuran. Menghadapi ancaman yang semakin besar dan canggihnya serangan siber, sangatlah penting untuk menerapkan mekanisme pertahanan yang efektif. Diantaranya adalah sistem deteksi intrusi (ID) memainkan peran penting dalam memantau jaringan komputer dan mendeteksi aktivitas mencurigakan. Secara [&hellip;]"

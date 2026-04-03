@@ -1,4 +1,5 @@
 ---
+
 title: "HIDS vs NIDS: Differences and Use"
 slug: "hids-vs-nids-differences-and-use"
 excerpt: "Introduction to Intrusion Detection Systems: HIDS and NIDS Information system security is a central concern for businesses and organizations of all sizes. Faced with growing threats and the sophistication of cyber attacks, it is imperative to put in place effective defense mechanisms. Among these, the intrusion detection systems (IDS) play a crucial role in monitoring [&hellip;]"

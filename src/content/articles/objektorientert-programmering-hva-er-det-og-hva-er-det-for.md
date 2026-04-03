@@ -1,4 +1,5 @@
 ---
+
 title: "Objektorientert programmering: hva er det og hva er det for?"
 slug: "objektorientert-programmering-hva-er-det-og-hva-er-det-for"
 excerpt: "Grunnleggende om objektorientert programmering Der Objektorientert programmering (OOP) er et programmeringsparadigme som bruker &#8220;objekter&#8221; for å designe dataapplikasjoner og programmer. Disse objektene representerer virkelige enheter og lar utviklere lage mer fleksibel, skalerbar og vedlikeholdbar programvare. I denne artikkelen vil vi utforske de grunnleggende konseptene som danner grunnlaget for OOP. Abstraksjon L&#8217;abstraksjon er prosessen der en [&hellip;]"

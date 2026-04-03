@@ -1,4 +1,5 @@
 ---
+
 title: "E-ugled: Upravljanje podobe osebe na spletu"
 slug: "e-ugled-upravljanje-podobe-osebe-na-spletu"
 excerpt: "Razumevanje e-ugleda in njegovega pomena Z nenehnim razvojem digitalnih tehnologij in vse večjo integracijo družbenih medijev v naše vsakdanje življenje jee-ugled je postal ključen dejavnik za posameznike in podjetja. Sestavljajo vse informacije, ki so prisotne na internetu in vplivajo na javno percepcijo blagovne znamke, podjetja ali osebe. L&#8217;e-ugled oblikujejo komentarji, mnenja, slike in interakcije na [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Instagram&#8217;da notlarınıza nasıl müzik eklenir?"
 slug: "instagramda-notlariniza-nasil-muzik-eklenir"
 excerpt: "Instagram&#8217;daki müzik özelliklerini kullanma Instagram hayattaki anları, görselleri ve videoları paylaşmak için vazgeçilmez bir platform haline geldi. Gönderilerinizi daha da ilgi çekici hale getirmek için içeriğinize müzik entegre edebilirsiniz. Bu makalede Instagram&#8217;daki farklı müzik özelliklerini ve bunların orijinal ve ilgi çekici gönderiler oluşturmak için nasıl kullanılacağını keşfedeceğiz. Hikayelerinize neden müzik ekleyin? Instagram Hikayelerinize müzik eklemek, [&hellip;]"

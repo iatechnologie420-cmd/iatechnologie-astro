@@ -1,4 +1,5 @@
 ---
+
 title: "Die Braille-Revolution: Wenn Technologie die Barrierefreiheit verändert"
 slug: "die-braille-revolution-wenn-technologie-die-barrierefreiheit-verandert"
 excerpt: "Die Braille-Revolution im technologischen Zeitalter Entstehung der Blindenschrift und zeitgenössische Adaptionen Das ursprünglich von Louis Braille im 19. Jahrhundert entwickelte Schriftsystem für Blinde und Sehbehinderte, bekannt als Braille, revolutionierte die Art und Weise, wie sie kommunizieren. Inspiriert von einem Mechanismus, der für die Armee zum Lesen im Dunkeln entwickelt wurde, optimierte Louis Braille die Methode, [&hellip;]"

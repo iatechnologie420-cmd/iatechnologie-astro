@@ -1,4 +1,5 @@
 ---
+
 title: "Łańcuch wartości PORTER | Konkretne przykłady do zrozumienia"
 slug: "lancuch-wartosci-porter-konkretne-przyklady-do-zrozumienia"
 excerpt: "Zrozumienie łańcucha wartości Michaela Portera Łańcuch wartości to koncepcja opracowana przez amerykańskiego ekonomistę i naukowca Michaela Portera w swojej pracy „Przewaga konkurencyjna” opublikowanej w 1985 roku. Model ten jest niezbędny do analizy wewnętrznych działań przedsiębiorstwa w celu optymalizacji tworzonej przez niego wartości i przewag konkurencyjnych. W tym artykule znajdziesz przewodnik po zrozumieniu i korzystaniu z [&hellip;]"

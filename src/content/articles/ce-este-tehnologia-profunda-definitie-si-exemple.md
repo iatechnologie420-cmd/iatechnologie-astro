@@ -1,4 +1,5 @@
 ---
+
 title: "Ce este tehnologia profundă? definiție și exemple"
 slug: "ce-este-tehnologia-profunda-definitie-si-exemple"
 excerpt: "Acolo Deep Tech, sau tehnologia de ultimă oră, reprezintă o revoluție în lumea startup-urilor și a inovației de astăzi. Se evidențiază de tehnologiile mai convenționale prin profunzimea schimbărilor și potențialul său perturbator. Dar ce ne referim de fapt prin Deep Tech, și prin ce diferă de alte tipuri de tehnologie? Definiția Deep Tech Termenul Deep [&hellip;]"

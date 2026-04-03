@@ -1,4 +1,5 @@
 ---
+
 title: "Sharding là gì? định nghĩa và ưu điểm"
 slug: "sharding-la-gi-dinh-nghia-va-uu-diem"
 excerpt: "Hiểu về sharding: định nghĩa và nguyên tắc cơ bản Thế giới cơ sở dữ liệu và lưu trữ dữ liệu quy mô lớn rất phức tạp và không ngừng phát triển. Để quản lý hiệu quả khối lượng dữ liệu ngày càng tăng theo cấp số nhân, kiến ​​trúc CNTT phải đổi mới và [&hellip;]"

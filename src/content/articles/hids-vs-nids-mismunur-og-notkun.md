@@ -1,4 +1,5 @@
 ---
+
 title: "HIDS vs NIDS: Mismunur og notkun"
 slug: "hids-vs-nids-mismunur-og-notkun"
 excerpt: "Kynning á innbrotsgreiningarkerfum: HIDS og NIDS Öryggi upplýsingakerfa er aðal áhyggjuefni fyrir fyrirtæki og stofnanir af öllum stærðum. Frammi fyrir vaxandi ógnum og fágun netárása er brýnt að koma á skilvirkum varnaraðferðum. Meðal þeirra er innbrotsskynjunarkerfi (IDS) gegna mikilvægu hlutverki við að fylgjast með tölvunetum og greina grunsamlega starfsemi. Einkum er innbrotsskynjunarkerfi hýsils (HIDS) og [&hellip;]"

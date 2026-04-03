@@ -1,4 +1,5 @@
 ---
+
 title: "Chief Data Officer (CDO): ​​​​peran, keterampilan, pelatihan dan gaji"
 slug: "chief-data-officer-cdo-peran-keterampilan-pelatihan-dan-gaji"
 excerpt: "Posisi strategis Chief Data Officer di perusahaan Di era big data dan analisis data, dunia usaha semakin menyadari pentingnya mengelola dan memanfaatkan data mereka secara strategis. Inti dari pengakuan ini adalah peran kuncinya: the Kepala Petugas Data (CDO). CDO sangat penting untuk menyeimbangkan tata kelola, kualitas data, kepatuhan terhadap peraturan, dan memanfaatkan data untuk keunggulan [&hellip;]"

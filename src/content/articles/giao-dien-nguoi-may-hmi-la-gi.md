@@ -1,4 +1,5 @@
 ---
+
 title: "Giao diện người-máy: HMI là gì?"
 slug: "giao-dien-nguoi-may-hmi-la-gi"
 excerpt: "Định nghĩa giao diện người-máy Giao diện người-máy đề cập đến tất cả các phương tiện và công cụ được triển khai để cho phép tương tác hiệu quả giữa người dùng và hệ thống máy tính. Nó bao gồm mọi thứ, từ thiết kế trực quan của màn hình đến các thiết bị đầu [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Hvað er stafrænt vinnusvæði / aukið verk?"
 slug: "hvad-er-stafraent-vinnusvaedi-aukid-verk"
 excerpt: "Hvað er stafrænt vinnusvæði? Hugtakið Stafrænt vinnusvæði, Eða stafrænt vinnusvæði, skilgreinir vinnuumhverfi sem hefur ekki lengur líkamlegar hindranir þökk sé stafrænni tækni. Það sameinar sett af verkfærum og tækni sem gerir notendum kleift að tengjast, vinna saman og framkvæma fagleg verkefni sín óháð staðsetningu þeirra. Þessi grein mun fjalla um grundvallarstoðir stafræns vinnusvæðis og hvernig [&hellip;]"

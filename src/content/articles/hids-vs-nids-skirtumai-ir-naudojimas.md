@@ -1,4 +1,5 @@
 ---
+
 title: "HIDS vs NIDS: skirtumai ir naudojimas"
 slug: "hids-vs-nids-skirtumai-ir-naudojimas"
 excerpt: "Įvadas į įsibrovimo aptikimo sistemas: HIDS ir NIDS Informacinių sistemų saugumas yra pagrindinis visų dydžių įmonių ir organizacijų rūpestis. Susidūrus su vis didėjančiomis grėsmėmis ir sudėtingesnėmis kibernetinėmis atakomis, būtina įdiegti veiksmingus gynybos mechanizmus. Tarp jų, įsibrovimo aptikimo sistemos (IDS) atlieka itin svarbų vaidmenį stebint kompiuterių tinklus ir aptinkant įtartiną veiklą. Visų pirma, priimančiosios įsilaužimo aptikimo [&hellip;]"

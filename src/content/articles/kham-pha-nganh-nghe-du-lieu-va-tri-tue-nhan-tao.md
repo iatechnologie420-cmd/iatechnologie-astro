@@ -1,4 +1,5 @@
 ---
+
 title: "Khám phá ngành nghề Dữ liệu và Trí tuệ nhân tạo"
 slug: "kham-pha-nganh-nghe-du-lieu-va-tri-tue-nhan-tao"
 excerpt: "Giới thiệu ngành nghề Dữ liệu và Trí tuệ nhân tạo Sự phát triển của dữ liệu và trí tuệ nhân tạo (AI) đã tạo ra vô số ngành nghề sáng tạo và đa dạng. Tại trung tâm của cuộc cách mạng kỹ thuật số, những chuyên môn này đã trở nên thiết yếu đối [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Tecnologia offshore profondo: il futuro dell&#8217;esplorazione subacquea?"
 slug: "tecnologia-offshore-profondo-il-futuro-dellesplorazione-subacquea"
 excerpt: "Cos’è la tecnologia offshore profondo? La tecnologia offshore profonda, nota anche come tecnologia di perforazione in acque profonde, è una disciplina che mira a esplorare e sfruttare le risorse presenti nei fondali marini, a profondità che vanno dai 500 a diverse migliaia di metri. Questa tecnologia apre nuove possibilità per l’esplorazione e lo sfruttamento delle [&hellip;]"

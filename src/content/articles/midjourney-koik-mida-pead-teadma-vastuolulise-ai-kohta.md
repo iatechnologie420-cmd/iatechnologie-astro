@@ -1,4 +1,5 @@
 ---
+
 title: "MidJourney: kõik, mida pead teadma vastuolulise AI kohta"
 slug: "midjourney-koik-mida-pead-teadma-vastuolulise-ai-kohta"
 excerpt: "Keskteekonna mõistmine MidJourney on võimas tehisintellekt, mis muudab viisi, kuidas me tehnoloogiaga suhtleme. Kasutage seda juhendit allikana selle päritolu ja põhifunktsioonide mõistmiseks. Mis on MidJourney? MidJourney on tööriist tehisintellekt avangard, mille eesmärk on parandada ja hõlbustada meie igapäevast suhtlust uute tehnoloogiatega. See on osa üha kasvavast AI-rakenduste maastikust, sealhulgas muudest märkimisväärsetest tööriistadest, nagu Lensa ja [&hellip;]"

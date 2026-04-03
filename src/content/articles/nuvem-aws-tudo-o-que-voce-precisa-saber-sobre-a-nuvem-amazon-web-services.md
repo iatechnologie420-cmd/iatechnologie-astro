@@ -1,4 +1,5 @@
 ---
+
 title: "Nuvem AWS – Tudo o que você precisa saber sobre a nuvem Amazon Web Services"
 slug: "nuvem-aws-tudo-o-que-voce-precisa-saber-sobre-a-nuvem-amazon-web-services"
 excerpt: "Introdução à Amazon Web Services (AWS): uma revolução na computação em nuvem Desde a sua criação em 2006, Amazon Web Services (AWS) mudou radicalmente o cenário de TI ao fornecer uma plataforma de serviços em nuvem que oferece flexibilidade, escala e economias de escala sem precedentes. Esta introdução visa esclarecer os princípios de funcionamento doAWS [&hellip;]"

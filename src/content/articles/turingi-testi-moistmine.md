@@ -1,4 +1,5 @@
 ---
+
 title: "Turingi testi mõistmine"
 slug: "turingi-testi-moistmine"
 excerpt: "Turingi testi päritolu ja põhimõtted Tehisintellekti (AI) ja andmetöötluse maailmas on Turingi test silmapaistval kohal. See on võrdlusmeetod, mille eesmärk on hinnata masina võimet jäljendada inimese intelligentsust. Selle revolutsioonilise testi päritolu ja põhimõtted pärinevad 20. sajandi keskpaigast ning põhinevad keerukatel filosoofilistel ja arvutuslikel kontseptsioonidel. Turingi testi ajalugu Turingi test on oma nime saanud selle leiutaja [&hellip;]"

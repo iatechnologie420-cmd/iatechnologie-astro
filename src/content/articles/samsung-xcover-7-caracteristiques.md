@@ -1,4 +1,5 @@
 ---
+
 title: "Samsung Xcover 7 : La solution ultime pour les aventuriers ?"
 slug: "samsung-xcover-7-caracteristiques"
 excerpt: "Les caractéristiques techniques du Samsung Xcover 7 Le Samsung Xcover 7 est le dernier téléphone de la gamme Xcover, réputée pour sa résistance aux éléments et sa durabilité. Avec des fonctionnalités avancées et une conception robuste, le Xcover 7 est conçu pour les personnes actives qui ont besoin d&#8217;un smartphone fiable dans toutes les situations. [&hellip;]"

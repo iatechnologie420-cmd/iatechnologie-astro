@@ -1,4 +1,5 @@
 ---
+
 title: "Hvor høy og vekt er Mark Zuckerberg?"
 slug: "hvor-hoy-og-vekt-er-mark-zuckerberg"
 excerpt: "Mark Zuckerbergs høyde: Myte eller virkelighet? Kontroversen rundt størrelsen hans I flere år har spørsmålet om høyden til Mark Zuckerberg, grunnleggeren av Facebook, vært gjenstand for mye spekulasjoner og debatt. Noen hevder at den er mindre enn den ser ut, mens andre hevder at den faktisk er ganske høy. Så hva er sannheten om Mark [&hellip;]"

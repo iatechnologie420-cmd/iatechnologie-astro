@@ -1,4 +1,5 @@
 ---
+
 title: "Sonderzeichen auf der Tastatur: Die wichtigsten Tastenkombinationen, die Sie kennen sollten (unter Windows und Mac)"
 slug: "sonderzeichen-auf-der-tastatur-die-wichtigsten-tastenkombinationen-die-sie-kennen-sollten-unter-windows-und-mac"
 excerpt: "Sonderzeichen sind Symbole oder Zeichen, die nicht den Standardbuchstaben und -zahlen einer herkömmlichen Tastatur entsprechen. Die Verwendung dieser Sonderzeichen ist in verschiedenen Kontexten wie Computerprogrammierung, Textschreiben, Passwortsicherheit und mathematischer oder wissenschaftlicher Dateneingabe von großer Bedeutung. Beim Programmieren, Sonderzeichen sind unerlässlich. Mit ihnen können Sie bestimmte Operationen ausführen, beispielsweise das Trennen von Zeichenfolgen oder die Darstellung [&hellip;]"

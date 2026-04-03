@@ -1,4 +1,5 @@
 ---
+
 title: "Leer prompt engineering: in 12 stappen"
 slug: "leer-prompt-engineering-in-12-stappen"
 excerpt: "Inleiding tot snelle engineering Wat is snelle engineering? DE Snelle techniek is een opkomend vakgebied dat zich richt op het optimaliseren van de aanwijzingen of opdrachten die we geven aan systemen voor kunstmatige intelligentie (AI), met name systemen die zijn gebaseerd op natuurlijke taal, zoals tekstgeneratoren. Het is een bijzonder belangrijke discipline met de komst [&hellip;]"

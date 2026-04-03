@@ -1,4 +1,5 @@
 ---
+
 title: "Li-Fi: de revolutie in ultrasnelle draadloze connectiviteit"
 slug: "li-fi-de-revolutie-in-ultrasnelle-draadloze-connectiviteit"
 excerpt: "De stille Li-Fi-revolutie: de lichte connectiviteit van morgen Inleiding tot hightech verlichting Het is een feit dat weinig bekend is bij het grote publiek, maar Li-Fi (acroniem voor Light Fidelity) behoort tot de meest veelbelovende draadloze transmissietechnologieën tot nu toe, hoewel de eerste tests dateren uit 2005. Het werd ontwikkeld in de schaduw, verre van [&hellip;]"

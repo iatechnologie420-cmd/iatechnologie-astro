@@ -1,4 +1,5 @@
 ---
+
 title: "Bayes teoremi ve yapay zekada kullanımı"
 slug: "bayes-teoremi-ve-yapay-zekada-kullanimi"
 excerpt: "Bayes teoremine giriş THE Bayes teoremi inançlarımızın yeni bilgiler karşısında güncellenmesini tanımlayan olasılık ve istatistik alanında temel bir formüldür. Adını Rahip Thomas Bayes&#8217;ten alan bu teorem, makine öğreniminden belirsizlik altında karar vermeye kadar pek çok alanda önemli bir rol oynuyor. Bayes teoreminin özü Kalbi Bayes teoremi koşullu olasılıktır. En basit şekliyle, gözlenen olayın olasılığı dikkate [&hellip;]"

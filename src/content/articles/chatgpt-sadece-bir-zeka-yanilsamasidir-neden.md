@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT sadece bir zeka yanılsamasıdır: neden?"
 slug: "chatgpt-sadece-bir-zeka-yanilsamasidir-neden"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE İnsan zekasının yapay zeka tarafından simülasyonu mu? İnsan zekasını makinelerle simüle etme yeteneği, hem bilim insanları hem de halk için her zaman benzersiz bir ilgi uyandırmıştır. İnsan gibi düşünebilen, akıl yürütebilen ve anlayabilen bir makine fikri hâlâ bilim kurgu gibi görünse de, yapay zekadaki (AI) gelişmeler bize bu gerçeğe her zamankinden daha yakın olduğumuzu [&hellip;]"

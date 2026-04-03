@@ -1,4 +1,5 @@
 ---
+
 title: "Hyundai: Hvordan revolusjonerer teknologien bilindustrien?"
 slug: "hyundai-hvordan-revolusjonerer-teknologien-bilindustrien"
 excerpt: "Digital transformasjon har betydelig endret måten vi samhandler med produkter og tjenester, og bilindustrien er intet unntak. Et utmerket eksempel på denne utviklingen kan sees i Hyundai, som har klart å innlemme de siste teknologiske fremskritt i sin produksjon og drift for å forbli i forkant av bransjen. Inkorporerer digital teknologi i Hyundai-operasjoner Hyundai har [&hellip;]"

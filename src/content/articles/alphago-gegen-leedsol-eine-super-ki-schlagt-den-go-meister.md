@@ -1,4 +1,5 @@
 ---
+
 title: "AlphaGo gegen Leedsol: Eine Super-KI schlägt den Go-Meister"
 slug: "alphago-gegen-leedsol-eine-super-ki-schlagt-den-go-meister"
 excerpt: "Ein historischer Zusammenstoß: Künstliche Intelligenz fordert den Meister von Go heraus Die Welt von Go wurde historisch von menschlichen Meistern dominiert, bis zu einem bedeutenden Ereignis, das etablierte Paradigmen erschütterte. Künstliche Intelligenz, dieses vom menschlichen Einfallsreichtum entwickelte Werkzeug, nahm die Herausforderung an, eines der komplexesten Strategiespiele der Geschichte in Angriff zu nehmen. Dieser historische Konflikt [&hellip;]"

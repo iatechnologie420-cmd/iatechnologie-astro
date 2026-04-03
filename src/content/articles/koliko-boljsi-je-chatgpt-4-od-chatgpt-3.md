@@ -1,4 +1,5 @@
 ---
+
 title: "Koliko boljši je ChatGPT-4 od ChatGPT-3?"
 slug: "koliko-boljsi-je-chatgpt-4-od-chatgpt-3"
 excerpt: "Vzpon tehnologijeumetna inteligenca še naprej preoblikuje digitalno krajino s ponudbo vse bolj izpopolnjenih orodij. V tej novi dobi zaporedne različice ChatGPT od OpenAI odlično ponazarjajo ta napredek. Medtem ko je ChatGPT-3 že zaznamoval prelomnico, njegova zadnja ponovitev, ChatGPT-4, premika meje tega, kar obdelava naravnega jezika (NLP) zmore. Oglejmo si opazne izboljšave v tej najnovejši različici. [&hellip;]"

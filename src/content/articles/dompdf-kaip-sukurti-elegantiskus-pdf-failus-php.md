@@ -1,4 +1,5 @@
 ---
+
 title: "Dompdf: Kaip sukurti elegantiškus PDF failus PHP?"
 slug: "dompdf-kaip-sukurti-elegantiskus-pdf-failus-php"
 excerpt: "Dompdf įvadas Dompdf yra PHP biblioteka, leidžianti generuoti PDF failus iš HTML turinio. Šis sprendimas labai naudingas kuriant ataskaitas, sąskaitas faktūras ar bet kokį kitą dokumentą PDF formatu. Šiame straipsnyje atrasime pagrindines Dompdf ypatybes ir išmoksime ją naudoti kuriant elegantiškus ir funkcionalius PDF failus. Būtinos sąlygos Prieš diegdami Dompdf įsitikinkite, kad turite: Dompdf diegimas Norėdami [&hellip;]"

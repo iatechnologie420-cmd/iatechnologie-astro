@@ -1,4 +1,5 @@
 ---
+
 title: "Alles wat je moet weten over het vak Quant of kwantitatief analist"
 slug: "alles-wat-je-moet-weten-over-het-vak-quant-of-kwantitatief-analist"
 excerpt: "Inleiding tot de wereld van kwantitatieve financiën Kwantitatieve financiën is een gespecialiseerd financieel vakgebied dat gebruik maakt van wiskundige modellen, statistieken en computertechnieken om het gedrag van financiële markten te begrijpen en te voorspellen. In dit artikel zullen we dit vakgebied verkennen door de tools die het gebruikt te bespreken, de toepassingen ervan en de [&hellip;]"

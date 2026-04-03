@@ -1,4 +1,5 @@
 ---
+
 title: "ALM hoặc Quản lý vòng đời ứng dụng: định nghĩa"
 slug: "alm-hoac-quan-ly-vong-doi-ung-dung-dinh-nghia"
 excerpt: "Các nguyên tắc cơ bản L&#8217;Ứng dụng quản lý vòng đời (ALM) là một khung quản lý và quản trị có hệ thống để phát triển phần mềm. Nó bao gồm các phương pháp thực hành, quy trình và công cụ cho phép các nhóm quản lý vòng đời của một ứng dụng từ khi [&hellip;]"

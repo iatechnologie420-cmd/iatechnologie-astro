@@ -1,4 +1,5 @@
 ---
+
 title: "Guide pour verrouiller son Ordinateur (PC, Mac, Windows&#8230;)"
 slug: "guide-pour-verrouiller-son-ordinateur-pc-mac-linux"
 excerpt: "La nécessité de sécuriser son ordinateur Dans l’ère actuelle, où les activités se numérisent à un rythme accéléré, la sécurité de notre ordinateur est devenue une préoccupation majeure pour les particuliers ainsi que pour les entreprises. Voici un guide détaillé sur les bons réflexes à adopter pour protéger efficacement votre système informatique. Les ordinateurs sont [&hellip;]"

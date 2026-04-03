@@ -1,4 +1,5 @@
 ---
+
 title: "Kui palju parem on ChatGPT-4 kui ChatGPT-3?"
 slug: "kui-palju-parem-on-chatgpt-4-kui-chatgpt-3"
 excerpt: "Tehnoloogia tõustehisintellekt jätkab digitaalse maastiku muutmist, pakkudes üha keerukamaid tööriistu. Sellel uuel ajastul järjestikused versioonid ChatGPT kohta OpenAI illustreerivad seda edusamme suurepäraselt. Kuigi ChatGPT-3 oli juba tähistanud pöördepunkti, nihutab selle uusim iteratsioon ChatGPT-4 piire, mida loomuliku keele töötlemine (NLP) saab teha. Vaatame selle uusima versiooni märkimisväärseid täiustusi. AI ajalugu ja areng Alates selle kontseptuaalsest algusest [&hellip;]"

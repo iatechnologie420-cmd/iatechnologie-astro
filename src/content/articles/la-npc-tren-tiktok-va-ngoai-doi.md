@@ -1,4 +1,5 @@
 ---
+
 title: "Là NPC trên Tiktok và ngoài đời&#8230;?"
 slug: "la-npc-tren-tiktok-va-ngoai-doi"
 excerpt: "Hiện tượng “NPC điều khiển” trên TikTok Trong vũ trụ vô tận của TikTok, một hiện tượng khá kỳ lạ đã thu hút sự chú ý của người dùng: “ Bộ điều khiển NPC » (Nhân vật không phải người chơi). Trước đây chỉ giới hạn trong trò chơi điện tử, cụm từ &#8220;NPC&#8221; hiện [&hellip;]"

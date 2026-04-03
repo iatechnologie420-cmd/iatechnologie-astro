@@ -1,4 +1,5 @@
 ---
+
 title: "Cognitivismo: la nostra intelligenza è artificiale?"
 slug: "cognitivismo-la-nostra-intelligenza-e-artificiale"
 excerpt: "Le origini del cognitivismo e dell&#8217;intelligenza umana Le origini del cognitivismo IL cognitivismo è un approccio in psicologia che si concentra sui meccanismi interni del pensiero, trattando la mente umana come un sistema di elaborazione delle informazioni. Le origini di questo approccio risalgono principalmente agli anni ’50 e ’60, come reazione al comportamentismo, allora molto [&hellip;]"

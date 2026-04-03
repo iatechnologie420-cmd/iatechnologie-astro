@@ -1,4 +1,5 @@
 ---
+
 title: "Alan Turing and the birth of artificial intelligence"
 slug: "alan-turing-and-the-birth-of-artificial-intelligence"
 excerpt: "Alan Turing: Founding Father of Artificial Intelligence Alan Turing: Founding Father of Artificial IntelligenceThe history of artificial intelligence (AI) could not be completely told without mentioning the name of Alan Turing, considered by many to be the founding father of this field which is today revolutionizing so many aspects of our daily lives. His contribution [&hellip;]"

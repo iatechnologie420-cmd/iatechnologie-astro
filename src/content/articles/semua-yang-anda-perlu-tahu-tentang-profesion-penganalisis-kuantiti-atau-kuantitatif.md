@@ -1,4 +1,5 @@
 ---
+
 title: "Semua yang anda perlu tahu tentang profesion Penganalisis Kuantiti atau kuantitatif"
 slug: "semua-yang-anda-perlu-tahu-tentang-profesion-penganalisis-kuantiti-atau-kuantitatif"
 excerpt: "Pengenalan kepada dunia kewangan kuantitatif Kewangan kuantitatif ialah bidang kewangan khusus yang menggunakan model matematik, statistik dan teknik komputer untuk memahami dan meramalkan gelagat pasaran kewangan. Dalam artikel ini, kami akan meneroka bidang ini dengan membincangkan alatan yang digunakannya, aplikasinya serta kemahiran yang diperlukan untuk cemerlang di dalamnya. Kewangan kuantitatif telah menjadi penting untuk membuat [&hellip;]"

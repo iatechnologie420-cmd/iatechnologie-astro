@@ -1,4 +1,5 @@
 ---
+
 title: "Kako lahko tehnologija vedenjske znanosti izboljša naše vsakdanje življenje?"
 slug: "kako-lahko-tehnologija-vedenjske-znanosti-izboljsa-nase-vsakdanje-zivljenje"
 excerpt: "Vpliv tehnologije na vedenje Tehnologija je pomembno vplivala na številna področja, vključno z vedenjskimi znanostmi. Zahvaljujoč tehnološkemu napredku imajo raziskovalci dostop do orodij in metod, ki jim omogočajo boljše razumevanje in analizo človeškega vedenja. V tem članku bomo raziskali različne vidike vpliva tehnologije na vedenje in kako lahko izboljša naše vsakdanje življenje. 1. Zbiranje in [&hellip;]"

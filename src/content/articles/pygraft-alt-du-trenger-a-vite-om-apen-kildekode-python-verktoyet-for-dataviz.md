@@ -1,4 +1,5 @@
 ---
+
 title: "PyGraft: alt du trenger å vite om åpen kildekode Python-verktøyet for DataViz"
 slug: "pygraft-alt-du-trenger-a-vite-om-apen-kildekode-python-verktoyet-for-dataviz"
 excerpt: "PyGraft: den nye stjernen i åpen kildekode DataViz PyGraft fremstår som et lovende verktøy, designet for å gi datafagfolk og entusiaster en berikende og kraftig opplevelse i å lage datavisualiseringer. Med avanserte prosesseringsmuligheter og bemerkelsesverdig fleksibilitet, PyGraft er et prosjekt åpen kilde som allerede har begynt å bli snakket om. Men hva er PyGraft og [&hellip;]"

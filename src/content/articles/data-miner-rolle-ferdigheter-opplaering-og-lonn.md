@@ -1,4 +1,5 @@
 ---
+
 title: "Data Miner: rolle, ferdigheter, opplæring og lønn"
 slug: "data-miner-rolle-ferdigheter-opplaering-og-lonn"
 excerpt: "Dataminerens rolle og oppdrag DE Data Miner, eller dataprospektør, spiller en avgjørende rolle i verden av data og kunstig intelligens. Det er en essensiell skyggeaktør som legger til rette for beslutningstaking og strategisk ledelse i bedrifter. Vi vil detaljere dens oppdrag og viktigheten av dens rolle. Hva er en data miner? DE Data Miner er [&hellip;]"

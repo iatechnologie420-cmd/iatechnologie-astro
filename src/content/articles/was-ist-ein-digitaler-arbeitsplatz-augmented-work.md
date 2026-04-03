@@ -1,4 +1,5 @@
 ---
+
 title: "Was ist ein digitaler Arbeitsplatz / Augmented Work?"
 slug: "was-ist-ein-digitaler-arbeitsplatz-augmented-work"
 excerpt: "Was ist ein digitaler Arbeitsplatz? Der Begriff Digitaler Arbeitsplatz, Oder digitaler Arbeitsplatzdefiniert ein Arbeitsumfeld, das dank digitaler Technologien keine physischen Barrieren mehr aufweist. Es vereint eine Reihe von Tools und Technologien, die es Benutzern ermöglichen, sich unabhängig von ihrem physischen Standort zu vernetzen, zusammenzuarbeiten und ihre beruflichen Aufgaben auszuführen. In diesem Artikel werden die wesentlichen [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Meilleurs Exemples de l’intelligence artificielle"
 slug: "meilleurs-exemples-de-lintelligence-artificielle"
 excerpt: "Comprendre l&#8217;intelligence artificielle et son importance L&#8217;intelligence artificielle (IA) est une technologie qui a pris une place considérable dans notre quotidien. Du monde du travail à l&#8217;éducation, en passant par l&#8217;environnement et le règlement législatif, l&#8217;IA façonne notre société. Comprendre son fonctionnement et son importance est une étape cruciale pour naviguer dans ce monde de [&hellip;]"

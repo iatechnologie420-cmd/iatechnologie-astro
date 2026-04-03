@@ -1,4 +1,5 @@
 ---
+
 title: "Hyundai: Công nghệ đang cách mạng hóa ngành công nghiệp ô tô như thế nào?"
 slug: "hyundai-cong-nghe-dang-cach-mang-hoa-nganh-cong-nghiep-o-to-nhu-the-nao"
 excerpt: "Chuyển đổi kỹ thuật số đã thay đổi đáng kể cách chúng ta tương tác với các sản phẩm và dịch vụ, và ngành công nghiệp ô tô cũng không ngoại lệ. Một ví dụ tuyệt vời về sự tiến hóa này có thể được nhìn thấy trong Huyndai, công ty đã cố gắng kết [&hellip;]"

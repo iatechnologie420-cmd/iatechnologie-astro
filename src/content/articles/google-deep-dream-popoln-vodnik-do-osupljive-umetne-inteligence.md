@@ -1,4 +1,5 @@
 ---
+
 title: "Google Deep Dream: popoln vodnik do osupljive umetne inteligence"
 slug: "google-deep-dream-popoln-vodnik-do-osupljive-umetne-inteligence"
 excerpt: "Razumevanje koncepta Google Deep Dream V fascinantnem svetu umetne inteligence se je pojavila še posebej impresivna inovacija: Google Deep Dream. Šteje se kot a osupljiva umetna inteligenca, ta koncept združuje napredno tehnologijo in brezmejno domišljijo za ustvarjanje dih jemajočih vizualnih predstavitev. Da bi v celoti razumeli bistvo te tehnologije, bomo v tem članku raziskali njene [&hellip;]"

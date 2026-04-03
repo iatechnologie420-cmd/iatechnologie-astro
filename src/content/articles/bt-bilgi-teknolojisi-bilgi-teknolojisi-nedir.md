@@ -1,4 +1,5 @@
 ---
+
 title: "BT / Bilgi Teknolojisi: bilgi teknolojisi nedir?"
 slug: "bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir"
 excerpt: "BT&#8217;yi Anlamak: Bilgi teknolojilerinin tanımı ve gelişimi Nedir? Dönem BT, İçin Bilgi Teknolojisi İngilizce olarak, işlenmesi ve yönetimi ile ilgili tüm teknolojileri belirtir. bilgi ve veriler. Bu geniş alan dolayısıyla bilgisayar bilimini de içerir, telekomünikasyon, veritabanı yönetim sistemleri, bilgi güvenliği ve çok daha fazlası. BT modern dünyada çok önemlidir: işletmelerin verimli bir şekilde çalışmasına, hükümetlerin [&hellip;]"

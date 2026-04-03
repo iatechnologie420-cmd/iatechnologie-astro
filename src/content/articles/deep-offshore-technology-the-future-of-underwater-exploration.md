@@ -1,4 +1,5 @@
 ---
+
 title: "Deep offshore technology: the future of underwater exploration?"
 slug: "deep-offshore-technology-the-future-of-underwater-exploration"
 excerpt: "What is deep offshore technology? Deep offshore technology, also known as deep-water drilling technology, is a discipline that aims to explore and exploit resources present in the seabed, at depths ranging from 500 to several thousand meters. This technology opens up new possibilities for the exploration and exploitation of oil, gas and mineral reserves located [&hellip;]"

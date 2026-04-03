@@ -1,4 +1,5 @@
 ---
+
 title: "Kas yra IT informacijos centras? apibrėžimas ir paaiškinimas"
 slug: "kas-yra-it-informacijos-centras-apibrezimas-ir-paaiskinimas"
 excerpt: "A kompiuterių informacijos centras, dar vadinamas informacijos centras, reiškia centralizuotą sistemą, skirtą duomenų valdymui organizacijoje. Jos tikslas – rinkti, kaupti, tvarkyti ir skleisti įmonės veiklai reikalingą informaciją. Jos funkcija yra labai svarbi, kad analitikai ir sprendimus priimantys asmenys galėtų veiksmingai ir informuotai naudotis duomenimis. Šiame straipsnyje apžvelgsime skirtingus IT informacijos centro komponentus ir pridėtinę vertę. [&hellip;]"

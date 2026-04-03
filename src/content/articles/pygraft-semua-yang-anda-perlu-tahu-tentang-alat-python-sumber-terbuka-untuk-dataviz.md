@@ -1,4 +1,5 @@
 ---
+
 title: "PyGraft: semua yang anda perlu tahu tentang alat Python sumber terbuka untuk DataViz"
 slug: "pygraft-semua-yang-anda-perlu-tahu-tentang-alat-python-sumber-terbuka-untuk-dataviz"
 excerpt: "PyGraft: bintang baharu DataViz sumber terbuka PyGraft muncul sebagai alat yang menjanjikan, direka untuk menyediakan profesional dan peminat data pengalaman yang memperkaya dan berkuasa dalam mencipta visualisasi data. Menampilkan keupayaan pemprosesan lanjutan dan fleksibiliti yang luar biasa, PyGraft adalah projek sumber terbuka yang sudah mula diperkatakan. Tetapi apakah itu PyGraft dan bagaimana ia boleh merevolusikan [&hellip;]"

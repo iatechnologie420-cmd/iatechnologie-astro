@@ -1,4 +1,5 @@
 ---
+
 title: "Giá iCloud: so sánh các mức giá khác nhau và các gói khả thi"
 slug: "gia-icloud-so-sanh-cac-muc-gia-khac-nhau-va-cac-goi-kha-thi"
 excerpt: "iCloud là dịch vụ lưu trữ đám mây được cung cấp bởi Quả táo cho phép lưu trữ dữ liệu như tài liệu, ảnh và nhạc trên máy chủ từ xa để tải xuống thiết bị iOS, Mac hoặc Windows. Nó cũng cung cấp khả năng đồng bộ dữ liệu giữa các thiết bị khác [&hellip;]"

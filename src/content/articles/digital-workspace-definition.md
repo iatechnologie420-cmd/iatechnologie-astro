@@ -1,4 +1,5 @@
 ---
+
 title: "Qu&#8217;est ce qu&#8217;un digital workspace / travail augmenté  ?"
 slug: "digital-workspace-definition"
 excerpt: "Qu&#8217;est-ce qu&#8217;un Digital Workspace? Le terme Digital Workspace, ou espace de travail numérique, définit un environnement de travail qui n&#8217;a plus de barrières physiques grâce aux technologies numériques. Il regroupe un ensemble d&#8217;outils et de technologies permettant aux utilisateurs de se connecter, de collaborer et de réaliser leurs tâches professionnelles indépendamment de leur localisation physique. [&hellip;]"

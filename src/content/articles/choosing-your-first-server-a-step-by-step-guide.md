@@ -1,4 +1,5 @@
 ---
+
 title: "Choosing your first server: a step-by-step guide"
 slug: "choosing-your-first-server-a-step-by-step-guide"
 excerpt: "Understanding the differences between server types Servers play a vital role in running networks, hosting websites, storing data, and supporting computing, among other tasks. These powerful machines can come in different forms, each with its own particularities and ideal use. This article aims to review the main server types and their differences in order to [&hellip;]"

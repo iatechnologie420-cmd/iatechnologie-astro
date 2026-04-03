@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT es sólo una ilusión de inteligencia: ¿por qué?"
 slug: "chatgpt-es-solo-una-ilusion-de-inteligencia-por-que"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE ¿La simulación de la inteligencia humana mediante IA? La capacidad de simular la inteligencia humana con máquinas siempre ha sido una fascinación singular, tanto para los científicos como para el público en general. Si la idea de una máquina capaz de pensar, razonar y comprender como un humano todavía puede parecer ciencia ficción, los [&hellip;]"

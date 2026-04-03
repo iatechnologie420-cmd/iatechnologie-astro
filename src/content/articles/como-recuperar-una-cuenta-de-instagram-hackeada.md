@@ -1,4 +1,5 @@
 ---
+
 title: "¿Cómo recuperar una cuenta de Instagram hackeada?"
 slug: "como-recuperar-una-cuenta-de-instagram-hackeada"
 excerpt: "Identificar una cuenta de Instagram comprometida Con el constante aumento de usuarios en plataformas sociales como Instagram, los riesgos de piratería de cuentas se han intensificado. Sepa cómo identificar si su cuenta Instagram se ha visto comprometida es fundamental para poder actuar con rapidez y eficacia. En este artículo, conozcamos las señales de advertencia de [&hellip;]"

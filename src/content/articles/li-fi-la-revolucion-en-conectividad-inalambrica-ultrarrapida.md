@@ -1,4 +1,5 @@
 ---
+
 title: "Li-Fi: la revolución en conectividad inalámbrica ultrarrápida"
 slug: "li-fi-la-revolucion-en-conectividad-inalambrica-ultrarrapida"
 excerpt: "La revolución silenciosa del Li-Fi: la conectividad ligera del mañana Introducción a la iluminación de alta tecnología. Es un hecho poco conocido por el gran público, pero Li-Fi (acrónimo de Light Fidelity) se encuentra entre las tecnologías de transmisión inalámbrica más prometedoras hasta la fecha, aunque sus primeras pruebas se remontan a 2005. Se desarrolló [&hellip;]"

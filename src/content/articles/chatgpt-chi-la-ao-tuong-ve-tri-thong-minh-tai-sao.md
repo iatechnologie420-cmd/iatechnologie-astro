@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT chỉ là ảo tưởng về trí thông minh: tại sao?"
 slug: "chatgpt-chi-la-ao-tuong-ve-tri-thong-minh-tai-sao"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Sự mô phỏng trí tuệ con người bằng AI? Khả năng mô phỏng trí thông minh của con người bằng máy móc luôn là niềm đam mê đặc biệt đối với cả các nhà khoa học và công chúng nói chung. Nếu ý tưởng về một cỗ máy có khả năng suy nghĩ, lý [&hellip;]"

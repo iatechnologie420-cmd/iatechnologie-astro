@@ -1,4 +1,5 @@
 ---
+
 title: "Penyetem instrumen Google: revolusi bagi musisi?"
 slug: "penyetem-instrumen-google-revolusi-bagi-musisi"
 excerpt: "Pentingnya menyetel alat musik Tuning adalah salah satu aspek terpenting dalam memainkan alat musik. Baik Anda seorang pemula atau musisi berpengalaman, Anda perlu menyetel instrumen Anda secara teratur untuk mendapatkan suara terbaik. Dalam artikel ini, kami akan mengeksplorasi pentingnya menyetel alat musik dan memberi Anda beberapa tips untuk memastikan instrumen Anda selalu selaras sekaligus memperkenalkan [&hellip;]"

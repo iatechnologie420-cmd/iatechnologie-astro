@@ -1,4 +1,5 @@
 ---
+
 title: "Tehnologia disruptivă care transformă sistemul bancar?"
 slug: "tehnologia-disruptiva-care-transforma-sistemul-bancar"
 excerpt: "Transformarea sistemului bancar prin tehnologie disruptivă a schimbat profund sectorul financiar în ultimii ani. Progresele tehnologice au permis apariția de noi soluții inovatoare, care schimbă modul în care băncile operează și interacționează cu clienții lor. În acest articol, vom explora diferitele dimensiuni ale acestei transformări și impacturile pe care le are asupra industriei bancare. Digitalizarea: [&hellip;]"

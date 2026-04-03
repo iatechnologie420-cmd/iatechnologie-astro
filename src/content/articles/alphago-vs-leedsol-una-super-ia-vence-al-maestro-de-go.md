@@ -1,4 +1,5 @@
 ---
+
 title: "AlphaGo vs Leedsol: una súper IA vence al maestro de Go"
 slug: "alphago-vs-leedsol-una-super-ia-vence-al-maestro-de-go"
 excerpt: "Un choque histórico: la inteligencia artificial desafía al maestro del Go El mundo del Go estuvo históricamente dominado por maestros humanos, hasta que ocurrió un hecho significativo que sacudió los paradigmas establecidos. La inteligencia artificial, esta herramienta desarrollada por el ingenio humano, asumió el desafío de abordar uno de los juegos de estrategia más complejos [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "O que é um robô médico? definição e explicação"
 slug: "o-que-e-um-robo-medico-definicao-e-explicacao"
 excerpt: "Definição e tipologia de robôs médicos O advento da robótica na área da saúde abriu imensas possibilidades para melhorar os cuidados médicos e cirúrgicos. Essas tecnologias, conhecidas como robôs médicos, são dispositivos mecânicos ou sistemas computacionais capazes de realizar ações complexas com alta precisão, muitas vezes sob a supervisão ou controle direto de pessoal médico [&hellip;]"

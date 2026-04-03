@@ -1,4 +1,5 @@
 ---
+
 title: "Deepfake: alles wat u moet weten over de nieuwe dreiging die verband houdt met AI"
 slug: "deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai"
 excerpt: "Definitie en werking van Deepfake Definitie van deepfake De voorwaarde diep nep is een samentrekking van de Engelse woorden ‘deep learning’ en ‘fake’. Deze technologie is gebaseerd op algoritmenkunstmatige intelligentie speciaal ontworpen voor het creëren of bewerken van audiovisuele inhoud, inclusief video&#8217;s en audiotracks. Het resultaat is vaak zo overtuigend dat het oog en oor [&hellip;]"

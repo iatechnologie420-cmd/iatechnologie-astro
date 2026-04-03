@@ -1,4 +1,5 @@
 ---
+
 title: "4G-antenner: Hvordan fange opp 4G bedre innendørs?"
 slug: "4g-antenner-hvordan-fange-opp-4g-bedre-innendors"
 excerpt: "Forstå hvordan 4G fungerer og dets begrensninger Hva er 4G? Teknologi 4G, også kjent som 4. generasjon av standarder for mobiltelekommunikasjon, er fortsettelsen av 3G og går foran den aller siste 5G. Den tilbyr en høyhastighets mobil Internett-tilkobling, slik at du kan dra nytte av bedre dataoverføring. Dette inkluderer streaming av videoer i høy oppløsning, [&hellip;]"

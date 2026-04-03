@@ -1,4 +1,5 @@
 ---
+
 title: "Alles, was Sie über den Beruf des Quant oder quantitativen Analysten wissen müssen"
 slug: "alles-was-sie-uber-den-beruf-des-quant-oder-quantitativen-analysten-wissen-mussen"
 excerpt: "Einführung in die Welt des quantitativen Finanzwesens Quantitative Finanzen sind ein Spezialgebiet des Finanzwesens, das mathematische Modelle, Statistiken und Computertechniken nutzt, um das Verhalten von Finanzmärkten zu verstehen und vorherzusagen. In diesem Artikel werden wir dieses Gebiet erkunden, indem wir die verwendeten Tools, seine Anwendungen sowie die Fähigkeiten besprechen, die erforderlich sind, um in diesem [&hellip;]"

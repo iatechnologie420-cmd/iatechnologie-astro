@@ -1,4 +1,5 @@
 ---
+
 title: "Alanas Turingas ir dirbtinio intelekto gimimas"
 slug: "alanas-turingas-ir-dirbtinio-intelekto-gimimas"
 excerpt: "Alanas Turingas: Dirbtinio intelekto įkūrėjas Alanas Turingas: Dirbtinio intelekto įkūrėjasDirbtinio intelekto (DI) istorija negali būti visiškai nupasakota nepaminėjus Alano Turingo vardo, kurį daugelis laiko šios srities, kuri šiandien keičia tiek daug mūsų kasdienio gyvenimo aspektų, įkūrėju. Jo indėlis gerokai viršija paprastą išradimą; jis pagrįstas koncepcijomis ir teorijomis, kurios vis dar sudaro pagrindą, kuriuo remiantis vystosi [&hellip;]"

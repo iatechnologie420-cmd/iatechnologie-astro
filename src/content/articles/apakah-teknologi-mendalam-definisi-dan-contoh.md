@@ -1,4 +1,5 @@
 ---
+
 title: "Apakah teknologi mendalam? definisi dan contoh"
 slug: "apakah-teknologi-mendalam-definisi-dan-contoh"
 excerpt: "di sana Deep Tech, atau teknologi canggih, mewakili revolusi dalam dunia permulaan dan inovasi hari ini. Ia menonjol daripada teknologi yang lebih konvensional dengan kedalaman perubahannya dan potensi mengganggunya. Tetapi apa yang kita maksudkan sebenarnya Deep Tech, dan bagaimana ia berbeza daripada jenis teknologi lain? Definisi Deep Tech Istilah Deep Tech merujuk kepada teknologi yang [&hellip;]"

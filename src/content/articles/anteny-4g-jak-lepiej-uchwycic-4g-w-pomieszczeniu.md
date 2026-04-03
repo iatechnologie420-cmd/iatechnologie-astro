@@ -1,4 +1,5 @@
 ---
+
 title: "Anteny 4G: Jak lepiej uchwycić 4G w pomieszczeniu?"
 slug: "anteny-4g-jak-lepiej-uchwycic-4g-w-pomieszczeniu"
 excerpt: "Dowiedz się, jak działa 4G i jakie są jego ograniczenia Co to jest 4G? Technologia 4G, znany również jako 4. generacja standardów telekomunikacji mobilnej, jest kontynuacją 3G i poprzedza bardzo niedawne 5G. Oferuje szybkie mobilne łącze internetowe, dzięki czemu możesz cieszyć się lepszym transferem danych. Obejmuje to strumieniowe przesyłanie filmów w wysokiej rozdzielczości, przeglądanie Internetu [&hellip;]"

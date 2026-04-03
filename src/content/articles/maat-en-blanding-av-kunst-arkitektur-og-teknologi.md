@@ -1,4 +1,5 @@
 ---
+
 title: "MAAT: en blanding av kunst, arkitektur og teknologi?"
 slug: "maat-en-blanding-av-kunst-arkitektur-og-teknologi"
 excerpt: "Historien om MAAT: en blanding av kunst og arkitektur MAAT, akronym for Museum of Art, Architecture and Technologies, er et emblematisk sted som vitner om fusjonen mellom kunst, arkitektur og teknologi. Ligger ved bredden av Tejo i Lisboa, legemliggjør den perfekt det harmoniske ekteskapet mellom estetikk og innovasjon. I denne artikkelen fordyper vi oss i [&hellip;]"

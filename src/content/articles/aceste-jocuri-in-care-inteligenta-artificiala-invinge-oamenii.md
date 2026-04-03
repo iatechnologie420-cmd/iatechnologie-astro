@@ -1,4 +1,5 @@
 ---
+
 title: "Aceste jocuri în care inteligența artificială învinge oamenii"
 slug: "aceste-jocuri-in-care-inteligenta-artificiala-invinge-oamenii"
 excerpt: "Zorii supercomputerelor și provocarea de șah Era supercomputerelor nu mai este o viziune futuristă îndepărtată, ci o realitate tangibilă care revoluționează diverse sectoare, inclusiv jocurile de strategie precum șahul. Aceste mașini cu o putere de calcul fenomenală oferă un loc de joacă ideal pentru a explora frontierele inteligenței artificiale și a prelua provocarea șahului punând [&hellip;]"

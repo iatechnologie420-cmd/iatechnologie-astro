@@ -1,4 +1,5 @@
 ---
+
 title: "4G loftnet: Hvernig á að fanga 4G betur innandyra?"
 slug: "4g-loftnet-hvernig-a-ad-fanga-4g-betur-innandyra"
 excerpt: "Skildu hvernig 4G virkar og takmörk þess Hvað er 4G? Tækni 4G, líka þekkt sem 4. kynslóð staðla fyrir farsímafjarskipti, er framhald á 3G og á undan hinni mjög nýlegu 5G. Það býður upp á háhraða farsímanettengingu, sem gerir þér kleift að njóta góðs af betri gagnaflutningi. Þetta felur í sér að streyma myndböndum í [&hellip;]"

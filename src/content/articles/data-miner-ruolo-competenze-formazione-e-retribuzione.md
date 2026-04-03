@@ -1,4 +1,5 @@
 ---
+
 title: "Data Miner: ruolo, competenze, formazione e retribuzione"
 slug: "data-miner-ruolo-competenze-formazione-e-retribuzione"
 excerpt: "Il ruolo e le missioni del data miner IL Minatore di dati, o prospettore di dati, svolge un ruolo cruciale nel mondo dei dati e dell&#8217;intelligenza artificiale. È un attore ombra essenziale che facilita il processo decisionale e la gestione strategica all’interno delle aziende. Descriveremo in dettaglio le sue missioni e l&#8217;importanza del suo ruolo. [&hellip;]"

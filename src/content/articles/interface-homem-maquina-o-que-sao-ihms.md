@@ -1,4 +1,5 @@
 ---
+
 title: "Interface Homem-Máquina: o que são IHMs?"
 slug: "interface-homem-maquina-o-que-sao-ihms"
 excerpt: "Definição de Interface Homem-Máquina A interface homem-máquina refere-se a todos os meios e ferramentas implementados para permitir a interação eficaz entre um usuário humano e um sistema computacional. Abrange tudo, desde o design visual das telas até dispositivos de entrada, como teclado, mouse e interfaces de toque e voz. A evolução histórica da HMI As [&hellip;]"

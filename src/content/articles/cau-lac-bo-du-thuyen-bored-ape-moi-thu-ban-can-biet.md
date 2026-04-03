@@ -1,4 +1,5 @@
 ---
+
 title: "Câu lạc bộ du thuyền Bored Ape: mọi thứ bạn cần biết"
 slug: "cau-lac-bo-du-thuyen-bored-ape-moi-thu-ban-can-biet"
 excerpt: "Câu lạc bộ du thuyền Bored Ape là gì? CÁC Câu lạc bộ du thuyền Bored Ape là một hiện tượng gần đây đang làm chấn động thế giới Mã thông báo không thể thay thế (NFT). Những chú khỉ ảo được minh họa độc đáo này đã trở thành biểu tượng cho địa vị [&hellip;]"

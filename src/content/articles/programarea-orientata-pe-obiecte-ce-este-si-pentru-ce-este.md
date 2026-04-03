@@ -1,4 +1,5 @@
 ---
+
 title: "Programarea orientată pe obiecte: ce este și pentru ce este?"
 slug: "programarea-orientata-pe-obiecte-ce-este-si-pentru-ce-este"
 excerpt: "Fundamentele programarii orientate pe obiecte Acolo Programare orientată pe obiecte (OOP) este o paradigmă de programare care utilizează „obiecte” pentru a proiecta aplicații și programe de calculator. Aceste obiecte reprezintă entități din lumea reală și permit dezvoltatorilor să creeze software mai flexibil, mai scalabil și mai ușor de întreținut. În acest articol, vom explora conceptele [&hellip;]"

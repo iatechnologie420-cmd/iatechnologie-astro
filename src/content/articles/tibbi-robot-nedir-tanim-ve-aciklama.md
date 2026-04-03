@@ -1,4 +1,5 @@
 ---
+
 title: "Tıbbi robot nedir? tanım ve açıklama"
 slug: "tibbi-robot-nedir-tanim-ve-aciklama"
 excerpt: "Tıbbi robotların tanımı ve tipolojisi Robotiklerin sağlık hizmetlerinde ortaya çıkışı, tıbbi bakım ve cerrahinin iyileştirilmesi için muazzam olanaklar yarattı. olarak bilinen bu teknolojiler tıbbi robotlar, genellikle kalifiye tıbbi personelin gözetimi veya doğrudan kontrolü altında karmaşık eylemleri yüksek hassasiyetle gerçekleştirebilen mekanik cihazlar veya bilgisayar sistemleridir. Peki şu anda sağlık sektöründe kullanımda olan farklı tıbbi robot türleri [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Hvað er djúptækni? skilgreiningu og dæmi"
 slug: "hvad-er-djuptaekni-skilgreiningu-og-daemi"
 excerpt: "Þarna Djúp tækni, eða háþróaða tækni, táknar byltingu í heimi sprotafyrirtækja og nýsköpunar í dag. Það sker sig úr hefðbundnari tækni vegna dýptar breytinga og truflandi möguleika. En hvað er eiginlega verið að meina með Djúp tækni, og hvernig er það frábrugðið öðrum tegundum tækni? Skilgreining á Deep Tech Hugtakið Djúp tækni vísar til tækni [&hellip;]"

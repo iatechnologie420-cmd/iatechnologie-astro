@@ -1,4 +1,5 @@
 ---
+
 title: "Segway Navimow review: de autonome maaier van de toekomst?"
 slug: "segway-navimow-review-de-autonome-maaier-van-de-toekomst"
 excerpt: "De voordelen van de autonome maaier Segway Navimow Stelt u zich eens voor dat u ten volle van uw tuin kunt genieten zonder dat u zich zorgen hoeft te maken over het maaien van het gazon. Dankzij de autonome maaier Segway Navimow behoort deze vervelende taak nu tot het verleden. Deze autonome maaier zit boordevol [&hellip;]"

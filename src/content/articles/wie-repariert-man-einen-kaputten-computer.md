@@ -1,4 +1,5 @@
 ---
+
 title: "Wie repariert man einen kaputten Computer?"
 slug: "wie-repariert-man-einen-kaputten-computer"
 excerpt: "Diagnose des Ausfalls Ihres Computers Ein Computerproblem kann manchmal zu echten Kopfschmerzen führen. Der Computer ist ein komplexer technischer Verbund, und wenn etwas nicht wie erwartet funktioniert, gibt es oft eine Vielzahl möglicher Gründe. In diesem Artikel bieten wir Ihnen einen praktischen Leitfaden, der Ihnen hilft, das Problem zu identifizieren und mögliche Lösungen für die [&hellip;]"

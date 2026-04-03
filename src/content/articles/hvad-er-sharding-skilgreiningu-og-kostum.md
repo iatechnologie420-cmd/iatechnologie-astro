@@ -1,4 +1,5 @@
 ---
+
 title: "Hvað er Sharding? skilgreiningu og kostum"
 slug: "hvad-er-sharding-skilgreiningu-og-kostum"
 excerpt: "Skilningur á klippingu: skilgreiningu og grundvallarreglur Heimur gagnagrunna og stórfelldra gagnageymslu er flókinn og í stöðugri þróun. Til að stjórna á áhrifaríkan hátt veldishraða auknu magni gagna verður upplýsingatækniarkitektúr að gera nýsköpun og finna lausnir til að hámarka frammistöðu og stjórnun þessara gagna. Ein nálgun á þetta vandamál er tækni sem kallast riftun. Í þessari [&hellip;]"

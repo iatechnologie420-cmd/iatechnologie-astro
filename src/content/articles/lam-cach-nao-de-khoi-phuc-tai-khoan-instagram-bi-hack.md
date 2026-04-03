@@ -1,4 +1,5 @@
 ---
+
 title: "Làm cách nào để khôi phục tài khoản Instagram bị hack?"
 slug: "lam-cach-nao-de-khoi-phuc-tai-khoan-instagram-bi-hack"
 excerpt: "Xác định tài khoản Instagram bị xâm nhập Với sự gia tăng không ngừng về số lượng người dùng trên các nền tảng xã hội như Instagram, nguy cơ bị hack tài khoản ngày càng gia tăng. Biết cách xác định xem tài khoản của bạn có Instagram đã bị xâm phạm là điều cần [&hellip;]"

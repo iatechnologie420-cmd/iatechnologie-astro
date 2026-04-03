@@ -1,4 +1,5 @@
 ---
+
 title: "Specialūs klaviatūros simboliai: populiariausi spartieji klavišai, kuriuos reikia žinoti („Windows“ ir „Mac“)"
 slug: "specialus-klaviaturos-simboliai-populiariausi-spartieji-klavisai-kuriuos-reikia-zinoti-windows-ir-mac"
 excerpt: "Specialieji simboliai – tai simboliai arba ženklai, kurie neatitinka standartinių tradicinės klaviatūros raidžių ir skaičių. Šių specialiųjų simbolių naudojimas yra labai svarbus įvairiuose kontekstuose, tokiuose kaip kompiuterių programavimas, teksto rašymas, slaptažodžių apsauga ir matematinių ar mokslinių duomenų įvedimas. Programavime, būtini specialieji simboliai. Jie leidžia atlikti konkrečias operacijas, pavyzdžiui, atskirti simbolių eilutes arba pateikti sudėtingas instrukcijas. [&hellip;]"

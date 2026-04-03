@@ -1,4 +1,5 @@
 ---
+
 title: "Dovremmo investire nell’intelligenza artificiale adesso?"
 slug: "dovremmo-investire-nellintelligenza-artificiale-adesso"
 excerpt: "Prima di rispondere sì o no se è giunto il momento di investire nell’intelligenza artificiale, ripercorriamo la storia dell’intelligenza artificiale per contestualizzare le cose e prendere una decisione ponderata. L&#8217;evoluzione dell&#8217;intelligenza artificiale IA convenzionale L&#8217;intelligenza artificiale convenzionale, detta anche &#8220;intelligenza artificiale debole&#8221;, ha avuto origine negli anni &#8217;50, quando i ricercatori si concentravano principalmente sulla [&hellip;]"

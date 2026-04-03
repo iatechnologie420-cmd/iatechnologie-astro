@@ -1,4 +1,5 @@
 ---
+
 title: "Testbericht zum Segway Navimow: Der autonome Mäher der Zukunft?"
 slug: "testbericht-zum-segway-navimow-der-autonome-maher-der-zukunft"
 excerpt: "Die Vorteile des autonomen Rasenmähers Segway Navimow Stellen Sie sich vor, Sie könnten Ihren Garten in vollen Zügen genießen, ohne sich um das lästige Rasenmähen kümmern zu müssen. Dank des autonomen Mähers Segway Navimow gehört diese mühsame Aufgabe nun der Vergangenheit an. Vollgepackt mit innovativen Funktionen und fortschrittlicher Technologie bietet dieser autonome Mäher viele Vorteile, [&hellip;]"

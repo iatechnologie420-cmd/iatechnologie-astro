@@ -1,4 +1,5 @@
 ---
+
 title: "Hvað er textanám? skilgreiningu"
 slug: "hvad-er-textanam-skilgreiningu"
 excerpt: "Kynning á textanámu THE textanám, eða textanám á frönsku, er grein gagnavísinda sem einbeitir sér að því að vinna gagnlegar upplýsingar úr stórum settum textagagna. Oft tengt við náttúruleg málvinnsla (NLP), textanám felur í sér safn af aðferðum og verkfærum sem geta skilið, greina og vinna úr mannamáli sem safnað er í textaformi. Vaxandi notkun [&hellip;]"

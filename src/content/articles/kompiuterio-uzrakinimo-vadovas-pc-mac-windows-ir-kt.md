@@ -1,4 +1,5 @@
 ---
+
 title: "Kompiuterio užrakinimo vadovas (PC, Mac, Windows ir kt.)"
 slug: "kompiuterio-uzrakinimo-vadovas-pc-mac-windows-ir-kt"
 excerpt: "Būtinybė apsaugoti kompiuterį Šiuo metu, kai veikla spartėja skaitmenine forma, mūsų kompiuterių saugumas tapo dideliu rūpesčiu tiek asmenims, tiek įmonėms. Čia pateikiamas išsamus vadovas apie gerus refleksus, kurių reikia imtis norint veiksmingai apsaugoti savo kompiuterio sistemą. Kompiuteriai yra pagrindiniai mūsų asmeninių ir profesinių duomenų centrai. Jie taip pat yra vartai prie neriboto kiekio informacijos ir [&hellip;]"

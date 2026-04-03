@@ -1,4 +1,5 @@
 ---
+
 title: "Master Data Manager: Rolle, Fähigkeiten, Ausbildung und Gehalt"
 slug: "master-data-manager-rolle-fahigkeiten-ausbildung-und-gehalt"
 excerpt: "Die Schlüsselrolle des Master Data Managers bei der Datenverwaltung In einer Welt, in der Daten zu einem wichtigen strategischen Vermögenswert für Unternehmen geworden sind, Datenamt ist für die Gewährleistung der Qualität, Sicherheit und Wirksamkeit von Informationen von entscheidender Bedeutung. Im Mittelpunkt dieser Governance steht die Stammdatenmanager (MDM) spielt eine entscheidende Rolle. Lassen Sie uns gemeinsam [&hellip;]"

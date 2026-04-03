@@ -1,4 +1,5 @@
 ---
+
 title: "Chief Data Officer (CDO): ​​rol, competențe, pregătire și salariu"
 slug: "chief-data-officer-cdo-rol-competente-pregatire-si-salariu"
 excerpt: "Locul strategic al Chief Data Officer în companie În era datelor mari și a analizei datelor, companiile recunosc din ce în ce mai mult importanța gestionării și valorificării strategice a datelor lor. În centrul acestei recunoașteri se află un rol cheie: cel Chief Data Officer (CDO). CDO este esențial pentru echilibrarea guvernanței, a calității datelor, [&hellip;]"

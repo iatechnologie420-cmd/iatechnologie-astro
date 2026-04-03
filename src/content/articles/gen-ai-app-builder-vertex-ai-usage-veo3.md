@@ -1,4 +1,5 @@
 ---
+
 title: "🚨 Veo3 ne fonctionne PAS avec GenAI App Builder sur Vertex AI (à quoi sert il vraiment ?)"
 slug: "gen-ai-app-builder-vertex-ai-usage-veo3"
 excerpt: "Vous avez été nombreux à débloquer jusqu’à&nbsp;1300 $ de crédits&nbsp;sur Google Cloud avec Vertex AI. En creusant les conditions et en discutant directement avec le support Google, j’ai découvert une information essentielle :le bonus GenAI App Builder ne permet pas de générer des vidéos avec Veo 3. Dans cet article, je vous explique exactement&nbsp;comment fonctionnent ces [&hellip;]"

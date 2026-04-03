@@ -1,4 +1,5 @@
 ---
+
 title: "Bayes&#8217; teorem og dens bruk i AI"
 slug: "bayes-teorem-og-dens-bruk-i-ai"
 excerpt: "Introduksjon til Bayes&#8217; teorem DE Bayes&#8217; teorem er en grunnleggende formel i sannsynlighet og statistikk som beskriver oppdateringen av vår tro i nærvær av ny informasjon. Oppkalt til ære for pastor Thomas Bayes, spiller denne teoremet en avgjørende rolle på mange felt, alt fra maskinlæring til beslutningstaking under usikkerhet. Essensen av Bayes&#8217; teorem Hjertet til [&hellip;]"

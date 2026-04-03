@@ -1,4 +1,5 @@
 ---
+
 title: "Hyundai: Cum revoluționează tehnologia industria auto?"
 slug: "hyundai-cum-revolutioneaza-tehnologia-industria-auto"
 excerpt: "Transformarea digitală a schimbat semnificativ modul în care interacționăm cu produsele și serviciile, iar industria auto nu face excepție. Un exemplu excelent al acestei evoluții poate fi văzut în Hyundai, care a reușit să încorporeze cele mai recente progrese tehnologice în producția și operațiunile sale pentru a rămâne în fruntea industriei. Încorporarea tehnologiei digitale în [&hellip;]"

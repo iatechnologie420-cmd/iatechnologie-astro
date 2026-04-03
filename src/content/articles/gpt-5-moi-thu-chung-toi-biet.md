@@ -1,4 +1,5 @@
 ---
+
 title: "GPT-5: mọi thứ chúng tôi biết"
 slug: "gpt-5-moi-thu-chung-toi-biet"
 excerpt: "Sự phát triển của trí tuệ nhân tạo: từ GPT-3 đến GPT-5 Sự tiến triển vượt bậc củatrí tuệ nhân tạo sáng tạo trong bối cảnh công nghệ đang được thúc đẩy vào thời điểm này bởi hiện tượng Trò chuyệnGPT. Bắt đầu với GPT-3, trong khi chờ GPT-4, một phiên bản trung gian GPT-3.5 [&hellip;]"

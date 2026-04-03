@@ -1,4 +1,5 @@
 ---
+
 title: "Estos juegos donde la inteligencia artificial gana a los humanos"
 slug: "estos-juegos-donde-la-inteligencia-artificial-gana-a-los-humanos"
 excerpt: "Los albores de las supercomputadoras y el desafío del ajedrez La era de las supercomputadoras ya no es una visión futurista lejana, sino una realidad tangible que está revolucionando diversos sectores, incluidos los juegos de estrategia como el ajedrez. Estas máquinas con una potencia informática fenomenal ofrecen un campo de juego ideal para explorar las [&hellip;]"

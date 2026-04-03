@@ -1,4 +1,5 @@
 ---
+
 title: "Revoluția braille: când tehnologia transformă accesibilitatea"
 slug: "revolutia-braille-cand-tehnologia-transforma-accesibilitatea"
 excerpt: "Revoluția braille în era tehnologică Geneza braille-ului și adaptările contemporane Dezvoltat inițial de Louis Braille în secolul al XIX-lea, sistemul de scriere pentru orbi și cu deficiențe de vedere cunoscut sub numele de braille a revoluționat modul în care comunică. Inspirat de un mecanism conceput pentru ca armata să citească în întuneric, Louis Braille a [&hellip;]"

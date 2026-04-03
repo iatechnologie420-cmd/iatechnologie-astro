@@ -1,4 +1,5 @@
 ---
+
 title: "Deepfake: viskas, ką reikia žinoti apie naują grėsmę, susijusią su AI"
 slug: "deepfake-viskas-ka-reikia-zinoti-apie-nauja-gresme-susijusia-su-ai"
 excerpt: "Deepfake apibrėžimas ir veikimas Deepfake apibrėžimas Terminas gilus padirbinys yra angliškų žodžių „deep learning“ ir „fake“ santrauka. Ši technologija yra pagrįsta algoritmaisdirbtinis intelektas specialiai sukurta garso ir vaizdo turiniui, įskaitant vaizdo įrašus ir garso takelius, kurti arba redaguoti. Rezultatas dažnai būna toks įtikinamas, kad gali apgauti akį ir ausį, todėl daugumai žmonių jis iš pirmo [&hellip;]"

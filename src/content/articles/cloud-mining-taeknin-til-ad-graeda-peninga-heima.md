@@ -1,4 +1,5 @@
 ---
+
 title: "Cloud Mining: tæknin til að græða peninga heima"
 slug: "cloud-mining-taeknin-til-ad-graeda-peninga-heima"
 excerpt: "Cloud Mining: vinna sér inn dulritunargjaldmiðla án búnaðar THE skýjanám er aðferð sem gerir einstaklingum kleift að taka þátt í útdrætti á dulmálsgjaldmiðlar án þess að þurfa að kaupa og viðhalda eigin útdráttarbúnaði. Þessi tækni er tilvalin fyrir þá sem vilja taka þátt í námuvinnslu dulritunargjaldmiðla en hafa ekki tæknilegt, líkamlegt eða fjárhagslegt fjármagn til [&hellip;]"

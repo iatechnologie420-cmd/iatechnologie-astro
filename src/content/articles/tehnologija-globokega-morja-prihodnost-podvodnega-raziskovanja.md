@@ -1,4 +1,5 @@
 ---
+
 title: "Tehnologija globokega morja: prihodnost podvodnega raziskovanja?"
 slug: "tehnologija-globokega-morja-prihodnost-podvodnega-raziskovanja"
 excerpt: "Kaj je tehnologija globokega morja? Tehnologija globokega morja, znana tudi kot tehnologija globokomorskega vrtanja, je disciplina, katere cilj je raziskovanje in izkoriščanje virov, ki so prisotni v morskem dnu, v globinah od 500 do nekaj tisoč metrov. Ta tehnologija odpira nove možnosti za raziskovanje in izkoriščanje zalog nafte, plina in mineralov na morju. Izzivi globokega [&hellip;]"

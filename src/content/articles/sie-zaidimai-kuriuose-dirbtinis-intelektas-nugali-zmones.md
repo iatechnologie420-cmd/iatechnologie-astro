@@ -1,4 +1,5 @@
 ---
+
 title: "Šie žaidimai, kuriuose dirbtinis intelektas nugali žmones"
 slug: "sie-zaidimai-kuriuose-dirbtinis-intelektas-nugali-zmones"
 excerpt: "Superkompiuterių aušra ir šachmatų iššūkis Superkompiuterių era nebėra tolima futuristinė vizija, o apčiuopiama realybė, sukelianti revoliuciją įvairiuose sektoriuose, įskaitant strateginius žaidimus, tokius kaip šachmatai. Šios mašinos su fenomenalia skaičiavimo galia yra ideali žaidimų aikštelė tyrinėti dirbtinio intelekto ribas ir priimti šachmatų iššūkį užduodant pagrindinį klausimą: Koks yra tikrasis superkompiuterių potencialas, kai jie naudojami šachmatų žaidime, [&hellip;]"

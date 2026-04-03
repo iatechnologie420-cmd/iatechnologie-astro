@@ -1,4 +1,5 @@
 ---
+
 title: "Cloud Mining : la technologie pour gagner de l’argent chez vous"
 slug: "cloud-mining-technologie-pour-gagner-de-l-argent"
 excerpt: "Cloud Mining : gagner des cryptomonnaies sans équipement Le cloud mining est une méthode qui permet aux individus de participer à l&#8217;extraction de cryptomonnaies sans avoir besoin d&#8217;acheter et de maintenir leur propre matériel d&#8217;extraction. Cette technique est idéale pour ceux qui souhaitent s&#8217;impliquer dans le mining de cryptomonnaies mais qui ne disposent pas des [&hellip;]"

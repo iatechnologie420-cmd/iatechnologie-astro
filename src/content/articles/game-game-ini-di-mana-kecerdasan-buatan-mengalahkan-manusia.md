@@ -1,4 +1,5 @@
 ---
+
 title: "Game-game ini di mana kecerdasan buatan mengalahkan manusia"
 slug: "game-game-ini-di-mana-kecerdasan-buatan-mengalahkan-manusia"
 excerpt: "Awal mula superkomputer dan tantangan catur Era superkomputer bukan lagi sebuah visi futuristik, namun sebuah kenyataan nyata yang merevolusi berbagai sektor, termasuk permainan strategi seperti catur. Mesin dengan kekuatan komputasi yang fenomenal ini menawarkan tempat bermain yang ideal untuk menjelajahi batas-batas kecerdasan buatan dan menerima tantangan catur dengan mengajukan pertanyaan mendasar: Apa potensi superkomputer yang [&hellip;]"

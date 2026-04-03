@@ -1,4 +1,5 @@
 ---
+
 title: "Caracteres especiales del teclado: principales atajos que debes conocer (en Windows y Mac)"
 slug: "caracteres-especiales-del-teclado-principales-atajos-que-debes-conocer-en-windows-y-mac"
 excerpt: "Los caracteres especiales son símbolos o signos que no corresponden a las letras y números estándar de un teclado tradicional. El uso de estos caracteres especiales es de gran importancia en diversos contextos, como la programación informática, la escritura de textos, la seguridad de contraseñas y la entrada de datos matemáticos o científicos. en programación, [&hellip;]"

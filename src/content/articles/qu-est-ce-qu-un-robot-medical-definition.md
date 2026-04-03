@@ -1,4 +1,5 @@
 ---
+
 title: "Qu&#8217;est-ce qu&#8217;un robot médical ? définition et explication"
 slug: "qu-est-ce-qu-un-robot-medical-definition"
 excerpt: "Définition et typologie des robots médicaux L&#8217;avènement de la robotique dans le domaine de la santé a ouvert d&#8217;immenses possibilités pour améliorer les soins médicaux et la chirurgie. Ces technologies, connues sous le nom de robots médicaux, sont des dispositifs mécaniques ou des systèmes informatiques capables de réaliser des actions complexes avec une grande précision, [&hellip;]"

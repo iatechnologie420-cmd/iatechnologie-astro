@@ -1,4 +1,5 @@
 ---
+
 title: "Đám mây AWS – Mọi thứ bạn cần biết về đám mây Dịch vụ web của Amazon"
 slug: "dam-may-aws-moi-thu-ban-can-biet-ve-dam-may-dich-vu-web-cua-amazon"
 excerpt: "Giới thiệu về Amazon Web Services (AWS): cuộc cách mạng trong điện toán đám mây Kể từ khi thành lập vào năm 2006, Dịch vụ web của Amazon (AWS) đã thay đổi hoàn toàn bối cảnh CNTT bằng cách cung cấp nền tảng dịch vụ đám mây mang lại tính linh hoạt, quy mô và [&hellip;]"

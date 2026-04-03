@@ -1,4 +1,5 @@
 ---
+
 title: "🎥 Crée des vidéos IA cohérente avec VEO 3 Image-to-Video et ElevenLabs"
 slug: "veo-3-image-to-video-cree-une-image-parfaite-voix-personnalise"
 excerpt: "Tu rêves de transformer une simple image en vidéo ultra réaliste accompagnée d’une voix unique ? En associant&nbsp;VEO 3et&nbsp;ElevenLabs, tu peux créer un personnage IA visuellement et vocalement stable, sans avoir besoin de micro, caméra ou studio. Voici comment mettre en place ce workflow simple et efficace, étape par étape, avec&nbsp;OpenArt.ai&nbsp;pour garantir une base solide visuelle [&hellip;]"

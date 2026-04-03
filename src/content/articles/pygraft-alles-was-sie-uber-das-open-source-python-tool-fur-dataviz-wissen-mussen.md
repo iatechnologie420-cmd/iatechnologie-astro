@@ -1,4 +1,5 @@
 ---
+
 title: "PyGraft: Alles, was Sie über das Open-Source-Python-Tool für DataViz wissen müssen"
 slug: "pygraft-alles-was-sie-uber-das-open-source-python-tool-fur-dataviz-wissen-mussen"
 excerpt: "PyGraft: der neue Star von Open Source DataViz PyGraft erweist sich als vielversprechendes Tool, das Datenprofis und -begeisterten eine bereichernde und leistungsstarke Erfahrung bei der Erstellung von Datenvisualisierungen bieten soll. Ausgestattet mit fortschrittlichen Verarbeitungsfunktionen und bemerkenswerter Flexibilität. PyGraft ist ein Projekt Open Source worüber bereits gesprochen wird. Aber was ist PyGraft und wie kann es [&hellip;]"

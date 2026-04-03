@@ -1,4 +1,5 @@
 ---
+
 title: "¿Qué es un infocentro de TI? definición y explicación"
 slug: "que-es-un-infocentro-de-ti-definicion-y-explicacion"
 excerpt: "A centro de información informática, también conocido como centro de Información, se refiere a un sistema centralizado dedicado a la gestión de datos dentro de una organización. Su objetivo es recoger, almacenar, organizar y difundir la información necesaria para la actividad de la empresa. Su función es esencial para permitir a los analistas y tomadores [&hellip;]"

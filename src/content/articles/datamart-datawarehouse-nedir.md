@@ -1,4 +1,5 @@
 ---
+
 title: "Datamart / Datawarehouse nedir?"
 slug: "datamart-datawarehouse-nedir"
 excerpt: "Datamart kavramına giriş THE veri merkezi veri analizi ve İş Zekası (BI) dünyasında önemli bir terimdir. Bir veri ambarının, yani bir şirketin bilgilerinin bir bölümünü saklayan özel bir veritabanının bir alt bölümüdür. Bir veri ambarı şirket verilerinin yer aldığı devasa bir kütüphane olarak düşünülebilirken, veri pazarı bu kütüphanenin satış, pazarlama veya insan kaynakları gibi belirli [&hellip;]"

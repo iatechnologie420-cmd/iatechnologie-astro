@@ -1,4 +1,5 @@
 ---
+
 title: "IMAP apibrėžimas: viskas, ką reikia žinoti"
 slug: "imap-apibrezimas-viskas-ka-reikia-zinoti"
 excerpt: "Įvadas į IMAP Interneto pranešimų prieigos protokolas (IMAP) yra ryšio standartas, leidžiantis vartotojams gauti ir tvarkyti el. laiškus tiesiogiai el. pašto serveriuose, o tai skiriasi nuo tradicinio metodo, kai el. laiškai atsisiunčiami į vietinę el. pašto klientą. Tai suteikia daug praktinės naudos, ypač pasaulyje, kuriame savo el. laiškus pasiekiame iš kelių įrenginių. Šiame straipsnyje išnagrinėsime, [&hellip;]"

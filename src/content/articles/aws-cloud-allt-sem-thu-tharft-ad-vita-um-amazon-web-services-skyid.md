@@ -1,4 +1,5 @@
 ---
+
 title: "AWS Cloud – Allt sem þú þarft að vita um Amazon Web Services skýið"
 slug: "aws-cloud-allt-sem-thu-tharft-ad-vita-um-amazon-web-services-skyid"
 excerpt: "Kynning á Amazon Web Services (AWS): bylting í tölvuskýi Frá stofnun þess árið 2006, Amazon Web Services (AWS) hefur gerbreytt upplýsingatæknilandslaginu með því að bjóða upp á skýjaþjónustuvettvang sem skilar áður óþekktum sveigjanleika, stærðarhagkvæmni og stærðarhagkvæmni. Þessi kynning miðar að því að skýra rekstrarreglurAWS og til að útskýra hvers vegna þessi lausn er orðin lykilaðili [&hellip;]"

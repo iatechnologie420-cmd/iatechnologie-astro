@@ -1,4 +1,5 @@
 ---
+
 title: "Žmogaus ir mašinos sąsaja: kas yra HMI?"
 slug: "zmogaus-ir-masinos-sasaja-kas-yra-hmi"
 excerpt: "Žmogaus ir mašinos sąsajos apibrėžimas Žmogaus ir mašinos sąsaja reiškia visas priemones ir įrankius, skirtus veiksmingai žmogaus vartotojo ir kompiuterio sistemos sąveikai užtikrinti. Ji apima viską nuo vizualinio ekranų dizaino iki įvesties įrenginių, tokių kaip klaviatūra, pelė ir jutiklinės bei balso sąsajos. Istorinė HMI raida Nuo kompiuterijos atsiradimo HMI patyrė didelę evoliuciją. Iš pradžių jos [&hellip;]"

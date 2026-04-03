@@ -1,4 +1,5 @@
 ---
+
 title: "Hoe een kapotte computer repareren?"
 slug: "hoe-een-kapotte-computer-repareren"
 excerpt: "Diagnose van de storing van uw computer Het tegenkomen van een computerprobleem kan soms uitmonden in echte hoofdpijn. De computer is een complex technologisch complex, en als iets niet werkt zoals verwacht, zijn er vaak een groot aantal mogelijke redenen. In dit artikel bieden we u een praktische gids waarmee u het probleem kunt identificeren [&hellip;]"

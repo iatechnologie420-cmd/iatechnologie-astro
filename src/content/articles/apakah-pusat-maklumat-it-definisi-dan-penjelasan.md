@@ -1,4 +1,5 @@
 ---
+
 title: "Apakah pusat maklumat IT? definisi dan penjelasan"
 slug: "apakah-pusat-maklumat-it-definisi-dan-penjelasan"
 excerpt: "A pusat maklumat komputer, juga dirujuk sebagai Pusat maklumat, merujuk kepada sistem berpusat khusus untuk pengurusan data dalam organisasi. Objektifnya adalah untuk mengumpul, menyimpan, menyusun dan menyebarkan maklumat yang diperlukan untuk aktiviti syarikat. Fungsinya adalah penting untuk membolehkan penganalisis dan pembuat keputusan mengeksploitasi data dengan cara yang cekap dan termaklum. Dalam artikel ini, kami akan [&hellip;]"

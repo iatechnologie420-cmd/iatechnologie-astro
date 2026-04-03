@@ -1,4 +1,5 @@
 ---
+
 title: "Thuật ngữ dữ liệu lớn: ​​Các thuật ngữ bạn cần biết để hiểu"
 slug: "thuat-ngu-du-lieu-lon-cac-thuat-ngu-ban-can-biet-de-hieu"
 excerpt: "Giới thiệu về thế giới dữ liệu lớn CÁC Dữ liệu lớn đại diện cho một lĩnh vực đang phát triển đang thay đổi cách các doanh nghiệp và tổ chức phân tích và tận dụng dữ liệu. Trong thế giới ngày càng kỹ thuật số, dữ liệu được tạo ra với tốc độ chóng [&hellip;]"

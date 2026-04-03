@@ -1,4 +1,5 @@
 ---
+
 title: "Izbira prvega strežnika: vodnik po korakih"
 slug: "izbira-prvega-streznika-vodnik-po-korakih"
 excerpt: "Razumevanje razlik med vrstami strežnikov Strežniki imajo ključno vlogo pri delovanju omrežij, gostovanju spletnih mest, shranjevanju podatkov in podpori računalništva, med drugimi nalogami. Ti zmogljivi stroji so lahko v različnih oblikah, vsak s svojimi posebnostmi in idealno uporabo. Ta članek je namenjen pregledu glavnih vrste strežnikov in njihove razlike, da bi jih bolje razumeli. Fizični [&hellip;]"

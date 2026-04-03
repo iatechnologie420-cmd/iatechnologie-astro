@@ -1,4 +1,5 @@
 ---
+
 title: "Bilgisayarınızı kilitleme kılavuzu (PC, Mac, Windows vb.)"
 slug: "bilgisayarinizi-kilitleme-kilavuzu-pc-mac-windows-vb"
 excerpt: "Bilgisayarınızın güvenliğini sağlama ihtiyacı Faaliyetlerin hızla dijitalleştiği günümüzde bilgisayarlarımızın güvenliği hem bireyler hem de işletmeler için büyük bir endişe kaynağı haline geldi. Burada, bilgisayar sisteminizi etkili bir şekilde korumak için benimsemeniz gereken iyi refleksler hakkında ayrıntılı bir kılavuz bulunmaktadır. Bilgisayarlar kişisel ve profesyonel verilerimizin merkezi merkezleridir. Bunlar aynı zamanda çevrimiçi olarak sınırsız miktarda bilgi ve [&hellip;]"

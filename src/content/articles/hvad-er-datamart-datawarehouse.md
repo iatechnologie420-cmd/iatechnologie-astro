@@ -1,4 +1,5 @@
 ---
+
 title: "Hvað er Datamart / Datawarehouse?"
 slug: "hvad-er-datamart-datawarehouse"
 excerpt: "Kynning á hugtakinu Datamart THE datamart er ómissandi hugtak í heimi gagnagreiningar og viðskiptagreindar (BI). Það er undirkafli gagnavöruhúss, það er sérhæfður gagnagrunnur sem geymir hluta af upplýsingum fyrirtækisins. Þó að hægt sé að líta á gagnavöruhús sem risastórt safn af fyrirtækjagögnum, er hægt að líta á gagnaverslun sem ákveðinn hluta þess bókasafns, skipulagður í [&hellip;]"

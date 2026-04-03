@@ -1,4 +1,5 @@
 ---
+
 title: "Pepper: wszystko, co musisz wiedzieć o robocie społecznościowym SoftBank"
 slug: "pepper-wszystko-co-musisz-wiedziec-o-robocie-spolecznosciowym-softbank"
 excerpt: "Pieprz: Prezentacja i podstawowe funkcje Streszczenie Robot społeczny Pieprz to osiągnięcie technologiczne zaprojektowane do interakcji z ludźmi w środowisku społecznym. Wyposażony w liczne czujniki i zaawansowaną sztuczną inteligencję Pepper rozumie i reaguje na nasze emocje, dostosowując się jednocześnie do naszych zachowań. W tym artykule przedstawimy podstawowe funkcje Peppera, a także jego główne zastosowania w różnych [&hellip;]"

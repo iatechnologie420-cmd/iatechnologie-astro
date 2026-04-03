@@ -1,4 +1,5 @@
 ---
+
 title: "A cadeia de valor PORTER | Exemplos concretos para entender"
 slug: "a-cadeia-de-valor-porter-exemplos-concretos-para-entender"
 excerpt: "Compreendendo a cadeia de valor de Michael Porter A cadeia de valor é um conceito desenvolvido pelo economista e acadêmico americano Michael Porter na sua obra “Vantagem Competitiva” publicada em 1985. Este modelo é essencial para analisar as atividades internas de uma empresa de forma a otimizar o seu valor criado e vantagens competitivas. Este [&hellip;]"

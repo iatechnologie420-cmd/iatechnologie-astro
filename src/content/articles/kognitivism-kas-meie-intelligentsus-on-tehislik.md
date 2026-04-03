@@ -1,4 +1,5 @@
 ---
+
 title: "Kognitivism: kas meie intelligentsus on tehislik?"
 slug: "kognitivism-kas-meie-intelligentsus-on-tehislik"
 excerpt: "Kognitivismi ja inimese intelligentsuse päritolu Kognitivismi päritolu THE kognitivism on lähenemine psühholoogias, mis keskendub mõtlemise sisemistele mehhanismidele, käsitledes inimmõistust kui infotöötlussüsteemi. Selle lähenemise alged pärinevad peamiselt 1950. ja 1960. aastatest, reaktsioonina tollal väga domineerivale biheiviorismile, mis keskendus eranditult jälgitavale käitumisele, jättes tähelepanuta sisemised vaimsed protsessid. THE sihtasutused Kognitivismi teooriad põhinevad selliste tähelepanuväärsete tegelaste töödel nagu [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "Understanding the Turing test"
 slug: "understanding-the-turing-test"
 excerpt: "Origins and principles of the Turing test In the world of artificial intelligence (AI) and computing, the Turing test occupies a prominent place. This is a benchmark method designed to evaluate a machine&#8217;s ability to imitate human intelligence. The origins and principles of this revolutionary test date back to the mid-20th century and are based [&hellip;]"

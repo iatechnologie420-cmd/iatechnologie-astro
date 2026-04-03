@@ -1,4 +1,5 @@
 ---
+
 title: "How tall and weight is Mark Zuckerberg?"
 slug: "how-tall-and-weight-is-mark-zuckerberg"
 excerpt: "Mark Zuckerberg&#8217;s height: Myth or Reality? The controversy surrounding his size For several years, the question of the height of Mark Zuckerberg, the founder of Facebook, has been the subject of much speculation and debate. Some claim it&#8217;s smaller than it looks, while others claim it&#8217;s actually quite tall. So what&#8217;s the truth about Mark [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+
 title: "HIDS vs NIDS: erinevused ja kasutamine"
 slug: "hids-vs-nids-erinevused-ja-kasutamine"
 excerpt: "Sissejuhatus sissetungituvastussüsteemidesse: HIDS ja NIDS Infosüsteemide turvalisus on igas suuruses ettevõtete ja organisatsioonide keskne murekoht. Seistes silmitsi kasvavate ohtude ja küberrünnakute keerukusega, on hädavajalik kehtestada tõhusad kaitsemehhanismid. Nende hulgas on sissetungi tuvastamise süsteemid (IDS) mängivad otsustavat rolli arvutivõrkude jälgimisel ja kahtlaste tegevuste tuvastamisel. Eelkõige hosti sissetungimise tuvastamise süsteemid (HIDS) ja võrgu sissetungi tuvastamise süsteemid (PESAD) [&hellip;]"

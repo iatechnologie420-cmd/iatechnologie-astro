@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT to tylko iluzja inteligencji: dlaczego?"
 slug: "chatgpt-to-tylko-iluzja-inteligencji-dlaczego"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Symulacja ludzkiej inteligencji przez sztuczną inteligencję? Możliwość symulowania ludzkiej inteligencji za pomocą maszyn zawsze była wyjątkową fascynacją zarówno naukowców, jak i ogółu społeczeństwa. Jeśli idea maszyny zdolnej do myślenia, rozumowania i rozumienia jak człowiek może nadal wydawać się science fiction, postęp w sztucznej inteligencji (AI) udowadnia nam, że jesteśmy bliżej tej rzeczywistości niż kiedykolwiek. [&hellip;]"

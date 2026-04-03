@@ -1,4 +1,5 @@
 ---
+
 title: "Spot: Boston Dynamics&#8217;in robot köpeği"
 slug: "spot-boston-dynamicsin-robot-kopegi"
 excerpt: "Boston Dynamics&#8217;in köpek robotu Spot&#8217;un keşfi Modern robot teknolojisinin kreması olarak tanınan, LekeBoston Dynamics&#8217;in robot köpeği, yeni teknolojiler dünyasında şok dalgası yarattı. Benzerlerinin yerini alacak şekilde tasarlanan bu robot, modellerinin yerini almaya hazır hayvan robotlarının simgesel örneğidir. Spot, teknolojik bir devrim Leke bu teknolojik ilerlemeyi mükemmel bir şekilde somutlaştırıyor. Tasarımı, gerçek bir köpeğin hareketlerini ve [&hellip;]"

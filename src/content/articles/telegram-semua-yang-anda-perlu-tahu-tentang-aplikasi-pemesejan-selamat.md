@@ -1,4 +1,5 @@
 ---
+
 title: "Telegram: semua yang anda perlu tahu tentang aplikasi pemesejan selamat"
 slug: "telegram-semua-yang-anda-perlu-tahu-tentang-aplikasi-pemesejan-selamat"
 excerpt: "Apakah Telegram? Telegram ialah aplikasi pemesejan segera yang memfokuskan pada kelajuan dan keselamatan. Ia telah menjadi salah satu platform komunikasi paling popular di dunia berkat gabungan ciri-ciri canggih, antara muka intuitif dan komitmen untuk melindungi privasi pengguna. Sejak dilancarkan pada 2013, Telegram telah menonjol di kalangan pelbagai aplikasi pemesejan, meletakkan dirinya sebagai alat komunikasi alternatif [&hellip;]"

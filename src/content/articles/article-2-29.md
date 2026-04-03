@@ -1,4 +1,5 @@
 ---
+
 slug: "article-2-29"
 title: "最も未来的なロボット技術"
 slug: ""
