@@ -3,7 +3,7 @@ title: "Deepfake : tout savoir sur la nouvelle menace liée à l’IA"
 slug: "deepfake-tout-savoir"
 excerpt: "Définition et fonctionnement du Deepfake Définition du Deepfake Le terme deepfake est une contraction des mots anglais &#8220;deep learning&#8221; (apprentissage profond) et &#8220;fake&#8221; (faux). Cette technologie repose sur des algorithmes d&#8217;intelligence artificielle spécialement conçus pour créer ou modifier du contenu audiovisuel, notamment des vidéos et des pistes audio. Le résultat est souvent si convaincant qu&#8217;il [&hellip;]"
 date: "2024-01-23T09:25:33"
-featuredImage: "/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
 categories: ["innovations-disruptives-et-emergentes", "technologie-numerique"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["innovations-disruptives-et-emergentes", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png" alt="" class="wp-image-1719" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png" alt="" class="wp-image-1719" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -119,7 +119,7 @@ categories: ["innovations-disruptives-et-emergentes", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png" alt="" class="wp-image-1720" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png" alt="" class="wp-image-1720" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ categories: ["innovations-disruptives-et-emergentes", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png" alt="" class="wp-image-1721" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png" alt="" class="wp-image-1721" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

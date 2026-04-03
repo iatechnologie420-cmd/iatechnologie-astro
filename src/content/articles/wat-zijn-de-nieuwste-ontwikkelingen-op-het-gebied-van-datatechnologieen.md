@@ -3,7 +3,7 @@ title: "Wat zijn de nieuwste ontwikkelingen op het gebied van datatechnologieën
 slug: "wat-zijn-de-nieuwste-ontwikkelingen-op-het-gebied-van-datatechnologieen"
 excerpt: "Datatechnologieën spelen een steeds essentiëlere rol in onze moderne samenleving. Met de toenemende digitalisering van ons leven en de explosie aan dagelijks gegenereerde gegevens is het van cruciaal belang om het belang van deze technologieën en hun impact op onze wereld te begrijpen. In dit artikel onderzoeken we de verschillende facetten van datatechnologieën en hun [&hellip;]"
 date: "2024-03-09T12:30:24"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["computers-en-gegevens-nl", "technologie-en-digitaal-nl"]
 ---
 

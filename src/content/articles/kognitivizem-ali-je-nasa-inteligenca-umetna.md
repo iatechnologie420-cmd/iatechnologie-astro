@@ -3,7 +3,7 @@ title: "Kognitivizem: Ali je naša inteligenca umetna?"
 slug: "kognitivizem-ali-je-nasa-inteligenca-umetna"
 excerpt: "Izvori kognitivizma in človeške inteligence Začetki kognitivizma THE kognitivizem je pristop v psihologiji, ki se osredotoča na notranje mehanizme mišljenja in obravnava človeški um kot sistem za obdelavo informacij. Začetki tega pristopa segajo predvsem v 50. in 60. leta 20. stoletja, kot reakcija na biheviorizem, ki je bil takrat zelo dominanten in se je osredotočal [&hellip;]"
 date: "2024-03-09T12:20:58"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["usposabljanje-in-osnove-ai-sl"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["usposabljanje-in-osnove-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["usposabljanje-in-osnove-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["usposabljanje-in-osnove-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

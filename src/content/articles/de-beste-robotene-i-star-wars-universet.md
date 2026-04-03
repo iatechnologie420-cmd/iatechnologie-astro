@@ -3,7 +3,7 @@ title: "De beste robotene i Star Wars-universet"
 slug: "de-beste-robotene-i-star-wars-universet"
 excerpt: "Mekaniske legender: C-3PO og R2-D2 Regnes som de mest emblematiske droidene i sagaen Stjerne krigen, C-3PO og R2-D2 har markert generasjoner av fans med sin unike personlighet, sin historie og sin avgjørende rolle gjennom episodene. Denne artikkelen fordyper seg i verden til disse mekaniske legendene, og avslører deres essens og kulturelle innvirkning. C-3PO: The Polyglot [&hellip;]"
 date: "2024-03-09T12:23:03"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["teknologi-og-digitalt-nb"]
 ---
 

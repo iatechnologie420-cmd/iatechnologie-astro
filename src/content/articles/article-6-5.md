@@ -3,7 +3,7 @@ slug: "article-6-5"
 title: "データと人工知能の専門職を発見する"
 excerpt: "データと人工知能の専門職の紹介 データと人工知能 (AI) の台頭により、革新的で多様な職業が数多く誕生しました。デジタル革命の中心において、これらの専門分野は、データとインテリジェントなオートメーションによってもたらされる可能性を活用しようとしている企業にとって不可欠なものとなっています。 データ専門職を理解する データ サイエンスは、統計、データ分析、IT の真の交差点であり、複雑なデータから知識や洞察を抽出することを使命とする幅広い専門職を提供します。これらの職業の中心となるのは、アルゴリズム モデルを使用して大量のデータを分析するデータ サイエンティストです。その他の役割には、データを解釈して傾向やパターンを推測することに重点を置くデータ アナリストや、データの保存と操作に必要な技術インフラストラクチャを開発および管理するデータ エンジニアなどがあります。 人工知能の職業の発見 AI は、さまざまな分野の活動にとって戦略的な要素となっています。関連する専門職は急成長しており、特にアプリケーションやサービス内で AI ソリューションを実装する専門家である AI 開発者が含まれます。一方、機械学習エンジニアは、大量のデータを学習できるモデルを設計します。 AI を自動化された物理システムの制御にリンクするロボティクス エキスパートも忘れてはなりません。 スキルとトレーニング データおよび AI の専門家は、Python や R などの確かなプログラミング スキルに加えて、数学、特に統計に関する深い知識を持っている必要があります。また、プラットフォームなど、現場の最新のツールやテクノロジーを装備する必要もあります。 TensorFlow または パイトーチ、データの使用に関連する倫理的問題を習得します。トレーニング コースは多様で、専門的な修士号から、次のようなプラットフォームが提供するオンライン コースまで多岐にわたります。 コーセラ または edX。 ツールとテクノロジー データと AI の専門家の日常生活は、複数のツールとプラットフォームを中心に展開しています。その中には次のようなものがあります。 具体的な活用事例 データと AI の応用範囲は広大で、ほぼすべてのセクターに影響を与えます。 データとAIに関わる職業の課題と未来 データと AI の専門家は進化を続け、新しい技術の可能性や社会的課題に常に適応しています。の台頭 ビッグデータ 個人データ保護とITセキュリティの重要性を強調した。同時に、インテリジェントパーソナルアシスタントなどの消費者向け製品への AI の統合も進んでいます。 グーグル [&hellip;]"
 date: "2024-03-09T12:53:31"
-featuredImage: "/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
 categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf-ja"]
 ---
 
@@ -109,7 +109,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -153,7 +153,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -301,7 +301,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

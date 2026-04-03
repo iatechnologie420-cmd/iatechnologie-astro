@@ -3,7 +3,7 @@ title: "Teknologi lepas pantai: masa depan eksplorasi bawah air?"
 slug: "teknologi-lepas-pantai-masa-depan-eksplorasi-bawah-air"
 excerpt: "Apa itu teknologi lepas pantai? Teknologi lepas pantai dalam, juga dikenal sebagai teknologi pengeboran perairan dalam, adalah suatu disiplin ilmu yang bertujuan untuk mengeksplorasi dan mengeksploitasi sumber daya yang ada di dasar laut, pada kedalaman berkisar antara 500 hingga beberapa ribu meter. Teknologi ini membuka kemungkinan baru bagi eksplorasi dan eksploitasi cadangan minyak, gas, dan [&hellip;]"
 date: "2024-03-09T12:31:31"
-featuredImage: "/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
 categories: ["teknologi-dan-digital-id", "teknologi-hijau-dan-kota-cerdas-id"]
 ---
 

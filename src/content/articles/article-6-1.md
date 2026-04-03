@@ -3,7 +3,7 @@ title: "د کلاوډ کان کیندنه: په کور کې د پیسو ګټلو
 slug: "article-6-1"
 excerpt: "د کلاوډ کان کیندنه: پرته له تجهیزاتو کریپټو اسعارو ترلاسه کړئ د بادل کان کیندنې یوه طریقه ده چې افرادو ته اجازه ورکوي چې په استخراج کې برخه واخلي کریپټو اسعارو پرته له دې چې د خپل استخراج تجهیزات پیرود او ساتنه وکړي. دا تخنیک د هغو کسانو لپاره مثالی دی څوک چې غواړي د [&hellip;]"
 date: "2024-03-09T11:55:15"
-featuredImage: "/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-3.png"
 categories: ["%d8%a8%d9%84%d8%a7%da%a9%da%86%db%8c%d9%86-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-%d8%a7%d9%85%d9%86%db%8c%d8%aa-ps", "%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps"]
 ---
 
@@ -123,7 +123,7 @@ categories: ["%d8%a8%d9%84%d8%a7%da%a9%da%86%db%8c%d9%86-%d8%a7%d9%88-%da%89%db%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous.png" alt="" class="wp-image-1703" srcset="/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous.png 1792w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-300x171.png 300w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1024x585.png 1024w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-150x86.png 150w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-768x439.png 768w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous.png" alt="" class="wp-image-1703" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous.png 1792w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-300x171.png 300w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1024x585.png 1024w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-150x86.png 150w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-768x439.png 768w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ categories: ["%d8%a8%d9%84%d8%a7%da%a9%da%86%db%8c%d9%86-%d8%a7%d9%88-%da%89%db%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1.png" alt="" class="wp-image-1704" srcset="/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1.png 1792w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-300x171.png 300w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-1024x585.png 1024w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-150x86.png 150w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-768x439.png 768w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1.png" alt="" class="wp-image-1704" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1.png 1792w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-300x171.png 300w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-1024x585.png 1024w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-150x86.png 150w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-768x439.png 768w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ categories: ["%d8%a8%d9%84%d8%a7%da%a9%da%86%db%8c%d9%86-%d8%a7%d9%88-%da%89%db%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2.png" alt="" class="wp-image-1705" srcset="/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2.png 1792w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-300x171.png 300w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-1024x585.png 1024w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-150x86.png 150w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-768x439.png 768w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2.png" alt="" class="wp-image-1705" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2.png 1792w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-300x171.png 300w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-1024x585.png 1024w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-150x86.png 150w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-768x439.png 768w, /images/blog/Cloud-Mining-la-nouvelle-methode-pour-gagner-de-largent-chez-vous-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

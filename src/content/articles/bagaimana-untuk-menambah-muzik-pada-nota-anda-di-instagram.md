@@ -3,7 +3,7 @@ title: "Bagaimana untuk menambah muzik pada nota anda di Instagram?"
 slug: "bagaimana-untuk-menambah-muzik-pada-nota-anda-di-instagram"
 excerpt: "Gunakan ciri muzik di Instagram Instagram telah menjadi platform penting untuk berkongsi detik kehidupan, imej dan video. Untuk menjadikan siaran anda lebih menarik, anda boleh menyepadukan muzik ke dalam kandungan anda. Dalam artikel ini, kami akan meneroka ciri muzik yang berbeza di Instagram dan cara menggunakannya untuk membuat siaran asli dan menarik. Mengapa menambahkan muzik [&hellip;]"
 date: "2024-03-09T12:26:18"
-featuredImage: "/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["media-dan-platform-digital-ms", "teknologi-dan-digital-ms"]
 ---
 

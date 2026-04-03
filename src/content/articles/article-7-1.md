@@ -3,7 +3,7 @@ title: "Колку е висок и тежина Марк Цукерберг?"
 slug: "article-7-1"
 excerpt: "Висината на Марк Цукерберг: Мит или реалност? Контроверзноста околу неговата големина Веќе неколку години, прашањето за висината на Марк Цукерберг, основачот на Фејсбук, е предмет на многу шпекулации и дебати. Некои тврдат дека е помал отколку што изгледа, додека други тврдат дека всушност е прилично висок. Па која е вистината за висината на Марк Цукерберг? [&hellip;]"
 date: "2024-03-09T12:37:13"
-featuredImage: "/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

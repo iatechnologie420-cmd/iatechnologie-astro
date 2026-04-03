@@ -3,7 +3,7 @@ title: "Millised on andmetehnoloogia uusimad edusammud?"
 slug: "millised-on-andmetehnoloogia-uusimad-edusammud"
 excerpt: "Andmetehnoloogiad mängivad meie kaasaegses ühiskonnas üha olulisemat rolli. Seoses meie elu suureneva digitaliseerimisega ja igapäevaselt genereeritavate andmete plahvatusliku kasvuga on ülioluline mõista nende tehnoloogiate tähtsust ja nende mõju meie maailmale. Selles artiklis uurime andmetehnoloogiate erinevaid tahke ja nende olulisust erinevates valdkondades. Protsesside ja otsuste tegemise optimeerimine Andmetehnoloogiad võimaldavad optimeerida protsesse paljudes sektorites alates tööstusest kuni [&hellip;]"
 date: "2024-03-09T12:28:16"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 

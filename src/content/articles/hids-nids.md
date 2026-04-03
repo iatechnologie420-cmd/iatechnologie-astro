@@ -3,7 +3,7 @@ title: "HIDS 与 NIDS：差异和用途"
 slug: "hids-nids"
 excerpt: "入侵检测系统简介：HIDS 和 NIDS 信息系统安全是各种规模的企业和组织的核心关注点。面对日益增长的威胁和网络攻击的复杂性，建立有效的防御机制势在必行。其中， 入侵检测系统 （入侵检测系统）在监控计算机网络和检测可疑活动方面发挥着至关重要的作用。特别是， 主机入侵检测系统 （HIDS）和 网络入侵检测系统 （巢穴) 是两种互补类型，可提供额外的保护层。 什么是 HIDS（基于主机的入侵检测系统）？ A HIDS 是安装在个人计算机或主机上的软件。它监视安装它的系统是否存在可疑活动，并将这些事件报告给管理员或中央安全事件管理 (SIEM) 系统。 HIDS 分析系统文件、运行进程、活动日志和文件系统完整性以检测可能的入侵。 什么是 NIDS（基于网络的入侵检测系统）？ 相比之下，一个 巢穴 位于网络层，监视通过交换和路由系统的流量。它能够检测针对网络基础设施的攻击，例如分布式拒绝服务 (DDoS)、端口扫描或穿越网络的其他形式的异常行为。 HIDS 与 NIDS 的比较 在选择入侵检测系统时，必须了解 HIDS 和 NIDS 之间的差异，以确定哪种系统最适合组织的特定环境。 标准 HIDS 巢穴 定位 安装在各个主机上 在网络基础设施中实施 发挥作用 监控本地文件和进程 监控网络流量 检测到的攻击类型 文件修改、rootkit 等 端口扫描、DDoS 等 范围 仅限于主机 扩展到全网 表现 可能受主机负载影响 取决于网络流量 [&hellip;]"
 date: "2024-03-09T11:59:28"
-featuredImage: "/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
 categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh", "%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh"]
 ---
 
@@ -67,7 +67,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png" alt="" class="wp-image-1641" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png" alt="" class="wp-image-1641" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -91,7 +91,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png" alt="" class="wp-image-1642" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png" alt="" class="wp-image-1642" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png" alt="" class="wp-image-1643" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png" alt="" class="wp-image-1643" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "GPT-5: mọi thứ chúng tôi biết"
 slug: "gpt-5-moi-thu-chung-toi-biet"
 excerpt: "Sự phát triển của trí tuệ nhân tạo: từ GPT-3 đến GPT-5 Sự tiến triển vượt bậc củatrí tuệ nhân tạo sáng tạo trong bối cảnh công nghệ đang được thúc đẩy vào thời điểm này bởi hiện tượng Trò chuyệnGPT. Bắt đầu với GPT-3, trong khi chờ GPT-4, một phiên bản trung gian GPT-3.5 [&hellip;]"
 date: "2024-03-09T11:52:13"
-featuredImage: "/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
 categories: ["ung-dung-ai-vi"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["ung-dung-ai-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="Tìm hiểu mọi thứ chúng tôi biết về GPT-5, công cụ xử lý ngôn ngữ tự nhiên mới mang tính cách mạng." class="wp-image-14752" srcset="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="Tìm hiểu mọi thứ chúng tôi biết về GPT-5, công cụ xử lý ngôn ngữ tự nhiên mới mang tính cách mạng." class="wp-image-14752" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

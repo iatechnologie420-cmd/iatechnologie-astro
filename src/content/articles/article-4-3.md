@@ -3,7 +3,7 @@ title: "데이터 및 인공 지능 직업을 찾아보세요"
 slug: "article-4-3"
 excerpt: "데이터 및 인공 지능 직업 소개 데이터와 인공지능(AI)의 등장으로 혁신적이고 다양한 직업이 생겨났습니다. 디지털 혁명의 중심에서 이러한 전문화는 데이터와 지능형 자동화가 제공하는 잠재력을 활용하려는 기업에게 필수적이 되었습니다. 데이터 전문직 이해 통계, 데이터 분석 및 IT의 진정한 교차점인 데이터 과학은 복잡한 데이터에서 지식이나 통찰력을 추출하는 임무를 맡은 다양한 직업을 제공합니다. 이러한 직업의 중심에는 알고리즘 모델을 사용하여 [&hellip;]"
 date: "2024-03-09T12:54:01"
-featuredImage: "/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
 categories: ["%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b0%8f-%eb%8d%b0%ec%9d%b4%ed%84%b0-ko"]
 ---
 
@@ -109,7 +109,7 @@ categories: ["%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b0%8f-%eb%8d%b0%ec%9d%b4%ed%84%b0-
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -153,7 +153,7 @@ categories: ["%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b0%8f-%eb%8d%b0%ec%9d%b4%ed%84%b0-
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -301,7 +301,7 @@ categories: ["%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b0%8f-%eb%8d%b0%ec%9d%b4%ed%84%b0-
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "AI Marketing: teknologi til fordel for bedrifter?"
 slug: "ai-marketing-teknologi-til-fordel-for-bedrifter"
 excerpt: "Kunstig intelligens (AI) dukker gradvis opp som en transformativ kraft for markedsføring. Å gjenoppfinne markedsføring med AI, forstå implikasjonene for merkevaremarkedsføring og potensialet for interaksjon sparer tid, øker effektiviteten og åpner veien for nye metoder for forbrukerengasjement. Denne veksten markerer overgangen fra tradisjonell markedsføring til mer informert, personlig og sanntidsmarkedsføring. Markedsføringsrevolusjonen med AI AI gir [&hellip;]"
 date: "2024-03-09T11:48:14"
-featuredImage: "/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
 categories: ["ai-applikasjoner-nb"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["ai-applikasjoner-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="oppdage hvordan AI positivt påvirker bedrifters markedsføringsstrategi. dechiffrere bruken av teknologi for å øke bedriftens ytelse." class="wp-image-14756" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="oppdage hvordan AI positivt påvirker bedrifters markedsføringsstrategi. dechiffrere bruken av teknologi for å øke bedriftens ytelse." class="wp-image-14756" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -101,7 +101,7 @@ categories: ["ai-applikasjoner-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="Oppdag hvordan AI for markedsføring kan transformere virksomheter og øke veksten deres. hvordan kan teknologi være en ressurs for markedsføringsstrategier?" class="wp-image-14757" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="Oppdag hvordan AI for markedsføring kan transformere virksomheter og øke veksten deres. hvordan kan teknologi være en ressurs for markedsføringsstrategier?" class="wp-image-14757" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Google instrument tuner: revolution for musicians?"
 slug: "google-instrument-tuner-revolution-for-musicians"
 excerpt: "The importance of tuning musical instruments Tuning is one of the most important aspects when it comes to playing a musical instrument. Whether you&#8217;re a beginner or an experienced musician, you need to tune your instrument regularly to get the best sound possible. In this article, we&#8217;ll explore the importance of tuning musical instruments and [&hellip;]"
 date: "2024-03-09T12:37:18"
-featuredImage: "/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["technology-and-digital-en"]
 ---
 

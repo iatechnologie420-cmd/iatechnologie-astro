@@ -3,7 +3,7 @@ title: "Revolusi braille: Ketika teknologi mengubah aksesibilitas"
 slug: "revolusi-braille-ketika-teknologi-mengubah-aksesibilitas"
 excerpt: "Revolusi braille di era teknologi Kejadian braille dan adaptasi kontemporer Awalnya dikembangkan oleh Louis Braille pada abad ke-19, sistem penulisan untuk tunanetra dan tunanetra yang dikenal sebagai braille merevolusi cara mereka berkomunikasi. Terinspirasi oleh mekanisme yang dirancang agar tentara dapat membaca dalam kegelapan, Louis Braille mengoptimalkan metode tersebut agar lancar dan cepat di bawah jari. [&hellip;]"
 date: "2024-03-09T12:18:58"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-id", "teknologi-dan-digital-id"]
 ---
 

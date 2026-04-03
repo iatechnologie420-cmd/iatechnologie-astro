@@ -3,7 +3,7 @@ title: "Market share of iOS, Android and Windows mobile operating systems in 202
 slug: "market-share-of-ios-android-and-windows-mobile-operating-systems-in-2024"
 excerpt: "Mobile operating systems market shares With the rise of smartphones and the constant evolution of technology, the rivalry between iOS, Android and Windows becomes more and more intense. The market shares for each operating system vary inventively depending on several factors. Mobile operating system market growth forecast in 2024 According to recent reports smartphone sales [&hellip;]"
 date: "2024-03-09T11:46:19"
-featuredImage: "/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-2.png"
 categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 ---
 
@@ -73,7 +73,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png" alt="discover the market shares forecast for 2024 for ios, android and windows mobile operating systems." class="wp-image-14662" srcset="/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png 1792w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-300x171.png 300w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1024x585.png 1024w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-150x86.png 150w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-768x439.png 768w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png" alt="discover the market shares forecast for 2024 for ios, android and windows mobile operating systems." class="wp-image-14662" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png 1792w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-300x171.png 300w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1024x585.png 1024w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-150x86.png 150w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-768x439.png 768w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

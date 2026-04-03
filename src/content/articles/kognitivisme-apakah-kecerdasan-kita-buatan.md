@@ -3,7 +3,7 @@ title: "Kognitivisme: Apakah kecerdasan kita buatan?"
 slug: "kognitivisme-apakah-kecerdasan-kita-buatan"
 excerpt: "Asal usul kognitivisme dan kecerdasan manusia Asal usul kognitivisme ITU kognitivisme adalah pendekatan dalam psikologi yang berfokus pada mekanisme internal pemikiran, memperlakukan pikiran manusia sebagai sistem pemrosesan informasi. Asal usul pendekatan ini terutama dimulai pada tahun 1950-an dan 1960-an, sebagai reaksi terhadap behaviorisme, yang sangat dominan pada saat itu dan berfokus secara eksklusif pada perilaku [&hellip;]"
 date: "2024-03-09T12:18:40"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

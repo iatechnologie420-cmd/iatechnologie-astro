@@ -3,7 +3,7 @@ title: "파괴적인 기술이 은행 업무를 변화시키고 있습니까?"
 slug: "article-141"
 excerpt: "파괴적인 기술을 통한 은행업의 변화는 최근 몇 년간 금융 부문을 근본적으로 변화시켰습니다. 기술 발전으로 인해 은행이 운영하고 고객과 상호 작용하는 방식을 변화시키는 새로운 혁신적인 솔루션이 등장했습니다. 이 기사에서는 이러한 변화의 다양한 측면과 이것이 은행 산업에 미치는 영향을 살펴보겠습니다. 디지털화: 완전 디지털 시대 파괴적인 기술을 통한 은행 혁신의 첫 번째 차원은 디지털화입니다. 기존 은행은 온라인 뱅킹 [&hellip;]"
 date: "2024-03-09T12:34:55"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%8c%8c%ea%b4%b4%ec%a0%81%ec%9d%b4%ea%b3%a0-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%98%81%ec%8b%a0-ko"]
 ---
 

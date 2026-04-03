@@ -3,7 +3,7 @@ title: "Унифицирани комуникации: дали недостап
 slug: "article-118"
 excerpt: "Унифицирани комуникации: Дефиниција и принцип Што е унифицирани комуникации? НА Унифицирани комуникации (CU), или Unified Communications на англиски јазик, означува збир на услуги и решенија кои имаат за цел да интегрираат или обединат различни форми на комуникации во рамките на истиот интерфејс или платформа. Ова вклучува инстант пораки, видео конференции, гласовни повици (VoIP), е-пошта, веб-конференции [&hellip;]"
 date: "2024-03-09T12:01:02"
-featuredImage: "/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-3.png"
 categories: ["%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b8-%d0%bc%d0%b5%d0%b4%d0%b8%d1%83%d0%bc%d0%b8-%d0%b8-%d0%bf%d0%bb%d0%b0%d1%82%d1%84%d0%be%d1%80%d0%bc%d0%b8-mk", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 
@@ -131,7 +131,7 @@ categories: ["%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b8-%d0%bc%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png" alt="" class="wp-image-1032" srcset="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png" alt="" class="wp-image-1032" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ categories: ["%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b8-%d0%bc%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png" alt="" class="wp-image-1033" srcset="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png" alt="" class="wp-image-1033" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

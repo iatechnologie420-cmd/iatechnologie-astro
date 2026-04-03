@@ -3,7 +3,7 @@ title: "د سټار وار کائنات کې غوره روبوټونه"
 slug: "article-138"
 excerpt: "میخانیکي افسانې: C-3PO او R2-D2 د ساګا تر ټولو سمبوليک ډرایډونه ګڼل کیږي سټار وارز، C-3PO او R2-D2 د دوی د ځانګړي شخصیت ، د دوی کیسې او د دوی مهم رول په ټوله قسطونو کې د مینه والو نسلونه په نښه کړي. دا مقاله د دې میخانیکي افسانو نړۍ ته ځي ، د دوی [&hellip;]"
 date: "2024-03-09T12:23:24"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps"]
 ---
 

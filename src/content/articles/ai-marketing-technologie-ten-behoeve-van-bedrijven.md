@@ -3,7 +3,7 @@ title: "AI Marketing: technologie ten behoeve van bedrijven?"
 slug: "ai-marketing-technologie-ten-behoeve-van-bedrijven"
 excerpt: "Kunstmatige intelligentie (AI) ontpopt zich geleidelijk als een transformerende kracht voor marketing. Het opnieuw uitvinden van marketing met AI, het begrijpen van de implicaties ervan voor merkmarketing en het potentieel voor interactie bespaart tijd, verhoogt de efficiëntie en opent de weg naar nieuwe methoden voor consumentenbetrokkenheid. Deze groei markeert de overgang van traditionele marketing naar [&hellip;]"
 date: "2024-03-09T11:48:24"
-featuredImage: "/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
 categories: ["ai-toepassingen-nl"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["ai-toepassingen-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="ontdek hoe AI de marketingstrategie van bedrijven positief beïnvloedt. het ontcijferen van het gebruik van technologie om de bedrijfsprestaties te verbeteren." class="wp-image-14756" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="ontdek hoe AI de marketingstrategie van bedrijven positief beïnvloedt. het ontcijferen van het gebruik van technologie om de bedrijfsprestaties te verbeteren." class="wp-image-14756" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -101,7 +101,7 @@ categories: ["ai-toepassingen-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="ontdek hoe AI voor marketing bedrijven kan transformeren en hun groei kan stimuleren. hoe technologie een aanwinst kan zijn voor marketingstrategieën?" class="wp-image-14757" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="ontdek hoe AI voor marketing bedrijven kan transformeren en hun groei kan stimuleren. hoe technologie een aanwinst kan zijn voor marketingstrategieën?" class="wp-image-14757" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

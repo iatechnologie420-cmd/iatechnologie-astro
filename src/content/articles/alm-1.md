@@ -3,7 +3,7 @@ title: "ALM یا د غوښتنلیک د ژوند دورې مدیریت: تعری
 slug: "alm-1"
 excerpt: "اساسات L&#8217;د ژوند دورې مدیریت ایپ (ALM) د سافټویر پراختیا لپاره یو منظم حکومتداري او مدیریت چوکاټ دی. دا هغه کړنې، پروسې، او وسایل لري چې ټیمونو ته وړتیا ورکوي چې د غوښتنلیک د ژوند دوره اداره کړي د تصور څخه تر تقاعد پورې. راځئ چې د عصري سافټویر په پراختیا کې د ALM اجزاوو [&hellip;]"
 date: "2024-03-09T12:10:59"
-featuredImage: "/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-3.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%d8%b2%db%8c%d8%b1%d8%a8%d9%86%d8%a7%d9%88%db%90-%d8%a7%d9%88-%d8%b4%d8%a8%da%a9%db%90-ps"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%8
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-.png" alt="" class="wp-image-1390" srcset="/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-.png 1792w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--300x171.png 300w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--1024x585.png 1024w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--150x86.png 150w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--768x439.png 768w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-.png" alt="" class="wp-image-1390" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-.png 1792w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--300x171.png 300w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--1024x585.png 1024w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--150x86.png 150w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--768x439.png 768w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -159,7 +159,7 @@ categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%8
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2.png" alt="" class="wp-image-1392" srcset="/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2.png 1792w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-300x171.png 300w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-1024x585.png 1024w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-150x86.png 150w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-768x439.png 768w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2.png" alt="" class="wp-image-1392" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2.png 1792w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-300x171.png 300w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-1024x585.png 1024w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-150x86.png 150w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-768x439.png 768w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

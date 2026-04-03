@@ -3,7 +3,7 @@ title: "Quali sono gli ultimi progressi nelle tecnologie dei dati?"
 slug: "quali-sono-gli-ultimi-progressi-nelle-tecnologie-dei-dati"
 excerpt: "Le tecnologie dei dati svolgono un ruolo sempre più essenziale nella nostra società moderna. Con la crescente digitalizzazione delle nostre vite e l’esplosione dei dati generati quotidianamente, è fondamentale comprendere l’importanza di queste tecnologie e il loro impatto sul nostro mondo. In questo articolo esploreremo i diversi aspetti delle tecnologie dei dati e la loro [&hellip;]"
 date: "2024-03-09T12:28:45"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["informatica-e-dati-it", "tecnologia-e-digitale-it"]
 ---
 

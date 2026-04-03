@@ -3,7 +3,7 @@ title: "Công viên công nghệ: trung tâm đổi mới cho ngày mai?"
 slug: "cong-vien-cong-nghe-trung-tam-doi-moi-cho-ngay-mai"
 excerpt: "Sự xuất hiện của các khu công nghệ Những khu bảo tồn đổi mới này, còn được gọi là công viên khoa học hoặc cực công nghệ, có lịch sử phong phú và không ngừng phát triển; chúng thể hiện tiến bộ kỹ thuật và kinh tế. Bài viết này đặt mục tiêu khám phá [&hellip;]"
 date: "2024-03-09T12:37:56"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "nhung-doi-moi-mang-tinh-dot-pha-va-moi-noi-vi"]
 ---
 

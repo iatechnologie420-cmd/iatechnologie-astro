@@ -3,7 +3,7 @@ title: "Comprendere il test di Turing"
 slug: "comprendere-il-test-di-turing"
 excerpt: "Origini e principi del test di Turing Nel mondo dell’intelligenza artificiale (AI) e dell’informatica, il test di Turing occupa un posto di rilievo. Si tratta di un metodo di riferimento progettato per valutare la capacità di una macchina di imitare l&#8217;intelligenza umana. Le origini e i principi di questo test rivoluzionario risalgono alla metà del [&hellip;]"
 date: "2024-03-09T12:56:22"
-featuredImage: "/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["formazione-e-fondamenti-di-intelligenza-artificiale-it"]
 ---
 
@@ -67,7 +67,7 @@ categories: ["formazione-e-fondamenti-di-intelligenza-artificiale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Bien-comprendre-le-test-de-Turing.png" alt="" class="wp-image-806" srcset="/images/blog/Bien-comprendre-le-test-de-Turing.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing.png" alt="" class="wp-image-806" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -127,7 +127,7 @@ categories: ["formazione-e-fondamenti-di-intelligenza-artificiale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Bien-comprendre-le-test-de-Turing-2.png" alt="" class="wp-image-808" srcset="/images/blog/Bien-comprendre-le-test-de-Turing-2.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-2-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-2-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-2-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-2.png" alt="" class="wp-image-808" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-2.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-2-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-2-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-2-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

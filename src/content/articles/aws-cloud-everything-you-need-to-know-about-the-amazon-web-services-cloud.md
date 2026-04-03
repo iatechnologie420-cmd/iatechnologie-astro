@@ -3,7 +3,7 @@ title: "AWS Cloud – Everything you need to know about the Amazon Web Services 
 slug: "aws-cloud-everything-you-need-to-know-about-the-amazon-web-services-cloud"
 excerpt: "Introduction to Amazon Web Services (AWS): a revolution in cloud computing Since its creation in 2006, Amazon Web Services (AWS) has radically changed the IT landscape by delivering a cloud services platform that delivers unprecedented flexibility, scale and economies of scale. This introduction aims to clarify the operating principles ofAWS and to explain why this [&hellip;]"
 date: "2024-03-09T12:44:32"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

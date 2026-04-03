@@ -3,7 +3,7 @@ title: "什么是数字工作空间/增强工作？"
 slug: "article-1-66"
 excerpt: "什么是数字化工作空间？ 期限 数字化工作空间， 或者 数字化工作空间，定义了一个由于数字技术而不再有物理障碍的工作环境。它汇集了一组工具和技术，使用户无论身在何处都可以连接、协作并执行他们的专业任务。 本文将讨论数字工作空间的基本支柱以及它们如何有助于提高现代组织内的生产力和协作。 数字化工作空间基于多个支柱，可提供最佳的用户体验、更好的 IT 资源管理和高水平的安全性。以下是需要了解的基础知识。 可达性和灵活性 数字工作空间应该可以随时随地通过任何设备访问。这种可访问性允许 灵活性 为员工增加，他们可以在办公室、家里、移动中甚至执行外部任务时工作。应用程序的存在 云、工作站虚拟化和移动终端的使用是这种灵活性的核心方面。 协作与沟通 协作和通信工具是有效数字工作空间的核心。它们必须能够轻松交换信息和文档、交互式虚拟会议和实时项目管理。平台如 微软团队 或者 松弛 在这种协作动态中发挥着至关重要的作用。 安全与合规性 确保非物质化环境是一个主要问题。数字工作空间必须确保数据保护并遵守 GDPR 等现行法规。的解决方案 端点安全， 那里 身份和访问管理 （IAM）和 数据加密 是基本安全措施的示例。 整合与管理 为了实现最佳管理，数字工作空间必须能够与现有 IT 基础设施和不同的业务应用程序集成。这涉及一个能够协调所有 IT 资源并通过单一界面和自动化简化 IT 团队管理的平台。 数字工作空间对生产力和协作的影响 对生产力的影响 数字化工作空间具有多项优势，可以积极影响员工的工作效率： 重塑协作 随着数字工作空间的采用，协作也发生了变化。协作工具允许： 企业面临的新挑战 向数字化工作空间的过渡需要公司做出调整： 数字工作空间是提高企业生产力和协作的重要载体。然而，它带来了需要特别关注的挑战，包括培训和数据安全。通过解决这些问题，组织可以充分受益于工作空间数字化所提供的优势。 增强工作的关键技术和工具 增强工作代表了旨在通过提供先进技术来提高个人专业和个人技能的所有技术和方法。这些技术创新可以提高工人的生产力、效率和创造力，同时确保他们的福祉。现在让我们探讨一下塑造这项增强工作的关键技术和工具。 人工智能和机器学习 L&#8217;人工智能（AI） 和机器学习 （机器学习）是增强工作的核心。它们不仅可以实现重复性任务的自动化，从而腾出时间来执行具有更高附加值的任务，而且还可以通过海量数据（大数据）的分析来提供决策支持。虚拟助理、聊天机器人和个性化推荐系统是改变工作世界的人工智能工具。 增强现实和虚拟现实 那里 增强现实（AR） [&hellip;]"
 date: "2024-03-09T12:26:00"
-featuredImage: "/images/blog/Digital-workspace-le-travail-augmente-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-3.png"
 categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh", "%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh"]
 ---
 
@@ -71,7 +71,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente.png" alt="" class="wp-image-1038" srcset="/images/blog/Digital-workspace-le-travail-augmente.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente.png" alt="" class="wp-image-1038" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente-1.png" alt="" class="wp-image-1039" srcset="/images/blog/Digital-workspace-le-travail-augmente-1.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-1-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-1-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-1-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-1.png" alt="" class="wp-image-1039" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-1.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-1-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-1-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-1-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -209,6 +209,6 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente-2.png" alt="" class="wp-image-1040" srcset="/images/blog/Digital-workspace-le-travail-augmente-2.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-2-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-2-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-2-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-2-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-2.png" alt="" class="wp-image-1040" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-2.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-2-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-2-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-2-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-2-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 

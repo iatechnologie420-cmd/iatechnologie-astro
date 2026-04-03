@@ -3,7 +3,7 @@ title: "MAAT: gabungan seni, seni bina dan teknologi?"
 slug: "maat-gabungan-seni-seni-bina-dan-teknologi"
 excerpt: "Kisah MAAT: gabungan seni dan seni bina MAAT, akronim untuk Muzium Seni, Seni Bina dan Teknologi, ialah tempat lambang yang membuktikan gabungan antara seni, seni bina dan teknologi. Terletak di tebing Tagus di Lisbon, ia dengan sempurna merangkumi perkahwinan harmoni antara estetika dan inovasi. Dalam artikel ini, kami menyelidiki sejarah menarik MAAT dan meneroka bagaimana [&hellip;]"
 date: "2024-03-09T12:28:33"
-featuredImage: "/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"]
 ---
 

@@ -3,7 +3,7 @@ title: "Cognitivisme: is onze intelligentie kunstmatig?"
 slug: "cognitivisme-is-onze-intelligentie-kunstmatig"
 excerpt: "De oorsprong van cognitivisme en menselijke intelligentie De oorsprong van het cognitivisme DE cognitivisme is een benadering in de psychologie die zich richt op de interne mechanismen van het denken, waarbij de menselijke geest wordt behandeld als een informatieverwerkingssysteem. De oorsprong van deze benadering gaat voornamelijk terug tot de jaren vijftig en zestig, als reactie [&hellip;]"
 date: "2024-03-09T12:20:08"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["ai-training-en-basisbeginselen-nl"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["ai-training-en-basisbeginselen-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["ai-training-en-basisbeginselen-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["ai-training-en-basisbeginselen-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Како да додадете музика во вашите белеш
 slug: "article-5-11"
 excerpt: "Користете музички функции на Instagram Инстаграм стана основна платформа за споделување животни моменти, слики и видеа. За да ги направите вашите објави уште попривлечни, можете да интегрирате музика во вашата содржина. Во оваа статија, ќе ги истражиме различните музички функции на Instagram и како да ги искористиме за создавање оригинални и привлечни објави. Зошто да [&hellip;]"
 date: "2024-03-09T12:26:09"
-featuredImage: "/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b8-%d0%bc%d0%b5%d0%b4%d0%b8%d1%83%d0%bc%d0%b8-%d0%b8-%d0%bf%d0%bb%d0%b0%d1%82%d1%84%d0%be%d1%80%d0%bc%d0%b8-mk", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

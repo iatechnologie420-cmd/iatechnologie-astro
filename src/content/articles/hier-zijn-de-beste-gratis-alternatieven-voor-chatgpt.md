@@ -3,7 +3,7 @@ title: "Hier zijn de beste gratis alternatieven voor ChatGPT"
 slug: "hier-zijn-de-beste-gratis-alternatieven-voor-chatgpt"
 excerpt: "Gratis alternatieven voor ChatGPT ontdekken In een tijd waarin gesprekssystemen gebaseerd waren opKunstmatige intelligentie (AI) domineren de technische ruimte, het lijkt de betaalde optie ChatGPT is de norm geworden. Voor degenen die gratis alternatieven willen verkennen, zijn er echter tal van even effectieve en impactvolle opties. In dit artikel worden enkele AI-chatmodellen onderzocht die kosteloos [&hellip;]"
 date: "2024-03-09T11:53:59"
-featuredImage: "/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
 categories: ["ai-toepassingen-nl"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["ai-toepassingen-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="Bekijk de beste gratis alternatieven voor ChatGPT om van vergelijkbare functies te genieten zonder een cent uit te geven." class="wp-image-14789" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="Bekijk de beste gratis alternatieven voor ChatGPT om van vergelijkbare functies te genieten zonder een cent uit te geven." class="wp-image-14789" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["ai-toepassingen-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="ontdek de beste gratis alternatieven voor chatgpt voor innovatieve en verrijkende interacties. vind gratis vergelijkbare oplossingen en profiteer van een boeiende ervaring." class="wp-image-14790" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="ontdek de beste gratis alternatieven voor chatgpt voor innovatieve en verrijkende interacties. vind gratis vergelijkbare oplossingen en profiteer van een boeiende ervaring." class="wp-image-14790" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

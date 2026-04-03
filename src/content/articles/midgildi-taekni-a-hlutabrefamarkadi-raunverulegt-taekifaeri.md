@@ -3,7 +3,7 @@ title: "Miðgildi tækni á hlutabréfamarkaði: raunverulegt tækifæri?"
 slug: "midgildi-taekni-a-hlutabrefamarkadi-raunverulegt-taekifaeri"
 excerpt: "Hvað er Median Technologies? Median Technologies er tæknifyrirtæki sem sérhæfir sig í læknisfræðilegum myndgreiningar- og myndgreiningarlausnum fyrir klínískar rannsóknir. Fyrirtækið var stofnað árið 2002 og hefur fljótt fest sig í sessi sem leiðandi á heimsvísu á sínu sviði og býður upp á nýstárlegar lausnir fyrir túlkun og greiningu læknisfræðilegra mynda. Median Technologies vörur og þjónusta [&hellip;]"
 date: "2024-03-09T12:29:14"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["taekni-og-stafraen-is"]
 ---
 

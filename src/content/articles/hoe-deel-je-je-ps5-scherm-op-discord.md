@@ -3,7 +3,7 @@ title: "Hoe deel je je PS5-scherm op Discord?"
 slug: "hoe-deel-je-je-ps5-scherm-op-discord"
 excerpt: "Stap 1: Bereid uw configuratie voor Als je games speelt op je PS5, kan het leuk zijn om je ervaringen te delen met je vrienden op Discord. Om dit te doen, kun je je PS5-scherm rechtstreeks naar Discord streamen. In dit artikel leggen we uit hoe je het PS5-scherm op Discord op twee verschillende manieren [&hellip;]"
 date: "2024-03-09T12:53:25"
-featuredImage: "/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["digitale-media-en-platforms-nl", "technologie-en-digitaal-nl"]
 ---
 

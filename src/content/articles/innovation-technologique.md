@@ -3,7 +3,7 @@ title: "L&#8217;innovation technologique : où en est-on aujourd&#8217;hui ?"
 slug: "innovation-technologique"
 excerpt: "Les avancées technologiques récentes Les avancées technologiques récentes Les avancées technologiques récentes ont radicalement transformé notre façon de vivre, de travailler et de communiquer. De nouvelles technologies émergent régulièrement, propulsant notre société vers un avenir toujours plus connecté et innovant. Dans cet article, nous allons explorer certaines des avancées technologiques les plus récentes qui changent [&hellip;]"
 date: "2024-01-27T10:05:25"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["technologie-numerique"]
 ---
 

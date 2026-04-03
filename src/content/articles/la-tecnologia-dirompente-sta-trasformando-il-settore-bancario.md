@@ -3,7 +3,7 @@ title: "La tecnologia dirompente sta trasformando il settore bancario?"
 slug: "la-tecnologia-dirompente-sta-trasformando-il-settore-bancario"
 excerpt: "La trasformazione del settore bancario attraverso la tecnologia dirompente ha cambiato profondamente il settore finanziario negli ultimi anni. I progressi tecnologici hanno consentito l’emergere di nuove soluzioni innovative, che stanno cambiando il modo in cui le banche operano e interagiscono con i propri clienti. In questo articolo esploreremo le diverse dimensioni di questa trasformazione e [&hellip;]"
 date: "2024-03-09T12:34:29"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it"]
 ---
 

@@ -3,7 +3,7 @@ title: "Revisión de Segway Navimow: ¿el cortacésped autónomo del futuro?"
 slug: "revision-de-segway-navimow-el-cortacesped-autonomo-del-futuro"
 excerpt: "Las ventajas del cortacésped autónomo Segway Navimow Imagina poder disfrutar plenamente de tu jardín sin preocuparte por la tarea de cortar el césped. Gracias al cortacésped autónomo Segway Navimow, esta tediosa tarea ya es cosa del pasado. Equipado con características innovadoras y tecnología avanzada, este cortacésped autónomo ofrece muchos beneficios que harán su vida diaria [&hellip;]"
 date: "2024-03-09T12:35:07"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["tecnologia-y-digital-es", "tecnologias-portatiles-e-iot-es"]
 ---
 

@@ -3,7 +3,7 @@ title: "Mis on IT-teabekeskus? määratlus ja selgitus"
 slug: "mis-on-it-teabekeskus-maaratlus-ja-selgitus"
 excerpt: "A arvutiteabekeskus, mida nimetatakse ka teabekeskus, viitab tsentraliseeritud süsteemile, mis on pühendatud organisatsioonisisesele andmehaldusele. Selle eesmärk on ettevõtte tegevuseks vajaliku teabe kogumine, säilitamine, korrastamine ja levitamine. Selle funktsioon on oluline, et võimaldada analüütikutel ja otsustajatel andmeid tõhusalt ja teadlikul viisil kasutada. Selles artiklis uurime IT-teabekeskuse erinevaid komponente ja lisandväärtust. Teabekeskuse eesmärgid IT teabekeskus täidab mitmeid [&hellip;]"
 date: "2024-03-09T12:24:25"
-featuredImage: "/images/blog/Quest-ce-quun-infocentre-informatique-Definition-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-3.png"
 categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 
@@ -99,7 +99,7 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-infocentre-informatique-Definition.png" alt="" class="wp-image-1063" srcset="/images/blog/Quest-ce-quun-infocentre-informatique-Definition.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition.png" alt="" class="wp-image-1063" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -247,7 +247,7 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-infocentre-informatique-Definition-1.png" alt="" class="wp-image-1064" srcset="/images/blog/Quest-ce-quun-infocentre-informatique-Definition-1.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-1.png" alt="" class="wp-image-1064" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-1.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -307,7 +307,7 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-infocentre-informatique-Definition-2.png" alt="" class="wp-image-1065" srcset="/images/blog/Quest-ce-quun-infocentre-informatique-Definition-2.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-2.png" alt="" class="wp-image-1065" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-2.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

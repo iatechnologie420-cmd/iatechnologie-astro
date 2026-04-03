@@ -3,7 +3,7 @@ title: "Како да поправите скршен компјутер?"
 slug: "article-3-1"
 excerpt: "Дијагностицира дефект на вашиот компјутер Соочувањето со компјутерски проблем понекогаш може да се претвори во вистинска главоболка. Компјутерот е сложено технолошки соединение и кога нешто не функционира како што се очекуваше, често има мноштво можни причини. Во оваа статија ви нудиме практичен водич кој ќе ви помогне да го идентификувате проблемот и да пронајдете можни [&hellip;]"
 date: "2024-03-09T12:07:11"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

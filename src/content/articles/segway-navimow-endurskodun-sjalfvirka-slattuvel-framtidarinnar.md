@@ -3,7 +3,7 @@ title: "Segway Navimow endurskoðun: Sjálfvirka sláttuvél framtíðarinnar?"
 slug: "segway-navimow-endurskodun-sjalfvirka-slattuvel-framtidarinnar"
 excerpt: "Kostir Segway Navimow sjálfvirkrar sláttuvélar Ímyndaðu þér að geta notið garðsins til fulls án þess að hafa áhyggjur af því að slá grasið. Þökk sé Segway Navimow sjálfvirkri sláttuvél er þetta leiðinlega verkefni nú úr sögunni. Pakkað nýstárlegum eiginleikum og háþróaðri tækni, þessi sjálfstæða sláttuvél býður upp á marga kosti sem munu gera daglegt líf [&hellip;]"
 date: "2024-03-09T12:35:29"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["taekni-og-stafraen-is", "wearable-taekni-og-iot-is"]
 ---
 

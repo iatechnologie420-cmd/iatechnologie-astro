@@ -3,7 +3,7 @@ title: "Kaip elgesio mokslo technologijos gali pagerinti mūsų kasdienį gyveni
 slug: "kaip-elgesio-mokslo-technologijos-gali-pagerinti-musu-kasdieni-gyvenima"
 excerpt: "Technologijų įtaka elgesio mokslams Technologijos padarė didelę įtaką daugeliui sričių, įskaitant elgesio mokslus. Dėl technologijų pažangos mokslininkai turi prieigą prie įrankių ir metodų, leidžiančių geriau suprasti ir analizuoti žmogaus elgesį. Šiame straipsnyje išnagrinėsime įvairius technologijų poveikio elgesio mokslams aspektus ir kaip jos gali pagerinti mūsų kasdienį gyvenimą. 1. Duomenų rinkimas ir analizė Technologijos duomenų rinkimą [&hellip;]"
 date: "2024-03-09T12:44:36"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["technologijos-ir-skaitmeninis-lt"]
 ---
 

@@ -3,7 +3,7 @@ slug: "article-107"
 title: "这些人工智能打败人类的游戏"
 excerpt: "超级计算机的黎明和国际象棋挑战 超级计算机时代不再是一个遥远的未来愿景，而是一个切实的现实，正在彻底改变各个领域，包括国际象棋等策略游戏。这些具有惊人计算能力的机器为探索人工智能的前沿和通过提出基本问题来应对国际象棋挑战提供了一个理想的游乐场： 当超级计算机应用于国际象棋游戏时，其真正的潜力是什么？国际象棋一直是智力和策略的标准衡量标准？ 超级计算机在国际象棋领域的演变 20 世纪 50 年代，第一个国际象棋程序的设计已经揭示了计算机的潜力。但这是像这样的超级计算机的到来 深蓝 的国际商业机器公司 这真正体现了这些特殊机器的作用。 1997年，深蓝挑战世界冠军加里·卡斯帕罗夫并赢得了比赛，凸显了当时计算机的力量。 从那时起，技术以指数速度持续发展，引入了更复杂的算法和更强的处理能力。 计算能力为国际象棋策略服务 当今的超级计算机配备了多核处理器、高度专业化的显卡以及远远超过深蓝时代的定量和定性存储空间。 神经网络和深度学习的使用使他们能够在短短几分钟内模拟数百万种游戏和策略，这种计算能力使机器有能力超越最有天赋的人类玩家。 深蓝对阵卡斯帕罗夫：历史性转折点 1997 年，人工智能世界和国际象棋世界发生了一场标志性的对抗，对手是卫冕世界冠军加里·卡斯帕罗夫 (Garry Kasparov)， 深蓝, 开发的超级计算机 国际商业机器公司。数百万人热情地关注了这一活动，并消除了人类在国际象棋与机器游戏中所向披靡的地位。这场对决不仅仅是一场简单的体育比赛，而是对人工智能能力认识的历史性转折。 对抗的背景 1996年，卡斯帕罗夫在他们的第一次交锋中击败了 深蓝。然而， 国际商业机器公司 在1997年复赛之前，超级计算机已经有了相当大的改进。 深蓝 当时估计每秒处理 2 亿个位置，与人类能力相比，这是一个相当大的优势。 人工智能面临的挑战 这场比赛不仅仅是一场国际象棋比赛。这是对机器在特定环境中做出复杂的战略决策的能力的全面测试。的胜利 深蓝 强化了人工智能可以执行以前为人类智能保留的任务的想法，为许多未来的应用打开了大门。 卡斯帕罗夫 VS 深蓝 比赛进展 这场比赛共进行了六场比赛。卡斯帕罗夫赢得了第一场比赛，但在第二场比赛中，他的出人意料的举动让他感到惊讶 深蓝。这一事件让冠军心中产生了怀疑，他在接下来的比赛中犯了错误，导致最终以 3.5 比 2.5 落败。 深蓝。 人工智能及其对策略游戏的影响 AI融入策略游戏并不仅限于为玩家提供更强大的虚拟对手。它正在重塑游戏的设计、玩法甚至公众认知的方式。就是这样 ： &#8211; 改进的虚拟对手：人工智能可以创建具有先进战略能力并能够实时适应玩家行动的非人类敌人。 &#8211; 深度学习：现代人工智能系统依靠机器学习，特别是深度学习来分析数百万个游戏并得出最佳策略。&#8211; [&hellip;]"
 date: "2024-03-09T12:41:38"
-featuredImage: "/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9f%b9%e8%ae%ad%e5%92%8c%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86-zh"]
 ---
 
@@ -73,7 +73,7 @@ categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9f%b9%e8%ae%ad%e5%92%8c%e5
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png" alt="" class="wp-image-749" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png" alt="" class="wp-image-749" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -109,7 +109,7 @@ categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9f%b9%e8%ae%ad%e5%92%8c%e5
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png" alt="" class="wp-image-750" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png" alt="" class="wp-image-750" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -145,7 +145,7 @@ categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9f%b9%e8%ae%ad%e5%92%8c%e5
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png" alt="" class="wp-image-751" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png" alt="" class="wp-image-751" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

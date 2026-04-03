@@ -3,7 +3,7 @@ title: "Inovasi teknologi: di mana kita saat ini?"
 slug: "inovasi-teknologi-di-mana-kita-saat-ini"
 excerpt: "Kemajuan teknologi terkini Kemajuan teknologi terkini Kemajuan teknologi terkini telah mengubah cara kita hidup, bekerja, dan berkomunikasi secara radikal. Teknologi baru muncul secara berkala, mendorong masyarakat kita menuju masa depan yang lebih terhubung dan inovatif. Dalam artikel ini, kita akan mengeksplorasi beberapa kemajuan teknologi terkini yang mengubah permainan di berbagai bidang. 1. Kecerdasan Buatan (AI) [&hellip;]"
 date: "2024-03-09T12:43:10"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["teknologi-dan-digital-id"]
 ---
 

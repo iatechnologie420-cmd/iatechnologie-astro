@@ -3,7 +3,7 @@ title: "Bestu skólarnir á vefnum: hvernig á að velja rétt"
 slug: "bestu-skolarnir-a-vefnum-hvernig-a-ad-velja-rett"
 excerpt: "Menntaheimurinn er stöðugt að breytast, sérstaklega með tilkomu nýrrar tækni. Í dag eru mörg þjálfunarnámskeið aðgengileg á netinu, sem býður upp á sveigjanleika og aðlögunarhæfni fyrir hvern nemanda. Við munum leiðbeina þér í gegnum úrval valkosta sem í boði eru, til að taka upplýst val um vefskóli sem uppfyllir óskir þínar sem forgangsverkefni. Að skilja [&hellip;]"
 date: "2024-03-09T12:47:21"
-featuredImage: "/images/blog/Les-meilleures-ecoles-du-web-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web-3.png"
 categories: ["ai-thjalfun-og-grundvallaratridi-is"]
 ---
 
@@ -81,7 +81,7 @@ categories: ["ai-thjalfun-og-grundvallaratridi-is"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-meilleures-ecoles-du-web.png" alt="" class="wp-image-1580" srcset="/images/blog/Les-meilleures-ecoles-du-web.png 1792w, /images/blog/Les-meilleures-ecoles-du-web-300x171.png 300w, /images/blog/Les-meilleures-ecoles-du-web-1024x585.png 1024w, /images/blog/Les-meilleures-ecoles-du-web-150x86.png 150w, /images/blog/Les-meilleures-ecoles-du-web-768x439.png 768w, /images/blog/Les-meilleures-ecoles-du-web-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web.png" alt="" class="wp-image-1580" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web.png 1792w, /images/blog/Les-meilleures-ecoles-du-web-300x171.png 300w, /images/blog/Les-meilleures-ecoles-du-web-1024x585.png 1024w, /images/blog/Les-meilleures-ecoles-du-web-150x86.png 150w, /images/blog/Les-meilleures-ecoles-du-web-768x439.png 768w, /images/blog/Les-meilleures-ecoles-du-web-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

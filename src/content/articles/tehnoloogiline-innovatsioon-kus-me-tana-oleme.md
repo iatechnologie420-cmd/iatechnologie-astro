@@ -3,7 +3,7 @@ title: "Tehnoloogiline innovatsioon: kus me täna oleme?"
 slug: "tehnoloogiline-innovatsioon-kus-me-tana-oleme"
 excerpt: "Viimased tehnoloogilised edusammud Viimased tehnoloogilised edusammud Hiljutised tehnoloogilised edusammud on radikaalselt muutnud seda, kuidas me elame, töötame ja suhtleme. Uued tehnoloogiad ilmuvad regulaarselt, lükates meie ühiskonda üha rohkem ühendatud ja uuenduslikuma tuleviku poole. Selles artiklis uurime mõningaid uusimaid mänge muutvaid tehnoloogilisi edusamme erinevates valdkondades. 1. Tehisintellekt (AI) Tehisintellekt on kahtlemata üks viimaste aastate olulisemaid tehnoloogilisi [&hellip;]"
 date: "2024-03-09T12:43:02"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["tehnoloogia-ja-digitaalne-et"]
 ---
 

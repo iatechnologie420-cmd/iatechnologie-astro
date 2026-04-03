@@ -3,7 +3,7 @@ title: "Vmesnik človek-stroj: kaj so HMI?"
 slug: "vmesnik-clovek-stroj-kaj-so-hmi"
 excerpt: "Opredelitev vmesnika človek-stroj Vmesnik človek-stroj se nanaša na vsa sredstva in orodja, implementirana za omogočanje učinkovite interakcije med človekom-uporabnikom in računalniškim sistemom. Zajema vse od vizualnega oblikovanja zaslonov do vnosnih naprav, kot so tipkovnica, miška ter vmesniki na dotik in glasovni vmesniki. Zgodovinski razvoj HMI HMI-ji so se od pojava računalništva precej razvili. Sprva osnovni [&hellip;]"
 date: "2024-03-09T12:22:40"
-featuredImage: "/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-3.png"
 categories: ["nosljive-tehnologije-in-iot-sl", "tehnologija-in-digital-sl"]
 ---
 
@@ -83,7 +83,7 @@ categories: ["nosljive-tehnologije-in-iot-sl", "tehnologija-in-digital-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png" alt="" class="wp-image-1178" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png" alt="" class="wp-image-1178" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -255,7 +255,7 @@ categories: ["nosljive-tehnologije-in-iot-sl", "tehnologija-in-digital-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png" alt="" class="wp-image-1179" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png" alt="" class="wp-image-1179" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -303,7 +303,7 @@ categories: ["nosljive-tehnologije-in-iot-sl", "tehnologija-in-digital-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png" alt="" class="wp-image-1180" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png" alt="" class="wp-image-1180" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

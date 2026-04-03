@@ -3,7 +3,7 @@ title: "Dompdf: come creare PDF eleganti in PHP?"
 slug: "dompdf-come-creare-pdf-eleganti-in-php"
 excerpt: "Introduzione a Dompdf Dompdf è una libreria PHP che ti consente di generare file PDF da contenuti HTML. Questa soluzione è molto utile per generare report, fatture o qualsiasi altro documento in formato PDF. In questo articolo scopriremo le funzionalità base di Dompdf e impareremo come utilizzarlo per creare PDF eleganti e funzionali. Prerequisiti Prima [&hellip;]"
 date: "2024-03-09T12:40:52"
-featuredImage: "/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
 categories: ["informatica-e-dati-it", "tecnologia-e-digitale-it"]
 ---
 

@@ -3,7 +3,7 @@ title: "주식 시장의 메디안 테크놀로지: 진정한 기회인가?"
 slug: "article-117"
 excerpt: "메디안테크놀로지란 무엇인가? 메디안 테크놀로지스는 임상 시험을 위한 의료 영상 및 영상 분석 솔루션을 전문으로 하는 기술 회사입니다. 2002년에 설립된 이 회사는 의료 영상 해석 및 분석을 위한 혁신적인 솔루션을 제공하며 해당 분야의 글로벌 리더로 빠르게 자리매김했습니다. 메디안 테크놀로지스 제품 및 서비스 중앙 기술 다음을 포함하여 의료 영상 분석을 위한 다양한 제품과 서비스를 제공합니다. &#8211; iBiopsy®: [&hellip;]"
 date: "2024-03-09T12:29:51"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 ---
 

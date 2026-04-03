@@ -3,7 +3,7 @@ title: "통합 커뮤니케이션: 도달 불가가 불가능해졌습니까?"
 slug: "article-40"
 excerpt: "통합 커뮤니케이션: 정의 및 원리 통합 커뮤니케이션이란 무엇입니까? 그만큼 통합 커뮤니케이션 (CU) 또는 영어로 Unified Communications는 동일한 인터페이스 또는 플랫폼 내에서 다양한 형태의 커뮤니케이션을 통합하거나 통합하는 것을 목표로 하는 일련의 서비스 및 솔루션을 지정합니다. 여기에는 인스턴트 메시징, 화상 회의, 음성 통화(VoIP), 이메일, 웹 회의, 음성 메일 등이 포함됩니다. 주요 목표는 지리적 위치나 사용되는 장치에 관계없이 [&hellip;]"
 date: "2024-03-09T12:00:41"
-featuredImage: "/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-3.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%94%94%ec%a7%80%ed%84%b8-%eb%af%b8%eb%94%94%ec%96%b4-%eb%b0%8f-%ed%94%8c%eb%9e%ab%ed%8f%bc-ko"]
 ---
 
@@ -131,7 +131,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png" alt="" class="wp-image-1032" srcset="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png" alt="" class="wp-image-1032" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png" alt="" class="wp-image-1033" srcset="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png" alt="" class="wp-image-1033" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

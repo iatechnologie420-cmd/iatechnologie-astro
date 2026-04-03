@@ -3,7 +3,7 @@ title: "Cognitivisme : Notre intelligence est-elle artificielle ?"
 slug: "cognitivisme-et-intelligence-artificielle"
 excerpt: "Les origines du cognitivisme et l&#8217;intelligence humaine Les origines du cognitivisme Le cognitivisme est une approche en psychologie qui se focalise sur les mécanismes internes de la pensée, traitant l&#8217;esprit humain comme un système de traitement de l&#8217;information. Les origines de cette approche remontent principalement aux années 1950 et 1960, comme réaction au béhaviorisme, qui [&hellip;]"
 date: "2024-02-11T15:00:14"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["formation-ia-fondamentaux-fr"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["formation-ia-fondamentaux-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364" srcset="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png 1792w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--300x171.png 300w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--1024x585.png 1024w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--150x86.png 150w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--768x439.png 768w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png 1792w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--300x171.png 300w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--1024x585.png 1024w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--150x86.png 150w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--768x439.png 768w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["formation-ia-fondamentaux-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365" srcset="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png 1792w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-300x171.png 300w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-1024x585.png 1024w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-150x86.png 150w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-768x439.png 768w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png 1792w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-300x171.png 300w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-1024x585.png 1024w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-150x86.png 150w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-768x439.png 768w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["formation-ia-fondamentaux-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366" srcset="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png 1792w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-300x171.png 300w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-1024x585.png 1024w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-150x86.png 150w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-768x439.png 768w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png 1792w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-300x171.png 300w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-1024x585.png 1024w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-150x86.png 150w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-768x439.png 768w, /images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

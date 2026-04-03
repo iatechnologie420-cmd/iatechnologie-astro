@@ -3,7 +3,7 @@ title: "Chọn máy chủ đầu tiên của bạn: hướng dẫn từng bướ
 slug: "chon-may-chu-dau-tien-cua-ban-huong-dan-tung-buoc"
 excerpt: "Hiểu sự khác biệt giữa các loại máy chủ Máy chủ đóng một vai trò quan trọng trong việc vận hành mạng, lưu trữ trang web, lưu trữ dữ liệu và hỗ trợ tính toán, cùng nhiều nhiệm vụ khác. Những cỗ máy mạnh mẽ này có thể có nhiều dạng khác nhau, mỗi dạng [&hellip;]"
 date: "2024-03-09T12:08:00"
-featuredImage: "/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-3.png"
 categories: ["co-so-ha-tang-va-mang-vi", "cong-nghe-va-ky-thuat-so-vi"]
 ---
 
@@ -17,7 +17,7 @@ categories: ["co-so-ha-tang-va-mang-vi", "cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png" alt="" class="wp-image-1307" srcset="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png" alt="" class="wp-image-1307" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -143,7 +143,7 @@ categories: ["co-so-ha-tang-va-mang-vi", "cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png" alt="" class="wp-image-1308" srcset="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png" alt="" class="wp-image-1308" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

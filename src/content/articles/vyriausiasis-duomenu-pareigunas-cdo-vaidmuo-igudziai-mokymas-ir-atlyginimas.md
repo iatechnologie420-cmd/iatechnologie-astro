@@ -3,7 +3,7 @@ title: "Vyriausiasis duomenų pareigūnas (CDO): ​​vaidmuo, įgūdžiai, mok
 slug: "vyriausiasis-duomenu-pareigunas-cdo-vaidmuo-igudziai-mokymas-ir-atlyginimas"
 excerpt: "Strateginė vyriausiojo duomenų pareigūno vieta įmonėje Didžiųjų duomenų ir duomenų analizės eroje įmonės vis labiau pripažįsta, kaip svarbu strategiškai valdyti ir panaudoti savo duomenis. Šio pripažinimo esmė yra pagrindinis vaidmuo: Vyriausiasis duomenų pareigūnas (CDO). CDO yra būtinas norint subalansuoti valdymą, duomenų kokybę, atitiktį reikalavimams ir panaudoti duomenis siekiant konkurencinio pranašumo. Šiame straipsnyje bus pažvelgta į [&hellip;]"
 date: "2024-03-09T12:10:20"
-featuredImage: "/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 ---
 
@@ -71,7 +71,7 @@ categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png" alt="" class="wp-image-1293" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png" alt="" class="wp-image-1293" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1294" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1294" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -335,7 +335,7 @@ categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1295" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1295" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

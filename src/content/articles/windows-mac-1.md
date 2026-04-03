@@ -3,7 +3,7 @@ title: "특수 키보드 문자: 알아야 할 주요 단축키(Windows 및 Mac)
 slug: "windows-mac-1"
 excerpt: "특수 문자는 기존 키보드의 표준 문자 및 숫자와 일치하지 않는 기호 또는 기호입니다. 이러한 특수 문자의 사용은 컴퓨터 프로그래밍, 텍스트 작성, 비밀번호 보안, 수학 또는 과학 데이터 입력과 같은 다양한 상황에서 매우 중요합니다. 프로그래밍에서, 특수문자는 필수입니다. 이를 통해 문자열 분리 또는 복잡한 명령 표현과 같은 특정 작업을 수행할 수 있습니다. 예를 들어 중괄호 { }는 [&hellip;]"
 date: "2024-03-09T12:06:49"
-featuredImage: "/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-3.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 ---
 
@@ -47,7 +47,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac.png" alt="" class="wp-image-1166" srcset="/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac.png 1792w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-300x171.png 300w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1024x585.png 1024w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-150x86.png 150w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-768x439.png 768w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac.png" alt="" class="wp-image-1166" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac.png 1792w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-300x171.png 300w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1024x585.png 1024w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-150x86.png 150w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-768x439.png 768w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -231,7 +231,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1.png" alt="" class="wp-image-1167" srcset="/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1.png 1792w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-300x171.png 300w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-1024x585.png 1024w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-150x86.png 150w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-768x439.png 768w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1.png" alt="" class="wp-image-1167" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1.png 1792w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-300x171.png 300w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-1024x585.png 1024w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-150x86.png 150w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-768x439.png 768w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -337,7 +337,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2.png" alt="" class="wp-image-1168" srcset="/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2.png 1792w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-300x171.png 300w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-1024x585.png 1024w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-150x86.png 150w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-768x439.png 768w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2.png" alt="" class="wp-image-1168" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2.png 1792w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-300x171.png 300w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-1024x585.png 1024w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-150x86.png 150w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-768x439.png 768w, /images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

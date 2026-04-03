@@ -3,7 +3,7 @@ title: "Spot: de robothond van Boston Dynamics"
 slug: "spot-de-robothond-van-boston-dynamics"
 excerpt: "Ontdekking van Spot, de hondenrobot van Boston Dynamics Bekend als de crème van de moderne robotica, Plek, de robothond van Boston Dynamics, heeft een schokgolf veroorzaakt in de wereld van nieuwe technologieën. Ontworpen om zijn soortgenoten te vervangen, is het het emblematische voorbeeld van dierenrobots die klaar zijn om hun modellen te vervangen. Spot, een [&hellip;]"
 date: "2024-03-09T11:48:20"
-featuredImage: "/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
 categories: ["disruptieve-en-opkomende-innovaties-nl"]
 ---
 
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="Ontdek de complete gids voor de Boston Dynamics-robothond, zijn kenmerken, gebruik en indrukwekkende prestaties." class="wp-image-14515" srcset="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="Ontdek de complete gids voor de Boston Dynamics-robothond, zijn kenmerken, gebruik en indrukwekkende prestaties." class="wp-image-14515" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

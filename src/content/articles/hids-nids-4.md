@@ -3,7 +3,7 @@ title: "HIDS と NIDS: 違いと使用法"
 slug: "hids-nids-4"
 excerpt: "侵入検知システムの概要: HIDS と NIDS 情報システムのセキュリティは、あらゆる規模の企業や組織にとって中心的な懸念事項です。脅威の増大とサイバー攻撃の巧妙化に直面し、効果的な防御メカニズムを導入することが不可欠です。このうち、 侵入検知システム (IDS) は、コンピュータ ネットワークを監視し、不審なアクティビティを検出する上で重要な役割を果たします。特に、 ホスト侵入検知システム (HIDS） そしてその ネットワーク侵入検知システム (ネス) は、追加の保護層を提供する 2 つの補完的なタイプです。 HIDS (ホストベースの侵入検知システム) とは何ですか? あ HIDS 個々のコンピュータまたはホストにインストールされるソフトウェアです。インストールされているシステムで不審なアクティビティがないか監視し、これらのイベントを管理者または中央セキュリティ イベント管理 (SIEM) システムに報告します。 HIDS は、システム ファイル、実行中のプロセス、アクティビティ ログ、およびファイル システムの整合性を分析して、侵入の可能性を検出します。 NIDS (ネットワークベースの侵入検知システム) とは何ですか? 対照的に、 ネス はネットワーク レベルに配置され、スイッチング システムおよびルーティング システムを通過するトラフィックを監視します。分散型サービス拒否 (DDoS)、ポート スキャン、またはネットワークを横断するその他の形式の異常な動作など、ネットワーク インフラストラクチャをターゲットとした攻撃を検出できます。 HIDSとNIDSの比較 侵入検知システムを選択する場合は、HIDS と NIDS の違いを理解し、どちらが組織の特定の環境に最適であるかを判断することが重要です。 基準 HIDS 巣 位置決め 個々のホストにインストールされる ネットワークインフラに実装 機能している [&hellip;]"
 date: "2024-03-09T11:57:34"
-featuredImage: "/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
 categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%81%e3%83%a3%e3%81%a8%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af-ja", "%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a8%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-ja"]
 ---
 
@@ -67,7 +67,7 @@ categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png" alt="" class="wp-image-1641" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png" alt="" class="wp-image-1641" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -91,7 +91,7 @@ categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png" alt="" class="wp-image-1642" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png" alt="" class="wp-image-1642" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-1.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png" alt="" class="wp-image-1643" srcset="/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png" alt="" class="wp-image-1643" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-2.png 1792w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-300x171.png 300w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1024x585.png 1024w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-150x86.png 150w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-768x439.png 768w, /images/blog/HIDS-vs-NIDS-differences-et-utilisation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

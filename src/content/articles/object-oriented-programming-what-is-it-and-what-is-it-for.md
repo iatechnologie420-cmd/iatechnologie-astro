@@ -3,7 +3,7 @@ title: "Object-oriented programming: what is it and what is it for?"
 slug: "object-oriented-programming-what-is-it-and-what-is-it-for"
 excerpt: "Fundamentals of Object Oriented Programming There Object Oriented Programming (OOP) is a programming paradigm that uses &#8220;objects&#8221; to design computer applications and programs. These objects represent real-world entities and allow developers to create more flexible, scalable, and maintainable software. In this article, we will explore the basic concepts that form the foundation of OOP. Abstraction [&hellip;]"
 date: "2024-03-09T12:45:37"
-featuredImage: "/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
 categories: ["computing-and-data-en", "technology-and-digital-en"]
 ---
 
@@ -21,7 +21,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="/images/blog/image-1024x585.png" alt="" class="wp-image-13812" srcset="/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png" alt="" class="wp-image-13812" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -109,7 +109,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1.png" alt="" class="wp-image-1341" srcset="/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1.png 1792w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-300x171.png 300w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-1024x585.png 1024w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-150x86.png 150w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-768x439.png 768w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1.png" alt="" class="wp-image-1341" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1.png 1792w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-300x171.png 300w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-1024x585.png 1024w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-150x86.png 150w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-768x439.png 768w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2.png" alt="" class="wp-image-1342" srcset="/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2.png 1792w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-300x171.png 300w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-1024x585.png 1024w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-150x86.png 150w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-768x439.png 768w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2.png" alt="" class="wp-image-1342" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2.png 1792w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-300x171.png 300w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-1024x585.png 1024w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-150x86.png 150w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-768x439.png 768w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

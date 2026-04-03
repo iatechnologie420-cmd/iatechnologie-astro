@@ -3,7 +3,7 @@ title: "Apa itu dataviz? Definisi, alat penting"
 slug: "apa-itu-dataviz-definisi-alat-penting"
 excerpt: "Memahami Dataviz: visualisasi data Saat ini, dengan banyaknya data yang dihasilkan setiap detiknya, penting untuk mengetahui cara menyajikan informasi ini dengan jelas dan efektif. Di sinilah tempat visualisasi data, Atau dataviz, bidang disiplin yang menggabungkan desain, naratif, dan analisis statistik untuk mengubah data kompleks menjadi representasi visual yang intuitif. Tujuan Dataviz Ambisi utama dataviz adalah [&hellip;]"
 date: "2024-03-09T11:55:57"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

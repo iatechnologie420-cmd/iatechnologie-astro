@@ -3,7 +3,7 @@ title: "Conférence de Dartmouth : La naissance de l’intelligence artificielle
 slug: "conference-dartmouth"
 excerpt: "L&#8217;été 1956, au Dartmouth College aux États-Unis, une réunion de chercheurs a donné naissance au terme &#8220;intelligence artificielle&#8221;. Cet événement fondateur a marqué le début d&#8217;une ère technologique révolutionnaire. Retour sur ce moment clé qui a officialisé l&#8217;IA comme champ de recherche scientifique. Un été décisif pour l&#8217;IA La conférence de Dartmouth s&#8217;est tenue du&nbsp;18 [&hellip;]"
 date: "2025-06-09T12:17:05"
-featuredImage: "/images/blog/ChatGPT-Image-9-juin-2025-a-21_50_39.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-Image-9-juin-2025-a-21_50_39.png"
 categories: ["non-classe-fr"]
 ---
 

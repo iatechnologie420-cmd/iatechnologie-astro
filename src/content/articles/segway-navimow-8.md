@@ -3,7 +3,7 @@ title: "Обзор Segway Navimow: автономная газонокосилк
 slug: "segway-navimow-8"
 excerpt: "Преимущества автономной газонокосилки Segway Navimow Представьте себе, что вы можете в полной мере наслаждаться своим садом, не беспокоясь о стрижке газона. Благодаря автономной газонокосилке Segway Navimow эта утомительная задача осталась в прошлом. Эта автономная газонокосилка, оснащенная инновационными функциями и передовыми технологиями, предлагает множество преимуществ, которые облегчат вашу повседневную жизнь. 1. Простота использования Автономная газонокосилка Segway [&hellip;]"
 date: "2024-03-09T12:37:20"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["%d0%bd%d0%be%d1%81%d0%b8%d0%bc%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%b2%d0%b5%d1%89%d0%b5%d0%b9-ru", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

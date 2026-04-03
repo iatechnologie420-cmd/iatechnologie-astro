@@ -3,7 +3,7 @@ title: "Tiefsee-Technologie: die Zukunft der Unterwassererkundung?"
 slug: "tiefsee-technologie-die-zukunft-der-unterwassererkundung"
 excerpt: "Was ist Deep-Offshore-Technologie? Die Tiefsee-Technologie, auch Tiefsee-Bohrtechnik genannt, ist eine Disziplin, deren Ziel es ist, die im Meeresboden in Tiefen zwischen 500 und mehreren tausend Metern vorhandenen Ressourcen zu erforschen und auszubeuten. Diese Technologie eröffnet neue Möglichkeiten für die Exploration und Ausbeutung von Öl-, Gas- und Mineralvorkommen vor der Küste. Die Herausforderungen im tiefen Offshore-Bereich [&hellip;]"
 date: "2024-03-09T12:30:52"
-featuredImage: "/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
 categories: ["grune-technologie-und-intelligente-stadte-de", "technologie-und-digital-de"]
 ---
 

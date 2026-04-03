@@ -3,7 +3,7 @@ title: "Tại sao ChatGPT không hoạt động và phải làm gì với nó?"
 slug: "tai-sao-chatgpt-khong-hoat-dong-va-phai-lam-gi-voi-no"
 excerpt: "Tại sao ChatGPT không hoạt động? Khi sử dụng ChatGPT, bạn có thể gặp phải sự cố khiến nó không hoạt động bình thường. Những vấn đề này, mặc dù gây khó chịu, có thể có nhiều nguyên nhân. Trong bài viết này, chúng tôi sẽ khám phá một số lý do phổ biến khiến [&hellip;]"
 date: "2024-03-09T12:18:02"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ung-dung-ai-vi"]
 ---
 

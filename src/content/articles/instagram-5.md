@@ -3,7 +3,7 @@ title: "ಹ್ಯಾಕ್ ಮಾಡಿದ Instagram ಖಾತೆಯನ್ನು
 slug: "instagram-5"
 excerpt: "ರಾಜಿ ಮಾಡಿಕೊಂಡ Instagram ಖಾತೆಯನ್ನು ಗುರುತಿಸುವುದು ಸಾಮಾಜಿಕ ವೇದಿಕೆಗಳಲ್ಲಿ ಬಳಕೆದಾರರ ನಿರಂತರ ಹೆಚ್ಚಳದೊಂದಿಗೆ Instagram, ಖಾತೆ ಹ್ಯಾಕಿಂಗ್‌ನ ಅಪಾಯಗಳು ತೀವ್ರಗೊಂಡಿವೆ. ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಗುರುತಿಸುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿಯಿರಿ Instagram ತ್ವರಿತವಾಗಿ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಸಾಧ್ಯವಾಗುವಂತೆ ರಾಜಿ ಮಾಡಿಕೊಳ್ಳಲಾಗಿದೆ. ಈ ಲೇಖನದಲ್ಲಿ, ರಾಜಿಯಾದ ಖಾತೆಯ ಎಚ್ಚರಿಕೆ ಚಿಹ್ನೆಗಳು ಮತ್ತು ಅದನ್ನು ಮರುಪಡೆಯಲು ನೀವು ತೆಗೆದುಕೊಳ್ಳಬಹುದಾದ ಹಂತಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳೋಣ. ರಾಜಿ ಮಾಡಿಕೊಂಡ Instagram ಖಾತೆಯ ಚಿಹ್ನೆಗಳು ನಿಮ್ಮ ಖಾತೆಯ ಸುರಕ್ಷತೆಯ ಕುರಿತು ನಿಮ್ಮನ್ನು ಎಚ್ಚರಿಸುವ ಹಲವಾರು [&hellip;]"
 date: "2024-03-09T12:01:08"
-featuredImage: "/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-3.png"
 categories: ["%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d-%e0%b2%ae%e0%b2%be%e0%b2%a7%e0%b3%8d%e0%b2%af%e0%b2%ae-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%b5%e0%b3%87%e0%b2%a6"]
 ---
 
@@ -139,7 +139,7 @@ categories: ["%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d-%e
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png" alt="" class="wp-image-1624" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png" alt="" class="wp-image-1624" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -257,7 +257,7 @@ categories: ["%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d-%e
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png" alt="" class="wp-image-1625" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png" alt="" class="wp-image-1625" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -349,6 +349,6 @@ categories: ["%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d-%e
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png" alt="" class="wp-image-1626" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png" alt="" class="wp-image-1626" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 

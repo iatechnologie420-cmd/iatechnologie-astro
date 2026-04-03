@@ -3,7 +3,7 @@ title: "Teknologisk innovasjon: hvor er vi i dag?"
 slug: "teknologisk-innovasjon-hvor-er-vi-i-dag"
 excerpt: "Nyere teknologiske fremskritt Nyere teknologiske fremskritt Nyere teknologiske fremskritt har radikalt forandret måten vi lever, jobber og kommuniserer på. Nye teknologier dukker opp regelmessig, og driver samfunnet vårt mot en stadig mer tilkoblet og innovativ fremtid. I denne artikkelen vil vi utforske noen av de nyeste spillendrende teknologiske fremskrittene på forskjellige områder. 1. Kunstig intelligens [&hellip;]"
 date: "2024-03-09T12:44:39"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["teknologi-og-digitalt-nb"]
 ---
 

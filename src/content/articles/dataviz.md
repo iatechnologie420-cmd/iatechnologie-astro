@@ -3,7 +3,7 @@ title: "dataviz ແມ່ນຫຍັງ? ຄໍານິຍາມ, ເຄື່
 slug: "dataviz"
 excerpt: "ຄວາມເຂົ້າໃຈ Dataviz: ການເບິ່ງເຫັນຂໍ້ມູນ ໃນມື້ນີ້, ດ້ວຍຈໍານວນຂໍ້ມູນອັນໃຫຍ່ຫຼວງທີ່ສ້າງຂຶ້ນທຸກໆວິນາທີ, ມັນເປັນສິ່ງຈໍາເປັນທີ່ຈະຮູ້ວິທີການນໍາສະເຫນີຂໍ້ມູນນີ້ຢ່າງຈະແຈ້ງແລະມີປະສິດທິພາບ. ນີ້ແມ່ນບ່ອນທີ່ ການເບິ່ງເຫັນຂໍ້ມູນ, ຫຼື dataviz, ສາຂາວິຊາວິໄນທີ່ປະສົມປະສານການອອກແບບ, ການບັນຍາຍແລະການວິເຄາະສະຖິຕິເພື່ອຫັນປ່ຽນຂໍ້ມູນທີ່ຊັບຊ້ອນໄປສູ່ການສະແດງພາບທີ່ເຂົ້າໃຈໄດ້. ຈຸດປະສົງຂອງ Dataviz ຄວາມທະເຍີທະຍານຕົ້ນຕໍຂອງ dataviz ແມ່ນເພື່ອເຮັດໃຫ້ຂໍ້ມູນສາມາດເຂົ້າເຖິງໄດ້ກັບທຸກຄົນ, ໂດຍບໍ່ຄໍານຶງເຖິງທັກສະການວິເຄາະຂອງບຸກຄົນ. ມັນມີຈຸດປະສົງເພື່ອ: ປະເພດຂອງການເບິ່ງເຫັນ ມີ​ວິ​ທີ​ການ​ຕ່າງໆ​ສໍາ​ລັບ​ການ​ເປັນ​ຕົວ​ແທນ​ຂໍ້​ມູນ​, ແຕ່​ລະ​ຄົນ​ທີ່​ເຫມາະ​ສົມ​ສໍາ​ລັບ​ປະ​ເພດ​ທີ່​ແຕກ​ຕ່າງ​ກັນ​ຂອງ​ຂໍ້​ມູນ​: ຄວາມສໍາຄັນຂອງການອອກແບບໃນ Dataviz ການອອກແບບທີ່ດີແມ່ນສໍາຄັນໃນຂໍ້ມູນ, ເພາະວ່າມັນມີອິດທິພົນບໍ່ພຽງແຕ່ຄວາມງາມ, ແຕ່ຍັງປະສິດທິຜົນຂອງຂໍ້ມູນທີ່ຖືກຖ່າຍທອດ. ບາງພື້ນຖານທີ່ຄວນພິຈາລະນາ: ເຄື່ອງມື Dataviz ເຄື່ອງ​ມື​ຫຼາຍ​ຢ່າງ​ສາ​ມາດ​ຖືກ​ນໍາ​ໃຊ້​ເພື່ອ​ສ້າງ​ຮູບ​ພາບ​ຂໍ້​ມູນ​, ເຊັ່ນ​: ຂໍ້ດີຂອງ Dataviz ການອໍານວຍຄວາມສະດວກຄວາມເຂົ້າໃຈຂອງຂໍ້ມູນ ຫນຶ່ງໃນຊັບສິນທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດຂອງ The dataviz ແມ່ນຄວາມສາມາດຂອງຕົນເພື່ອເຮັດໃຫ້ຄວາມເຂົ້າໃຈຂອງຂໍ້ມູນສະລັບສັບຊ້ອນ. Visualizations ປ່ຽນຕົວເລກແລະສະຖິຕິເຂົ້າໄປໃນຕາຕະລາງ, ແຜນທີ່ຫຼື infographics, ເຮັດໃຫ້ຂໍ້ມູນສາມາດເຂົ້າໃຈໄດ້ທັນທີ. ຄວາມລຽບງ່າຍນີ້ເຮັດໃຫ້ຜູ້ຕັດສິນໃຈສາມາດເຂົ້າໃຈເນື້ອແທ້ຂອງຂໍ້ມູນທີ່ນຳສະເໜີໄດ້ຢ່າງວ່ອງໄວ ແລະອຳນວຍຄວາມສະດວກໃນການຕັດສິນໃຈຢ່າງມີຂໍ້ມູນ. ປັບປຸງການສື່ສານຂໍ້ມູນຂ່າວສານ ກັບ dataviz, ມັນຈະກາຍເປັນເລື່ອງງ່າຍທີ່ຈະແບ່ງປັນຄວາມເຂົ້າໃຈກັບຜູ້ມີສ່ວນຮ່ວມ, ບໍ່ວ່າຈະມີຄວາມຊໍານານໃນການວິເຄາະຂໍ້ມູນຫຼືບໍ່. Visualizations ເປັນພາສາທົ່ວໄປທີ່ໃຫ້ຜູ້ເຂົ້າຮ່ວມທັງຫມົດສົນທະນາບົນພື້ນຖານຄວາມເຂົ້າໃຈດຽວກັນ. ອັນນີ້ເສີມສ້າງຄວາມຮ່ວມມື ແລະ [&hellip;]"
 date: "2024-03-09T11:56:41"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["%e0%ba%84%e0%ba%ad%e0%ba%a1%e0%ba%9e%e0%ba%b4%e0%ba%a7%e0%bb%80%e0%ba%95%e0%ba%b5%e0%bb%81%e0%ba%a5%e0%ba%b0%e0%ba%82%e0%bb%8d%e0%bb%89%e0%ba%a1%e0%ba%b9", "%e0%bb%80%e0%ba%95%e0%ba%b1%e0%ba%81%e0%bb%82%e0%ba%99%e0%bb%82%e0%ba%a5%e0%ba%8a%e0%ba%b5-%e0%bb%81%e0%ba%a5%e0%ba%b0%e0%ba%94%e0%ba%b4%e0%ba%88%e0%ba%b4%e0%ba%95%e0%ba%ad%e0%ba%a5-lo"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["%e0%ba%84%e0%ba%ad%e0%ba%a1%e0%ba%9e%e0%ba%b4%e0%ba%a7%e0%bb%80%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["%e0%ba%84%e0%ba%ad%e0%ba%a1%e0%ba%9e%e0%ba%b4%e0%ba%a7%e0%bb%80%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["%e0%ba%84%e0%ba%ad%e0%ba%a1%e0%ba%9e%e0%ba%b4%e0%ba%a7%e0%bb%80%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

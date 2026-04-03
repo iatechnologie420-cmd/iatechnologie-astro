@@ -3,7 +3,7 @@ title: "ChatGPT neden çalışmıyor ve bu konuda ne yapmalı?"
 slug: "chatgpt-neden-calismiyor-ve-bu-konuda-ne-yapmali"
 excerpt: "ChatGPT neden çalışmıyor? ChatGPT&#8217;yi kullandığınızda düzgün çalışmamasına neden olacak sorunlarla karşılaşabilirsiniz. Her ne kadar sinir bozucu olsa da bu sorunların çeşitli nedenleri olabilir. Bu makalede, ChatGPT&#8217;nin düzgün çalışmamasının bazı yaygın nedenlerini inceleyeceğiz ve bunları çözmeniz için size çözümler sunacağız. 1. Kararsız İnternet Bağlantısı Kararsız bir internet bağlantısı ChatGPT kullanırken sorunlara neden olabilir. İnternet bağlantınız zayıf [&hellip;]"
 date: "2024-03-09T12:17:54"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["yapay-zeka-uygulamalari-tr"]
 ---
 

@@ -3,7 +3,7 @@ title: "MidJourney: tartışmalı yapay zeka hakkında bilmeniz gereken her şey
 slug: "midjourney-tartismali-yapay-zeka-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "MidJourney&#8217;i Anlamak MidJourney, teknolojiyle etkileşim şeklimizi dönüştüren güçlü bir yapay zekadır. Bu kılavuzu, kökenlerini ve temel işlevlerini anlamak için bir kaynak olarak kullanın. MidJourney nedir? MidJourney bir araçtır yapay zeka Yeni teknolojilerle günlük etkileşimlerimizi geliştirmek ve kolaylaştırmak için tasarlanmış avangard. Hızla hayatımızın ayrılmaz bir parçası haline gelen Lensa ve ChatGPT gibi diğer önemli araçlar da [&hellip;]"
 date: "2024-03-09T11:52:15"
-featuredImage: "/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
 categories: ["yapay-zeka-uygulamalari-tr"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["yapay-zeka-uygulamalari-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="Zihinleri şok eden kaynak olan yolculuğun ortasında devrim niteliğindeki yapay zeka hakkında bilmeniz gereken her şeyi keşfedin." class="wp-image-14773" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="Zihinleri şok eden kaynak olan yolculuğun ortasında devrim niteliğindeki yapay zeka hakkında bilmeniz gereken her şeyi keşfedin." class="wp-image-14773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -105,7 +105,7 @@ categories: ["yapay-zeka-uygulamalari-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="Referans platformu yolculuğun ortasında şaşırtan yapay zeka hakkında bilmeniz gereken her şeyi keşfedin." class="wp-image-14774" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="Referans platformu yolculuğun ortasında şaşırtan yapay zeka hakkında bilmeniz gereken her şeyi keşfedin." class="wp-image-14774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

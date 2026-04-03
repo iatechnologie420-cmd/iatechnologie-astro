@@ -3,7 +3,7 @@ title: "Porta Non Bulvinar Neque Laoreet Suspendisse"
 slug: "porta-non-pulvinar-neque-laoreet-suspendisse"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque purus semper eget duis. Quis blandit turpis cursus in hac habitasse platea. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Sed cras ornare arcu dui vivamus arcu felis. Cursus euismod quis viverra nibh cras pulvinar mattis [&hellip;]"
 date: "2020-08-18T16:25:20"
-featuredImage: "/images/blog/ryan-geller-4ZPsW7PCNfA-unsplash.jpg"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ryan-geller-4ZPsW7PCNfA-unsplash.jpg"
 categories: ["news"]
 ---
 

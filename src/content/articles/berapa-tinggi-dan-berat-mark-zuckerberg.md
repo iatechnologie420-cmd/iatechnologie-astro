@@ -3,7 +3,7 @@ title: "Berapa tinggi dan berat Mark Zuckerberg?"
 slug: "berapa-tinggi-dan-berat-mark-zuckerberg"
 excerpt: "Tinggi Badan Mark Zuckerberg: Mitos atau Kenyataan? Kontroversi seputar ukuran tubuhnya Selama beberapa tahun, pertanyaan tentang tinggi badan Mark Zuckerberg, pendiri Facebook, telah menjadi banyak spekulasi dan perdebatan. Ada yang berpendapat bahwa ukurannya lebih kecil dari yang terlihat, sementara ada pula yang berpendapat bahwa ukurannya sebenarnya cukup tinggi. Lalu apa kebenaran tinggi badan Mark Zuckerberg? [&hellip;]"
 date: "2024-03-09T12:35:49"
-featuredImage: "/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["teknologi-dan-digital-id"]
 ---
 

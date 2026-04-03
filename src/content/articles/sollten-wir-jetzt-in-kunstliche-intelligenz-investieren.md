@@ -3,7 +3,7 @@ title: "Sollten wir jetzt in künstliche Intelligenz investieren?"
 slug: "sollten-wir-jetzt-in-kunstliche-intelligenz-investieren"
 excerpt: "Bevor wir mit „Ja“ oder „Nein“ antworten, ob es jetzt an der Zeit ist, in KI zu investieren, werfen wir einen Blick auf die Geschichte der KI, um die Dinge in einen Kontext zu setzen und eine wohlüberlegte Entscheidung zu treffen. Die Entwicklung der künstlichen Intelligenz Konventionelle KI Konventionelle KI, auch „schwache KI“ genannt, hatte [&hellip;]"
 date: "2024-03-09T12:43:20"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ki-anwendungen-de"]
 ---
 

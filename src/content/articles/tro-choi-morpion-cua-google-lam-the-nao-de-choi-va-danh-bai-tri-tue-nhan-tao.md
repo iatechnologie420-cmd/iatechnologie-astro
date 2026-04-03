@@ -3,7 +3,7 @@ title: "Trò chơi Morpion của Google: Làm thế nào để chơi và đánh 
 slug: "tro-choi-morpion-cua-google-lam-the-nao-de-choi-va-danh-bai-tri-tue-nhan-tao"
 excerpt: "Luật chơi trò chơi Tic-Toe của Google Mục tiêu của trò chơi Trò chơi Morpion, còn được gọi là Tic-tac-toe, là một trò chơi chiến lược được chơi trên lưới 3&#215;3. Mục tiêu là xếp ba biểu tượng giống hệt nhau (chéo hoặc hình tròn) theo chiều ngang, chiều dọc hoặc đường chéo trước đối [&hellip;]"
 date: "2024-03-09T12:44:55"
-featuredImage: "/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi"]
 ---
 

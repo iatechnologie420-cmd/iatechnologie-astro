@@ -3,7 +3,7 @@ title: "ಡೇಟಾ ಬ್ಯಾಕಪ್: ಅದು ಏನು, ಅದನ್ನ
 slug: "article-6-9"
 excerpt: "ಬ್ಯಾಕ್‌ಅಪ್‌ನ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ ಹಾರ್ಡ್‌ವೇರ್ ವೈಫಲ್ಯ, ಮಾನವ ದೋಷ, ಮಾಲ್‌ವೇರ್ ಅಥವಾ ನೈಸರ್ಗಿಕ ವಿಪತ್ತುಗಳಿಂದ ಸಂಭವನೀಯ ನಷ್ಟದಿಂದ ಮಾಹಿತಿಯನ್ನು ರಕ್ಷಿಸಲು ಡೇಟಾ ಬ್ಯಾಕಪ್ ಅತ್ಯಗತ್ಯ. ಸಾಕಷ್ಟು ಬ್ಯಾಕಪ್ ವ್ಯವಸ್ಥೆಯು ಕಳೆದುಹೋದ ಅಥವಾ ಹಾನಿಗೊಳಗಾದ ಡೇಟಾವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗಿಸುತ್ತದೆ ಮತ್ತು ಕಾರ್ಯಾಚರಣೆಗಳ ನಿರಂತರತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ. ಬ್ಯಾಕಪ್ ಪ್ರಕಾರಗಳನ್ನು ತಿಳಿಯಿರಿ ಹಲವಾರು ಬ್ಯಾಕಪ್ ವಿಧಾನಗಳಿವೆ, ಪ್ರತಿಯೊಂದೂ ನಿರ್ದಿಷ್ಟ ಅಗತ್ಯಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ: ಬ್ಯಾಕ್‌ಅಪ್‌ಗಳ ಆವರ್ತನವನ್ನು ಆರಿಸಿ ಬ್ಯಾಕ್‌ಅಪ್‌ನ ಆವರ್ತನವು ಡೇಟಾ ಎಷ್ಟು ಬೇಗನೆ ಬದಲಾಗುತ್ತದೆ ಮತ್ತು ಅದು ಎಷ್ಟು ಪ್ರಸ್ತುತವಾಗಿದೆ ಎಂಬುದರ [&hellip;]"
 date: "2024-03-09T12:04:33"
-featuredImage: "/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-3.png"
 categories: ["%e0%b2%95%e0%b2%82%e0%b2%aa%e0%b3%8d%e0%b2%af%e0%b3%82%e0%b2%9f%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b3%87%e0%b2%9f%e0%b2%be-kn", "%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d"]
 ---
 
@@ -95,7 +95,7 @@ categories: ["%e0%b2%95%e0%b2%82%e0%b2%aa%e0%b3%8d%e0%b2%af%e0%b3%82%e0%b2%9f%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-.png" alt="" class="wp-image-1211" srcset="/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-.png 1792w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--300x171.png 300w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--1024x585.png 1024w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--150x86.png 150w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--768x439.png 768w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-.png" alt="" class="wp-image-1211" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-.png 1792w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--300x171.png 300w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--1024x585.png 1024w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--150x86.png 150w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--768x439.png 768w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -151,7 +151,7 @@ categories: ["%e0%b2%95%e0%b2%82%e0%b2%aa%e0%b3%8d%e0%b2%af%e0%b3%82%e0%b2%9f%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1.png" alt="" class="wp-image-1212" srcset="/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1.png 1792w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-300x171.png 300w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-1024x585.png 1024w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-150x86.png 150w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-768x439.png 768w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1.png" alt="" class="wp-image-1212" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1.png 1792w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-300x171.png 300w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-1024x585.png 1024w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-150x86.png 150w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-768x439.png 768w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

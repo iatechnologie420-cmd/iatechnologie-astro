@@ -3,7 +3,7 @@ title: "Teknologiparker: innovasjonsknutepunkter for morgendagen?"
 slug: "teknologiparker-innovasjonsknutepunkter-for-morgendagen"
 excerpt: "Fremveksten av teknologiparker Disse helligdommene for innovasjon, også kjent som vitenskapsparker eller teknopoler, har en rik historie og er i stadig utvikling; de legemliggjør teknisk og økonomisk fremgang. Denne artikkelen tar sikte på å utforske opprinnelsen og utviklingen til disse teknologiknutepunktene, og fremhever deres avgjørende rolle som katalysatorer for innovasjon og økonomisk utvikling. Historie om [&hellip;]"
 date: "2024-03-09T12:36:42"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]
 ---
 

@@ -3,7 +3,7 @@ title: "Dompdf: kuidas luua PHP-s elegantseid PDF-e?"
 slug: "dompdf-kuidas-luua-php-s-elegantseid-pdf-e"
 excerpt: "Dompdf-i tutvustus Dompdf on PHP teek, mis võimaldab teil HTML-i sisust PDF-faile genereerida. See lahendus on väga kasulik aruannete, arvete või muude PDF-vormingus dokumentide koostamiseks. Selles artiklis avastame Dompdf-i põhifunktsioonid ja õpime seda kasutama elegantsete ja funktsionaalsete PDF-ide loomiseks. Eeldused Enne Dompdf-i installimist veenduge, et teil on järgmised asjad: Dompdf installimine Dompdf-i installimiseks toimige järgmiselt. [&hellip;]"
 date: "2024-03-09T12:40:22"
-featuredImage: "/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
 categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 

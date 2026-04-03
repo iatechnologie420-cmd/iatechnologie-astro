@@ -3,7 +3,7 @@ title: "ChatGPT: hatalar nasıl çözülür? Kılavuzun tamamı"
 slug: "chatgpt-hatalar-nasil-cozulur-kilavuzun-tamami"
 excerpt: "Yaygın ChatGPT hatalarını anlayın ve çözün Yapay zeka, geliştirme ve iyileştirme konusunda muazzam ilerlemeler kaydetmeye devam ediyor, ancak mükemmel olmaktan çok uzak. Bu nedenle bazen kabul edilemez hataların meydana geldiğini gördük. Google&#8217;ın CEO&#8217;su tanımayı ihmal etmeyin. Bilgi işleme, içerik oluşturma ve hatta bir Brezilya&#8217;da yargıç hatalarla dolu bir ceza verdiBu teknolojik gaflar ve “yapay zeka [&hellip;]"
 date: "2024-03-09T11:52:11"
-featuredImage: "/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["yapay-zeka-uygulamalari-tr"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["yapay-zeka-uygulamalari-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="Karşılaşılan zorlukların üstesinden gelmek için ideal çözüm olan chatgpt ile hataları çözmeye yönelik eksiksiz kılavuzu keşfedin." class="wp-image-14740" srcset="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="Karşılaşılan zorlukların üstesinden gelmek için ideal çözüm olan chatgpt ile hataları çözmeye yönelik eksiksiz kılavuzu keşfedin." class="wp-image-14740" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

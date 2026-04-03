@@ -3,7 +3,7 @@ title: "Что такое датавиз? Определение, основны
 slug: "article-7-4"
 excerpt: "Понимание Dataviz: визуализация данных Сегодня, когда каждую секунду генерируется огромное количество данных, становится важно знать, как представить эту информацию в четкой и эффективной форме. Именно здесь визуализация данных, Или визуализация данных, дисциплинарная область, которая сочетает в себе дизайн, повествование и статистический анализ для преобразования сложных данных в интуитивно понятные визуальные представления. Цели Датавиза Основная цель [&hellip;]"
 date: "2024-03-09T11:57:54"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["%d0%b2%d1%8b%d1%87%d0%b8%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-ru", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["%d0%b2%d1%8b%d1%87%d0%b8%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["%d0%b2%d1%8b%d1%87%d0%b8%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["%d0%b2%d1%8b%d1%87%d0%b8%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

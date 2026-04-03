@@ -3,7 +3,7 @@ title: "Revolusjonerer Nike-teknologier sportens verden?"
 slug: "revolusjonerer-nike-teknologier-sportens-verden"
 excerpt: "Nikes teknologiske nyvinninger innen sport Nike er et ikonisk merke innen sportsutstyr, og omdømmet er i stor grad basert på evnen til konstant innovasjon. Siden grunnleggelsen i 1964 har selskapet vist bemerkelsesverdig oppfinnsomhet i å utvikle teknologier som forbedrer ytelsen til idrettsutøvere og revolusjonerer sportens verden. Flyknit-teknologi: letthet og passform Et av de mest slående [&hellip;]"
 date: "2024-03-09T12:34:57"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]
 ---
 

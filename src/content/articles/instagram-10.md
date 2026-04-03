@@ -3,7 +3,7 @@ title: "Instagram의 노트에 음악을 추가하는 방법은 무엇입니까?
 slug: "instagram-10"
 excerpt: "Instagram에서 음악 기능 사용하기 Instagram은 인생의 순간, 이미지, 동영상을 공유하는 데 필수적인 플랫폼이 되었습니다. 게시물을 더욱 흥미롭게 만들기 위해 콘텐츠에 음악을 통합할 수 있습니다. 이 글에서는 Instagram의 다양한 음악 기능과 이를 사용하여 독창적이고 매력적인 게시물을 만드는 방법을 살펴보겠습니다. 스토리에 음악을 추가하는 이유 Instagram Stories에 음악을 추가하면 팔로어의 경험을 향상하고 콘텐츠를 더욱 매력적으로 만들 수 있는 [&hellip;]"
 date: "2024-03-09T12:25:43"
-featuredImage: "/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%94%94%ec%a7%80%ed%84%b8-%eb%af%b8%eb%94%94%ec%96%b4-%eb%b0%8f-%ed%94%8c%eb%9e%ab%ed%8f%bc-ko"]
 ---
 

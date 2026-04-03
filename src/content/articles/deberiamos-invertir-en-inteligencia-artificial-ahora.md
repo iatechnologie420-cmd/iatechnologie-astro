@@ -3,7 +3,7 @@ title: "¿Deberíamos invertir en inteligencia artificial ahora?"
 slug: "deberiamos-invertir-en-inteligencia-artificial-ahora"
 excerpt: "Antes de responder sí o no si es el momento de invertir en IA, repasemos la historia de la IA para poner las cosas en contexto y tomar una decisión bien pensada. La evolución de la inteligencia artificial IA convencional La IA convencional, también conocida como &#8220;IA débil&#8221;, tuvo sus inicios en la década de [&hellip;]"
 date: "2024-03-09T12:43:31"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["aplicaciones-de-ia-es"]
 ---
 

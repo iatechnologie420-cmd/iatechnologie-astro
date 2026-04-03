@@ -3,7 +3,7 @@ title: "Technologinė nelaimė: skaitmeninė revoliucija virsta košmaru?"
 slug: "technologine-nelaime-skaitmenine-revoliucija-virsta-kosmaru"
 excerpt: "Skaitmeninės revoliucijos poveikis mūsų visuomenei Mūsų laikui būdinga skaitmeninė revoliucija sutrikdė daugelį mūsų visuomenės aspektų. Skaitmeninės technologijos ir prieiga prie interneto pakeitė mūsų bendravimo, darbo, vartojimo ir net gyvenimo būdus. Šiame straipsnyje nagrinėjamos šios revoliucijos pasekmės mūsų kasdieniniam gyvenimui ir pabrėžiamos esminės problemos, su kuriomis turime susidurti. Skaitmeninės revoliucijos pasekmės 1. BendravimasSkaitmeninė revoliucija radikaliai pakeitė [&hellip;]"
 date: "2024-03-09T12:30:21"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["technologijos-ir-skaitmeninis-lt", "zaliosios-technologijos-ir-ismanieji-miestai-lt"]
 ---
 

@@ -3,7 +3,7 @@ title: "Revolutionäre Technologie verändert das Bankwesen?"
 slug: "revolutionare-technologie-verandert-das-bankwesen"
 excerpt: "Der Wandel des Bankwesens durch disruptive Technologien hat den Finanzsektor in den letzten Jahren tiefgreifend verändert. Der technologische Fortschritt hat die Entstehung neuer innovativer Lösungen ermöglicht, die die Art und Weise verändern, wie Banken arbeiten und mit ihren Kunden interagieren. In diesem Artikel werden wir die verschiedenen Dimensionen dieser Transformation und die Auswirkungen, die sie [&hellip;]"
 date: "2024-03-09T12:33:34"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["disruptive-und-aufkommende-innovationen-de", "technologie-und-digital-de"]
 ---
 

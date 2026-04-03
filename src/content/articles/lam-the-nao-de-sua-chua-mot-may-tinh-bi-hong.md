@@ -3,7 +3,7 @@ title: "Làm thế nào để sửa chữa một máy tính bị hỏng?"
 slug: "lam-the-nao-de-sua-chua-mot-may-tinh-bi-hong"
 excerpt: "Chẩn đoán sự cố máy tính của bạn Việc gặp sự cố máy tính đôi khi có thể trở thành một cơn đau đầu thực sự. Máy tính là một tổ hợp công nghệ phức tạp và khi có điều gì đó không hoạt động như mong đợi thì thường có vô số lý do [&hellip;]"
 date: "2024-03-09T12:08:24"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi"]
 ---
 

@@ -3,7 +3,7 @@ title: "ایا د نیکي ټیکنالوژي د سپورت نړۍ کې انقل
 slug: "article-1-48"
 excerpt: "په سپورت کې د نیکي تخنیکي نوښتونه نایک د سپورت تجهیزاتو په برخه کې یو مشهور برانډ دی، او د هغې شهرت په پراخه توګه د دې وړتیا پر بنسټ والړ دی چې په دوامداره توګه نوښت وکړي. په 1964 کې د هغې له تاسیس راهیسې، شرکت د ټیکنالوژیو په پراختیا کې د پام وړ [&hellip;]"
 date: "2024-03-09T12:35:30"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%ab%da%89%d9%88%da%89%d9%88%d9%86%da%a9%d9%8a-%d8%a7%d9%88-%d8%b1%d8%a7%d9%be%d9%88%d8%b1%d8%aa%d9%87-%da%a9%db%8c%d8%af%d9%88%d9%86%da%a9%d9%8a-%d9%86%d9%88%da%9a%d8%aa%d9%88%d9%86%d9%87-ps"]
 ---
 

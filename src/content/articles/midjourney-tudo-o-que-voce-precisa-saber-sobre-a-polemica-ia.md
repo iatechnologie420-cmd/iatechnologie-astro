@@ -3,7 +3,7 @@ title: "MidJourney: tudo o que você precisa saber sobre a polêmica IA"
 slug: "midjourney-tudo-o-que-voce-precisa-saber-sobre-a-polemica-ia"
 excerpt: "Compreendendo o meio da jornada MidJourney é uma inteligência artificial poderosa, transformando a maneira como interagimos com a tecnologia. Use este guia como um recurso para compreender suas origens e funções principais. O que é MidJourney? MidJourney é uma ferramenta inteligência artificial vanguarda projetada para melhorar e facilitar nossas interações diárias com novas tecnologias. Faz [&hellip;]"
 date: "2024-03-09T11:51:53"
-featuredImage: "/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
 categories: ["aplicacoes-de-ia-pt"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["aplicacoes-de-ia-pt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="descubra tudo o que você precisa saber sobre a revolucionária inteligência artificial no meio da jornada, a fonte que choca as mentes." class="wp-image-14773" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="descubra tudo o que você precisa saber sobre a revolucionária inteligência artificial no meio da jornada, a fonte que choca as mentes." class="wp-image-14773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -105,7 +105,7 @@ categories: ["aplicacoes-de-ia-pt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="descubra tudo o que você precisa saber sobre inteligência artificial que surpreende no meio da jornada, a plataforma de referência." class="wp-image-14774" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="descubra tudo o que você precisa saber sobre inteligência artificial que surpreende no meio da jornada, a plataforma de referência." class="wp-image-14774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

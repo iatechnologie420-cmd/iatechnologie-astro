@@ -3,7 +3,7 @@ title: "Segway Navimow incelemesi: Geleceğin otonom çim biçme makinesi mi?"
 slug: "segway-navimow-incelemesi-gelecegin-otonom-cim-bicme-makinesi-mi"
 excerpt: "Segway Navimow otonom çim biçme makinesinin avantajları Çim biçme zahmetinden endişe etmeden bahçenizin tadını tam anlamıyla çıkarabildiğinizi hayal edin. Segway Navimow otonom çim biçme makinesi sayesinde bu sıkıcı görev artık geçmişte kaldı. Yenilikçi özellikler ve ileri teknolojiyle donatılmış bu otonom çim biçme makinesi, günlük hayatınızı kolaylaştıracak birçok avantaj sunar. 1. Kullanım kolaylığı Segway Navimow otonom [&hellip;]"
 date: "2024-03-09T12:37:34"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["giyilebilir-teknolojiler-ve-nesnelerin-interneti-tr", "teknoloji-ve-dijital-tr"]
 ---
 

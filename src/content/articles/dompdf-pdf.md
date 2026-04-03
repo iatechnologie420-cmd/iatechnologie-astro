@@ -3,7 +3,7 @@ title: "Dompdf: Како да креирате елегантни PDF-датот
 slug: "dompdf-pdf"
 excerpt: "Вовед во Dompdf Dompdf е PHP библиотека која ви овозможува да генерирате PDF датотеки од HTML содржина. Ова решение е многу корисно за генерирање извештаи, фактури или кој било друг документ во PDF формат. Во оваа статија, ќе ги откриеме основните карактеристики на Dompdf и ќе научиме како да го користиме за да креираме елегантни [&hellip;]"
 date: "2024-03-09T12:41:57"
-featuredImage: "/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
 categories: ["%d0%bf%d1%80%d0%b5%d1%81%d0%bc%d0%b5%d1%82%d1%83%d0%b2%d0%b0%d1%9a%d0%b5-%d0%b8-%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-mk", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

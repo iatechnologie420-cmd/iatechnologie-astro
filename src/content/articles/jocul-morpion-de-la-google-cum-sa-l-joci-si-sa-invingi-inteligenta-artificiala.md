@@ -3,7 +3,7 @@ title: "Jocul Morpion de la Google: Cum să-l joci și să învingi inteligența
 slug: "jocul-morpion-de-la-google-cum-sa-l-joci-si-sa-invingi-inteligenta-artificiala"
 excerpt: "Regulile jocului Google Tic-Toe Obiectivul jocului Jocul Morpion, numit și Tic-tac-toe, este un joc de strategie care se joacă pe o grilă 3&#215;3. Scopul este să aliniați trei simboluri identice (cruce sau cerc) orizontal, vertical sau diagonal înaintea adversarului. Înființat Jocul Google Tic Toe este disponibil online și poate fi jucat pe diferite dispozitive, inclusiv [&hellip;]"
 date: "2024-03-09T12:44:24"
-featuredImage: "/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
 categories: ["tehnologie-si-digital-ro"]
 ---
 

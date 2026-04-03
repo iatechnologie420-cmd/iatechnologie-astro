@@ -3,7 +3,7 @@ title: "ChatGPT: kuidas vigu lahendada? Täielik juhend"
 slug: "chatgpt-kuidas-vigu-lahendada-taielik-juhend"
 excerpt: "Saage aru ja lahendage levinud ChatGPT vead Tehisintellekt teeb jätkuvalt tohutuid edusamme arengus ja täiustamises, kuid see pole kaugeltki täiuslik. Seega oleme mõnikord näinud vastuvõetamatuid vigu, mis Google&#8217;i tegevjuht ära jäta ära tundma. Kas infotöötluse, sisu genereerimise või isegi siis, kui a kohtunik annab Brasiilias välja vigadest tulvil karistuse, võivad need tehnoloogilised vead ja &#8220;tehisintellekti [&hellip;]"
 date: "2024-03-09T11:50:04"
-featuredImage: "/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["ai-rakendused-et"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["ai-rakendused-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="avastage täielik juhend vigade lahendamiseks chatgpt abil, mis on ideaalne lahendus tekkinud raskuste ületamiseks." class="wp-image-14740" srcset="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="avastage täielik juhend vigade lahendamiseks chatgpt abil, mis on ideaalne lahendus tekkinud raskuste ületamiseks." class="wp-image-14740" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

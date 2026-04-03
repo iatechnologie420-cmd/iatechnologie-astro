@@ -3,7 +3,7 @@ title: "Hvernig á að gera við bilaða tölvu?"
 slug: "hvernig-a-ad-gera-vid-bilada-tolvu"
 excerpt: "Greining á bilun tölvunnar þinnar Að lenda í tölvuvandamálum getur stundum breyst í alvöru höfuðverk. Tölvan er flókið tæknisamband og þegar eitthvað virkar ekki eins og ætlast er til eru oft margar mögulegar ástæður. Í þessari grein bjóðum við þér hagnýta leiðbeiningar til að hjálpa þér að bera kennsl á vandamálið og finna mögulegar lausnir [&hellip;]"
 date: "2024-03-09T12:06:23"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["taekni-og-stafraen-is"]
 ---
 

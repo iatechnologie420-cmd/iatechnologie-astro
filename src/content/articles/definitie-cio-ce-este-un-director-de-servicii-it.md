@@ -3,7 +3,7 @@ title: "Definiție CIO: ce este un director de servicii IT"
 slug: "definitie-cio-ce-este-un-director-de-servicii-it"
 excerpt: "Rolul și misiunile Directorului Servicii IT Rolul esențial al Directorului Serviciilor IT THE Director Servicii IT, de asemenea cunoscut ca si CIO Sau Director al sistemelor informatice, ocupă un loc strategic în cadrul companiilor moderne. În era digitală, în care informația și tehnologia au devenit nucleul activităților profesionale, înțelegerea responsabilităților și a misiunilor cuiva este [&hellip;]"
 date: "2024-03-09T12:04:41"
-featuredImage: "/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-3.png"
 categories: ["infrastructura-si-retele-ro"]
 ---
 
@@ -91,7 +91,7 @@ categories: ["infrastructura-si-retele-ro"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques.png" alt="" class="wp-image-1128" srcset="/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques.png 1792w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-300x171.png 300w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1024x585.png 1024w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-150x86.png 150w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-768x439.png 768w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques.png" alt="" class="wp-image-1128" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques.png 1792w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-300x171.png 300w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1024x585.png 1024w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-150x86.png 150w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-768x439.png 768w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ categories: ["infrastructura-si-retele-ro"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1.png" alt="" class="wp-image-1129" srcset="/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1.png 1792w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-300x171.png 300w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-1024x585.png 1024w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-150x86.png 150w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-768x439.png 768w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1.png" alt="" class="wp-image-1129" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1.png 1792w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-300x171.png 300w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-1024x585.png 1024w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-150x86.png 150w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-768x439.png 768w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -207,7 +207,7 @@ categories: ["infrastructura-si-retele-ro"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2.png" alt="" class="wp-image-1130" srcset="/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2.png 1792w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-300x171.png 300w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-1024x585.png 1024w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-150x86.png 150w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-768x439.png 768w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2.png" alt="" class="wp-image-1130" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2.png 1792w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-300x171.png 300w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-1024x585.png 1024w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-150x86.png 150w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-768x439.png 768w, /images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

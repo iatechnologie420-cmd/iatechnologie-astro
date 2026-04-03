@@ -3,7 +3,7 @@ title: "AWS Cloud – Semua yang perlu Anda ketahui tentang cloud Amazon Web Ser
 slug: "aws-cloud-semua-yang-perlu-anda-ketahui-tentang-cloud-amazon-web-services"
 excerpt: "Pengantar Amazon Web Services (AWS): sebuah revolusi dalam komputasi awan Sejak didirikan pada tahun 2006, Layanan Web Amazon (AWS) telah mengubah lanskap TI secara radikal dengan menghadirkan platform layanan cloud yang memberikan fleksibilitas, skala, dan skala ekonomi yang belum pernah terjadi sebelumnya. Pengenalan ini bertujuan untuk memperjelas prinsip pengoperasianAWS dan menjelaskan mengapa solusi ini menjadi [&hellip;]"
 date: "2024-03-09T12:45:03"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

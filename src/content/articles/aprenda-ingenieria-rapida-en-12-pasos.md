@@ -3,7 +3,7 @@ title: "Aprenda ingeniería rápida: en 12 pasos"
 slug: "aprenda-ingenieria-rapida-en-12-pasos"
 excerpt: "Introducción a la ingeniería rápida. ¿Qué es la ingeniería rápida? EL Ingeniería rápida Es un campo emergente que se centra en optimizar las indicaciones o comandos que damos a los sistemas de inteligencia artificial (IA), en particular aquellos basados ​​en lenguaje natural, como los generadores de texto. Es una disciplina particularmente importante con la llegada [&hellip;]"
 date: "2024-03-09T12:50:39"
-featuredImage: "/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
 categories: ["formacion-y-fundamentos-de-la-ia-es"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png" alt="" class="wp-image-1714" srcset="/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png 1792w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-300x171.png 300w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1024x585.png 1024w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-150x86.png 150w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-768x439.png 768w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png" alt="" class="wp-image-1714" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png 1792w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-300x171.png 300w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1024x585.png 1024w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-150x86.png 150w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-768x439.png 768w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

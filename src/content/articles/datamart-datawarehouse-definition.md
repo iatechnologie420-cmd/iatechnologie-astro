@@ -3,7 +3,7 @@ title: "Qu’est-ce qu’un Datamart / Datawarehouse ?"
 slug: "datamart-datawarehouse-definition"
 excerpt: "Introduction au concept de Datamart Le datamart est un terme essentiel dans le monde de l&#8217;analyse de données et du Business Intelligence (BI). Il s&#8217;agit d&#8217;une sous-section d&#8217;un entrepôt de données, c&#8217;est-à-dire d&#8217;une base de données spécialisée qui stocke un segment d&#8217;informations d&#8217;une entreprise. Alors qu&#8217;un data warehouse peut être considéré comme une immense bibliothèque [&hellip;]"
 date: "2024-02-11T15:34:30"
-featuredImage: "/images/blog/Quest-ce-quun-Datamart-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-3.png"
 categories: ["computing-et-data", "technologie-numerique"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["computing-et-data", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-.png" alt="" class="wp-image-1147" srcset="/images/blog/Quest-ce-quun-Datamart-.png 1792w, /images/blog/Quest-ce-quun-Datamart--300x171.png 300w, /images/blog/Quest-ce-quun-Datamart--1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart--150x86.png 150w, /images/blog/Quest-ce-quun-Datamart--768x439.png 768w, /images/blog/Quest-ce-quun-Datamart--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-.png" alt="" class="wp-image-1147" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-.png 1792w, /images/blog/Quest-ce-quun-Datamart--300x171.png 300w, /images/blog/Quest-ce-quun-Datamart--1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart--150x86.png 150w, /images/blog/Quest-ce-quun-Datamart--768x439.png 768w, /images/blog/Quest-ce-quun-Datamart--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -173,7 +173,7 @@ categories: ["computing-et-data", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-1-1.png" alt="" class="wp-image-1148" srcset="/images/blog/Quest-ce-quun-Datamart-1-1.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-1-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-1-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-1-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-1.png" alt="" class="wp-image-1148" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-1.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-1-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-1-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-1-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ categories: ["computing-et-data", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-1-2.png" alt="" class="wp-image-1149" srcset="/images/blog/Quest-ce-quun-Datamart-1-2.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-2-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-2-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-2-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-2.png" alt="" class="wp-image-1149" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-2.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-2-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-2-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-2-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

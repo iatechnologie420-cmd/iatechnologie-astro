@@ -3,7 +3,7 @@ title: "Nube de AWS: todo lo que necesita saber sobre la nube de Amazon Web Serv
 slug: "nube-de-aws-todo-lo-que-necesita-saber-sobre-la-nube-de-amazon-web-services"
 excerpt: "Introducción a Amazon Web Services (AWS): una revolución en la computación en la nube Desde su creación en 2006, Servicios web de Amazon (AWS) ha cambiado radicalmente el panorama de TI al ofrecer una plataforma de servicios en la nube que ofrece flexibilidad, escala y economías de escala sin precedentes. Esta introducción tiene como objetivo [&hellip;]"
 date: "2024-03-09T12:44:42"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

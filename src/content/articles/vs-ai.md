@@ -3,7 +3,7 @@ title: "الفاګو vs لیډسول: یو سوپر AI د ګو ماسټر مات
 slug: "vs-ai"
 excerpt: "یوه تاریخي نښته: مصنوعي استخبارات د Go ماسټر ننګوي د Go نړۍ په تاریخي ډول د انساني بادارانو لخوا تسلط درلود ، تر هغه چې یوې مهمې پیښې رامینځته شوي تمثیلونه ولړزول. مصنوعي استخبارات، دا وسیله چې د انسان هوښیارتیا لخوا رامینځته شوې، په تاریخ کې د یوې خورا پیچلې ستراتیژۍ لوبې سره د مبارزې [&hellip;]"
 date: "2024-03-09T12:56:04"
-featuredImage: "/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-3.png"
 categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3%d8%a7%d8%b3%d8%a7%d8%aa-ps"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA.png" alt="" class="wp-image-811" srcset="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA.png" alt="" class="wp-image-811" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1.png" alt="" class="wp-image-812" srcset="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1.png" alt="" class="wp-image-812" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2.png" alt="" class="wp-image-813" srcset="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2.png" alt="" class="wp-image-813" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

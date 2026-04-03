@@ -3,7 +3,7 @@ title: "Penala instrumen Google: revolusi untuk pemuzik?"
 slug: "penala-instrumen-google-revolusi-untuk-pemuzik"
 excerpt: "Kepentingan menala alat muzik Penalaan adalah salah satu aspek yang paling penting semasa bermain alat muzik. Sama ada anda seorang pemula atau ahli muzik yang berpengalaman, anda perlu menala instrumen anda dengan kerap untuk mendapatkan bunyi yang terbaik. Dalam artikel ini, kami akan meneroka kepentingan menala alat muzik dan memberi anda beberapa petua untuk memastikan [&hellip;]"
 date: "2024-03-09T12:39:09"
-featuredImage: "/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["teknologi-dan-digital-ms"]
 ---
 

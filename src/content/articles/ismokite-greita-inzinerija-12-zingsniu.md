@@ -3,7 +3,7 @@ title: "Išmokite greitą inžineriją: 12 žingsnių"
 slug: "ismokite-greita-inzinerija-12-zingsniu"
 excerpt: "Įvadas į greitą inžineriją Kas yra greitoji inžinerija? THE Greita inžinerija yra besiformuojanti sritis, kurioje pagrindinis dėmesys skiriamas raginimų arba komandų optimizavimui, kuriuos teikiame dirbtinio intelekto (AI) sistemoms, ypač pagrįstoms natūralia kalba, pvz., teksto generatoriams. Tai ypač svarbi disciplina, kai atsiranda kalbos apdorojimo modeliai, tokie kaip GPT-4 OpenAI. Idėja yra išmokti efektyviai „kalbėti“ su šiais [&hellip;]"
 date: "2024-03-09T12:52:01"
-featuredImage: "/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
 categories: ["ai-mokymas-ir-pagrindai-lt"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png" alt="" class="wp-image-1714" srcset="/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png 1792w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-300x171.png 300w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1024x585.png 1024w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-150x86.png 150w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-768x439.png 768w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png" alt="" class="wp-image-1714" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png 1792w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-300x171.png 300w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1024x585.png 1024w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-150x86.png 150w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-768x439.png 768w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Les parcs technologiques : des hubs d&#8217;innovation pour demain ?"
 slug: "parcs-technologique-innovation-c-est-quoi"
 excerpt: "L&#8217;émergence des parcs technologiques Ces sanctuaires de l&#8217;innovation, aussi connus sous le nom de parcs scientifiques ou technopoles, ont une histoire riche et sont en constante évolution; ils incarnent le progrès technique et économique. Cet article se propose d&#8217;explorer les origines et le développement de ces hubs technologiques, soulignant leur rôle crucial en tant que [&hellip;]"
 date: "2024-01-30T12:23:35"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["innovations-disruptives-et-emergentes", "technologie-numerique"]
 ---
 

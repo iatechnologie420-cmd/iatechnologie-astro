@@ -3,7 +3,7 @@ title: "Tæknislys: stafræna byltingin er að breytast í martröð?"
 slug: "taeknislys-stafraena-byltingin-er-ad-breytast-i-martrod"
 excerpt: "Áhrif stafrænu byltingarinnar á samfélag okkar Stafræna byltingin sem einkennir okkar tíma hefur truflað marga þætti samfélags okkar. Stafræn tækni og aðgangur að internetinu hafa umbreytt því hvernig við höfum samskipti, vinnum, neytum og jafnvel lifum. Þessi grein kannar afleiðingar þessarar byltingar á daglegt líf okkar og dregur fram þau mikilvægu vandamál sem við verðum [&hellip;]"
 date: "2024-03-09T12:29:06"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["graen-taekni-og-snjallborgir-is", "taekni-og-stafraen-is"]
 ---
 

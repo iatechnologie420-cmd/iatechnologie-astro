@@ -3,7 +3,7 @@ slug: "article-184"
 title: "チューリングテストを理解する"
 excerpt: "チューリングテストの起源と原理 人工知能 (AI) とコンピューティングの世界では、チューリング テストが重要な位置を占めています。これは、人間の知能を模倣するマシンの能力を評価するために設計されたベンチマーク手法です。この革命的なテストの起源と原理は 20 世紀半ばにまで遡り、複雑な哲学的および計算上の概念に基づいています。 チューリングテストの歴史 チューリング テストの名前は、コンピュータ サイエンスの先駆者の 1 人と考えられている英国の数学者、発明者アラン チューリングに由来しています。彼は、英国の雑誌『マインド』に掲載された 1950 年の論文「コンピューティング機械とインテリジェンス」で初めてこのテストを提示しました。アラン・チューリングは、機械は考えることができるかどうかという問題を調査し、人工知能を評価する方法を提案します。 チューリングテストの基本原理 チューリング テストの基本原理は非常に単純です。これは、人間である裁判官が、対話者が機械であるか、他の人間であるかを判断するというイミテーション ゲームに基づいています。裁判官は画面とキーボードを介して2人の対話者と通信するため、物理的な手がかりに頼って判決を下すことは不可能です。 チューリングテストの実施 テストは次のように実行されます。1. 裁判官は書面でさまざまな質問をします。2. 人間の対話者と機械も書面で応答します。3. 審査員が機械と人間を適切に区別できない場合、機械はテストに合格します。目標は、機械がその応答が男性または女性の応答と区別できないレベルまで人間の知性と競合できるかどうかを確認することです。 チューリングテストの意味と問題点 チューリング テストには、重要な哲学的および技術的な意味があります。それは思考と意識の性質、そして真の知性を構成するものについての熟考を促します。技術レベルでは、このテストは AI と自然言語処理の分野で大きな進歩をもたらしました。 IBM Watson などのシステムや音声アシスタント シリ のりんご、 Googleアシスタント そして アレクサ のアマゾン これらは、チューリング テストに合格する可能性のあるマシンを作成するための現代的な取り組みの例です。 チューリング テストは、特に人工知能の評価における有効性と関連性に関して、依然として議論と議論のテーマです。このテストは会話シミュレーターのみを測定し、知能そのものは測定しないと主張する人もいますが、これを将来の AI 開発の課題と見なす人もいます。 チューリングテストが成功するための基準 チューリング テストの成功とは、人間の観察者が機械の反応と実際の人間の反応を区別できないレベルまで人間の行動を模倣する能力を評価することによって、機械の知能を測定する方法です。人工知能の分野では、1950 年にアラン チューリングによって提案された有名なチューリング テストが、今でも機械の意識と知能に関する多くの議論の中心となっています。では、チューリング テストが成功したとみなされるために満たさなければならない基準は何でしょうか? 人間の識別不能基準 チューリング テストの中心的な目的は、人間の質問者が質問や発言に対する応答に基づいて、機械と人間を区別できるかどうかをテストすることです。対話者が答えが人間からのものか機械からのものかを明確に判断できない場合、テストは合格したとみなされます。これを念頭に置いて、いくつかの基準を尊重する必要があります。 [&hellip;]"
 date: "2024-03-09T12:56:30"
-featuredImage: "/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["ai-%e3%81%ae%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%a8%e5%9f%ba%e7%a4%8e-ja"]
 ---
 
@@ -67,7 +67,7 @@ categories: ["ai-%e3%81%ae%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Bien-comprendre-le-test-de-Turing.png" alt="" class="wp-image-806" srcset="/images/blog/Bien-comprendre-le-test-de-Turing.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing.png" alt="" class="wp-image-806" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -127,7 +127,7 @@ categories: ["ai-%e3%81%ae%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Bien-comprendre-le-test-de-Turing-2.png" alt="" class="wp-image-808" srcset="/images/blog/Bien-comprendre-le-test-de-Turing-2.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-2-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-2-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-2-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-2.png" alt="" class="wp-image-808" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-2.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-2-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-2-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-2-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

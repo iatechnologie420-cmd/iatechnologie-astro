@@ -3,7 +3,7 @@ title: "Meilleurs Exemples de l’intelligence artificielle"
 slug: "meilleurs-exemples-de-lintelligence-artificielle"
 excerpt: "Comprendre l&#8217;intelligence artificielle et son importance L&#8217;intelligence artificielle (IA) est une technologie qui a pris une place considérable dans notre quotidien. Du monde du travail à l&#8217;éducation, en passant par l&#8217;environnement et le règlement législatif, l&#8217;IA façonne notre société. Comprendre son fonctionnement et son importance est une étape cruciale pour naviguer dans ce monde de [&hellip;]"
 date: "2024-03-13T12:35:17"
-featuredImage: "/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-2.png"
 categories: ["applications-de-l-ia-fr"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle.png" alt="découvrez les meilleurs exemples de l'intelligence artificielle pour comprendre son impact sur notre quotidien et son potentiel dans divers domaines. des applications concrètes et innovantes qui révolutionnent notre façon de vivre et de travailler." class="wp-image-14707" srcset="/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle.png 1792w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle.png" alt="découvrez les meilleurs exemples de l'intelligence artificielle pour comprendre son impact sur notre quotidien et son potentiel dans divers domaines. des applications concrètes et innovantes qui révolutionnent notre façon de vivre et de travailler." class="wp-image-14707" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle.png 1792w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1.png" alt="découvrez les meilleurs exemples d'intelligence artificielle pour comprendre son impact et ses applications dans différents domaines." class="wp-image-14708" srcset="/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1.png 1792w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1.png" alt="découvrez les meilleurs exemples d'intelligence artificielle pour comprendre son impact et ses applications dans différents domaines." class="wp-image-14708" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1.png 1792w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Meilleurs-Exemples-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

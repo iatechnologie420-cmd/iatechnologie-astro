@@ -3,7 +3,7 @@ title: "Cei mai buni roboți din universul Star Wars"
 slug: "cei-mai-buni-roboti-din-universul-star-wars"
 excerpt: "Legende mecanice: C-3PO și R2-D2 Considerați cei mai emblematici droizi ai sagăi Razboiul Stelelor, C-3PO și R2-D2 au marcat generații de fani prin personalitatea lor unică, povestea și rolul lor crucial de-a lungul episoadelor. Acest articol se adâncește în lumea acestor legende mecanice, dezvăluind esența și impactul lor cultural. C-3PO: Protocolul Polyglot Droid C-3PO, adesea [&hellip;]"
 date: "2024-03-09T12:23:39"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["tehnologie-si-digital-ro"]
 ---
 

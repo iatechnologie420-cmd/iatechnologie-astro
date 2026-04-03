@@ -3,7 +3,7 @@ title: "مرچ: هرڅه چې تاسو ورته اړتیا لرئ د SoftBank ټ
 slug: "softbank"
 excerpt: "مرچ: پریزنټیشن او اساسي دندې لنډیز ټولنیز روبوټ تور مرچ یو تخنیکي کار دی چې په ټولنیز چاپیریال کې د انسانانو سره د تعامل لپاره ډیزاین شوی. د ډیری سینسرونو او پرمختللي AI سره مجهز، مرچ زموږ د چلندونو سره د تطبیق په وخت کې زموږ احساساتو باندې پوهیږي او غبرګون کوي. د دې مقالې [&hellip;]"
 date: "2024-03-09T11:51:47"
-featuredImage: "/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["%da%ab%da%89%d9%88%da%89%d9%88%d9%86%da%a9%d9%8a-%d8%a7%d9%88-%d8%b1%d8%a7%d9%be%d9%88%d8%b1%d8%aa%d9%87-%da%a9%db%8c%d8%af%d9%88%d9%86%da%a9%d9%8a-%d9%86%d9%88%da%9a%d8%aa%d9%88%d9%86%d9%87-ps"]
 ---
 
@@ -75,7 +75,7 @@ categories: ["%da%ab%da%89%d9%88%da%89%d9%88%d9%86%da%a9%d9%8a-%d8%a7%d9%88-%d8%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="د مرچ په اړه هرڅه ومومئ، د سافټ بانک ټولنیز بوټ، د هغې ځانګړتیاوې، کارونې او ځانګړتیاوې، په یو ځای کې." class="wp-image-14767" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="د مرچ په اړه هرڅه ومومئ، د سافټ بانک ټولنیز بوټ، د هغې ځانګړتیاوې، کارونې او ځانګړتیاوې، په یو ځای کې." class="wp-image-14767" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ categories: ["%da%ab%da%89%d9%88%da%89%d9%88%d9%86%da%a9%d9%8a-%d8%a7%d9%88-%d8%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="د مرچ، softbank ټولنیز روبوټ په اړه هرڅه ومومئ - د هغې ځانګړتیاوې، د هغې کارول او په ټولنه یې اغیز." class="wp-image-14768" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="د مرچ، softbank ټولنیز روبوټ په اړه هرڅه ومومئ - د هغې ځانګړتیاوې، د هغې کارول او په ټولنه یې اغیز." class="wp-image-14768" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

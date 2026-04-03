@@ -3,7 +3,7 @@ title: "Ce este dataviz? Definiție, instrumente esențiale"
 slug: "ce-este-dataviz-definitie-instrumente-esentiale"
 excerpt: "Înțelegerea Dataviz: vizualizarea datelor Astăzi, odată cu cantitatea imensă de date generate în fiecare secundă, devine esențial să știi să prezinți aceste informații într-un mod clar și eficient. Aici este locul vizualizarea datelor, Or dataviz, un domeniu disciplinar care combină designul, analiza narativă și statistică pentru a transforma date complexe în reprezentări vizuale intuitive. Obiectivele [&hellip;]"
 date: "2024-03-09T11:57:48"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

@@ -3,7 +3,7 @@ title: "Tu so najboljše brezplačne alternative za ChatGPT"
 slug: "tu-so-najboljse-brezplacne-alternative-za-chatgpt"
 excerpt: "Odkrivanje brezplačnih alternativ za ChatGPT V času, ko pogovorni sistemi, ki temeljijo naUmetna inteligenca (AI) prevladujejo v tehnološkem prostoru, se zdi kot plačljiva možnost ChatGPT je postalo norma. Za tiste, ki želijo raziskati brezplačne alternative, pa obstaja veliko enako učinkovitih in vplivnih možnosti. Ta članek raziskuje nekaj modelov klepeta z umetno inteligenco, ki ponujajo primerljivo [&hellip;]"
 date: "2024-03-09T11:54:32"
-featuredImage: "/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
 categories: ["aplikacije-ai-sl"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["aplikacije-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="Oglejte si najboljše brezplačne alternative ChatGPT in uživajte v podobnih funkcijah, ne da bi za to porabili niti peni." class="wp-image-14789" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="Oglejte si najboljše brezplačne alternative ChatGPT in uživajte v podobnih funkcijah, ne da bi za to porabili niti peni." class="wp-image-14789" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["aplikacije-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="odkrijte najboljše brezplačne alternative za chatgpt za inovativne in obogatitvene interakcije. poiščite podobne rešitve brez stroškov in izkoristite čudovito izkušnjo." class="wp-image-14790" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="odkrijte najboljše brezplačne alternative za chatgpt za inovativne in obogatitvene interakcije. poiščite podobne rešitve brez stroškov in izkoristite čudovito izkušnjo." class="wp-image-14790" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

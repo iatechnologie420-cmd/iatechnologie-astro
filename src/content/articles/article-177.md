@@ -3,7 +3,7 @@ title: "ಕಾಗ್ನಿಟಿವಿಸಂ: ನಮ್ಮ ಬುದ್ಧಿಮ
 slug: "article-177"
 excerpt: "ಅರಿವಿನ ಮತ್ತು ಮಾನವ ಬುದ್ಧಿವಂತಿಕೆಯ ಮೂಲಗಳು ಅರಿವಿನ ಮೂಲಗಳು ದಿ ಅರಿವಿನ ಮನೋವಿಜ್ಞಾನದಲ್ಲಿನ ಒಂದು ವಿಧಾನವಾಗಿದ್ದು ಅದು ಚಿಂತನೆಯ ಆಂತರಿಕ ಕಾರ್ಯವಿಧಾನಗಳ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ, ಮಾನವನ ಮನಸ್ಸನ್ನು ಮಾಹಿತಿ ಸಂಸ್ಕರಣಾ ವ್ಯವಸ್ಥೆಯಾಗಿ ಪರಿಗಣಿಸುತ್ತದೆ. ಈ ವಿಧಾನದ ಮೂಲವು ಮುಖ್ಯವಾಗಿ 1950 ಮತ್ತು 1960 ರ ದಶಕದ ಹಿಂದಿನದು, ನಡವಳಿಕೆಯ ಪ್ರತಿಕ್ರಿಯೆಯಾಗಿ, ಅದು ಆ ಸಮಯದಲ್ಲಿ ಬಹಳ ಪ್ರಬಲವಾಗಿತ್ತು ಮತ್ತು ಆಂತರಿಕ ಮಾನಸಿಕ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಿ ಗಮನಿಸಬಹುದಾದ ನಡವಳಿಕೆಗಳ ಮೇಲೆ ಪ್ರತ್ಯೇಕವಾಗಿ ಗಮನಹರಿಸಿತು. ದಿ ಅಡಿಪಾಯಗಳು ಅರಿವಿನ ಸಿದ್ಧಾಂತವು [&hellip;]"
 date: "2024-03-09T12:19:13"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["ai-%e0%b2%a4%e0%b2%b0%e0%b2%ac%e0%b3%87%e0%b2%a4%e0%b2%bf-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%ae%e0%b3%82%e0%b2%b2%e0%b2%ad%e0%b3%82%e0%b2%a4-%e0%b2%85%e0%b2%82%e0%b2%b6%e0%b2%97"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["ai-%e0%b2%a4%e0%b2%b0%e0%b2%ac%e0%b3%87%e0%b2%a4%e0%b2%bf-%e0%b2%a
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["ai-%e0%b2%a4%e0%b2%b0%e0%b2%ac%e0%b3%87%e0%b2%a4%e0%b2%bf-%e0%b2%a
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["ai-%e0%b2%a4%e0%b2%b0%e0%b2%ac%e0%b3%87%e0%b2%a4%e0%b2%bf-%e0%b2%a
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Технологическая катастрофа: цифровая р
 slug: "article-6-10"
 excerpt: "Влияние цифровой революции на наше общество Цифровая революция, которая характеризует наше время, разрушила многие аспекты жизни нашего общества. Цифровые технологии и доступ к Интернету изменили то, как мы общаемся, работаем, потребляем и даже живем. В этой статье исследуются последствия этой революции для нашей повседневной жизни и освещаются важнейшие проблемы, с которыми нам предстоит столкнуться. Последствия [&hellip;]"
 date: "2024-03-09T12:32:14"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%83%d0%bc%d0%bd%d1%8b%d0%b5-%d0%b3%d0%be%d1%80%d0%be%d0%b4%d0%b0-ru", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

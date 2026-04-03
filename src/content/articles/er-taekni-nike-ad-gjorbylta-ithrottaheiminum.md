@@ -3,7 +3,7 @@ title: "Er tækni Nike að gjörbylta íþróttaheiminum?"
 slug: "er-taekni-nike-ad-gjorbylta-ithrottaheiminum"
 excerpt: "Tækninýjungar Nike í íþróttum Nike er helgimynda vörumerki á sviði íþróttabúnaðar og orðspor þess byggist að miklu leyti á getu þess til stöðugrar nýsköpunar. Frá stofnun þess árið 1964 hefur fyrirtækið sýnt ótrúlega hugvitssemi við að þróa tækni sem bætir árangur íþróttamanna og gjörbyltir íþróttaheiminum. Flyknit tækni: Léttleiki og passa Eitt af mest sláandi dæmi [&hellip;]"
 date: "2024-03-09T12:33:29"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["taekni-og-stafraen-is", "truflandi-og-nyjar-nyjungar-is"]
 ---
 

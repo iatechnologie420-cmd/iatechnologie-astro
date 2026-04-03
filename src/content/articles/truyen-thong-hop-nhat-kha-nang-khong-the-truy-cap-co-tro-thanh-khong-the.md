@@ -3,7 +3,7 @@ title: "Truyền thông hợp nhất: khả năng không thể truy cập có tr
 slug: "truyen-thong-hop-nhat-kha-nang-khong-the-truy-cap-co-tro-thanh-khong-the"
 excerpt: "Truyền thông hợp nhất: Định nghĩa và nguyên tắc Truyền thông hợp nhất là gì? CÁC truyền thông Hợp nhất (CU), hay Truyền thông Hợp nhất trong tiếng Anh, chỉ một tập hợp các dịch vụ và giải pháp nhằm tích hợp hoặc thống nhất các hình thức liên lạc khác nhau trong cùng một [&hellip;]"
 date: "2024-03-09T12:02:11"
-featuredImage: "/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-3.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "nen-tang-va-phuong-tien-ky-thuat-so-vi"]
 ---
 
@@ -131,7 +131,7 @@ categories: ["cong-nghe-va-ky-thuat-so-vi", "nen-tang-va-phuong-tien-ky-thuat-so
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png" alt="" class="wp-image-1032" srcset="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png" alt="" class="wp-image-1032" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ categories: ["cong-nghe-va-ky-thuat-so-vi", "nen-tang-va-phuong-tien-ky-thuat-so
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png" alt="" class="wp-image-1033" srcset="/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png" alt="" class="wp-image-1033" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1.png 1792w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-300x171.png 300w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1024x585.png 1024w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-150x86.png 150w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-768x439.png 768w, /images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

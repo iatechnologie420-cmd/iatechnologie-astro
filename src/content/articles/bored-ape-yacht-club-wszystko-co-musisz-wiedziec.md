@@ -3,7 +3,7 @@ title: "Bored Ape Yacht Club: wszystko, co musisz wiedzieć"
 slug: "bored-ape-yacht-club-wszystko-co-musisz-wiedziec"
 excerpt: "Co to jest klub jachtowy Bored Ape? TO Znudzony klub jachtowy Ape to niedawne zjawisko, które wstrząsa światem Tokeny niezamienne (NFT). Te wyjątkowo ilustrowane wirtualne małpy stały się symbolem statusu miliardera w świecie kryptowalut. Ale co czyni te NFT tak wyjątkowymi? I dlaczego poruszyły wyobraźnię tak wielu osób? W tym artykule zagłębiamy się w fascynujący [&hellip;]"
 date: "2024-03-09T11:48:21"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["blockchain-i-bezpieczenstwo-cyfrowe-pl", "technologia-i-cyfrowosc-pl"]
 ---
 

@@ -3,7 +3,7 @@ title: "Kognitywizm: czy nasza inteligencja jest sztuczna?"
 slug: "kognitywizm-czy-nasza-inteligencja-jest-sztuczna"
 excerpt: "Geneza kognitywizmu i inteligencji człowieka Początki kognitywizmu TO kognitywizm to podejście w psychologii skupiające się na wewnętrznych mechanizmach myślenia, traktujące ludzki umysł jako system przetwarzania informacji. Początki tego podejścia sięgają głównie lat 50. i 60. XX wieku, jako reakcja na bardzo dominujący wówczas behawioryzm, skupiający się wyłącznie na zachowaniach obserwowalnych, zaniedbując wewnętrzne procesy psychiczne. TO [&hellip;]"
 date: "2024-03-09T12:20:16"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["szkolenia-i-podstawy-ai-pl"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

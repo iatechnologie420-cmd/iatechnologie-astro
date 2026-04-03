@@ -3,7 +3,7 @@ title: "Chủ nghĩa nhận thức: Trí thông minh của chúng ta có phải 
 slug: "chu-nghia-nhan-thuc-tri-thong-minh-cua-chung-ta-co-phai-la-nhan-tao"
 excerpt: "Nguồn gốc của chủ nghĩa nhận thức và trí thông minh của con người Nguồn gốc của chủ nghĩa nhận thức CÁC chủ nghĩa nhận thức là một cách tiếp cận trong tâm lý học tập trung vào các cơ chế bên trong của suy nghĩ, coi tâm trí con người như một hệ thống [&hellip;]"
 date: "2024-03-09T12:21:14"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

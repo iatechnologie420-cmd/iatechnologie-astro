@@ -3,7 +3,7 @@ title: "Telegram: semua yang perlu Anda ketahui tentang aplikasi perpesanan aman
 slug: "telegram-semua-yang-perlu-anda-ketahui-tentang-aplikasi-perpesanan-aman"
 excerpt: "Apa itu Telegram? Telegram adalah aplikasi pesan instan yang berfokus pada kecepatan dan keamanan. Ini telah menjadi salah satu platform komunikasi paling populer di dunia berkat kombinasi fitur-fitur canggih, antarmuka intuitif, dan komitmen untuk melindungi privasi pengguna. Sejak diluncurkan pada tahun 2013, Telegram telah menonjol di antara banyak aplikasi perpesanan, memposisikan dirinya sebagai alat komunikasi [&hellip;]"
 date: "2024-03-09T12:11:53"
-featuredImage: "/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-3.png"
 categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 ---
 
@@ -55,7 +55,7 @@ categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee.png" alt="" class="wp-image-1686" srcset="/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee.png 1792w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-300x171.png 300w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1024x585.png 1024w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-150x86.png 150w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-768x439.png 768w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee.png" alt="" class="wp-image-1686" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee.png 1792w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-300x171.png 300w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1024x585.png 1024w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-150x86.png 150w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-768x439.png 768w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -115,7 +115,7 @@ categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1.png" alt="" class="wp-image-1687" srcset="/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1.png 1792w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-300x171.png 300w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-1024x585.png 1024w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-150x86.png 150w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-768x439.png 768w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1.png" alt="" class="wp-image-1687" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1.png 1792w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-300x171.png 300w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-1024x585.png 1024w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-150x86.png 150w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-768x439.png 768w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

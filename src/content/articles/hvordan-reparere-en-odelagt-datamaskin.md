@@ -3,7 +3,7 @@ title: "Hvordan reparere en ødelagt datamaskin?"
 slug: "hvordan-reparere-en-odelagt-datamaskin"
 excerpt: "Diagnostiserer datamaskinens sammenbrudd Å støte på et dataproblem kan noen ganger bli til en skikkelig hodepine. Datamaskinen er en kompleks teknologisk sammensetning, og når noe ikke fungerer som forventet, er det ofte en rekke mulige årsaker. I denne artikkelen tilbyr vi deg en praktisk veiledning for å hjelpe deg med å identifisere problemet og finne [&hellip;]"
 date: "2024-03-09T12:07:24"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["teknologi-og-digitalt-nb"]
 ---
 

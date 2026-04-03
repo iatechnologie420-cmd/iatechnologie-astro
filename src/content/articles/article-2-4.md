@@ -3,7 +3,7 @@ title: "기술적 재앙: 디지털 혁명이 악몽으로 변하고 있나요?"
 slug: "article-2-4"
 excerpt: "디지털 혁명이 우리 사회에 미치는 영향 우리 시대를 특징짓는 디지털 혁명은 우리 사회의 여러 측면을 혼란에 빠뜨렸습니다. 디지털 기술과 인터넷 접속은 우리가 의사소통하고, 일하고, 소비하고, 심지어 생활하는 방식까지 변화시켰습니다. 이 기사에서는 이 혁명이 우리 일상 생활에 미치는 영향을 살펴보고 우리가 직면해야 하는 중요한 문제를 강조합니다. 디지털 혁명의 결과 1. 커뮤니케이션디지털 혁명은 우리가 의사소통하는 방식을 근본적으로 [&hellip;]"
 date: "2024-03-09T12:29:54"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%85%b9%ec%83%89-%ea%b8%b0%ec%88%a0%ea%b3%bc-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%8b%9c%ed%8b%b0-ko"]
 ---
 

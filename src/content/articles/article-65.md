@@ -3,7 +3,7 @@ title: "Прорывные технологии, преобразующие ба
 slug: "article-65"
 excerpt: "Трансформация банковского дела с помощью революционных технологий глубоко изменила финансовый сектор за последние годы. Технологические достижения позволили появиться новым инновационным решениям, которые меняют способы работы банков и взаимодействия со своими клиентами. В этой статье мы рассмотрим различные аспекты этой трансформации и ее влияние на банковскую отрасль. Цифровизация: полностью цифровая эра Первым измерением банковской трансформации с [&hellip;]"
 date: "2024-03-09T12:36:32"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["%d0%bf%d0%be%d0%b4%d1%80%d1%8b%d0%b2%d0%bd%d1%8b%d0%b5-%d0%b8-%d0%bd%d0%be%d0%b2%d1%8b%d0%b5-%d0%b8%d0%bd%d0%bd%d0%be%d0%b2%d0%b0%d1%86%d0%b8%d0%b8-ru", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

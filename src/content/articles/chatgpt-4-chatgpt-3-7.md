@@ -3,7 +3,7 @@ title: "ChatGPT-4 ດີກວ່າ ChatGPT-3 ຫຼາຍປານໃດ?"
 slug: "chatgpt-4-chatgpt-3-7"
 excerpt: "ການເພີ່ມຂຶ້ນຂອງເຕັກໂນໂລຢີປັນຍາປະດິດ ສືບຕໍ່ຫັນປ່ຽນພູມສັນຖານດິຈິຕອລໂດຍການສະເໜີເຄື່ອງມືທີ່ທັນສະໄໝຂຶ້ນ. ໃນຍຸກໃຫມ່ນີ້, ສະບັບຢ່າງຕໍ່ເນື່ອງຂອງ ChatGPT ຂອງ OpenAI ສະແດງໃຫ້ເຫັນຄວາມກ້າວຫນ້ານີ້ຢ່າງສົມບູນ. ໃນຂະນະທີ່ ChatGPT-3 ໄດ້ໝາຍເຖິງຈຸດປ່ຽນແລ້ວ, ການເຮັດຊ້ຳຫຼ້າສຸດຂອງມັນ, ChatGPT-4, ຊຸກຍູ້ຂອບເຂດຂອງສິ່ງທີ່ ການ​ປຸງ​ແຕ່ງ​ພາ​ສາ​ທໍາ​ມະ​ຊາດ​ (NLP) ສາມາດເຮັດໄດ້. ໃຫ້ພິຈາລະນາການປັບປຸງທີ່ໂດດເດັ່ນໃນສະບັບຫລ້າສຸດນີ້. ປະຫວັດສາດແລະວິວັດທະນາຂອງ AI ນັບຕັ້ງແຕ່ແນວຄວາມຄິດຂອງມັນເລີ່ມຕົ້ນໃນຊຸມປີ 1950, AI ໄດ້ມາຫຼາຍທາງ. ເຄື່ອງຈັກໄດ້ພັດທະນາຈາກເຄື່ອງຄິດເລກແບບງ່າຍດາຍໄປສູ່ລະບົບທີ່ສາມາດຮັບຮູ້ສຽງ, ຄວາມເຂົ້າໃຈໃນສະພາບການ, ແລະແມ້ກະທັ້ງການສ້າງເນື້ອຫາສິລະປະ. ມັນຢູ່ທີ່ນີ້ CatGPT-4 ເຂົ້າໄປໃນ scene ໄດ້. ລຸ້ນນີ້ສະແດງເຖິງລຸ້ນທີ 4 ຂອງຮູບແບບການປຸງແຕ່ງພາສາທຳມະຊາດທີ່ພັດທະນາໂດຍ OpenAI. ເພື່ອເຂົ້າໃຈຂອບເຂດຂອງຄວາມກ້າວຫນ້ານີ້, ໃຫ້ສົມທຽບມັນກັບຕົວກ່ອນຫນ້າ, ChatGPT-3. ການປຽບທຽບລະຫວ່າງ ChatGPT-3 ແລະ ChatGPT-4 CatGPT-4 ລື່ນກາຍຢ່າງຫຼວງຫຼາຍ CatGPT-3 ໃນ​ຫຼາຍ​ດ້ານ​, ຊຶ່ງ​ຈະ​ໄດ້​ລະ​ອຽດ​ຂ້າງ​ລຸ່ມ​ນີ້​: ການປັບປຸງທີ່ໂດດເດັ່ນ: ຈາກ ChatGPT-3 ຫາ ChatGPT-4 ຄວາມເຂົ້າໃຈກ່ຽວກັບສະພາບການທີ່ກວ້າງຂວາງ ຫນຶ່ງໃນຄວາມກ້າວຫນ້າທີ່ໂດດເດັ່ນທີ່ສຸດໃນ [&hellip;]"
 date: "2024-03-09T12:51:01"
-featuredImage: "/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-3.png"
 categories: ["%e0%ba%81%e0%ba%b2%e0%ba%99%e0%ba%9d%e0%ba%b6%e0%ba%81%e0%ba%ad%e0%ba%bb%e0%ba%9a%e0%ba%ae%e0%ba%bb%e0%ba%a1-ai-%e0%bb%81%e0%ba%a5%e0%ba%b0%e0%ba%9e%e0%ba%b7%e0%bb%89%e0%ba%99%e0%ba%96%e0%ba%b2"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["%e0%ba%81%e0%ba%b2%e0%ba%99%e0%ba%9d%e0%ba%b6%e0%ba%81%e0%ba%ad%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png" alt="" class="wp-image-1736" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png" alt="" class="wp-image-1736" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -137,7 +137,7 @@ categories: ["%e0%ba%81%e0%ba%b2%e0%ba%99%e0%ba%9d%e0%ba%b6%e0%ba%81%e0%ba%ad%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png" alt="" class="wp-image-1737" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png" alt="" class="wp-image-1737" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -193,7 +193,7 @@ categories: ["%e0%ba%81%e0%ba%b2%e0%ba%99%e0%ba%9d%e0%ba%b6%e0%ba%81%e0%ba%ad%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png" alt="" class="wp-image-1738" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png" alt="" class="wp-image-1738" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

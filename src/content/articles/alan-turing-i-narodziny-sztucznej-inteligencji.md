@@ -3,7 +3,7 @@ title: "Alan Turing i narodziny sztucznej inteligencji"
 slug: "alan-turing-i-narodziny-sztucznej-inteligencji"
 excerpt: "Alan Turing: Ojciec założyciel sztucznej inteligencji Alan Turing: Ojciec założyciel sztucznej inteligencjiNie można w całości opowiedzieć historii sztucznej inteligencji (AI) bez wspomnienia Alana Turinga, przez wielu uważanego za ojca założyciela tej dziedziny, która dziś rewolucjonizuje wiele aspektów naszego codziennego życia. Jego wkład wykracza daleko poza zwykły wynalazek; opiera się na koncepcjach i teoriach, które nadal [&hellip;]"
 date: "2024-03-09T12:54:56"
-featuredImage: "/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["szkolenia-i-podstawy-ai-pl"]
 ---
 
@@ -85,7 +85,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png" alt="" class="wp-image-737" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png" alt="" class="wp-image-737" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png" alt="" class="wp-image-738" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png" alt="" class="wp-image-738" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png" alt="" class="wp-image-739" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png" alt="" class="wp-image-739" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

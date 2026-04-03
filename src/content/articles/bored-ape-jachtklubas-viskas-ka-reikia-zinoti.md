@@ -3,7 +3,7 @@ title: "Bored Ape jachtklubas: viskas, ką reikia žinoti"
 slug: "bored-ape-jachtklubas-viskas-ka-reikia-zinoti"
 excerpt: "Kas yra Bored Ape jachtklubas? THE Nuobodu Ape jachtklubas yra neseniai įvykęs reiškinys, kuris supurto pasaulį Nekeičiami žetonai (NFT). Šios unikaliai iliustruotos virtualios beždžionės tapo milijardieriaus statuso simboliu kriptovaliutų pasaulyje. Bet kuo šie NFT tokie ypatingi? Ir kodėl jie patraukė tiek daug žmonių vaizduotę? Šiame straipsnyje pasineriame į žavų NFT ir Bored Ape jachtklubo pasaulį. [&hellip;]"
 date: "2024-03-09T11:47:45"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["blockchain-ir-skaitmeninis-saugumas-lt", "technologijos-ir-skaitmeninis-lt"]
 ---
 

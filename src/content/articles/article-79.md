@@ -3,7 +3,7 @@ title: "이제 인공지능에 투자해야 할까요?"
 slug: "article-79"
 excerpt: "지금이 AI에 투자할 때인지 예, 아니오라고 답하기 전에, AI의 역사를 되돌아보고 상황을 고려하여 신중한 결정을 내려보자. 인공지능의 진화 기존 AI &#8216;약한 AI&#8217;라고도 불리는 기존 AI는 1950년대부터 시작됐으며, 당시 연구자들은 주로 알고리즘과 컴퓨터 프로그램을 이용해 특정 문제를 해결하는 데 주력했다. 초기 성과에는 공장 자동화를 위한 산업용 로봇과 의학이나 법률과 같은 특정 분야의 의사 결정을 위한 전문가 [&hellip;]"
 date: "2024-03-09T12:44:16"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-ko"]
 ---
 

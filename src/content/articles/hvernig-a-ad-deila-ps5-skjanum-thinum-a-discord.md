@@ -3,7 +3,7 @@ title: "Hvernig á að deila PS5 skjánum þínum á Discord?"
 slug: "hvernig-a-ad-deila-ps5-skjanum-thinum-a-discord"
 excerpt: "Skref 1: Undirbúðu stillingar þínar Þegar þú spilar leiki á PS5 þínum gæti verið gott að deila reynslu þinni með vinum þínum á Discord. Til að gera þetta geturðu streymt PS5 skjánum þínum beint á Discord. Í þessari grein munum við útskýra hvernig á að deila PS5 skjánum á Discord með tveimur mismunandi aðferðum. Förum [&hellip;]"
 date: "2024-03-09T12:51:48"
-featuredImage: "/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["stafraenir-midlar-og-vettvangar-is", "taekni-og-stafraen-is"]
 ---
 

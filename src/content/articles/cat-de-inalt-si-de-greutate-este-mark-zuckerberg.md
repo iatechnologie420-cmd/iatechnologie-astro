@@ -3,7 +3,7 @@ title: "Cât de înalt și de greutate este Mark Zuckerberg?"
 slug: "cat-de-inalt-si-de-greutate-este-mark-zuckerberg"
 excerpt: "Înălțimea lui Mark Zuckerberg: mit sau realitate? Controversa în jurul dimensiunii sale De câțiva ani, problema înălțimii lui Mark Zuckerberg, fondatorul Facebook, a făcut obiectul multor speculații și dezbateri. Unii susțin că este mai mic decât pare, în timp ce alții susțin că este de fapt destul de înalt. Deci, care este adevărul despre înălțimea [&hellip;]"
 date: "2024-03-09T12:38:23"
-featuredImage: "/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["tehnologie-si-digital-ro"]
 ---
 

@@ -3,7 +3,7 @@ title: "Hoe een kapotte computer repareren?"
 slug: "hoe-een-kapotte-computer-repareren"
 excerpt: "Diagnose van de storing van uw computer Het tegenkomen van een computerprobleem kan soms uitmonden in echte hoofdpijn. De computer is een complex technologisch complex, en als iets niet werkt zoals verwacht, zijn er vaak een groot aantal mogelijke redenen. In dit artikel bieden we u een praktische gids waarmee u het probleem kunt identificeren [&hellip;]"
 date: "2024-03-09T12:07:32"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["technologie-en-digitaal-nl"]
 ---
 

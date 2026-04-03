@@ -3,7 +3,7 @@ title: "MidJourney: 논란의 여지가 있는 AI에 대해 알아야 할 모든
 slug: "midjourney-ai-2"
 excerpt: "MidJourney 이해 MidJourney는 강력한 인공 지능으로 우리가 기술과 상호 작용하는 방식을 변화시킵니다. 이 가이드를 리소스로 사용하여 그 기원과 주요 기능을 이해하세요. 미드저니(MidJourney)란 무엇인가요? MidJourney는 도구입니다 인공지능 새로운 기술과의 일상적인 상호 작용을 개선하고 촉진하도록 설계된 아방가르드. 이는 빠르게 우리 삶의 일부가 되고 있는 Lensa 및 ChatGPT와 같은 다른 주목할만한 도구를 포함하여 끊임없이 성장하는 AI 애플리케이션 환경의 [&hellip;]"
 date: "2024-03-09T11:50:59"
-featuredImage: "/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
 categories: ["ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-ko"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="마음을 놀라게 하는 소스, 미드저니와 함께 혁명적인 인공지능에 대해 알아야 할 모든 것을 알아보세요." class="wp-image-14773" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="마음을 놀라게 하는 소스, 미드저니와 함께 혁명적인 인공지능에 대해 알아야 할 모든 것을 알아보세요." class="wp-image-14773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -105,7 +105,7 @@ categories: ["ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="레퍼런스 플랫폼 미드저니를 통해 놀라움을 선사하는 인공지능에 대해 알아야 할 모든 것을 알아보세요." class="wp-image-14774" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="레퍼런스 플랫폼 미드저니를 통해 놀라움을 선사하는 인공지능에 대해 알아야 할 모든 것을 알아보세요." class="wp-image-14774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

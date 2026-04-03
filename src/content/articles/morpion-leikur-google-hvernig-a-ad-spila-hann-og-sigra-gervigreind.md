@@ -3,7 +3,7 @@ title: "Morpion leikur Google: Hvernig á að spila hann og sigra gervigreind?"
 slug: "morpion-leikur-google-hvernig-a-ad-spila-hann-og-sigra-gervigreind"
 excerpt: "Reglur Google Tic-Toe leiksins Markmið leiksins Morpion leikurinn, einnig kallaður Tic-tac-toe, er herkænskuleikur sem er spilaður á 3&#215;3 rist. Markmiðið er að stilla upp þremur eins táknum (kross eða hring) lárétt, lóðrétt eða á ská á undan andstæðingnum. Settu upp Google Tic Toe leikurinn er fáanlegur á netinu og hægt er að spila hann í [&hellip;]"
 date: "2024-03-09T12:42:17"
-featuredImage: "/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
 categories: ["taekni-og-stafraen-is"]
 ---
 

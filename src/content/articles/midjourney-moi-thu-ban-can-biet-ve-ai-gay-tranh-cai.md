@@ -3,7 +3,7 @@ title: "MidJourney: mọi thứ bạn cần biết về AI gây tranh cãi"
 slug: "midjourney-moi-thu-ban-can-biet-ve-ai-gay-tranh-cai"
 excerpt: "Hiểu về MidJourney MidJourney là trí tuệ nhân tạo mạnh mẽ, thay đổi cách chúng ta tương tác với công nghệ. Sử dụng hướng dẫn này làm tài liệu để hiểu nguồn gốc và các chức năng chính của nó. MidJourney là gì? MidJourney là một công cụ trí tuệ nhân tạo tiên phong được [&hellip;]"
 date: "2024-03-09T11:52:21"
-featuredImage: "/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
 categories: ["ung-dung-ai-vi"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["ung-dung-ai-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="khám phá mọi thứ bạn cần biết về trí tuệ nhân tạo mang tính cách mạng với cuộc hành trình giữa chừng, nguồn gốc gây chấn động tâm trí." class="wp-image-14773" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="khám phá mọi thứ bạn cần biết về trí tuệ nhân tạo mang tính cách mạng với cuộc hành trình giữa chừng, nguồn gốc gây chấn động tâm trí." class="wp-image-14773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -105,7 +105,7 @@ categories: ["ung-dung-ai-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="khám phá mọi điều bạn cần biết về trí tuệ nhân tạo gây ngạc nhiên với nền tảng tham khảo giữa hành trình." class="wp-image-14774" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="khám phá mọi điều bạn cần biết về trí tuệ nhân tạo gây ngạc nhiên với nền tảng tham khảo giữa hành trình." class="wp-image-14774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

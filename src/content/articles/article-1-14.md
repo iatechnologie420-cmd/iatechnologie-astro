@@ -3,7 +3,7 @@ title: "د بریل انقلاب: کله چې ټیکنالوژي لاسرسی ب
 slug: "article-1-14"
 excerpt: "په ټیکنالوژیکي دور کې د بریل انقلاب د بریل او معاصر موافقت پیدا کول په اصل کې د لوئس بریل لخوا په 19 پیړۍ کې رامینځته شوی ، د ړندو او ضعیفو لپاره د لیکلو سیسټم چې د بریل په نوم پیژندل شوی د دوی د خبرو اترو په لاره کې انقلاب رامینځته کړی. په [&hellip;]"
 date: "2024-03-09T12:20:12"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%ab%da%89%d9%88%da%89%d9%88%d9%86%da%a9%d9%8a-%d8%a7%d9%88-%d8%b1%d8%a7%d9%be%d9%88%d8%b1%d8%aa%d9%87-%da%a9%db%8c%d8%af%d9%88%d9%86%da%a9%d9%8a-%d9%86%d9%88%da%9a%d8%aa%d9%88%d9%86%d9%87-ps"]
 ---
 

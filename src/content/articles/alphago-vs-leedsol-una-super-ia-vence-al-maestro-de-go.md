@@ -3,7 +3,7 @@ title: "AlphaGo vs Leedsol: una súper IA vence al maestro de Go"
 slug: "alphago-vs-leedsol-una-super-ia-vence-al-maestro-de-go"
 excerpt: "Un choque histórico: la inteligencia artificial desafía al maestro del Go El mundo del Go estuvo históricamente dominado por maestros humanos, hasta que ocurrió un hecho significativo que sacudió los paradigmas establecidos. La inteligencia artificial, esta herramienta desarrollada por el ingenio humano, asumió el desafío de abordar uno de los juegos de estrategia más complejos [&hellip;]"
 date: "2024-03-09T12:53:36"
-featuredImage: "/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-3.png"
 categories: ["formacion-y-fundamentos-de-la-ia-es"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA.png" alt="" class="wp-image-811" srcset="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA.png" alt="" class="wp-image-811" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1.png" alt="" class="wp-image-812" srcset="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1.png" alt="" class="wp-image-812" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2.png" alt="" class="wp-image-813" srcset="/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2.png" alt="" class="wp-image-813" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2.png 1792w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-300x171.png 300w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-1024x585.png 1024w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-150x86.png 150w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-768x439.png 768w, /images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Hverjar eru nýjustu framfarirnar í gagnatækni?"
 slug: "hverjar-eru-nyjustu-framfarirnar-i-gagnataekni"
 excerpt: "Gagnatækni gegnir æ mikilvægara hlutverki í nútímasamfélagi okkar. Með aukinni stafrænni væðingu lífs okkar og sprengingu gagna sem myndast daglega er mikilvægt að skilja mikilvægi þessarar tækni og áhrif þeirra á heiminn okkar. Í þessari grein munum við kanna mismunandi hliðar gagnatækni og mikilvægi þeirra á ýmsum sviðum. Hagræðing ferla og ákvarðanatöku Gagnatækni gerir það [&hellip;]"
 date: "2024-03-09T12:28:35"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]
 ---
 

@@ -3,7 +3,7 @@ title: "Comment réparer un ordinateur défectueux ?"
 slug: "comment-reparer-ordinateur-defectueux-tuto"
 excerpt: "Diagnostic de la panne de votre ordinateur Rencontrer un problème informatique peut parfois se transformer en un véritable casse-tête. L&#8217;ordinateur est un composé technologique complexe, et lorsque quelque chose ne fonctionne pas comme prévu, il y a souvent une multitude de raisons possibles. Dans cet article, nous vous proposons un guide pratique pour vous aider [&hellip;]"
 date: "2024-02-23T08:00:27"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["technologie-numerique"]
 ---
 

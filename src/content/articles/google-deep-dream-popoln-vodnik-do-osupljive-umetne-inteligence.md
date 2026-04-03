@@ -3,7 +3,7 @@ title: "Google Deep Dream: popoln vodnik do osupljive umetne inteligence"
 slug: "google-deep-dream-popoln-vodnik-do-osupljive-umetne-inteligence"
 excerpt: "Razumevanje koncepta Google Deep Dream V fascinantnem svetu umetne inteligence se je pojavila še posebej impresivna inovacija: Google Deep Dream. Šteje se kot a osupljiva umetna inteligenca, ta koncept združuje napredno tehnologijo in brezmejno domišljijo za ustvarjanje dih jemajočih vizualnih predstavitev. Da bi v celoti razumeli bistvo te tehnologije, bomo v tem članku raziskali njene [&hellip;]"
 date: "2024-03-09T11:52:00"
-featuredImage: "/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
 categories: ["aplikacije-ai-sl"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["aplikacije-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="odkrijte celoten vodnik po google deep dream, osupljivi umetni inteligenci, ki revolucionira svet tehnologije in umetnosti." class="wp-image-14778" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="odkrijte celoten vodnik po google deep dream, osupljivi umetni inteligenci, ki revolucionira svet tehnologije in umetnosti." class="wp-image-14778" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["aplikacije-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="odkrijte celoten vodnik po google deep dream, fascinantni tehnologiji umetne inteligence, ki ustvarja osupljive slike." class="wp-image-14779" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="odkrijte celoten vodnik po google deep dream, fascinantni tehnologiji umetne inteligence, ki ustvarja osupljive slike." class="wp-image-14779" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

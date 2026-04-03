@@ -3,7 +3,7 @@ title: "ಟೆಲಿಗ್ರಾಮ್: ಸುರಕ್ಷಿತ ಸಂದೇಶ
 slug: "article-1-51"
 excerpt: "ಟೆಲಿಗ್ರಾಮ್ ಎಂದರೇನು? ಟೆಲಿಗ್ರಾಮ್ ವೇಗ ಮತ್ತು ಸುರಕ್ಷತೆಯ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸಿದ ತ್ವರಿತ ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಸುಧಾರಿತ ವೈಶಿಷ್ಟ್ಯಗಳು, ಅರ್ಥಗರ್ಭಿತ ಇಂಟರ್ಫೇಸ್ ಮತ್ತು ಬಳಕೆದಾರರ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸುವ ಬದ್ಧತೆಯ ಸಂಯೋಜನೆಯಿಂದಾಗಿ ಇದು ವಿಶ್ವದ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ಸಂವಹನ ವೇದಿಕೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. 2013 ರಲ್ಲಿ ಪ್ರಾರಂಭವಾದಾಗಿನಿಂದ, ಟೆಲಿಗ್ರಾಮ್ ಬಹುಸಂಖ್ಯೆಯ ಮೆಸೇಜಿಂಗ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ನಡುವೆ ಎದ್ದು ಕಾಣುತ್ತಿದೆ, ಗೌಪ್ಯತೆ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಗೌರವಿಸುವ ಮತ್ತು ಮೌಲ್ಯೀಕರಿಸುವ ಪರ್ಯಾಯ ಸಂವಹನ ಸಾಧನವಾಗಿ ತನ್ನನ್ನು ತಾನು ಸ್ಥಾಪಿಸಿಕೊಂಡಿದೆ. ಟೆಲಿಗ್ರಾಮ್‌ನ ಮೂಲಗಳು [&hellip;]"
 date: "2024-03-09T12:12:34"
-featuredImage: "/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-3.png"
 categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d", "%e0%b2%ae%e0%b3%82%e0%b2%b2%e0%b2%b8%e0%b3%8c%e0%b2%95%e0%b2%b0%e0%b3%8d%e0%b2%af-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a8%e0%b3%86%e0%b2%9f%e0%b3%8d%e0%b2%b5%e0%b2%b0%e0%b3%8d"]
 ---
 
@@ -55,7 +55,7 @@ categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee.png" alt="" class="wp-image-1686" srcset="/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee.png 1792w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-300x171.png 300w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1024x585.png 1024w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-150x86.png 150w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-768x439.png 768w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee.png" alt="" class="wp-image-1686" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee.png 1792w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-300x171.png 300w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1024x585.png 1024w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-150x86.png 150w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-768x439.png 768w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -115,7 +115,7 @@ categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1.png" alt="" class="wp-image-1687" srcset="/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1.png 1792w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-300x171.png 300w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-1024x585.png 1024w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-150x86.png 150w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-768x439.png 768w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1.png" alt="" class="wp-image-1687" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1.png 1792w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-300x171.png 300w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-1024x585.png 1024w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-150x86.png 150w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-768x439.png 768w, /images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Đám mây AWS – Mọi thứ bạn cần biết về đám mây Dịch
 slug: "dam-may-aws-moi-thu-ban-can-biet-ve-dam-may-dich-vu-web-cua-amazon"
 excerpt: "Giới thiệu về Amazon Web Services (AWS): cuộc cách mạng trong điện toán đám mây Kể từ khi thành lập vào năm 2006, Dịch vụ web của Amazon (AWS) đã thay đổi hoàn toàn bối cảnh CNTT bằng cách cung cấp nền tảng dịch vụ đám mây mang lại tính linh hoạt, quy mô và [&hellip;]"
 date: "2024-03-09T12:48:50"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["co-so-ha-tang-va-mang-vi", "cong-nghe-va-ky-thuat-so-vi"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["co-so-ha-tang-va-mang-vi", "cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["co-so-ha-tang-va-mang-vi", "cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["co-so-ha-tang-va-mang-vi", "cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

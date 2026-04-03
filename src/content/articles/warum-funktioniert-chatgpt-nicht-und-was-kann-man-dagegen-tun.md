@@ -3,7 +3,7 @@ title: "Warum funktioniert ChatGPT nicht und was kann man dagegen tun?"
 slug: "warum-funktioniert-chatgpt-nicht-und-was-kann-man-dagegen-tun"
 excerpt: "Warum funktioniert ChatGPT nicht? Wenn Sie ChatGPT verwenden, können Probleme auftreten, die dazu führen, dass es nicht ordnungsgemäß funktioniert. Obwohl diese Probleme frustrierend sind, können sie verschiedene Ursachen haben. In diesem Artikel werden wir einige häufige Gründe untersuchen, warum ChatGPT möglicherweise nicht ordnungsgemäß funktioniert, und Ihnen Lösungen zur Behebung dieser Probleme anbieten. 1. Instabile Internetverbindung [&hellip;]"
 date: "2024-03-09T12:15:09"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ki-anwendungen-de"]
 ---
 

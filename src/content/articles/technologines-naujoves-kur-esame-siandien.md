@@ -3,7 +3,7 @@ title: "Technologinės naujovės: kur esame šiandien?"
 slug: "technologines-naujoves-kur-esame-siandien"
 excerpt: "Naujausi technologiniai pasiekimai Naujausi technologiniai pasiekimai Naujausi technologiniai pasiekimai radikaliai pakeitė mūsų gyvenimo, darbo ir bendravimo būdą. Reguliariai atsiranda naujų technologijų, kurios skatina mūsų visuomenę link vis labiau susietos ir novatoriškesnės ateities. Šiame straipsnyje mes išnagrinėsime kai kuriuos naujausius žaidimus keičiančius technologinius pasiekimus įvairiose srityse. 1. Dirbtinis intelektas (DI) Dirbtinis intelektas neabejotinai yra vienas reikšmingiausių [&hellip;]"
 date: "2024-03-09T12:44:16"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["technologijos-ir-skaitmeninis-lt"]
 ---
 

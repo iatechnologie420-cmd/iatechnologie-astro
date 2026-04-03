@@ -3,7 +3,7 @@ title: "Antena 4G: Bagaimana untuk menangkap 4G di dalam rumah dengan lebih baik
 slug: "antena-4g-bagaimana-untuk-menangkap-4g-di-dalam-rumah-dengan-lebih-baik"
 excerpt: "Fahami cara 4G berfungsi dan hadnya Apa itu 4G? Teknologi 4G, juga dikenali sebagai generasi ke-4 piawaian untuk telekomunikasi mudah alih, adalah kesinambungan daripada 3G dan mendahului yang baru-baru ini 5G. Ia menawarkan sambungan Internet mudah alih berkelajuan tinggi, membolehkan anda mendapat manfaat daripada pemindahan data yang lebih baik. Ini termasuk penstriman video dalam definisi [&hellip;]"
 date: "2024-03-09T12:16:44"
-featuredImage: "/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
 categories: ["infrastruktur-dan-rangkaian-ms", "teknologi-dan-digital-ms"]
 ---
 
@@ -77,7 +77,7 @@ categories: ["infrastruktur-dan-rangkaian-ms", "teknologi-dan-digital-ms"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png" alt="" class="wp-image-1082" srcset="/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png 1792w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--300x171.png 300w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1024x585.png 1024w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--150x86.png 150w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--768x439.png 768w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png" alt="" class="wp-image-1082" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png 1792w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--300x171.png 300w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1024x585.png 1024w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--150x86.png 150w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--768x439.png 768w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

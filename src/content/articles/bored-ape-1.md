@@ -3,7 +3,7 @@ title: "Bored Ape 요트 클럽: 당신이 알아야 할 모든 것"
 slug: "bored-ape-1"
 excerpt: "보어드에이프 요트클럽이란? 그만큼 지루한 원숭이 요트 클럽 최근 세계를 뒤흔들고 있는 현상이다. 대체 불가능한 토큰(NFT). 독특하게 묘사된 이 가상 원숭이는 암호화폐 세계에서 억만장자 지위의 상징이 되었습니다. 그런데 무엇이 이러한 NFT를 그렇게 특별하게 만드는 걸까요? 그리고 왜 그들은 그렇게 많은 사람들의 상상력을 사로잡았을까요? 이 기사에서는 NFT와 Bored Ape Yacht Club의 매혹적인 세계에 대해 알아봅니다. 지루한 원숭이 [&hellip;]"
 date: "2024-03-09T11:47:28"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%b8%94%eb%a1%9d%ec%b2%b4%ec%9d%b8%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-%eb%b3%b4%ec%95%88-ko"]
 ---
 

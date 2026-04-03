@@ -3,7 +3,7 @@ title: "Koht: Boston Dynamicsi robotkoer"
 slug: "koht-boston-dynamicsi-robotkoer"
 excerpt: "Discovery of Spot, Boston Dynamicsi koerarobot Tuntud selle poolest, et on moodsa robootika koor, Koht, Boston Dynamicsi robotkoer, on tekitanud lööklaine uute tehnoloogiate maailmas. See on loodud asendama oma kolleege ja on embleemiline näide loomarobotidest, mis on valmis oma mudeleid asendama. Spot, tehnoloogiline revolutsioon Koht kehastab suurepäraselt seda tehnoloogilist edusamme. Selle kujundus lähtus ideest reprodutseerida [&hellip;]"
 date: "2024-03-09T11:46:33"
-featuredImage: "/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
 categories: ["murrangulised-ja-esilekerkivad-uuendused-et"]
 ---
 
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="Avastage Boston Dynamicsi robotkoera täielik juhend, selle funktsioonid, kasutamine ja muljetavaldav jõudlus." class="wp-image-14515" srcset="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="Avastage Boston Dynamicsi robotkoera täielik juhend, selle funktsioonid, kasutamine ja muljetavaldav jõudlus." class="wp-image-14515" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

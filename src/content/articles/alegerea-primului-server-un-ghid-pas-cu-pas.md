@@ -3,7 +3,7 @@ title: "Alegerea primului server: un ghid pas cu pas"
 slug: "alegerea-primului-server-un-ghid-pas-cu-pas"
 excerpt: "Înțelegerea diferențelor dintre tipurile de servere Serverele joacă un rol vital în rularea rețelelor, găzduirea site-urilor web, stocarea datelor și suportarea calculelor, printre alte sarcini. Aceste mașini puternice pot veni în diferite forme, fiecare cu propriile particularități și utilizare ideală. Acest articol își propune să revizuiască principalele tipuri de servere și diferențele lor pentru a [&hellip;]"
 date: "2024-03-09T12:07:35"
-featuredImage: "/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-3.png"
 categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
 ---
 
@@ -17,7 +17,7 @@ categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png" alt="" class="wp-image-1307" srcset="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png" alt="" class="wp-image-1307" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -143,7 +143,7 @@ categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png" alt="" class="wp-image-1308" srcset="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png" alt="" class="wp-image-1308" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

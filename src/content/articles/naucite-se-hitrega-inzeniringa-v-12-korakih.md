@@ -3,7 +3,7 @@ title: "Naučite se hitrega inženiringa: v 12 korakih"
 slug: "naucite-se-hitrega-inzeniringa-v-12-korakih"
 excerpt: "Uvod v hitri inženiring Kaj je Prompt Engineering? THE Hiter inženiring je nastajajoče področje, ki se osredotoča na optimizacijo pozivov ali ukazov, ki jih dajemo sistemom umetne inteligence (AI), zlasti tistim, ki temeljijo na naravnem jeziku, kot so generatorji besedila. To je še posebej pomembna disciplina s prihodom modelov za obdelavo jezika, kot je GPT-4 [&hellip;]"
 date: "2024-03-09T12:53:29"
-featuredImage: "/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
 categories: ["usposabljanje-in-osnove-ai-sl"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["usposabljanje-in-osnove-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png" alt="" class="wp-image-1714" srcset="/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png 1792w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-300x171.png 300w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1024x585.png 1024w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-150x86.png 150w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-768x439.png 768w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png" alt="" class="wp-image-1714" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering.png 1792w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-300x171.png 300w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1024x585.png 1024w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-150x86.png 150w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-768x439.png 768w, /images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Еве ги најдобрите бесплатни алтернатив
 slug: "article-175"
 excerpt: "Откријте бесплатни алтернативи за ChatGPT Во време кога системи за разговор базирани наВештачка интелигенција (ВИ) доминираат во технолошкиот простор, се чини дека платената опција како ChatGPT стана норма. Сепак, за оние кои сакаат да истражуваат бесплатни алтернативи, има многу подеднакво ефективни и влијателни опции. Оваа статија истражува неколку модели за разговор со вештачка интелигенција кои [&hellip;]"
 date: "2024-03-09T11:53:41"
-featuredImage: "/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
 categories: ["%d0%b0%d0%bf%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8-%d0%b7%d0%b0-%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d1%87%d0%ba%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d0%bb%d0%b8%d0%b3%d0%b5%d0%bd%d1%86%d0%b8%d1%98%d0%b0-mk"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["%d0%b0%d0%bf%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8-%d0%b7%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="Проверете ги најдобрите бесплатни алтернативи за ChatGPT за да уживате во слични карактеристики без да потрошите ниту денар." class="wp-image-14789" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="Проверете ги најдобрите бесплатни алтернативи за ChatGPT за да уживате во слични карактеристики без да потрошите ниту денар." class="wp-image-14789" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["%d0%b0%d0%bf%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8-%d0%b7%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="откријте ги најдобрите бесплатни алтернативи за chatgpt за иновативни и збогатени интеракции. најдете слични решенија без трошоци и корист од волшебното искуство." class="wp-image-14790" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="откријте ги најдобрите бесплатни алтернативи за chatgpt за иновативни и збогатени интеракции. најдете слични решенија без трошоци и корист од волшебното искуство." class="wp-image-14790" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

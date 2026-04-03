@@ -3,7 +3,7 @@ title: "Длабока офшор технологија: иднината на 
 slug: "article-3-2"
 excerpt: "Што е длабока офшор технологија? Технологијата за длабоко офшор, позната и како технологија за дупчење во длабока вода, е дисциплина која има за цел да ги истражува и експлоатира ресурсите присутни во морското дно, на длабочини кои се движат од 500 до неколку илјади метри. Оваа технологија отвора нови можности за истражување и експлоатација на [&hellip;]"
 date: "2024-03-09T12:32:46"
-featuredImage: "/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
 categories: ["%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%bf%d0%b0%d0%bc%d0%b5%d1%82%d0%bd%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-mk", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

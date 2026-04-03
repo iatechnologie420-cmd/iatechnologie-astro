@@ -3,7 +3,7 @@ title: "Af hverju virkar ChatGPT ekki og hvað á að gera við því?"
 slug: "af-hverju-virkar-chatgpt-ekki-og-hvad-a-ad-gera-vid-thvi"
 excerpt: "Af hverju virkar ChatGPT ekki? Þegar þú notar ChatGPT gætirðu lent í vandræðum sem gera það að verkum að það virkar ekki rétt. Þessi vandamál, þó þau séu pirrandi, geta átt sér ýmsar orsakir. Í þessari grein munum við kanna nokkrar algengar ástæður fyrir því að ChatGPT virkar ekki sem skyldi og veita þér lausnir [&hellip;]"
 date: "2024-03-09T12:15:45"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ai-forrit-is"]
 ---
 

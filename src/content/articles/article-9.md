@@ -3,7 +3,7 @@ title: "Лучшие роботы вселенной Звездных войн"
 slug: "article-9"
 excerpt: "Механические легенды: C-3PO и R2-D2. Считается самым символичным дроидом саги. Звездные войны, C-3PO и R2-D2 отметили поколения фанатов своей уникальной личностью, своей историей и своей решающей ролью на протяжении всех эпизодов. Эта статья погружается в мир этих механических легенд, раскрывая их суть и культурное влияние. C-3PO: Протокол дроидов-полиглотов C-3PO, часто называемый «Трипио», — это Протокольный [&hellip;]"
 date: "2024-03-09T12:23:46"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

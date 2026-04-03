@@ -3,7 +3,7 @@ title: "Kako najti GPS koordinate (geografsko širino in dolžino) v Google Zeml
 slug: "kako-najti-gps-koordinate-geografsko-sirino-in-dolzino-v-google-zemljevidih"
 excerpt: "THE GPS (Global Positioning System) je tehnologija, ki je postala nujna v našem vsakdanjem življenju. Z uporabo signalov, ki jih prenašajo sateliti, GPS sistem omogoča natančno določitev našega položaja v obliki geografskih koordinat. Te koordinate predstavljata dva ključna elementa: zemljepisna širina in zemljepisna dolžina. V tem članku bomo raziskali svet koordinat GPS in razumeli njihovo [&hellip;]"
 date: "2024-03-09T12:04:40"
-featuredImage: "/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["tehnologija-in-digital-sl"]
 ---
 
@@ -81,7 +81,7 @@ categories: ["tehnologija-in-digital-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-.png" alt="" class="wp-image-1613" srcset="/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-.png 1792w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--300x171.png 300w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--1024x585.png 1024w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--150x86.png 150w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--768x439.png 768w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-.png" alt="" class="wp-image-1613" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-.png 1792w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--300x171.png 300w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--1024x585.png 1024w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--150x86.png 150w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--768x439.png 768w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -133,7 +133,7 @@ categories: ["tehnologija-in-digital-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2.png" alt="" class="wp-image-1615" srcset="/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2.png 1792w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-300x171.png 300w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-1024x585.png 1024w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-150x86.png 150w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-768x439.png 768w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2.png" alt="" class="wp-image-1615" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2.png 1792w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-300x171.png 300w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-1024x585.png 1024w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-150x86.png 150w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-768x439.png 768w, /images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

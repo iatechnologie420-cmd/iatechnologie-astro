@@ -3,7 +3,7 @@ title: "Spot : le robot chien de Boston Dynamics"
 slug: "spot-robot-chien-boston-dynamics"
 excerpt: "Découverte du Spot, le robot chien de Boston Dynamics Réputé pour être la fine fleur de la robotique moderne, Spot, le robot chien de Boston Dynamics, a su créer une onde de choc dans l&#8217;univers des nouvelles technologies. Conçu pour remplacer ses congénères, il est l&#8217;exemple emblématique de robots animaux prêts à se substituer à [&hellip;]"
 date: "2024-03-06T11:22:02"
-featuredImage: "/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
 categories: ["innovations-disruptives-et-emergentes"]
 ---
 
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="découvrez le guide complet du robot chien de boston dynamics, ses fonctionnalités, son utilisation et ses performances impressionnantes." class="wp-image-14515" srcset="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="découvrez le guide complet du robot chien de boston dynamics, ses fonctionnalités, son utilisation et ses performances impressionnantes." class="wp-image-14515" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

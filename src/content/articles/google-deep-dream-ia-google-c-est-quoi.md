@@ -3,7 +3,7 @@ title: "Google Deep Dream : guide complet d’une IA hallucinante"
 slug: "google-deep-dream-ia-google-c-est-quoi"
 excerpt: "Comprendre le concept de Google Deep Dream Dans le monde fascinant de l&#8217;intelligence artificielle, une innovation particulièrement impressionnante a fait son apparition : le Google Deep Dream. Considéré comme une IA hallucinante, ce concept allie technologie avancée et imagination débordante pour créer des représentations visuelles époustouflantes. Pour saisir pleinement l&#8217;essence de cette technologie, nous allons [&hellip;]"
 date: "2024-03-06T10:05:44"
-featuredImage: "/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
 categories: ["applications-de-l-ia-fr"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="découvrez le guide complet de google deep dream, une intelligence artificielle hallucinante qui révolutionne le monde de la technologie et de l'art." class="wp-image-14778" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="découvrez le guide complet de google deep dream, une intelligence artificielle hallucinante qui révolutionne le monde de la technologie et de l'art." class="wp-image-14778" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="découvrez le guide complet de google deep dream, une technologie d'intelligence artificielle fascinante qui crée des images hallucinantes." class="wp-image-14779" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="découvrez le guide complet de google deep dream, une technologie d'intelligence artificielle fascinante qui crée des images hallucinantes." class="wp-image-14779" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

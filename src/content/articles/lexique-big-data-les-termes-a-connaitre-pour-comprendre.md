@@ -3,7 +3,7 @@ title: "Lexique Big Data : Les termes à connaître pour comprendre"
 slug: "lexique-big-data-les-termes-a-connaitre-pour-comprendre"
 excerpt: "Introduction au monde du big data Le Big Data représente un secteur en pleine expansion qui transforme la manière dont les entreprises et les organisations analysent et exploitent les données. Dans un monde de plus en plus numérisé, les données sont générées à une vitesse vertigineuse et sous divers formats. L&#8217;ère du Big Data n&#8217;est [&hellip;]"
 date: "2024-02-15T07:39:25"
-featuredImage: "/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-3.png"
 categories: ["computing-et-data", "technologie-numerique"]
 ---
 
@@ -87,7 +87,7 @@ categories: ["computing-et-data", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data.png" alt="" class="wp-image-1262" srcset="/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data.png 1792w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-300x171.png 300w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-1024x585.png 1024w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-150x86.png 150w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-768x439.png 768w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data.png" alt="" class="wp-image-1262" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data.png 1792w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-300x171.png 300w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-1024x585.png 1024w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-150x86.png 150w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-768x439.png 768w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -213,7 +213,7 @@ categories: ["computing-et-data", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2.png" alt="" class="wp-image-1264" srcset="/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2.png 1792w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-300x171.png 300w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-1024x585.png 1024w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-150x86.png 150w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-768x439.png 768w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2.png" alt="" class="wp-image-1264" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2.png 1792w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-300x171.png 300w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-1024x585.png 1024w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-150x86.png 150w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-768x439.png 768w, /images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

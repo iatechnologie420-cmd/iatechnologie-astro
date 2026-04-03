@@ -3,7 +3,7 @@ title: "인지주의: 우리의 지능은 인공적인 것인가?"
 slug: "article-92"
 excerpt: "인지주의와 인간 지능의 기원 인지주의의 기원 그만큼 인지주의 인간의 마음을 정보 처리 시스템으로 다루면서 사고의 내부 메커니즘에 초점을 맞춘 심리학의 접근 방식입니다. 이 접근 방식의 기원은 주로 1950년대와 1960년대로 거슬러 올라갑니다. 행동주의는 당시 매우 지배적이었고 관찰 가능한 행동에만 집중하고 내부 정신 과정을 무시한 행동주의에 대한 반작용이었습니다. 그만큼 기초 인지주의의 이론은 아동의 인지 발달을 연구한 장 [&hellip;]"
 date: "2024-03-09T12:19:21"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

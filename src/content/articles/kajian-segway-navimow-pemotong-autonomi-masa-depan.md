@@ -3,7 +3,7 @@ title: "Kajian Segway Navimow: Pemotong autonomi masa depan?"
 slug: "kajian-segway-navimow-pemotong-autonomi-masa-depan"
 excerpt: "Kelebihan mesin pemotong autonomi Segway Navimow Bayangkan anda dapat menikmati taman anda sepenuhnya tanpa perlu risau tentang kerja-kerja memotong rumput. Terima kasih kepada mesin pemotong autonomi Segway Navimow, tugas yang membosankan ini kini sudah lama berlalu. Dikemas dengan ciri-ciri inovatif dan teknologi canggih, mesin pemotong autonomi ini menawarkan banyak faedah yang akan menjadikan kehidupan harian [&hellip;]"
 date: "2024-03-09T12:36:31"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["teknologi-boleh-dipakai-dan-iot-ms", "teknologi-dan-digital-ms"]
 ---
 

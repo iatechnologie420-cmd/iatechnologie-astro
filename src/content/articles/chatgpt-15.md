@@ -3,7 +3,7 @@ title: "ولې ChatGPT کار نه کوي او د دې په اړه څه وکړي
 slug: "chatgpt-15"
 excerpt: "ولې ChatGPT کار نه کوي؟ کله چې تاسو ChatGPT کاروئ، تاسو ممکن د ستونزو سره مخ شئ چې دا په سمه توګه کار نه کوي. دا ستونزې، که څه هم خپه وي، کیدای شي مختلف لاملونه ولري. پدې مقاله کې ، موږ به ځینې عام لاملونه وپلټو چې ولې ChatGPT ممکن سم کار نه کوي [&hellip;]"
 date: "2024-03-09T12:17:16"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["%d8%af-ai-%d8%ba%d9%88%da%9a%d8%aa%d9%86%d9%84%db%8c%da%a9%d9%88%d9%86%d9%87-ps"]
 ---
 

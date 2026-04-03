@@ -3,7 +3,7 @@ title: "Најдобрите роботи во универзумот Star Wars"
 slug: "star-wars"
 excerpt: "Механички легенди: C-3PO и R2-D2 Се смета за најамблематичните дроиди на сагата Војна на ѕвездите, C-3PO и R2-D2 ги одбележаа генерациите на обожаватели со нивната единствена личност, нивната приказна и нивната клучна улога низ епизодите. Оваа статија истражува во светот на овие механички легенди, откривајќи ја нивната суштина и културно влијание. C-3PO: Полиглот Droid протокол [&hellip;]"
 date: "2024-03-09T12:22:48"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

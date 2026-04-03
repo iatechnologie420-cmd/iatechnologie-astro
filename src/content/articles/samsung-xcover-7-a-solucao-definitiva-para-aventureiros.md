@@ -3,7 +3,7 @@ title: "Samsung Xcover 7: A solução definitiva para aventureiros?"
 slug: "samsung-xcover-7-a-solucao-definitiva-para-aventureiros"
 excerpt: "As características técnicas do Samsung Xcover 7 O Samsung Xcover 7 é o mais recente telefone da linha Xcover, conhecido por sua resistência às intempéries e durabilidade. Com recursos avançados e design robusto, o Xcover 7 foi projetado para pessoas ativas que precisam de um smartphone confiável em qualquer situação. Neste artigo, examinaremos mais de [&hellip;]"
 date: "2024-03-09T12:14:06"
-featuredImage: "/images/blog/Samsung-Xcover-7-La-solution-ultime-pour-les-baroudeurs-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Samsung-Xcover-7-La-solution-ultime-pour-les-baroudeurs-.png"
 categories: ["tecnologia-e-digital-pt", "tecnologias-vestiveis-e-iot-pt"]
 ---
 

@@ -3,7 +3,7 @@ title: "Kako deliti svoj zaslon PS5 na Discord?"
 slug: "kako-deliti-svoj-zaslon-ps5-na-discord"
 excerpt: "1. korak: Pripravite svojo konfiguracijo Ko igrate igre na svojem PS5, bi bilo lepo, če svojo izkušnjo delite s prijatelji na Discordu. Če želite to narediti, lahko pretakate svoj zaslon PS5 neposredno v Discord. V tem članku bomo razložili, kako deliti zaslon PS5 na Discordu na dva različna načina. Pojdimo ! Preverite strojno opremo Preden [&hellip;]"
 date: "2024-03-09T12:54:27"
-featuredImage: "/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["digitalni-mediji-in-platforme-sl", "tehnologija-in-digital-sl"]
 ---
 

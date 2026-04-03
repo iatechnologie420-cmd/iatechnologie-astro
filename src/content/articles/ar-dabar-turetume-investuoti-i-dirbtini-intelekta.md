@@ -3,7 +3,7 @@ title: "Ar dabar turėtume investuoti į dirbtinį intelektą?"
 slug: "ar-dabar-turetume-investuoti-i-dirbtini-intelekta"
 excerpt: "Prieš atsakydami taip, ar ne, ar dabar laikas investuoti į DI, peržvelkime AI istoriją, kad galėtume įtraukti dalykus į kontekstą ir priimti apgalvotą sprendimą. Dirbtinio intelekto evoliucija Įprastas AI Tradicinis dirbtinis intelektas, dar žinomas kaip „silpnas AI“, prasidėjo šeštajame dešimtmetyje. Tuo metu mokslininkai daugiausia dėmesio skyrė konkrečių problemų sprendimui naudojant algoritmus ir kompiuterines programas. Ankstyvieji [&hellip;]"
 date: "2024-03-09T12:44:27"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ai-programos-lt"]
 ---
 

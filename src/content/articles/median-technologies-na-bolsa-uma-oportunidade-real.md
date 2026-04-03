@@ -3,7 +3,7 @@ title: "Median Technologies na bolsa: uma oportunidade real?"
 slug: "median-technologies-na-bolsa-uma-oportunidade-real"
 excerpt: "O que são tecnologias medianas? A Median Technologies é uma empresa de tecnologia especializada em soluções de imagens médicas e análise de imagens para ensaios clínicos. Fundada em 2002, a empresa rapidamente se consolidou como líder global em sua área, oferecendo soluções inovadoras para interpretação e análise de imagens médicas. Produtos e serviços da Median [&hellip;]"
 date: "2024-03-09T12:31:37"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["tecnologia-e-digital-pt"]
 ---
 

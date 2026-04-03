@@ -3,7 +3,7 @@ title: "Дали сега треба да инвестираме во вешта
 slug: "article-1-64"
 excerpt: "Пред да одговорите со да или не дали сега е време да се инвестира во вештачката интелигенција, ајде да ја разгледаме историјата на вештачката интелигенција за да ги ставиме работите во контекст и да донесеме промислена одлука. Еволуцијата на вештачката интелигенција Конвенционална вештачка интелигенција Конвенционалната вештачка интелигенција, позната и како „слаба вештачка интелигенција“, ги имала [&hellip;]"
 date: "2024-03-09T12:44:32"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["%d0%b0%d0%bf%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8-%d0%b7%d0%b0-%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d1%87%d0%ba%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d0%bb%d0%b8%d0%b3%d0%b5%d0%bd%d1%86%d0%b8%d1%98%d0%b0-mk"]
 ---
 

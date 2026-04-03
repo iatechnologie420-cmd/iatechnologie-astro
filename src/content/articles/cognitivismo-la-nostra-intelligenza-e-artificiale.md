@@ -3,7 +3,7 @@ title: "Cognitivismo: la nostra intelligenza è artificiale?"
 slug: "cognitivismo-la-nostra-intelligenza-e-artificiale"
 excerpt: "Le origini del cognitivismo e dell&#8217;intelligenza umana Le origini del cognitivismo IL cognitivismo è un approccio in psicologia che si concentra sui meccanismi interni del pensiero, trattando la mente umana come un sistema di elaborazione delle informazioni. Le origini di questo approccio risalgono principalmente agli anni ’50 e ’60, come reazione al comportamentismo, allora molto [&hellip;]"
 date: "2024-03-09T12:18:56"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["formazione-e-fondamenti-di-intelligenza-artificiale-it"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["formazione-e-fondamenti-di-intelligenza-artificiale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["formazione-e-fondamenti-di-intelligenza-artificiale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["formazione-e-fondamenti-di-intelligenza-artificiale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

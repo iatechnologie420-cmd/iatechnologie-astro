@@ -3,7 +3,7 @@ title: "데이터 허브 정의: 데이터 허브에 대해 알아야 할 모든
 slug: "article-2-32"
 excerpt: "기본 사항을 이해하세요 빅데이터와 디지털 트랜스포메이션 시대에 기업은 데이터를 효과적으로 활용할 수 있어야 합니다. 그만큼 데이터 허브, 또는 &#8220;데이터 센터&#8221;는 데이터 관리, 공유 및 분석에 대한 증가하는 요구에 대한 아키텍처 대응입니다. 이 기사에서는 데이터 허브의 기본 사항과 기업의 데이터 전략에서 핵심 역할에 대해 자세히 설명합니다. 데이터 허브란 무엇입니까? ㅏ 데이터 허브 다양한 소스에서 데이터를 수집, [&hellip;]"
 date: "2024-03-09T11:54:08"
-featuredImage: "/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b0%8f-%eb%8d%b0%ec%9d%b4%ed%84%b0-ko"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png" alt="" class="wp-image-1300" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png" alt="" class="wp-image-1300" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png" alt="" class="wp-image-1301" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png" alt="" class="wp-image-1301" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -267,7 +267,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png" alt="" class="wp-image-1302" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png" alt="" class="wp-image-1302" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

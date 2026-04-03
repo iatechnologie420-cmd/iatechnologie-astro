@@ -3,7 +3,7 @@ title: "Dataviz nedir? Tanım, temel araçlar"
 slug: "dataviz-nedir-tanim-temel-araclar"
 excerpt: "Dataviz&#8217;i Anlamak: veri görselleştirme Günümüzde her saniye üretilen muazzam miktarda veriyle birlikte, bu bilginin nasıl açık ve etkili bir şekilde sunulacağını bilmek önemli hale geliyor. Burası veri goruntuleme, Veya verivizkarmaşık verileri sezgisel görsel temsillere dönüştürmek için tasarım, anlatı ve istatistiksel analizi birleştiren disiplinli bir alandır. Dataviz&#8217;in hedefleri Dataviz&#8217;in temel amacı, bireyin analitik becerilerine bakılmaksızın verileri [&hellip;]"
 date: "2024-03-09T11:58:09"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["bilgisayar-ve-veri-tr", "teknoloji-ve-dijital-tr"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["bilgisayar-ve-veri-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["bilgisayar-ve-veri-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["bilgisayar-ve-veri-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

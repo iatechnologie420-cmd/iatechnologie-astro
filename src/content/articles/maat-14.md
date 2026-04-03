@@ -3,7 +3,7 @@ title: "MAAT: 예술, 건축, 기술의 혼합?"
 slug: "maat-14"
 excerpt: "MAAT 이야기: 예술과 건축의 혼합 MAAT(Museum of Art, Architecture and Technologies)는 예술, 건축, 기술의 융합을 증언하는 상징적인 장소입니다. 리스본의 타구스 강둑에 위치한 이 호텔은 미학과 혁신의 조화로운 결합을 완벽하게 구현합니다. 이 기사에서 우리는 MAAT의 매혹적인 역사를 탐구하고 그것이 어떻게 현대 미술 세계에서 참고 자료가 되었는지 탐구합니다. MAAT의 대담한 아키텍처 MAAT 건물은 진정한 건축적 위업입니다. 영국 [&hellip;]"
 date: "2024-03-09T12:27:55"
-featuredImage: "/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%8c%8c%ea%b4%b4%ec%a0%81%ec%9d%b4%ea%b3%a0-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%98%81%ec%8b%a0-ko"]
 ---
 

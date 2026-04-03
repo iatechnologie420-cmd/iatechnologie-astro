@@ -3,7 +3,7 @@ title: "Innovazione tecnologica: a che punto siamo oggi?"
 slug: "innovazione-tecnologica-a-che-punto-siamo-oggi"
 excerpt: "Recenti progressi tecnologici Recenti progressi tecnologici I recenti progressi tecnologici hanno trasformato radicalmente il modo in cui viviamo, lavoriamo e comunichiamo. Le nuove tecnologie emergono regolarmente, spingendo la nostra società verso un futuro sempre più connesso e innovativo. In questo articolo esploreremo alcuni dei più recenti progressi tecnologici rivoluzionari in diverse aree. 1. Intelligenza artificiale [&hellip;]"
 date: "2024-03-09T12:43:26"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["tecnologia-e-digitale-it"]
 ---
 

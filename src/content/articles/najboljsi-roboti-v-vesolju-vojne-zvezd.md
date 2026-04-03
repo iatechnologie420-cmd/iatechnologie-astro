@@ -3,7 +3,7 @@ title: "Najboljši roboti v vesolju Vojne zvezd"
 slug: "najboljsi-roboti-v-vesolju-vojne-zvezd"
 excerpt: "Mehanske legende: C-3PO in R2-D2 Veljajo za najbolj simbolične droide sage Vojna zvezd, C-3PO in R2-D2 so zaznamovali generacije oboževalcev s svojo edinstveno osebnostjo, svojo zgodbo in svojo ključno vlogo v vseh epizodah. Ta članek se poglobi v svet teh mehaničnih legend, razkrije njihovo bistvo in kulturni vpliv. C-3PO: Poliglotski droidski protokol C-3PO, pogosto imenovan [&hellip;]"
 date: "2024-03-09T12:23:53"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["tehnologija-in-digital-sl"]
 ---
 

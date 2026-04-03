@@ -3,7 +3,7 @@ title: "Wie teile ich deinen PS5-Bildschirm auf Discord?"
 slug: "wie-teile-ich-deinen-ps5-bildschirm-auf-discord"
 excerpt: "Schritt 1: Bereiten Sie Ihre Konfiguration vor Wenn Sie Spiele auf Ihrer PS5 spielen, kann es hilfreich sein, Ihre Erfahrungen mit Ihren Freunden auf Discord zu teilen. Dazu können Sie Ihren PS5-Bildschirm direkt auf Discord streamen. In diesem Artikel erklären wir, wie Sie den PS5-Bildschirm auf Discord auf zwei verschiedene Arten teilen können. Lass uns [&hellip;]"
 date: "2024-03-09T12:50:56"
-featuredImage: "/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["digitale-medien-und-plattformen-de", "technologie-und-digital-de"]
 ---
 

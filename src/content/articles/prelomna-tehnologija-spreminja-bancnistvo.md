@@ -3,7 +3,7 @@ title: "Prelomna tehnologija spreminja bančništvo?"
 slug: "prelomna-tehnologija-spreminja-bancnistvo"
 excerpt: "Transformacija bančništva z disruptivno tehnologijo je v zadnjih letih močno spremenila finančni sektor. Tehnološki napredek je omogočil nastanek novih inovativnih rešitev, ki spreminjajo način poslovanja in interakcije bank s strankami. V tem članku bomo raziskali različne razsežnosti te transformacije in vplive, ki jih ima na bančno industrijo. Digitalizacija: povsem digitalna doba Prva dimenzija preobrazbe bančništva [&hellip;]"
 date: "2024-03-09T12:36:40"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["prelomne-in-nastajajoce-inovacije-sl", "tehnologija-in-digital-sl"]
 ---
 

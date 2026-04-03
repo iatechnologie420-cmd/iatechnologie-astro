@@ -3,7 +3,7 @@ title: "Робототехника: все, что вам нужно знать 
 slug: "article-19"
 excerpt: "Понимание науки, лежащей в основе машин Робототехника — это увлекательная отрасль технологий, которая объединяет различные области знаний для создания машин, способных выполнять задачи автономно или полуавтономно. В этой статье мы изучим основы робототехники, поймем основные принципы, позволяющие роботам работать, и рассмотрим влияние этих технологий на нашу повседневную жизнь. Определение и история робототехники Термин робототехника относится [&hellip;]"
 date: "2024-03-09T12:01:47"
-featuredImage: "/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-3.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 
@@ -109,7 +109,7 @@ categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="/images/blog/image-1024x585.png" alt="" class="wp-image-14190" srcset="/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png" alt="" class="wp-image-14190" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -227,7 +227,7 @@ categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png" alt="" class="wp-image-1047" srcset="/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png 1792w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-300x171.png 300w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1024x585.png 1024w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-150x86.png 150w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-768x439.png 768w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png" alt="" class="wp-image-1047" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png 1792w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-300x171.png 300w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1024x585.png 1024w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-150x86.png 150w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-768x439.png 768w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

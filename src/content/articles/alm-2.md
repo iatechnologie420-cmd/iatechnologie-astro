@@ -3,7 +3,7 @@ title: "ALM 或应用程序生命周期管理：定义"
 slug: "alm-2"
 excerpt: "基本原理 L&#8217;生命周期管理应用程序 (ALM) 是软件开发的系统治理和管理框架。它包含使团队能够管理应用程序从概念到退役的生命周期的实践、流程和工具。让我们仔细看看 ALM 在现代软件开发中的组成部分和重要性。 什么是ALM？ ALM 是指在应用程序的创建和维护过程中实践和流程的连续性。它是一种综合方法，考虑了项目管理、开发、部署、运行状态下的维护以及软件解决方案的生命周期结束。 ALM重点课程 该框架的框架ALM 往往分为几个关键阶段： 项目管理的重要性 在的心脏ALM 是项目管理。它允许您使软件开发与业务目标保持一致、管理工作流程并监控截止日期和预算。使用类似的工具 吉拉, 特雷洛， 或者 微软项目 是常见的以促进这种管理。 ALM 工具和实践 许多工具支持 ALM 流程，例如 版本管理 （和 git 或者 SVN），L&#8217;持续集成 （詹金斯, 循环CI）， 这 持续部署， 这 错误跟踪 以及系统 文件管理。敏捷实践，例如 Scrum 或者 看板，在使 ALM 适应动态开发环境方面也发挥着重要作用。 团队间协作 ALM 的一个重要方面是促进各个项目利益相关者之间的协作：开发人员、测试人员、产品经理、运营和客户支持。这是工具的地方 沟通 和的 协同工作管理 发挥基础性作用。 改善持续进行 最后，ALM 不是一个固定的流程。它基于这样的哲学连续的提高，根据客户和用户的反馈不断改进应用程序。连续迭代和持续学习是该领域成功的关键因素。 ALM的关键组件和工具 应用程序生命周期管理 [&hellip;]"
 date: "2024-03-09T12:11:57"
-featuredImage: "/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-3.png"
 categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh-hk", "%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh-hk"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-.png" alt="" class="wp-image-1390" srcset="/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-.png 1792w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--300x171.png 300w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--1024x585.png 1024w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--150x86.png 150w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--768x439.png 768w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-.png" alt="" class="wp-image-1390" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-.png 1792w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--300x171.png 300w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--1024x585.png 1024w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--150x86.png 150w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--768x439.png 768w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -159,7 +159,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2.png" alt="" class="wp-image-1392" srcset="/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2.png 1792w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-300x171.png 300w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-1024x585.png 1024w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-150x86.png 150w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-768x439.png 768w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2.png" alt="" class="wp-image-1392" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2.png 1792w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-300x171.png 300w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-1024x585.png 1024w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-150x86.png 150w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-768x439.png 768w, /images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

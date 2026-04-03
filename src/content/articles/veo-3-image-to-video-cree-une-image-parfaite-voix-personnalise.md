@@ -3,7 +3,7 @@ title: "🎥 Crée des vidéos IA cohérente avec VEO 3 Image-to-Video et Elev
 slug: "veo-3-image-to-video-cree-une-image-parfaite-voix-personnalise"
 excerpt: "Tu rêves de transformer une simple image en vidéo ultra réaliste accompagnée d’une voix unique ? En associant&nbsp;VEO 3et&nbsp;ElevenLabs, tu peux créer un personnage IA visuellement et vocalement stable, sans avoir besoin de micro, caméra ou studio. Voici comment mettre en place ce workflow simple et efficace, étape par étape, avec&nbsp;OpenArt.ai&nbsp;pour garantir une base solide visuelle [&hellip;]"
 date: "2025-07-23T15:13:43"
-featuredImage: "/images/blog/ChatGPT-Image-24-juil.-2025-a-00_11_08-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-Image-24-juil.-2025-a-00_11_08-2.png"
 categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 ---
 

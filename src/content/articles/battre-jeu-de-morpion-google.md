@@ -3,7 +3,7 @@ title: "Jeu de Morpion de Google : Comment y jouer et battre l&#8217;intelligenc
 slug: "battre-jeu-de-morpion-google"
 excerpt: "Les règles du jeu de Morpion de Google Objectif du jeu Le jeu de Morpion, aussi appelé Tic-tac-toe, est un jeu de stratégie qui se joue sur une grille de 3&#215;3 cases. Le but est d&#8217;aligner trois symboles identiques (croix ou rond) horizontalement, verticalement ou en diagonale avant l&#8217;adversaire. Mise en place Le jeu de [&hellip;]"
 date: "2024-01-29T07:44:55"
-featuredImage: "/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
 categories: ["technologie-numerique"]
 ---
 

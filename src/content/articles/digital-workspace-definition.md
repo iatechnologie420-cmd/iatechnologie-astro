@@ -3,7 +3,7 @@ title: "Qu&#8217;est ce qu&#8217;un digital workspace / travail augmenté  ?"
 slug: "digital-workspace-definition"
 excerpt: "Qu&#8217;est-ce qu&#8217;un Digital Workspace? Le terme Digital Workspace, ou espace de travail numérique, définit un environnement de travail qui n&#8217;a plus de barrières physiques grâce aux technologies numériques. Il regroupe un ensemble d&#8217;outils et de technologies permettant aux utilisateurs de se connecter, de collaborer et de réaliser leurs tâches professionnelles indépendamment de leur localisation physique. [&hellip;]"
 date: "2024-02-09T09:56:39"
-featuredImage: "/images/blog/Digital-workspace-le-travail-augmente-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-3.png"
 categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 ---
 
@@ -71,7 +71,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente.png" alt="" class="wp-image-1038" srcset="/images/blog/Digital-workspace-le-travail-augmente.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente.png" alt="" class="wp-image-1038" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente-1.png" alt="" class="wp-image-1039" srcset="/images/blog/Digital-workspace-le-travail-augmente-1.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-1-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-1-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-1-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-1.png" alt="" class="wp-image-1039" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-1.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-1-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-1-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-1-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -209,5 +209,5 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente-2.png" alt="" class="wp-image-1040" srcset="/images/blog/Digital-workspace-le-travail-augmente-2.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-2-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-2-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-2-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-2-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-2.png" alt="" class="wp-image-1040" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-2.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-2-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-2-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-2-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-2-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 

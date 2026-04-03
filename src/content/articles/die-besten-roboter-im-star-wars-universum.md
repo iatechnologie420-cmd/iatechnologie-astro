@@ -3,7 +3,7 @@ title: "Die besten Roboter im Star Wars-Universum"
 slug: "die-besten-roboter-im-star-wars-universum"
 excerpt: "Mechanische Legenden: C-3PO und R2-D2 Gilt als der symbolträchtigste Droide der Saga Krieg der Sterne, C-3PO und R2-D2 haben Generationen von Fans mit ihrer einzigartigen Persönlichkeit, ihrer Geschichte und ihrer entscheidenden Rolle in den Episoden geprägt. Dieser Artikel taucht in die Welt dieser mechanischen Legenden ein und enthüllt ihr Wesen und ihre kulturelle Bedeutung. C-3PO: [&hellip;]"
 date: "2024-03-09T12:21:11"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["technologie-und-digital-de"]
 ---
 

@@ -3,7 +3,7 @@ title: "Tout savoir sur le Threat Hunting"
 slug: "tout-savoir-sur-le-threat-hunting"
 excerpt: "Comprendre le concept de Threat Hunting Résumé Le Threat Hunting, ou chasse aux menaces, est une approche proactive visant à détecter et à neutraliser les menaces avancées qui peuvent échapper aux systèmes de sécurité traditionnels. Ce concept, qui gagne en popularité dans le domaine de la cybersécurité, exige une compréhension approfondie des tactiques, techniques et [&hellip;]"
 date: "2024-03-20T11:27:08"
-featuredImage: "/images/blog/Tout-savoir-sur-le-Threat-Hunting-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-Threat-Hunting-2.png"
 categories: ["blockchain-et-securite"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["blockchain-et-securite"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-savoir-sur-le-Threat-Hunting.png" alt="découvrez tout ce que vous devez savoir sur le threat hunting : ses enjeux, ses techniques, et son importance dans la cybersécurité." class="wp-image-14478" srcset="/images/blog/Tout-savoir-sur-le-Threat-Hunting.png 1792w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-300x171.png 300w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-150x86.png 150w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-768x439.png 768w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-Threat-Hunting.png" alt="découvrez tout ce que vous devez savoir sur le threat hunting : ses enjeux, ses techniques, et son importance dans la cybersécurité." class="wp-image-14478" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-Threat-Hunting.png 1792w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-300x171.png 300w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-150x86.png 150w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-768x439.png 768w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -95,7 +95,7 @@ categories: ["blockchain-et-securite"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-savoir-sur-le-Threat-Hunting-1.png" alt="découvrez tout ce que vous devez savoir sur le threat hunting dans ce guide complet. apprenez à traquer les menaces et à renforcer la sécurité de votre système informatique." class="wp-image-14479" srcset="/images/blog/Tout-savoir-sur-le-Threat-Hunting-1.png 1792w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-300x171.png 300w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-150x86.png 150w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-768x439.png 768w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-Threat-Hunting-1.png" alt="découvrez tout ce que vous devez savoir sur le threat hunting dans ce guide complet. apprenez à traquer les menaces et à renforcer la sécurité de votre système informatique." class="wp-image-14479" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-Threat-Hunting-1.png 1792w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-300x171.png 300w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-150x86.png 150w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-768x439.png 768w, /images/blog/Tout-savoir-sur-le-Threat-Hunting-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

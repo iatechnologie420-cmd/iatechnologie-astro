@@ -3,7 +3,7 @@ title: "Pregled Segway Navimow: avtonomna kosilnica prihodnosti?"
 slug: "pregled-segway-navimow-avtonomna-kosilnica-prihodnosti"
 excerpt: "Prednosti avtonomne kosilnice Segway Navimow Predstavljajte si, da lahko v celoti uživate na svojem vrtu, ne da bi vas skrbelo košnja trate. Zahvaljujoč avtonomni kosilnici Segway Navimow je to dolgočasno opravilo zdaj preteklost. Ta avtonomna kosilnica, opremljena z inovativnimi funkcijami in napredno tehnologijo, ponuja številne prednosti, ki vam bodo olajšale vsakodnevno življenje. 1. Enostavnost uporabe [&hellip;]"
 date: "2024-03-09T12:37:27"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["nosljive-tehnologije-in-iot-sl", "tehnologija-in-digital-sl"]
 ---
 

@@ -3,7 +3,7 @@ title: "GPT-5: ທຸກຢ່າງທີ່ພວກເຮົາຮູ້"
 slug: "gpt-5-6"
 excerpt: "ວິວັດທະນາການຂອງປັນຍາປະດິດ: ຈາກ GPT-3 ເຖິງ GPT-5 ຄວາມຄືບໜ້າຂອງອຸຕຸນິຍົມປັນຍາປະດິດສ້າງ ໃນພູມສັນຖານເຕັກໂນໂລຊີແມ່ນໄດ້ຖືກຂັບເຄື່ອນໃນເວລານີ້ໂດຍປະກົດການ ChatGPT. ເລີ່ມຕົ້ນດ້ວຍ GPT-3 ຫຼັງຈາກນັ້ນ, ໃນຂະນະທີ່ລໍຖ້າ GPT-4, ຮຸ່ນກາງ GPT-3.5 ໄດ້ຖືກພັດທະນາໂດຍ OpenAI. ແຕ່ການປະຕິວັດທີ່ແທ້ຈິງແມ່ນ brewing ກັບຄວາມຄາດຫວັງຂອງອະນາຄົດ GPT-5, ສັນຍາວ່າຈະສະຫລາດຫຼາຍກ່ວາສິ່ງທີ່ມີມາຈົນເຖິງປັດຈຸບັນ. ChatGPT: ຕົວແທນການສົນທະນາຂັ້ນສູງ ChatGPT, ມື້ນີ້ມັນເປັນ AI ທົ່ວໄປທີ່ໄປໄກເກີນກວ່າສະຖານະພາບຂອງມັນເປັນເຄື່ອງມື. ຫຼາຍກ່ວາຕົວແທນການສົນທະນາແບບງ່າຍໆ, ມັນຍັງຜ່ານການທົດສອບ &#8220;ທິດສະດີຂອງຈິດໃຈ&#8221;, ດັ່ງນັ້ນຈຶ່ງສະແດງໃຫ້ເຫັນຄວາມສາມາດໃນການເຂົ້າໃຈແລະຕອບສະຫນອງໃນລັກສະນະທີ່ກ່ຽວຂ້ອງແລະສະພາບການ. GPT-5: ອະນາຄົດຂອງປັນຍາປະດິດ ຄວາມຕື່ນເຕັ້ນເພີ່ມຂຶ້ນປະມານການມາເຖິງຂອງ GPT-5. ຂ່າວລືກ່ຽວກັບວັນທີປ່ອຍຕົວ, ລັກສະນະໃຫມ່, ລາຄາຂອງມັນແມ່ນຕົວຊີ້ວັດທັງຫມົດຂອງຜົນກະທົບທີ່ຄາດໄວ້. ມັນຈະເປັນການກ້າວກະໂດດຢ່າງໃຫຍ່ຫຼວງໃນຂົງເຂດຂອງ AI, ດັ່ງທີ່ບັນພະບຸລຸດຂອງ ChatGPT ຄາດໄວ້ວ່າ: &#8220;GPT-5 ຈະສະຫຼາດກວ່າສິ່ງອື່ນຢູ່ບ່ອນນັ້ນ.&#8221; ໄພຂົ່ມຂູ່ແລະຄວາມທ້າທາຍຂອງ Generative AI ​ແຕ່​ຄວາມ​ກ້າວໜ້າ​ທີ່​ໜ້າ​ປະ​ທັບ​ໃຈ​ນີ້ ບໍ່​ແມ່ນ​ບໍ່​ໄດ້​ເຮັດ​ໃຫ້​ເກີດ​ຄວາມ​ເປັນ​ຫ່ວງ​ທີ່​ຮ້າຍ​ແຮງ. Elon Musk, ຫນຶ່ງໃນຜູ້ບຸກເບີກຂອງເຕັກໂນໂລຢີທີ່ທັນສະໄຫມ, ແມ່ນແຕ່ຮຽກຮ້ອງໃຫ້ຢຸດເວລາຫົກເດືອນໃນການຄົ້ນຄວ້າກ່ຽວກັບປັນຍາປະດິດ, [&hellip;]"
 date: "2024-03-09T11:50:55"
-featuredImage: "/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
 categories: ["%e0%bb%81%e0%ba%ad%e0%ba%b1%e0%ba%9a%e0%ba%9e%e0%ba%a5%e0%ba%b4%e0%bb%80%e0%ba%84%e0%ba%8a%e0%ba%b1%e0%ba%99-ai-lo"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["%e0%bb%81%e0%ba%ad%e0%ba%b1%e0%ba%9a%e0%ba%9e%e0%ba%a5%e0%ba%b4%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="ຊອກຫາທຸກສິ່ງທີ່ພວກເຮົາຮູ້ກ່ຽວກັບ GPT-5, ເຄື່ອງມືການປຸງແຕ່ງພາສາທໍາມະຊາດໃຫມ່ທີ່ມີການປະຕິວັດ." class="wp-image-14752" srcset="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="ຊອກຫາທຸກສິ່ງທີ່ພວກເຮົາຮູ້ກ່ຽວກັບ GPT-5, ເຄື່ອງມືການປຸງແຕ່ງພາສາທໍາມະຊາດໃຫມ່ທີ່ມີການປະຕິວັດ." class="wp-image-14752" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

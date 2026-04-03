@@ -3,7 +3,7 @@ title: "Technologische Katastrophe: Die digitale Revolution wird zum Albtraum?"
 slug: "technologische-katastrophe-die-digitale-revolution-wird-zum-albtraum"
 excerpt: "Die Auswirkungen der digitalen Revolution auf unsere Gesellschaft Die digitale Revolution, die unsere Zeit prägt, hat viele Aspekte unserer Gesellschaft verändert. Digitale Technologien und der Zugang zum Internet haben die Art und Weise verändert, wie wir kommunizieren, arbeiten, konsumieren und sogar leben. Dieser Artikel untersucht die Folgen dieser Revolution für unser tägliches Leben und beleuchtet [&hellip;]"
 date: "2024-03-09T12:28:11"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["grune-technologie-und-intelligente-stadte-de", "technologie-und-digital-de"]
 ---
 

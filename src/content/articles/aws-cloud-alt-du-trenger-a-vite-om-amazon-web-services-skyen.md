@@ -3,7 +3,7 @@ title: "AWS Cloud – Alt du trenger å vite om Amazon Web Services-skyen"
 slug: "aws-cloud-alt-du-trenger-a-vite-om-amazon-web-services-skyen"
 excerpt: "Introduksjon til Amazon Web Services (AWS): en revolusjon innen cloud computing Siden opprettelsen i 2006, Amazon Web Services (AWS) har radikalt endret IT-landskapet ved å levere en skytjenesteplattform som gir enestående fleksibilitet, skala og stordriftsfordeler. Denne introduksjonen tar sikte på å klargjøre driftsprinsippene forAWS og for å forklare hvorfor denne løsningen har blitt en nøkkelaktør [&hellip;]"
 date: "2024-03-09T12:46:57"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

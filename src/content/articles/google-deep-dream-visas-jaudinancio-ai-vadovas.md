@@ -3,7 +3,7 @@ title: "„Google Deep Dream“: visas jaudinančio AI vadovas"
 slug: "google-deep-dream-visas-jaudinancio-ai-vadovas"
 excerpt: "„Google Deep Dream“ koncepcijos supratimas Įspūdingame dirbtinio intelekto pasaulyje atsirado ypač įspūdinga naujovė: „Google Deep Dream“.. Laikomas kaip a pribloškiantis AI, ši koncepcija sujungia pažangias technologijas ir beribę vaizduotę, kad sukurtų kvapą gniaužiančius vaizdinius vaizdus. Norėdami visapusiškai suvokti šios technologijos esmę, šiame straipsnyje išnagrinėsime jos pagrindus, veikimo principus ir išskirtines taikymo sritis. „Google Deep Dream“ [&hellip;]"
 date: "2024-03-09T11:51:00"
-featuredImage: "/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
 categories: ["ai-programos-lt"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["ai-programos-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="atraskite išsamų „Google“ gilaus sapno vadovą, pribloškiantį dirbtinį intelektą, kuris sukelia perversmą technologijų ir meno pasaulyje." class="wp-image-14778" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="atraskite išsamų „Google“ gilaus sapno vadovą, pribloškiantį dirbtinį intelektą, kuris sukelia perversmą technologijų ir meno pasaulyje." class="wp-image-14778" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["ai-programos-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="atraskite išsamų „Google“ gilaus sapno vadovą – žavią dirbtinio intelekto technologiją, kuri kuria stulbinančius vaizdus." class="wp-image-14779" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="atraskite išsamų „Google“ gilaus sapno vadovą – žavią dirbtinio intelekto technologiją, kuri kuria stulbinančius vaizdus." class="wp-image-14779" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Google Deep Dream: полное руководство по умопом
 slug: "google-deep-dream-4"
 excerpt: "Понимание концепции Google Deep Dream В увлекательном мире искусственного интеллекта появилась особенно впечатляющая инновация: Гугл Глубокая мечта. Рассматривается как умопомрачительный ИИ, эта концепция сочетает в себе передовые технологии и безграничное воображение для создания захватывающих дух визуальных представлений. Чтобы полностью понять суть этой технологии, в этой статье мы рассмотрим ее основы, принципы работы и ее замечательные [&hellip;]"
 date: "2024-03-09T11:51:54"
-featuredImage: "/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
 categories: ["%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8%d1%81%d0%ba%d1%83%d1%81%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d0%b8%d0%bd%d1%82%d0%b5%d0%bb%d0%bb%d0%b5%d0%ba%d1%82"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="Откройте для себя полное руководство по Google Deep Dream, умопомрачительному искусственному интеллекту, который производит революцию в мире технологий и искусства." class="wp-image-14778" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="Откройте для себя полное руководство по Google Deep Dream, умопомрачительному искусственному интеллекту, который производит революцию в мире технологий и искусства." class="wp-image-14778" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="Откройте для себя полное руководство по Google Deep Dream, увлекательной технологии искусственного интеллекта, которая создает умопомрачительные изображения." class="wp-image-14779" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="Откройте для себя полное руководство по Google Deep Dream, увлекательной технологии искусственного интеллекта, которая создает умопомрачительные изображения." class="wp-image-14779" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

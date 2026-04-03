@@ -3,7 +3,7 @@ title: "Veri teknolojilerindeki son gelişmeler nelerdir?"
 slug: "veri-teknolojilerindeki-son-gelismeler-nelerdir"
 excerpt: "Veri teknolojileri modern toplumumuzda giderek daha önemli bir rol oynamaktadır. Hayatlarımızın giderek dijitalleşmesi ve her gün üretilen verilerin patlamasıyla birlikte, bu teknolojilerin önemini ve dünyamız üzerindeki etkilerini anlamak büyük önem taşıyor. Bu yazıda veri teknolojilerinin farklı yönlerini ve bunların çeşitli alanlarla olan ilgisini inceleyeceğiz. Süreçlerin ve karar vermenin optimizasyonu Veri teknolojileri sanayiden sağlığa, finansa kadar [&hellip;]"
 date: "2024-03-09T12:31:49"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["bilgisayar-ve-veri-tr", "teknoloji-ve-dijital-tr"]
 ---
 

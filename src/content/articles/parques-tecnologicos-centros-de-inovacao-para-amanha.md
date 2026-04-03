@@ -3,7 +3,7 @@ title: "Parques tecnológicos: centros de inovação para amanhã?"
 slug: "parques-tecnologicos-centros-de-inovacao-para-amanha"
 excerpt: "O surgimento dos parques tecnológicos Estes santuários de inovação, também conhecidos como parques científicos ou pólos tecnológicos, têm uma história rica e estão em constante evolução; eles personificam o progresso técnico e económico. Este artigo pretende explorar as origens e o desenvolvimento destes centros tecnológicos, destacando o seu papel crucial como catalisadores da inovação e [&hellip;]"
 date: "2024-03-09T12:37:14"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["inovacoes-disruptivas-e-emergentes-pt", "tecnologia-e-digital-pt"]
 ---
 

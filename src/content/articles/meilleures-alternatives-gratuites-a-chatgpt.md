@@ -3,7 +3,7 @@ title: "Voici les meilleures alternatives gratuites à ChatGPT"
 slug: "meilleures-alternatives-gratuites-a-chatgpt"
 excerpt: "Découverte des alternatives gratuites à ChatGPT À une époque où les systèmes de conversation basés sur l&#8217;Intelligence Artificielle (IA) dominent l&#8217;espace technologique, il semble que l&#8217;option payante comme ChatGPT soit devenue la norme. Cependant, pour ceux qui cherchent à explorer des alternatives gratuites, il existe une multitude d&#8217;options aussi efficaces et percutantes. Cet article explore [&hellip;]"
 date: "2024-03-06T09:36:31"
-featuredImage: "/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
 categories: ["applications-de-l-ia-fr"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="découvrez les meilleures alternatives gratuites à chatgpt pour profiter de fonctionnalités similaires sans dépenser un sou." class="wp-image-14789" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="découvrez les meilleures alternatives gratuites à chatgpt pour profiter de fonctionnalités similaires sans dépenser un sou." class="wp-image-14789" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -159,7 +159,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="découvrez les meilleures alternatives gratuites à chatgpt pour des interactions innovantes et enrichissantes. trouvez des solutions similaires sans frais et bénéficiez d'une expérience captivante." class="wp-image-14790" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="découvrez les meilleures alternatives gratuites à chatgpt pour des interactions innovantes et enrichissantes. trouvez des solutions similaires sans frais et bénéficiez d'une expérience captivante." class="wp-image-14790" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

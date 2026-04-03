@@ -3,7 +3,7 @@ title: "AWS Cloud – Amazon Web Services bulutu hakkında bilmeniz gereken her 
 slug: "aws-cloud-amazon-web-services-bulutu-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "Amazon Web Services&#8217;e (AWS) Giriş: Bulut bilişimde bir devrim 2006 yılında kurulduğundan bu yana, Amazon Web Hizmetleri (AWS) benzeri görülmemiş esneklik, ölçek ve ölçek ekonomisi sunan bir bulut hizmetleri platformu sunarak BT ortamını kökten değiştirdi. Bu giriş, çalışma prensiplerini açıklığa kavuşturmayı amaçlamaktadır.AWS ve bu çözümün neden bulut bilişimde önemli bir oyuncu haline geldiğini açıklamak. Amazon [&hellip;]"
 date: "2024-03-09T12:48:38"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

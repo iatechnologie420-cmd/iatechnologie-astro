@@ -3,7 +3,7 @@ title: "Những tiến bộ mới nhất trong công nghệ dữ liệu là gì?
 slug: "nhung-tien-bo-moi-nhat-trong-cong-nghe-du-lieu-la-gi"
 excerpt: "Công nghệ dữ liệu đóng một vai trò ngày càng thiết yếu trong xã hội hiện đại của chúng ta. Với tốc độ số hóa ngày càng tăng trong cuộc sống của chúng ta và sự bùng nổ dữ liệu được tạo ra hàng ngày, điều quan trọng là phải hiểu tầm quan trọng của [&hellip;]"
 date: "2024-03-09T12:31:58"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "may-tinh-va-du-lieu-vi"]
 ---
 

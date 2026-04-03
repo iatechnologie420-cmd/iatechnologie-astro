@@ -3,7 +3,7 @@ title: "Вот лучшие бесплатные альтернативы ChatGP
 slug: "chatgpt-1"
 excerpt: "Обнаружение бесплатных альтернатив ChatGPT В то время, когда разговорные системы, основанные наИскусственный интеллект (ИИ) доминировать в технологическом пространстве, кажется, платный вариант вроде ЧатGPT стало нормой. Однако для тех, кто хочет изучить бесплатные альтернативы, есть множество не менее эффективных и действенных вариантов. В этой статье рассматриваются несколько моделей чатов с использованием искусственного интеллекта, которые предлагают сопоставимый [&hellip;]"
 date: "2024-03-09T11:54:27"
-featuredImage: "/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
 categories: ["%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8%d1%81%d0%ba%d1%83%d1%81%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d0%b8%d0%bd%d1%82%d0%b5%d0%bb%d0%bb%d0%b5%d0%ba%d1%82"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="Ознакомьтесь с лучшими бесплатными альтернативами ChatGPT, чтобы пользоваться аналогичными функциями, не тратя ни копейки." class="wp-image-14789" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="Ознакомьтесь с лучшими бесплатными альтернативами ChatGPT, чтобы пользоваться аналогичными функциями, не тратя ни копейки." class="wp-image-14789" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="откройте для себя лучшие бесплатные альтернативы чату для инновационного и обогащающего взаимодействия. найдите аналогичные решения бесплатно и получите увлекательный опыт." class="wp-image-14790" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="откройте для себя лучшие бесплатные альтернативы чату для инновационного и обогащающего взаимодействия. найдите аналогичные решения бесплатно и получите увлекательный опыт." class="wp-image-14790" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Technology parks: innovation hubs for tomorrow?"
 slug: "technology-parks-innovation-hubs-for-tomorrow"
 excerpt: "The emergence of technology parks These sanctuaries of innovation, also known as science parks or technopoles, have a rich history and are constantly evolving; they embody technical and economic progress. This article sets out to explore the origins and development of these technology hubs, highlighting their crucial role as catalysts for innovation and economic development. [&hellip;]"
 date: "2024-03-09T12:34:49"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-en"]
 ---
 

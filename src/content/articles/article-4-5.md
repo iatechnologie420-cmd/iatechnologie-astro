@@ -3,7 +3,7 @@ title: "د پورټر ارزښت سلسله | د پوهیدو لپاره کنک�
 slug: "article-4-5"
 excerpt: "د مایکل پورټر ارزښت سلسله پوهیدل د ارزښت زنځیر یو مفهوم دی چې د امریکایی اقتصاد پوه او اکادمیک لخوا رامینځته شوی مایکل پورټر د هغه په ​​​​کتاب &#8220;مقابلې ګټې&#8221; کې په 1985 کې خپور شو. دا ماډل د شرکت داخلي فعالیتونو تحلیل لپاره اړین دی ترڅو د هغې رامینځته شوي ارزښت او رقابتي ګټو [&hellip;]"
 date: "2024-03-09T12:04:28"
-featuredImage: "/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-3.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%a9%d9%85%d9%be%db%8c%d9%88%d9%bc%d8%b1%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d9%bc%d8%a7-ps"]
 ---
 
@@ -111,7 +111,7 @@ categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png" alt="" class="wp-image-1197" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png" alt="" class="wp-image-1197" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -191,7 +191,7 @@ categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png" alt="" class="wp-image-1198" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png" alt="" class="wp-image-1198" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png" alt="" class="wp-image-1199" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png" alt="" class="wp-image-1199" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

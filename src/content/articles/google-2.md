@@ -3,7 +3,7 @@ title: "Тюнер инструментов Google: революция для м
 slug: "google-2"
 excerpt: "Важность настройки музыкальных инструментов Настройка – один из наиболее важных аспектов игры на музыкальном инструменте. Независимо от того, новичок вы или опытный музыкант, вам необходимо регулярно настраивать свой инструмент, чтобы получить наилучшее звучание. В этой статье мы рассмотрим важность настройки музыкальных инструментов и дадим вам несколько советов, как убедиться, что ваш инструмент всегда настроен, а [&hellip;]"
 date: "2024-03-09T12:40:22"
-featuredImage: "/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

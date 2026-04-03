@@ -3,7 +3,7 @@ title: "Revisão do Segway Navimow: O cortador autônomo do futuro?"
 slug: "revisao-do-segway-navimow-o-cortador-autonomo-do-futuro"
 excerpt: "As vantagens do cortador autônomo Segway Navimow Imagine poder desfrutar plenamente do seu jardim sem se preocupar com a tarefa de cortar a grama. Graças ao cortador autónomo Segway Navimow, esta tarefa tediosa é agora coisa do passado. Repleto de recursos inovadores e tecnologia avançada, este cortador autônomo oferece muitos benefícios que facilitarão o seu [&hellip;]"
 date: "2024-03-09T12:37:05"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["tecnologia-e-digital-pt", "tecnologias-vestiveis-e-iot-pt"]
 ---
 

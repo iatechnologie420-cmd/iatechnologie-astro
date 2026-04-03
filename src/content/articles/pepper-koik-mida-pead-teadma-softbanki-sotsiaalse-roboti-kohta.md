@@ -3,7 +3,7 @@ title: "Pepper: kõik, mida pead teadma SoftBanki sotsiaalse roboti kohta"
 slug: "pepper-koik-mida-pead-teadma-softbanki-sotsiaalse-roboti-kohta"
 excerpt: "Pipar: esitlus ja põhifunktsioonid Kokkuvõte Sotsiaalne robot Pipar on tehnoloogiline saavutus, mis on loodud inimestega suhtlemiseks sotsiaalses keskkonnas. Arvukate andurite ja täiustatud tehisintellektiga varustatud Pepper mõistab meie emotsioone ja reageerib neile, kohanedes samal ajal meie käitumisega. Selle artikli kaudu tutvustame nii Pepperi põhifunktsioone kui ka selle peamisi rakendusi erinevates tegevusvaldkondades. Mis on sotsiaalne robot Pepper? [&hellip;]"
 date: "2024-03-09T11:50:12"
-featuredImage: "/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["murrangulised-ja-esilekerkivad-uuendused-et"]
 ---
 
@@ -75,7 +75,7 @@ categories: ["murrangulised-ja-esilekerkivad-uuendused-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="Uurige ühest kohast kõike Softbanki sotsiaalse roboti Pepperi, selle funktsioonide, kasutuse ja funktsioonide kohta." class="wp-image-14767" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="Uurige ühest kohast kõike Softbanki sotsiaalse roboti Pepperi, selle funktsioonide, kasutuse ja funktsioonide kohta." class="wp-image-14767" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ categories: ["murrangulised-ja-esilekerkivad-uuendused-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="saate teada kõike pipra, softbanki sotsiaalse roboti kohta – selle funktsioonid, kasutamine ja mõju ühiskonnale." class="wp-image-14768" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="saate teada kõike pipra, softbanki sotsiaalse roboti kohta – selle funktsioonid, kasutamine ja mõju ühiskonnale." class="wp-image-14768" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

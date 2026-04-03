@@ -3,7 +3,7 @@ title: "Pepper: viskas, ką reikia žinoti apie „SoftBank“ socialinį robot�
 slug: "pepper-viskas-ka-reikia-zinoti-apie-softbank-socialini-robota"
 excerpt: "Pipirai: pristatymas ir pagrindinės funkcijos Santrauka Socialinis robotas Pipirai yra technologinis žygdarbis, skirtas bendrauti su žmonėmis socialinėje aplinkoje. Turėdamas daugybę jutiklių ir pažangaus AI, Pepper supranta ir reaguoja į mūsų emocijas, prisitaikydamas prie mūsų elgesio. Šiame straipsnyje pateiksime pagrindines Pepper funkcijas ir pagrindines jo pritaikymo galimybes įvairiuose veiklos sektoriuose. Kas yra socialinis robotas Pepper? Sukurta [&hellip;]"
 date: "2024-03-09T11:51:08"
-featuredImage: "/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["zlugdancios-ir-atsirandancios-naujoves-lt"]
 ---
 
@@ -75,7 +75,7 @@ categories: ["zlugdancios-ir-atsirandancios-naujoves-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="Sužinokite viską apie Pepper, Softbank socialinį robotą, jo funkcijas, naudojimą ir funkcijas vienoje vietoje." class="wp-image-14767" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="Sužinokite viską apie Pepper, Softbank socialinį robotą, jo funkcijas, naudojimą ir funkcijas vienoje vietoje." class="wp-image-14767" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ categories: ["zlugdancios-ir-atsirandancios-naujoves-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="sužinokite viską apie pipirą, „softbank“ socialinį robotą – jo ypatybes, naudojimą ir poveikį visuomenei." class="wp-image-14768" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="sužinokite viską apie pipirą, „softbank“ socialinį robotą – jo ypatybes, naudojimą ir poveikį visuomenei." class="wp-image-14768" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

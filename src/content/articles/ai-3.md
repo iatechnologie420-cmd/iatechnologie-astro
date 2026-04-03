@@ -3,7 +3,7 @@ title: "د ګوګل ژور خوب: د زړه راښکونکي AI لپاره بش
 slug: "ai-3"
 excerpt: "د ګوګل ژور خوب مفهوم پوهیدل د مصنوعي استخباراتو په زړه پورې نړۍ کې، په ځانګړې توګه اغیزمن نوښت څرګند شوی: د ګوګل ژور خوب. د الف په توګه ګڼل کیږي زړه راښکونکی AI، دا مفهوم پرمختللي ټیکنالوژي او بې حده تخیل سره یوځای کوي ترڅو زړه راښکونکي بصري نمایشونه رامینځته کړي. د دې ټیکنالوژۍ [&hellip;]"
 date: "2024-03-09T11:51:37"
-featuredImage: "/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
 categories: ["%d8%af-ai-%d8%ba%d9%88%da%9a%d8%aa%d9%86%d9%84%db%8c%da%a9%d9%88%d9%86%d9%87-ps"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["%d8%af-ai-%d8%ba%d9%88%da%9a%d8%aa%d9%86%d9%84%db%8c%da%a9%d9%88%d
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="د ګوګل ژور خوب لپاره بشپړ لارښود ومومئ، د ذهن په زړه پورې مصنوعي استخبارات چې د ټیکنالوژۍ او هنر نړۍ کې انقلاب راولي." class="wp-image-14778" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="د ګوګل ژور خوب لپاره بشپړ لارښود ومومئ، د ذهن په زړه پورې مصنوعي استخبارات چې د ټیکنالوژۍ او هنر نړۍ کې انقلاب راولي." class="wp-image-14778" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["%d8%af-ai-%d8%ba%d9%88%da%9a%d8%aa%d9%86%d9%84%db%8c%da%a9%d9%88%d
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="د ګوګل ژور خوب لپاره بشپړ لارښود ومومئ، په زړه پورې مصنوعي استخباراتو ټیکنالوژي چې د زړه راښکونکي عکسونه رامینځته کوي." class="wp-image-14779" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="د ګوګل ژور خوب لپاره بشپړ لارښود ومومئ، په زړه پورې مصنوعي استخباراتو ټیکنالوژي چې د زړه راښکونکي عکسونه رامینځته کوي." class="wp-image-14779" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

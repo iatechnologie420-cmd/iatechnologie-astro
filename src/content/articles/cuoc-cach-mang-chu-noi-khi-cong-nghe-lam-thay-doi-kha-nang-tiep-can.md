@@ -3,7 +3,7 @@ title: "Cuộc cách mạng chữ nổi: Khi công nghệ làm thay đổi khả
 slug: "cuoc-cach-mang-chu-noi-khi-cong-nghe-lam-thay-doi-kha-nang-tiep-can"
 excerpt: "Cuộc cách mạng chữ nổi trong thời đại công nghệ Sự ra đời của chữ nổi và các phiên bản chuyển thể đương đại Được phát triển lần đầu bởi Louis Braille vào thế kỷ 19, hệ thống chữ viết dành cho người mù và khiếm thị được gọi là chữ nổi đã cách mạng [&hellip;]"
 date: "2024-03-09T12:20:49"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "nhung-doi-moi-mang-tinh-dot-pha-va-moi-noi-vi"]
 ---
 

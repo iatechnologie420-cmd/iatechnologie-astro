@@ -3,7 +3,7 @@ title: "Punktkirja revolutsioon: kui tehnoloogia muudab juurdepääsetavuse"
 slug: "punktkirja-revolutsioon-kui-tehnoloogia-muudab-juurdepaasetavuse"
 excerpt: "Braille revolutsioon tehnoloogiaajastul Punktkirja teke ja kaasaegsed kohandused Algselt 19. sajandil Louis Braille&#8217;i poolt välja töötatud pimedate ja vaegnägijate kirjutamissüsteem, mida tuntakse punktkirjana, muutis nende suhtlemisviisis revolutsiooni. Inspireerituna sõjaväele pimedas lugemiseks loodud mehhanismist, optimeeris Louis Braille meetodi, et muuta see sõrmede all sujuvaks ja kiireks. Selline kõrgendatud punktide paigutus kuues asendis pakub 63 erinevat viisi [&hellip;]"
 date: "2024-03-09T12:18:52"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["murrangulised-ja-esilekerkivad-uuendused-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 

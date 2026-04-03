@@ -3,7 +3,7 @@ title: "Откройте для себя новый адрес Wawacity в 2024 
 slug: "wawacity-2024-2"
 excerpt: "Wawacity: эталон бесплатного (но нелегального) скачивания Wawacity — это онлайн-платформа, предлагающая широкий выбор бесплатного контента для скачивания в различных областях: фильмы, сериалы, музыка, видеоигры, программное обеспечение, книги и многое другое. Этот новый адрес быстро стал обязательным для любителей развлечений, которые хотят наслаждаться любимыми медиа, не тратя при этом денег. Удобный интерфейс для упрощенной навигации. Первое, [&hellip;]"
 date: "2024-03-09T12:42:05"
-featuredImage: "/images/blog/Decouvrez-la-nouvelle-adresse-de-Wawacity-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Decouvrez-la-nouvelle-adresse-de-Wawacity-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru", "%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d0%bc%d0%b5%d0%b4%d0%b8%d0%b0-%d0%b8-%d0%bf%d0%bb%d0%b0%d1%82%d1%84%d0%be%d1%80%d0%bc%d1%8b-ru"]
 ---
 

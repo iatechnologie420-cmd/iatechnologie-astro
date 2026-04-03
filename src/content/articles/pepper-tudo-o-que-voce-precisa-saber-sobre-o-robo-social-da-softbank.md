@@ -3,7 +3,7 @@ title: "Pepper: tudo o que você precisa saber sobre o robô social da SoftBank"
 slug: "pepper-tudo-o-que-voce-precisa-saber-sobre-o-robo-social-da-softbank"
 excerpt: "Pepper: Apresentação e funções básicas Resumo O robô social Pimenta é um feito tecnológico projetado para interagir com humanos em um ambiente social. Equipado com vários sensores e IA avançada, Pepper entende e reage às nossas emoções enquanto se adapta aos nossos comportamentos. Através deste artigo apresentaremos as funções básicas do Pepper bem como as [&hellip;]"
 date: "2024-03-09T11:51:54"
-featuredImage: "/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["inovacoes-disruptivas-e-emergentes-pt"]
 ---
 
@@ -75,7 +75,7 @@ categories: ["inovacoes-disruptivas-e-emergentes-pt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="Descubra tudo sobre o Pepper, bot social do Softbank, suas funcionalidades, uso e funcionalidades, em um só lugar." class="wp-image-14767" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="Descubra tudo sobre o Pepper, bot social do Softbank, suas funcionalidades, uso e funcionalidades, em um só lugar." class="wp-image-14767" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ categories: ["inovacoes-disruptivas-e-emergentes-pt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="descubra tudo sobre o pepper, o robô social do softbank – suas características, seu uso e seu impacto na sociedade." class="wp-image-14768" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="descubra tudo sobre o pepper, o robô social do softbank – suas características, seu uso e seu impacto na sociedade." class="wp-image-14768" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

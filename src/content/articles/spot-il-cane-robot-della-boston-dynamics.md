@@ -3,7 +3,7 @@ title: "Spot: il cane robot della Boston Dynamics"
 slug: "spot-il-cane-robot-della-boston-dynamics"
 excerpt: "Scoperta di Spot, il cane robot della Boston Dynamics Rinomato per essere la crema della robotica moderna, Macchiare, il cane robot della Boston Dynamics, ha creato un&#8217;onda d&#8217;urto nel mondo delle nuove tecnologie. Progettato per sostituire i suoi simili, è l&#8217;esempio emblematico di robot animali pronti a sostituire i loro modelli. Spot, una rivoluzione tecnologica [&hellip;]"
 date: "2024-03-09T11:46:58"
-featuredImage: "/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
 categories: ["innovazioni-dirompenti-ed-emergenti-it"]
 ---
 
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="Scopri la guida completa al cane robot Boston Dynamics, le sue caratteristiche, l'utilizzo e le prestazioni impressionanti." class="wp-image-14515" srcset="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="Scopri la guida completa al cane robot Boston Dynamics, le sue caratteristiche, l'utilizzo e le prestazioni impressionanti." class="wp-image-14515" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

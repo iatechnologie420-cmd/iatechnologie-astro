@@ -3,7 +3,7 @@ title: "د ډیټا هب تعریف: هرڅه چې تاسو اړتیا لرئ د
 slug: "article-4-13"
 excerpt: "په اساساتو پوه شئ د لوی ډیټا او ډیجیټل بدلون په دوره کې، شرکتونه باید وکوالی شي په اغیزمنه توګه د دوی ډاټا ګټه پورته کړي. د د معلوماتو مرکز، یا &#8220;د ډیټا مرکز&#8221; د ډیټا مدیریت ، شریکولو او تحلیل لپاره دې مخ پر ودې اړتیا ته یو معماري ځواب دی. پدې مقاله کې [&hellip;]"
 date: "2024-03-09T11:55:22"
-featuredImage: "/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%a9%d9%85%d9%be%db%8c%d9%88%d9%bc%d8%b1%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d9%bc%d8%a7-ps"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png" alt="" class="wp-image-1300" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png" alt="" class="wp-image-1300" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png" alt="" class="wp-image-1301" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png" alt="" class="wp-image-1301" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -267,7 +267,7 @@ categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png" alt="" class="wp-image-1302" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png" alt="" class="wp-image-1302" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

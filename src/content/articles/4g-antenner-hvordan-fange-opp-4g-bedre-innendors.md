@@ -3,7 +3,7 @@ title: "4G-antenner: Hvordan fange opp 4G bedre innendørs?"
 slug: "4g-antenner-hvordan-fange-opp-4g-bedre-innendors"
 excerpt: "Forstå hvordan 4G fungerer og dets begrensninger Hva er 4G? Teknologi 4G, også kjent som 4. generasjon av standarder for mobiltelekommunikasjon, er fortsettelsen av 3G og går foran den aller siste 5G. Den tilbyr en høyhastighets mobil Internett-tilkobling, slik at du kan dra nytte av bedre dataoverføring. Dette inkluderer streaming av videoer i høy oppløsning, [&hellip;]"
 date: "2024-03-09T12:16:52"
-featuredImage: "/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
 categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
 ---
 
@@ -77,7 +77,7 @@ categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png" alt="" class="wp-image-1082" srcset="/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png 1792w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--300x171.png 300w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1024x585.png 1024w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--150x86.png 150w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--768x439.png 768w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png" alt="" class="wp-image-1082" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-.png 1792w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--300x171.png 300w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1024x585.png 1024w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--150x86.png 150w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--768x439.png 768w, /images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

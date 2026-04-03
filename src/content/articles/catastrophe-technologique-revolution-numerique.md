@@ -3,7 +3,7 @@ title: "Catastrophe technologique : la révolution numérique tourne au cauchema
 slug: "catastrophe-technologique-revolution-numerique"
 excerpt: "L&#8217;impact de la révolution numérique sur notre société La révolution numérique qui caractérise notre époque a bouleversé de nombreux aspects de notre société. Les technologies numériques et l&#8217;accès à internet ont transformé notre façon de communiquer, de travailler, de consommer et même de vivre. Cet article explore les conséquences de cette révolution sur notre quotidien [&hellip;]"
 date: "2024-02-04T11:16:59"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["technologie-numerique", "technologie-verte-et-smart-cities"]
 ---
 

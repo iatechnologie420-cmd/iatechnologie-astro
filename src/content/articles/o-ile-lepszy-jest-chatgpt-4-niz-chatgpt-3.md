@@ -3,7 +3,7 @@ title: "O ile lepszy jest ChatGPT-4 niż ChatGPT-3?"
 slug: "o-ile-lepszy-jest-chatgpt-4-niz-chatgpt-3"
 excerpt: "Powstanie technologiisztuczna inteligencja w dalszym ciągu przekształca krajobraz cyfrowy, oferując coraz bardziej wyrafinowane narzędzia. W tej nowej erze kolejne wersje CzatGPT z OpenAI doskonale ilustrują ten postęp. Chociaż ChatGPT-3 był już punktem zwrotnym, jego najnowsza wersja, ChatGPT-4, przesuwa granice tego, co przetwarzanie języka naturalnego (NLP) może zrobić. Przyjrzyjmy się znaczącym ulepszeniom w tej najnowszej wersji. [&hellip;]"
 date: "2024-03-09T12:51:49"
-featuredImage: "/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-3.png"
 categories: ["szkolenia-i-podstawy-ai-pl"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png" alt="" class="wp-image-1736" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png" alt="" class="wp-image-1736" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -137,7 +137,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png" alt="" class="wp-image-1737" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png" alt="" class="wp-image-1737" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -193,7 +193,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png" alt="" class="wp-image-1738" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png" alt="" class="wp-image-1738" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

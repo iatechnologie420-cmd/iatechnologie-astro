@@ -3,7 +3,7 @@ title: "Tehnološke inovacije: kje smo danes?"
 slug: "tehnoloske-inovacije-kje-smo-danes"
 excerpt: "Najnovejši tehnološki napredek Najnovejši tehnološki napredek Nedavni tehnološki napredek je korenito spremenil način našega življenja, dela in komuniciranja. Redno se pojavljajo nove tehnologije, ki poganjajo našo družbo v vedno bolj povezano in inovativno prihodnost. V tem članku bomo raziskali nekaj najnovejših tehnoloških dosežkov, ki so spremenili igre na različnih področjih. 1. Umetna inteligenca (AI) Umetna [&hellip;]"
 date: "2024-03-09T12:45:35"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["tehnologija-in-digital-sl"]
 ---
 

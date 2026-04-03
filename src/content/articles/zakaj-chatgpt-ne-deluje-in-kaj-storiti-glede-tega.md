@@ -3,7 +3,7 @@ title: "Zakaj ChatGPT ne deluje in kaj storiti glede tega?"
 slug: "zakaj-chatgpt-ne-deluje-in-kaj-storiti-glede-tega"
 excerpt: "Zakaj ChatGPT ne deluje? Ko uporabljate ChatGPT, lahko naletite na težave, zaradi katerih ne deluje pravilno. Čeprav so te težave frustrirajoče, imajo lahko različne vzroke. V tem članku bomo raziskali nekaj pogostih razlogov, zakaj ChatGPT morda ne deluje pravilno, in vam ponudili rešitve za njihovo odpravo. 1. Nestabilna internetna povezava Nestabilna internetna povezava lahko povzroči [&hellip;]"
 date: "2024-03-09T12:17:46"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["aplikacije-ai-sl"]
 ---
 

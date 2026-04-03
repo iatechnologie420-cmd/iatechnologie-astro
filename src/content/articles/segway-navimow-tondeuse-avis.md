@@ -3,7 +3,7 @@ title: "Avis Segway Navimow : La tondeuse autonome du futur ?"
 slug: "segway-navimow-tondeuse-avis"
 excerpt: "Les avantages de la tondeuse autonome Segway Navimow Imaginez-vous pouvoir profiter pleinement de votre jardin sans vous soucier de la corvée de tonte de pelouse. Grâce à la tondeuse autonome Segway Navimow, cette tâche fastidieuse appartient désormais au passé. Dotée de fonctionnalités innovantes et d&#8217;une technologie avancée, cette tondeuse autonome offre de nombreux avantages qui [&hellip;]"
 date: "2024-01-30T12:09:20"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["technologie-numerique", "technologies-portables-et-iot"]
 ---
 

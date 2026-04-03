@@ -3,7 +3,7 @@ title: "Deepfake: сè што треба да знаете за новата з�
 slug: "deepfake-e"
 excerpt: "Дефиниција и работа на Deepfake Дефиниција на Deepfake Терминот длабоко фејк е контракција на англиските зборови „длабоко учење“ и „лажни“. Оваа технологија се базира на алгоритмивештачка интелигенција специјално дизајниран за креирање или уредување аудиовизуелни содржини, вклучувајќи видеа и аудио траки. Резултатот е често толку убедлив што може да ги измами окото и увото, што го [&hellip;]"
 date: "2024-03-09T12:50:06"
-featuredImage: "/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
 categories: ["%d0%bd%d0%b5%d0%bf%d1%83%d1%88%d0%b0%d1%87%d0%b8%d1%82%d0%b5-%d0%b8-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d0%b8%d0%bd%d0%be%d0%b2%d0%b0%d1%86%d0%b8%d0%b8-mk", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["%d0%bd%d0%b5%d0%bf%d1%83%d1%88%d0%b0%d1%87%d0%b8%d1%82%d0%b5-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png" alt="" class="wp-image-1719" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png" alt="" class="wp-image-1719" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -119,7 +119,7 @@ categories: ["%d0%bd%d0%b5%d0%bf%d1%83%d1%88%d0%b0%d1%87%d0%b8%d1%82%d0%b5-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png" alt="" class="wp-image-1720" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png" alt="" class="wp-image-1720" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ categories: ["%d0%bd%d0%b5%d0%bf%d1%83%d1%88%d0%b0%d1%87%d0%b8%d1%82%d0%b5-%d0%b
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png" alt="" class="wp-image-1721" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png" alt="" class="wp-image-1721" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "MAAT: د هنر، معمارۍ او ټیکنالوژۍ ترکیب؟"
 slug: "maat-8"
 excerpt: "د MAAT کیسه: د هنر او معمارۍ ترکیب MAAT، د هنر، معمارۍ او ټیکنالوژیو میوزیم لنډیز، یو سمبولیکی ځای دی چې د هنر، معمارۍ او ټیکنالوژۍ ترمنځ د فیوژن شاهدي ورکوي. په لیزبون کې د ټاګس په څنډه کې موقعیت لري ، دا په بشپړ ډول د جمالیات او نوښت ترمینځ همغږي واده کوي. په [&hellip;]"
 date: "2024-03-09T12:29:09"
-featuredImage: "/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%ab%da%89%d9%88%da%89%d9%88%d9%86%da%a9%d9%8a-%d8%a7%d9%88-%d8%b1%d8%a7%d9%be%d9%88%d8%b1%d8%aa%d9%87-%da%a9%db%8c%d8%af%d9%88%d9%86%da%a9%d9%8a-%d9%86%d9%88%da%9a%d8%aa%d9%88%d9%86%d9%87-ps"]
 ---
 

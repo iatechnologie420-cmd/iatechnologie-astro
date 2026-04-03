@@ -3,7 +3,7 @@ title: "Segway Navimow review: The autonomous mower of the future?"
 slug: "segway-navimow-review-the-autonomous-mower-of-the-future"
 excerpt: "The advantages of the Segway Navimow autonomous mower Imagine being able to fully enjoy your garden without worrying about the chore of mowing the lawn. Thanks to the Segway Navimow autonomous mower, this tedious task is now a thing of the past. Packed with innovative features and advanced technology, this autonomous mower offers many benefits [&hellip;]"
 date: "2024-03-09T12:34:59"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["technology-and-digital-en", "wearable-technologies-and-iot-en"]
 ---
 

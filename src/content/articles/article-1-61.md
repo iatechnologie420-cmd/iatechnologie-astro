@@ -3,7 +3,7 @@ title: "ټیکنالوژیک نوښت: موږ نن چیرته یو؟"
 slug: "article-1-61"
 excerpt: "وروستي تخنیکي پرمختګونه وروستي تخنیکي پرمختګونه وروستي ټیکنالوژیکي پرمختګونو زموږ د ژوند کولو ، کار کولو او خبرو اترو لاره په بنسټیز ډول بدله کړې. نوې ټیکنالوژي په منظمه توګه راڅرګندیږي، زموږ ټولنه د یو بل سره تړلي او نوښت لرونکي راتلونکي ته هڅوي. پدې مقاله کې ، موږ به په بیلابیلو برخو کې د [&hellip;]"
 date: "2024-03-09T12:45:03"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps"]
 ---
 

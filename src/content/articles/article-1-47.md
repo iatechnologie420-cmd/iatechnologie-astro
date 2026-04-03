@@ -3,7 +3,7 @@ title: "ನೈಕ್ ತಂತ್ರಜ್ಞಾನಗಳು ಕ್ರೀಡಾ 
 slug: "article-1-47"
 excerpt: "ಕ್ರೀಡೆಯಲ್ಲಿ Nike ನ ತಾಂತ್ರಿಕ ಆವಿಷ್ಕಾರಗಳು ನೈಕ್ ಕ್ರೀಡಾ ಸಲಕರಣೆಗಳ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಪ್ರತಿಮ ಬ್ರಾಂಡ್ ಆಗಿದೆ, ಮತ್ತು ಅದರ ಖ್ಯಾತಿಯು ನಿರಂತರವಾಗಿ ಆವಿಷ್ಕರಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಆಧರಿಸಿದೆ. 1964 ರಲ್ಲಿ ಸ್ಥಾಪನೆಯಾದಾಗಿನಿಂದ, ಕ್ರೀಡಾಪಟುಗಳ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಸುಧಾರಿಸುವ ಮತ್ತು ಕ್ರೀಡಾ ಪ್ರಪಂಚವನ್ನು ಕ್ರಾಂತಿಗೊಳಿಸುವ ತಂತ್ರಜ್ಞಾನಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುವಲ್ಲಿ ಕಂಪನಿಯು ಗಮನಾರ್ಹವಾದ ಜಾಣ್ಮೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿದೆ. Flyknit ತಂತ್ರಜ್ಞಾನ: ಲಘುತೆ ಮತ್ತು ಫಿಟ್ ತಾಂತ್ರಿಕ ಆವಿಷ್ಕಾರಗಳ ಅತ್ಯಂತ ಗಮನಾರ್ಹ ಉದಾಹರಣೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ ನೈಕ್ Flyknit ತಂತ್ರಜ್ಞಾನವಾಗಿದೆ. ಕ್ರೀಡಾ ಬೂಟುಗಳ ಕ್ಷೇತ್ರದಲ್ಲಿ ಈ ಪ್ರಮುಖ ಪ್ರಗತಿಯು [&hellip;]"
 date: "2024-03-09T12:33:59"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d", "%e0%b2%b5%e0%b2%bf%e0%b2%9a%e0%b3%8d%e0%b2%9b%e0%b2%bf%e0%b2%a6%e0%b3%8d%e0%b2%b0%e0%b2%95%e0%b2%be%e0%b2%b0%e0%b2%95-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%89%e0%b2%a6%e0%b2%af%e0%b3%8b"]
 ---
 

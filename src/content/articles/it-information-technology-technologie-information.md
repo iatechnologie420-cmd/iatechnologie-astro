@@ -3,7 +3,7 @@ title: "IT / Information Technology : c&#8217;est quoi les technologies de l’i
 slug: "it-information-technology-technologie-information"
 excerpt: "Comprendre l&#8217;IT : Définition et évolution des technologies de l&#8217;information Qu&#8217;est-ce que l&#8217;IT ? Le terme IT, pour Information Technology en anglais, désigne l&#8217;ensemble des technologies liées au traitement et à la gestion de l&#8217;information et des données. Ce vaste domaine comprend ainsi l&#8217;informatique, les télécommunications, les systèmes de gestion de bases de données, la [&hellip;]"
 date: "2024-02-10T10:13:42"
-featuredImage: "/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 ---
 
@@ -87,7 +87,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png" alt="" class="wp-image-1108" srcset="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png" alt="" class="wp-image-1108" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png" alt="" class="wp-image-1110" srcset="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png" alt="" class="wp-image-1110" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

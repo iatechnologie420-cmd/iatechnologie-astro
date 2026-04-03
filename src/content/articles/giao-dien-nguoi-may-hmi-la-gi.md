@@ -3,7 +3,7 @@ title: "Giao diện người-máy: HMI là gì?"
 slug: "giao-dien-nguoi-may-hmi-la-gi"
 excerpt: "Định nghĩa giao diện người-máy Giao diện người-máy đề cập đến tất cả các phương tiện và công cụ được triển khai để cho phép tương tác hiệu quả giữa người dùng và hệ thống máy tính. Nó bao gồm mọi thứ, từ thiết kế trực quan của màn hình đến các thiết bị đầu [&hellip;]"
 date: "2024-03-09T12:23:02"
-featuredImage: "/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-3.png"
 categories: ["cong-nghe-thiet-bi-deo-va-iot-vi", "cong-nghe-va-ky-thuat-so-vi"]
 ---
 
@@ -83,7 +83,7 @@ categories: ["cong-nghe-thiet-bi-deo-va-iot-vi", "cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png" alt="" class="wp-image-1178" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png" alt="" class="wp-image-1178" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -255,7 +255,7 @@ categories: ["cong-nghe-thiet-bi-deo-va-iot-vi", "cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png" alt="" class="wp-image-1179" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png" alt="" class="wp-image-1179" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -303,7 +303,7 @@ categories: ["cong-nghe-thiet-bi-deo-va-iot-vi", "cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png" alt="" class="wp-image-1180" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png" alt="" class="wp-image-1180" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

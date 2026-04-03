@@ -3,7 +3,7 @@ title: "Að velja fyrsta netþjóninn þinn: skref-fyrir-skref leiðbeiningar"
 slug: "ad-velja-fyrsta-netthjoninn-thinn-skref-fyrir-skref-leidbeiningar"
 excerpt: "Að skilja muninn á tegundum netþjóna Netþjónar gegna mikilvægu hlutverki í rekstri neta, hýsa vefsíður, geyma gögn og styðja tölvumál, meðal annarra verkefna. Þessar öflugu vélar geta komið í mismunandi gerðum, hver með sínum sérkennum og fullkominni notkun. Þessi grein miðar að því að rifja upp það helsta tegundir netþjóna og mismun þeirra til að [&hellip;]"
 date: "2024-03-09T12:05:58"
-featuredImage: "/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-3.png"
 categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
 ---
 
@@ -17,7 +17,7 @@ categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png" alt="" class="wp-image-1307" srcset="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png" alt="" class="wp-image-1307" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -143,7 +143,7 @@ categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png" alt="" class="wp-image-1308" srcset="/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png" alt="" class="wp-image-1308" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1.png 1792w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-300x171.png 300w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1024x585.png 1024w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-150x86.png 150w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-768x439.png 768w, /images/blog/Choisir-son-premier-serveur-un-guide-etape-par-etape-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

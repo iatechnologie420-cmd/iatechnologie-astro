@@ -3,7 +3,7 @@ title: "Làm cách nào để chia sẻ màn hình PS5 của bạn trên Discord
 slug: "lam-cach-nao-de-chia-se-man-hinh-ps5-cua-ban-tren-discord"
 excerpt: "Bước 1: Chuẩn bị cấu hình của bạn Khi chơi trò chơi trên PS5, bạn có thể chia sẻ trải nghiệm của mình với bạn bè trên Discord. Để thực hiện việc này, bạn có thể truyền trực tiếp màn hình PS5 của mình tới Discord. Trong bài viết này, chúng tôi sẽ giải thích [&hellip;]"
 date: "2024-03-09T12:54:54"
-featuredImage: "/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "nen-tang-va-phuong-tien-ky-thuat-so-vi"]
 ---
 

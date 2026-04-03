@@ -3,7 +3,7 @@ title: "ChatGPT Business gratuit : comment obtenir 30 jours offerts en 2026"
 slug: "chatgpt-business-gratuit"
 excerpt: "En bref ChatGPT Business peut être utilisé gratuitement pendant 30 jours grâce à une offre officielle.Cet abonnement avancé, normalement facturé autour de 50$ par mois (deux postes minimum à 25$ l&#8217;unité), donne accès à des fonctionnalités bien plus puissantes que ChatGPT Plus. Dans cet article, découvrez comment activer l’essai gratuit, les différences avec les autres abonnements, comment annuler [&hellip;]"
 date: "2026-01-11T10:27:33"
-featuredImage: "/images/blog/Airbrush-OBJECT-REMOVER-1768125150505-scaled.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Airbrush-OBJECT-REMOVER-1768125150505-scaled.png"
 categories: ["outils-ia-saas-tests-et-avis"]
 ---
 

@@ -3,7 +3,7 @@ title: "Hvordan legge til musikk til notatene dine på Instagram?"
 slug: "hvordan-legge-til-musikk-til-notatene-dine-pa-instagram"
 excerpt: "Bruk musikkfunksjoner på Instagram Instagram har blitt en viktig plattform for å dele livsøyeblikk, bilder og videoer. For å gjøre innleggene dine enda mer engasjerende, kan du integrere musikk i innholdet ditt. I denne artikkelen skal vi utforske de forskjellige musikkfunksjonene på Instagram og hvordan du bruker dem til å lage originale og engasjerende innlegg. [&hellip;]"
 date: "2024-03-09T12:26:26"
-featuredImage: "/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 ---
 

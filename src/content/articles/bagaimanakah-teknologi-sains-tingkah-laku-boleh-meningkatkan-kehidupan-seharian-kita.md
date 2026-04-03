@@ -3,7 +3,7 @@ title: "Bagaimanakah teknologi sains tingkah laku boleh meningkatkan kehidupan s
 slug: "bagaimanakah-teknologi-sains-tingkah-laku-boleh-meningkatkan-kehidupan-seharian-kita"
 excerpt: "Kesan teknologi dalam sains tingkah laku Teknologi telah mempengaruhi banyak bidang, termasuk sains tingkah laku. Terima kasih kepada kemajuan teknologi, penyelidik mempunyai akses kepada alat dan kaedah yang membolehkan mereka memahami dan menganalisis tingkah laku manusia dengan lebih baik. Dalam artikel ini, kita akan meneroka pelbagai aspek kesan teknologi dalam sains tingkah laku dan bagaimana [&hellip;]"
 date: "2024-03-09T12:44:58"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["teknologi-dan-digital-ms"]
 ---
 

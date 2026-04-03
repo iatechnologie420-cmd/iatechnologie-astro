@@ -3,7 +3,7 @@ title: "Punkteskriftrevolusjonen: Når teknologi forvandler tilgjengelighet"
 slug: "punkteskriftrevolusjonen-nar-teknologi-forvandler-tilgjengelighet"
 excerpt: "Punkteskriftrevolusjonen i den teknologiske tidsalderen Genesis av blindeskrift og moderne tilpasninger Opprinnelig utviklet av Louis Braille på 1800-tallet, revolusjonerte skrivesystemet for blinde og svaksynte kjent som blindeskrift måten de kommuniserer på. Inspirert av en mekanisme designet for at hæren skal kunne lese i mørket, optimaliserte Louis Braille metoden for å gjøre den flytende og rask [&hellip;]"
 date: "2024-03-09T12:19:56"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]
 ---
 

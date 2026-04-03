@@ -3,7 +3,7 @@ title: "ادراکیزم: ایا زموږ هوښیارتیا مصنوعي ده؟
 slug: "article-115"
 excerpt: "د ادراکیزم او د انسان هوښیارتیا سرچینه د ادراکیزم اصل د ادراکیزم په ارواپوهنه کې یوه تګلاره ده چې د فکر داخلي میکانیزمونو تمرکز کوي، د انسان ذهن د معلوماتو پروسس کولو سیسټم په توګه درملنه کوي. د دې کړنلارې اصل په 1950s او 1960s پورې اړه لري، د چلندزم په وړاندې د غبرګون په [&hellip;]"
 date: "2024-03-09T12:20:24"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3%d8%a7%d8%b3%d8%a7%d8%aa-ps"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["%d8%af-ai-%d8%b1%d9%88%d8%b2%d9%86%d9%87-%d8%a7%d9%88-%d8%a7%d8%b3
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

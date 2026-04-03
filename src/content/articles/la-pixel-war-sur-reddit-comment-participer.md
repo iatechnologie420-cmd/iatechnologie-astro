@@ -3,7 +3,7 @@ title: "La Pixel War sur Reddit ! Comment participer ?"
 slug: "la-pixel-war-sur-reddit-comment-participer"
 excerpt: "Comprendre ce qu&#8217;est la Pixel War sur Reddit Décryptage de la Pixel War sur Reddit : Un phénomène à multiples facettes En parcourant le champs des réseaux sociaux, un phénomène particulier a retenu l&#8217;attention du grand public en avril 2017 : la Pixel War sur Reddit. Cette guerre des pixels, lancée sur la plateforme américaine [&hellip;]"
 date: "2024-03-20T11:33:59"
-featuredImage: "/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-2.png"
 categories: ["medias-numeriques-et-plateformes"]
 ---
 
@@ -75,7 +75,7 @@ categories: ["medias-numeriques-et-plateformes"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-.png" alt="découvrez comment participer à la pixel war sur reddit et contribuez à cet événement communautaire unique avec votre créativité et votre passion pour l'art numérique !" class="wp-image-14597" srcset="/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-.png 1792w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--300x171.png 300w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--1024x585.png 1024w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--150x86.png 150w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--768x439.png 768w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-.png" alt="découvrez comment participer à la pixel war sur reddit et contribuez à cet événement communautaire unique avec votre créativité et votre passion pour l'art numérique !" class="wp-image-14597" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-.png 1792w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--300x171.png 300w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--1024x585.png 1024w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--150x86.png 150w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--768x439.png 768w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -131,7 +131,7 @@ categories: ["medias-numeriques-et-plateformes"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1.png" alt="découvrez comment participer à la pixel war sur reddit et contribuer à ce phénomène en ligne unique. apprenez comment être partie prenante de cette expérience communautaire passionnante !" class="wp-image-14598" srcset="/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1.png 1792w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-300x171.png 300w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-1024x585.png 1024w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-150x86.png 150w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-768x439.png 768w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1.png" alt="découvrez comment participer à la pixel war sur reddit et contribuer à ce phénomène en ligne unique. apprenez comment être partie prenante de cette expérience communautaire passionnante !" class="wp-image-14598" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1.png 1792w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-300x171.png 300w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-1024x585.png 1024w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-150x86.png 150w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-768x439.png 768w, /images/blog/La-Pixel-War-sur-Reddit-Comment-participer-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

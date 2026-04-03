@@ -3,7 +3,7 @@ title: "如何在 Discord 上共享 PS5 屏幕？"
 slug: "discord-ps5-1"
 excerpt: "第 1 步：准备您的配置 在 PS5 上玩游戏时，在 Discord 上与朋友分享您的体验可能会很好。为此，您可以将 PS5 屏幕直接流式传输到 Discord。在本文中，我们将解释如何以两种不同的方法在 Discord 上共享 PS5 屏幕。我们走吧 ！ 检查你的硬件 在开始之前，请确保您拥有必要的材料。这是您需要的：&#8211; 功能齐全的 PS5：确保您的主机工作正常并已连接到电视。&#8211; Discord 帐户：如果您还没有帐户，请前往他们的网站免费注册。 在您的电脑上安装 Discord 软件 为了能够将 PS5 屏幕流式传输到 Discord，您需要在 PC 上安装 Discord 应用程序。操作方法如下：1. 打开网络浏览器并访问 Discord 网站。2. 单击“下载”按钮下载应用程序。3. 下载完成后，打开安装程序文件并按照屏幕上的说明在您的 PC 上安装应用程序。 配置您的 PS5 设置 现在您已在 PC 上安装了 Discord，现在可以配置 PS5 设置以流式传输到 Discord。以下是要遵循的步骤： 1. 打开 PS5 并登录您的帐户。2. 选择主屏幕右上角的齿轮图标，转到控制台设置。3. [&hellip;]"
 date: "2024-03-09T12:55:04"
-featuredImage: "/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["%e6%95%b0%e5%ad%97%e5%aa%92%e4%bd%93%e5%92%8c%e5%b9%b3%e5%8f%b0-zh", "%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh"]
 ---
 

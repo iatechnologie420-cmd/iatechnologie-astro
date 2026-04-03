@@ -3,7 +3,7 @@ title: "Eigum við að fjárfesta í gervigreind núna?"
 slug: "eigum-vid-ad-fjarfesta-i-gervigreind-nuna"
 excerpt: "Áður en svarað er já eða nei hvort nú sé kominn tími til að fjárfesta í gervigreind, skulum við rifja upp sögu gervigreindar til að setja hlutina í samhengi og taka yfirvegaða ákvörðun. Þróun gervigreindar Hefðbundin gervigreind Hefðbundin gervigreind, einnig þekkt sem „veik gervigreind“, hófst upp úr 1950. Á þeim tíma einbeittu vísindamenn sér aðallega [&hellip;]"
 date: "2024-03-09T12:43:47"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ai-forrit-is"]
 ---
 

@@ -3,7 +3,7 @@ title: "Wie können verhaltenswissenschaftliche Technologien unser tägliches Le
 slug: "wie-konnen-verhaltenswissenschaftliche-technologien-unser-tagliches-leben-verbessern"
 excerpt: "Der Einfluss der Technologie auf die Verhaltenswissenschaften Die Technologie hat viele Bereiche, darunter auch die Verhaltenswissenschaften, maßgeblich beeinflusst. Dank des technologischen Fortschritts stehen Forschern Werkzeuge und Methoden zur Verfügung, mit denen sie menschliches Verhalten besser verstehen und analysieren können. In diesem Artikel werden wir die verschiedenen Aspekte der Auswirkungen von Technologie auf die Verhaltenswissenschaften untersuchen [&hellip;]"
 date: "2024-03-09T12:42:08"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["technologie-und-digital-de"]
 ---
 

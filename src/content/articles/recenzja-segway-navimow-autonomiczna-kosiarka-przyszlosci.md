@@ -3,7 +3,7 @@ title: "Recenzja Segway Navimow: Autonomiczna kosiarka przyszłości?"
 slug: "recenzja-segway-navimow-autonomiczna-kosiarka-przyszlosci"
 excerpt: "Zalety kosiarki autonomicznej Segway Navimow Wyobraź sobie, że możesz w pełni cieszyć się swoim ogrodem, nie martwiąc się o koszenie trawnika. Dzięki autonomicznej kosiarce Segway Navimow to żmudne zadanie należy już do przeszłości. Ta autonomiczna kosiarka, wyposażona w innowacyjne funkcje i zaawansowaną technologię, oferuje wiele korzyści, które ułatwią Ci codzienne życie. 1. Łatwość obsługi Kosiarka [&hellip;]"
 date: "2024-03-09T12:36:51"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["technologia-i-cyfrowosc-pl", "technologie-ubieralne-i-iot-pl"]
 ---
 

@@ -3,7 +3,7 @@ title: "Bozuk bir bilgisayar nasıl onarılır?"
 slug: "bozuk-bir-bilgisayar-nasil-onarilir"
 excerpt: "Bilgisayarınızın arızasını teşhis etme Bir bilgisayar sorunuyla karşılaşmak bazen gerçek bir baş ağrısına dönüşebilir. Bilgisayar karmaşık bir teknolojik bileşiktir ve bir şey beklendiği gibi çalışmadığında genellikle çok sayıda olası neden vardır. Bu yazıda, sorunu tanımlamanıza ve bilgisayarınızın arızasını teşhis etmek için olası çözümleri bulmanıza yardımcı olacak pratik bir kılavuz sunuyoruz. Uyarı işaretlerinin tanımlanması Bilgisayar arızasını [&hellip;]"
 date: "2024-03-09T12:08:17"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["teknoloji-ve-dijital-tr"]
 ---
 

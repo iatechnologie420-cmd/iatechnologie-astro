@@ -3,7 +3,7 @@ title: "Kateri so najnovejši napredki podatkovnih tehnologij?"
 slug: "kateri-so-najnovejsi-napredki-podatkovnih-tehnologij"
 excerpt: "Podatkovne tehnologije igrajo vse pomembnejšo vlogo v naši sodobni družbi. Z naraščajočo digitalizacijo naših življenj in eksplozijo vsakodnevno ustvarjenih podatkov je ključnega pomena razumeti pomen teh tehnologij in njihov vpliv na naš svet. V tem članku bomo raziskali različne vidike podatkovnih tehnologij in njihovo pomembnost na različnih področjih. Optimizacija procesov in odločanja Podatkovne tehnologije omogočajo [&hellip;]"
 date: "2024-03-09T12:31:38"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 ---
 

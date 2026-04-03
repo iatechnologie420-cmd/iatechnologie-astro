@@ -3,7 +3,7 @@ title: "Taman teknologi: pusat inovasi untuk masa depan?"
 slug: "taman-teknologi-pusat-inovasi-untuk-masa-depan"
 excerpt: "Munculnya taman teknologi Tempat perlindungan inovasi ini, juga dikenal sebagai taman sains atau technopoles, memiliki sejarah yang kaya dan terus berkembang; mereka mewujudkan kemajuan teknis dan ekonomi. Artikel ini bertujuan untuk mengeksplorasi asal-usul dan perkembangan pusat-pusat teknologi ini, menyoroti peran penting mereka sebagai katalis bagi inovasi dan pembangunan ekonomi. Sejarah taman teknologi Sejarah taman teknologi [&hellip;]"
 date: "2024-03-09T12:35:19"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-id", "teknologi-dan-digital-id"]
 ---
 

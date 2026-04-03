@@ -3,7 +3,7 @@ title: "De beste robots in het Star Wars-universum"
 slug: "de-beste-robots-in-het-star-wars-universum"
 excerpt: "Mechanische legendes: C-3PO en R2-D2 Beschouwd als de meest emblematische droids van de saga Star Wars, C-3PO en R2-D2 hebben generaties fans gemarkeerd met hun unieke persoonlijkheid, hun verhaal en hun cruciale rol gedurende de afleveringen. Dit artikel duikt in de wereld van deze mechanische legendes en onthult hun essentie en culturele impact. C-3PO: Het [&hellip;]"
 date: "2024-03-09T12:23:09"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["technologie-en-digitaal-nl"]
 ---
 

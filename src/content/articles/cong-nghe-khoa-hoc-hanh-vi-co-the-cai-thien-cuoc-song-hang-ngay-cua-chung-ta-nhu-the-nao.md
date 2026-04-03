@@ -3,7 +3,7 @@ title: "Công nghệ khoa học hành vi có thể cải thiện cuộc sống h
 slug: "cong-nghe-khoa-hoc-hanh-vi-co-the-cai-thien-cuoc-song-hang-ngay-cua-chung-ta-nhu-the-nao"
 excerpt: "Tác động của công nghệ trong khoa học hành vi Công nghệ đã ảnh hưởng đáng kể đến nhiều lĩnh vực, bao gồm cả khoa học hành vi. Nhờ những tiến bộ công nghệ, các nhà nghiên cứu có thể tiếp cận với các công cụ và phương pháp cho phép họ hiểu và phân [&hellip;]"
 date: "2024-03-09T12:47:06"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi"]
 ---
 

@@ -3,7 +3,7 @@ slug: "article-3-8"
 title: "ການໂຕ້ຕອບມະນຸດກັບເຄື່ອງຈັກ: HMIs ແມ່ນຫຍັງ?"
 excerpt: "ຄໍານິຍາມຂອງການໂຕ້ຕອບມະນຸດກັບເຄື່ອງຈັກ ອິນເຕີເຟດຜູ້ຊາຍ &#8211; ເຄື່ອງ ໝາຍ ເຖິງວິທີການແລະເຄື່ອງມືທັງ ໝົດ ທີ່ປະຕິບັດເພື່ອເຮັດໃຫ້ການໂຕ້ຕອບທີ່ມີປະສິດທິພາບລະຫວ່າງຜູ້ໃຊ້ແລະລະບົບຄອມພິວເຕີ. ມັນກວມເອົາທຸກສິ່ງທຸກຢ່າງຈາກການອອກແບບສາຍຕາຂອງຫນ້າຈໍໄປຫາອຸປະກອນປ້ອນຂໍ້ມູນເຊັ່ນ: ແປ້ນພິມ, ເມົ້າ, ແລະແມ້ກະທັ້ງການສໍາພັດແລະການໂຕ້ຕອບສຽງ. ວິວັດທະນາການປະຫວັດສາດຂອງ HMI HMIs ໄດ້ຮັບການວິວັດທະນາການຢ່າງຫຼວງຫຼາຍນັບຕັ້ງແຕ່ການມາເຖິງຂອງຄອມພິວເຕີ້. ໃນເບື້ອງຕົ້ນ rudimentary ແລະເປັນຈຸດສູນກາງຂອງສາຍຄໍາສັ່ງ, ພວກເຂົາເຈົ້າໄດ້ຖືກຫັນປ່ຽນມີລັກສະນະຂອງການໂຕ້ຕອບຜູ້ໃຊ້ຮູບພາບ (GUI), ເຮັດໃຫ້ການນໍາໃຊ້ຂອງຄອມພິວເຕີຫຼາຍ intuitive. ໃນມື້ນີ້, HMIs ຂຸດຄົ້ນເຕັກໂນໂລຢີເຊັ່ນ: ແຕະ, ການຮັບຮູ້ສຽງ, ຫຼືແມ້ກະທັ້ງການຂະຫຍາຍຫຼືການໂຕ້ຕອບຄວາມເປັນຈິງ virtual. ຫຼັກການອອກແບບ HMI ເພື່ອໃຫ້ການໂຕ້ຕອບມີປະສິດທິພາບ, ມັນຕ້ອງປະຕິບັດຕາມຫຼັກການການອອກແບບທີ່ສໍາຄັນ. ຄວາມງ່າຍດາຍ, ຄວາມສອດຄ່ອງ, ຄວາມຊັດເຈນ, ການຕອບສະຫນອງແລະຄວາມຄາດຫວັງຂອງຄວາມຕ້ອງການຂອງຜູ້ໃຊ້ແມ່ນຈໍາເປັນ. HMI ທີ່ດີຄວນອະນຸຍາດໃຫ້ຜູ້ໃຊ້ເຮັດສໍາເລັດວຽກງານດ້ວຍຄວາມພະຍາຍາມຫນ້ອຍທີ່ສຸດແລະສັບສົນ. ຈິດຕະວິທະຍາໃນ HCI ຄວາມເຂົ້າໃຈກ່ຽວກັບຂະບວນການມັນສະຫມອງຂອງຜູ້ໃຊ້ແມ່ນສໍາຄັນໃນການອອກແບບ HMIs. ergonomics ສະຕິປັນຍາຊອກຫາການເພີ່ມປະສິດທິພາບການໂຕ້ຕອບຕາມຄວາມສາມາດແລະຂໍ້ຈໍາກັດຂອງການປະມວນຜົນຂໍ້ມູນໂດຍສະຫມອງຂອງມະນຸດ. ຕົວຢ່າງ, ສີ, ຮູບຮ່າງ, ພາບເຄື່ອນໄຫວ ຫຼືສຽງຕ້ອງຖືກອອກແບບຕາມຜົນກະທົບທາງດ້ານຈິດໃຈ. ແນວໂນ້ມ HMI ໃນປະຈຸບັນ ແລະອະນາຄົດ [&hellip;]"
 date: "2024-03-09T12:20:46"
-featuredImage: "/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-3.png"
 categories: ["wearable-technologies-%e0%bb%81%e0%ba%a5%e0%ba%b0-iot-lo", "%e0%bb%80%e0%ba%95%e0%ba%b1%e0%ba%81%e0%bb%82%e0%ba%99%e0%bb%82%e0%ba%a5%e0%ba%8a%e0%ba%b5-%e0%bb%81%e0%ba%a5%e0%ba%b0%e0%ba%94%e0%ba%b4%e0%ba%88%e0%ba%b4%e0%ba%95%e0%ba%ad%e0%ba%a5-lo"]
 ---
 
@@ -83,7 +83,7 @@ categories: ["wearable-technologies-%e0%bb%81%e0%ba%a5%e0%ba%b0-iot-lo", "%e0%bb
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png" alt="" class="wp-image-1178" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png" alt="" class="wp-image-1178" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -255,7 +255,7 @@ categories: ["wearable-technologies-%e0%bb%81%e0%ba%a5%e0%ba%b0-iot-lo", "%e0%bb
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png" alt="" class="wp-image-1179" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png" alt="" class="wp-image-1179" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -303,7 +303,7 @@ categories: ["wearable-technologies-%e0%bb%81%e0%ba%a5%e0%ba%b0-iot-lo", "%e0%bb
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png" alt="" class="wp-image-1180" srcset="/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png" alt="" class="wp-image-1180" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2.png 1792w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-300x171.png 300w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1024x585.png 1024w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-150x86.png 150w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-768x439.png 768w, /images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

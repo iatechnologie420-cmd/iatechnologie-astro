@@ -3,7 +3,7 @@ title: "Il MAAT: un mix di arte, architettura e tecnologia?"
 slug: "il-maat-un-mix-di-arte-architettura-e-tecnologia"
 excerpt: "La storia del MAAT: un mix di arte e architettura Il MAAT, acronimo di Museo d&#8217;Arte, Architettura e Tecnologie, è un luogo emblematico che testimonia la fusione tra arte, architettura e tecnologia. Situato sulle rive del Tago a Lisbona, incarna perfettamente il connubio armonioso tra estetica e innovazione. In questo articolo, approfondiamo l&#8217;affascinante storia del [&hellip;]"
 date: "2024-03-09T12:27:27"
-featuredImage: "/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
 categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it"]
 ---
 

@@ -3,7 +3,7 @@ title: "オブジェクト指向プログラミング: それは何ですか?何
 slug: "article-80"
 excerpt: "オブジェクト指向プログラミングの基礎 そこには オブジェクト指向プログラミング (OOP) は、「オブジェクト」を使用してコンピューター アプリケーションやプログラムを設計するプログラミング パラダイムです。これらのオブジェクトは現実世界の実体を表しており、開発者はより柔軟でスケーラブルで保守しやすいソフトウェアを作成できます。この記事では、OOP の基礎を形成する基本概念について説明します。 抽象化 L&#8217;抽象化 これは、プログラマがオブジェクトの無関係な詳細をすべて非表示にして、重要な機能のみをユーザーに表示するプロセスです。これにより、オブジェクトの内部の複雑さを気にすることなく、オブジェクトがどのように動作するかを簡単に理解できるようになります。 カプセル化 L&#8217;カプセル化 データのグループ化と、それを操作するメソッドを同じ単位 (クラスと呼ばれることが多い) 内でグループ化する手法で構成されます。また、カプセル化は、定義された方法による変更のみを許可することでデータの整合性を保護し、直接的な不正アクセスを防ぎます。 遺産 L&#8217;遺産 は、既存のクラスに基づいて新しいクラスを作成できる OOP の機能です。派生クラスと呼ばれる新しいクラスは、基本クラスの属性とメソッドを継承し、コードの再利用とクラス階層の作成を可能にします。 ポリモーフィズム ザ 多態性 呼び出されるオブジェクトに応じてさまざまなアクションを実行できるメソッドの機能です。ポリモーフィズムには、主に 2 つのタイプがあります。オーバーロード ポリモーフィズム (複数のメソッドが同じ名前を共有しますが、パラメータが異なる) と継承ポリモーフィズム (派生クラスがその親クラスのメソッドと同じ名前のメソッドを使用する) です。 クラスとオブジェクト ザ クラス と呼ばれる個々のインスタンスを作成するために使用されるモデルまたはブループリントです。 オブジェクト。クラスから作成された各オブジェクトは、クラスの属性に独自の値を持つことができますが、同じメソッドを共有します。 コンストラクターとデストラクター あ コンストラクタ クラスのオブジェクトが作成されるときに自動的に呼び出される、クラスの特別なメソッドです。これは通常、オブジェクトの属性を初期化するために使用されます。あ 破壊的は、オブジェクトが破棄されようとしているときに呼び出され、割り当てられたリソースを解放できるようになります。 方法 ザ メソッド クラス内で定義された関数で、オブジェクトが実行できる動作やアクションを記述します。各メソッドはオブジェクトの内部属性を操作して特定のタスクを実行できます。 属性 ザ 属性 クラス内で定義され、オブジェクトの状態または特定の特性を表す変数です。属性には、数値、文字列、他のクラスのオブジェクトなど、さまざまなデータ型を使用できます。 可視性: パブリック、プライベート、保護 観客、 プライベート そして [&hellip;]"
 date: "2024-03-09T12:46:48"
-featuredImage: "/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
 categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf-ja", "%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a8%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-ja"]
 ---
 
@@ -21,7 +21,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="/images/blog/image-1024x585.png" alt="" class="wp-image-13812" srcset="/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png" alt="" class="wp-image-13812" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -109,7 +109,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1.png" alt="" class="wp-image-1341" srcset="/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1.png 1792w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-300x171.png 300w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-1024x585.png 1024w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-150x86.png 150w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-768x439.png 768w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1.png" alt="" class="wp-image-1341" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1.png 1792w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-300x171.png 300w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-1024x585.png 1024w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-150x86.png 150w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-768x439.png 768w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2.png" alt="" class="wp-image-1342" srcset="/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2.png 1792w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-300x171.png 300w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-1024x585.png 1024w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-150x86.png 150w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-768x439.png 768w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2.png" alt="" class="wp-image-1342" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2.png 1792w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-300x171.png 300w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-1024x585.png 1024w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-150x86.png 150w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-768x439.png 768w, /images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

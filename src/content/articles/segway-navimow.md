@@ -3,7 +3,7 @@ title: "Segway Navimow بیاکتنه: د راتلونکي خپلواکه مای
 slug: "segway-navimow"
 excerpt: "د Segway Navimow خودمختاره ماور ګټې تصور وکړئ چې د لان د مینځلو د کار په اړه اندیښنه پرته د خپل باغ څخه په بشپړ ډول خوند واخلئ. د Segway Navimow خودمختاره ماور څخه مننه، دا ستړي کار اوس د تیر شی دی. د نوښت ځانګړتیاو او پرمختللي ټیکنالوژۍ سره ډک، دا خپلواکه ماور ډیری [&hellip;]"
 date: "2024-03-09T12:36:57"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%d8%af-%d8%a7%d8%ba%d9%88%d8%b3%d8%aa%d9%84%d9%88-%d9%88%da%93-%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-iot-ps"]
 ---
 

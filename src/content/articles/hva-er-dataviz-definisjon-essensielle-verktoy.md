@@ -3,7 +3,7 @@ title: "Hva er dataviz? Definisjon, essensielle verktøy"
 slug: "hva-er-dataviz-definisjon-essensielle-verktoy"
 excerpt: "Forstå Dataviz: datavisualisering I dag, med den enorme mengden data som genereres hvert sekund, blir det viktig å vite hvordan man presenterer denne informasjonen på en klar og effektiv måte. Det er her datavisualisering, Eller dataviz, et disiplinært felt som kombinerer design, narrativ og statistisk analyse for å transformere komplekse data til intuitive visuelle representasjoner. [&hellip;]"
 date: "2024-03-09T11:57:11"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

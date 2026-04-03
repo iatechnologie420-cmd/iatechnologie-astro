@@ -3,7 +3,7 @@ title: "¿Tecnología disruptiva transformando la banca?"
 slug: "tecnologia-disruptiva-transformando-la-banca"
 excerpt: "La transformación de la banca a través de tecnología disruptiva ha cambiado profundamente el sector financiero en los últimos años. Los avances tecnológicos han permitido el surgimiento de nuevas soluciones innovadoras, que están cambiando la forma en que los bancos operan e interactúan con sus clientes. En este artículo, exploraremos las diferentes dimensiones de esta [&hellip;]"
 date: "2024-03-09T12:33:53"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["innovaciones-disruptivas-y-emergentes-es", "tecnologia-y-digital-es"]
 ---
 

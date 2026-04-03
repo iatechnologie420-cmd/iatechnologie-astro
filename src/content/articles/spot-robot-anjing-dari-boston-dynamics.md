@@ -3,7 +3,7 @@ title: "Spot: robot anjing dari Boston Dynamics"
 slug: "spot-robot-anjing-dari-boston-dynamics"
 excerpt: "Discovery of Spot, robot anjing dari Boston Dynamics Terkenal sebagai yang terbaik dalam robotika modern, Titik, robot anjing dari Boston Dynamics, telah menciptakan gelombang kejutan di dunia teknologi baru. Dirancang untuk menggantikan robot sejenisnya, ini adalah contoh simbol robot hewan yang siap menggantikan model mereka. Spot, sebuah revolusi teknologi Titik sempurna mewujudkan kemajuan teknologi ini. [&hellip;]"
 date: "2024-03-09T11:46:41"
-featuredImage: "/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-id"]
 ---
 
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="Temukan panduan lengkap tentang robot anjing Boston Dynamics, fitur-fiturnya, penggunaan dan kinerjanya yang mengesankan." class="wp-image-14515" srcset="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="Temukan panduan lengkap tentang robot anjing Boston Dynamics, fitur-fiturnya, penggunaan dan kinerjanya yang mengesankan." class="wp-image-14515" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "행동과학 기술이 어떻게 우리의 일상생활을 향상시킬 
 slug: "article-135"
 excerpt: "행동과학에 기술이 미치는 영향 기술은 행동과학을 포함한 많은 분야에 큰 영향을 미쳤습니다. 기술 발전 덕분에 연구자들은 인간 행동을 더 잘 이해하고 분석할 수 있는 도구와 방법에 접근할 수 있게 되었습니다. 이 기사에서는 기술이 행동 과학에 미치는 영향의 다양한 측면과 기술이 우리의 일상 생활을 어떻게 향상시킬 수 있는지 살펴보겠습니다. 1. 데이터 수집 및 분석 기술은 데이터 [&hellip;]"
 date: "2024-03-09T12:44:12"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 ---
 

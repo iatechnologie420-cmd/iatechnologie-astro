@@ -3,7 +3,7 @@ title: "首席数据官（CDO）：角色、技能、培训和薪资"
 slug: "cdo-3"
 excerpt: "首席数据官在公司的战略地位 在大数据和数据分析时代，企业越来越认识到战略性管理和利用数据的重要性。这种认识的核心是一个关键角色： 首席数据官 （首席发展官）。 CDO 对于平衡治理、数据质量、监管合规性和利用数据获得竞争优势至关重要。本文将探讨 CDO 在当前创业环境中的关键作用。 首席数据官角色的出现和演变 CDO 的角色曾经仅限于合规和风险管理问题，现已发展成为公司决策的战略支柱。通过结合数据专家观点、合规知识和商业头脑，CDO 将数据的使用塑造为业务战略中的主要资产。 首席数据官的职责 CDO 具有多种不同但相互关联的职责。这包括建立公司数据的愿景，确保其质量和可访问性，并按照 GDPR 等法规使用数据。此外，他还与信息技术 (IT) 合作集成数据系统，并与其他领导者合作支持基于证据的决策。 CDO 和数字化转型 企业的数字化转型不可避免地涉及到数据。 CDO 在确保这种转型得到结构化和可分析数据的充分支持方面发挥着核心作用，从而实现更好的决策和竞争优势。 与其他部门的合作 CDO 必须与其他部门密切合作，包括营销、财务和运营部门，以确保所有利益相关者都能访问必要的数据并能够正确解释这些数据。这种跨职能职能促进了组织内的数据文化。 首席数据官面临的挑战 尽管 CDO 的重要性日益增加，但它必须面临重大挑战。这些挑战包括管理组织变革、将数据相关目标与更广泛的业务目标保持一致，以及建立强大且可扩展的数据基础设施。 CDO 的基本技能和理想形象 这 首席数据官 或者 首席数据官 在现代企业中是一个越来越受欢迎的角色。 CDO 负责数字信息的治理、运营和分析，必须具备一套基本技能才能完成其使命。现在让我们探讨 CDO 的理想形象以及在该职位中脱颖而出所需的关键技能。 技术能力 技术技能是 CDO 的基础。他们包括： 管理技能 CDO 还必须具备管理技能，例如： 个人素质 除了技术和管理技能之外，某些个人品质也很有价值： 学术背景和专业经历 CDO 的学术生涯通常包括以下领域的培训： 在专业经验方面，公司正在寻找那些已证明有能力将数据转化为大型项目附加值的候选人。 [&hellip;]"
 date: "2024-03-09T12:11:57"
-featuredImage: "/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh-tw", "%e8%ae%a1%e7%ae%97%e4%b8%8e%e6%95%b0%e6%8d%ae-zh-tw"]
 ---
 
@@ -71,7 +71,7 @@ categories: ["%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh-tw", "%e8%ae%a1%e
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png" alt="" class="wp-image-1293" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png" alt="" class="wp-image-1293" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ categories: ["%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh-tw", "%e8%ae%a1%e
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1294" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1294" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -335,7 +335,7 @@ categories: ["%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh-tw", "%e8%ae%a1%e
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1295" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1295" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

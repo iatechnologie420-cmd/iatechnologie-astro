@@ -3,7 +3,7 @@ title: "Median Technologies на берзата: вистинска можнос
 slug: "median-technologies-6"
 excerpt: "Што е медиумски технологии? Median Technologies е технолошка компанија специјализирана за решенија за медицинска слика и анализа на слики за клинички испитувања. Основана во 2002 година, компанијата брзо се етаблира како глобален лидер во својата област, нудејќи иновативни решенија за интерпретација и анализа на медицински слики. Производи и услуги на Median Technologies Медијални технологии нуди [&hellip;]"
 date: "2024-03-09T12:30:23"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

@@ -3,7 +3,7 @@ title: "Rewolucja brajlowska: kiedy technologia zmienia dostępność"
 slug: "rewolucja-brajlowska-kiedy-technologia-zmienia-dostepnosc"
 excerpt: "Rewolucja brajlowska w epoce technologicznej Geneza alfabetu Braille’a i współczesne adaptacje Pierwotnie opracowany przez Louisa Braille&#8217;a w XIX wieku, system pisma dla niewidomych i niedowidzących, znany jako Braille, zrewolucjonizował sposób, w jaki się komunikują. Zainspirowany mechanizmem zaprojektowanym dla armii do czytania w ciemności, Louis Braille zoptymalizował tę metodę, aby była płynna i szybka pod palcami. [&hellip;]"
 date: "2024-03-09T12:20:07"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["przelomowe-i-powstajace-innowacje-pl", "technologia-i-cyfrowosc-pl"]
 ---
 

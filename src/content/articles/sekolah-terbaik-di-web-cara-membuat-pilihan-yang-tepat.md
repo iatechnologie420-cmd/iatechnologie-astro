@@ -3,7 +3,7 @@ title: "Sekolah terbaik di web: cara membuat pilihan yang tepat"
 slug: "sekolah-terbaik-di-web-cara-membuat-pilihan-yang-tepat"
 excerpt: "Dunia pendidikan sentiasa berubah terutamanya dengan kemunculan teknologi baharu. Hari ini, banyak kursus latihan boleh diakses dalam talian, menawarkan fleksibiliti dan kebolehsuaian kepada setiap pelajar. Kami akan membimbing anda melalui pelbagai pilihan yang tersedia, untuk membuat pilihan termaklum sekolah web yang memenuhi aspirasi anda sebagai keutamaan. Memahami cabaran pembelajaran jarak jauh Pembelajaran jarak jauh mempunyai [&hellip;]"
 date: "2024-03-09T12:49:06"
-featuredImage: "/images/blog/Les-meilleures-ecoles-du-web-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web-3.png"
 categories: ["latihan-dan-asas-ai-ms"]
 ---
 
@@ -81,7 +81,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-meilleures-ecoles-du-web.png" alt="" class="wp-image-1580" srcset="/images/blog/Les-meilleures-ecoles-du-web.png 1792w, /images/blog/Les-meilleures-ecoles-du-web-300x171.png 300w, /images/blog/Les-meilleures-ecoles-du-web-1024x585.png 1024w, /images/blog/Les-meilleures-ecoles-du-web-150x86.png 150w, /images/blog/Les-meilleures-ecoles-du-web-768x439.png 768w, /images/blog/Les-meilleures-ecoles-du-web-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web.png" alt="" class="wp-image-1580" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web.png 1792w, /images/blog/Les-meilleures-ecoles-du-web-300x171.png 300w, /images/blog/Les-meilleures-ecoles-du-web-1024x585.png 1024w, /images/blog/Les-meilleures-ecoles-du-web-150x86.png 150w, /images/blog/Les-meilleures-ecoles-du-web-768x439.png 768w, /images/blog/Les-meilleures-ecoles-du-web-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

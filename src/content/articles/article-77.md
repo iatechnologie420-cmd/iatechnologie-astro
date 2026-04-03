@@ -3,7 +3,7 @@ title: "څنګه په انسټاګرام کې خپلو یادداشتونو کې
 slug: "article-77"
 excerpt: "په انسټاګرام کې د میوزیک ځانګړتیاوې وکاروئ انسټاګرام د ژوند شیبو ، عکسونو او ویډیوګانو شریکولو لپاره یو اړین پلیټ فارم ګرځیدلی. د دې لپاره چې ستاسو پوسټونه نور هم ښکیل کړي، تاسو کولی شئ په خپل مینځپانګې کې میوزیک مدغم کړئ. پدې مقاله کې ، موږ به په انسټاګرام کې د میوزیک مختلف ب [&hellip;]"
 date: "2024-03-09T12:26:49"
-featuredImage: "/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-%d9%85%db%8c%da%89%db%8c%d8%a7-%d8%a7%d9%88-%d9%be%d9%84%db%8c%d9%bc-%d9%81%d8%a7%d8%b1%d9%85%d9%88%d9%86%d9%87-ps"]
 ---
 

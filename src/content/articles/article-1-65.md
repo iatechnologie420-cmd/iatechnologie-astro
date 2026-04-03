@@ -3,7 +3,7 @@ title: "د ګوګل وسیله تونر: د موسیقارانو لپاره ان
 slug: "article-1-65"
 excerpt: "د موسیقۍ د وسایلو د سمولو اهمیت ټوننګ یو له خورا مهم اړخونو څخه دی کله چې د میوزیک آلې غږولو خبره راځي. که تاسو پیل کونکی یاست یا تجربه لرونکی موسیقار یاست ، تاسو اړتیا لرئ خپل وسیله په منظم ډول ټون کړئ ترڅو غوره غږ ترلاسه کړئ. په دې مقاله کې، موږ به [&hellip;]"
 date: "2024-03-09T12:39:55"
-featuredImage: "/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps"]
 ---
 

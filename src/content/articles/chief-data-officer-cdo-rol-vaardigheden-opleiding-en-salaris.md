@@ -3,7 +3,7 @@ title: "Chief Data Officer (CDO): ​​rol, vaardigheden, opleiding en salaris"
 slug: "chief-data-officer-cdo-rol-vaardigheden-opleiding-en-salaris"
 excerpt: "De strategische plek van de Chief Data Officer in het bedrijf In het tijdperk van big data en data-analyse erkennen bedrijven steeds meer het belang van het strategisch beheren en benutten van hun gegevens. De kern van deze erkenning is een sleutelrol: de Hoofd Datafunctionaris (CDO). De CDO is essentieel voor het balanceren van governance, [&hellip;]"
 date: "2024-03-09T12:10:49"
-featuredImage: "/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["computers-en-gegevens-nl", "technologie-en-digitaal-nl"]
 ---
 
@@ -71,7 +71,7 @@ categories: ["computers-en-gegevens-nl", "technologie-en-digitaal-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png" alt="" class="wp-image-1293" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png" alt="" class="wp-image-1293" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ categories: ["computers-en-gegevens-nl", "technologie-en-digitaal-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1294" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1294" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -335,7 +335,7 @@ categories: ["computers-en-gegevens-nl", "technologie-en-digitaal-nl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1295" srcset="/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1295" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

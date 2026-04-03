@@ -3,7 +3,7 @@ title: "Segway Navimow anmeldelse: Fremtidens autonome klipper?"
 slug: "segway-navimow-anmeldelse-fremtidens-autonome-klipper"
 excerpt: "Fordelene med den autonome klipperen Segway Navimow Tenk deg å kunne nyte hagen din til fulle uten å bekymre deg for oppgaven med å klippe plenen. Takket være den autonome klipperen Segway Navimow er denne kjedelige oppgaven nå en saga blott. Fullpakket med innovative funksjoner og avansert teknologi, tilbyr denne autonome klipperen mange fordeler som [&hellip;]"
 date: "2024-03-09T12:36:37"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["baerbare-teknologier-og-iot-nb", "teknologi-og-digitalt-nb"]
 ---
 

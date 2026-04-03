@@ -3,7 +3,7 @@ title: "Как технологии поведенческой науки мог
 slug: "article-8-1"
 excerpt: "Влияние технологий на поведенческие науки Технологии существенно повлияли на многие области, включая поведенческие науки. Благодаря технологическим достижениям исследователи получили доступ к инструментам и методам, которые позволяют им лучше понимать и анализировать поведение человека. В этой статье мы рассмотрим различные аспекты влияния технологий на поведенческие науки и то, как они могут улучшить нашу повседневную жизнь. 1. [&hellip;]"
 date: "2024-03-09T12:46:26"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

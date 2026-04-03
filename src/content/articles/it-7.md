@@ -3,7 +3,7 @@ title: "IT 인포센터란 무엇인가요? 정의와 설명"
 slug: "it-7"
 excerpt: "ㅏ 컴퓨터 정보센터,라고도 함 정보 센터는 조직 내 데이터 관리를 전담하는 중앙 집중식 시스템을 의미합니다. 그 목적은 회사 활동에 필요한 정보를 수집, 저장, 정리 및 전파하는 것입니다. 분석가와 의사 결정자가 효율적이고 정보에 입각한 방식으로 데이터를 활용할 수 있도록 하려면 해당 기능이 필수적입니다. 이 기사에서는 IT 정보 센터의 다양한 구성 요소와 부가 가치를 살펴보겠습니다. 정보센터의 목적 [&hellip;]"
 date: "2024-03-09T12:25:12"
-featuredImage: "/images/blog/Quest-ce-quun-infocentre-informatique-Definition-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-3.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b0%8f-%eb%8d%b0%ec%9d%b4%ed%84%b0-ko"]
 ---
 
@@ -99,7 +99,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-infocentre-informatique-Definition.png" alt="" class="wp-image-1063" srcset="/images/blog/Quest-ce-quun-infocentre-informatique-Definition.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition.png" alt="" class="wp-image-1063" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -247,7 +247,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-infocentre-informatique-Definition-1.png" alt="" class="wp-image-1064" srcset="/images/blog/Quest-ce-quun-infocentre-informatique-Definition-1.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-1.png" alt="" class="wp-image-1064" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-1.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -307,7 +307,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-infocentre-informatique-Definition-2.png" alt="" class="wp-image-1065" srcset="/images/blog/Quest-ce-quun-infocentre-informatique-Definition-2.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-2.png" alt="" class="wp-image-1065" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-2.png 1792w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-300x171.png 300w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-150x86.png 150w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-768x439.png 768w, /images/blog/Quest-ce-quun-infocentre-informatique-Definition-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

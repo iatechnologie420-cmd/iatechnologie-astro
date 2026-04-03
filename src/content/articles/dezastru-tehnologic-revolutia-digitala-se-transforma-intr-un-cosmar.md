@@ -3,7 +3,7 @@ title: "Dezastru tehnologic: revoluția digitală se transformă într-un coșma
 slug: "dezastru-tehnologic-revolutia-digitala-se-transforma-intr-un-cosmar"
 excerpt: "Impactul revoluției digitale asupra societății noastre Revoluția digitală care caracterizează timpul nostru a perturbat multe aspecte ale societății noastre. Tehnologiile digitale și accesul la internet au transformat modul în care comunicăm, lucrăm, consumăm și chiar trăim. Acest articol explorează consecințele acestei revoluții asupra vieții noastre de zi cu zi și evidențiază problemele cruciale cu care [&hellip;]"
 date: "2024-03-09T12:32:03"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["tehnologie-si-digital-ro", "tehnologie-verde-si-orase-inteligente-ro"]
 ---
 

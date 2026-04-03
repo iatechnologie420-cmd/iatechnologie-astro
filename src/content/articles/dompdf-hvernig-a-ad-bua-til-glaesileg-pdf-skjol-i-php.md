@@ -3,7 +3,7 @@ title: "Dompdf: Hvernig á að búa til glæsileg PDF skjöl í PHP?"
 slug: "dompdf-hvernig-a-ad-bua-til-glaesileg-pdf-skjol-i-php"
 excerpt: "Kynning á Dompdf Dompdf er PHP bókasafn sem gerir þér kleift að búa til PDF skrár úr HTML efni. Þessi lausn er mjög gagnleg til að búa til skýrslur, reikninga eða önnur skjöl á PDF formi. Í þessari grein munum við uppgötva grunneiginleika Dompdf og læra hvernig á að nota það til að búa til [&hellip;]"
 date: "2024-03-09T12:40:41"
-featuredImage: "/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
 categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]
 ---
 

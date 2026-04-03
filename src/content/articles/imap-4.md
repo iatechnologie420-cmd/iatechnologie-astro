@@ -3,7 +3,7 @@ title: "IMAP 정의: 알아야 할 모든 것"
 slug: "imap-4"
 excerpt: "IMAP 소개 IMAP(Internet Message Access Protocol)는 사용자가 이메일 서버에서 직접 이메일을 수신하고 관리할 수 있도록 하는 통신 표준으로, 이메일을 로컬 이메일 클라이언트에 다운로드하는 기존 접근 방식과 다릅니다. 이는 특히 여러 장치에서 이메일에 액세스하는 세상에서 많은 실질적인 이점을 제공합니다. 이 기사에서는 IMAP의 작동 방식, 이점 및 POP3와 같은 다른 프로토콜과의 비교 방법을 살펴보겠습니다. IMAP 작동 방식 [&hellip;]"
 date: "2024-03-09T12:12:21"
-featuredImage: "/images/blog/Tout-savoir-sur-le-protocole-IMAP-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-protocole-IMAP-3.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%9d%b8%ed%94%84%eb%9d%bc-%eb%b0%8f-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-ko"]
 ---
 
@@ -69,7 +69,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-savoir-sur-le-protocole-IMAP.png" alt="" class="wp-image-1376" srcset="/images/blog/Tout-savoir-sur-le-protocole-IMAP.png 1792w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-300x171.png 300w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-150x86.png 150w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-768x439.png 768w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-protocole-IMAP.png" alt="" class="wp-image-1376" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-protocole-IMAP.png 1792w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-300x171.png 300w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-150x86.png 150w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-768x439.png 768w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -107,7 +107,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-savoir-sur-le-protocole-IMAP-1.png" alt="" class="wp-image-1377" srcset="/images/blog/Tout-savoir-sur-le-protocole-IMAP-1.png 1792w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-300x171.png 300w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-150x86.png 150w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-768x439.png 768w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-protocole-IMAP-1.png" alt="" class="wp-image-1377" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-protocole-IMAP-1.png 1792w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-300x171.png 300w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-150x86.png 150w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-768x439.png 768w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -159,7 +159,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-savoir-sur-le-protocole-IMAP-2.png" alt="" class="wp-image-1378" srcset="/images/blog/Tout-savoir-sur-le-protocole-IMAP-2.png 1792w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-300x171.png 300w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-150x86.png 150w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-768x439.png 768w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-protocole-IMAP-2.png" alt="" class="wp-image-1378" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-protocole-IMAP-2.png 1792w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-300x171.png 300w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-150x86.png 150w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-768x439.png 768w, /images/blog/Tout-savoir-sur-le-protocole-IMAP-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

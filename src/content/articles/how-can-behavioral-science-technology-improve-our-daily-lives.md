@@ -3,7 +3,7 @@ title: "How can behavioral science technology improve our daily lives?"
 slug: "how-can-behavioral-science-technology-improve-our-daily-lives"
 excerpt: "The impact of technology in behavioral sciences Technology has significantly influenced many fields, including behavioral sciences. Thanks to technological advances, researchers have access to tools and methods that allow them to better understand and analyze human behavior. In this article, we will explore the different aspects of the impact of technology in behavioral sciences and [&hellip;]"
 date: "2024-03-09T12:42:22"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["technology-and-digital-en"]
 ---
 

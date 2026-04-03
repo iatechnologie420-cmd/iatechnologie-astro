@@ -3,7 +3,7 @@ title: "Hvorfor fungerer ikke ChatGPT, og hva skal jeg gjøre med det?"
 slug: "hvorfor-fungerer-ikke-chatgpt-og-hva-skal-jeg-gjore-med-det"
 excerpt: "Hvorfor fungerer ikke ChatGPT? Når du bruker ChatGPT, kan du støte på problemer som gjør at det ikke fungerer som det skal. Disse problemene, selv om de er frustrerende, kan ha en rekke årsaker. I denne artikkelen vil vi utforske noen vanlige årsaker til at ChatGPT kanskje ikke fungerer som den skal, og gi deg [&hellip;]"
 date: "2024-03-09T12:16:53"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ai-applikasjoner-nb"]
 ---
 

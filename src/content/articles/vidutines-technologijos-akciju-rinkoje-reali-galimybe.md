@@ -3,7 +3,7 @@ title: "Vidutinės technologijos akcijų rinkoje: reali galimybė?"
 slug: "vidutines-technologijos-akciju-rinkoje-reali-galimybe"
 excerpt: "Kas yra medianinės technologijos? „Median Technologies“ yra technologijų įmonė, kuri specializuojasi medicininio vaizdo gavimo ir vaizdo analizės sprendimuose, skirtuose klinikiniams tyrimams. 2002 metais įkurta įmonė greitai įsitvirtino kaip pasaulinė savo srities lyderė, siūlanti inovatyvius medicininių vaizdų interpretavimo ir analizės sprendimus. Median Technologies produktai ir paslaugos Medianos technologijos siūlo visą medicinos vaizdų analizės produktų ir paslaugų [&hellip;]"
 date: "2024-03-09T12:30:11"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["technologijos-ir-skaitmeninis-lt"]
 ---
 

@@ -3,7 +3,7 @@ title: "기술 혁신: 오늘날 우리는 어디에 있는가?"
 slug: "article-98"
 excerpt: "최근 기술 발전 최근 기술 발전 최근의 기술 발전은 우리가 살고 일하고 소통하는 방식을 근본적으로 변화시켰습니다. 새로운 기술이 정기적으로 등장하여 우리 사회를 더욱 연결되고 혁신적인 미래로 이끌고 있습니다. 이 기사에서는 다양한 분야에서 획기적인 최신 기술 발전을 살펴보겠습니다. 1. 인공지능(AI) 인공지능은 의심할 여지없이 최근 몇 년간 가장 중요한 기술 발전 중 하나입니다. 기계가 자율적으로 학습하고 의사결정을 [&hellip;]"
 date: "2024-03-09T12:43:58"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 ---
 

@@ -3,7 +3,7 @@ title: "VOIP: Definition, Funktionsweise und Vorteile für ein Unternehmen"
 slug: "voip-definition-funktionsweise-und-vorteile-fur-ein-unternehmen"
 excerpt: "Definition von VOIP und Grundprinzipien Die Technologie von Voice over Internet Protocol (VoIP) stellt eine große Weiterentwicklung in der Art und Weise dar, wie wir kommunizieren. Die Telefonie, die lange Zeit von herkömmlichen Telefonleitungen dominiert wurde, durchläuft einen digitalen Wandel, der die Übertragung von Sprache und Daten über das Internet ermöglicht. Schauen wir uns also [&hellip;]"
 date: "2024-03-09T12:18:59"
-featuredImage: "/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-3.png"
 categories: ["infrastruktur-und-netzwerke-de", "technologie-und-digital-de"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["infrastruktur-und-netzwerke-de", "technologie-und-digital-de"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise.png" alt="" class="wp-image-1269" srcset="/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise.png 1792w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-300x171.png 300w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1024x585.png 1024w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-150x86.png 150w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-768x439.png 768w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise.png" alt="" class="wp-image-1269" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise.png 1792w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-300x171.png 300w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1024x585.png 1024w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-150x86.png 150w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-768x439.png 768w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -163,7 +163,7 @@ categories: ["infrastruktur-und-netzwerke-de", "technologie-und-digital-de"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1.png" alt="" class="wp-image-1270" srcset="/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1.png 1792w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-300x171.png 300w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-1024x585.png 1024w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-150x86.png 150w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-768x439.png 768w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1.png" alt="" class="wp-image-1270" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1.png 1792w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-300x171.png 300w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-1024x585.png 1024w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-150x86.png 150w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-768x439.png 768w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -207,7 +207,7 @@ categories: ["infrastruktur-und-netzwerke-de", "technologie-und-digital-de"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2.png" alt="" class="wp-image-1271" srcset="/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2.png 1792w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-300x171.png 300w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-1024x585.png 1024w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-150x86.png 150w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-768x439.png 768w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2.png" alt="" class="wp-image-1271" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2.png 1792w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-300x171.png 300w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-1024x585.png 1024w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-150x86.png 150w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-768x439.png 768w, /images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

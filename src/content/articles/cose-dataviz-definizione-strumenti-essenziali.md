@@ -3,7 +3,7 @@ title: "Cos&#8217;è Dataviz? Definizione, strumenti essenziali"
 slug: "cose-dataviz-definizione-strumenti-essenziali"
 excerpt: "Comprendere Dataviz: visualizzazione dei dati Oggi, con l’immensa mole di dati generati ogni secondo, diventa fondamentale saper presentare queste informazioni in maniera chiara ed efficace. Questo è dove il visualizzazione dati, O dataviz, un campo disciplinare che combina design, narrativa e analisi statistica per trasformare dati complessi in rappresentazioni visive intuitive. Gli obiettivi di Dataviz [&hellip;]"
 date: "2024-03-09T11:56:12"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["informatica-e-dati-it", "tecnologia-e-digitale-it"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["informatica-e-dati-it", "tecnologia-e-digitale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["informatica-e-dati-it", "tecnologia-e-digitale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["informatica-e-dati-it", "tecnologia-e-digitale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

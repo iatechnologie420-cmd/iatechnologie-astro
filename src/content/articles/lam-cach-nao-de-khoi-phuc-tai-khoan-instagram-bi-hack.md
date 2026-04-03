@@ -3,7 +3,7 @@ title: "Làm cách nào để khôi phục tài khoản Instagram bị hack?"
 slug: "lam-cach-nao-de-khoi-phuc-tai-khoan-instagram-bi-hack"
 excerpt: "Xác định tài khoản Instagram bị xâm nhập Với sự gia tăng không ngừng về số lượng người dùng trên các nền tảng xã hội như Instagram, nguy cơ bị hack tài khoản ngày càng gia tăng. Biết cách xác định xem tài khoản của bạn có Instagram đã bị xâm phạm là điều cần [&hellip;]"
 date: "2024-03-09T12:03:11"
-featuredImage: "/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-3.png"
 categories: ["nen-tang-va-phuong-tien-ky-thuat-so-vi"]
 ---
 
@@ -139,7 +139,7 @@ categories: ["nen-tang-va-phuong-tien-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png" alt="" class="wp-image-1624" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png" alt="" class="wp-image-1624" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -257,7 +257,7 @@ categories: ["nen-tang-va-phuong-tien-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png" alt="" class="wp-image-1625" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png" alt="" class="wp-image-1625" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -349,6 +349,6 @@ categories: ["nen-tang-va-phuong-tien-ky-thuat-so-vi"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png" alt="" class="wp-image-1626" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png" alt="" class="wp-image-1626" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 

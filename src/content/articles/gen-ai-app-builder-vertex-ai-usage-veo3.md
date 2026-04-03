@@ -3,7 +3,7 @@ title: "🚨 Veo3 ne fonctionne PAS avec GenAI App Builder sur Vertex AI (à quo
 slug: "gen-ai-app-builder-vertex-ai-usage-veo3"
 excerpt: "Vous avez été nombreux à débloquer jusqu’à&nbsp;1300 $ de crédits&nbsp;sur Google Cloud avec Vertex AI. En creusant les conditions et en discutant directement avec le support Google, j’ai découvert une information essentielle :le bonus GenAI App Builder ne permet pas de générer des vidéos avec Veo 3. Dans cet article, je vous explique exactement&nbsp;comment fonctionnent ces [&hellip;]"
 date: "2025-07-07T02:31:44"
-featuredImage: "/images/blog/ChatGPT-Image-7-juil.-2025-a-11_29_27.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-Image-7-juil.-2025-a-11_29_27.png"
 categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 ---
 

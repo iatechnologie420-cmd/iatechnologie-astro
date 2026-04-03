@@ -3,7 +3,7 @@ title: "Segway Navimow apžvalga: autonominė ateities vejapjovė?"
 slug: "segway-navimow-apzvalga-autonomine-ateities-vejapjove"
 excerpt: "Segway Navimow autonominės vejapjovės privalumai Įsivaizduokite, kad galėsite mėgautis sodu visiškai nesijaudindami dėl vejos pjovimo darbų. Dėl Segway Navimow autonominės vejapjovės ši varginanti užduotis dabar yra praeitis. Su naujoviškomis funkcijomis ir pažangiomis technologijomis ši autonominė vejapjovė siūlo daug privalumų, kurie palengvins jūsų kasdienį gyvenimą. 1. Naudojimo paprastumas Segway Navimow autonomine vejapjove naudoti itin paprasta. Įrengta [&hellip;]"
 date: "2024-03-09T12:36:14"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["nesiojamos-technologijos-ir-daiktu-internetas-lt", "technologijos-ir-skaitmeninis-lt"]
 ---
 

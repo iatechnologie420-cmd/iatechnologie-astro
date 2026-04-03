@@ -3,7 +3,7 @@ title: "ಬ್ರೈಲ್ ಕ್ರಾಂತಿ: ತಂತ್ರಜ್ಞಾನ
 slug: "article-28"
 excerpt: "ತಾಂತ್ರಿಕ ಯುಗದಲ್ಲಿ ಬ್ರೈಲ್ ಕ್ರಾಂತಿ ಬ್ರೈಲ್ ಮತ್ತು ಸಮಕಾಲೀನ ರೂಪಾಂತರಗಳ ಜೆನೆಸಿಸ್ ಮೂಲತಃ 19 ನೇ ಶತಮಾನದಲ್ಲಿ ಲೂಯಿಸ್ ಬ್ರೈಲ್ ಅಭಿವೃದ್ಧಿಪಡಿಸಿದರು, ಬ್ರೈಲ್ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಕುರುಡು ಮತ್ತು ದೃಷ್ಟಿಹೀನರಿಗಾಗಿ ಬರೆಯುವ ವ್ಯವಸ್ಥೆಯು ಅವರು ಸಂವಹನ ಮಾಡುವ ರೀತಿಯಲ್ಲಿ ಕ್ರಾಂತಿಯನ್ನುಂಟುಮಾಡಿತು. ಸೈನ್ಯವು ಕತ್ತಲೆಯಲ್ಲಿ ಓದಲು ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಕಾರ್ಯವಿಧಾನದಿಂದ ಸ್ಫೂರ್ತಿ ಪಡೆದ ಲೂಯಿಸ್ ಬ್ರೈಲ್ ಅದನ್ನು ದ್ರವ ಮತ್ತು ಬೆರಳುಗಳ ಅಡಿಯಲ್ಲಿ ವೇಗವಾಗಿ ಮಾಡಲು ವಿಧಾನವನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿದರು. ಆರು ಸ್ಥಾನಗಳಲ್ಲಿ ಬೆಳೆದ ಚುಕ್ಕೆಗಳ ಈ ವ್ಯವಸ್ಥೆಯು ಅಕ್ಷರಗಳು [&hellip;]"
 date: "2024-03-09T12:19:22"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d", "%e0%b2%b5%e0%b2%bf%e0%b2%9a%e0%b3%8d%e0%b2%9b%e0%b2%bf%e0%b2%a6%e0%b3%8d%e0%b2%b0%e0%b2%95%e0%b2%be%e0%b2%b0%e0%b2%95-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%89%e0%b2%a6%e0%b2%af%e0%b3%8b"]
 ---
 

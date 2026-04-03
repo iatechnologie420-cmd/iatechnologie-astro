@@ -3,7 +3,7 @@ title: "Алан Тјуринг и раѓањето на вештачката и
 slug: "article-25"
 excerpt: "Алан Тјуринг: основач на вештачката интелигенција Алан Тјуринг: основач на вештачката интелигенцијаИсторијата на вештачката интелигенција (АИ) не може целосно да се раскаже без да се спомене името на Алан Туринг, кој според многумина е основач на ова поле кое денес револуционизира толку многу аспекти од нашиот секојдневен живот. Неговиот придонес оди многу подалеку од едноставниот [&hellip;]"
 date: "2024-03-09T12:54:17"
-featuredImage: "/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d1%87%d0%ba%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d0%bb%d0%b8%d0%b3%d0%b5%d0%bd%d1%86%d0%b8%d1%98%d0%b0-%d0%be%d0%b1%d1%83%d0%ba%d0%b0-%d0%b8-%d0%be%d1%81%d0%bd%d0%be%d0%b2"]
 ---
 
@@ -85,7 +85,7 @@ categories: ["%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d1%87%d0%ba%d0%b0-%d0%b8%d0%bd%d1%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png" alt="" class="wp-image-737" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png" alt="" class="wp-image-737" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ categories: ["%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d1%87%d0%ba%d0%b0-%d0%b8%d0%bd%d1%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png" alt="" class="wp-image-738" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png" alt="" class="wp-image-738" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ categories: ["%d0%b2%d0%b5%d1%88%d1%82%d0%b0%d1%87%d0%ba%d0%b0-%d0%b8%d0%bd%d1%8
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png" alt="" class="wp-image-739" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png" alt="" class="wp-image-739" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

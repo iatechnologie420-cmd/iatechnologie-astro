@@ -3,7 +3,7 @@ title: "Bored Ape Yacht Club: сè што треба да знаете"
 slug: "bored-ape-yacht-club-e"
 excerpt: "Што е јахт клуб Bored Ape? НА Досадно мајмун јахта клуб е неодамнешен феномен кој го потресува светот на Незаменливи токени (NFT). Овие уникатно илустрирани виртуелни мајмуни станаа симбол на статусот на милијардер во светот на крипто. Но, што ги прави овие NFT толку посебни? И зошто ја освоија имагинацијата на толку многу? Во оваа [&hellip;]"
 date: "2024-03-09T11:47:51"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["%d0%b1%d0%bb%d0%be%d0%ba%d1%87%d0%b5%d1%98%d0%bd-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%b1%d0%b5%d0%b7%d0%b1%d0%b5%d0%b4%d0%bd%d0%be%d1%81%d1%82-mk", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

@@ -3,7 +3,7 @@ title: "ChatGPT: kako odpraviti napake? Celoten vodnik"
 slug: "chatgpt-kako-odpraviti-napake-celoten-vodnik"
 excerpt: "Razumevanje in odpravljanje pogostih napak ChatGPT Umetna inteligenca še naprej izjemno napreduje v razvoju in izboljšavah, a še zdaleč ni popolna. Tako smo videli, da se včasih pojavijo nesprejemljive napake, ki izvršni direktor Googla ne pozabite prepoznati. Ne glede na to, ali gre za obdelavo informacij, ustvarjanje vsebin ali celo, ko a sodnik v Braziliji [&hellip;]"
 date: "2024-03-09T11:52:04"
-featuredImage: "/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["aplikacije-ai-sl"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["aplikacije-ai-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="odkrijte celoten vodnik za odpravljanje napak s chatgpt, idealno rešitev za premagovanje nastalih težav." class="wp-image-14740" srcset="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="odkrijte celoten vodnik za odpravljanje napak s chatgpt, idealno rešitev za premagovanje nastalih težav." class="wp-image-14740" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

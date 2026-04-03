@@ -3,7 +3,7 @@ title: "データマート/データウェアハウスとは何ですか?"
 slug: "article-5-7"
 excerpt: "データマートの概念の紹介 ザ データ市場 は、データ分析とビジネス インテリジェンス (BI) の世界では不可欠な用語です。これはデータ ウェアハウスのサブセクション、つまり企業情報の一部を保存する特殊なデータベースです。 データ ウェアハウスは企業データの巨大なライブラリと考えることができますが、データ マートは、販売、マーケティング、人事などの特定のトピックを中心に編成されたライブラリの特定のセクションと考えることができます。 この記事では、 データ市場、その用途、そしてデータを活用して情報に基づいた意思決定を行い、業務を改善したいと考えている組織にとってなぜデータがそれほど重要なのかを説明します。 データマートの定義は? あ データ市場 特定の機能領域におけるユーザーのニーズを満たすように設計されています。主題指向であり、レポートと分析が簡単にできるように構成されています。たとえば、販売データ マートには、販売トランザクション、顧客、および販売された製品にのみ関連するデータが含まれます。 データ マートのセットアップは、完全なデータ ウェアハウスを作成するよりも安価かつ迅速に実行できるため、大規模なエンタープライズ ソリューションを待たずにデータ分析を改善したいと考えている特定の部門にとって魅力的です。 データマートの利点 導入する主な利点は、 データ市場 含む： データマートの種類 データ マートを分類する方法はいくつかありますが、多くの場合、情報の入手方法に基づいて、次の 3 つの主要なタイプに分類されます。 データマートとデータウェアハウスの比較 データ ウェアハウスとは何ですか? あ データウェアハウス は、企業内の意思決定プロセスをサポートするために設計された集中データベースです。異種ソースからの大量の履歴データの読み取り、集約、分析用に最適化されています。長期にわたる企業の事業運営の包括的な概要を提供します。 データマートとは何ですか? 彼に関して言えば、 データ市場 データ ウェアハウスのサブセクションです。これは、販売や人事などの特定のトピックに関連する特定の部門、機能、またはデータセットを対象としています。データ マートには、データ ウェアハウスよりも含まれるデータが少なく、特定のユーザー グループ向けにカスタマイズされたクエリに迅速に応答するように設計されています。 設計と使用における主な違い データ ウェアハウスとデータ マートの主な違いは、その規模と範囲です。データ ウェアハウスはビジネス全体に関する大量のデータを保存しますが、データ マートはビジネスの 1 つの側面だけに焦点を当てます。特徴的な機能のいくつかを次に示します。 データマートとデータ ウェアハウスの選択 [&hellip;]"
 date: "2024-03-09T12:16:19"
-featuredImage: "/images/blog/Quest-ce-quun-Datamart-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-3.png"
 categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf-ja", "%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a8%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-ja"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-.png" alt="" class="wp-image-1147" srcset="/images/blog/Quest-ce-quun-Datamart-.png 1792w, /images/blog/Quest-ce-quun-Datamart--300x171.png 300w, /images/blog/Quest-ce-quun-Datamart--1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart--150x86.png 150w, /images/blog/Quest-ce-quun-Datamart--768x439.png 768w, /images/blog/Quest-ce-quun-Datamart--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-.png" alt="" class="wp-image-1147" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-.png 1792w, /images/blog/Quest-ce-quun-Datamart--300x171.png 300w, /images/blog/Quest-ce-quun-Datamart--1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart--150x86.png 150w, /images/blog/Quest-ce-quun-Datamart--768x439.png 768w, /images/blog/Quest-ce-quun-Datamart--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -173,7 +173,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-1-1.png" alt="" class="wp-image-1148" srcset="/images/blog/Quest-ce-quun-Datamart-1-1.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-1-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-1-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-1-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-1.png" alt="" class="wp-image-1148" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-1.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-1-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-1-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-1-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-1-2.png" alt="" class="wp-image-1149" srcset="/images/blog/Quest-ce-quun-Datamart-1-2.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-2-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-2-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-2-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-2.png" alt="" class="wp-image-1149" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-2.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-2-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-2-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-2-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Технопарки: инновационные центры завтр
 slug: "article-2-30"
 excerpt: "Появление технопарков Эти святилища инноваций, также известные как научные парки или технополя, имеют богатую историю и постоянно развиваются; они воплощают технический и экономический прогресс. В этой статье мы исследуем происхождение и развитие этих технологических центров, подчеркивая их решающую роль в качестве катализаторов инноваций и экономического развития. История технопарков История технопарков берет свое начало во второй [&hellip;]"
 date: "2024-03-09T12:37:31"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["%d0%bf%d0%be%d0%b4%d1%80%d1%8b%d0%b2%d0%bd%d1%8b%d0%b5-%d0%b8-%d0%bd%d0%be%d0%b2%d1%8b%d0%b5-%d0%b8%d0%bd%d0%bd%d0%be%d0%b2%d0%b0%d1%86%d0%b8%d0%b8-ru", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

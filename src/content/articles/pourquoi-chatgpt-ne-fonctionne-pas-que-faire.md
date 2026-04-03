@@ -3,7 +3,7 @@ title: "Pourquoi ChatGPT ne fonctionne-t-il pas et que faire à ce sujet ?"
 slug: "pourquoi-chatgpt-ne-fonctionne-pas-que-faire"
 excerpt: "Pourquoi ChatGPT ne fonctionne-t-il pas ? Lorsque vous utilisez ChatGPT, il peut arriver que vous rencontriez des problèmes qui rendent son fonctionnement déficient. Ces problèmes, bien que frustrants, peuvent avoir diverses causes. Dans cet article, nous allons explorer certaines raisons courantes pour lesquelles ChatGPT peut ne pas fonctionner correctement et vous fournir des solutions pour [&hellip;]"
 date: "2024-02-15T06:50:34"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["applications-de-l-ia-fr"]
 ---
 

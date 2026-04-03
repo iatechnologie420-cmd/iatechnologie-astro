@@ -3,7 +3,7 @@ title: "Tækninýjungar: hvar erum við í dag?"
 slug: "taekninyjungar-hvar-erum-vid-i-dag"
 excerpt: "Nýlegar tækniframfarir Nýlegar tækniframfarir Nýlegar tækniframfarir hafa gjörbreytt því hvernig við lifum, vinnum og höfum samskipti. Ný tækni kemur reglulega fram sem knýr samfélag okkar áfram í átt að sífellt tengdari og nýstárlegri framtíð. Í þessari grein munum við kanna nokkrar af nýjustu leikbreytandi tækniframförum á mismunandi sviðum. 1. Gervigreind (AI) Gervigreind er án efa [&hellip;]"
 date: "2024-03-09T12:43:19"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["taekni-og-stafraen-is"]
 ---
 

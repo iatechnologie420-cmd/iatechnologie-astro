@@ -3,7 +3,7 @@ title: "Kokie yra naujausi duomenų technologijų pasiekimai?"
 slug: "kokie-yra-naujausi-duomenu-technologiju-pasiekimai"
 excerpt: "Duomenų technologijos vaidina vis svarbesnį vaidmenį mūsų šiuolaikinėje visuomenėje. Didėjant mūsų gyvenimo skaitmeninimui ir sparčiai didėjant kasdien generuojamų duomenų kiekiui, labai svarbu suprasti šių technologijų svarbą ir jų poveikį mūsų pasauliui. Šiame straipsnyje mes išnagrinėsime įvairius duomenų technologijų aspektus ir jų svarbą įvairiose srityse. Procesų optimizavimas ir sprendimų priėmimas Duomenų technologijos leidžia optimizuoti procesus daugelyje [&hellip;]"
 date: "2024-03-09T12:29:41"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 ---
 

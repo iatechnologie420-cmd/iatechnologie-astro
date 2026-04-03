@@ -3,7 +3,7 @@ title: "Elementum Curabitur Vitaenunc Sedvelit"
 slug: "elementum-curabitur-vitaenunc-sed-velit"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque purus semper eget duis. Quis blandit turpis cursus in hac habitasse platea. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Sed cras ornare arcu dui vivamus arcu felis. Cursus euismod quis viverra nibh cras pulvinar mattis [&hellip;]"
 date: "2020-08-18T16:31:29"
-featuredImage: "/images/blog/krisztian-tabori-IyaNci0CyRk-unsplash.jpg"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/krisztian-tabori-IyaNci0CyRk-unsplash.jpg"
 categories: ["news", "useful"]
 ---
 

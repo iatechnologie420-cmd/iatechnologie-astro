@@ -3,7 +3,7 @@ title: "Как добавить музыку в заметки в Инстагр
 slug: "article-4-15"
 excerpt: "Используйте музыкальные функции в Instagram Instagram стал важной платформой для обмена жизненными моментами, изображениями и видео. Чтобы сделать ваши публикации еще более привлекательными, вы можете интегрировать музыку в свой контент. В этой статье мы рассмотрим различные музыкальные функции в Instagram и способы их использования для создания оригинальных и интересных публикаций. Зачем добавлять музыку в свои [&hellip;]"
 date: "2024-03-09T12:27:24"
-featuredImage: "/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru", "%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d0%bc%d0%b5%d0%b4%d0%b8%d0%b0-%d0%b8-%d0%bf%d0%bb%d0%b0%d1%82%d1%84%d0%be%d1%80%d0%bc%d1%8b-ru"]
 ---
 

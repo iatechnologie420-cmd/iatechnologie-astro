@@ -3,7 +3,7 @@ title: "Tržni delež mobilnih operacijskih sistemov iOS, Android in Windows v l
 slug: "trzni-delez-mobilnih-operacijskih-sistemov-ios-android-in-windows-v-letu-2024"
 excerpt: "Tržni deleži mobilnih operacijskih sistemov Z vzponom pametnih telefonov in nenehnim razvojem tehnologije se rivalstvo med iOS, Android in Windows postaja vedno bolj intenzivno. Tržni deleži za vsak operacijski sistem se inventivno razlikujejo glede na več dejavnikov. Napoved rasti trga mobilnih operacijskih sistemov v letu 2024 Po zadnjih poročilih prodaja pametnih telefonov so se povečale [&hellip;]"
 date: "2024-03-09T11:49:08"
-featuredImage: "/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-2.png"
 categories: ["infrastruktura-in-omrezja-sl", "tehnologija-in-digital-sl"]
 ---
 
@@ -73,7 +73,7 @@ categories: ["infrastruktura-in-omrezja-sl", "tehnologija-in-digital-sl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png" alt="odkrijte napovedi tržnih deležev za leto 2024 za operacijske sisteme ios, android in windows mobile." class="wp-image-14662" srcset="/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png 1792w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-300x171.png 300w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1024x585.png 1024w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-150x86.png 150w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-768x439.png 768w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png" alt="odkrijte napovedi tržnih deležev za leto 2024 za operacijske sisteme ios, android in windows mobile." class="wp-image-14662" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png 1792w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-300x171.png 300w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1024x585.png 1024w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-150x86.png 150w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-768x439.png 768w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Jakie są najnowsze osiągnięcia w technologiach danych?"
 slug: "jakie-sa-najnowsze-osiagniecia-w-technologiach-danych"
 excerpt: "Technologie danych odgrywają coraz większą rolę w naszym nowoczesnym społeczeństwie. W obliczu postępującej cyfryzacji naszego życia i eksplozji codziennie generowanych danych niezwykle istotne jest zrozumienie znaczenia tych technologii i ich wpływu na nasz świat. W tym artykule przyjrzymy się różnym aspektom technologii danych i ich znaczeniu w różnych dziedzinach. Optymalizacja procesów i podejmowania decyzji Technologie [&hellip;]"
 date: "2024-03-09T12:30:40"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 ---
 

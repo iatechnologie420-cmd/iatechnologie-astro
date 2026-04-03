@@ -3,7 +3,7 @@ title: "Hoe lang en zwaar is Mark Zuckerberg?"
 slug: "hoe-lang-en-zwaar-is-mark-zuckerberg"
 excerpt: "De lengte van Mark Zuckerberg: mythe of realiteit? De controverse rond zijn grootte De kwestie van de lengte van Mark Zuckerberg, de oprichter van Facebook, is al jaren het onderwerp van veel speculatie en debat. Sommigen beweren dat hij kleiner is dan hij lijkt, terwijl anderen beweren dat hij eigenlijk behoorlijk lang is. Dus wat [&hellip;]"
 date: "2024-03-09T12:37:42"
-featuredImage: "/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["technologie-en-digitaal-nl"]
 ---
 

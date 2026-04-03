@@ -3,7 +3,7 @@ title: "W jaki sposób technologia nauk behawioralnych może poprawić nasze cod
 slug: "w-jaki-sposob-technologia-nauk-behawioralnych-moze-poprawic-nasze-codzienne-zycie"
 excerpt: "Wpływ technologii w naukach behawioralnych Technologia znacząco wpłynęła na wiele dziedzin, w tym nauki behawioralne. Dzięki postępowi technologicznemu badacze mają dostęp do narzędzi i metod, które pozwalają im lepiej rozumieć i analizować ludzkie zachowania. W tym artykule zbadamy różne aspekty wpływu technologii na nauki behawioralne i omówimy, w jaki sposób może ona poprawić nasze codzienne [&hellip;]"
 date: "2024-03-09T12:45:33"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["technologia-i-cyfrowosc-pl"]
 ---
 

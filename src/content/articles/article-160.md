@@ -3,7 +3,7 @@ title: "ರೊಬೊಟಿಕ್ಸ್: ರೋಬೋಟ್‌ಗಳ ವಿಜ್
 slug: "article-160"
 excerpt: "ಯಂತ್ರಗಳ ಹಿಂದಿನ ವಿಜ್ಞಾನವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ರೊಬೊಟಿಕ್ಸ್ ತಂತ್ರಜ್ಞಾನದ ಒಂದು ಆಕರ್ಷಕ ಶಾಖೆಯಾಗಿದ್ದು ಅದು ವಿವಿಧ ಜ್ಞಾನದ ಕ್ಷೇತ್ರಗಳನ್ನು ಸಂಯೋಜಿಸಿ ಕಾರ್ಯಗಳನ್ನು ಸ್ವಾಯತ್ತವಾಗಿ ಅಥವಾ ಅರೆ ಸ್ವಾಯತ್ತವಾಗಿ ನಿರ್ವಹಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿರುವ ಯಂತ್ರಗಳನ್ನು ರಚಿಸುತ್ತದೆ. ಈ ಲೇಖನದಲ್ಲಿ, ನಾವು ರೊಬೊಟಿಕ್ಸ್‌ನ ಅಡಿಪಾಯವನ್ನು ಅನ್ವೇಷಿಸುತ್ತೇವೆ, ರೋಬೋಟ್‌ಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಅನುಮತಿಸುವ ಮೂಲ ತತ್ವಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ ಮತ್ತು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಈ ತಂತ್ರಜ್ಞಾನಗಳ ಪ್ರಭಾವವನ್ನು ಪರಿಗಣಿಸುತ್ತೇವೆ. ರೋಬೋಟಿಕ್ಸ್ನ ವ್ಯಾಖ್ಯಾನ ಮತ್ತು ಇತಿಹಾಸ ಪದ ರೊಬೊಟಿಕ್ಸ್ ರೋಬೋಟ್‌ಗಳ ಅಧ್ಯಯನ, ವಿನ್ಯಾಸ ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ [&hellip;]"
 date: "2024-03-09T12:00:33"
-featuredImage: "/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-3.png"
 categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d"]
 ---
 
@@ -109,7 +109,7 @@ categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="585" src="/images/blog/image-1024x585.png" alt="" class="wp-image-14190" srcset="/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="585" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png" alt="" class="wp-image-14190" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -227,7 +227,7 @@ categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png" alt="" class="wp-image-1047" srcset="/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png 1792w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-300x171.png 300w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1024x585.png 1024w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-150x86.png 150w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-768x439.png 768w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png" alt="" class="wp-image-1047" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png 1792w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-300x171.png 300w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1024x585.png 1024w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-150x86.png 150w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-768x439.png 768w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

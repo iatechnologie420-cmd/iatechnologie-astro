@@ -3,7 +3,7 @@ title: "Стоит ли инвестировать в искусственный
 slug: "article-81"
 excerpt: "Прежде чем ответить «да» или «нет», настало ли сейчас время инвестировать в ИИ, давайте рассмотрим историю ИИ, чтобы поместить ситуацию в контекст и принять обдуманное решение. Эволюция искусственного интеллекта Обычный ИИ Обычный ИИ, также известный как «слабый ИИ», зародился в 1950-х годах. В то время исследователи в основном сосредоточивались на решении конкретных задач с помощью [&hellip;]"
 date: "2024-03-09T12:45:18"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8%d1%81%d0%ba%d1%83%d1%81%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d0%b8%d0%bd%d1%82%d0%b5%d0%bb%d0%bb%d0%b5%d0%ba%d1%82"]
 ---
 

@@ -3,7 +3,7 @@ title: "ChatGPT : comment résoudre les erreurs ? Guide complet"
 slug: "resoudre-les-erreurs-chatgpt"
 excerpt: "Comprendre et résoudre les erreurs courantes de ChatGPT L&#8217;intelligence artificielle continue de faire des pas prodigieux en termes de développement et d&#8217;amélioration, mais elle est loin d&#8217;être parfaite. Ainsi, nous avons vu se produire des erreurs parfois inacceptables, que le PDG de Google ne manque pas de reconnaître. Que ce soit en termes de traitement [&hellip;]"
 date: "2024-03-06T10:21:10"
-featuredImage: "/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["applications-de-l-ia-fr"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="découvrez le guide complet pour résoudre les erreurs avec chatgpt, la solution idéale pour surmonter les difficultés rencontrées." class="wp-image-14740" srcset="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="découvrez le guide complet pour résoudre les erreurs avec chatgpt, la solution idéale pour surmonter les difficultés rencontrées." class="wp-image-14740" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

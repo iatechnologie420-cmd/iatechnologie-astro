@@ -3,7 +3,7 @@ title: "Les meilleures écoles du web : comment bien faire son choix"
 slug: "meilleures-ecoles-web"
 excerpt: "L&#8217;univers de l&#8217;éducation est en constante mutation, surtout avec l&#8217;avènement des nouvelles technologies. Aujourd&#8217;hui, de nombreuses formations sont accessibles en ligne, offrant flexibilité et adaptabilité à chaque apprenant. Nous vous guiderons à travers l&#8217;éventail des options disponibles, pour faire le choix éclairé d&#8217;une école du web qui répond à vos aspirations en priorité. Comprendre les [&hellip;]"
 date: "2024-01-23T10:14:45"
-featuredImage: "/images/blog/Les-meilleures-ecoles-du-web-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web-3.png"
 categories: ["formation-ia-fondamentaux-fr"]
 ---
 
@@ -81,7 +81,7 @@ categories: ["formation-ia-fondamentaux-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-meilleures-ecoles-du-web.png" alt="" class="wp-image-1580" srcset="/images/blog/Les-meilleures-ecoles-du-web.png 1792w, /images/blog/Les-meilleures-ecoles-du-web-300x171.png 300w, /images/blog/Les-meilleures-ecoles-du-web-1024x585.png 1024w, /images/blog/Les-meilleures-ecoles-du-web-150x86.png 150w, /images/blog/Les-meilleures-ecoles-du-web-768x439.png 768w, /images/blog/Les-meilleures-ecoles-du-web-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web.png" alt="" class="wp-image-1580" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web.png 1792w, /images/blog/Les-meilleures-ecoles-du-web-300x171.png 300w, /images/blog/Les-meilleures-ecoles-du-web-1024x585.png 1024w, /images/blog/Les-meilleures-ecoles-du-web-150x86.png 150w, /images/blog/Les-meilleures-ecoles-du-web-768x439.png 768w, /images/blog/Les-meilleures-ecoles-du-web-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

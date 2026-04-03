@@ -3,7 +3,7 @@ title: "ChatGPT는 단지 지능의 환상일 뿐입니다. 왜 그럴까요?"
 slug: "chatgpt-16"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE AI가 인간 지능을 시뮬레이션한다고? 기계로 인간 지능을 시뮬레이션하는 능력은 과학자와 일반 대중 모두에게 항상 특별한 매력이었습니다. 인간처럼 생각하고, 추론하고, 이해할 수 있는 기계에 대한 아이디어가 여전히 공상 과학 소설처럼 보일 수 있다면, 인공 지능(AI)의 발전은 우리가 이 현실에 그 어느 때보다 가까워졌음을 증명합니다. 인간 지능에 대한 이 인상적인 시뮬레이션의 측면을 함께 분석해 보겠습니다. 인간 [&hellip;]"
 date: "2024-03-09T12:39:49"
-featuredImage: "/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-3.png"
 categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 ---
 
@@ -105,7 +105,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-.png" alt="" class="wp-image-790" srcset="/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-.png 1792w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--300x171.png 300w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--1024x585.png 1024w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--150x86.png 150w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--768x439.png 768w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-.png" alt="" class="wp-image-790" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-.png 1792w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--300x171.png 300w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--1024x585.png 1024w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--150x86.png 150w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--768x439.png 768w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -137,7 +137,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1.png" alt="" class="wp-image-791" srcset="/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1.png 1792w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-300x171.png 300w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-1024x585.png 1024w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-150x86.png 150w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-768x439.png 768w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1.png" alt="" class="wp-image-791" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1.png 1792w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-300x171.png 300w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-1024x585.png 1024w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-150x86.png 150w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-768x439.png 768w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2.png" alt="" class="wp-image-792" srcset="/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2.png 1792w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-300x171.png 300w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-1024x585.png 1024w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-150x86.png 150w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-768x439.png 768w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2.png" alt="" class="wp-image-792" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2.png 1792w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-300x171.png 300w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-1024x585.png 1024w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-150x86.png 150w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-768x439.png 768w, /images/blog/ChatGPT-nest-quune-illusion-dintelligence-pourquoi-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

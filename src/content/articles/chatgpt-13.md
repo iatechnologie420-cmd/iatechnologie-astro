@@ -3,7 +3,7 @@ title: "ChatGPT ಏಕೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿ
 slug: "chatgpt-13"
 excerpt: "ChatGPT ಏಕೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ? ನೀವು ChatGPT ಅನ್ನು ಬಳಸುವಾಗ, ಅದು ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸದಿರುವಂತಹ ಸಮಸ್ಯೆಗಳನ್ನು ನೀವು ಎದುರಿಸಬಹುದು. ಈ ಸಮಸ್ಯೆಗಳು, ನಿರಾಶಾದಾಯಕವಾಗಿದ್ದರೂ, ವಿವಿಧ ಕಾರಣಗಳನ್ನು ಹೊಂದಿರಬಹುದು. ಈ ಲೇಖನದಲ್ಲಿ, ChatGPT ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸದಿರುವ ಕೆಲವು ಸಾಮಾನ್ಯ ಕಾರಣಗಳನ್ನು ನಾವು ಅನ್ವೇಷಿಸುತ್ತೇವೆ ಮತ್ತು ಅವುಗಳನ್ನು ಪರಿಹರಿಸಲು ನಿಮಗೆ ಪರಿಹಾರಗಳನ್ನು ಒದಗಿಸುತ್ತೇವೆ. 1. ಅಸ್ಥಿರ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ChatGPT ಬಳಸುವಾಗ ಅಸ್ಥಿರ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವು ಸಮಸ್ಯೆಗಳನ್ನು ಉಂಟುಮಾಡಬಹುದು. ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವು ದುರ್ಬಲವಾಗಿದ್ದರೆ ಅಥವಾ ಮಧ್ಯಂತರವಾಗಿದ್ದರೆ, ಇದು ಮಾದರಿ ಪ್ರತಿಕ್ರಿಯೆಗಳಲ್ಲಿ [&hellip;]"
 date: "2024-03-09T12:16:10"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ai-%e0%b2%85%e0%b2%aa%e0%b3%8d%e0%b2%b2%e0%b2%bf%e0%b2%95%e0%b3%87%e0%b2%b6%e0%b2%a8%e0%b3%8d%e0%b2%97%e0%b2%b3%e0%b3%81-kn"]
 ---
 

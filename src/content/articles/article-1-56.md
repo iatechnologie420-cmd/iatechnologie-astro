@@ -3,7 +3,7 @@ title: "기술 단지: 내일을 위한 혁신 허브?"
 slug: "article-1-56"
 excerpt: "기술단지의 등장 과학 공원 또는 테크노폴이라고도 알려진 이러한 혁신의 성역은 풍부한 역사를 갖고 있으며 끊임없이 진화하고 있습니다. 그것은 기술적, 경제적 진보를 구현합니다. 이 기사에서는 이러한 기술 허브의 기원과 발전을 살펴보고 혁신과 경제 발전을 위한 촉매제로서의 중요한 역할을 강조합니다. 기술단지의 역사 기술 단지의 역사는 과학 연구를 산업 세계와 연결해야 할 필요성이 명백해진 20세기 후반에 시작됩니다. 이 [&hellip;]"
 date: "2024-03-09T12:36:01"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%8c%8c%ea%b4%b4%ec%a0%81%ec%9d%b4%ea%b3%a0-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%98%81%ec%8b%a0-ko"]
 ---
 

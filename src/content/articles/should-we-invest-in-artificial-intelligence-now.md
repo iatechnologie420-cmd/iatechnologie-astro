@@ -3,7 +3,7 @@ title: "Should we invest in artificial intelligence now?"
 slug: "should-we-invest-in-artificial-intelligence-now"
 excerpt: "Before answering yes or no whether now is the time to invest in AI, let&#8217;s review the history of AI to put things into context and make a thoughtful decision. The evolution of artificial intelligence Conventional AI Conventional AI, also known as &#8220;weak AI&#8221;, had its beginnings in the 1950s. At that time, researchers mainly [&hellip;]"
 date: "2024-03-09T12:43:26"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ai-applications-en"]
 ---
 

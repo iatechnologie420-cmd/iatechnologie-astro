@@ -3,7 +3,7 @@ title: "Klub Kapal Pesiar Kera Bosan: semua yang perlu Anda ketahui"
 slug: "klub-kapal-pesiar-kera-bosan-semua-yang-perlu-anda-ketahui"
 excerpt: "Apa itu Klub Kapal Pesiar Bored Ape? ITU Klub Kapal Pesiar Kera yang Bosan merupakan fenomena terkini yang sedang menggemparkan dunia Token Tidak Dapat Dipertukarkan (NFT). Monyet virtual bergambar unik ini telah menjadi simbol status miliarder di dunia kripto. Tapi apa yang membuat NFT ini begitu istimewa? Dan mengapa mereka menarik imajinasi banyak orang? Pada [&hellip;]"
 date: "2024-03-09T11:46:41"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["blockchain-dan-keamanan-digital-id", "teknologi-dan-digital-id"]
 ---
 

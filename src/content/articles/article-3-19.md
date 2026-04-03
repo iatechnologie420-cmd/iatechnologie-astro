@@ -3,7 +3,7 @@ title: "데이터 기술의 최신 발전은 무엇입니까?"
 slug: "article-3-19"
 excerpt: "데이터 기술은 현대 사회에서 점점 더 중요한 역할을 하고 있습니다. 우리 삶의 디지털화가 증가하고 매일 생성되는 데이터가 폭발적으로 증가함에 따라 이러한 기술의 중요성과 그것이 세상에 미치는 영향을 이해하는 것이 중요합니다. 이 글에서는 데이터 기술의 다양한 측면과 다양한 분야에서의 관련성을 살펴보겠습니다. 프로세스 및 의사결정 최적화 데이터 기술을 사용하면 산업부터 의료, 금융까지 다양한 분야의 프로세스를 최적화할 수 [&hellip;]"
 date: "2024-03-09T12:29:19"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b0%8f-%eb%8d%b0%ec%9d%b4%ed%84%b0-ko"]
 ---
 

@@ -3,7 +3,7 @@ title: "Adipiscing Elit Pellentesque Habitant Monroe"
 slug: "adipiscing-elit-pellentesque-habitant-morbi"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque purus semper eget duis. Quis blandit turpis cursus in hac habitasse platea. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Sed cras ornare arcu dui vivamus arcu felis. Cursus euismod quis viverra nibh cras pulvinar mattis [&hellip;]"
 date: "2020-08-18T16:22:52"
-featuredImage: "/images/blog/s-o-c-i-a-l-c-u-t-OjnmCKmzr3A-unsplash-1.jpg"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/s-o-c-i-a-l-c-u-t-OjnmCKmzr3A-unsplash-1.jpg"
 categories: ["news"]
 ---
 

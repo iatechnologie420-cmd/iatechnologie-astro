@@ -3,7 +3,7 @@ title: "Data Hubi määratlus: kõik, mida peate andmekeskuste kohta teadma"
 slug: "data-hubi-maaratlus-koik-mida-peate-andmekeskuste-kohta-teadma"
 excerpt: "Saage aru põhitõdedest Suurandmete ja digitaalse transformatsiooni ajastul peavad ettevõtted saama oma andmeid tõhusalt ära kasutada. THE Andmekeskus, ehk andmekeskus, on arhitektuurne vastus kasvavale vajadusele andmehalduse, jagamise ja analüüsi järele. Selles artiklis kirjeldame üksikasjalikult Data Hubi põhialuseid ja selle keskset rolli ettevõtete andmestrateegias. Mis on andmekeskus? A Andmekeskus on tsentraliseeritud platvorm, mis aitab koguda, hallata [&hellip;]"
 date: "2024-03-09T11:53:12"
-featuredImage: "/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
 categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png" alt="" class="wp-image-1300" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png" alt="" class="wp-image-1300" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png" alt="" class="wp-image-1301" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png" alt="" class="wp-image-1301" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -267,7 +267,7 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png" alt="" class="wp-image-1302" srcset="/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png" alt="" class="wp-image-1302" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2.png 1792w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-300x171.png 300w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1024x585.png 1024w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-150x86.png 150w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-768x439.png 768w, /images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

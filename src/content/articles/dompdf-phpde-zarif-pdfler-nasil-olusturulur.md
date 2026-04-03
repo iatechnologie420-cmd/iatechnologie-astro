@@ -3,7 +3,7 @@ title: "Dompdf: PHP&#8217;de zarif PDF&#8217;ler nasıl oluşturulur?"
 slug: "dompdf-phpde-zarif-pdfler-nasil-olusturulur"
 excerpt: "Dompdf&#8217;e Giriş Dompdf, HTML içeriğinden PDF dosyaları oluşturmanıza olanak tanıyan bir PHP kütüphanesidir. Bu çözüm, raporlar, faturalar veya PDF formatında başka herhangi bir belge oluşturmak için çok kullanışlıdır. Bu makalede Dompdf&#8217;in temel özelliklerini keşfedeceğiz ve onu şık ve işlevsel PDF&#8217;ler oluşturmak için nasıl kullanacağımızı öğreneceğiz. Önkoşullar Dompdf&#8217;i kurmadan önce aşağıdakilere sahip olduğunuzdan emin olun: Dompdf [&hellip;]"
 date: "2024-03-09T12:43:36"
-featuredImage: "/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
 categories: ["bilgisayar-ve-veri-tr", "teknoloji-ve-dijital-tr"]
 ---
 

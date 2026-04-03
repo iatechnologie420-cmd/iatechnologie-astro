@@ -3,7 +3,7 @@ title: "El MAAT: ¿una mezcla de arte, arquitectura y tecnología?"
 slug: "el-maat-una-mezcla-de-arte-arquitectura-y-tecnologia"
 excerpt: "La historia del MAAT: una mezcla de arte y arquitectura El MAAT, acrónimo de Museo de Arte, Arquitectura y Tecnologías, es un lugar emblemático que testimonia la fusión entre arte, arquitectura y tecnología. Situado a orillas del Tajo en Lisboa, encarna a la perfección la combinación armoniosa entre estética e innovación. En este artículo nos [&hellip;]"
 date: "2024-03-09T12:26:45"
-featuredImage: "/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
 categories: ["innovaciones-disruptivas-y-emergentes-es", "tecnologia-y-digital-es"]
 ---
 

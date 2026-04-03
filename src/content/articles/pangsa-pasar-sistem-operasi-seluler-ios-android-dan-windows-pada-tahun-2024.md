@@ -3,7 +3,7 @@ title: "Pangsa pasar sistem operasi seluler iOS, Android, dan Windows pada tahun
 slug: "pangsa-pasar-sistem-operasi-seluler-ios-android-dan-windows-pada-tahun-2024"
 excerpt: "Pangsa pasar sistem operasi seluler Dengan maraknya ponsel pintar dan evolusi teknologi yang terus-menerus, persaingan antar iOS, Android, dan Windows menjadi semakin intens. Pangsa pasar untuk setiap sistem operasi bervariasi tergantung pada beberapa faktor. Perkiraan pertumbuhan pasar sistem operasi seluler pada tahun 2024 Menurut laporan terbaru penjualan ponsel pintar telah meningkat, didorong oleh meningkatnya adopsi [&hellip;]"
 date: "2024-03-09T11:46:41"
-featuredImage: "/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-2.png"
 categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 ---
 
@@ -73,7 +73,7 @@ categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png" alt="temukan perkiraan pangsa pasar untuk tahun 2024 untuk sistem operasi seluler ios, android, dan windows." class="wp-image-14662" srcset="/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png 1792w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-300x171.png 300w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1024x585.png 1024w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-150x86.png 150w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-768x439.png 768w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png" alt="temukan perkiraan pangsa pasar untuk tahun 2024 untuk sistem operasi seluler ios, android, dan windows." class="wp-image-14662" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024.png 1792w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-300x171.png 300w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1024x585.png 1024w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-150x86.png 150w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-768x439.png 768w, /images/blog/Les-parts-de-marche-des-systemes-dexploitation-mobiles-iOS-Android-et-Windows-en-2024-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

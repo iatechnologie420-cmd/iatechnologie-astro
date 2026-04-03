@@ -3,7 +3,7 @@ title: "4 mois gratuits sur Adobe Creative Cloud : comment en profiter ?"
 slug: "4-mois-gratuit-adobe-creative-cloud-pro"
 excerpt: "Chaque année, les promotions Black Friday et Cyber Monday se suivent… mais certaines sortent clairement du lot. C’est exactement le cas avec cette offre Adobe Creative Cloud Pro, habituellement facturée 78 €/mois, mais actuellement accessible en décembre à 0 € pendant 4 mois grâce à un lien officiel rarement mis en avant. Que vous soyez [&hellip;]"
 date: "2025-12-04T19:29:04"
-featuredImage: "/images/blog/Gemini_Generated_Image_33wwh333wwh333ww_optimized_2000-scaled.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Gemini_Generated_Image_33wwh333wwh333ww_optimized_2000-scaled.png"
 categories: ["non-classe-fr"]
 ---
 

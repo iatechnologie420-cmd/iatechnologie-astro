@@ -3,7 +3,7 @@ title: "Technological innovation: where are we today?"
 slug: "technological-innovation-where-are-we-today"
 excerpt: "Recent technological advances Recent technological advances Recent technological advances have radically transformed the way we live, work and communicate. New technologies emerge regularly, propelling our society towards an ever more connected and innovative future. In this article, we will explore some of the most recent game-changing technological advancements in different areas. 1. Artificial Intelligence (AI) [&hellip;]"
 date: "2024-03-09T12:42:47"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["technology-and-digital-en"]
 ---
 

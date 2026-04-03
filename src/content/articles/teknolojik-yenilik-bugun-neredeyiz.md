@@ -3,7 +3,7 @@ title: "Teknolojik yenilik: bugün neredeyiz?"
 slug: "teknolojik-yenilik-bugun-neredeyiz"
 excerpt: "Son teknolojik gelişmeler Son teknolojik gelişmeler Son teknolojik gelişmeler yaşama, çalışma ve iletişim şeklimizi kökten değiştirdi. Düzenli olarak yeni teknolojiler ortaya çıkıyor ve toplumumuzu her zamankinden daha bağlantılı ve yenilikçi bir geleceğe doğru itiyor. Bu yazıda farklı alanlarda oyunun kurallarını değiştiren en son teknolojik gelişmelerden bazılarını inceleyeceğiz. 1. Yapay Zeka (AI) Yapay zeka şüphesiz son [&hellip;]"
 date: "2024-03-09T12:45:43"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["teknoloji-ve-dijital-tr"]
 ---
 

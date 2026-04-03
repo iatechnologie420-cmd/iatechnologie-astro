@@ -3,7 +3,7 @@ title: "Datamart / Datawarehouse ແມ່ນຫຍັງ?"
 slug: "datamart-datawarehouse-1"
 excerpt: "ແນະນໍາແນວຄວາມຄິດຂອງ Datamart THE datamart ເປັນຄໍາສັບທີ່ສໍາຄັນໃນໂລກຂອງການວິເຄາະຂໍ້ມູນແລະ Business Intelligence (BI). ມັນແມ່ນພາກສ່ວນຍ່ອຍຂອງຄັງຂໍ້ມູນ, ນັ້ນແມ່ນ, ຖານຂໍ້ມູນພິເສດທີ່ເກັບຮັກສາສ່ວນຂອງຂໍ້ມູນຂອງບໍລິສັດ. ໃນຂະນະທີ່ສາງຂໍ້ມູນສາມາດຄິດວ່າເປັນຫ້ອງສະຫມຸດຂະຫນາດໃຫຍ່ຂອງຂໍ້ມູນຂອງບໍລິສັດ, data mart ສາມາດເຫັນໄດ້ວ່າເປັນພາກສະເພາະຂອງຫ້ອງສະຫມຸດນັ້ນ, ຈັດຕັ້ງປະມານຫົວຂໍ້ໃດຫນຶ່ງ, ເຊັ່ນການຂາຍ, ການຕະຫຼາດຫຼືຊັບພະຍາກອນມະນຸດ. ໃນບົດຄວາມນີ້ພວກເຮົາຈະຄົ້ນຫາສິ່ງທີ່ a datamart, ມັນຖືກນໍາໃຊ້ເພື່ອຫຍັງ, ແລະເປັນຫຍັງມັນຈຶ່ງມີຄວາມສໍາຄັນຫຼາຍສໍາລັບອົງການຈັດຕັ້ງທີ່ຕ້ອງການທີ່ຈະ leverage ຂໍ້ມູນຂອງເຂົາເຈົ້າໃນການຕັດສິນໃຈຂໍ້ມູນຂ່າວສານແລະປັບປຸງການດໍາເນີນງານຂອງເຂົາເຈົ້າ. ຄໍານິຍາມຂອງ data mart? ກ datamart ຖືກອອກແບບມາເພື່ອຕອບສະຫນອງຄວາມຕ້ອງການຂອງຜູ້ໃຊ້ໃນພື້ນທີ່ທີ່ເປັນປະໂຫຍດໂດຍສະເພາະ. ມັນເປັນຫົວຂໍ້ທີ່ຮັດກຸມແລະໂຄງສ້າງສໍາລັບການລາຍງານແລະການວິເຄາະທີ່ງ່າຍດາຍ. ຕົວຢ່າງ, ຮ້ານຄ້າຂໍ້ມູນການຂາຍຈະມີຂໍ້ມູນທີ່ກ່ຽວຂ້ອງກັບທຸລະກໍາການຂາຍ, ລູກຄ້າແລະຜະລິດຕະພັນທີ່ຂາຍເທົ່ານັ້ນ. ການຕັ້ງຄ່າ data mart ສາມາດເຮັດໄດ້ລາຄາຖືກກວ່າແລະໄວກວ່າການສ້າງສາງຂໍ້ມູນເຕັມທີ່, ເຮັດໃຫ້ມັນມີຄວາມຫນ້າສົນໃຈກັບພະແນກສະເພາະທີ່ຕ້ອງການປັບປຸງການວິເຄາະຂໍ້ມູນຂອງພວກເຂົາໂດຍບໍ່ຕ້ອງລໍຖ້າການແກ້ໄຂວິສາຫະກິດໃນຂະຫນາດໃຫຍ່. ຂໍ້ດີຂອງ Datamart ຂໍ້ໄດ້ປຽບຕົ້ນຕໍຂອງການປະຕິບັດ a datamart ລວມມີ: ປະເພດຂອງ Data Mart ມີຫຼາຍວິທີທີ່ຈະຈັດປະເພດຂໍ້ມູນ marts, ແຕ່ພວກມັນມັກຈະແບ່ງອອກເປັນສາມປະເພດຕົ້ນຕໍໂດຍອີງໃສ່ວິທີການຊອກຫາຂໍ້ມູນຂອງພວກເຂົາ: ການປຽບທຽບລະຫວ່າງ Datamart ແລະ [&hellip;]"
 date: "2024-03-09T12:16:49"
-featuredImage: "/images/blog/Quest-ce-quun-Datamart-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-3.png"
 categories: ["%e0%ba%84%e0%ba%ad%e0%ba%a1%e0%ba%9e%e0%ba%b4%e0%ba%a7%e0%bb%80%e0%ba%95%e0%ba%b5%e0%bb%81%e0%ba%a5%e0%ba%b0%e0%ba%82%e0%bb%8d%e0%bb%89%e0%ba%a1%e0%ba%b9", "%e0%bb%80%e0%ba%95%e0%ba%b1%e0%ba%81%e0%bb%82%e0%ba%99%e0%bb%82%e0%ba%a5%e0%ba%8a%e0%ba%b5-%e0%bb%81%e0%ba%a5%e0%ba%b0%e0%ba%94%e0%ba%b4%e0%ba%88%e0%ba%b4%e0%ba%95%e0%ba%ad%e0%ba%a5-lo"]
 ---
 
@@ -103,7 +103,7 @@ categories: ["%e0%ba%84%e0%ba%ad%e0%ba%a1%e0%ba%9e%e0%ba%b4%e0%ba%a7%e0%bb%80%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-.png" alt="" class="wp-image-1147" srcset="/images/blog/Quest-ce-quun-Datamart-.png 1792w, /images/blog/Quest-ce-quun-Datamart--300x171.png 300w, /images/blog/Quest-ce-quun-Datamart--1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart--150x86.png 150w, /images/blog/Quest-ce-quun-Datamart--768x439.png 768w, /images/blog/Quest-ce-quun-Datamart--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-.png" alt="" class="wp-image-1147" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-.png 1792w, /images/blog/Quest-ce-quun-Datamart--300x171.png 300w, /images/blog/Quest-ce-quun-Datamart--1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart--150x86.png 150w, /images/blog/Quest-ce-quun-Datamart--768x439.png 768w, /images/blog/Quest-ce-quun-Datamart--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -173,7 +173,7 @@ categories: ["%e0%ba%84%e0%ba%ad%e0%ba%a1%e0%ba%9e%e0%ba%b4%e0%ba%a7%e0%bb%80%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-1-1.png" alt="" class="wp-image-1148" srcset="/images/blog/Quest-ce-quun-Datamart-1-1.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-1-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-1-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-1-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-1.png" alt="" class="wp-image-1148" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-1.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-1-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-1-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-1-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-1-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ categories: ["%e0%ba%84%e0%ba%ad%e0%ba%a1%e0%ba%9e%e0%ba%b4%e0%ba%a7%e0%bb%80%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-quun-Datamart-1-2.png" alt="" class="wp-image-1149" srcset="/images/blog/Quest-ce-quun-Datamart-1-2.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-2-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-2-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-2-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-2.png" alt="" class="wp-image-1149" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-2.png 1792w, /images/blog/Quest-ce-quun-Datamart-1-2-300x171.png 300w, /images/blog/Quest-ce-quun-Datamart-1-2-1024x585.png 1024w, /images/blog/Quest-ce-quun-Datamart-1-2-150x86.png 150w, /images/blog/Quest-ce-quun-Datamart-1-2-768x439.png 768w, /images/blog/Quest-ce-quun-Datamart-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

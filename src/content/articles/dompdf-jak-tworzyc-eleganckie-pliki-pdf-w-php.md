@@ -3,7 +3,7 @@ title: "Dompdf: Jak tworzyć eleganckie pliki PDF w PHP?"
 slug: "dompdf-jak-tworzyc-eleganckie-pliki-pdf-w-php"
 excerpt: "Wprowadzenie do Dompdf Dompdf to biblioteka PHP, która umożliwia generowanie plików PDF z zawartości HTML. Rozwiązanie to jest bardzo przydatne przy generowaniu raportów, faktur czy innych dokumentów w formacie PDF. W tym artykule odkryjemy podstawowe funkcje Dompdf i nauczymy się go używać do tworzenia eleganckich i funkcjonalnych plików PDF. Warunki wstępne Przed zainstalowaniem Dompdf upewnij [&hellip;]"
 date: "2024-03-09T12:42:35"
-featuredImage: "/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 ---
 

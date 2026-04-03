@@ -3,7 +3,7 @@ title: "ChatGPT: hvordan løser jeg feil? Komplett guide"
 slug: "chatgpt-hvordan-loser-jeg-feil-komplett-guide"
 excerpt: "Forstå og løs vanlige ChatGPT-feil Kunstig intelligens fortsetter å gjøre enorme fremskritt i utvikling og forbedring, men den er langt fra perfekt. Dermed har vi sett noen ganger uakseptable feil oppstå, som administrerende direktør i Google ikke unnlate å gjenkjenne. Enten når det gjelder informasjonsbehandling, innholdsgenerering eller til og med når en dommer avsier dom [&hellip;]"
 date: "2024-03-09T11:51:20"
-featuredImage: "/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["ai-applikasjoner-nb"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["ai-applikasjoner-nb"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="Oppdag den komplette veiledningen for å løse feil med chatgpt, den ideelle løsningen for å overvinne vanskelighetene som oppstår." class="wp-image-14740" srcset="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="Oppdag den komplette veiledningen for å løse feil med chatgpt, den ideelle løsningen for å overvinne vanskelighetene som oppstår." class="wp-image-14740" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

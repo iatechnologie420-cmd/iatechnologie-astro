@@ -3,7 +3,7 @@ title: "MAAT: kunsti, arhitektuuri ja tehnoloogia segu?"
 slug: "maat-kunsti-arhitektuuri-ja-tehnoloogia-segu"
 excerpt: "MAATi lugu: segu kunstist ja arhitektuurist MAAT, kunsti-, arhitektuuri- ja tehnoloogiamuuseumi akronüüm, on sümboolne koht, mis annab tunnistust kunsti, arhitektuuri ja tehnoloogia sulandumisest. See asub Lissabonis Tejo jõe kaldal ja kehastab suurepäraselt esteetika ja innovatsiooni harmoonilist abielu. Käesolevas artiklis süveneme MAATi põnevasse ajalukku ja uurime, kuidas sellest sai kaasaegse kunsti maailma viide. MAATi julge arhitektuur [&hellip;]"
 date: "2024-03-09T12:26:54"
-featuredImage: "/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
 categories: ["murrangulised-ja-esilekerkivad-uuendused-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 

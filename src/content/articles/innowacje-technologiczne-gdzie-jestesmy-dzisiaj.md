@@ -3,7 +3,7 @@ title: "Innowacje technologiczne: gdzie jesteśmy dzisiaj?"
 slug: "innowacje-technologiczne-gdzie-jestesmy-dzisiaj"
 excerpt: "Najnowsze osiągnięcia technologiczne Najnowsze osiągnięcia technologiczne Najnowsze osiągnięcia technologiczne radykalnie zmieniły sposób, w jaki żyjemy, pracujemy i komunikujemy się. Regularnie pojawiają się nowe technologie, które popychają nasze społeczeństwo w stronę coraz bardziej połączonej i innowacyjnej przyszłości. W tym artykule omówimy niektóre z najnowszych, przełomowych osiągnięć technologicznych w różnych obszarach. 1. Sztuczna inteligencja (AI) Sztuczna inteligencja [&hellip;]"
 date: "2024-03-09T12:44:54"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["technologia-i-cyfrowosc-pl"]
 ---
 

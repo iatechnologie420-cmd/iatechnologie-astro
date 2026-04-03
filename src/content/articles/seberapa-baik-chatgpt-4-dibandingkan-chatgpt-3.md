@@ -3,7 +3,7 @@ title: "Seberapa baik ChatGPT-4 dibandingkan ChatGPT-3?"
 slug: "seberapa-baik-chatgpt-4-dibandingkan-chatgpt-3"
 excerpt: "Kebangkitan teknologikecerdasan buatan terus mentransformasi lanskap digital dengan menawarkan alat yang semakin canggih. Di era baru ini, versi-versi berturut-turut ObrolanGPT dari OpenAI menggambarkan dengan sempurna kemajuan ini. Meskipun ChatGPT-3 telah menandai titik balik, versi terbarunya, ChatGPT-4, mendobrak batasan dari apa yang pemrosesan bahasa alami (NLP) bisa melakukannya. Mari kita lihat peningkatan penting pada versi terbaru [&hellip;]"
 date: "2024-03-09T12:50:13"
-featuredImage: "/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-3.png"
 categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png" alt="" class="wp-image-1736" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png" alt="" class="wp-image-1736" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -137,7 +137,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png" alt="" class="wp-image-1737" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png" alt="" class="wp-image-1737" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -193,7 +193,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png" alt="" class="wp-image-1738" srcset="/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png" alt="" class="wp-image-1738" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2.png 1792w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-300x171.png 300w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1024x585.png 1024w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-150x86.png 150w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-768x439.png 768w, /images/blog/A-quel-point-ChatGPT-4-est-il-meilleur-que-ChatGPT-3-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Median Technologies på aksjemarkedet: en reell mulighet?"
 slug: "median-technologies-pa-aksjemarkedet-en-reell-mulighet"
 excerpt: "Hva er Median Technologies? Median Technologies er et teknologiselskap som spesialiserer seg på medisinsk bildebehandling og bildeanalyseløsninger for kliniske studier. Selskapet ble grunnlagt i 2002, og har raskt etablert seg som en global leder innen sitt felt, og tilbyr innovative løsninger for tolkning og analyse av medisinske bilder. Median Technologies produkter og tjenester Median teknologier [&hellip;]"
 date: "2024-03-09T12:30:50"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["teknologi-og-digitalt-nb"]
 ---
 

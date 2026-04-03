@@ -3,7 +3,7 @@ title: "Mis on dataviz? Definitsioon, olulised tööriistad"
 slug: "mis-on-dataviz-definitsioon-olulised-tooriistad"
 excerpt: "Datavizi mõistmine: andmete visualiseerimine Tänapäeval, kui iga sekund genereeritakse tohutult palju andmeid, on oluline teada, kuidas seda teavet selgelt ja tõhusalt esitada. See on koht, kus andmete visualiseerimine, Or dataviz, distsiplinaarvaldkond, mis ühendab disaini, narratiivi ja statistilise analüüsi, et muuta keerulised andmed intuitiivseteks visuaalseteks esitusviisideks. Datavizi eesmärgid Datavizi peamine eesmärk on muuta andmed kättesaadavaks kõigile, [&hellip;]"
 date: "2024-03-09T11:55:50"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["arvutustehnika-ja-andmed-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

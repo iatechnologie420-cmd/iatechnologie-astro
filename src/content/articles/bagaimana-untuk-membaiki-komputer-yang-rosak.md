@@ -3,7 +3,7 @@ title: "Bagaimana untuk membaiki komputer yang rosak?"
 slug: "bagaimana-untuk-membaiki-komputer-yang-rosak"
 excerpt: "Mendiagnosis kerosakan komputer anda Menghadapi masalah komputer kadangkala boleh bertukar menjadi sakit kepala yang sebenar. Komputer ialah sebatian teknologi yang kompleks, dan apabila sesuatu tidak berfungsi seperti yang diharapkan, selalunya terdapat pelbagai sebab yang mungkin. Dalam artikel ini, kami menawarkan panduan praktikal untuk membantu anda mengenal pasti masalah dan mencari penyelesaian yang mungkin untuk mendiagnosis [&hellip;]"
 date: "2024-03-09T12:07:18"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["teknologi-dan-digital-ms"]
 ---
 

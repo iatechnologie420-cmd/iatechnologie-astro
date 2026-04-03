@@ -3,7 +3,7 @@ title: "Artık yapay zekaya yatırım yapmalı mıyız?"
 slug: "artik-yapay-zekaya-yatirim-yapmali-miyiz"
 excerpt: "Şimdi yapay zekaya yatırım yapmanın zamanı gelip gelmediğine evet veya hayır şeklinde yanıt vermeden önce, işleri bağlamına oturtmak ve düşünceli bir karar vermek için yapay zekanın geçmişini gözden geçirelim. Yapay zekanın evrimi Geleneksel Yapay Zeka &#8220;Zayıf yapay zeka&#8221; olarak da bilinen geleneksel yapay zekanın başlangıcı 1950&#8217;lerde yapıldı. O dönemde araştırmacılar ağırlıklı olarak algoritmalar ve bilgisayar [&hellip;]"
 date: "2024-03-09T12:45:30"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["yapay-zeka-uygulamalari-tr"]
 ---
 

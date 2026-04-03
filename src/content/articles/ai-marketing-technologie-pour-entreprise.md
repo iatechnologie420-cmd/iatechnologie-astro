@@ -3,7 +3,7 @@ title: "AI Marketing : la technologie au profit des entreprises ?"
 slug: "ai-marketing-technologie-pour-entreprise"
 excerpt: "L&#8217;intelligence artificielle (IA) émerge progressivement comme une force transformative pour le marketing. Réinventer le marketing avec l&#8217;IA, comprendre ses implications pour le marketing de marques, et potentiel d&#8217;interaction économisent du temps, augmentent l&#8217;efficacité et ouvrent la voie à de nouvelles méthodes d&#8217;engagement du consommateur. Cet essor marque le passage du marketing traditionnel vers un marketing [&hellip;]"
 date: "2024-03-06T11:42:00"
-featuredImage: "/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
 categories: ["applications-de-l-ia-fr"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="découvrez comment l'ia impacte positivement la stratégie marketing des entreprises. décryptage de l'utilisation de la technologie pour booster les performances commerciales." class="wp-image-14756" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="découvrez comment l'ia impacte positivement la stratégie marketing des entreprises. décryptage de l'utilisation de la technologie pour booster les performances commerciales." class="wp-image-14756" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -101,7 +101,7 @@ categories: ["applications-de-l-ia-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="découvrez comment l'ia au service du marketing peut transformer les entreprises et booster leur croissance. comment la technologie peut être un atout pour les stratégies marketing ?" class="wp-image-14757" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="découvrez comment l'ia au service du marketing peut transformer les entreprises et booster leur croissance. comment la technologie peut être un atout pour les stratégies marketing ?" class="wp-image-14757" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Recenzie Segway Navimow: Cositoarea autonomă a viitorului?"
 slug: "recenzie-segway-navimow-cositoarea-autonoma-a-viitorului"
 excerpt: "Avantajele cositoarei autonome Segway Navimow Imaginați-vă că vă puteți bucura pe deplin de grădina dvs. fără să vă faceți griji cu privire la corvoada de a tunde gazonul. Datorită mașinii de tuns iarba autonomă Segway Navimow, această sarcină plictisitoare este acum de domeniul trecutului. Dotat cu funcții inovatoare și tehnologie avansată, această mașină de tuns [&hellip;]"
 date: "2024-03-09T12:37:13"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["tehnologie-si-digital-ro", "tehnologii-purtabile-si-iot-ro"]
 ---
 

@@ -3,7 +3,7 @@ title: "In che modo la tecnologia della scienza comportamentale può migliorare 
 slug: "in-che-modo-la-tecnologia-della-scienza-comportamentale-puo-migliorare-la-nostra-vita-quotidiana"
 excerpt: "L’impatto della tecnologia nelle scienze comportamentali La tecnologia ha influenzato in modo significativo molti campi, comprese le scienze comportamentali. Grazie ai progressi tecnologici, i ricercatori hanno accesso a strumenti e metodi che consentono loro di comprendere e analizzare meglio il comportamento umano. In questo articolo esploreremo i diversi aspetti dell’impatto della tecnologia nelle scienze comportamentali [&hellip;]"
 date: "2024-03-09T12:43:23"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["tecnologia-e-digitale-it"]
 ---
 

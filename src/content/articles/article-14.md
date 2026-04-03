@@ -3,7 +3,7 @@ title: "ټیکنالوژیک ناورین: ډیجیټل انقلاب په یوه
 slug: "article-14"
 excerpt: "زموږ په ټولنه کې د ډیجیټل انقلاب اغیز ډیجیټل انقلاب چې زموږ د وخت ځانګړتیاوي زموږ د ټولنې ډیری اړخونه ګډوډ کړي. ډیجیټل ټیکنالوژیو او انټرنیټ ته لاسرسی هغه طریقه بدله کړې چې موږ یې خبرې کوو، کار کوو، مصرف کوو او حتی ژوند کوو. دا مقاله زموږ په ورځني ژوند کې د دې انقلاب [&hellip;]"
 date: "2024-03-09T12:31:42"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%d8%b4%d9%86%d9%87-%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%d8%b3%d9%85%d8%a7%d8%b1%d9%bc-%da%9a%d8%a7%d8%b1%d9%88%d9%86%d9%87-ps"]
 ---
 

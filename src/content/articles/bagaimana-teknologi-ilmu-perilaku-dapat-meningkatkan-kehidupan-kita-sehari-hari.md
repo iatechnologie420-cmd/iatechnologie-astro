@@ -3,7 +3,7 @@ title: "Bagaimana teknologi ilmu perilaku dapat meningkatkan kehidupan kita seha
 slug: "bagaimana-teknologi-ilmu-perilaku-dapat-meningkatkan-kehidupan-kita-sehari-hari"
 excerpt: "Dampak teknologi dalam ilmu perilaku Teknologi telah mempengaruhi banyak bidang secara signifikan, termasuk ilmu perilaku. Berkat kemajuan teknologi, para peneliti memiliki akses terhadap alat dan metode yang memungkinkan mereka untuk lebih memahami dan menganalisis perilaku manusia. Dalam artikel ini, kita akan mengeksplorasi berbagai aspek dampak teknologi dalam ilmu perilaku dan bagaimana teknologi dapat meningkatkan kehidupan [&hellip;]"
 date: "2024-03-09T12:42:57"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["teknologi-dan-digital-id"]
 ---
 

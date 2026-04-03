@@ -3,7 +3,7 @@ title: "¿Cómo reparar una computadora rota?"
 slug: "como-reparar-una-computadora-rota"
 excerpt: "Diagnóstico de averías de tu ordenador Encontrarse con un problema informático a veces puede convertirse en un verdadero dolor de cabeza. El ordenador es un compuesto tecnológico complejo, y cuando algo no funciona como se espera, suele haber multitud de posibles motivos. En este artículo te ofrecemos una guía práctica para ayudarte a identificar el [&hellip;]"
 date: "2024-03-09T12:06:05"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["tecnologia-y-digital-es"]
 ---
 

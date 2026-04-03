@@ -3,7 +3,7 @@ title: "GPT-5: bildiğimiz her şey"
 slug: "gpt-5-bildigimiz-her-sey"
 excerpt: "Yapay zekanın evrimi: GPT-3&#8217;ten GPT-5&#8217;e Meteorik ilerlemeüretken yapay zeka teknolojik manzara tam da şu anda bu fenomen tarafından yönlendiriliyor SohbetGPT. GPT-3&#8217;ten başlayarak GPT-4&#8217;ü beklerken GPT-3.5&#8217;in ara versiyonu geliştirildi. OpenAI. Ancak gerçek devrim, şimdiye kadar var olan her şeyden daha akıllı olacağı vaat edilen GPT-5&#8217;in geleceği beklentisiyle hazırlanıyor. ChatGPT: Gelişmiş bir konuşma aracısı SohbetGPTBugün bir araç [&hellip;]"
 date: "2024-03-09T11:52:07"
-featuredImage: "/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
 categories: ["yapay-zeka-uygulamalari-tr"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["yapay-zeka-uygulamalari-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="Devrim niteliğindeki yeni doğal dil işleme aracı GPT-5 hakkında bildiğimiz her şeyi öğrenin." class="wp-image-14752" srcset="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="Devrim niteliğindeki yeni doğal dil işleme aracı GPT-5 hakkında bildiğimiz her şeyi öğrenin." class="wp-image-14752" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

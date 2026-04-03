@@ -3,7 +3,7 @@ title: "Tehnologia offshore adâncă: viitorul explorării subacvatice?"
 slug: "tehnologia-offshore-adanca-viitorul-explorarii-subacvatice"
 excerpt: "Ce este tehnologia deep offshore? Tehnologia de mare adâncime, cunoscută și ca tehnologie de foraj în ape adânci, este o disciplină care își propune să exploreze și să exploateze resursele prezente în fundul mării, la adâncimi cuprinse între 500 și câteva mii de metri. Această tehnologie deschide noi posibilități de explorare și exploatare a rezervelor [&hellip;]"
 date: "2024-03-09T12:33:54"
-featuredImage: "/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
 categories: ["tehnologie-si-digital-ro", "tehnologie-verde-si-orase-inteligente-ro"]
 ---
 

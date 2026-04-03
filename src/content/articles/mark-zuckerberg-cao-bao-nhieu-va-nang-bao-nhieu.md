@@ -3,7 +3,7 @@ title: "Mark Zuckerberg cao bao nhiêu và nặng bao nhiêu?"
 slug: "mark-zuckerberg-cao-bao-nhieu-va-nang-bao-nhieu"
 excerpt: "Chiều cao của Mark Zuckerberg: Huyền thoại hay Hiện thực? Những tranh cãi xung quanh kích thước của anh ấy Trong nhiều năm, câu hỏi về chiều cao của Mark Zuckerberg, người sáng lập Facebook, là chủ đề của nhiều đồn đoán và tranh luận. Một số người cho rằng nó nhỏ hơn vẻ ngoài [&hellip;]"
 date: "2024-03-09T12:39:07"
-featuredImage: "/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi"]
 ---
 

@@ -3,7 +3,7 @@ title: "Median Technologies op de aandelenmarkt: een echte kans?"
 slug: "median-technologies-op-de-aandelenmarkt-een-echte-kans"
 excerpt: "Wat zijn mediane technologieën? Median Technologies is een technologiebedrijf dat gespecialiseerd is in oplossingen voor medische beeldvorming en beeldanalyse voor klinische onderzoeken. Het bedrijf, opgericht in 2002, heeft zich snel gevestigd als een wereldleider in zijn vakgebied en biedt innovatieve oplossingen voor de interpretatie en analyse van medische beelden. Median Technologies-producten en -diensten Mediane technologieën [&hellip;]"
 date: "2024-03-09T12:31:02"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["technologie-en-digitaal-nl"]
 ---
 

@@ -3,7 +3,7 @@ title: "Hvernig getur atferlisvísindatækni bætt daglegt líf okkar?"
 slug: "hvernig-getur-atferlisvisindataekni-baett-daglegt-lif-okkar"
 excerpt: "Áhrif tækni í atferlisvísindum Tæknin hefur haft veruleg áhrif á mörg svið, þar á meðal atferlisvísindi. Þökk sé tækniframförum hafa vísindamenn aðgang að verkfærum og aðferðum sem gera þeim kleift að skilja og greina mannlega hegðun betur. Í þessari grein munum við kanna mismunandi þætti áhrifa tækni í atferlisvísindum og hvernig hún getur bætt daglegt [&hellip;]"
 date: "2024-03-09T12:43:10"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["taekni-og-stafraen-is"]
 ---
 

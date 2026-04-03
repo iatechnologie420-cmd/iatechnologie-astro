@@ -3,7 +3,7 @@ title: "Tehnoloogiline katastroof: digirevolutsioon on muutumas õudusunenäoks?
 slug: "tehnoloogiline-katastroof-digirevolutsioon-on-muutumas-oudusunenaoks"
 excerpt: "Digipöörde mõju meie ühiskonnale Meie aega iseloomustav digipööre on seganud paljusid meie ühiskonna tahke. Digitehnoloogiad ja juurdepääs Internetile on muutnud meie suhtlemis-, töö-, tarbimis- ja isegi eluviisi. See artikkel uurib selle revolutsiooni tagajärgi meie igapäevaelule ja toob esile olulised probleemid, millega peame silmitsi seisma. Digirevolutsiooni tagajärjed 1. SuhtlemineDigirevolutsioon on radikaalselt muutnud meie suhtlemisviisi. Sotsiaalmeedia, kiirsuhtlusrakendused [&hellip;]"
 date: "2024-03-09T12:28:44"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["roheline-tehnoloogia-ja-targad-linnad-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 

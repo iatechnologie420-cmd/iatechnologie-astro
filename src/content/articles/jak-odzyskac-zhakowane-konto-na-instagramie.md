@@ -3,7 +3,7 @@ title: "Jak odzyskać zhakowane konto na Instagramie?"
 slug: "jak-odzyskac-zhakowane-konto-na-instagramie"
 excerpt: "Identyfikacja przejętego konta na Instagramie Wraz ze stałym wzrostem liczby użytkowników na platformach społecznościowych takich jak Instagramawzrosło ryzyko włamań na konta. Dowiedz się, jak sprawdzić, czy Twoje konto Instagrama zostało naruszone, jest niezbędne, aby móc działać szybko i skutecznie. W tym artykule dowiemy się o sygnałach ostrzegawczych związanych z przejętym kontem oraz o krokach, jakie [&hellip;]"
 date: "2024-03-09T12:02:12"
-featuredImage: "/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-3.png"
 categories: ["media-i-platformy-cyfrowe-pl"]
 ---
 
@@ -139,7 +139,7 @@ categories: ["media-i-platformy-cyfrowe-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png" alt="" class="wp-image-1624" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png" alt="" class="wp-image-1624" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -257,7 +257,7 @@ categories: ["media-i-platformy-cyfrowe-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png" alt="" class="wp-image-1625" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png" alt="" class="wp-image-1625" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -349,6 +349,6 @@ categories: ["media-i-platformy-cyfrowe-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png" alt="" class="wp-image-1626" srcset="/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png" alt="" class="wp-image-1626" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2.png 1792w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-300x171.png 300w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1024x585.png 1024w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-150x86.png 150w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-768x439.png 768w, /images/blog/Comment-recuperer-un-compte-Instagram-pirate-1-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 

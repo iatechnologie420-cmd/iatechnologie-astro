@@ -3,7 +3,7 @@ title: "Scopri le professioni dei Dati e dell&#8217;Intelligenza Artificiale"
 slug: "scopri-le-professioni-dei-dati-e-dellintelligenza-artificiale"
 excerpt: "Introduzione alle professioni dei dati e dell&#8217;intelligenza artificiale L’aumento dei dati e dell’intelligenza artificiale (AI) ha dato origine a un’abbondanza di professioni innovative e varie. Al centro della rivoluzione digitale, queste specializzazioni sono diventate essenziali per le aziende che cercano di sfruttare il potenziale offerto dai dati e dall’automazione intelligente. Comprendere le professioni dei dati [&hellip;]"
 date: "2024-03-09T12:53:18"
-featuredImage: "/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
 categories: ["informatica-e-dati-it"]
 ---
 
@@ -109,7 +109,7 @@ categories: ["informatica-e-dati-it"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -153,7 +153,7 @@ categories: ["informatica-e-dati-it"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -301,7 +301,7 @@ categories: ["informatica-e-dati-it"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

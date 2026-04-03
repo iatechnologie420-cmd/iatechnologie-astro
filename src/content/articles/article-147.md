@@ -3,7 +3,7 @@ title: "デジタルワークスペース/拡張作品とは何ですか?"
 slug: "article-147"
 excerpt: "デジタルワークスペースとは何ですか? 用語 デジタルワークスペース、 または デジタルワークスペース、デジタルテクノロジーのおかげで物理的な障壁がなくなった作業環境を定義します。これには一連のツールとテクノロジーが統合されており、ユーザーが物理的な場所に関係なく接続し、共同作業し、専門的なタスクを実行できるようになります。 この記事では、デジタル ワークスペースの重要な柱と、それらが現代の組織内の生産性とコラボレーションの向上にどのように貢献するかについて説明します。 デジタル ワークスペースは、最適なユーザー エクスペリエンス、IT リソースのより適切な管理、および高レベルのセキュリティを提供するためのいくつかの柱に基づいています。知っておくべき基本事項は次のとおりです。 アクセシビリティと柔軟性 デジタル ワークスペースには、いつでも、どこからでも、どのデバイスからでもアクセスできる必要があります。このアクセシビリティにより、 柔軟性 オフィス、自宅、移動中、または社外任務中であっても働くことができる従業員の場合は増加します。アプリケーションの存在 雲、ワークステーションの仮想化とモバイル端末の使用は、この柔軟性の中心的な側面です。 コラボレーションとコミュニケーション コラボレーションおよびコミュニケーション ツールは、効果的なデジタル ワークスペースの中心です。情報やドキュメントの簡単な交換、インタラクティブな仮想会議、リアルタイムのプロジェクト管理を可能にする必要があります。などのプラットフォーム マイクロソフトチーム または スラック この協力的な力関係において重要な役割を果たします。 セキュリティとコンプライアンス 非物質化された環境を確保することは大きな懸念事項です。デジタル ワークスペースは、データ保護と GDPR などの現在の規制への準拠を確保する必要があります。の解決策 エンドポイントセキュリティ、 そこには ID とアクセスの管理 (IAM) と データ暗号化 は重要なセキュリティ対策の例です。 統合と管理 最適な管理を実現するには、デジタル ワークスペースが既存の IT インフラストラクチャおよびさまざまなビジネス アプリケーションと統合できる必要があります。これには、すべての IT リソースを調整し、単一のインターフェイスと自動化を通じて IT チームの管理を簡素化できるプラットフォームが必要です。 デジタル ワークスペースが生産性とコラボレーションに与える影響 生産性への影響 デジタル ワークスペースには、従業員の生産性にプラスの影響を与えるいくつかの利点があります。 コラボレーションの再発明 デジタル [&hellip;]"
 date: "2024-03-09T12:23:52"
-featuredImage: "/images/blog/Digital-workspace-le-travail-augmente-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-3.png"
 categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%81%e3%83%a3%e3%81%a8%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af-ja", "%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a8%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-ja"]
 ---
 
@@ -71,7 +71,7 @@ categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente.png" alt="" class="wp-image-1038" srcset="/images/blog/Digital-workspace-le-travail-augmente.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente.png" alt="" class="wp-image-1038" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente-1.png" alt="" class="wp-image-1039" srcset="/images/blog/Digital-workspace-le-travail-augmente-1.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-1-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-1-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-1-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-1.png" alt="" class="wp-image-1039" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-1.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-1-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-1-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-1-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -209,6 +209,6 @@ categories: ["%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente-2.png" alt="" class="wp-image-1040" srcset="/images/blog/Digital-workspace-le-travail-augmente-2.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-2-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-2-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-2-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-2-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-2.png" alt="" class="wp-image-1040" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-2.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-2-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-2-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-2-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-2-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 

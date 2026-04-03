@@ -3,7 +3,7 @@ title: "MidJourney：关于有争议的人工智能你需要了解的一切"
 slug: "midjourney-3"
 excerpt: "了解中途 MidJourney 是强大的人工智能，改变了我们与技术交互的方式。使用本指南作为资源来了解其起源和关键功能。 什么是中途旅行？ MidJourney是一个工具 人工智能 前卫的设计旨在改善和促进我们与新技术的日常互动。它是不断发展的人工智能应用领域的一部分，包括其他著名的工具，如 Lensa 和 ChatGPT，它们正迅速成为我们生活中不可或缺的一部分。 中途旅程的起源 与许多人工智能工具一样，MidJourney 的起源在于努力 模拟人类智能。目标是不仅能够使用计算来解决复杂的问题，而且能够使机器像人类一样理解和响应其环境。深度学习的进步是实现这一目标的关键。 旅程中的主要特点 MidJourney 的显着特征之一是它能够根据环境和用户请求调整其行为。这意味着它能够理解不同的情况并做出适当的反应，展现出一种以前在生成人工智能中未曾见过的灵活性。它是人工智能图像生成领域的先驱。 此外，MidJourney 还表现出了令人难以置信的创造能力。例如，它被用来生成基于法国、印度和希腊等18个不同国家的超级英雄。这是人工智能如何改变我们的世界以及这一特定工具的力量的令人印象深刻的展示。 MidJourney 的潜力 MidJourney 只是人工智能所提供的潜力的沧海一粟。我们已经看到它改变了我们庆祝圣诞节等节日传统的方式。 2023 年，人工智能在五个不同的国家重塑了圣诞老人。 随着技术的不断进步，我们应该期望看到 MidJourney 和其他人工智能工具在我们的生活中发挥越来越重要的作用。 AI 大声疾呼：为什么 MidJourney 会引起争论 人工智能的阴暗面：操纵及其影响 虽然人工智能有潜力提供前所未有的创新，但它也带来了巨大的风险。 MidJourney 等强大的算法能够根据文本描述生成图像，但它一直引起争议是有原因的。令人关注的领域之一是信息的操纵和 假新闻。我们已经看到了这个问题的明显例子，比如巴黎示威期间一名男子被警察拖拽的图像，该图像是由人工智能从头开始创建的。 这种情况越来越难以区分真假，可能对我们的社会，特别是政治和民主方面产生严重后果。 人工智能与文化：钦佩与沮丧之间 人工智能也开始在文化艺术领域掀起波澜。无论是完全由人工智能制作并在尼康电影节上夺冠的短片《想象》，还是人工智能创作的艺术作品并在不利于人类艺术家的竞赛中获胜，人工智能的地位都在持续增长。 强调视觉艺术数字化趋势的另一个例子是法国歌手 Jul 的专辑封面，其令人不安的细节震惊了一些粉丝。 人工智能在政治中的应用：一个雷区 在政治领域，人工智能的使用并非没有受到批评。 OpenAI 的文字处理人工智能 ChatGPT 在法国国民议会迈出了第一步，引发了关于人工智能时代民主未来的激烈辩论。人工智能的地缘政治是另一个关键问题，全球大国都在争夺对这些新技术的控制权。 媒体的角色：人工智能的学徒魔法师？ 此外，我们必须质疑媒体在人工智能的使用和传播中的作用。例如，内衣品牌Undiz利用人工智能开展的广告活动因其可能具有非人性化效果而引发争议。本着同样的精神，MidJourney 在因其人工智能生成的表现而引发争议后，由于道德问题而不得不暂停其免费试用（但最重要的是出于生成成本的原因，我们不要天真） MidJourney的实际应用：创新与争议之间 MidJourney：人工智能创造的创新 MidJourney [&hellip;]"
 date: "2024-03-09T11:52:38"
-featuredImage: "/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
 categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8-zh-tw"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8-zh-tw"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="在旅途中发现您需要了解的有关革命性人工智能的一切，这是令人震惊的源泉。" class="wp-image-14773" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="在旅途中发现您需要了解的有关革命性人工智能的一切，这是令人震惊的源泉。" class="wp-image-14773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -105,7 +105,7 @@ categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8-zh-tw"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="通过参考平台 midjourney 发现您需要了解的有关人工智能的一切信息。" class="wp-image-14774" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="通过参考平台 midjourney 发现您需要了解的有关人工智能的一切信息。" class="wp-image-14774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

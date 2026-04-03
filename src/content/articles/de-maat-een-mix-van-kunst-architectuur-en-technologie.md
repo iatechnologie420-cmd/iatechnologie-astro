@@ -3,7 +3,7 @@ title: "De MAAT: een mix van kunst, architectuur en technologie?"
 slug: "de-maat-een-mix-van-kunst-architectuur-en-technologie"
 excerpt: "Het verhaal van de MAAT: een mix van kunst en architectuur De MAAT, acroniem voor Museum of Art, Architecture and Technologies, is een emblematische plek die getuigt van de fusie tussen kunst, architectuur en technologie. Gelegen aan de oevers van de Taag in Lissabon, belichaamt het perfect het harmonieuze huwelijk tussen esthetiek en innovatie. In [&hellip;]"
 date: "2024-03-09T12:28:51"
-featuredImage: "/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
 categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-nl"]
 ---
 

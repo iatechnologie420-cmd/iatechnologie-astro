@@ -3,7 +3,7 @@ title: "Alan Turing et la naissance de l&#8217;intelligence artificielle"
 slug: "alan-turing-histoire-ia"
 excerpt: "Alan Turing : Père fondateur de l&#8217;intelligence artificielle Alan Turing : Père fondateur de l&#8217;intelligence artificielleL&#8217;histoire de l&#8217;intelligence artificielle (IA) ne pourrait être complètement narrée sans mentionner le nom d&#8217;Alan Turing, considéré par beaucoup comme le père fondateur de ce domaine qui révolutionne aujourd&#8217;hui tant d&#8217;aspects de notre quotidien. Sa contribution va bien au-delà de [&hellip;]"
 date: "2023-12-16T11:27:51"
-featuredImage: "/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["formation-ia-fondamentaux-fr"]
 ---
 
@@ -85,7 +85,7 @@ categories: ["formation-ia-fondamentaux-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png" alt="" class="wp-image-737" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png" alt="" class="wp-image-737" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ categories: ["formation-ia-fondamentaux-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png" alt="" class="wp-image-738" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png" alt="" class="wp-image-738" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ categories: ["formation-ia-fondamentaux-fr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png" alt="" class="wp-image-739" srcset="/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png" alt="" class="wp-image-739" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2.png 1792w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-300x171.png 300w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1024x585.png 1024w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-150x86.png 150w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-768x439.png 768w, /images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

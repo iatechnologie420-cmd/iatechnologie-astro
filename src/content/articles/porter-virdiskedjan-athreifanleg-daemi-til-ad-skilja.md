@@ -3,7 +3,7 @@ title: "PORTER virðiskeðjan | Áþreifanleg dæmi til að skilja"
 slug: "porter-virdiskedjan-athreifanleg-daemi-til-ad-skilja"
 excerpt: "Að skilja Michael Porter virðiskeðjuna Virðiskeðjan er hugtak þróað af bandaríska hagfræðingnum og fræðimanninum Michael Porter í verki sínu &#8220;Competitive Advantage&#8221; sem kom út árið 1985. Þetta líkan er nauðsynlegt til að greina innri starfsemi fyrirtækis til að hámarka skapað verðmæti þess og samkeppnisforskot. Þessi grein gefur þér leiðbeiningar um að skilja og nota virðiskeðju [&hellip;]"
 date: "2024-03-09T12:02:49"
-featuredImage: "/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-3.png"
 categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]
 ---
 
@@ -111,7 +111,7 @@ categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png" alt="" class="wp-image-1197" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png" alt="" class="wp-image-1197" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -191,7 +191,7 @@ categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png" alt="" class="wp-image-1198" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png" alt="" class="wp-image-1198" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png" alt="" class="wp-image-1199" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png" alt="" class="wp-image-1199" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

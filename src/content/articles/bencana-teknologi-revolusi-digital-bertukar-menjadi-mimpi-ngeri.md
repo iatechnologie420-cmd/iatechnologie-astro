@@ -3,7 +3,7 @@ title: "Bencana teknologi: revolusi digital bertukar menjadi mimpi ngeri?"
 slug: "bencana-teknologi-revolusi-digital-bertukar-menjadi-mimpi-ngeri"
 excerpt: "Kesan revolusi digital terhadap masyarakat kita Revolusi digital yang mencirikan zaman kita telah mengganggu banyak aspek masyarakat kita. Teknologi digital dan akses kepada internet telah mengubah cara kita berkomunikasi, bekerja, menggunakan dan juga hidup. Artikel ini meneroka akibat revolusi ini ke atas kehidupan seharian kita dan menyerlahkan isu penting yang mesti kita hadapi. Akibat revolusi [&hellip;]"
 date: "2024-03-09T12:30:51"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["teknologi-dan-digital-ms", "teknologi-hijau-dan-bandar-pintar-ms"]
 ---
 

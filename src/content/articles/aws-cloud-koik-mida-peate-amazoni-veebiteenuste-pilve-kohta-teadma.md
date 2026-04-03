@@ -3,7 +3,7 @@ title: "AWS Cloud – kõik, mida peate Amazoni veebiteenuste pilve kohta teadma
 slug: "aws-cloud-koik-mida-peate-amazoni-veebiteenuste-pilve-kohta-teadma"
 excerpt: "Sissejuhatus Amazoni veebiteenustesse (AWS): revolutsioon pilvandmetöötluses Alates selle loomisest 2006. Amazon Web Services (AWS) on radikaalselt muutnud IT-maastikku, pakkudes pilveteenuste platvormi, mis pakub enneolematut paindlikkust, mastaapi ja mastaabisäästu. Selle sissejuhatuse eesmärk on selgitada selle toimimispõhimõtteidAWS ja selgitada, miks sellest lahendusest on saanud pilvandmetöötluse võtmemängija. Mis on Amazon Web Services (AWS)? AWS on maailma kõige põhjalikum [&hellip;]"
 date: "2024-03-09T12:44:52"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

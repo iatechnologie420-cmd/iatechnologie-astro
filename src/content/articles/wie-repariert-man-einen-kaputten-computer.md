@@ -3,7 +3,7 @@ title: "Wie repariert man einen kaputten Computer?"
 slug: "wie-repariert-man-einen-kaputten-computer"
 excerpt: "Diagnose des Ausfalls Ihres Computers Ein Computerproblem kann manchmal zu echten Kopfschmerzen führen. Der Computer ist ein komplexer technischer Verbund, und wenn etwas nicht wie erwartet funktioniert, gibt es oft eine Vielzahl möglicher Gründe. In diesem Artikel bieten wir Ihnen einen praktischen Leitfaden, der Ihnen hilft, das Problem zu identifizieren und mögliche Lösungen für die [&hellip;]"
 date: "2024-03-09T12:05:52"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["technologie-und-digital-de"]
 ---
 

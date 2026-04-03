@@ -3,7 +3,7 @@ title: "Bagaimana cara memperbaiki komputer yang rusak?"
 slug: "bagaimana-cara-memperbaiki-komputer-yang-rusak"
 excerpt: "Mendiagnosis kerusakan komputer Anda Mengalami masalah komputer terkadang bisa menjadi sangat memusingkan. Komputer adalah senyawa teknologi yang kompleks, dan ketika sesuatu tidak berfungsi sebagaimana diharapkan, sering kali ada banyak kemungkinan penyebabnya. Dalam artikel ini, kami menawarkan panduan praktis untuk membantu Anda mengidentifikasi masalah dan menemukan solusi yang mungkin untuk mendiagnosis kegagalan komputer Anda. Identifikasi tanda-tanda [&hellip;]"
 date: "2024-03-09T12:06:17"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["teknologi-dan-digital-id"]
 ---
 

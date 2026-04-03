@@ -3,7 +3,7 @@ title: "AWS debesis – viskas, ką reikia žinoti apie „Amazon Web Services�
 slug: "aws-debesis-viskas-ka-reikia-zinoti-apie-amazon-web-services-debesi"
 excerpt: "„Amazon Web Services“ (AWS) įvadas: debesų kompiuterijos revoliucija Nuo pat įkūrimo 2006 m. „Amazon Web Services“ (AWS) radikaliai pakeitė IT aplinką, pristatydama debesijos paslaugų platformą, kuri suteikia precedento neturintį lankstumą, masto ir masto ekonomiją. Šiuo įvadu siekiama paaiškinti veikimo principusAWS ir paaiškinti, kodėl šis sprendimas tapo pagrindiniu debesų kompiuterijos žaidėju. Kas yra „Amazon Web Services“ [&hellip;]"
 date: "2024-03-09T12:46:24"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

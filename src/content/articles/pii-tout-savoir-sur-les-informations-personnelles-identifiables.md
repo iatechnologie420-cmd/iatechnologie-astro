@@ -3,7 +3,7 @@ title: "PII : tout savoir sur les informations personnelles identifiables"
 slug: "pii-tout-savoir-sur-les-informations-personnelles-identifiables"
 excerpt: "Comprendre le concept de PII : les informations personnelles identifiables Dans le monde numérique actuel, la protection de vos informations personnelles identifiables ou PII est devenue essentielle. Les Informations personnelles identifiables, couramment connues sous l&#8217;acronyme PII, font référence à tout type d&#8217;information pouvant potentiellement être utilisée pour identifier un individu en particulier. Cela peut inclure [&hellip;]"
 date: "2024-03-20T11:48:58"
-featuredImage: "/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-2.png"
 categories: ["blockchain-et-securite"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["blockchain-et-securite"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables.png" alt="découvrez tout ce qu'il faut savoir sur les informations personnelles identifiables (pii) et comment les protéger dans notre guide complet." class="wp-image-14716" srcset="/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables.png 1792w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-300x171.png 300w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1024x585.png 1024w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-150x86.png 150w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-768x439.png 768w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables.png" alt="découvrez tout ce qu'il faut savoir sur les informations personnelles identifiables (pii) et comment les protéger dans notre guide complet." class="wp-image-14716" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables.png 1792w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-300x171.png 300w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1024x585.png 1024w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-150x86.png 150w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-768x439.png 768w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -99,7 +99,7 @@ categories: ["blockchain-et-securite"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1.png" alt="découvrez tout ce qu'il faut savoir sur les informations personnelles identifiables (pii) dans ce guide complet." class="wp-image-14717" srcset="/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1.png 1792w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-300x171.png 300w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-1024x585.png 1024w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-150x86.png 150w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-768x439.png 768w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1.png" alt="découvrez tout ce qu'il faut savoir sur les informations personnelles identifiables (pii) dans ce guide complet." class="wp-image-14717" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1.png 1792w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-300x171.png 300w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-1024x585.png 1024w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-150x86.png 150w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-768x439.png 768w, /images/blog/PII-tout-savoir-sur-les-informations-personnelles-identifiables-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

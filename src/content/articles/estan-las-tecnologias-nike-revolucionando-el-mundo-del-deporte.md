@@ -3,7 +3,7 @@ title: "¿Están las tecnologías Nike revolucionando el mundo del deporte?"
 slug: "estan-las-tecnologias-nike-revolucionando-el-mundo-del-deporte"
 excerpt: "Las innovaciones tecnológicas de Nike en el deporte Nike es una marca icónica en el ámbito del equipamiento deportivo, y su reputación se basa en gran medida en su capacidad de innovar constantemente. Desde su fundación en 1964, la empresa ha demostrado un ingenio notable en el desarrollo de tecnologías que mejoran el rendimiento de [&hellip;]"
 date: "2024-03-09T12:32:59"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["innovaciones-disruptivas-y-emergentes-es", "tecnologia-y-digital-es"]
 ---
 

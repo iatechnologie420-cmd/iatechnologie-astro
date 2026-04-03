@@ -3,7 +3,7 @@ title: "ಸ್ಪಾಟ್: ಬೋಸ್ಟನ್ ಡೈನಾಮಿಕ್ಸ್
 slug: "article-1-6"
 excerpt: "ಬೋಸ್ಟನ್ ಡೈನಾಮಿಕ್ಸ್‌ನ ಡಾಗ್ ರೋಬೋಟ್‌ನ ಡಿಸ್ಕವರಿ ಆಫ್ ಸ್ಪಾಟ್ ಆಧುನಿಕ ರೊಬೊಟಿಕ್ಸ್‌ನ ಕೆನೆ ಎಂದು ಹೆಸರುವಾಸಿಯಾಗಿದೆ, ಸ್ಪಾಟ್, ಬೋಸ್ಟನ್ ಡೈನಾಮಿಕ್ಸ್‌ನ ರೋಬೋಟ್ ನಾಯಿ, ಹೊಸ ತಂತ್ರಜ್ಞಾನಗಳ ಜಗತ್ತಿನಲ್ಲಿ ಆಘಾತ ತರಂಗವನ್ನು ಸೃಷ್ಟಿಸಿದೆ. ಅದರ ಗೆಳೆಯರನ್ನು ಬದಲಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ, ಇದು ಪ್ರಾಣಿಗಳ ರೋಬೋಟ್‌ಗಳ ಸಾಂಕೇತಿಕ ಉದಾಹರಣೆಯಾಗಿದೆ, ಅವುಗಳ ಮಾದರಿಗಳನ್ನು ಬದಲಿಸಲು ಸಿದ್ಧವಾಗಿದೆ. ಸ್ಪಾಟ್, ಒಂದು ತಾಂತ್ರಿಕ ಕ್ರಾಂತಿ ಸ್ಪಾಟ್ ಈ ತಾಂತ್ರಿಕ ಪ್ರಗತಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸಾಕಾರಗೊಳಿಸುತ್ತದೆ. ನಿಜವಾದ ನಾಯಿಯ ಚಲನೆಗಳು ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ನಿಷ್ಠೆಯಿಂದ ಪುನರುತ್ಪಾದಿಸುವ ಕಲ್ಪನೆಯಿಂದ [&hellip;]"
 date: "2024-03-09T11:47:15"
-featuredImage: "/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
 categories: ["%e0%b2%b5%e0%b2%bf%e0%b2%9a%e0%b3%8d%e0%b2%9b%e0%b2%bf%e0%b2%a6%e0%b3%8d%e0%b2%b0%e0%b2%95%e0%b2%be%e0%b2%b0%e0%b2%95-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%89%e0%b2%a6%e0%b2%af%e0%b3%8b"]
 ---
 
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="ಬೋಸ್ಟನ್ ಡೈನಾಮಿಕ್ಸ್ ರೋಬೋಟ್ ನಾಯಿ, ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳು, ಬಳಕೆ ಮತ್ತು ಪ್ರಭಾವಶಾಲಿ ಕಾರ್ಯಕ್ಷಮತೆಯ ಸಂಪೂರ್ಣ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಅನ್ವೇಷಿಸಿ." class="wp-image-14515" srcset="/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png" alt="ಬೋಸ್ಟನ್ ಡೈನಾಮಿಕ್ಸ್ ರೋಬೋಟ್ ನಾಯಿ, ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳು, ಬಳಕೆ ಮತ್ತು ಪ್ರಭಾವಶಾಲಿ ಕಾರ್ಯಕ್ಷಮತೆಯ ಸಂಪೂರ್ಣ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಅನ್ವೇಷಿಸಿ." class="wp-image-14515" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics.png 1792w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-300x171.png 300w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1024x585.png 1024w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-150x86.png 150w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-768x439.png 768w, /images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

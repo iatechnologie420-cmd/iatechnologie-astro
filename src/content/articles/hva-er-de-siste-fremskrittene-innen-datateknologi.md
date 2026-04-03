@@ -3,7 +3,7 @@ title: "Hva er de siste fremskrittene innen datateknologi?"
 slug: "hva-er-de-siste-fremskrittene-innen-datateknologi"
 excerpt: "Datateknologi spiller en stadig viktigere rolle i vårt moderne samfunn. Med den økende digitaliseringen av livene våre og eksplosjonen av data som genereres daglig, er det avgjørende å forstå viktigheten av disse teknologiene og deres innvirkning på vår verden. I denne artikkelen vil vi utforske de forskjellige fasettene til datateknologi og deres relevans på ulike [&hellip;]"
 date: "2024-03-09T12:30:13"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
 ---
 

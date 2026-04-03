@@ -3,7 +3,7 @@ title: "¿Ser un NPC en Tiktok y en la vida real&#8230;?"
 slug: "ser-un-npc-en-tiktok-y-en-la-vida-real"
 excerpt: "El fenómeno de los “controladores NPC” en TikTok En el universo infinito de Tik Tok, un fenómeno bastante singular ha captado la atención de los usuarios: “ Controladores NPC » (Personajes no jugadores). La expresión &#8220;NPC&#8221;, que antes se limitaba a los videojuegos, ahora se está introduciendo en la jerga de las redes sociales, definiendo [&hellip;]"
 date: "2024-03-09T12:02:46"
-featuredImage: "/images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-3.png"
 categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1.png" alt="" class="wp-image-1575" srcset="/images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1.png 1792w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-300x171.png 300w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-1024x585.png 1024w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-150x86.png 150w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-768x439.png 768w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1.png" alt="" class="wp-image-1575" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1.png 1792w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-300x171.png 300w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-1024x585.png 1024w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-150x86.png 150w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-768x439.png 768w, /images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -3,7 +3,7 @@ title: "Cum să partajați ecranul PS5 pe Discord?"
 slug: "cum-sa-partajati-ecranul-ps5-pe-discord"
 excerpt: "Pasul 1: Pregătiți configurația Când jucați jocuri pe PS5, ar putea fi bine să vă împărtășiți experiența cu prietenii dvs. de pe Discord. Pentru a face acest lucru, puteți transmite ecranul PS5 direct pe Discord. În acest articol, vom explica cum să partajați ecranul PS5 pe Discord în două metode diferite. Să mergem ! Verificați-vă [&hellip;]"
 date: "2024-03-09T12:54:06"
-featuredImage: "/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["media-si-platforme-digitale-ro", "tehnologie-si-digital-ro"]
 ---
 

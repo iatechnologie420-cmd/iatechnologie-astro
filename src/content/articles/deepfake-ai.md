@@ -3,7 +3,7 @@ title: "Deepfake: AI와 관련된 새로운 위협에 대해 알아야 할 모�
 slug: "deepfake-ai"
 excerpt: "딥페이크의 정의와 운영 딥페이크의 정의 용어 딥페이크 는 영어 단어 &#8220;deep learning&#8221;과 &#8220;fake&#8221;의 축약형입니다. 이 기술은 알고리즘을 기반으로 합니다.인공지능 비디오 및 오디오 트랙을 포함한 시청각 콘텐츠를 생성하거나 편집하기 위해 특별히 설계되었습니다. 그 결과는 너무나 설득력이 있어서 눈과 귀를 속일 수 있어 대부분의 사람들이 첫눈에 알아차리지 못할 수도 있습니다. 딥페이크의 목적은 장난스럽고 예술적일 수 있지만, 예를 [&hellip;]"
 date: "2024-03-09T12:49:34"
-featuredImage: "/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%8c%8c%ea%b4%b4%ec%a0%81%ec%9d%b4%ea%b3%a0-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%98%81%ec%8b%a0-ko"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png" alt="" class="wp-image-1719" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png" alt="" class="wp-image-1719" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -119,7 +119,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png" alt="" class="wp-image-1720" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png" alt="" class="wp-image-1720" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png" alt="" class="wp-image-1721" srcset="/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png" alt="" class="wp-image-1721" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2.png 1792w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-300x171.png 300w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1024x585.png 1024w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-150x86.png 150w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-768x439.png 768w, /images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

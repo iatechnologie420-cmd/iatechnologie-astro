@@ -3,7 +3,7 @@ title: "What are the latest advances in data technologies?"
 slug: "what-are-the-latest-advances-in-data-technologies"
 excerpt: "Data technologies play an increasingly essential role in our modern society. With the increasing digitalization of our lives and the explosion of data generated daily, it is crucial to understand the importance of these technologies and their impact on our world. In this article, we will explore the different facets of data technologies and their [&hellip;]"
 date: "2024-03-09T12:27:57"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["computing-and-data-en", "technology-and-digital-en"]
 ---
 

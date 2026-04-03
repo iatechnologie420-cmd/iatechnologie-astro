@@ -3,7 +3,7 @@ title: "Odkryj zawody związane z danymi i sztuczną inteligencją"
 slug: "odkryj-zawody-zwiazane-z-danymi-i-sztuczna-inteligencja"
 excerpt: "Wprowadzenie do zawodów związanych z danymi i sztuczną inteligencją Rozwój danych i sztucznej inteligencji (AI) spowodował powstanie wielu innowacyjnych i zróżnicowanych zawodów. W sercu rewolucji cyfrowej specjalizacje te stały się niezbędne dla firm chcących wykorzystać potencjał, jaki dają dane i inteligentna automatyzacja. Zrozumienie zawodów związanych z danymi Data Science, prawdziwe skrzyżowanie statystyki, analizy danych i [&hellip;]"
 date: "2024-03-09T12:55:38"
-featuredImage: "/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-3.png"
 categories: ["obliczenia-i-dane-pl"]
 ---
 
@@ -109,7 +109,7 @@ categories: ["obliczenia-i-dane-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png" alt="" class="wp-image-773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -153,7 +153,7 @@ categories: ["obliczenia-i-dane-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png" alt="" class="wp-image-774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -301,7 +301,7 @@ categories: ["obliczenia-i-dane-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png" alt="" class="wp-image-775" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2.png 1792w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-300x171.png 300w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1024x585.png 1024w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-150x86.png 150w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-768x439.png 768w, /images/blog/Les-metiers-de-la-Data-et-de-lIntelligence-artificielle-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

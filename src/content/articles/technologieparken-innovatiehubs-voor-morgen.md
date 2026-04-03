@@ -3,7 +3,7 @@ title: "Technologieparken: innovatiehubs voor morgen?"
 slug: "technologieparken-innovatiehubs-voor-morgen"
 excerpt: "De opkomst van technologieparken Deze heiligdommen van innovatie, ook wel bekend als wetenschapsparken of technopolen, hebben een rijke geschiedenis en zijn voortdurend in ontwikkeling; ze belichamen technische en economische vooruitgang. In dit artikel wordt de oorsprong en ontwikkeling van deze technologiehubs onderzocht, waarbij hun cruciale rol als katalysator voor innovatie en economische ontwikkeling wordt benadrukt. [&hellip;]"
 date: "2024-03-09T12:36:50"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-nl"]
 ---
 

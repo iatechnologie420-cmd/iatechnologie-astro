@@ -3,7 +3,7 @@ title: "Bored Ape Yacht Club: alt du trenger å vite"
 slug: "bored-ape-yacht-club-alt-du-trenger-a-vite"
 excerpt: "Hva er Bored Ape Yacht Club? DE Bored Ape Yacht Club er et nylig fenomen som ryster verden av Ikke-fungible tokens (NFT). Disse unikt illustrerte virtuelle apene har blitt symbolet på milliardærstatus i kryptoverdenen. Men hva gjør disse NFT-ene så spesielle? Og hvorfor har de fanget fantasien til så mange mennesker? I denne artikkelen dykker [&hellip;]"
 date: "2024-03-09T11:48:05"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["blockchain-og-digital-sikkerhet-nb", "teknologi-og-digitalt-nb"]
 ---
 

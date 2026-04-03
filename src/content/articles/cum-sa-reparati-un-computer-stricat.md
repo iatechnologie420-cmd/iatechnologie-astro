@@ -3,7 +3,7 @@ title: "Cum să reparați un computer stricat?"
 slug: "cum-sa-reparati-un-computer-stricat"
 excerpt: "Diagnosticarea defecțiunii computerului dvs Întâmpinarea unei probleme cu computerul se poate transforma uneori într-o adevărată durere de cap. Calculatorul este un compus tehnologic complex, iar atunci când ceva nu funcționează așa cum era de așteptat, există adesea o multitudine de motive posibile. În acest articol, vă oferim un ghid practic pentru a vă ajuta să [&hellip;]"
 date: "2024-03-09T12:07:57"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["tehnologie-si-digital-ro"]
 ---
 

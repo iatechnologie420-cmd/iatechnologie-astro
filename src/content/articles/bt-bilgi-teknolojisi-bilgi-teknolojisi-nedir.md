@@ -3,7 +3,7 @@ title: "BT / Bilgi Teknolojisi: bilgi teknolojisi nedir?"
 slug: "bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir"
 excerpt: "BT&#8217;yi Anlamak: Bilgi teknolojilerinin tanımı ve gelişimi Nedir? Dönem BT, İçin Bilgi Teknolojisi İngilizce olarak, işlenmesi ve yönetimi ile ilgili tüm teknolojileri belirtir. bilgi ve veriler. Bu geniş alan dolayısıyla bilgisayar bilimini de içerir, telekomünikasyon, veritabanı yönetim sistemleri, bilgi güvenliği ve çok daha fazlası. BT modern dünyada çok önemlidir: işletmelerin verimli bir şekilde çalışmasına, hükümetlerin [&hellip;]"
 date: "2024-03-09T12:23:16"
-featuredImage: "/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 ---
 
@@ -87,7 +87,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png" alt="" class="wp-image-1108" srcset="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png" alt="" class="wp-image-1108" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png" alt="" class="wp-image-1110" srcset="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png" alt="" class="wp-image-1110" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

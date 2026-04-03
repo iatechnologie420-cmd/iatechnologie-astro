@@ -3,7 +3,7 @@ title: "AI 마케팅: 기업에 이익이 되는 기술?"
 slug: "ai-6"
 excerpt: "인공지능 (AI)는 점차 마케팅의 변혁적인 힘으로 떠오르고 있습니다. AI를 통해 마케팅을 재창조하고, 브랜드 마케팅에 미치는 영향과 상호작용의 가능성을 이해하면 시간을 절약하고 효율성을 높이며 소비자 참여의 새로운 방법을 열 수 있습니다. 이러한 성장은 전통적인 마케팅에서 더 많은 정보를 바탕으로 개인화된 실시간 마케팅으로의 전환을 의미합니다. AI를 통한 마케팅 혁명 AI가 마케팅 혁명을 일으키고 있습니다. 기계 학습(ML) 및 [&hellip;]"
 date: "2024-03-09T11:47:28"
-featuredImage: "/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
 categories: ["ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-ko"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="AI가 기업의 마케팅 전략에 어떻게 긍정적인 영향을 미치는지 알아보세요. 비즈니스 성과를 높이기 위해 기술을 사용하는 방법을 해독합니다." class="wp-image-14756" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="AI가 기업의 마케팅 전략에 어떻게 긍정적인 영향을 미치는지 알아보세요. 비즈니스 성과를 높이기 위해 기술을 사용하는 방법을 해독합니다." class="wp-image-14756" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -101,7 +101,7 @@ categories: ["ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="마케팅용 AI가 어떻게 비즈니스를 변화시키고 성장을 촉진할 수 있는지 알아보세요. 기술이 어떻게 마케팅 전략의 자산이 될 수 있나요?" class="wp-image-14757" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="마케팅용 AI가 어떻게 비즈니스를 변화시키고 성장을 촉진할 수 있는지 알아보세요. 기술이 어떻게 마케팅 전략의 자산이 될 수 있나요?" class="wp-image-14757" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

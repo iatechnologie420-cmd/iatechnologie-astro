@@ -3,7 +3,7 @@ title: "GPT-5：我们所知道的一切"
 slug: "gpt-5"
 excerpt: "人工智能的演变：从GPT-3到GPT-5 飞速发展生成式人工智能 此时此刻，技术领域正在被以下现象所驱动 聊天GPT。从GPT-3开始，在等待GPT-4的同时，开发了中间版本GPT-3.5 开放人工智能。但真正的革命正在随着对未来 GPT-5 的期待而酝酿，它承诺比迄今为止存在的任何东西都更加智能。 ChatGPT：高级对话代理 聊天GPT如今，它是一种生成式人工智能，远远超出了其作为工具的地位。它不仅仅是一个简单的对话代理，它甚至通过了“心理理论”测试，从而证明了它以相关和情境化的方式理解和响应的能力。 GPT-5：人工智能的未来 随着它的出现，人们兴奋不已 GPT-5。关于其发布日期、新功能、价格的传言都是其预期影响的指标。正如 ChatGPT 之父所设想的那样，这将是人工智能领域的巨大飞跃：“GPT-5 将比其他任何东西都更聪明。” 生成人工智能的威胁和挑战 但这一惊人的进展并非没有引起严重担忧。现代技术先驱之一埃隆·马斯克甚至呼吁暂停人工智能研究六个月，他认为人工智能对我们的社会构成了威胁。许多职业似乎都受到这种权力崛起的威胁：出租车司机、会计师、客户顾问，许多职业都处于这场剧变的边缘。 对环境造成的影响 除了社会威胁之外，由于生成人工智能，数字碳足迹正在呈爆炸式增长。这些技术进步的代价对于我们的星球来说可能过于沉重。 不久的将来充满混乱 人工智能从GPT-3到GPT-5的演变完美地说明了这项技术进步的速度。在进步和挑战之间，人工智能的未来是一个令人兴奋的话题，因为它无疑将塑造我们明天的世界。因此，让我们准备并预测这些变化，以充分利用这场正在进行的革命。 GPT-5：迄今为止已知和泄漏的信息 新版本的架构人工智能 或者 人工智能， 这 GPT-5，受到所有创新技术爱好者的热切期待。这种方法 生成的由 OpenAI 开发的，在许多领域都具有重大前景。 ChatGPT：GPT-5 的前奏 ChatGPT 是 GPT-5 的祖先之一。出现在风景里 新技术，它通过提供与用户近乎自然的交互而闻名。必须等待合并 达尔-E 3 访问 ChatGPT，了解其运营方面的显着进步。应该指出的是，这一壮举反映了 GPT-5 的巨大潜力，但仍处于面纱之下。 山姆·奥尔特曼的声明：承诺与期望 宣布 GPT-5 后，人们对 GPT-5 的等待有所增加 萨姆·奥特曼，这有望在各个层面上实现更高效的人工智能。然而，有关发布日期的准确信息仍处于封锁状态。尽管如此，人们对这种模式的创新潜力的热情持续高涨。 GPT-5。 GPT-5：可能应用的多样性 GPT-5 潜在应用的广度令人印象深刻。就其功能而言，我们可以期待更精细的功能 文本的重新表述，就像 [&hellip;]"
 date: "2024-03-09T11:52:18"
-featuredImage: "/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
 categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8-zh"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8-zh"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="了解我们对革命性的新型自然语言处理工具 GPT-5 的了解。" class="wp-image-14752" srcset="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="了解我们对革命性的新型自然语言处理工具 GPT-5 的了解。" class="wp-image-14752" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

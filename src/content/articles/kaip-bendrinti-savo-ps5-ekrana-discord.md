@@ -3,7 +3,7 @@ title: "Kaip bendrinti savo PS5 ekraną „Discord“?"
 slug: "kaip-bendrinti-savo-ps5-ekrana-discord"
 excerpt: "1 veiksmas: paruoškite konfigūraciją Žaidžiant žaidimus PS5 gali būti malonu pasidalinti savo patirtimi su draugais naudodami „Discord“. Norėdami tai padaryti, galite tiesiogiai transliuoti savo PS5 ekraną į „Discord“. Šiame straipsnyje paaiškinsime, kaip bendrinti PS5 ekraną „Discord“ dviem skirtingais būdais. Eime ! Patikrinkite savo aparatūrą Prieš pradėdami, įsitikinkite, kad turite reikiamų medžiagų. Štai ko jums reikės:&#8211; [&hellip;]"
 date: "2024-03-09T12:52:50"
-featuredImage: "/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["skaitmenine-ziniasklaida-ir-platformos-lt", "technologijos-ir-skaitmeninis-lt"]
 ---
 

@@ -3,7 +3,7 @@ title: "د بورډ اپ یاټ کلب: هرڅه چې تاسو ورته اړتی
 slug: "article-4-1"
 excerpt: "د بورډ اپ یاټ کلب څه شی دی؟ د د بورډ اپی یاټ کلب یوه وروستۍ پدیده ده چې نړۍ یې لړزولې ده غیر فنجی وړ ټوکن (NFT). دا بې ساري انځور شوي مجازی بندرونه د کریپټو نړۍ کې د ملیاردر حالت سمبول ګرځیدلی. مګر څه شی دا NFTs دومره ځانګړي کوي؟ او ولې یې [&hellip;]"
 date: "2024-03-09T11:48:28"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["%d8%a8%d9%84%d8%a7%da%a9%da%86%db%8c%d9%86-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-%d8%a7%d9%85%d9%86%db%8c%d8%aa-ps", "%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps"]
 ---
 

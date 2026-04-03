@@ -3,7 +3,7 @@ title: "Disastro tecnologico: la rivoluzione digitale si sta trasformando in un 
 slug: "disastro-tecnologico-la-rivoluzione-digitale-si-sta-trasformando-in-un-incubo"
 excerpt: "L’impatto della rivoluzione digitale sulla nostra società La rivoluzione digitale che caratterizza il nostro tempo ha sconvolto molti aspetti della nostra società. Le tecnologie digitali e l’accesso a Internet hanno trasformato il modo in cui comunichiamo, lavoriamo, consumiamo e persino viviamo. Questo articolo esplora le conseguenze di questa rivoluzione sulla nostra vita quotidiana ed evidenzia [&hellip;]"
 date: "2024-03-09T12:29:17"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["tecnologia-e-digitale-it", "tecnologia-verde-e-citta-intelligenti-it"]
 ---
 

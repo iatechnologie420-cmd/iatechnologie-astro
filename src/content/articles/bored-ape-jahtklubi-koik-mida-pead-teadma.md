@@ -3,7 +3,7 @@ title: "Bored Ape Jahtklubi: kõik, mida pead teadma"
 slug: "bored-ape-jahtklubi-koik-mida-pead-teadma"
 excerpt: "Mis on Bored Ape jahtklubi? THE Igav Ape Jahtklubi on hiljutine nähtus, mis raputab maailma Mitteasendatavad märgid (NFT). Nendest ainulaadselt illustreeritud virtuaalsetest ahvidest on saanud krüptomaailmas miljardäri staatuse sümbol. Aga mis teeb need NFT-d nii eriliseks? Ja miks on nad nii paljude inimeste kujutlusvõimet haaranud? Selles artiklis sukeldume NFT-de ja Bored Ape jahtklubi põnevasse maailma. [&hellip;]"
 date: "2024-03-09T11:46:33"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["blockchain-ja-digitaalne-turvalisus-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 

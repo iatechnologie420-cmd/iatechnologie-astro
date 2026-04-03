@@ -3,7 +3,7 @@ title: "🚀 Mode Agent ChatGPT : Guide Ultime &#038; Complet (2025)"
 slug: "mode-agent-chatgpt"
 excerpt: "Découvrez tout sur le nouveau&nbsp;Mode Agent de ChatGPT, la fonctionnalité révolutionnaire d’OpenAI permettant à ChatGPT d’agir concrètement pour vous sur Internet. 🧠 Qu’est-ce que le Mode Agent ChatGPT exactement ? Lancé en milieu d’année 2025 par OpenAI, le&nbsp;Mode Agent&nbsp;est une évolution majeure de ChatGPT, le transformant en assistant virtuel actif capable d’effectuer des actions réelles [&hellip;]"
 date: "2025-08-03T17:32:46"
-featuredImage: "/images/blog/ChatGPT-Image-4-aout-2025-a-02_14_16-Photoroom.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-Image-4-aout-2025-a-02_14_16-Photoroom.png"
 categories: ["ia"]
 ---
 

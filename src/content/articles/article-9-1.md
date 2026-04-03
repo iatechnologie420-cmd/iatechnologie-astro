@@ -3,7 +3,7 @@ title: "Какой рост и вес у Марка Цукерберга?"
 slug: "article-9-1"
 excerpt: "Рост Марка Цукерберга: миф или реальность? Споры вокруг его размера Уже несколько лет вопрос о росте Марка Цукерберга, основателя Facebook, является предметом множества спекуляций и дискуссий. Некоторые утверждают, что он меньше, чем кажется, а другие утверждают, что на самом деле он довольно высокий. Так какова правда о росте Марка Цукерберга? Необоснованные слухи В Интернете циркулирует [&hellip;]"
 date: "2024-03-09T12:38:34"
-featuredImage: "/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

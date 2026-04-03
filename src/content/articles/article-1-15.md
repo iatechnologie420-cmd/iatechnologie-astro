@@ -3,7 +3,7 @@ title: "مارک زوکربرګ څومره قد او وزن لري؟"
 slug: "article-1-15"
 excerpt: "د مارک زوکربرګ لوړوالی: افسانه یا حقیقت؟ د هغه د اندازې په اړه تناقض د څو کلونو راهیسې، د فیسبوک د بنسټ ایښودونکي مارک زوکربرګ د لوړوالي پوښتنه، د ډیرو اټکلونو او بحثونو موضوع وه. ځینې ​​​​یې ادعا کوي چې دا د هغې په پرتله کوچنی دی، پداسې حال کې چې نور ادعا کوي چې [&hellip;]"
 date: "2024-03-09T12:38:03"
-featuredImage: "/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps"]
 ---
 

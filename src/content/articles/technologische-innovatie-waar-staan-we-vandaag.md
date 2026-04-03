@@ -3,7 +3,7 @@ title: "Technologische innovatie: waar staan ​​we vandaag?"
 slug: "technologische-innovatie-waar-staan-we-vandaag"
 excerpt: "Recente technologische vooruitgang Recente technologische vooruitgang Recente technologische ontwikkelingen hebben de manier waarop we leven, werken en communiceren radicaal veranderd. Er ontstaan ​​regelmatig nieuwe technologieën, die onze samenleving naar een steeds meer verbonden en innovatieve toekomst stuwen. In dit artikel zullen we enkele van de meest recente baanbrekende technologische ontwikkelingen op verschillende gebieden onderzoeken. 1. [&hellip;]"
 date: "2024-03-09T12:44:47"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["technologie-en-digitaal-nl"]
 ---
 

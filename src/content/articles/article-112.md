@@ -3,7 +3,7 @@ title: "Глубоководные технологии: будущее подв
 slug: "article-112"
 excerpt: "Что такое глубоководные технологии? Технология глубоководного бурения, также известная как технология глубоководного бурения, представляет собой дисциплину, целью которой является разведка и эксплуатация ресурсов, находящихся на морском дне на глубинах от 500 до нескольких тысяч метров. Эта технология открывает новые возможности для разведки и эксплуатации запасов нефти, газа и полезных ископаемых, расположенных на шельфе. Проблемы глубокого [&hellip;]"
 date: "2024-03-09T12:34:04"
-featuredImage: "/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
 categories: ["%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%83%d0%bc%d0%bd%d1%8b%d0%b5-%d0%b3%d0%be%d1%80%d0%be%d0%b4%d0%b0-ru", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

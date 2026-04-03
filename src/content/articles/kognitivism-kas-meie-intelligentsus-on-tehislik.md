@@ -3,7 +3,7 @@ title: "Kognitivism: kas meie intelligentsus on tehislik?"
 slug: "kognitivism-kas-meie-intelligentsus-on-tehislik"
 excerpt: "Kognitivismi ja inimese intelligentsuse päritolu Kognitivismi päritolu THE kognitivism on lähenemine psühholoogias, mis keskendub mõtlemise sisemistele mehhanismidele, käsitledes inimmõistust kui infotöötlussüsteemi. Selle lähenemise alged pärinevad peamiselt 1950. ja 1960. aastatest, reaktsioonina tollal väga domineerivale biheiviorismile, mis keskendus eranditult jälgitavale käitumisele, jättes tähelepanuta sisemised vaimsed protsessid. THE sihtasutused Kognitivismi teooriad põhinevad selliste tähelepanuväärsete tegelaste töödel nagu [&hellip;]"
 date: "2024-03-09T12:18:32"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["ai-koolitus-ja-pohialused-et"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["ai-koolitus-ja-pohialused-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["ai-koolitus-ja-pohialused-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["ai-koolitus-ja-pohialused-et"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

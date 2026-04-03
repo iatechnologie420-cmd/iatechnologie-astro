@@ -3,7 +3,7 @@ title: "ನಾವು ಈಗ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯಲ
 slug: "article-163"
 excerpt: "ಹೌದು ಅಥವಾ ಇಲ್ಲ ಎಂದು ಉತ್ತರಿಸುವ ಮೊದಲು, AI ನಲ್ಲಿ ಹೂಡಿಕೆ ಮಾಡಲು ಇದು ಸಮಯವಾಗಿದೆಯೇ ಎಂದು ಉತ್ತರಿಸುವ ಮೊದಲು, ವಿಷಯಗಳನ್ನು ಸನ್ನಿವೇಶದಲ್ಲಿ ಇರಿಸಲು ಮತ್ತು ಚಿಂತನಶೀಲ ನಿರ್ಧಾರವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು AI ಇತಿಹಾಸವನ್ನು ಪರಿಶೀಲಿಸೋಣ. ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ವಿಕಾಸ ಸಾಂಪ್ರದಾಯಿಕ AI &#8220;ದುರ್ಬಲ AI&#8221; ಎಂದೂ ಕರೆಯಲ್ಪಡುವ ಸಾಂಪ್ರದಾಯಿಕ AI 1950 ರ ದಶಕದಲ್ಲಿ ಪ್ರಾರಂಭವಾಯಿತು.ಆ ಸಮಯದಲ್ಲಿ, ಸಂಶೋಧಕರು ಮುಖ್ಯವಾಗಿ ಅಲ್ಗಾರಿದಮ್‌ಗಳು ಮತ್ತು ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಂಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಿರ್ದಿಷ್ಟ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸುವತ್ತ ಗಮನಹರಿಸಿದರು. ಆರಂಭಿಕ ಸಾಧನೆಗಳಲ್ಲಿ ಫ್ಯಾಕ್ಟರಿ [&hellip;]"
 date: "2024-03-09T12:44:10"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ai-%e0%b2%85%e0%b2%aa%e0%b3%8d%e0%b2%b2%e0%b2%bf%e0%b2%95%e0%b3%87%e0%b2%b6%e0%b2%a8%e0%b3%8d%e0%b2%97%e0%b2%b3%e0%b3%81-kn"]
 ---
 

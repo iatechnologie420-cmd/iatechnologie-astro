@@ -3,7 +3,7 @@ title: "Davranış bilimi teknolojisi günlük yaşamlarımızı nasıl iyileşt
 slug: "davranis-bilimi-teknolojisi-gunluk-yasamlarimizi-nasil-iyilestirebilir"
 excerpt: "Teknolojinin davranış bilimlerine etkisi Teknoloji, davranış bilimleri de dahil olmak üzere birçok alanı önemli ölçüde etkilemiştir. Teknolojik gelişmeler sayesinde araştırmacılar, insan davranışlarını daha iyi anlamalarına ve analiz etmelerine olanak tanıyan araç ve yöntemlere erişebilmektedir. Bu yazıda teknolojinin davranış bilimleri üzerindeki etkisinin farklı yönlerini ve günlük yaşamlarımızı nasıl iyileştirebileceğini inceleyeceğiz. 1. Veri toplama ve analizi Teknoloji [&hellip;]"
 date: "2024-03-09T12:46:52"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["teknoloji-ve-dijital-tr"]
 ---
 

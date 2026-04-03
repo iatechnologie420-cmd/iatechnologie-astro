@@ -3,7 +3,7 @@ title: "AWS ಕ್ಲೌಡ್ &#8211; ಅಮೆಜಾನ್ ವೆಬ್ ಸೇ
 slug: "aws-2"
 excerpt: "ಅಮೆಜಾನ್ ವೆಬ್ ಸೇವೆಗಳಿಗೆ (AWS) ಪರಿಚಯ: ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್‌ನಲ್ಲಿ ಒಂದು ಕ್ರಾಂತಿ 2006 ರಲ್ಲಿ ರಚನೆಯಾದಾಗಿನಿಂದ, ಅಮೆಜಾನ್ ವೆಬ್ ಸೇವೆಗಳು (AWS) ಅಭೂತಪೂರ್ವ ನಮ್ಯತೆ, ಪ್ರಮಾಣ ಮತ್ತು ಆರ್ಥಿಕತೆಯ ಪ್ರಮಾಣವನ್ನು ಒದಗಿಸುವ ಕ್ಲೌಡ್ ಸೇವೆಗಳ ವೇದಿಕೆಯನ್ನು ನೀಡುವ ಮೂಲಕ ಐಟಿ ಭೂದೃಶ್ಯವನ್ನು ಆಮೂಲಾಗ್ರವಾಗಿ ಬದಲಾಯಿಸಿದೆ. ಈ ಪರಿಚಯವು ಕಾರ್ಯಾಚರಣೆಯ ತತ್ವಗಳನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆAWS ಮತ್ತು ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್‌ನಲ್ಲಿ ಈ ಪರಿಹಾರವು ಏಕೆ ಪ್ರಮುಖ ಆಟಗಾರನಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ ಎಂಬುದನ್ನು ವಿವರಿಸಲು. ಅಮೆಜಾನ್ ವೆಬ್ ಸೇವೆಗಳು (AWS) ಎಂದರೇನು? [&hellip;]"
 date: "2024-03-09T12:45:48"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d", "%e0%b2%ae%e0%b3%82%e0%b2%b2%e0%b2%b8%e0%b3%8c%e0%b2%95%e0%b2%b0%e0%b3%8d%e0%b2%af-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a8%e0%b3%86%e0%b2%9f%e0%b3%8d%e0%b2%b5%e0%b2%b0%e0%b3%8d"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

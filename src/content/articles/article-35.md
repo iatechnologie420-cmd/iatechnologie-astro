@@ -3,7 +3,7 @@ title: "점자 혁명: 기술이 접근성을 변화시킬 때"
 slug: "article-35"
 excerpt: "기술 시대의 점자 혁명 점자의 탄생과 현대적 적응 원래 19세기에 루이 브라유(Louis Braille)가 개발한 점자라고 알려진 시각 장애인을 위한 문자 시스템은 의사소통 방식에 혁명을 일으켰습니다. 군대가 어둠 속에서 읽을 수 있도록 설계된 메커니즘에서 영감을 받아 Louis Braille은 손가락 아래에서 부드럽고 빠르게 읽을 수 있도록 방법을 최적화했습니다. 6개 위치의 돌출된 점 배열은 문자와 숫자를 표현하는 63가지 [&hellip;]"
 date: "2024-03-09T12:19:28"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%8c%8c%ea%b4%b4%ec%a0%81%ec%9d%b4%ea%b3%a0-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%98%81%ec%8b%a0-ko"]
 ---
 

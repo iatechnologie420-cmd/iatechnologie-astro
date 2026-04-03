@@ -3,7 +3,7 @@ title: "Dompdf: PHP でエレガントな PDF を作成するには?"
 slug: "dompdf-php-pdf-3"
 excerpt: "Dompdf の概要 Dompdf は、HTML コンテンツから PDF ファイルを生成できる PHP ライブラリです。このソリューションは、レポート、請求書、またはその他のドキュメントを PDF 形式で生成する場合に非常に役立ちます。この記事では、Dompdf の基本機能を発見し、それを使用してエレガントで機能的な PDF を作成する方法を学びます。 前提条件 Dompdf をインストールする前に、以下があることを確認してください。 Dompdf のインストール Dompdf をインストールするには、次の手順に従います。 Dompdf がインストールされたので、Web アプリケーションでエレガントで機能的な PDF ファイルの生成を開始できます。 Dompdf は、画像、カスタム フォント、CSS スタイルの管理など、PDF レンダリングをカスタマイズするための多くの高度な機能を提供します。 PHP でエレガントな PDF を作成する Dompdf をインストールして使用する別の方法 従うべき手順は次のとおりです。1. 公式 Web サイトから Dompdf の最新バージョンをダウンロードします。2. ダウンロードしたファイルを解凍し、PHP プロジェクトに配置します。3. Dompdfautoload.php ファイルをインクルードして、ライブラリを PHP スクリプトにロードします。 HTML テンプレートから PDF を作成する Dompdf をインストールしたので、HTML [&hellip;]"
 date: "2024-03-09T12:41:03"
-featuredImage: "/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
 categories: ["%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf-ja", "%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a8%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-ja"]
 ---
 

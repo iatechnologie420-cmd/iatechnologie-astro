@@ -3,7 +3,7 @@ title: "Quant 또는 양적 분석가라는 직업에 대해 알아야 할 모�
 slug: "quant"
 excerpt: "양적금융의 세계 입문 양적 금융은 수학적 모델, 통계 및 컴퓨터 기술을 사용하여 금융 시장의 행동을 이해하고 예측하는 금융 전문 분야입니다. 이 글에서는 이 분야에서 사용되는 도구, 응용 분야, 그리고 해당 분야에서 탁월한 능력을 발휘하는 데 필요한 기술에 대해 논의하여 이 분야를 살펴보겠습니다. 양적 금융은 금융 기관의 의사 결정에 필수적이 되었으며 성장하는 이 부문에 진입하려는 사람들에게 [&hellip;]"
 date: "2024-03-09T11:56:24"
-featuredImage: "/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-3.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 ---
 
@@ -121,7 +121,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif.png" alt="" class="wp-image-1185" srcset="/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif.png 1792w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-300x171.png 300w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-150x86.png 150w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-768x439.png 768w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif.png" alt="" class="wp-image-1185" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif.png 1792w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-300x171.png 300w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-150x86.png 150w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-768x439.png 768w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -287,7 +287,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1.png" alt="" class="wp-image-1186" srcset="/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1.png 1792w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-300x171.png 300w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-150x86.png 150w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-768x439.png 768w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1.png" alt="" class="wp-image-1186" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1.png 1792w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-300x171.png 300w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-150x86.png 150w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-768x439.png 768w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -389,7 +389,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2.png" alt="" class="wp-image-1187" srcset="/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2.png 1792w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-300x171.png 300w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-150x86.png 150w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-768x439.png 768w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2.png" alt="" class="wp-image-1187" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2.png 1792w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-300x171.png 300w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-1024x585.png 1024w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-150x86.png 150w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-768x439.png 768w, /images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

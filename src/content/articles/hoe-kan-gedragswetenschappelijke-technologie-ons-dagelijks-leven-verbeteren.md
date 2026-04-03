@@ -3,7 +3,7 @@ title: "Hoe kan gedragswetenschappelijke technologie ons dagelijks leven verbete
 slug: "hoe-kan-gedragswetenschappelijke-technologie-ons-dagelijks-leven-verbeteren"
 excerpt: "De impact van technologie in de gedragswetenschappen Technologie heeft veel gebieden aanzienlijk beïnvloed, waaronder de gedragswetenschappen. Dankzij de technologische vooruitgang hebben onderzoekers toegang tot hulpmiddelen en methoden waarmee ze menselijk gedrag beter kunnen begrijpen en analyseren. In dit artikel onderzoeken we de verschillende aspecten van de impact van technologie in de gedragswetenschappen en hoe deze [&hellip;]"
 date: "2024-03-09T12:45:21"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["technologie-en-digitaal-nl"]
 ---
 

@@ -3,7 +3,7 @@ title: "Median Technologies on the stock market: a real opportunity?"
 slug: "median-technologies-on-the-stock-market-a-real-opportunity"
 excerpt: "What is Median Technologies? Median Technologies is a technology company specializing in medical imaging and image analysis solutions for clinical trials. Founded in 2002, the company has quickly established itself as a global leader in its field, offering innovative solutions for the interpretation and analysis of medical images. Median Technologies products and services Median Technologies [&hellip;]"
 date: "2024-03-09T12:28:37"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["technology-and-digital-en"]
 ---
 

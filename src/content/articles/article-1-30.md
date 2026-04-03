@@ -3,7 +3,7 @@ title: "څنګه مات شوی کمپیوټر ترمیم کړو؟"
 slug: "article-1-30"
 excerpt: "ستاسو د کمپیوټر د خرابیدو تشخیص د کمپیوټر ستونزې سره مخ کیدل ځینې وختونه په ریښتیني سر درد بدلیږي. کمپیوټر یو پیچلی ټیکنالوژیک مرکب دی، او کله چې یو څه د توقع سره سم کار نه کوي، ډیری وختونه ډیری احتمالي دلیلونه شتون لري. پدې مقاله کې، موږ تاسو ته یو عملي لارښود وړاندې کوو [&hellip;]"
 date: "2024-03-09T12:07:43"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps"]
 ---
 

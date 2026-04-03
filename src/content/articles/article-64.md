@@ -3,7 +3,7 @@ title: "ګډوډي ټیکنالوژي بانکداري بدلوي؟"
 slug: "article-64"
 excerpt: "د ګډوډي ټیکنالوژۍ له لارې د بانکدارۍ بدلون په وروستیو کلونو کې په مالي سکتور کې ژور بدلون راوستی دی. ټیکنالوژیکي پرمختګ د نوو نوښت حلونو رامینځته کیدو ته لاره هواره کړې ، کوم چې د بانکونو فعالیت او د خپلو پیرودونکو سره متقابل عمل بدلوي. په دې مقاله کې، موږ به د دې بدلون [&hellip;]"
 date: "2024-03-09T12:36:04"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%ab%da%89%d9%88%da%89%d9%88%d9%86%da%a9%d9%8a-%d8%a7%d9%88-%d8%b1%d8%a7%d9%be%d9%88%d8%b1%d8%aa%d9%87-%da%a9%db%8c%d8%af%d9%88%d9%86%da%a9%d9%8a-%d9%86%d9%88%da%9a%d8%aa%d9%88%d9%86%d9%87-ps"]
 ---
 

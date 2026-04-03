@@ -3,7 +3,7 @@ title: "Dompdf: Cum să creați PDF-uri elegante în PHP?"
 slug: "dompdf-cum-sa-creati-pdf-uri-elegante-in-php"
 excerpt: "Introducere în Dompdf Dompdf este o bibliotecă PHP care vă permite să generați fișiere PDF din conținut HTML. Aceasta solutie este foarte utila pentru generarea de rapoarte, facturi sau orice alt document in format PDF. În acest articol, vom descoperi caracteristicile de bază ale Dompdf și vom învăța cum să-l folosim pentru a crea PDF-uri [&hellip;]"
 date: "2024-03-09T12:43:06"
-featuredImage: "/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Dompdf-Comment-creer-des-PDF-elegants-en-PHP-.png"
 categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 ---
 

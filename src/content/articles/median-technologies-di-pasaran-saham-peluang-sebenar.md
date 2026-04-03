@@ -3,7 +3,7 @@ title: "Median Technologies di pasaran saham: peluang sebenar?"
 slug: "median-technologies-di-pasaran-saham-peluang-sebenar"
 excerpt: "Apakah itu Median Technologies? Median Technologies ialah syarikat teknologi yang mengkhusus dalam pengimejan perubatan dan penyelesaian analisis imej untuk ujian klinikal. Ditubuhkan pada tahun 2002, syarikat itu telah dengan cepat mengukuhkan dirinya sebagai peneraju global dalam bidangnya, menawarkan penyelesaian inovatif untuk tafsiran dan analisis imej perubatan. Produk dan perkhidmatan Median Technologies Teknologi Median menawarkan rangkaian [&hellip;]"
 date: "2024-03-09T12:30:37"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["teknologi-dan-digital-ms"]
 ---
 

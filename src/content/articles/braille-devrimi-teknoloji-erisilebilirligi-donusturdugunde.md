@@ -3,7 +3,7 @@ title: "Braille devrimi: Teknoloji erişilebilirliği dönüştürdüğünde"
 slug: "braille-devrimi-teknoloji-erisilebilirligi-donusturdugunde"
 excerpt: "Teknoloji çağında braille devrimi Braille&#8217;in doğuşu ve çağdaş uyarlamalar İlk olarak 19. yüzyılda Louis Braille tarafından geliştirilen, görme engelliler ve görme engelliler için Braille olarak bilinen yazı sistemi, onların iletişim biçiminde devrim yarattı. Ordunun karanlıkta okuyabileceği bir mekanizmadan ilham alan Louis Braille, yöntemi parmakların altında akıcı ve hızlı hale getirecek şekilde optimize etti. Altı konumdaki [&hellip;]"
 date: "2024-03-09T12:20:42"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["teknoloji-ve-dijital-tr", "yikici-ve-gelisen-yenilikler-tr"]
 ---
 

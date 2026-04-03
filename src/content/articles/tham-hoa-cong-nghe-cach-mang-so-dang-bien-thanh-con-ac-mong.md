@@ -3,7 +3,7 @@ title: "Thảm họa công nghệ: Cách mạng số đang biến thành cơn á
 slug: "tham-hoa-cong-nghe-cach-mang-so-dang-bien-thanh-con-ac-mong"
 excerpt: "Tác động của cuộc cách mạng kỹ thuật số đối với xã hội chúng ta Cuộc cách mạng kỹ thuật số đặc trưng cho thời đại chúng ta đã phá vỡ nhiều khía cạnh của xã hội chúng ta. Công nghệ kỹ thuật số và khả năng truy cập internet đã thay đổi cách chúng [&hellip;]"
 date: "2024-03-09T12:32:50"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "cong-nghe-xanh-va-thanh-pho-thong-minh-vi"]
 ---
 

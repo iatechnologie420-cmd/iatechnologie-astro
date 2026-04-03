@@ -3,7 +3,7 @@ title: "Inovação tecnológica: onde estamos hoje?"
 slug: "inovacao-tecnologica-onde-estamos-hoje"
 excerpt: "Avanços tecnológicos recentes Avanços tecnológicos recentes Os recentes avanços tecnológicos transformaram radicalmente a forma como vivemos, trabalhamos e comunicamos. Novas tecnologias surgem regularmente, impulsionando a nossa sociedade em direção a um futuro cada vez mais conectado e inovador. Neste artigo, exploraremos alguns dos mais recentes avanços tecnológicos revolucionários em diferentes áreas. 1. Inteligência Artificial (IA) [&hellip;]"
 date: "2024-03-09T12:45:11"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["tecnologia-e-digital-pt"]
 ---
 

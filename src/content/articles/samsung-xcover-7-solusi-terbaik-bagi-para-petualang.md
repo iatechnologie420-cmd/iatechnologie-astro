@@ -3,7 +3,7 @@ title: "Samsung Xcover 7: Solusi terbaik bagi para petualang?"
 slug: "samsung-xcover-7-solusi-terbaik-bagi-para-petualang"
 excerpt: "Karakteristik teknis Samsung Xcover 7 Samsung Xcover 7 adalah ponsel terbaru di jajaran Xcover, yang dikenal karena ketahanannya terhadap elemen dan daya tahannya. Dengan fitur-fitur canggih dan desain yang kokoh, Xcover 7 dirancang untuk orang-orang aktif yang membutuhkan smartphone andal dalam situasi apa pun. Pada artikel ini, kita akan melihat lebih dekat fitur teknis yang [&hellip;]"
 date: "2024-03-09T12:12:35"
-featuredImage: "/images/blog/Samsung-Xcover-7-La-solution-ultime-pour-les-baroudeurs-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Samsung-Xcover-7-La-solution-ultime-pour-les-baroudeurs-.png"
 categories: ["teknologi-dan-digital-id", "teknologi-yang-dapat-dipakai-dan-iot-id"]
 ---
 

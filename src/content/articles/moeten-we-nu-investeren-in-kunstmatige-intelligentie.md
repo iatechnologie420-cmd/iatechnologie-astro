@@ -3,7 +3,7 @@ title: "Moeten we nu investeren in kunstmatige intelligentie?"
 slug: "moeten-we-nu-investeren-in-kunstmatige-intelligentie"
 excerpt: "Voordat we met ja of nee antwoorden of het nu de tijd is om in AI te investeren, moeten we eerst de geschiedenis van AI bekijken om de zaken in context te plaatsen en een doordachte beslissing te nemen. De evolutie van kunstmatige intelligentie Conventionele AI Conventionele AI, ook wel ‘zwakke AI’ genoemd, vond zijn [&hellip;]"
 date: "2024-03-09T12:44:49"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ai-toepassingen-nl"]
 ---
 

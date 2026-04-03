@@ -3,7 +3,7 @@ title: "Katastrofa technologiczna: rewolucja cyfrowa zamienia się w koszmar?"
 slug: "katastrofa-technologiczna-rewolucja-cyfrowa-zamienia-sie-w-koszmar"
 excerpt: "Wpływ rewolucji cyfrowej na nasze społeczeństwo Rewolucja cyfrowa, która charakteryzuje nasze czasy, zakłóciła wiele aspektów naszego społeczeństwa. Technologie cyfrowe i dostęp do Internetu zmieniły sposób, w jaki się komunikujemy, pracujemy, konsumujemy, a nawet żyjemy. W tym artykule zbadano konsekwencje tej rewolucji dla naszego codziennego życia i podkreślono kluczowe kwestie, z którymi musimy się zmierzyć. Konsekwencje [&hellip;]"
 date: "2024-03-09T12:31:30"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["technologia-i-cyfrowosc-pl", "zielone-technologie-i-inteligentne-miasta-pl"]
 ---
 

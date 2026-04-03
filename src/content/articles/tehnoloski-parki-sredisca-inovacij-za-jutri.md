@@ -3,7 +3,7 @@ title: "Tehnološki parki: središča inovacij za jutri?"
 slug: "tehnoloski-parki-sredisca-inovacij-za-jutri"
 excerpt: "Pojav tehnoloških parkov Ta svetišča inovacij, znana tudi kot znanstveni parki ali tehnopoli, imajo bogato zgodovino in se nenehno razvijajo; utelešajo tehnični in gospodarski napredek. Ta članek raziskuje izvor in razvoj teh tehnoloških vozlišč, pri čemer poudarja njihovo ključno vlogo kot katalizatorjev za inovacije in gospodarski razvoj. Zgodovina tehnoloških parkov Zgodovina tehnoloških parkov sega v [&hellip;]"
 date: "2024-03-09T12:37:40"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["prelomne-in-nastajajoce-inovacije-sl", "tehnologija-in-digital-sl"]
 ---
 

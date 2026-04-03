@@ -3,7 +3,7 @@ title: "Yıkıcı teknoloji bankacılığı dönüştürüyor mu?"
 slug: "yikici-teknoloji-bankaciligi-donusturuyor-mu"
 excerpt: "Bankacılığın yıkıcı teknoloji yoluyla dönüşümü, son yıllarda finans sektörünü derinden değiştirdi. Teknolojik ilerlemeler, bankaların çalışma ve müşterileriyle etkileşim şekillerini değiştiren yeni yenilikçi çözümlerin ortaya çıkmasına olanak sağlamıştır. Bu yazımızda bu dönüşümün farklı boyutlarını ve bankacılık sektörü üzerindeki etkilerini inceleyeceğiz. Dijitalleşme: tamamen dijital çağ Yıkıcı teknoloji yoluyla bankacılık dönüşümünün ilk boyutu dijitalleşmedir. Geleneksel bankalar, çevrimiçi bankacılık [&hellip;]"
 date: "2024-03-09T12:36:48"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["teknoloji-ve-dijital-tr", "yikici-ve-gelisen-yenilikler-tr"]
 ---
 

@@ -3,7 +3,7 @@ title: "Mis on digitaalne tööruum / laiendatud töö?"
 slug: "mis-on-digitaalne-tooruum-laiendatud-too"
 excerpt: "Mis on digitaalne tööruum? Termin Digitaalne tööruum, Or digitaalne tööruum, määratleb töökeskkonna, millel pole tänu digitehnoloogiatele enam füüsilisi tõkkeid. See koondab tööriistade ja tehnoloogiate komplekti, mis võimaldab kasutajatel ühenduse luua, koostööd teha ja oma professionaalseid ülesandeid täita olenemata nende füüsilisest asukohast. Selles artiklis käsitletakse digitaalse tööruumi olulisi sambaid ja seda, kuidas need aitavad kaasa tootlikkuse [&hellip;]"
 date: "2024-03-09T12:23:20"
-featuredImage: "/images/blog/Digital-workspace-le-travail-augmente-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-3.png"
 categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 
@@ -71,7 +71,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente.png" alt="" class="wp-image-1038" srcset="/images/blog/Digital-workspace-le-travail-augmente.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente.png" alt="" class="wp-image-1038" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente-1.png" alt="" class="wp-image-1039" srcset="/images/blog/Digital-workspace-le-travail-augmente-1.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-1-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-1-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-1-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-1.png" alt="" class="wp-image-1039" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-1.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-1-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-1-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-1-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-1-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -209,6 +209,6 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Digital-workspace-le-travail-augmente-2.png" alt="" class="wp-image-1040" srcset="/images/blog/Digital-workspace-le-travail-augmente-2.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-2-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-2-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-2-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-2-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-2.png" alt="" class="wp-image-1040" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-2.png 1792w, /images/blog/Digital-workspace-le-travail-augmente-2-300x171.png 300w, /images/blog/Digital-workspace-le-travail-augmente-2-1024x585.png 1024w, /images/blog/Digital-workspace-le-travail-augmente-2-150x86.png 150w, /images/blog/Digital-workspace-le-travail-augmente-2-768x439.png 768w, /images/blog/Digital-workspace-le-travail-augmente-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 

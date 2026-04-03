@@ -3,7 +3,7 @@ title: "ಡೇಟಾವಿಜ್ ಎಂದರೇನು? ವ್ಯಾಖ್ಯಾ
 slug: "article-2-33"
 excerpt: "ಡೇಟಾವಿಜ್ ಅನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು: ಡೇಟಾ ದೃಶ್ಯೀಕರಣ ಇಂದು, ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಅಪಾರ ಪ್ರಮಾಣದ ದತ್ತಾಂಶವು ಉತ್ಪತ್ತಿಯಾಗುವುದರೊಂದಿಗೆ, ಈ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಸ್ಪಷ್ಟ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ ರೀತಿಯಲ್ಲಿ ಪ್ರಸ್ತುತಪಡಿಸಬೇಕು ಎಂಬುದನ್ನು ತಿಳಿದುಕೊಳ್ಳುವುದು ಅತ್ಯಗತ್ಯವಾಗಿದೆ. ಇಲ್ಲಿಯೇ ದಿ ಡೇಟಾ ದೃಶ್ಯೀಕರಣ, ಅಥವಾ ಡೇಟಾವಿಜ್, ಸಂಕೀರ್ಣ ಡೇಟಾವನ್ನು ಅರ್ಥಗರ್ಭಿತ ದೃಶ್ಯ ಪ್ರಾತಿನಿಧ್ಯಗಳಾಗಿ ಪರಿವರ್ತಿಸಲು ವಿನ್ಯಾಸ, ನಿರೂಪಣೆ ಮತ್ತು ಸಂಖ್ಯಾಶಾಸ್ತ್ರೀಯ ವಿಶ್ಲೇಷಣೆಯನ್ನು ಸಂಯೋಜಿಸುವ ಶಿಸ್ತಿನ ಕ್ಷೇತ್ರ. ಡಾಟಾವಿಜ್‌ನ ಉದ್ದೇಶಗಳು ಡೇಟಾವಿಜ್‌ನ ಮುಖ್ಯ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯು ವ್ಯಕ್ತಿಯ ವಿಶ್ಲೇಷಣಾತ್ಮಕ ಕೌಶಲ್ಯಗಳನ್ನು ಲೆಕ್ಕಿಸದೆ ಎಲ್ಲರಿಗೂ ಡೇಟಾವನ್ನು ಪ್ರವೇಶಿಸುವಂತೆ [&hellip;]"
 date: "2024-03-09T11:56:25"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["%e0%b2%95%e0%b2%82%e0%b2%aa%e0%b3%8d%e0%b2%af%e0%b3%82%e0%b2%9f%e0%b2%bf%e0%b2%82%e0%b2%97%e0%b3%8d-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b3%87%e0%b2%9f%e0%b2%be-kn", "%e0%b2%a4%e0%b2%82%e0%b2%a4%e0%b3%8d%e0%b2%b0%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%a1%e0%b2%bf%e0%b2%9c%e0%b2%bf%e0%b2%9f%e0%b2%b2%e0%b3%8d"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["%e0%b2%95%e0%b2%82%e0%b2%aa%e0%b3%8d%e0%b2%af%e0%b3%82%e0%b2%9f%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["%e0%b2%95%e0%b2%82%e0%b2%aa%e0%b3%8d%e0%b2%af%e0%b3%82%e0%b2%9f%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["%e0%b2%95%e0%b2%82%e0%b2%aa%e0%b3%8d%e0%b2%af%e0%b3%82%e0%b2%9f%e0
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

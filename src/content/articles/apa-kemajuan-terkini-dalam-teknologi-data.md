@@ -3,7 +3,7 @@ title: "Apa kemajuan terkini dalam teknologi data?"
 slug: "apa-kemajuan-terkini-dalam-teknologi-data"
 excerpt: "Teknologi data memainkan peran yang semakin penting dalam masyarakat modern kita. Dengan meningkatnya digitalisasi dalam kehidupan kita dan ledakan data yang dihasilkan setiap harinya, sangatlah penting untuk memahami pentingnya teknologi ini dan dampaknya terhadap dunia kita. Pada artikel ini, kita akan mengeksplorasi berbagai aspek teknologi data dan relevansinya di berbagai bidang. Optimalisasi proses dan pengambilan [&hellip;]"
 date: "2024-03-09T12:28:26"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 ---
 

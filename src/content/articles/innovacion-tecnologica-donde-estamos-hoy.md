@@ -3,7 +3,7 @@ title: "Innovación tecnológica: ¿dónde estamos hoy?"
 slug: "innovacion-tecnologica-donde-estamos-hoy"
 excerpt: "Avances tecnológicos recientes Avances tecnológicos recientes Los recientes avances tecnológicos han transformado radicalmente la forma en que vivimos, trabajamos y nos comunicamos. Regularmente surgen nuevas tecnologías que impulsan nuestra sociedad hacia un futuro cada vez más conectado e innovador. En este artículo, exploraremos algunos de los avances tecnológicos revolucionarios más recientes en diferentes áreas. 1. [&hellip;]"
 date: "2024-03-09T12:42:54"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["tecnologia-y-digital-es"]
 ---
 

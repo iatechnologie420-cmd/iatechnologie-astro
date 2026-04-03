@@ -3,7 +3,7 @@ title: "Яхт-клуб Bored Ape: все, что вам нужно знать"
 slug: "bored-ape"
 excerpt: "Что такое яхт-клуб Bored Ape? ТО Яхт-клуб Bored Ape это недавнее явление, которое потрясло мир Невзаимозаменяемые токены (NFT). Эти уникальные иллюстрированные виртуальные обезьяны стали символом статуса миллиардера в мире криптовалют. Но что делает эти NFT такими особенными? И почему они захватили воображение стольких людей? В этой статье мы погружаемся в увлекательный мир NFT и яхт-клуба [&hellip;]"
 date: "2024-03-09T11:48:56"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["%d0%b1%d0%bb%d0%be%d0%ba%d1%87%d0%b5%d0%b9%d0%bd-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d0%b0%d1%8f-%d0%b1%d0%b5%d0%b7%d0%be%d0%bf%d0%b0%d1%81%d0%bd%d0%be%d1%81%d1%82%d1%8c-ru", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b8-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-ru"]
 ---
 

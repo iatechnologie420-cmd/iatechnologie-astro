@@ -3,7 +3,7 @@ title: "Đánh giá Segway Navimow: Máy cắt cỏ tự động của tương l
 slug: "danh-gia-segway-navimow-may-cat-co-tu-dong-cua-tuong-lai"
 excerpt: "Ưu điểm của máy cắt cỏ tự động Segway Navimow Hãy tưởng tượng bạn có thể tận hưởng trọn vẹn khu vườn của mình mà không phải lo lắng về công việc cắt cỏ. Nhờ có máy cắt cỏ tự động Segway Navimow, công việc tẻ nhạt này giờ đã trở thành quá khứ. Được [&hellip;]"
 date: "2024-03-09T12:37:42"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["cong-nghe-thiet-bi-deo-va-iot-vi", "cong-nghe-va-ky-thuat-so-vi"]
 ---
 

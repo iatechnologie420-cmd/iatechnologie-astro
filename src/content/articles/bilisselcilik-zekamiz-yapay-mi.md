@@ -3,7 +3,7 @@ title: "Bilişselcilik: Zekamız yapay mı?"
 slug: "bilisselcilik-zekamiz-yapay-mi"
 excerpt: "Bilişselciliğin ve insan zekasının kökenleri Bilişselciliğin kökenleri THE bilişselcilik düşüncenin iç mekanizmalarına odaklanan, insan zihnini bir bilgi işlem sistemi olarak ele alan bir psikoloji yaklaşımıdır. Bu yaklaşımın kökenleri esas olarak 1950&#8217;li ve 1960&#8217;lı yıllara, o dönemde oldukça baskın olan ve yalnızca gözlemlenebilir davranışlara odaklanan, içsel zihinsel süreçleri göz ardı eden davranışçılığa bir tepki olarak dayanmaktadır. [&hellip;]"
 date: "2024-03-09T12:21:06"
-featuredImage: "/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["yapay-zeka-egitimi-ve-temelleri-tr"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["yapay-zeka-egitimi-ve-temelleri-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-.png" alt="" class="wp-image-1364"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["yapay-zeka-egitimi-ve-temelleri-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-1.png" alt="" class="wp-image-1365"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["yapay-zeka-egitimi-ve-temelleri-tr"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-2.png" alt="" class="wp-image-1366"></figure>
 
 
 

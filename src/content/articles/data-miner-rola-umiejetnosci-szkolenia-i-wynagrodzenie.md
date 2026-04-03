@@ -3,7 +3,7 @@ title: "Data Miner: rola, umiejętności, szkolenia i wynagrodzenie"
 slug: "data-miner-rola-umiejetnosci-szkolenia-i-wynagrodzenie"
 excerpt: "Rola i misja eksploratora danych TO Eksplorator danych, czyli poszukiwacz danych, odgrywa kluczową rolę w świecie danych i sztucznej inteligencji. Jest niezbędnym aktorem cienia, który ułatwia podejmowanie decyzji i zarządzanie strategiczne w firmach. Omówimy szczegółowo jego misję i znaczenie jego roli. Co to jest eksploracja danych? TO Eksplorator danych jest specjalistą ds. danych odpowiedzialnym za [&hellip;]"
 date: "2024-03-09T12:09:49"
-featuredImage: "/images/blog/Data-Miner-role-competences-formations-et-salaire-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Miner-role-competences-formations-et-salaire-3.png"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 ---
 
@@ -83,7 +83,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Miner-role-competences-formations-et-salaire.png" alt="" class="wp-image-1396" srcset="/images/blog/Data-Miner-role-competences-formations-et-salaire.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Miner-role-competences-formations-et-salaire.png" alt="" class="wp-image-1396" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Miner-role-competences-formations-et-salaire.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Miner-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1397" srcset="/images/blog/Data-Miner-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Miner-role-competences-formations-et-salaire-1.png" alt="" class="wp-image-1397" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Miner-role-competences-formations-et-salaire-1.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -231,7 +231,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Data-Miner-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1398" srcset="/images/blog/Data-Miner-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Miner-role-competences-formations-et-salaire-2.png" alt="" class="wp-image-1398" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Miner-role-competences-formations-et-salaire-2.png 1792w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-300x171.png 300w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-1024x585.png 1024w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-150x86.png 150w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-768x439.png 768w, /images/blog/Data-Miner-role-competences-formations-et-salaire-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

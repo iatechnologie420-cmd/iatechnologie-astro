@@ -3,7 +3,7 @@ title: "Teknologisk katastrofe: den digitale revolusjonen blir til et mareritt?"
 slug: "teknologisk-katastrofe-den-digitale-revolusjonen-blir-til-et-mareritt"
 excerpt: "Den digitale revolusjonens innvirkning på samfunnet vårt Den digitale revolusjonen som preger vår tid har forstyrret mange sider av samfunnet vårt. Digitale teknologier og tilgang til internett har forandret måten vi kommuniserer, jobber, forbruker og til og med lever på. Denne artikkelen utforsker konsekvensene av denne revolusjonen på våre daglige liv og fremhever de avgjørende [&hellip;]"
 date: "2024-03-09T12:31:04"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["gronn-teknologi-og-smarte-byer-nb", "teknologi-og-digitalt-nb"]
 ---
 

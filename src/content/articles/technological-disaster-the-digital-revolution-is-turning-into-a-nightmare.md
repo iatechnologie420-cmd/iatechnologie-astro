@@ -3,7 +3,7 @@ title: "Technological disaster: the digital revolution is turning into a nightma
 slug: "technological-disaster-the-digital-revolution-is-turning-into-a-nightmare"
 excerpt: "The impact of the digital revolution on our society The digital revolution that characterizes our time has disrupted many aspects of our society. Digital technologies and access to the internet have transformed the way we communicate, work, consume and even live. This article explores the consequences of this revolution on our daily lives and highlights [&hellip;]"
 date: "2024-03-09T12:28:23"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["green-technology-and-smart-cities-en", "technology-and-digital-en"]
 ---
 

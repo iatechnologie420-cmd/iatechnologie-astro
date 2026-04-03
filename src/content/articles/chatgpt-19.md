@@ -3,7 +3,7 @@ title: "دلته د ChatGPT لپاره غوره وړیا بدیلونه دي"
 slug: "chatgpt-19"
 excerpt: "د ChatGPT لپاره وړیا بدیلونه کشف کول په داسې وخت کې چې د خبرو اترو سیسټم پر بنسټمصنوعي استخبارات (AI) د تخنیکي ځای تسلط، داسې ښکاري چې تادیه شوی اختیار لکه ChatGPT معمول شو. په هرصورت، د هغو کسانو لپاره چې د وړیا بدیلونو لټولو په لټه کې دي، ډیری مساوي او اغیزمن انتخابونه شتون [&hellip;]"
 date: "2024-03-09T11:54:09"
-featuredImage: "/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-2.png"
 categories: ["%d8%af-ai-%d8%ba%d9%88%da%9a%d8%aa%d9%86%d9%84%db%8c%da%a9%d9%88%d9%86%d9%87-ps"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["%d8%af-ai-%d8%ba%d9%88%da%9a%d8%aa%d9%86%d9%84%db%8c%da%a9%d9%88%d
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="د ChatGPT غوره وړیا بدیلونه چیک کړئ ترڅو د یوې پیسې مصرف کولو پرته ورته ځانګړتیاو څخه خوند واخلئ." class="wp-image-14789" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png" alt="د ChatGPT غوره وړیا بدیلونه چیک کړئ ترڅو د یوې پیسې مصرف کولو پرته ورته ځانګړتیاو څخه خوند واخلئ." class="wp-image-14789" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["%d8%af-ai-%d8%ba%d9%88%da%9a%d8%aa%d9%86%d9%84%db%8c%da%a9%d9%88%d
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="د نوښت او بډایه تعاملاتو لپاره د chatgpt غوره وړیا بدیلونه ومومئ. پرته له لګښت څخه ورته حلونه ومومئ او د زړه راښکونکي تجربې څخه ګټه پورته کړئ." class="wp-image-14790" srcset="/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png" alt="د نوښت او بډایه تعاملاتو لپاره د chatgpt غوره وړیا بدیلونه ومومئ. پرته له لګښت څخه ورته حلونه ومومئ او د زړه راښکونکي تجربې څخه ګټه پورته کړئ." class="wp-image-14790" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1.png 1792w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-300x171.png 300w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1024x585.png 1024w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-150x86.png 150w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-768x439.png 768w, /images/blog/Voici-les-meilleures-alternatives-gratuites-a-ChatGPT-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

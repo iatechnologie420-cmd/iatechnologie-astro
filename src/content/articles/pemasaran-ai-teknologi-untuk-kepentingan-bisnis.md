@@ -3,7 +3,7 @@ title: "Pemasaran AI: teknologi untuk kepentingan bisnis?"
 slug: "pemasaran-ai-teknologi-untuk-kepentingan-bisnis"
 excerpt: "Kecerdasan buatan (AI) secara bertahap muncul sebagai kekuatan transformatif dalam pemasaran. Menciptakan kembali pemasaran dengan AI, memahami implikasinya terhadap pemasaran merek, dan potensi interaksi akan menghemat waktu, meningkatkan efisiensi, dan membuka jalan menuju metode baru dalam keterlibatan konsumen. Pertumbuhan ini menandai transisi dari pemasaran tradisional ke pemasaran yang lebih terinformasi, personal, dan real-time. Revolusi pemasaran [&hellip;]"
 date: "2024-03-09T11:46:41"
-featuredImage: "/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-2.png"
 categories: ["aplikasi-ai-id"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["aplikasi-ai-id"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="temukan bagaimana AI berdampak positif pada strategi pemasaran perusahaan. menguraikan penggunaan teknologi untuk meningkatkan kinerja bisnis." class="wp-image-14756" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png" alt="temukan bagaimana AI berdampak positif pada strategi pemasaran perusahaan. menguraikan penggunaan teknologi untuk meningkatkan kinerja bisnis." class="wp-image-14756" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -101,7 +101,7 @@ categories: ["aplikasi-ai-id"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="temukan bagaimana AI untuk pemasaran dapat mengubah bisnis dan meningkatkan pertumbuhannya. bagaimana teknologi dapat menjadi aset strategi pemasaran?" class="wp-image-14757" srcset="/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png" alt="temukan bagaimana AI untuk pemasaran dapat mengubah bisnis dan meningkatkan pertumbuhannya. bagaimana teknologi dapat menjadi aset strategi pemasaran?" class="wp-image-14757" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1.png 1792w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-300x171.png 300w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1024x585.png 1024w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-150x86.png 150w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-768x439.png 768w, /images/blog/AI-Marketing-la-technologie-au-profit-des-entreprises-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

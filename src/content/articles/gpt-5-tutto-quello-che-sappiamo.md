@@ -3,7 +3,7 @@ title: "GPT-5: tutto quello che sappiamo"
 slug: "gpt-5-tutto-quello-che-sappiamo"
 excerpt: "L&#8217;evoluzione dell&#8217;intelligenza artificiale: da GPT-3 a GPT-5 La progressione fulminea diintelligenza artificiale generativa nel panorama tecnologico è guidato proprio in questo momento dal fenomeno ChatGPT. A partire da GPT-3 poi, in attesa di GPT-4, è stata sviluppata una versione intermedia GPT-3.5 OpenAI. Ma la vera rivoluzione si sta preparando con l’anticipazione del futuro GPT-5, promesso [&hellip;]"
 date: "2024-03-09T11:50:30"
-featuredImage: "/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
 categories: ["applicazioni-dellintelligenza-artificiale-it"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="Scopri tutto ciò che sappiamo su GPT-5, il nuovo e rivoluzionario strumento di elaborazione del linguaggio naturale." class="wp-image-14752" srcset="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="Scopri tutto ciò che sappiamo su GPT-5, il nuovo e rivoluzionario strumento di elaborazione del linguaggio naturale." class="wp-image-14752" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

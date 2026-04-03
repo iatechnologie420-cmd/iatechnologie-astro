@@ -3,7 +3,7 @@ title: "Taman teknologi: hab inovasi untuk esok?"
 slug: "taman-teknologi-hab-inovasi-untuk-esok"
 excerpt: "Kemunculan taman teknologi Tempat perlindungan inovasi ini, juga dikenali sebagai taman sains atau teknopole, mempunyai sejarah yang kaya dan sentiasa berkembang; ia merangkumi kemajuan teknikal dan ekonomi. Artikel ini bertujuan untuk meneroka asal usul dan pembangunan hab teknologi ini, menonjolkan peranan penting mereka sebagai pemangkin untuk inovasi dan pembangunan ekonomi. Sejarah taman teknologi Sejarah taman [&hellip;]"
 date: "2024-03-09T12:36:34"
-featuredImage: "/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"]
 ---
 

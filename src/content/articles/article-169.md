@@ -3,7 +3,7 @@ title: "심해 해양 기술: 수중 탐사의 미래?"
 slug: "article-169"
 excerpt: "심해 해양 기술이란 무엇입니까? 심해 시추 기술이라고도 알려진 심해 해양 기술은 수심 500m에서 수천m에 이르는 해저에 존재하는 자원을 탐색하고 활용하는 것을 목표로 하는 학문입니다. 이 기술은 해상에 위치한 석유, 가스 및 광물 매장량의 탐사 및 개발에 대한 새로운 가능성을 열어줍니다. 심해 해양의 과제 심해 해양 기술은 상당한 기술 및 물류 문제를 안고 있습니다. 기업과 엔지니어가 [&hellip;]"
 date: "2024-03-09T12:32:18"
-featuredImage: "/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%85%b9%ec%83%89-%ea%b8%b0%ec%88%a0%ea%b3%bc-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%8b%9c%ed%8b%b0-ko"]
 ---
 

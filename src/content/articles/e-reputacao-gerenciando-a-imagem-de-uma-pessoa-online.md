@@ -110,7 +110,7 @@ categories: ["midias-e-plataformas-digitais-pt", "tecnologia-e-digital-pt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne.png" alt="" class="wp-image-1692" srcset="/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne.png 1792w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-300x171.png 300w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1024x585.png 1024w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-150x86.png 150w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-768x439.png 768w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne.png" alt="" class="wp-image-1692" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne.png 1792w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-300x171.png 300w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1024x585.png 1024w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-150x86.png 150w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-768x439.png 768w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -178,7 +178,7 @@ categories: ["midias-e-plataformas-digitais-pt", "tecnologia-e-digital-pt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1.png" alt="" class="wp-image-1693" srcset="/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1.png 1792w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-300x171.png 300w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-1024x585.png 1024w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-150x86.png 150w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-768x439.png 768w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1.png" alt="" class="wp-image-1693" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1.png 1792w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-300x171.png 300w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-1024x585.png 1024w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-150x86.png 150w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-768x439.png 768w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -256,7 +256,7 @@ categories: ["midias-e-plataformas-digitais-pt", "tecnologia-e-digital-pt"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2.png" alt="" class="wp-image-1694" srcset="/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2.png 1792w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-300x171.png 300w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-1024x585.png 1024w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-150x86.png 150w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-768x439.png 768w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2.png" alt="" class="wp-image-1694" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2.png 1792w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-300x171.png 300w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-1024x585.png 1024w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-150x86.png 150w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-768x439.png 768w, /images/blog/Le-reputation-Gerer-limage-dune-personne-en-ligne-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

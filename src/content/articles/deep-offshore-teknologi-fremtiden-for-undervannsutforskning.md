@@ -3,7 +3,7 @@ title: "Deep offshore-teknologi: fremtiden for undervannsutforskning?"
 slug: "deep-offshore-teknologi-fremtiden-for-undervannsutforskning"
 excerpt: "Hva er dyp offshore-teknologi? Deep offshore-teknologi, også kjent som dypvannsboreteknologi, er en disiplin som har som mål å utforske og utnytte ressursene som finnes i havbunnen, på dybder fra 500 til flere tusen meter. Denne teknologien åpner for nye muligheter for leting og utnyttelse av olje-, gass- og mineralreserver som ligger offshore. Utfordringene ved dyp [&hellip;]"
 date: "2024-03-09T12:33:09"
-featuredImage: "/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-technologie-deep-offshore-quels-avantages-pour-lavenir-de-lexploration-sous-marine-.png"
 categories: ["gronn-teknologi-og-smarte-byer-nb", "teknologi-og-digitalt-nb"]
 ---
 

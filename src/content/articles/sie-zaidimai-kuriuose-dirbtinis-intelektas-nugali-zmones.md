@@ -3,7 +3,7 @@ title: "Šie žaidimai, kuriuose dirbtinis intelektas nugali žmones"
 slug: "sie-zaidimai-kuriuose-dirbtinis-intelektas-nugali-zmones"
 excerpt: "Superkompiuterių aušra ir šachmatų iššūkis Superkompiuterių era nebėra tolima futuristinė vizija, o apčiuopiama realybė, sukelianti revoliuciją įvairiuose sektoriuose, įskaitant strateginius žaidimus, tokius kaip šachmatai. Šios mašinos su fenomenalia skaičiavimo galia yra ideali žaidimų aikštelė tyrinėti dirbtinio intelekto ribas ir priimti šachmatų iššūkį užduodant pagrindinį klausimą: Koks yra tikrasis superkompiuterių potencialas, kai jie naudojami šachmatų žaidime, [&hellip;]"
 date: "2024-03-09T12:39:21"
-featuredImage: "/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["ai-mokymas-ir-pagrindai-lt"]
 ---
 
@@ -73,7 +73,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png" alt="" class="wp-image-749" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png" alt="" class="wp-image-749" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -109,7 +109,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png" alt="" class="wp-image-750" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png" alt="" class="wp-image-750" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -145,7 +145,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png" alt="" class="wp-image-751" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png" alt="" class="wp-image-751" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

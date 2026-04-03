@@ -3,7 +3,7 @@ title: "Kas Nike tehnoloogiad muudavad spordimaailma revolutsiooni?"
 slug: "kas-nike-tehnoloogiad-muudavad-spordimaailma-revolutsiooni"
 excerpt: "Nike&#8217;i tehnoloogilised uuendused spordis Nike on spordivarustuse valdkonna ikooniline bränd, mille maine põhineb suuresti võimel pidevalt uuendusi teha. Alates asutamisest 1964. aastal on ettevõte näidanud üles märkimisväärset leidlikkust selliste tehnoloogiate väljatöötamisel, mis parandavad sportlaste sooritusvõimet ja muudavad spordimaailma pöörde. Flykniti tehnoloogia: kergus ja sobivus Üks silmatorkavamaid näiteid tehnoloogilistest uuendustest Nike on Flykniti tehnoloogia. See suur [&hellip;]"
 date: "2024-03-09T12:33:10"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["murrangulised-ja-esilekerkivad-uuendused-et", "tehnoloogia-ja-digitaalne-et"]
 ---
 

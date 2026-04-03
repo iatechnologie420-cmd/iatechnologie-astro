@@ -3,7 +3,7 @@ title: "ເຂົ້າໃຈການທົດສອບ Turing"
 slug: "turing"
 excerpt: "ຕົ້ນກໍາເນີດແລະຫຼັກການຂອງການທົດສອບ Turing ໃນໂລກຂອງປັນຍາປະດິດ (AI) ແລະຄອມພິວເຕີ້, ການທົດສອບ Turing ຄອບຄອງສະຖານທີ່ທີ່ໂດດເດັ່ນ. ນີ້ແມ່ນວິທີການມາດຕະຖານທີ່ອອກແບບມາເພື່ອປະເມີນຄວາມສາມາດຂອງເຄື່ອງຈັກໃນການຮຽນແບບຄວາມສະຫຼາດຂອງມະນຸດ ຕົ້ນກໍາເນີດແລະຫຼັກການຂອງການທົດສອບການປະຕິວັດນີ້ແມ່ນມາຮອດກາງສະຕະວັດທີ 20 ແລະແມ່ນອີງໃສ່ແນວຄວາມຄິດທາງ philosophical ແລະຄອມພິວເຕີ້ທີ່ສັບສົນ. ປະຫວັດຂອງການທົດສອບ Turing ການທົດສອບ Turing ເອົາຊື່ຂອງມັນມາຈາກນັກປະດິດຂອງຕົນ, Alan Turing, ນັກຄະນິດສາດຊາວອັງກິດຖືວ່າເປັນຜູ້ບຸກເບີກດ້ານວິທະຍາສາດຄອມພິວເຕີ. ລາວໄດ້ນໍາສະເຫນີການທົດສອບນີ້ຄັ້ງທໍາອິດໃນບົດຄວາມ 1950 ຂອງລາວ &#8220;ເຄື່ອງຈັກຄອມພິວເຕີ້ແລະປັນຍາ&#8221;, ຈັດພີມມາຢູ່ໃນວາລະສານຂອງອັງກິດ Mind. Alan Turing ຄົ້ນຫາຄໍາຖາມທີ່ວ່າເຄື່ອງຈັກສາມາດຄິດແລະສະເຫນີວິທີການປະເມີນປັນຍາປະດິດໄດ້ບໍ. ຫຼັກການພື້ນຖານຂອງການທົດສອບ Turing ຫຼັກການພື້ນຖານຂອງການທົດສອບ Turing ແມ່ນງ່າຍດາຍທີ່ໂດດເດັ່ນ. ມັນແມ່ນອີງໃສ່ເກມ imitation ໃນໄລຍະທີ່ມະນຸດ, ຜູ້ພິພາກສາ, ມີຫນ້າທີ່ໃນການກໍານົດວ່າ interlocutor ລາວເປັນເຄື່ອງຈັກຫຼືບຸກຄົນອື່ນ. ຜູ້ພິພາກສາຕິດຕໍ່ສື່ສານກັບສອງ interlocutors ຜ່ານຫນ້າຈໍແລະແປ້ນພິມ, ເຊິ່ງຮັບປະກັນຄວາມເປັນໄປບໍ່ໄດ້ທີ່ຈະອີງໃສ່ຂໍ້ຄຶດທາງດ້ານຮ່າງກາຍສໍາລັບການຕັດສິນ. ການປະຕິບັດການທົດສອບ Turing ການ​ທົດ​ສອບ​ແມ່ນ​ປະ​ຕິ​ບັດ​ດັ່ງ​ຕໍ່​ໄປ​ນີ້​:1. ຜູ້ພິພາກສາຖາມຄໍາຖາມຕ່າງໆເປັນລາຍລັກອັກສອນ.2. interlocutor ຂອງມະນຸດແລະເຄື່ອງຈັກຍັງຕອບສະຫນອງເປັນລາຍລັກອັກສອນ.3. ຖ້າຜູ້ພິພາກສາບໍ່ສາມາດຈໍາແນກເຄື່ອງຈັກຈາກມະນຸດໄດ້ຢ່າງພຽງພໍ, ເຄື່ອງຈະຜ່ານການທົດສອບ.ເປົ້າຫມາຍແມ່ນເພື່ອເຂົ້າໄປເບິ່ງວ່າເຄື່ອງຈັກສາມາດແຂ່ງຂັນກັບປັນຍາຂອງມະນຸດໃນລະດັບທີ່ຄໍາຕອບຂອງມັນບໍ່ສາມາດແຍກອອກຈາກຜູ້ຊາຍຫຼືແມ່ຍິງ. [&hellip;]"
 date: "2024-03-09T12:56:53"
-featuredImage: "/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["%e0%ba%81%e0%ba%b2%e0%ba%99%e0%ba%9d%e0%ba%b6%e0%ba%81%e0%ba%ad%e0%ba%bb%e0%ba%9a%e0%ba%ae%e0%ba%bb%e0%ba%a1-ai-%e0%bb%81%e0%ba%a5%e0%ba%b0%e0%ba%9e%e0%ba%b7%e0%bb%89%e0%ba%99%e0%ba%96%e0%ba%b2"]
 ---
 
@@ -67,7 +67,7 @@ categories: ["%e0%ba%81%e0%ba%b2%e0%ba%99%e0%ba%9d%e0%ba%b6%e0%ba%81%e0%ba%ad%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Bien-comprendre-le-test-de-Turing.png" alt="" class="wp-image-806" srcset="/images/blog/Bien-comprendre-le-test-de-Turing.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing.png" alt="" class="wp-image-806" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -127,7 +127,7 @@ categories: ["%e0%ba%81%e0%ba%b2%e0%ba%99%e0%ba%9d%e0%ba%b6%e0%ba%81%e0%ba%ad%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Bien-comprendre-le-test-de-Turing-2.png" alt="" class="wp-image-808" srcset="/images/blog/Bien-comprendre-le-test-de-Turing-2.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-2-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-2-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-2-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-2.png" alt="" class="wp-image-808" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-2.png 1792w, /images/blog/Bien-comprendre-le-test-de-Turing-2-300x171.png 300w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1024x585.png 1024w, /images/blog/Bien-comprendre-le-test-de-Turing-2-150x86.png 150w, /images/blog/Bien-comprendre-le-test-de-Turing-2-768x439.png 768w, /images/blog/Bien-comprendre-le-test-de-Turing-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

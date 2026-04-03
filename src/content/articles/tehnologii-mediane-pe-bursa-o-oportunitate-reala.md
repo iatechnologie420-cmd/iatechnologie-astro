@@ -3,7 +3,7 @@ title: "Tehnologii mediane pe bursa: o oportunitate reala?"
 slug: "tehnologii-mediane-pe-bursa-o-oportunitate-reala"
 excerpt: "Ce este Median Technologies? Median Technologies este o companie de tehnologie specializată în imagistică medicală și soluții de analiză a imaginilor pentru studii clinice. Înființată în 2002, compania s-a impus rapid ca lider global în domeniul său, oferind soluții inovatoare pentru interpretarea și analiza imaginilor medicale. Produsele și serviciile Median Technologies Tehnologii mediane oferă o [&hellip;]"
 date: "2024-03-09T12:31:47"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["tehnologie-si-digital-ro"]
 ---
 

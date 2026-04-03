@@ -3,7 +3,7 @@ title: "د سټاک بازار کې میډین ټیکنالوژي: یو ریښت
 slug: "article-2-31"
 excerpt: "میډین ټیکنالوژي څه ده؟ میډین ټیکنالوژي د ټیکنالوژۍ شرکت دی چې د کلینیکي آزموینو لپاره د طبي عکس اخیستنې او عکس تحلیل حلونو کې تخصص لري. په 2002 کې تاسیس شوی، شرکت په چټکۍ سره خپل ځان په ساحه کې د نړیوال مشر په توګه تاسیس کړ، د طبي عکسونو تشریح او تحلیل لپاره نوښت [&hellip;]"
 date: "2024-03-09T12:31:28"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps"]
 ---
 

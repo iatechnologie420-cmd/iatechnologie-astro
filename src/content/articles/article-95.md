@@ -3,7 +3,7 @@ title: "나이키 기술이 스포츠계에 혁명을 일으키고 있나요?"
 slug: "article-95"
 excerpt: "나이키의 스포츠 기술 혁신 나이키 스포츠 장비 분야의 상징적인 브랜드이며, 그 명성은 주로 끊임없는 혁신 능력에 기반을 두고 있습니다. 1964년 창립 이래로 회사는 운동선수의 성과를 향상시키고 스포츠 세계에 혁명을 일으키는 기술 개발에 있어 놀라운 독창성을 보여왔습니다. 플라이니트 기술: 가벼움과 핏 기술 혁신의 가장 눈에 띄는 사례 중 하나 나이키 플라이니트 기술입니다. 운동화 분야의 이러한 획기적인 [&hellip;]"
 date: "2024-03-09T12:34:09"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ed%8c%8c%ea%b4%b4%ec%a0%81%ec%9d%b4%ea%b3%a0-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%98%81%ec%8b%a0-ko"]
 ---
 

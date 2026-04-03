@@ -3,7 +3,7 @@ title: "Upplýsingatækni / upplýsingatækni: hvað er upplýsingatækni?"
 slug: "upplysingataekni-upplysingataekni-hvad-er-upplysingataekni"
 excerpt: "Skilningur á upplýsingatækni: Skilgreining og þróun upplýsingatækni Hvað er það? Hugtakið ÞAÐ, Fyrir Upplýsingatækni á ensku, tilgreinir alla tækni sem tengist vinnslu og stjórnun á upplýsingar og gögn. Þetta víðfeðma svið nær því yfir tölvunarfræði, fjarskipti, gagnagrunnsstjórnunarkerfi, upplýsingaöryggi og margt fleira. ÞAÐ er nauðsynlegt í nútíma heimi: það gerir fyrirtækjum kleift að starfa á skilvirkan [&hellip;]"
 date: "2024-03-09T12:20:27"
-featuredImage: "/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
 ---
 
@@ -87,7 +87,7 @@ categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png" alt="" class="wp-image-1108" srcset="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png" alt="" class="wp-image-1108" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png" alt="" class="wp-image-1110" srcset="/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png" alt="" class="wp-image-1110" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2.png 1792w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-300x171.png 300w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1024x585.png 1024w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-150x86.png 150w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-768x439.png 768w, /images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

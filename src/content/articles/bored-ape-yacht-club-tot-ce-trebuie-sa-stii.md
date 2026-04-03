@@ -3,7 +3,7 @@ title: "Bored Ape Yacht Club: tot ce trebuie să știi"
 slug: "bored-ape-yacht-club-tot-ce-trebuie-sa-stii"
 excerpt: "Ce este Bored Ape Yacht Club? THE Bored Ape Yacht Club este un fenomen recent care zguduie lumea Jetoane nefungibile (NFT). Aceste maimuțe virtuale ilustrate în mod unic au devenit simbolul statutului de miliardar în lumea cripto. Dar ce face aceste NFT-uri atât de speciale? Și de ce au captat imaginația atâtor oameni? În acest [&hellip;]"
 date: "2024-03-09T11:48:48"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["blockchain-si-securitate-digitala-ro", "tehnologie-si-digital-ro"]
 ---
 

@@ -3,7 +3,7 @@ title: "د ډیټا ټیکنالوژیو کې وروستي پرمختګونه څ
 slug: "article-91"
 excerpt: "د ډیټا ټیکنالوژۍ زموږ په عصري ټولنه کې مخ په زیاتیدونکي مهم رول لوبوي. زموږ د ژوند ډیریدونکي ډیجیټل کیدو او هره ورځ رامینځته شوي ډیټا چاودنې سره ، دا خورا مهم دي چې د دې ټیکنالوژیو اهمیت او زموږ په نړۍ باندې د دوی اغیزو باندې پوه شو. پدې مقاله کې به موږ د [&hellip;]"
 date: "2024-03-09T12:30:52"
-featuredImage: "/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelles-sont-les-dernieres-avancees-des-technologies-data-.png"
 categories: ["%d9%bc%db%8c%da%a9%d9%86%d8%a7%d9%84%d9%88%da%98%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d8%ac%db%8c%d9%bc%d9%84-ps", "%da%a9%d9%85%d9%be%db%8c%d9%88%d9%bc%d8%b1%d9%8a-%d8%a7%d9%88-%da%89%db%8c%d9%bc%d8%a7-ps"]
 ---
 

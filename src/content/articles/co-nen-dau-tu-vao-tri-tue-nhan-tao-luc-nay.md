@@ -3,7 +3,7 @@ title: "Có nên đầu tư vào trí tuệ nhân tạo lúc này?"
 slug: "co-nen-dau-tu-vao-tri-tue-nhan-tao-luc-nay"
 excerpt: "Trước khi trả lời có hay không liệu bây giờ có phải là lúc đầu tư vào AI hay không, hãy cùng xem lại lịch sử của AI để đặt mọi thứ vào bối cảnh và đưa ra quyết định sáng suốt. Sự phát triển của trí tuệ nhân tạo AI thông thường AI thông [&hellip;]"
 date: "2024-03-09T12:45:36"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ung-dung-ai-vi"]
 ---
 

@@ -3,7 +3,7 @@ title: "Google Deep Dream: 驚異的な AI の完全ガイド"
 slug: "google-deep-dream-ai"
 excerpt: "Google Deep Dream の概念を理解する 人工知能の魅力的な世界では、特に印象的なイノベーションが登場しました。 Google ディープ ドリーム。として考慮されます 驚くべきAI、このコンセプトは、高度なテクノロジーと無限の想像力を組み合わせて、息を呑むようなビジュアル表現を作成します。このテクノロジーの本質を完全に理解するために、この記事ではその基礎、仕組み、そしてその注目すべき応用について探っていきます。 Google Deep Dream の基礎 Google Deep Dream の基本原理は、AI へのアプローチに基づいています。 畳み込みニューラル ネットワーク。これらのネットワークは、画像内の特定のパターンや構造を認識するように設計された人工ニューラル ネットワークのカテゴリの 1 つです。言い換えれば、彼らは、 人間の脳が視覚情報を処理する方法を模倣する。 この驚くべき AI の仕組み Google Deep Dream の仕組みは、画像の継続的な解釈と再解釈のプロセスを中心としています。実際には、AI は画像を取得し、それをニューラル ネットワークに渡し、認識すると「信じている」特徴を強調するように画像を変更します。これらの変更により、難解な最終イメージが生成される可能性があり、場合によっては 驚くべき。 Google Deep Dream アプリケーション Google Deep Dream の用途は多岐にわたります。現時点では、最も一般的な使用法は、魅惑的なデジタルアートワーク、夢と悪夢が混ざった当惑するものとしてよく説明されます。しかし、この技術がもたらす可能性をさらに探求することで、次のような分野での使用を検討できます。 映画業界、広告、さらには仮想現実。 Google Deep Dream が驚異的な AI とみなされているのはなぜですか? Google Deep Dream の機能 シンプルなイメージを夢のような、時には不穏なビジョンに変える 彼女にそのあだ名がついた [&hellip;]"
 date: "2024-03-09T11:50:35"
-featuredImage: "/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
 categories: ["ai-%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3-ja"]
 ---
 
@@ -63,7 +63,7 @@ categories: ["ai-%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="テクノロジーと芸術の世界に革命をもたらしている驚異的な人工知能、Google Deep Dream の完全ガイドをご覧ください。" class="wp-image-14778" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png" alt="テクノロジーと芸術の世界に革命をもたらしている驚異的な人工知能、Google Deep Dream の完全ガイドをご覧ください。" class="wp-image-14778" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ categories: ["ai-%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="驚くような画像を作成する魅力的な人工知能テクノロジーである Google Deep Dream の完全ガイドをご覧ください。" class="wp-image-14779" srcset="/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png" alt="驚くような画像を作成する魅力的な人工知能テクノロジーである Google Deep Dream の完全ガイドをご覧ください。" class="wp-image-14779" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1.png 1792w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-300x171.png 300w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1024x585.png 1024w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-150x86.png 150w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-768x439.png 768w, /images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

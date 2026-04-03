@@ -3,7 +3,7 @@ title: "인공지능이 인간을 이기는 게임"
 slug: "article-1-9"
 excerpt: "슈퍼컴퓨터의 시작과 체스 도전 슈퍼컴퓨터 시대는 더 이상 먼 미래의 비전이 아니라, 체스 등 전략게임을 비롯한 다양한 분야에 혁명을 일으키고 있는 실질적인 현실입니다. 경이로운 컴퓨팅 성능을 갖춘 이 기계는 인공 지능의 미개척지를 탐구하고 다음과 같은 근본적인 질문을 통해 체스 도전에 도전할 수 있는 이상적인 놀이터를 제공합니다. 항상 지능과 전략의 표준 척도였던 체스 게임에 슈퍼컴퓨터를 적용하면 [&hellip;]"
 date: "2024-03-09T12:38:59"
-featuredImage: "/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 ---
 
@@ -73,7 +73,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png" alt="" class="wp-image-749" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png" alt="" class="wp-image-749" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -109,7 +109,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png" alt="" class="wp-image-750" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png" alt="" class="wp-image-750" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -145,7 +145,7 @@ categories: ["ai-%ed%9b%88%eb%a0%a8-%eb%b0%8f-%ea%b8%b0%ec%b4%88-ko"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png" alt="" class="wp-image-751" srcset="/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png" alt="" class="wp-image-751" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2.png 1792w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-300x171.png 300w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1024x585.png 1024w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-150x86.png 150w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-768x439.png 768w, /images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

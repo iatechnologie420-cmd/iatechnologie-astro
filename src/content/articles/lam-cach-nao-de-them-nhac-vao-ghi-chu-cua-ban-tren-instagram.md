@@ -3,7 +3,7 @@ title: "Làm cách nào để thêm nhạc vào ghi chú của bạn trên Insta
 slug: "lam-cach-nao-de-them-nhac-vao-ghi-chu-cua-ban-tren-instagram"
 excerpt: "Sử dụng tính năng âm nhạc trên Instagram Instagram đã trở thành một nền tảng thiết yếu để chia sẻ những khoảnh khắc, hình ảnh và video trong cuộc sống. Để làm cho bài đăng của bạn hấp dẫn hơn nữa, bạn có thể tích hợp âm nhạc vào nội dung của mình. Trong bài [&hellip;]"
 date: "2024-03-09T12:27:45"
-featuredImage: "/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "nen-tang-va-phuong-tien-ky-thuat-so-vi"]
 ---
 

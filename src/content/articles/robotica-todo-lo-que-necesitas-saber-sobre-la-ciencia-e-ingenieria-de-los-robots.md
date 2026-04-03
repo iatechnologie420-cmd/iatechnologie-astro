@@ -3,7 +3,7 @@ title: "Robótica: todo lo que necesitas saber sobre la ciencia e ingeniería de
 slug: "robotica-todo-lo-que-necesitas-saber-sobre-la-ciencia-e-ingenieria-de-los-robots"
 excerpt: "Comprender la ciencia detrás de las máquinas La robótica es una fascinante rama de la tecnología que combina varios campos del conocimiento para crear máquinas capaces de realizar tareas de forma autónoma o semiautónoma. En este artículo, exploraremos los fundamentos de la robótica, comprenderemos los principios básicos que permiten que los robots funcionen y consideraremos [&hellip;]"
 date: "2024-03-09T11:59:58"
-featuredImage: "/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-3.png"
 categories: ["tecnologia-y-digital-es"]
 ---
 
@@ -109,7 +109,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="585" src="/images/blog/image-1024x585.png" alt="" class="wp-image-14190" srcset="/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="585" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png" alt="" class="wp-image-14190" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/image-1024x585.png 1024w, /images/blog/image-300x171.png 300w, /images/blog/image-150x86.png 150w, /images/blog/image-768x439.png 768w, /images/blog/image-1536x878.png 1536w, /images/blog/image.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -227,7 +227,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png" alt="" class="wp-image-1047" srcset="/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png 1792w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-300x171.png 300w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1024x585.png 1024w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-150x86.png 150w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-768x439.png 768w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png" alt="" class="wp-image-1047" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2.png 1792w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-300x171.png 300w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1024x585.png 1024w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-150x86.png 150w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-768x439.png 768w, /images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

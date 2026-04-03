@@ -3,7 +3,7 @@ title: "Đổi mới công nghệ: ngày nay chúng ta đang ở đâu?"
 slug: "doi-moi-cong-nghe-ngay-nay-chung-ta-dang-o-dau"
 excerpt: "Những tiến bộ công nghệ gần đây Những tiến bộ công nghệ gần đây Những tiến bộ công nghệ gần đây đã thay đổi hoàn toàn cách chúng ta sống, làm việc và giao tiếp. Các công nghệ mới xuất hiện thường xuyên, thúc đẩy xã hội của chúng ta hướng tới một tương lai [&hellip;]"
 date: "2024-03-09T12:45:51"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi"]
 ---
 

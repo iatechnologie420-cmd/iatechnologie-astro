@@ -3,7 +3,7 @@ title: "Mediaantehnoloogiad aktsiaturul: reaalne võimalus?"
 slug: "mediaantehnoloogiad-aktsiaturul-reaalne-voimalus"
 excerpt: "Mis on mediaantehnoloogiad? Median Technologies on tehnoloogiaettevõte, mis on spetsialiseerunud kliiniliste uuringute meditsiinilise pildistamise ja pildianalüüsi lahendustele. 2002. aastal asutatud ettevõte on kiiresti saavutanud end oma valdkonna ülemaailmse liidrina, pakkudes uuenduslikke lahendusi meditsiinipiltide tõlgendamiseks ja analüüsimiseks. Median Technologies tooted ja teenused Mediaantehnoloogiad pakub täielikku valikut tooteid ja teenuseid meditsiiniliseks pildianalüüsiks, sealhulgas: &#8211; iBiopsy®: tehisintellekti platvorm, [&hellip;]"
 date: "2024-03-09T12:28:55"
-featuredImage: "/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Median-Technologies-en-Bourse-Une-opportunite-a-ne-pas-manquer-.png"
 categories: ["tehnoloogia-ja-digitaalne-et"]
 ---
 

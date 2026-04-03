@@ -114,7 +114,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-id", "teknologi-dan-digital-id"
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux.png" alt="" class="wp-image-1025" srcset="/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux.png 1792w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-300x171.png 300w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1024x585.png 1024w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-150x86.png 150w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-768x439.png 768w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux.png" alt="" class="wp-image-1025" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux.png 1792w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-300x171.png 300w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1024x585.png 1024w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-150x86.png 150w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-768x439.png 768w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -202,7 +202,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-id", "teknologi-dan-digital-id"
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1.png" alt="" class="wp-image-1026" srcset="/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1.png 1792w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-300x171.png 300w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-1024x585.png 1024w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-150x86.png 150w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-768x439.png 768w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1.png" alt="" class="wp-image-1026" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1.png 1792w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-300x171.png 300w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-1024x585.png 1024w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-150x86.png 150w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-768x439.png 768w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -282,6 +282,6 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-id", "teknologi-dan-digital-id"
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2.png" alt="" class="wp-image-1027" srcset="/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2.png 1792w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-300x171.png 300w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-1024x585.png 1024w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-150x86.png 150w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-768x439.png 768w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2.png" alt="" class="wp-image-1027" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2.png 1792w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-300x171.png 300w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-1024x585.png 1024w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-150x86.png 150w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-768x439.png 768w, /images/blog/Quest-ce-que-la-deep-tech-Definition-et-enjeux-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 

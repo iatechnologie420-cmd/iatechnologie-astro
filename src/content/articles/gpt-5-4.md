@@ -3,7 +3,7 @@ title: "GPT-5: ನಮಗೆ ತಿಳಿದಿರುವ ಎಲ್ಲವೂ"
 slug: "gpt-5-4"
 excerpt: "ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ವಿಕಸನ: GPT-3 ರಿಂದ GPT-5 ವರೆಗೆ ನ ಉಲ್ಕೆಯ ಪ್ರಗತಿಉತ್ಪಾದಕ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ತಾಂತ್ರಿಕ ಭೂದೃಶ್ಯದಲ್ಲಿ ವಿದ್ಯಮಾನವು ಈ ಕ್ಷಣದಲ್ಲಿ ನಡೆಸುತ್ತಿದೆ ChatGPT. GPT-3 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, GPT-4 ಗಾಗಿ ಕಾಯುತ್ತಿರುವಾಗ, ಮಧ್ಯಂತರ ಆವೃತ್ತಿ GPT-3.5 ಅನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಗಿದೆ OpenAI. ಆದರೆ ನಿಜವಾದ ಕ್ರಾಂತಿಯು ಭವಿಷ್ಯದ GPT-5 ನ ನಿರೀಕ್ಷೆಯೊಂದಿಗೆ ಕುದಿಸುತ್ತಿದೆ, ಇಲ್ಲಿಯವರೆಗೆ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದ ಎಲ್ಲಕ್ಕಿಂತ ಹೆಚ್ಚು ಬುದ್ಧಿವಂತ ಎಂದು ಭರವಸೆ ನೀಡಿದೆ. ChatGPT: ಸುಧಾರಿತ ಸಂವಾದಾತ್ಮಕ ಏಜೆಂಟ್ ChatGPT, ಇಂದು ಇದು ಉತ್ಪಾದಕ [&hellip;]"
 date: "2024-03-09T11:50:42"
-featuredImage: "/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-2.png"
 categories: ["ai-%e0%b2%85%e0%b2%aa%e0%b3%8d%e0%b2%b2%e0%b2%bf%e0%b2%95%e0%b3%87%e0%b2%b6%e0%b2%a8%e0%b3%8d%e0%b2%97%e0%b2%b3%e0%b3%81-kn"]
 ---
 
@@ -65,7 +65,7 @@ categories: ["ai-%e0%b2%85%e0%b2%aa%e0%b3%8d%e0%b2%b2%e0%b2%bf%e0%b2%95%e0%b3%87
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="ಕ್ರಾಂತಿಕಾರಿ ಹೊಸ ನೈಸರ್ಗಿಕ ಭಾಷಾ ಸಂಸ್ಕರಣಾ ಸಾಧನವಾದ GPT-5 ಕುರಿತು ನಮಗೆ ತಿಳಿದಿರುವ ಎಲ್ಲವನ್ನೂ ಕಂಡುಹಿಡಿಯಿರಿ." class="wp-image-14752" srcset="/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png" alt="ಕ್ರಾಂತಿಕಾರಿ ಹೊಸ ನೈಸರ್ಗಿಕ ಭಾಷಾ ಸಂಸ್ಕರಣಾ ಸಾಧನವಾದ GPT-5 ಕುರಿತು ನಮಗೆ ತಿಳಿದಿರುವ ಎಲ್ಲವನ್ನೂ ಕಂಡುಹಿಡಿಯಿರಿ." class="wp-image-14752" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/GPT-5-tout-ce-que-nous-savons-1.png 1792w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-300x171.png 300w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1024x585.png 1024w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-150x86.png 150w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-768x439.png 768w, /images/blog/GPT-5-tout-ce-que-nous-savons-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

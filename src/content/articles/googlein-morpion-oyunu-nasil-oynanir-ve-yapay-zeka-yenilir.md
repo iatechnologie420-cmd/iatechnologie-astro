@@ -3,7 +3,7 @@ title: "Google&#8217;ın Morpion oyunu: Nasıl oynanır ve yapay zeka yenilir?"
 slug: "googlein-morpion-oyunu-nasil-oynanir-ve-yapay-zeka-yenilir"
 excerpt: "Google&#8217;ın Tic-Toe oyununun kuralları Oyunun amacı Tic-tac-toe olarak da adlandırılan Morpion oyunu, 3&#215;3&#8217;lük bir ızgara üzerinde oynanan bir strateji oyunudur. Amaç, rakibinizden önce yatay, dikey veya çapraz olarak üç aynı sembolü (çapraz veya daire) sıraya koymaktır. Kurmak Google Tic Toe oyunu çevrimiçi olarak mevcuttur ve akıllı telefonlar, tabletler veya bilgisayarlar dahil olmak üzere farklı cihazlarda [&hellip;]"
 date: "2024-03-09T12:44:47"
-featuredImage: "/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
 categories: ["teknoloji-ve-dijital-tr"]
 ---
 

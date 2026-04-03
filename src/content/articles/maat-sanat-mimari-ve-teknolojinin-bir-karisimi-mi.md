@@ -3,7 +3,7 @@ title: "MAAT: sanat, mimari ve teknolojinin bir karışımı mı?"
 slug: "maat-sanat-mimari-ve-teknolojinin-bir-karisimi-mi"
 excerpt: "MAAT&#8217;ın hikayesi: sanat ve mimarinin karışımı Sanat, Mimarlık ve Teknolojiler Müzesi&#8217;nin kısaltması olan MAAT, sanat, mimari ve teknoloji arasındaki kaynaşmaya tanıklık eden sembolik bir yerdir. Lizbon&#8217;daki Tagus nehrinin kıyısında yer alan otel, estetik ve yenilik arasındaki uyumlu evliliği mükemmel bir şekilde temsil ediyor. Bu makalede MAAT&#8217;ın büyüleyici tarihine değineceğiz ve onun çağdaş sanat dünyasında nasıl [&hellip;]"
 date: "2024-03-09T12:29:55"
-featuredImage: "/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-MAAT-un-melange-dart-darchitecture-et-de-technologie-fascinant-.png"
 categories: ["teknoloji-ve-dijital-tr", "yikici-ve-gelisen-yenilikler-tr"]
 ---
 

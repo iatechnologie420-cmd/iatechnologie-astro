@@ -3,7 +3,7 @@ title: "Technologische Innovation: Wo stehen wir heute?"
 slug: "technologische-innovation-wo-stehen-wir-heute"
 excerpt: "Aktuelle technologische Fortschritte Aktuelle technologische Fortschritte Die jüngsten technologischen Fortschritte haben die Art und Weise, wie wir leben, arbeiten und kommunizieren, radikal verändert. Regelmäßig entstehen neue Technologien, die unsere Gesellschaft in eine immer vernetztere und innovativere Zukunft führen. In diesem Artikel werden wir einige der neuesten bahnbrechenden technologischen Fortschritte in verschiedenen Bereichen untersuchen. 1. Künstliche [&hellip;]"
 date: "2024-03-09T12:42:38"
-featuredImage: "/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["technologie-und-digital-de"]
 ---
 

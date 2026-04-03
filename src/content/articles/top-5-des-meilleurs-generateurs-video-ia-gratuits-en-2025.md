@@ -3,7 +3,7 @@ title: "Top 5 des meilleurs générateurs vidéo IA gratuits en 2025"
 slug: "top-5-des-meilleurs-generateurs-video-ia-gratuits-en-2025"
 excerpt: "Tu veux créer des vidéos IA gratuitement, sans abonnement, sans carte bancaire, et sans passer des heures à comprendre comment ça marche ? Tu es au bon endroit. Dans cet article, on te présente&nbsp;les 5 meilleures plateformes gratuites pour générer des vidéos avec l’IA, que tu sois créateur de contenu, curieux, étudiant ou professionnel. ✅&nbsp;Aucun [&hellip;]"
 date: "2025-09-24T05:25:46"
-featuredImage: "/images/blog/Copie-de-Sans-titre-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Copie-de-Sans-titre-3.png"
 categories: ["ia", "outils-ia-saas-tests-et-avis"]
 ---
 

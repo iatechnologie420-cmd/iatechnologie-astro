@@ -3,7 +3,7 @@ title: "ಮೆಣಸು: ಸಾಫ್ಟ್‌ಬ್ಯಾಂಕ್‌ನ ಸಾ
 slug: "article-3-10"
 excerpt: "ಮೆಣಸು: ಪ್ರಸ್ತುತಿ ಮತ್ತು ಮೂಲಭೂತ ಕಾರ್ಯಗಳು ಸಾರಾಂಶ ಸಾಮಾಜಿಕ ರೋಬೋಟ್ ಮೆಣಸು ಸಾಮಾಜಿಕ ಪರಿಸರದಲ್ಲಿ ಮಾನವರೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ತಾಂತ್ರಿಕ ಸಾಧನೆಯಾಗಿದೆ. ಹಲವಾರು ಸಂವೇದಕಗಳು ಮತ್ತು ಸುಧಾರಿತ AI ಯೊಂದಿಗೆ ಸಜ್ಜುಗೊಂಡಿದೆ, ಪೆಪ್ಪರ್ ನಮ್ಮ ನಡವಳಿಕೆಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳುವಾಗ ನಮ್ಮ ಭಾವನೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತದೆ. ಈ ಲೇಖನದ ಮೂಲಕ, ನಾವು ಪೆಪ್ಪರ್‌ನ ಮೂಲಭೂತ ಕಾರ್ಯಗಳನ್ನು ಮತ್ತು ಚಟುವಟಿಕೆಯ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಅದರ ಪ್ರಮುಖ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತೇವೆ. ಪೆಪ್ಪರ್ ಸಾಮಾಜಿಕ ರೋಬೋಟ್ ಎಂದರೇನು? ಸಾಫ್ಟ್‌ಬ್ಯಾಂಕ್ ರೊಬೊಟಿಕ್ಸ್ ಕಂಪನಿಯಿಂದ [&hellip;]"
 date: "2024-03-09T11:50:45"
-featuredImage: "/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["%e0%b2%b5%e0%b2%bf%e0%b2%9a%e0%b3%8d%e0%b2%9b%e0%b2%bf%e0%b2%a6%e0%b3%8d%e0%b2%b0%e0%b2%95%e0%b2%be%e0%b2%b0%e0%b2%95-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%89%e0%b2%a6%e0%b2%af%e0%b3%8b"]
 ---
 
@@ -75,7 +75,7 @@ categories: ["%e0%b2%b5%e0%b2%bf%e0%b2%9a%e0%b3%8d%e0%b2%9b%e0%b2%bf%e0%b2%a6%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="ಪೆಪ್ಪರ್, ಸಾಫ್ಟ್‌ಬ್ಯಾಂಕ್‌ನ ಸಾಮಾಜಿಕ ಬೋಟ್, ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳು, ಬಳಕೆ ಮತ್ತು ವೈಶಿಷ್ಟ್ಯಗಳ ಬಗ್ಗೆ ಎಲ್ಲವನ್ನೂ ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ." class="wp-image-14767" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png" alt="ಪೆಪ್ಪರ್, ಸಾಫ್ಟ್‌ಬ್ಯಾಂಕ್‌ನ ಸಾಮಾಜಿಕ ಬೋಟ್, ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳು, ಬಳಕೆ ಮತ್ತು ವೈಶಿಷ್ಟ್ಯಗಳ ಬಗ್ಗೆ ಎಲ್ಲವನ್ನೂ ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ." class="wp-image-14767" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ categories: ["%e0%b2%b5%e0%b2%bf%e0%b2%9a%e0%b3%8d%e0%b2%9b%e0%b2%bf%e0%b2%a6%e0
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="ಮೆಣಸು, ಸಾಫ್ಟ್‌ಬ್ಯಾಂಕ್‌ನ ಸಾಮಾಜಿಕ ರೋಬೋಟ್ - ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳು, ಅದರ ಬಳಕೆ ಮತ್ತು ಸಮಾಜದ ಮೇಲೆ ಅದರ ಪ್ರಭಾವದ ಬಗ್ಗೆ ಎಲ್ಲವನ್ನೂ ಕಂಡುಹಿಡಿಯಿರಿ." class="wp-image-14768" srcset="/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png" alt="ಮೆಣಸು, ಸಾಫ್ಟ್‌ಬ್ಯಾಂಕ್‌ನ ಸಾಮಾಜಿಕ ರೋಬೋಟ್ - ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳು, ಅದರ ಬಳಕೆ ಮತ್ತು ಸಮಾಜದ ಮೇಲೆ ಅದರ ಪ್ರಭಾವದ ಬಗ್ಗೆ ಎಲ್ಲವನ್ನೂ ಕಂಡುಹಿಡಿಯಿರಿ." class="wp-image-14768" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1.png 1792w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-300x171.png 300w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1024x585.png 1024w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-150x86.png 150w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-768x439.png 768w, /images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

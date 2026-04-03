@@ -3,7 +3,7 @@ title: "Jak dodać muzykę do notatek na Instagramie?"
 slug: "jak-dodac-muzyke-do-notatek-na-instagramie"
 excerpt: "Korzystaj z funkcji muzycznych na Instagramie Instagram stał się niezbędną platformą do dzielenia się chwilami z życia, zdjęciami i filmami. Aby Twoje posty były jeszcze bardziej wciągające, możesz zintegrować muzykę ze swoimi treściami. W tym artykule omówimy różne funkcje muzyczne na Instagramie i pokażemy, jak z nich korzystać, aby tworzyć oryginalne i wciągające posty. Po [&hellip;]"
 date: "2024-03-09T12:26:42"
-featuredImage: "/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["media-i-platformy-cyfrowe-pl", "technologia-i-cyfrowosc-pl"]
 ---
 

@@ -3,7 +3,7 @@ title: "Играта Morpion на Google: Како да се игра и да с
 slug: "morpion-google-1"
 excerpt: "Правилата на играта Tic-Toe на Google Цел на играта Играта Morpion, исто така наречена Tic-tac-toe, е стратешка игра која се игра на мрежа 3&#215;3. Целта е да се постават три идентични симболи (крст или круг) хоризонтално, вертикално или дијагонално пред вашиот противник. Поставете Играта Google Tic Toe е достапна на интернет и може да се [&hellip;]"
 date: "2024-03-09T12:43:16"
-featuredImage: "/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
 categories: ["%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

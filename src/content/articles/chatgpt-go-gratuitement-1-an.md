@@ -3,7 +3,7 @@ title: "ChatGPT Go : comment obtenir l’abonnement payant de ChatGPT gratuiteme
 slug: "chatgpt-go-gratuitement-1-an"
 excerpt: "Introduction OpenAI frappe encore un grand coup ! Après avoir révolutionné la création d’images, de vidéos et de voix, l’entreprise rend désormais son intelligence artificielle plus accessible grâce à&nbsp;ChatGPT Go&nbsp;— une version allégée mais puissante de ChatGPT Plus, qui peut être activée&nbsp;gratuitement pendant 12 mois.Oui, vous avez bien lu : un an d’accès premium, sans [&hellip;]"
 date: "2025-11-08T06:26:42"
-featuredImage: "/images/blog/Copie-de-Copie-de-Copie-de-Sans-titre-9.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Copie-de-Copie-de-Copie-de-Sans-titre-9.png"
 categories: ["ia"]
 ---
 

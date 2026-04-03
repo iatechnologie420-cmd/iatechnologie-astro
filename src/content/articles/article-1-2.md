@@ -3,7 +3,7 @@ title: "마크 주커버그의 키와 몸무게는 얼마입니까?"
 slug: "article-1-2"
 excerpt: "마크 주커버그의 키: 신화인가 현실인가? 그의 사이즈를 둘러싼 논란 수년 동안 페이스북의 창업자인 마크 주커버그의 키에 대한 질문은 많은 추측과 논쟁의 대상이 되어 왔습니다. 어떤 사람들은 보기보다 작다고 주장하는 반면, 다른 사람들은 실제로는 꽤 크다고 주장합니다. 그렇다면 마크 저커버그의 키에 대한 진실은 무엇일까요? 근거없는 소문 인터넷에는 마크 저커버그의 키가 1m60도 안 된다는 루머가 많이 돌고 [&hellip;]"
 date: "2024-03-09T12:36:44"
-featuredImage: "/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko"]
 ---
 

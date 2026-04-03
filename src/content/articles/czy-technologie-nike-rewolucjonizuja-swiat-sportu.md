@@ -3,7 +3,7 @@ title: "Czy technologie Nike rewolucjonizują świat sportu?"
 slug: "czy-technologie-nike-rewolucjonizuja-swiat-sportu"
 excerpt: "Innowacje technologiczne Nike w sporcie Nike to kultowa marka w branży sprzętu sportowego, a jej reputacja w dużej mierze opiera się na zdolności do ciągłych innowacji. Od chwili założenia w 1964 roku firma wykazała się niezwykłą pomysłowością w opracowywaniu technologii poprawiających wyniki sportowców i rewolucjonizujących świat sportu. Technologia Flyknit: lekkość i dopasowanie Jeden z najbardziej [&hellip;]"
 date: "2024-03-09T12:35:18"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["przelomowe-i-powstajace-innowacje-pl", "technologia-i-cyfrowosc-pl"]
 ---
 

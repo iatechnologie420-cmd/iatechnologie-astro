@@ -3,7 +3,7 @@ title: "Truflandi tækni umbreytir bankastarfsemi?"
 slug: "truflandi-taekni-umbreytir-bankastarfsemi"
 excerpt: "Umbreyting bankastarfsemi með truflandi tækni hefur gjörbreytt fjármálageiranum á undanförnum árum. Tækniframfarir hafa gert það að verkum að nýjar nýstárlegar lausnir hafa komið fram sem breyta því hvernig bankar starfa og hafa samskipti við viðskiptavini sína. Í þessari grein munum við kanna mismunandi víddir þessarar umbreytingar og áhrifin sem hún hefur á bankaiðnaðinn. Stafræn væðing: [&hellip;]"
 date: "2024-03-09T12:34:20"
-featuredImage: "/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/BNP-Comment-la-technologie-disruptive-transforme-t-elle-la-banque-.png"
 categories: ["taekni-og-stafraen-is", "truflandi-og-nyjar-nyjungar-is"]
 ---
 

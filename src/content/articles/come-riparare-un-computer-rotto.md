@@ -3,7 +3,7 @@ title: "Come riparare un computer rotto?"
 slug: "come-riparare-un-computer-rotto"
 excerpt: "Diagnosi del guasto del tuo computer Incontrare un problema con il computer a volte può trasformarsi in un vero mal di testa. Il computer è un complesso tecnologico e quando qualcosa non funziona come previsto, le ragioni possibili sono spesso molteplici. In questo articolo ti offriamo una guida pratica per aiutarti a identificare il problema [&hellip;]"
 date: "2024-03-09T12:06:30"
-featuredImage: "/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-reparer-un-ordinateur-defectueux-.png"
 categories: ["tecnologia-e-digitale-it"]
 ---
 

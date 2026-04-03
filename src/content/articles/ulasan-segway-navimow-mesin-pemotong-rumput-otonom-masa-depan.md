@@ -3,7 +3,7 @@ title: "Ulasan Segway Navimow: Mesin pemotong rumput otonom masa depan?"
 slug: "ulasan-segway-navimow-mesin-pemotong-rumput-otonom-masa-depan"
 excerpt: "Keunggulan mesin pemotong rumput otonom Segway Navimow Bayangkan bisa menikmati taman Anda sepenuhnya tanpa mengkhawatirkan tugas memotong rumput. Berkat mesin pemotong rumput otonom Segway Navimow, tugas membosankan ini kini menjadi masa lalu. Dilengkapi dengan fitur-fitur inovatif dan teknologi canggih, mesin pemotong rumput otonom ini menawarkan banyak manfaat yang akan membuat kehidupan sehari-hari Anda lebih mudah. [&hellip;]"
 date: "2024-03-09T12:35:22"
-featuredImage: "/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["teknologi-dan-digital-id", "teknologi-yang-dapat-dipakai-dan-iot-id"]
 ---
 

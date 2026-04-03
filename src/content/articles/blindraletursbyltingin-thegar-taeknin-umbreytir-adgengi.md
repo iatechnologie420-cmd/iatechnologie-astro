@@ -3,7 +3,7 @@ title: "blindraletursbyltingin: Þegar tæknin umbreytir aðgengi"
 slug: "blindraletursbyltingin-thegar-taeknin-umbreytir-adgengi"
 excerpt: "blindraletursbyltingin á tækniöld Tilurð blindraleturs og samtímaaðlögunar Upphaflega þróað af Louis blindraletri á 19. öld, gerði ritkerfið fyrir blinda og sjónskerta þekkt sem blindraletur byltingu í samskiptum þeirra. Innblásin af vélbúnaði sem er hannaður fyrir herinn til að lesa í myrkri, fínstillti Louis Braille aðferðina til að gera hana fljótandi og fljóta undir fingrunum. Þessi [&hellip;]"
 date: "2024-03-09T12:19:03"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["taekni-og-stafraen-is", "truflandi-og-nyjar-nyjungar-is"]
 ---
 

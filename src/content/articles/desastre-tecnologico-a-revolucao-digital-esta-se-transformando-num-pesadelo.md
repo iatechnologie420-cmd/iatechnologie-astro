@@ -3,7 +3,7 @@ title: "Desastre tecnológico: a revolução digital está se transformando num 
 slug: "desastre-tecnologico-a-revolucao-digital-esta-se-transformando-num-pesadelo"
 excerpt: "O impacto da revolução digital na nossa sociedade A revolução digital que caracteriza o nosso tempo perturbou muitos aspectos da nossa sociedade. As tecnologias digitais e o acesso à Internet transformaram a forma como comunicamos, trabalhamos, consumimos e até vivemos. Este artigo explora as consequências desta revolução nas nossas vidas quotidianas e destaca as questões [&hellip;]"
 date: "2024-03-09T12:31:53"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["tecnologia-e-digital-pt", "tecnologia-verde-e-cidades-inteligentes-pt"]
 ---
 

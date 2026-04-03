@@ -3,7 +3,7 @@ title: "Adakah teknologi Nike merevolusikan dunia sukan?"
 slug: "adakah-teknologi-nike-merevolusikan-dunia-sukan"
 excerpt: "Inovasi teknologi Nike dalam sukan Nike ialah jenama ikonik dalam bidang peralatan sukan, dan reputasinya sebahagian besarnya berdasarkan keupayaannya untuk sentiasa berinovasi. Sejak penubuhannya pada tahun 1964, syarikat itu telah menunjukkan kepintaran yang luar biasa dalam membangunkan teknologi yang meningkatkan prestasi atlet dan merevolusikan dunia sukan. Teknologi Flyknit: ringan dan sesuai Salah satu contoh inovasi [&hellip;]"
 date: "2024-03-09T12:34:47"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"]
 ---
 

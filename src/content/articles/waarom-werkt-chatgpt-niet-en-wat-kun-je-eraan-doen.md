@@ -3,7 +3,7 @@ title: "Waarom werkt ChatGPT niet en wat kun je eraan doen?"
 slug: "waarom-werkt-chatgpt-niet-en-wat-kun-je-eraan-doen"
 excerpt: "Waarom werkt ChatGPT niet? Wanneer u ChatGPT gebruikt, kunt u problemen tegenkomen waardoor het niet goed werkt. Hoewel deze problemen frustrerend zijn, kunnen ze verschillende oorzaken hebben. In dit artikel zullen we enkele veelvoorkomende redenen onderzoeken waarom ChatGPT mogelijk niet goed werkt en u oplossingen bieden om deze op te lossen. 1. Onstabiele internetverbinding Een [&hellip;]"
 date: "2024-03-09T12:17:01"
-featuredImage: "/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ai-toepassingen-nl"]
 ---
 

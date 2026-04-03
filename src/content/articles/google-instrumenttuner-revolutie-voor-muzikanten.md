@@ -3,7 +3,7 @@ title: "Google-instrumenttuner: revolutie voor muzikanten?"
 slug: "google-instrumenttuner-revolutie-voor-muzikanten"
 excerpt: "Het belang van het stemmen van muziekinstrumenten Stemmen is een van de belangrijkste aspecten als het gaat om het bespelen van een muziekinstrument. Of je nu een beginner of een ervaren muzikant bent, je moet je instrument regelmatig stemmen om het best mogelijke geluid te krijgen. In dit artikel onderzoeken we het belang van het [&hellip;]"
 date: "2024-03-09T12:39:34"
-featuredImage: "/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["technologie-en-digitaal-nl"]
 ---
 

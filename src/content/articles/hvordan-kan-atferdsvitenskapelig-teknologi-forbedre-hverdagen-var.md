@@ -3,7 +3,7 @@ title: "Hvordan kan atferdsvitenskapelig teknologi forbedre hverdagen vår?"
 slug: "hvordan-kan-atferdsvitenskapelig-teknologi-forbedre-hverdagen-var"
 excerpt: "Effekten av teknologi i atferdsvitenskap Teknologi har betydelig påvirket mange felt, inkludert atferdsvitenskap. Takket være teknologiske fremskritt har forskere tilgang til verktøy og metoder som lar dem forstå og analysere menneskelig atferd bedre. I denne artikkelen vil vi utforske de ulike aspektene av virkningen av teknologi i atferdsvitenskap og hvordan den kan forbedre hverdagen vår. [&hellip;]"
 date: "2024-03-09T12:45:09"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["teknologi-og-digitalt-nb"]
 ---
 

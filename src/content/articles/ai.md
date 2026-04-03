@@ -3,7 +3,7 @@ title: "ಮಿಡ್‌ಜರ್ನಿ: ವಿವಾದಾತ್ಮಕ AI ಬಗ
 slug: "ai"
 excerpt: "ಮಿಡ್‌ಜರ್ನಿಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಮಿಡ್‌ಜರ್ನಿ ಶಕ್ತಿಯುತ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯಾಗಿದ್ದು, ನಾವು ತಂತ್ರಜ್ಞಾನದೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸುವ ವಿಧಾನವನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ. ಅದರ ಮೂಲಗಳು ಮತ್ತು ಪ್ರಮುಖ ಕಾರ್ಯಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಈ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಸಂಪನ್ಮೂಲವಾಗಿ ಬಳಸಿ. ಮಿಡ್‌ಜರ್ನಿ ಎಂದರೇನು? ಮಿಡ್‌ಜರ್ನಿ ಒಂದು ಸಾಧನವಾಗಿದೆ ಕೃತಕ ಬುದ್ಧಿವಂತಿಕೆ ಅವಂತ್-ಗಾರ್ಡ್ ಹೊಸ ತಂತ್ರಜ್ಞಾನಗಳೊಂದಿಗೆ ನಮ್ಮ ದೈನಂದಿನ ಸಂವಹನಗಳನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಸುಗಮಗೊಳಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಇದು ನಮ್ಮ ಜೀವನದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗುತ್ತಿರುವ ಲೆನ್ಸಾ ಮತ್ತು ಚಾಟ್‌ಜಿಪಿಟಿಯಂತಹ ಇತರ ಗಮನಾರ್ಹ ಸಾಧನಗಳನ್ನು ಒಳಗೊಂಡಂತೆ AI ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ನಿರಂತರವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ [&hellip;]"
 date: "2024-03-09T11:50:52"
-featuredImage: "/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
 categories: ["ai-%e0%b2%85%e0%b2%aa%e0%b3%8d%e0%b2%b2%e0%b2%bf%e0%b2%95%e0%b3%87%e0%b2%b6%e0%b2%a8%e0%b3%8d%e0%b2%97%e0%b2%b3%e0%b3%81-kn"]
 ---
 
@@ -57,7 +57,7 @@ categories: ["ai-%e0%b2%85%e0%b2%aa%e0%b3%8d%e0%b2%b2%e0%b2%bf%e0%b2%95%e0%b3%87
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="ಕ್ರಾಂತಿಕಾರಿ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಬಗ್ಗೆ ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ಮಿಡ್‌ಜರ್ನಿಯೊಂದಿಗೆ ಅನ್ವೇಷಿಸಿ, ಇದು ಮನಸ್ಸನ್ನು ಆಘಾತಗೊಳಿಸುವ ಮೂಲವಾಗಿದೆ." class="wp-image-14773" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png" alt="ಕ್ರಾಂತಿಕಾರಿ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಬಗ್ಗೆ ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ಮಿಡ್‌ಜರ್ನಿಯೊಂದಿಗೆ ಅನ್ವೇಷಿಸಿ, ಇದು ಮನಸ್ಸನ್ನು ಆಘಾತಗೊಳಿಸುವ ಮೂಲವಾಗಿದೆ." class="wp-image-14773" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -105,7 +105,7 @@ categories: ["ai-%e0%b2%85%e0%b2%aa%e0%b3%8d%e0%b2%b2%e0%b2%bf%e0%b2%95%e0%b3%87
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಬಗ್ಗೆ ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ಅನ್ವೇಷಿಸಿ ಅದು ಮಿಡ್‌ಜರ್ನಿ, ಉಲ್ಲೇಖ ವೇದಿಕೆಯೊಂದಿಗೆ ಆಶ್ಚರ್ಯವನ್ನುಂಟು ಮಾಡುತ್ತದೆ." class="wp-image-14774" srcset="/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png" alt="ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಬಗ್ಗೆ ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ಅನ್ವೇಷಿಸಿ ಅದು ಮಿಡ್‌ಜರ್ನಿ, ಉಲ್ಲೇಖ ವೇದಿಕೆಯೊಂದಿಗೆ ಆಶ್ಚರ್ಯವನ್ನುಂಟು ಮಾಡುತ್ತದೆ." class="wp-image-14774" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1.png 1792w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-300x171.png 300w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1024x585.png 1024w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-150x86.png 150w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-768x439.png 768w, /images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

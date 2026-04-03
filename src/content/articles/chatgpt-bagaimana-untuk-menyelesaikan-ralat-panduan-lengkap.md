@@ -3,7 +3,7 @@ title: "ChatGPT: bagaimana untuk menyelesaikan ralat? Panduan lengkap"
 slug: "chatgpt-bagaimana-untuk-menyelesaikan-ralat-panduan-lengkap"
 excerpt: "Fahami dan selesaikan ralat ChatGPT biasa Kecerdasan buatan terus membuat kemajuan besar dalam pembangunan dan peningkatan, tetapi ia jauh dari sempurna. Oleh itu, kita telah melihat kadangkala ralat yang tidak boleh diterima berlaku, yang Ketua Pegawai Eksekutif Google jangan gagal mengenali. Sama ada dari segi pemprosesan maklumat, penjanaan kandungan atau pun apabila a hakim mengeluarkan [&hellip;]"
 date: "2024-03-09T11:51:14"
-featuredImage: "/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["aplikasi-ai-ms"]
 ---
 
@@ -59,7 +59,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="temui panduan lengkap untuk menyelesaikan ralat dengan chatgpt, penyelesaian ideal untuk mengatasi kesukaran yang dihadapi." class="wp-image-14740" srcset="/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png" alt="temui panduan lengkap untuk menyelesaikan ralat dengan chatgpt, penyelesaian ideal untuk mengatasi kesukaran yang dihadapi." class="wp-image-14740" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1.png 1792w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-300x171.png 300w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1024x585.png 1024w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-150x86.png 150w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-768x439.png 768w, /images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

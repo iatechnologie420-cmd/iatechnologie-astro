@@ -3,7 +3,7 @@ title: "Bør vi investere i kunstig intelligens nå?"
 slug: "bor-vi-investere-i-kunstig-intelligens-na"
 excerpt: "Før du svarer ja eller nei om nå er tiden for å investere i AI, la oss gå gjennom historien til AI for å sette ting i sammenheng og ta en gjennomtenkt avgjørelse. Utviklingen av kunstig intelligens Konvensjonell AI Konvensjonell AI, også kjent som &#8220;svak AI&#8221;, hadde sin begynnelse på 1950-tallet. På den tiden fokuserte [&hellip;]"
 date: "2024-03-09T12:44:44"
-featuredImage: "/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Faut-il-investir-dans-lintelligence-artificielle-des-maintenant-.png"
 categories: ["ai-applikasjoner-nb"]
 ---
 

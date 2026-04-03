@@ -3,7 +3,7 @@ title: "Geriausi robotai Žvaigždžių karų visatoje"
 slug: "geriausi-robotai-zvaigzdziu-karu-visatoje"
 excerpt: "Mechaninės legendos: C-3PO ir R2-D2 Laikomi emblemiškiausiais sagos droidais Žvaigždžių karai, C-3PO ir R2-D2 paženklino gerbėjų kartas savo unikalia asmenybe, istorija ir lemiamu vaidmeniu visuose epizoduose. Šiame straipsnyje gilinamasi į šių mechaninių legendų pasaulį, atskleidžiama jų esmė ir kultūrinis poveikis. C-3PO: „Polyglot Droid“ protokolas C-3PO, dažnai pravardžiuojamas Threepio, yra a protokolo droidas skirtos padėti atlikti [&hellip;]"
 date: "2024-03-09T12:22:39"
-featuredImage: "/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["technologijos-ir-skaitmeninis-lt"]
 ---
 

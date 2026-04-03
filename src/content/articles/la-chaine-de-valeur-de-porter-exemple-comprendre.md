@@ -3,7 +3,7 @@ title: "La chaîne de valeur de PORTER | Exemples concrets pour comprendre"
 slug: "la-chaine-de-valeur-de-porter-exemple-comprendre"
 excerpt: "Comprendre la chaîne de valeur de Michael Porter La chaîne de valeur est un concept développé par l’économiste et universitaire américain Michael Porter dans son ouvrage &#8220;Competitive Advantage&#8221; publié en 1985. Ce modèle est essentiel pour analyser les activités internes d&#8217;une entreprise afin d&#8217;optimiser sa valeur créée et ses avantages concurrentiels. Cet article vous présente [&hellip;]"
 date: "2024-02-24T07:21:54"
-featuredImage: "/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-3.png"
 categories: ["computing-et-data"]
 ---
 
@@ -111,7 +111,7 @@ categories: ["computing-et-data"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png" alt="" class="wp-image-1197" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png" alt="" class="wp-image-1197" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -191,7 +191,7 @@ categories: ["computing-et-data"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png" alt="" class="wp-image-1198" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png" alt="" class="wp-image-1198" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ categories: ["computing-et-data"]
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png" alt="" class="wp-image-1199" srcset="/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png" alt="" class="wp-image-1199" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2.png 1792w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-300x171.png 300w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1024x585.png 1024w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-150x86.png 150w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-768x439.png 768w, /images/blog/La-chaine-de-valeur-de-PORTER-Guide-detaille-et-Exemples-concrets-2-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

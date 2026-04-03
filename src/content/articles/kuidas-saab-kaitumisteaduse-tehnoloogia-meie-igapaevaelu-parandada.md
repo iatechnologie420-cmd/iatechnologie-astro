@@ -3,7 +3,7 @@ title: "Kuidas saab käitumisteaduse tehnoloogia meie igapäevaelu parandada?"
 slug: "kuidas-saab-kaitumisteaduse-tehnoloogia-meie-igapaevaelu-parandada"
 excerpt: "Tehnoloogia mõju käitumisteadustes Tehnoloogia on oluliselt mõjutanud paljusid valdkondi, sealhulgas käitumisteadusi. Tänu tehnoloogilistele edusammudele on teadlastel juurdepääs tööriistadele ja meetoditele, mis võimaldavad inimese käitumist paremini mõista ja analüüsida. Selles artiklis uurime tehnoloogia mõju erinevaid aspekte käitumisteadustes ja seda, kuidas see võib meie igapäevaelu parandada. 1. Andmete kogumine ja analüüs Tehnoloogia on muutnud andmete kogumise käitumisteaduseks. [&hellip;]"
 date: "2024-03-09T12:42:45"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["tehnoloogia-ja-digitaalne-et"]
 ---
 

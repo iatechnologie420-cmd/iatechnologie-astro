@@ -3,7 +3,7 @@ title: "AWS 云 – 您需要了解的有关 Amazon Web Services 云的所有信
 slug: "aws-amazon-web-services-3"
 excerpt: "Amazon Web Services (AWS) 简介：云计算的一场革命 自2006年创立以来， 亚马逊网络服务 (AWS) 通过提供具有前所未有的灵活性、规模和规模经济的云服务平台，从根本上改变了 IT 格局。本介绍旨在阐明操作原理AWS 并解释为什么该解决方案已成为云计算的关键参与者。 什么是亚马逊网络服务 (AWS)？ AWS 是全球最全面、应用最广泛的云计算服务平台。它提供广泛的服务，满足 IT 基础设施需求，例如计算能力、数据存储和网络。 AWS 服务使各种规模的企业能够迁移到云或扩大云的使用，从而实现创新、敏捷性和增长。 AWS 云计算的优势 使用服务 AWS 提供多种好处。首先，按需付费模式可以显着降低成本，无需对IT基础设施进行大量投资。弹性和可扩展性是基本方面，能够根据需要调整资源，确保应用程序的优化性能。安全也是重中之重 AWS，为用户提供强大的安全框架和符合最严格国际标准的认证。 Amazon Web Services 最受欢迎的服务 AWS 提供丰富的服务库，但有些服务因其受欢迎程度而脱颖而出。其中我们发现 亚马逊EC2 用于管理虚拟服务器， 亚马逊S3 用于存储物体， 亚马逊RDS 对于关系数据库， AWS Lambda 用于无服务器代码执行，以及 亚马逊专有网络 它允许您创建虚拟专用网络。这些服务的集成使用使得构建高效且可扩展的解决方案成为可能。 主要AWS服务：EC2、S3、RDS等 的报价亚马逊网络服务 (AWS) 内容广泛，有时对于新用户来说似乎很复杂。然而，了解基本服务可以使 AWS 云的采用变得更加容易。本文概述了最相关的 AWS 服务。 AWS 弹性计算云 (EC2) AWS [&hellip;]"
 date: "2024-03-09T12:49:27"
-featuredImage: "/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh-tw", "%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh-tw"]
 ---
 
@@ -49,7 +49,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services.png" alt="" class="wp-image-1681"></figure>
 
 
 
@@ -125,7 +125,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-1.png" alt="" class="wp-image-1682"></figure>
 
 
 
@@ -249,7 +249,7 @@ categories: ["%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e5%92%8c%e7%bd%91%e7%bb%9c-zh
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-2.png" alt="" class="wp-image-1683"></figure>
 
 
 

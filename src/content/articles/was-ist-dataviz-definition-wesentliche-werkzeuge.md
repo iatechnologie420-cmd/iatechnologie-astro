@@ -3,7 +3,7 @@ title: "Was ist Dataviz? Definition, wesentliche Werkzeuge"
 slug: "was-ist-dataviz-definition-wesentliche-werkzeuge"
 excerpt: "Dataviz verstehen: Datenvisualisierung Angesichts der enormen Datenmengen, die jede Sekunde generiert werden, ist es heutzutage unerlässlich zu wissen, wie diese Informationen klar und effektiv dargestellt werden können. Hier ist die Datenvisualisierung, Oder dataviz, ein Fachgebiet, das Design, Erzählung und statistische Analyse kombiniert, um komplexe Daten in intuitive visuelle Darstellungen umzuwandeln. Die Ziele von Dataviz Das [&hellip;]"
 date: "2024-03-09T11:55:30"
-featuredImage: "/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-3.png"
 categories: ["computer-und-daten-de", "technologie-und-digital-de"]
 ---
 
@@ -133,7 +133,7 @@ categories: ["computer-und-daten-de", "technologie-und-digital-de"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels.png" alt="" class="wp-image-1102"></figure>
 
 
 
@@ -189,7 +189,7 @@ categories: ["computer-und-daten-de", "technologie-und-digital-de"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-1.png" alt="" class="wp-image-1103"></figure>
 
 
 
@@ -249,6 +249,6 @@ categories: ["computer-und-daten-de", "technologie-und-digital-de"]
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-dataviz-quest-ce-que-cest-_E2_80_93-Definition-outils-essentiels-2.png" alt="" class="wp-image-1104"></figure>
 
 

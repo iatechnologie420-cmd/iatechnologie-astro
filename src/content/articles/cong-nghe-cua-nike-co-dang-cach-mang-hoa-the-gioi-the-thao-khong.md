@@ -3,7 +3,7 @@ title: "Công nghệ của Nike có đang cách mạng hóa thế giới thể t
 slug: "cong-nghe-cua-nike-co-dang-cach-mang-hoa-the-gioi-the-thao-khong"
 excerpt: "Những đổi mới công nghệ của Nike trong thể thao Nike là một thương hiệu mang tính biểu tượng trong lĩnh vực thiết bị thể thao và danh tiếng của nó phần lớn dựa vào khả năng đổi mới không ngừng. Kể từ khi thành lập vào năm 1964, công ty đã thể hiện sự [&hellip;]"
 date: "2024-03-09T12:36:35"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "nhung-doi-moi-mang-tinh-dot-pha-va-moi-noi-vi"]
 ---
 

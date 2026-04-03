@@ -3,7 +3,7 @@ title: "Kako lahko tehnologija vedenjske znanosti izboljša naše vsakdanje živ
 slug: "kako-lahko-tehnologija-vedenjske-znanosti-izboljsa-nase-vsakdanje-zivljenje"
 excerpt: "Vpliv tehnologije na vedenje Tehnologija je pomembno vplivala na številna področja, vključno z vedenjskimi znanostmi. Zahvaljujoč tehnološkemu napredku imajo raziskovalci dostop do orodij in metod, ki jim omogočajo boljše razumevanje in analizo človeškega vedenja. V tem članku bomo raziskali različne vidike vpliva tehnologije na vedenje in kako lahko izboljša naše vsakdanje življenje. 1. Zbiranje in [&hellip;]"
 date: "2024-03-09T12:46:40"
-featuredImage: "/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-la-technologie-en-sciences-du-comportement-peut-elle-ameliorer-notre-quotidien-.png"
 categories: ["tehnologija-in-digital-sl"]
 ---
 

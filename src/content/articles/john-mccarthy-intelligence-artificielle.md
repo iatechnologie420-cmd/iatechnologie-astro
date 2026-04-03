@@ -3,7 +3,7 @@ title: "John McCarthy : L&#8217;homme qui a inventé l&#8217;intelligence artifi
 slug: "john-mccarthy-intelligence-artificielle"
 excerpt: "Qui était John McCarthy ? John McCarthy, né en 1927 à Boston, est une figure fondatrice de l’intelligence artificielle (IA). Génie des mathématiques dès son plus jeune âge, il apprend le calcul différentiel et intégral avant même d&#8217;entrer à l’université. Après des études au California Institute of Technology, puis un doctorat à Princeton, il s&#8217;oriente [&hellip;]"
 date: "2025-06-10T12:50:14"
-featuredImage: "/images/blog/ChatGPT-Image-10-juin-2025-a-21_57_02.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-Image-10-juin-2025-a-21_57_02.png"
 categories: ["non-classe-fr"]
 ---
 

@@ -3,7 +3,7 @@ title: "Ar „Nike“ technologijos daro perversmą sporto pasaulyje?"
 slug: "ar-nike-technologijos-daro-perversma-sporto-pasaulyje"
 excerpt: "Nike technologinės naujovės sporte Nike yra ikoninis prekės ženklas sporto įrangos srityje, o jo reputacija daugiausia grindžiama gebėjimu nuolat kurti naujoves. Nuo pat įkūrimo 1964 m., bendrovė demonstravo nepaprastą išradingumą kurdama technologijas, kurios pagerina sportininkų rezultatus ir keičia sporto pasaulį. Flyknit technologija: lengvumas ir prigludimas Vienas ryškiausių technologinių naujovių pavyzdžių Nike yra Flyknit technologija. Šis [&hellip;]"
 date: "2024-03-09T12:34:27"
-featuredImage: "/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["technologijos-ir-skaitmeninis-lt", "zlugdancios-ir-atsirandancios-naujoves-lt"]
 ---
 

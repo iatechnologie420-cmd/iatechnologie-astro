@@ -3,7 +3,7 @@ title: "La rivoluzione braille: quando la tecnologia trasforma l&#8217;accessibi
 slug: "la-rivoluzione-braille-quando-la-tecnologia-trasforma-laccessibilita"
 excerpt: "La rivoluzione braille nell’era tecnologica Genesi del braille e adattamenti contemporanei Sviluppato originariamente da Louis Braille nel XIX secolo, il sistema di scrittura per non vedenti e ipovedenti noto come Braille ha rivoluzionato il modo in cui comunicano. Ispirandosi a un meccanismo progettato per consentire all&#8217;esercito di leggere al buio, Louis Braille ha ottimizzato il [&hellip;]"
 date: "2024-03-09T12:19:09"
-featuredImage: "/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-revolution-du-braille-Quand-la-technologie-transforme-laccessibilite.png"
 categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it"]
 ---
 

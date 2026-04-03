@@ -3,7 +3,7 @@ title: "Technologische ramp: de digitale revolutie verandert in een nachtmerrie?
 slug: "technologische-ramp-de-digitale-revolutie-verandert-in-een-nachtmerrie"
 excerpt: "De impact van de digitale revolutie op onze samenleving De digitale revolutie die onze tijd kenmerkt, heeft veel aspecten van onze samenleving ontwricht. Digitale technologieën en toegang tot internet hebben de manier veranderd waarop we communiceren, werken, consumeren en zelfs leven. Dit artikel onderzoekt de gevolgen van deze revolutie op ons dagelijks leven en belicht [&hellip;]"
 date: "2024-03-09T12:31:18"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["groene-technologie-en-slimme-steden-nl", "technologie-en-digitaal-nl"]
 ---
 

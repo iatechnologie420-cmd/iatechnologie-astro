@@ -3,7 +3,7 @@ title: "Bored Ape Yacht Club : tout savoir"
 slug: "bord-ape-yatch-club-tout-savoir"
 excerpt: "Qu&#8217;est-ce que le Bored Ape Yacht Club ? Le Bored Ape Yacht Club est un phénomène récent qui agite le monde des Non-Fungible Tokens (NFT). Ces singes virtuels, illustrés de manière unique, sont devenus le symbole du statut de milliardaire dans le monde crypto. Mais qu&#8217;est-ce qui rend ces NFT si spéciaux ? Et pourquoi [&hellip;]"
 date: "2024-03-06T10:25:41"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["blockchain-et-securite"]
 ---
 

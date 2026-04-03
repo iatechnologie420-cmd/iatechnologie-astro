@@ -3,7 +3,7 @@ title: "Google enstrüman tuneri: müzisyenler için devrim mi?"
 slug: "google-enstruman-tuneri-muzisyenler-icin-devrim-mi"
 excerpt: "Müzik aletlerinin akort edilmesinin önemi Bir müzik aleti çalmak söz konusu olduğunda akort en önemli hususlardan biridir. İster yeni başlayan ister deneyimli bir müzisyen olun, mümkün olan en iyi sesi elde etmek için enstrümanınızı düzenli olarak ayarlamanız gerekir. Bu makalede, müzik enstrümanlarını akort etmenin önemini keşfedeceğiz ve size Google&#8217;ın tam da bu ihtiyacı karşılayan yeni [&hellip;]"
 date: "2024-03-09T12:40:42"
-featuredImage: "/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["teknoloji-ve-dijital-tr"]
 ---
 

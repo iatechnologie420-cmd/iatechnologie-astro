@@ -3,7 +3,7 @@ title: "Технолошка катастрофа: дигиталната рев
 slug: "article-1-12"
 excerpt: "Влијанието на дигиталната револуција врз нашето општество Дигиталната револуција што го карактеризира нашето време наруши многу аспекти на нашето општество. Дигиталните технологии и пристапот до интернет го трансформираа начинот на кој комуницираме, работиме, трошиме, па дури и живееме. Оваа статија ги истражува последиците од оваа револуција врз нашиот секојдневен живот и ги истакнува клучните прашања [&hellip;]"
 date: "2024-03-09T12:30:34"
-featuredImage: "/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Catastrophe-technologique-Quand-la-revolution-numerique-tourne-au-cauchemar-.png"
 categories: ["%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%bf%d0%b0%d0%bc%d0%b5%d1%82%d0%bd%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-mk", "%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%98%d0%b0-%d0%b8-%d0%b4%d0%b8%d0%b3%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-mk"]
 ---
 

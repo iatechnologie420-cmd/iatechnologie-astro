@@ -3,7 +3,7 @@ title: "데이터 백업: 그게 뭐고, 왜 하는 걸까요?"
 slug: "article-5-3"
 excerpt: "백업의 중요성 이해 하드웨어 오류, 사람의 실수, 맬웨어 또는 자연 재해로 인해 발생할 수 있는 손실로부터 정보를 보호하려면 데이터 백업이 필수적입니다. 적절한 백업 시스템을 사용하면 손실되거나 손상된 데이터를 복원하고 작업의 연속성을 보장할 수 있습니다. 백업 유형을 알아보세요 여러 가지 백업 방법이 있으며 각 방법은 특정 요구 사항에 맞게 조정됩니다. 백업 빈도 선택 백업 빈도는 데이터 [&hellip;]"
 date: "2024-03-09T12:04:39"
-featuredImage: "/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-3.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-3.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b0%8f-%eb%8d%b0%ec%9d%b4%ed%84%b0-ko"]
 ---
 
@@ -95,7 +95,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-.png" alt="" class="wp-image-1211" srcset="/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-.png 1792w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--300x171.png 300w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--1024x585.png 1024w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--150x86.png 150w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--768x439.png 768w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-.png" alt="" class="wp-image-1211" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-.png 1792w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--300x171.png 300w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--1024x585.png 1024w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--150x86.png 150w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--768x439.png 768w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert--1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -151,7 +151,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%ec%
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1.png" alt="" class="wp-image-1212" srcset="/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1.png 1792w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-300x171.png 300w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-1024x585.png 1024w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-150x86.png 150w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-768x439.png 768w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1792" height="1024" src="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1.png" alt="" class="wp-image-1212" srcset="https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1.png 1792w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-300x171.png 300w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-1024x585.png 1024w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-150x86.png 150w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-768x439.png 768w, /images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-1-1536x878.png 1536w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

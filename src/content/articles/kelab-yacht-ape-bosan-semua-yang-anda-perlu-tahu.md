@@ -3,7 +3,7 @@ title: "Kelab Yacht Ape Bosan: semua yang anda perlu tahu"
 slug: "kelab-yacht-ape-bosan-semua-yang-anda-perlu-tahu"
 excerpt: "Apakah Kelab Kapal Layar Beruk Bosan? THE Kelab Kapal Layar Beruk Bosan merupakan fenomena terkini yang menggegarkan dunia Token Tidak Boleh Fungible (NFT). Monyet maya yang digambarkan secara unik ini telah menjadi simbol status jutawan dalam dunia crypto. Tetapi apakah yang membuatkan NFT ini begitu istimewa? Dan mengapa mereka menangkap imaginasi ramai orang? Dalam artikel [&hellip;]"
 date: "2024-03-09T11:47:59"
-featuredImage: "/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
+featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["rantaian-sekat-dan-keselamatan-digital-ms", "teknologi-dan-digital-ms"]
 ---
 
