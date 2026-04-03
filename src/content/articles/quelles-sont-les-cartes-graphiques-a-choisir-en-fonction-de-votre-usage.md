@@ -1,5 +1,4 @@
 ---
-
 title: "Quelles sont les cartes graphiques à choisir en fonction de votre usage ?"
 slug: "quelles-sont-les-cartes-graphiques-a-choisir-en-fonction-de-votre-usage"
 excerpt: "Si vous disposez d&#8217;un ordinateur et que vous souhaitez le booster un peu, notamment en fonction des usages que nous allons voir ci-après, le choix d&#8217;une carte graphique performante s&#8217;impose. Toutefois, il n&#8217;est pas utile d&#8217;investir dans un modèle monstrueux si l&#8217;usage que vous en aurez ne le nécessite pas. Quoi qu&#8217;il en soit, pour [&hellip;]"

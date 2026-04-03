@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: revolusi dalam sambungan wayarles ultra-pantas"
 slug: "li-fi-revolusi-dalam-sambungan-wayarles-ultra-pantas"
 excerpt: "Revolusi Li-Fi senyap: sambungan ringan esok Pengenalan kepada pencahayaan berteknologi tinggi Ia adalah fakta yang kurang diketahui oleh orang awam, tetapi Li-Fi (akronim untuk Light Fidelity) adalah antara teknologi penghantaran wayarles yang paling menjanjikan setakat ini, walaupun ujian pertamanya bermula pada tahun 2005. Ia dibangunkan dalam bayang-bayang, jauh dari tumpuan yang biasanya menerangi kemajuan teknologi [&hellip;]"

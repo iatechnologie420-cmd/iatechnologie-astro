@@ -1,5 +1,4 @@
 ---
-
 title: "ALM eller Application Lifecycle Management: definisjon"
 slug: "alm-eller-application-lifecycle-management-definisjon"
 excerpt: "Det grunnleggende L&#8217;Lifecycle Management app (ALM) er et systematisk styrings- og styringsrammeverk for programvareutvikling. Den omfatter praksis, prosesser og verktøy som gjør det mulig for team å administrere livssyklusen til en applikasjon fra unnfangelse til pensjonering. La oss se nærmere på komponentene og betydningen av ALM i moderne programvareutvikling. Hva er ALM? ALM refererer til [&hellip;]"

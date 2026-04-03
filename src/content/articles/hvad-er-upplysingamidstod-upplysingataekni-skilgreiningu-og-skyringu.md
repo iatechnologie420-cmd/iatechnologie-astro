@@ -1,5 +1,4 @@
 ---
-
 title: "Hvað er upplýsingamiðstöð upplýsingatækni? skilgreiningu og skýringu"
 slug: "hvad-er-upplysingamidstod-upplysingataekni-skilgreiningu-og-skyringu"
 excerpt: "A upplýsingamiðstöð tölvu, einnig nefnt upplýsingamiðstöð, vísar til miðstýrðs kerfis sem er tileinkað gagnastjórnun innan stofnunar. Markmið þess er að safna, geyma, skipuleggja og miðla þeim upplýsingum sem nauðsynlegar eru fyrir starfsemi félagsins. Hlutverk þess er nauðsynlegt til að gera greiningaraðilum og ákvörðunaraðilum kleift að nýta gögn á skilvirkan og upplýstan hátt. Í þessari grein [&hellip;]"

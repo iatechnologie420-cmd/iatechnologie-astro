@@ -1,5 +1,4 @@
 ---
-
 title: "Tähesõdade universumi parimad robotid"
 slug: "tahesodade-universumi-parimad-robotid"
 excerpt: "Mehaanilised legendid: C-3PO ja R2-D2 Peetakse saaga kõige sümboolsemateks droidideks Tähtede sõda, C-3PO ja R2-D2 on tähistanud fännide põlvkondi nende ainulaadse isiksuse, loo ja nende oluliste osadega kõigis episoodides. See artikkel süveneb nende mehaaniliste legendide maailma, paljastades nende olemuse ja kultuurilise mõju. C-3PO: Polygloti droidiprotokoll C-3PO, sageli hüüdnimega Threepio, on a protokolli droid mõeldud abistamiseks [&hellip;]"

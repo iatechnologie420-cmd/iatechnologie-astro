@@ -1,5 +1,4 @@
 ---
-
 title: "ALM ehk rakenduse elutsükli haldus: määratlus"
 slug: "alm-ehk-rakenduse-elutsukli-haldus-maaratlus"
 excerpt: "Põhialused L&#8217;Elutsükli haldamise rakendus (ALM) on tarkvaraarenduse süstemaatiline juhtimis- ja haldusraamistik. See hõlmab tavasid, protsesse ja tööriistu, mis võimaldavad meeskondadel hallata rakenduse elutsüklit alates selle loomisest kuni pensionile jäämiseni. Vaatame lähemalt ALM-i komponente ja tähtsust kaasaegses tarkvaraarenduses. Mis on ALM? ALM viitab tavade ja protsesside järjepidevusele kogu teie rakenduste loomise ja hooldamise ajal. See on [&hellip;]"

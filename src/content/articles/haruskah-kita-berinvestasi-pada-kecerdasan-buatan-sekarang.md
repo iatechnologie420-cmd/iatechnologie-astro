@@ -1,5 +1,4 @@
 ---
-
 title: "Haruskah kita berinvestasi pada kecerdasan buatan sekarang?"
 slug: "haruskah-kita-berinvestasi-pada-kecerdasan-buatan-sekarang"
 excerpt: "Sebelum menjawab ya atau tidak apakah sekarang adalah waktu yang tepat untuk berinvestasi pada AI, mari kita tinjau sejarah AI untuk memahami konteksnya dan membuat keputusan yang bijaksana. Evolusi kecerdasan buatan AI konvensional AI konvensional, juga dikenal sebagai &#8220;AI lemah&#8221;, dimulai pada tahun 1950. Pada saat itu, para peneliti terutama berfokus pada penyelesaian masalah tertentu [&hellip;]"

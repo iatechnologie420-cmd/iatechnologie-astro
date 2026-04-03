@@ -1,5 +1,4 @@
 ---
-
 title: "Wat is deep-tech? definitie en voorbeelden"
 slug: "wat-is-deep-tech-definitie-en-voorbeelden"
 excerpt: "Daar Diepe technologie, of geavanceerde technologie, vertegenwoordigt vandaag een revolutie in de wereld van startups en innovatie. Het onderscheidt zich van meer conventionele technologieën door de diepgaande veranderingen en het ontwrichtende potentieel ervan. Maar wat bedoelen we daar eigenlijk mee Diepe technologie, en hoe verschilt dit van andere soorten technologie? Definitie van Deep Tech De [&hellip;]"

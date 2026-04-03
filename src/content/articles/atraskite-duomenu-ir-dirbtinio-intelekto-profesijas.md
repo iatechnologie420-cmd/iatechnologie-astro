@@ -1,5 +1,4 @@
 ---
-
 title: "Atraskite duomenų ir dirbtinio intelekto profesijas"
 slug: "atraskite-duomenu-ir-dirbtinio-intelekto-profesijas"
 excerpt: "Įvadas į duomenų ir dirbtinio intelekto profesijas Duomenų ir dirbtinio intelekto (AI) augimas paskatino daugybę novatoriškų ir įvairių profesijų. Skaitmeninės revoliucijos centre šios specializacijos tapo būtinos įmonėms, siekiančioms pasinaudoti duomenų ir išmaniosios automatikos teikiamomis galimybėmis. Duomenų profesijų supratimas Duomenų mokslas, tikra statistikos, duomenų analizės ir IT sankirta, siūlo daugybę profesijų, kurių misija yra iš sudėtingų [&hellip;]"

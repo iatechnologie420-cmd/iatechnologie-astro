@@ -1,5 +1,4 @@
 ---
-
 title: "4G-antennes: hoe kun je 4G binnenshuis beter vastleggen?"
 slug: "4g-antennes-hoe-kun-je-4g-binnenshuis-beter-vastleggen"
 excerpt: "Begrijp hoe 4G werkt en wat de grenzen ervan zijn Wat is 4G? Technologie 4G, ook gekend als 4e generatie van standaarden voor mobiele telecommunicatie, is de voortzetting van de 3G en gaat vooraf aan het zeer recente 5G. Het biedt een snelle mobiele internetverbinding, waardoor u kunt profiteren van een betere gegevensoverdracht. Dit omvat [&hellip;]"

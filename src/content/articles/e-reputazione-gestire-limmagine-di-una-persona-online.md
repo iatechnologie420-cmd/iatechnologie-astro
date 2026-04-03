@@ -1,5 +1,4 @@
 ---
-
 title: "E-reputazione: gestire l’immagine di una persona online"
 slug: "e-reputazione-gestire-limmagine-di-una-persona-online"
 excerpt: "Comprendere la reputazione elettronica e la sua importanza Con la continua evoluzione delle tecnologie digitali e la crescente integrazione dei social media nella nostra vita quotidiana, ilreputazione elettronica è diventato un fattore cruciale per privati ​​e imprese. Costituisce l&#8217;insieme delle informazioni presenti su Internet che influenzano la percezione del pubblico di un marchio, di un&#8217;azienda [&hellip;]"

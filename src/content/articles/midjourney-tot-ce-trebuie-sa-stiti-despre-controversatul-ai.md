@@ -1,5 +1,4 @@
 ---
-
 title: "MidJourney: tot ce trebuie să știți despre controversatul AI"
 slug: "midjourney-tot-ce-trebuie-sa-stiti-despre-controversatul-ai"
 excerpt: "Înțelegerea MidJourney MidJourney este o inteligență artificială puternică, care transformă modul în care interacționăm cu tehnologia. Utilizați acest ghid ca resursă pentru a înțelege originile și funcțiile-cheie ale acestuia. Ce este MidJourney? MidJourney este un instrument inteligenţă artificială avangardă concepută pentru a îmbunătăți și facilita interacțiunile noastre zilnice cu noile tehnologii. Face parte din peisajul [&hellip;]"

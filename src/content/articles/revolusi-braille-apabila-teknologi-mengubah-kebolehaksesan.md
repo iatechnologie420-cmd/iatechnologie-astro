@@ -1,5 +1,4 @@
 ---
-
 title: "Revolusi braille: Apabila teknologi mengubah kebolehaksesan"
 slug: "revolusi-braille-apabila-teknologi-mengubah-kebolehaksesan"
 excerpt: "Revolusi braille pada zaman teknologi Kejadian braille dan penyesuaian kontemporari Pada asalnya dibangunkan oleh Louis Braille pada abad ke-19, sistem tulisan untuk orang buta dan cacat penglihatan yang dikenali sebagai braille telah merevolusikan cara mereka berkomunikasi. Diilhamkan oleh mekanisme yang direka untuk tentera membaca dalam gelap, Louis Braille mengoptimumkan kaedah untuk menjadikannya cair dan pantas [&hellip;]"

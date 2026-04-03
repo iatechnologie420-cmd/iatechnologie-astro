@@ -1,5 +1,4 @@
 ---
-
 title: "„Google Deep Dream“: visas jaudinančio AI vadovas"
 slug: "google-deep-dream-visas-jaudinancio-ai-vadovas"
 excerpt: "„Google Deep Dream“ koncepcijos supratimas Įspūdingame dirbtinio intelekto pasaulyje atsirado ypač įspūdinga naujovė: „Google Deep Dream“.. Laikomas kaip a pribloškiantis AI, ši koncepcija sujungia pažangias technologijas ir beribę vaizduotę, kad sukurtų kvapą gniaužiančius vaizdinius vaizdus. Norėdami visapusiškai suvokti šios technologijos esmę, šiame straipsnyje išnagrinėsime jos pagrindus, veikimo principus ir išskirtines taikymo sritis. „Google Deep Dream“ [&hellip;]"

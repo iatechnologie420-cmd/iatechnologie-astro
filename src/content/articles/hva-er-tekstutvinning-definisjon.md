@@ -1,5 +1,4 @@
 ---
-
 title: "Hva er tekstutvinning? definisjon"
 slug: "hva-er-tekstutvinning-definisjon"
 excerpt: "Introduksjon til tekstutvinning DE tekstutvinning, eller tekstmining på fransk, er en gren av datavitenskap som fokuserer på å trekke ut nyttig informasjon fra store sett med tekstdata. Ofte assosiert med naturlig språkbehandling (NLP), tekstutvinning involverer et sett med teknikker og verktøy som er i stand til å forstå, analysere og behandle menneskelig språk samlet i [&hellip;]"

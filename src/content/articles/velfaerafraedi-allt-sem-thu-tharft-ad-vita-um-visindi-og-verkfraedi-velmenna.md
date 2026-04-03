@@ -1,5 +1,4 @@
 ---
-
 title: "Vélfærafræði: allt sem þú þarft að vita um vísindi og verkfræði vélmenna"
 slug: "velfaerafraedi-allt-sem-thu-tharft-ad-vita-um-visindi-og-verkfraedi-velmenna"
 excerpt: "Að skilja vísindin á bak við vélarnar Vélfærafræði er heillandi grein tækni sem sameinar ýmis þekkingarsvið til að búa til vélar sem geta sinnt verkefnum sjálfstætt eða hálfsjálfstætt. Í þessari grein munum við kanna undirstöður vélfærafræði, skilja grunnreglurnar sem gera vélmenni kleift að starfa og íhuga áhrif þessarar tækni í daglegu lífi okkar. Skilgreining og [&hellip;]"

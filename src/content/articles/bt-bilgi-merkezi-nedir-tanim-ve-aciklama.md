@@ -1,5 +1,4 @@
 ---
-
 title: "BT bilgi merkezi nedir? tanım ve açıklama"
 slug: "bt-bilgi-merkezi-nedir-tanim-ve-aciklama"
 excerpt: "A bilgisayar bilgi merkeziolarak da anılır bilgi Merkezi, bir kuruluş içindeki veri yönetimine adanmış merkezi bir sistemi ifade eder. Amacı, şirketin faaliyetleri için gerekli bilgileri toplamak, saklamak, düzenlemek ve yaymaktır. Analistlerin ve karar vericilerin verileri verimli ve bilinçli bir şekilde kullanmasını sağlamak için işlevi önemlidir. Bu makalede bir BT bilgi merkezinin farklı bileşenlerini ve katma [&hellip;]"

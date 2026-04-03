@@ -1,5 +1,4 @@
 ---
-
 title: "SSD: kõik, mida pead teadma pooljuhtketta andmesalvestuse kohta"
 slug: "ssd-koik-mida-pead-teadma-pooljuhtketta-andmesalvestuse-kohta"
 excerpt: "SSD-de ja nende tööpõhimõtte tutvustus Tahkisketaste tulek või SSD (Solid State Drive inglise keeles), tähistas tõelist revolutsiooni andmete salvestamise valdkonnas. Erinevalt tavapärastest kõvaketastest (HDD), mis kasutavad teabe salvestamiseks magnetplaate, kõvakettad SSD loota välkmälu kiipidele, millel pole liikuvaid osi. See tehnoloogiamuudatus pakub märkimisväärset kasu jõudluse, vastupidavuse ja energiatarbimise osas. Selles artiklis uurime, mida a SSD, mõista, [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Kognityvizmas: ar mūsų intelektas yra dirbtinis?"
 slug: "kognityvizmas-ar-musu-intelektas-yra-dirbtinis"
 excerpt: "Kognityvizmo ir žmogaus intelekto ištakos Kognityvizmo ištakos THE kognityvizmas yra požiūris į psichologiją, orientuotas į vidinius mąstymo mechanizmus, traktuojantis žmogaus protą kaip informacijos apdorojimo sistemą. Šio požiūrio ištakos daugiausia siekia šeštąjį ir septintąjį dešimtmetį, kaip reakciją į biheviorizmą, kuris tuo metu buvo labai dominuojantis ir orientuotas tik į stebimą elgesį, nepaisydamas vidinių psichinių procesų. THE [&hellip;]"

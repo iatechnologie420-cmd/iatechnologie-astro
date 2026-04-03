@@ -1,5 +1,4 @@
 ---
-
 title: "Hvordan dele PS5-skjermen din på Discord?"
 slug: "hvordan-dele-ps5-skjermen-din-pa-discord"
 excerpt: "Trinn 1: Forbered konfigurasjonen Når du spiller spill på PS5, kan det være fint å dele opplevelsen din med vennene dine på Discord. For å gjøre dette kan du streame PS5-skjermen din direkte til Discord. I denne artikkelen vil vi forklare hvordan du deler PS5-skjermen på Discord på to forskjellige metoder. La oss gå ! [&hellip;]"

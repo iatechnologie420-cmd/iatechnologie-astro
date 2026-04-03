@@ -1,5 +1,4 @@
 ---
-
 title: "Backup de dados: o que é, por que fazer?"
 slug: "backup-de-dados-o-que-e-por-que-fazer"
 excerpt: "Entenda a importância do backup O backup de dados é essencial para proteger as informações contra possíveis perdas devido a falhas de hardware, erro humano, malware ou desastres naturais. Um sistema de backup adequado permite restaurar dados perdidos ou danificados e garante a continuidade das operações. Conheça os tipos de backup Existem vários métodos de [&hellip;]"

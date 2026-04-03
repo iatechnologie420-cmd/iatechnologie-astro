@@ -1,5 +1,4 @@
 ---
-
 title: "Disse spillene der kunstig intelligens slår mennesker"
 slug: "disse-spillene-der-kunstig-intelligens-slar-mennesker"
 excerpt: "Daggryet til superdatamaskiner og sjakkutfordringen Tiden med superdatamaskiner er ikke lenger en fjern futuristisk visjon, men en håndgripelig virkelighet som revolusjonerer ulike sektorer, inkludert strategispill som sjakk. Disse maskinene med fenomenal datakraft tilbyr en ideell lekeplass for å utforske grensene til kunstig intelligens og ta opp sjakkutfordringen ved å stille det grunnleggende spørsmålet: Hva er [&hellip;]"

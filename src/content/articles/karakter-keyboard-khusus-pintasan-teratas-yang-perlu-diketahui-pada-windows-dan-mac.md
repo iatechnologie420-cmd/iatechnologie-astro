@@ -1,5 +1,4 @@
 ---
-
 title: "Karakter keyboard khusus: Pintasan teratas yang perlu diketahui (Pada Windows dan Mac)"
 slug: "karakter-keyboard-khusus-pintasan-teratas-yang-perlu-diketahui-pada-windows-dan-mac"
 excerpt: "Karakter khusus adalah simbol atau tanda yang tidak sesuai dengan huruf dan angka standar pada keyboard tradisional. Penggunaan karakter khusus ini sangat penting dalam berbagai konteks seperti pemrograman komputer, penulisan teks, keamanan kata sandi, dan entri data matematika atau ilmiah. Dalam pemrograman, karakter khusus itu penting. Mereka memungkinkan Anda melakukan operasi tertentu, seperti memisahkan string [&hellip;]"

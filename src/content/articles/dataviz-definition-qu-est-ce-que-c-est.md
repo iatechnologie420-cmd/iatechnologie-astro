@@ -1,5 +1,4 @@
 ---
-
 title: "La dataviz, qu’est-ce que c’est ? Définition, outils essentiels"
 slug: "dataviz-definition-qu-est-ce-que-c-est"
 excerpt: "Comprendre la Dataviz : la visualisation de données Aujourd&#8217;hui, avec l&#8217;immense quantité de données générées chaque seconde, il devient essentiel de savoir présenter cette information d&#8217;une manière claire et efficace. C&#8217;est là qu&#8217;intervient la visualisation de données, ou dataviz, un champ disciplinaire qui combine design, narratif et analyse statistique pour transformer des données complexes en [&hellip;]"

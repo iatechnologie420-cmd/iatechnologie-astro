@@ -1,5 +1,4 @@
 ---
-
 title: "Thảm họa công nghệ: Cách mạng số đang biến thành cơn ác mộng?"
 slug: "tham-hoa-cong-nghe-cach-mang-so-dang-bien-thanh-con-ac-mong"
 excerpt: "Tác động của cuộc cách mạng kỹ thuật số đối với xã hội chúng ta Cuộc cách mạng kỹ thuật số đặc trưng cho thời đại chúng ta đã phá vỡ nhiều khía cạnh của xã hội chúng ta. Công nghệ kỹ thuật số và khả năng truy cập internet đã thay đổi cách chúng [&hellip;]"

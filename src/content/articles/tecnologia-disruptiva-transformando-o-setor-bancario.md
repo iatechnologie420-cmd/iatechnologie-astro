@@ -1,5 +1,4 @@
 ---
-
 title: "Tecnologia disruptiva transformando o setor bancário?"
 slug: "tecnologia-disruptiva-transformando-o-setor-bancario"
 excerpt: "A transformação da banca através de tecnologia disruptiva mudou profundamente o sector financeiro nos últimos anos. Os avanços tecnológicos permitiram o surgimento de novas soluções inovadoras, que estão a mudar a forma como os bancos operam e interagem com os seus clientes. Neste artigo exploraremos as diferentes dimensões desta transformação e os impactos que está [&hellip;]"

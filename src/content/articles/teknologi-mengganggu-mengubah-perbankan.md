@@ -1,5 +1,4 @@
 ---
-
 title: "Teknologi mengganggu mengubah perbankan?"
 slug: "teknologi-mengganggu-mengubah-perbankan"
 excerpt: "Transformasi perbankan melalui teknologi yang mengganggu telah banyak mengubah sektor kewangan dalam beberapa tahun kebelakangan ini. Kemajuan teknologi telah membolehkan kemunculan penyelesaian inovatif baharu, yang mengubah cara bank beroperasi dan berinteraksi dengan pelanggan mereka. Dalam artikel ini, kami akan meneroka dimensi berbeza dari transformasi ini dan kesannya terhadap industri perbankan. Pendigitalan: era serba digital Dimensi [&hellip;]"

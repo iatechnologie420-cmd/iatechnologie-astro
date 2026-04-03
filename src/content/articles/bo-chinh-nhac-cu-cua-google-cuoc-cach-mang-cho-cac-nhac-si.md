@@ -1,5 +1,4 @@
 ---
-
 title: "Bộ chỉnh nhạc cụ của Google: cuộc cách mạng cho các nhạc sĩ?"
 slug: "bo-chinh-nhac-cu-cua-google-cuoc-cach-mang-cho-cac-nhac-si"
 excerpt: "Tầm quan trọng của việc điều chỉnh nhạc cụ Điều chỉnh là một trong những khía cạnh quan trọng nhất khi chơi một nhạc cụ. Cho dù bạn là người mới bắt đầu hay một nhạc sĩ có kinh nghiệm, bạn cần điều chỉnh nhạc cụ của mình thường xuyên để có được âm thanh [&hellip;]"

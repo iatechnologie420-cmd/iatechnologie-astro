@@ -1,5 +1,4 @@
 ---
-
 title: "Lær rask engineering: i 12 trinn"
 slug: "laer-rask-engineering-i-12-trinn"
 excerpt: "Introduksjon til prompt engineering Hva er prompt engineering? DE Rask Engineering er et voksende felt som fokuserer på å optimalisere ledetekstene, eller kommandoene, vi gir til systemer med kunstig intelligens (AI), spesielt de som er basert på naturlig språk, for eksempel tekstgeneratorer. Det er en spesielt viktig disiplin med ankomsten av språkbehandlingsmodeller som GPT-4 fra [&hellip;]"

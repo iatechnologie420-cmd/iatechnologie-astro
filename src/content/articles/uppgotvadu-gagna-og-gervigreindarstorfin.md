@@ -1,5 +1,4 @@
 ---
-
 title: "Uppgötvaðu gagna- og gervigreindarstörfin"
 slug: "uppgotvadu-gagna-og-gervigreindarstorfin"
 excerpt: "Kynning á gagna- og gervigreindarstörfum Uppgangur gagna og gervigreindar (AI) hefur gefið tilefni til gnægð nýstárlegra og fjölbreyttra starfsgreina. Í hjarta stafrænu byltingarinnar er þessi sérhæfing orðin nauðsynleg fyrir fyrirtæki sem leitast við að nýta sér þá möguleika sem gögn og snjöll sjálfvirkni bjóða upp á. Skilningur á gagnastéttum Gagnafræði, sannur skurðpunktur milli tölfræði, gagnagreiningar [&hellip;]"

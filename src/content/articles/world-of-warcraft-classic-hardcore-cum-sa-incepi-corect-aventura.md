@@ -1,5 +1,4 @@
 ---
-
 title: "World of Warcraft Classic Hardcore: cum să începi corect aventura?"
 slug: "world-of-warcraft-classic-hardcore-cum-sa-incepi-corect-aventura"
 excerpt: "Înțelegeți regulile fundamentale ale modului Hardcore Modul hardcore În Clasicul World of Warcraft adaugă o dimensiune captivantă și solicitantă jocului. Pentru aventurierii care caută senzații tari și provocări, acest ghid vă va ajuta să vă scufundați în acest mod de joc captivant prin stăpânirea regulilor sale de bază. Ce este modul Hardcore? Modul hardcore În [&hellip;]"

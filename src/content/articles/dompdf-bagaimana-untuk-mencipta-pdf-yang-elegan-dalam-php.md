@@ -1,5 +1,4 @@
 ---
-
 title: "Dompdf: Bagaimana untuk mencipta PDF yang elegan dalam PHP?"
 slug: "dompdf-bagaimana-untuk-mencipta-pdf-yang-elegan-dalam-php"
 excerpt: "Pengenalan kepada Dompdf Dompdf ialah perpustakaan PHP yang membolehkan anda menjana fail PDF daripada kandungan HTML. Penyelesaian ini sangat berguna untuk menjana laporan, invois atau sebarang dokumen lain dalam format PDF. Dalam artikel ini, kami akan menemui ciri asas Dompdf dan mempelajari cara menggunakannya untuk mencipta PDF yang elegan dan berfungsi. Prasyarat Sebelum memasang Dompdf, [&hellip;]"

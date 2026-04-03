@@ -1,5 +1,4 @@
 ---
-
 title: "Memilih pelayan pertama anda: panduan langkah demi langkah"
 slug: "memilih-pelayan-pertama-anda-panduan-langkah-demi-langkah"
 excerpt: "Memahami perbezaan antara jenis pelayan Pelayan memainkan peranan penting dalam menjalankan rangkaian, mengehos tapak web, menyimpan data, dan menyokong pengkomputeran, antara tugas lain. Mesin berkuasa ini boleh datang dalam bentuk yang berbeza, masing-masing mempunyai keistimewaan dan kegunaannya yang ideal. Artikel ini bertujuan untuk mengkaji perkara utama jenis pelayan dan perbezaan mereka untuk lebih memahami mereka. [&hellip;]"

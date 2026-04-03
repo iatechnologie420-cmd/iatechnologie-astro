@@ -1,5 +1,4 @@
 ---
-
 title: "Spot: il cane robot della Boston Dynamics"
 slug: "spot-il-cane-robot-della-boston-dynamics"
 excerpt: "Scoperta di Spot, il cane robot della Boston Dynamics Rinomato per essere la crema della robotica moderna, Macchiare, il cane robot della Boston Dynamics, ha creato un&#8217;onda d&#8217;urto nel mondo delle nuove tecnologie. Progettato per sostituire i suoi simili, è l&#8217;esempio emblematico di robot animali pronti a sostituire i loro modelli. Spot, una rivoluzione tecnologica [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Özel klavye karakterleri: Bilinmesi gereken en önemli kısayollar (Windows ve Mac&#8217;te)"
 slug: "ozel-klavye-karakterleri-bilinmesi-gereken-en-onemli-kisayollar-windows-ve-macte"
 excerpt: "Özel karakterler, geleneksel klavyenin standart harf ve rakamlarına karşılık gelmeyen semboller veya işaretlerdir. Bu özel karakterlerin kullanımı bilgisayar programlama, metin yazma, şifre güvenliği, matematiksel veya bilimsel veri girişi gibi çeşitli bağlamlarda büyük önem taşımaktadır. Programlamada, özel karakterler önemlidir. Karakter dizelerini ayırmak veya karmaşık talimatları temsil etmek gibi belirli işlemleri gerçekleştirmenize olanak tanırlar. Örneğin, kod bloklarını [&hellip;]"

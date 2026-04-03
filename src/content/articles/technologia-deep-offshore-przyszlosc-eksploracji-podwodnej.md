@@ -1,5 +1,4 @@
 ---
-
 title: "Technologia Deep Offshore: przyszłość eksploracji podwodnej?"
 slug: "technologia-deep-offshore-przyszlosc-eksploracji-podwodnej"
 excerpt: "Czym jest technologia głębinowa? Technologia deep offshore, zwana także technologią wierceń głębinowych, to dyscyplina, której celem jest badanie i eksploatacja zasobów znajdujących się na dnie morskim, na głębokościach od 500 do kilku tysięcy metrów. Technologia ta otwiera nowe możliwości poszukiwania i eksploatacji złóż ropy, gazu i minerałów zlokalizowanych na morzu. Wyzwania głębokiego morza Technologia głębinowa [&hellip;]"

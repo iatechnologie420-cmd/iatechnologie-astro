@@ -1,5 +1,4 @@
 ---
-
 title: "Andmete varundamine: mis see on, miks seda teha?"
 slug: "andmete-varundamine-mis-see-on-miks-seda-teha"
 excerpt: "Mõistke varundamise tähtsust Andmete varundamine on oluline, et kaitsta teavet võimaliku riistvararikkest, inimlikust veast, pahavarast või loodusõnnetustest tingitud kadumise eest. Piisav varundussüsteem võimaldab taastada kadunud või kahjustatud andmeid ning tagab toimingute järjepidevuse. Teadke varundamise tüüpe Varundusmeetodeid on mitu, millest igaüks on kohandatud konkreetsetele vajadustele: Valige varundamise sagedus Varundamise sagedus sõltub sellest, kui kiiresti andmed muutuvad [&hellip;]"

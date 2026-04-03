@@ -1,5 +1,4 @@
 ---
-
 title: "PyGraft: vse, kar morate vedeti o odprtokodnem orodju Python za DataViz"
 slug: "pygraft-vse-kar-morate-vedeti-o-odprtokodnem-orodju-python-za-dataviz"
 excerpt: "PyGraft: nova zvezda odprtokodnega DataViz PyGraft se pojavlja kot obetavno orodje, zasnovano tako, da strokovnjakom za podatke in navdušencem nudi bogato in močno izkušnjo pri ustvarjanju vizualizacij podatkov. Z naprednimi zmogljivostmi obdelave in izjemno prilagodljivostjo, PyGraft je projekt odprtokodno o kateri se je že začelo govoriti. Toda kaj je PyGraft in kako lahko spremeni vaš [&hellip;]"

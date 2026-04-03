@@ -1,5 +1,4 @@
 ---
-
 title: "Ketua Pegawai Data (CDO): ​​peranan, kemahiran, latihan dan gaji"
 slug: "ketua-pegawai-data-cdo-peranan-kemahiran-latihan-dan-gaji"
 excerpt: "Tempat strategik Ketua Pegawai Data dalam syarikat Dalam era data besar dan analisis data, perniagaan semakin menyedari kepentingan mengurus dan memanfaatkan data mereka secara strategik. Di tengah-tengah pengiktirafan ini adalah peranan utama: Ketua Pegawai Data (CDO). CDO adalah penting untuk mengimbangi tadbir urus, kualiti data, pematuhan peraturan dan memanfaatkan data untuk kelebihan daya saing. Artikel [&hellip;]"

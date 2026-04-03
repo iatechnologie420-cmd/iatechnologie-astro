@@ -1,5 +1,4 @@
 ---
-
 title: "IMAP-i määratlus: kõik, mida pead teadma"
 slug: "imap-i-maaratlus-koik-mida-pead-teadma"
 excerpt: "Sissejuhatus IMAP-i Interneti-sõnumite juurdepääsuprotokoll (IMAP) on sidestandard, mis võimaldab kasutajatel oma e-kirju vastu võtta ja hallata otse meiliserverites, mis erineb traditsioonilisest lähenemisviisist, kus meilid laaditakse alla kohalikku meiliklienti. See toob palju praktilisi eeliseid, eriti maailmas, kus pääseme oma meilidele juurde mitmest seadmest. Selles artiklis uurime, kuidas IMAP töötab, selle eelised ja võrdlus teiste protokollidega, nagu [&hellip;]"

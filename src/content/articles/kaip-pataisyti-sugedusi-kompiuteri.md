@@ -1,5 +1,4 @@
 ---
-
 title: "Kaip pataisyti sugedusį kompiuterį?"
 slug: "kaip-pataisyti-sugedusi-kompiuteri"
 excerpt: "Kompiuterio gedimo diagnostika Susidūrimas su kompiuterio problema kartais gali virsti tikru galvos skausmu. Kompiuteris yra sudėtingas technologinis junginys, ir kai kažkas neveikia taip, kaip tikėtasi, dažnai yra daugybė galimų priežasčių. Šiame straipsnyje siūlome praktinį vadovą, kuris padės nustatyti problemą ir rasti galimus kompiuterio gedimo diagnostikos sprendimus. Įspėjamųjų ženklų identifikavimas Pirmas žingsnis diagnozuojant kompiuterio gedimą yra [&hellip;]"

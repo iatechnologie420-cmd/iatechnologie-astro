@@ -1,5 +1,4 @@
 ---
-
 title: "Google의 Morpion 게임: 어떻게 플레이하고 인공지능을 이길 수 있을까요?"
 slug: "google-morpion"
 excerpt: "Google Tic-Toe 게임의 규칙 게임의 목적 Tic-tac-toe라고도 불리는 Morpion 게임은 3&#215;3 그리드에서 플레이되는 전략 게임입니다. 목표는 상대방보다 세 개의 동일한 기호(십자가 또는 원)를 수평, 수직 또는 대각선으로 정렬하는 것입니다. 설정 Google Tic Toe 게임은 온라인으로 제공되며 스마트폰, 태블릿, 컴퓨터 등 다양한 기기에서 플레이할 수 있습니다. 시작하려면 Google 웹사이트로 이동하여 검색창에서 &#8220;Tic Toe game&#8221;을 검색하세요. 게임 [&hellip;]"

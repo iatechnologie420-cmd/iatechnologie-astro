@@ -1,5 +1,4 @@
 ---
-
 title: "Pepper: alt du trenger å vite om SoftBanks sosiale robot"
 slug: "pepper-alt-du-trenger-a-vite-om-softbanks-sosiale-robot"
 excerpt: "Pepper: Presentasjon og grunnleggende funksjoner Sammendrag Den sosiale roboten Pepper er en teknologisk bragd designet for å samhandle med mennesker i et sosialt miljø. Utstyrt med en rekke sensorer og avansert AI, forstår og reagerer Pepper på følelsene våre mens han tilpasser seg atferden vår. Gjennom denne artikkelen vil vi presentere de grunnleggende funksjonene til [&hellip;]"

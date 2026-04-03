@@ -1,5 +1,4 @@
 ---
-
 title: "Vrednostna veriga PORTER | Konkretni primeri za razumevanje"
 slug: "vrednostna-veriga-porter-konkretni-primeri-za-razumevanje"
 excerpt: "Razumevanje verige vrednosti Michaela Porterja Vrednostna veriga je koncept, ki ga je razvil ameriški ekonomist in akademik Michael Porter v svojem delu &#8220;Konkurenčna prednost&#8221;, objavljenem leta 1985. Ta model je bistvenega pomena za analizo notranjih dejavnosti podjetja, da bi optimizirali svojo ustvarjeno vrednost in konkurenčne prednosti. Ta članek vam ponuja vodnik za razumevanje in uporabo [&hellip;]"

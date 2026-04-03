@@ -1,5 +1,4 @@
 ---
-
 title: "AlphaGo vs Leedsol: Siêu AI đánh bại cao thủ cờ vây"
 slug: "alphago-vs-leedsol-sieu-ai-danh-bai-cao-thu-co-vay"
 excerpt: "Cuộc đụng độ lịch sử: trí tuệ nhân tạo thách thức bậc thầy cờ vây Thế giới cờ vây trong lịch sử được thống trị bởi các bậc thầy con người, cho đến khi một sự kiện quan trọng làm rung chuyển các mô hình đã được thiết lập. Trí tuệ nhân tạo, công cụ [&hellip;]"

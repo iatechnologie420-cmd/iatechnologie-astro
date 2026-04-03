@@ -1,5 +1,4 @@
 ---
-
 title: "Nike teknolojileri spor dünyasında devrim mi yaratıyor?"
 slug: "nike-teknolojileri-spor-dunyasinda-devrim-mi-yaratiyor"
 excerpt: "Nike&#8217;ın spordaki teknolojik yenilikleri Nike spor malzemeleri alanında ikonik bir markadır ve itibarı büyük ölçüde sürekli yenilik yapma yeteneğine dayanmaktadır. 1964&#8217;teki kuruluşundan bu yana şirket, sporcu performansını artıran ve spor dünyasında devrim yaratan teknolojiler geliştirmede olağanüstü bir yaratıcılık sergiledi. Flyknit teknolojisi: hafiflik ve uyum Teknolojik yeniliklerin en çarpıcı örneklerinden biri Nike Flyknit teknolojisidir. Spor ayakkabı [&hellip;]"

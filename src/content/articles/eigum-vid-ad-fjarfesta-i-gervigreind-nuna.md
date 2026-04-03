@@ -1,5 +1,4 @@
 ---
-
 title: "Eigum við að fjárfesta í gervigreind núna?"
 slug: "eigum-vid-ad-fjarfesta-i-gervigreind-nuna"
 excerpt: "Áður en svarað er já eða nei hvort nú sé kominn tími til að fjárfesta í gervigreind, skulum við rifja upp sögu gervigreindar til að setja hlutina í samhengi og taka yfirvegaða ákvörðun. Þróun gervigreindar Hefðbundin gervigreind Hefðbundin gervigreind, einnig þekkt sem „veik gervigreind“, hófst upp úr 1950. Á þeim tíma einbeittu vísindamenn sér aðallega [&hellip;]"

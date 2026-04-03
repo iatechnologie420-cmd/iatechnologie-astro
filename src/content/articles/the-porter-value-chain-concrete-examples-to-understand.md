@@ -1,5 +1,4 @@
 ---
-
 title: "The PORTER value chain | Concrete examples to understand"
 slug: "the-porter-value-chain-concrete-examples-to-understand"
 excerpt: "Understanding the Michael Porter Value Chain The value chain is a concept developed by the American economist and academic Michael Porter in his work &#8220;Competitive Advantage&#8221; published in 1985. This model is essential for analyzing the internal activities of a company in order to optimize its created value and competitive advantages. This article gives you [&hellip;]"

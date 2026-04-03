@@ -1,5 +1,4 @@
 ---
-
 title: "Penala instrumen Google: revolusi untuk pemuzik?"
 slug: "penala-instrumen-google-revolusi-untuk-pemuzik"
 excerpt: "Kepentingan menala alat muzik Penalaan adalah salah satu aspek yang paling penting semasa bermain alat muzik. Sama ada anda seorang pemula atau ahli muzik yang berpengalaman, anda perlu menala instrumen anda dengan kerap untuk mendapatkan bunyi yang terbaik. Dalam artikel ini, kami akan meneroka kepentingan menala alat muzik dan memberi anda beberapa petua untuk memastikan [&hellip;]"

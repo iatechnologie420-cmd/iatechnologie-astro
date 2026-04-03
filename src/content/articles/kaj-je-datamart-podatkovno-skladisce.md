@@ -1,5 +1,4 @@
 ---
-
 title: "Kaj je Datamart/podatkovno skladišče?"
 slug: "kaj-je-datamart-podatkovno-skladisce"
 excerpt: "Uvod v koncept Datamarta THE datamart je bistven izraz v svetu analize podatkov in poslovne inteligence (BI). Je pododdelek podatkovnega skladišča, to je specializirane zbirke podatkov, ki hrani del informacij podjetja. Medtem ko si lahko podatkovno skladišče predstavljamo kot ogromno knjižnico podatkov podjetja, lahko podatkovno trgovino razumemo kot poseben del te knjižnice, organiziran okoli določene [&hellip;]"

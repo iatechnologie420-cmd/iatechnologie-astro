@@ -1,5 +1,4 @@
 ---
-
 title: "Robotica: tutto quello che c&#8217;è da sapere sulla scienza e l&#8217;ingegneria dei robot"
 slug: "robotica-tutto-quello-che-ce-da-sapere-sulla-scienza-e-lingegneria-dei-robot"
 excerpt: "Comprendere la scienza dietro le macchine La robotica è un affascinante ramo della tecnologia che combina vari campi della conoscenza per creare macchine in grado di svolgere compiti in modo autonomo o semi-autonomo. In questo articolo esploreremo le basi della robotica, comprenderemo i principi di base che consentono ai robot di funzionare e considereremo l&#8217;impatto [&hellip;]"

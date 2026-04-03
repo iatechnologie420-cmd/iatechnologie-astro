@@ -1,5 +1,4 @@
 ---
-
 slug: "article-26"
 title: "主数据经理：角色、技能、培训和薪资"
 slug: ""

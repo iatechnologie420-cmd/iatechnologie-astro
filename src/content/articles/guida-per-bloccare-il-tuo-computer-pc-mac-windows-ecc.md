@@ -1,5 +1,4 @@
 ---
-
 title: "Guida per bloccare il tuo Computer (PC, Mac, Windows, ecc.)"
 slug: "guida-per-bloccare-il-tuo-computer-pc-mac-windows-ecc"
 excerpt: "La necessità di proteggere il tuo computer Nell’era attuale, in cui le attività stanno diventando digitali a un ritmo accelerato, la sicurezza dei nostri computer è diventata una delle principali preoccupazioni sia per gli individui che per le aziende. Ecco una guida dettagliata sui buoni riflessi da adottare per proteggere efficacemente il proprio sistema informatico. [&hellip;]"

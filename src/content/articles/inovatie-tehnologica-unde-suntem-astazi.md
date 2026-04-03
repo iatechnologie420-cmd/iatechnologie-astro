@@ -1,5 +1,4 @@
 ---
-
 title: "Inovație tehnologică: unde suntem astăzi?"
 slug: "inovatie-tehnologica-unde-suntem-astazi"
 excerpt: "Progrese tehnologice recente Progrese tehnologice recente Progresele tehnologice recente au transformat radical modul în care trăim, lucrăm și comunicăm. Noile tehnologii apar în mod regulat, propulsând societatea noastră către un viitor din ce în ce mai conectat și mai inovator. În acest articol, vom explora unele dintre cele mai recente progrese tehnologice care schimbă jocul [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Semua yang perlu Anda ketahui tentang profesi Quant atau analis kuantitatif"
 slug: "semua-yang-perlu-anda-ketahui-tentang-profesi-quant-atau-analis-kuantitatif"
 excerpt: "Pengantar dunia keuangan kuantitatif Keuangan kuantitatif adalah bidang keuangan khusus yang menggunakan model matematika, statistik, dan teknik komputer untuk memahami dan memprediksi perilaku pasar keuangan. Pada artikel ini, kita akan mendalami bidang ini dengan membahas alat yang digunakan, penerapannya, serta keterampilan yang diperlukan untuk unggul di dalamnya. Pembiayaan kuantitatif menjadi penting dalam pengambilan keputusan di [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing ja tehisintellekti sünd"
 slug: "alan-turing-ja-tehisintellekti-sund"
 excerpt: "Alan Turing: Tehisintellekti asutaja Alan Turing: Tehisintellekti asutajaTehisintellekti (AI) ajalugu ei saa täielikult jutustada ilma Alan Turingi nime mainimata, keda paljud peavad selle valdkonna rajajaks, mis tänapäeval muudab meie igapäevaelu nii paljusid aspekte. Tema panus ulatub palju kaugemale lihtsast leiutisest; see põhineb kontseptsioonidel ja teooriatel, mis moodustavad endiselt AI arendamise ja arenemise aluse. Kes oli [&hellip;]"

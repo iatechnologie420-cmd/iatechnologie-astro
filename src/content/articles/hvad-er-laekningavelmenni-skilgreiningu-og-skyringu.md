@@ -1,5 +1,4 @@
 ---
-
 title: "Hvað er lækningavélmenni? skilgreiningu og skýringu"
 slug: "hvad-er-laekningavelmenni-skilgreiningu-og-skyringu"
 excerpt: "Skilgreining og tegundarfræði lækningavélmenna Tilkoma vélfærafræði í heilbrigðisþjónustu hefur opnað gríðarlega möguleika til að bæta læknishjálp og skurðaðgerðir. Þessi tækni, þekkt sem lækningavélmenni, eru vélræn tæki eða tölvukerfi sem geta framkvæmt flóknar aðgerðir með mikilli nákvæmni, oft undir eftirliti eða beinni stjórn hæfu heilbrigðisstarfsmanna. En hverjar eru mismunandi tegundir lækningavélmenna sem nú eru í notkun [&hellip;]"

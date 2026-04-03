@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing en de geboorte van kunstmatige intelligentie"
 slug: "alan-turing-en-de-geboorte-van-kunstmatige-intelligentie"
 excerpt: "Alan Turing: grondlegger van de kunstmatige intelligentie Alan Turing: grondlegger van de kunstmatige intelligentieDe geschiedenis van kunstmatige intelligentie (AI) kan niet volledig worden verteld zonder de naam te noemen van Alan Turing, door velen beschouwd als de grondlegger van dit vakgebied dat tegenwoordig een revolutie teweegbrengt in zoveel aspecten van ons dagelijks leven. Zijn bijdrage [&hellip;]"

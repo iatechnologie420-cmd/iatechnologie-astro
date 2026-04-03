@@ -1,5 +1,4 @@
 ---
-
 title: "Como compartilhar a tela do seu PS5 no Discord?"
 slug: "como-compartilhar-a-tela-do-seu-ps5-no-discord"
 excerpt: "Passo 1: Prepare sua configuração Ao jogar no seu PS5, pode ser bom compartilhar sua experiência com seus amigos no Discord. Para fazer isso, você pode transmitir a tela do PS5 diretamente para o Discord. Neste artigo, explicaremos como compartilhar a tela do PS5 no Discord de dois métodos diferentes. Vamos ! Verifique seu hardware [&hellip;]"

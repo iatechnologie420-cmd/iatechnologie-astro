@@ -1,5 +1,4 @@
 ---
-
 title: "L’ordinateur quantique : l’innovation de demain se développe à Strasbourg"
 slug: "lordinateur-quantique-linnovation-de-demain-se-developpe-a-strasbourg"
 excerpt: "Comprendre l&#8217;ordinateur quantique : tout comprendre L&#8217;ordinateur quantique représente la prochaine frontière des technologies de l&#8217;information; un changement radical par rapport aux ordinateurs classiques existants. Mettant à profit les phénomènes quantiques, tels que le principe de superposition et l&#8217;intrication quantique, l&#8217;ordinateur quantique promet puissance de calcul sans précédent, vitesse de traitement époustouflante et capacité à [&hellip;]"

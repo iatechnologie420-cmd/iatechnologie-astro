@@ -1,5 +1,4 @@
 ---
-
 title: "Portefeuille anti RFID : Pourquoi vous n’en avez pas besoin"
 slug: "mythe-vol-donnes-rfid-portefeuille-rfid"
 excerpt: "Comprendre la technologie RFID et ses risques Qu&#8217;est-ce que la RFID ? La Radio-Fréquence Identification (RFID) est une technologie qui permet l&#8217;identification automatique d&#8217;objets, d&#8217;animaux ou de personnes grâce à des ondes radio. Elle utilise de petits dispositifs électroniques appelés étiquettes ou tags RFID, qui stockent des données et transmettent ces informations à un lecteur [&hellip;]"

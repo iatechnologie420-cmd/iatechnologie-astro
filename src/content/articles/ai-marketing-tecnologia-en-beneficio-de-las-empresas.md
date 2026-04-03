@@ -1,5 +1,4 @@
 ---
-
 title: "AI Marketing: ¿tecnología en beneficio de las empresas?"
 slug: "ai-marketing-tecnologia-en-beneficio-de-las-empresas"
 excerpt: "Inteligencia artificial (IA) está emergiendo gradualmente como una fuerza transformadora para el marketing. Reinventar el marketing con IA, comprender sus implicaciones para el marketing de marca y el potencial de interacción ahorra tiempo, aumenta la eficiencia y abre el camino a nuevos métodos de participación del consumidor. Este crecimiento marca la transición del marketing tradicional [&hellip;]"

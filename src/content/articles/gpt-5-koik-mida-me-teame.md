@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: kõik, mida me teame"
 slug: "gpt-5-koik-mida-me-teame"
 excerpt: "Tehisintellekti areng: GPT-3-lt GPT-5-le Meteorne progresseeruminegeneratiivne tehisintellekt tehnoloogilisel maastikul juhib just praegu see nähtus ChatGPT. Alates GPT-3-st töötas GPT-4 oodates välja vahepealse versiooni GPT-3.5 OpenAI. Kuid tõeline revolutsioon on valmimas koos tulevase GPT-5 ootusega, mis tõotas olla intelligentsem kui miski seni eksisteerinud. ChatGPT: arenenud vestlusagent ChatGPTTänapäeval on see generatiivne tehisintellekt, mis ületab oma tööriista staatuse. [&hellip;]"

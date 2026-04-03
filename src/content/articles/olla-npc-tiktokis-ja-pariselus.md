@@ -1,5 +1,4 @@
 ---
-
 title: "Olla NPC Tiktokis ja päriselus&#8230;?"
 slug: "olla-npc-tiktokis-ja-pariselus"
 excerpt: "&#8220;NPC-kontrollerite&#8221; nähtus TikTokis aasta lõpmatus universumis Tikk-takk, on kasutajate tähelepanu köitnud üsna ainulaadne nähtus: &#8221; NPC kontrollerid » (Mittemängija tegelased). Varem piirdus videomängudega, nüüd hiilib väljend &#8220;NPC&#8221; sotsiaalmeedia žargooni, määratledes kogemuse, mis segab liitreaalsust ja sotsiaalset suhtlust. Kuid mis selle NPC-de juhtimise hulluse taga tegelikult on Tikk-takkja miks see nii vaimustust kui ka arutelu äratab? [&hellip;]"

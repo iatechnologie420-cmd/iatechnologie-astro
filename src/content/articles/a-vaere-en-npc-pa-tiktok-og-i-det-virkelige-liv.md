@@ -1,5 +1,4 @@
 ---
-
 title: "Å være en NPC på Tiktok og i det virkelige liv&#8230;?"
 slug: "a-vaere-en-npc-pa-tiktok-og-i-det-virkelige-liv"
 excerpt: "Fenomenet &#8220;NPC-kontrollere&#8221; på TikTok I det uendelige universet av TikTok, et ganske enestående fenomen har fanget brukernes oppmerksomhet: &#8221; NPC-kontrollere » (Ikke-spillerkarakterer). Tidligere begrenset til videospill, er uttrykket &#8220;NPC&#8221; nå snikende inn i sosiale medier-sjargong, og definerer en opplevelse som blander utvidet virkelighet og sosial interaksjon. Men hva er egentlig bak denne mani for å [&hellip;]"

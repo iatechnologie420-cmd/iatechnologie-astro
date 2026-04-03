@@ -1,5 +1,4 @@
 ---
-
 title: "De Turing-test begrijpen"
 slug: "de-turing-test-begrijpen"
 excerpt: "Oorsprong en principes van de Turing-test In de wereld van kunstmatige intelligentie (AI) en computing neemt de Turing-test een prominente plaats in. Dit is een benchmarkmethode die is ontworpen om het vermogen van een machine om menselijke intelligentie te imiteren te evalueren. De oorsprong en principes van deze revolutionaire test dateren uit het midden van [&hellip;]"

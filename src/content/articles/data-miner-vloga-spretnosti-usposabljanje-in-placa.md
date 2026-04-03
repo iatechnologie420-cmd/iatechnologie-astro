@@ -1,5 +1,4 @@
 ---
-
 title: "Data Miner: vloga, spretnosti, usposabljanje in plača"
 slug: "data-miner-vloga-spretnosti-usposabljanje-in-placa"
 excerpt: "Vloga in naloge podatkovnega rudarja THE Rudar podatkov, ali podatkovni prospektor, igra ključno vlogo v svetu podatkov in umetne inteligence. Je bistveni akter v senci, ki olajša odločanje in strateško upravljanje v podjetjih. Podrobno bomo opisali njegove naloge in pomen njegove vloge. Kaj je podatkovni rudar? THE Rudar podatkov je podatkovni strokovnjak, odgovoren za pridobivanje [&hellip;]"

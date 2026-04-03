@@ -1,5 +1,4 @@
 ---
-
 title: "Segway Navimow anmeldelse: Fremtidens autonome klipper?"
 slug: "segway-navimow-anmeldelse-fremtidens-autonome-klipper"
 excerpt: "Fordelene med den autonome klipperen Segway Navimow Tenk deg å kunne nyte hagen din til fulle uten å bekymre deg for oppgaven med å klippe plenen. Takket være den autonome klipperen Segway Navimow er denne kjedelige oppgaven nå en saga blott. Fullpakket med innovative funksjoner og avansert teknologi, tilbyr denne autonome klipperen mange fordeler som [&hellip;]"

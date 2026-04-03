@@ -1,5 +1,4 @@
 ---
-
 title: "Google Deep Dream: täielik juhend hämmastava AI kohta"
 slug: "google-deep-dream-taielik-juhend-hammastava-ai-kohta"
 excerpt: "Google Deep Dreami kontseptsiooni mõistmine Tehisintellekti põnevas maailmas on ilmunud eriti muljetavaldav uuendus: Google&#8217;i sügav unistus. Peetakse a meeleheitlik AI, see kontseptsioon ühendab arenenud tehnoloogia ja piiritu kujutlusvõime, et luua hingematvaid visuaalseid esitusi. Selle tehnoloogia olemuse täielikuks mõistmiseks uurime selles artiklis selle aluseid, selle toimimist ja tähelepanuväärseid rakendusi. Google Deep Dreami alused Google Deep Dreami [&hellip;]"

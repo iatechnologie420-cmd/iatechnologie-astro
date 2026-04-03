@@ -1,5 +1,4 @@
 ---
-
 slug: "article-172"
 title: "我们现在应该投资人工智能吗？"
 slug: ""

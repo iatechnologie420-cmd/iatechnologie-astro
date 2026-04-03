@@ -1,5 +1,4 @@
 ---
-
 title: "Gegevensback-up: wat is het, waarom doen?"
 slug: "gegevensback-up-wat-is-het-waarom-doen"
 excerpt: "Begrijp het belang van back-up Gegevensback-up is essentieel om informatie te beschermen tegen mogelijk verlies als gevolg van hardwarestoringen, menselijke fouten, malware of natuurrampen. Een adequaat back-upsysteem maakt het mogelijk om verloren of beschadigde gegevens te herstellen en waarborgt de continuïteit van de bedrijfsvoering. Ken de soorten back-ups Er zijn verschillende back-upmethoden, elk aangepast aan [&hellip;]"

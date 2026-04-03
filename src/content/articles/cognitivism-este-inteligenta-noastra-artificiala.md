@@ -1,5 +1,4 @@
 ---
-
 title: "Cognitivism: Este inteligența noastră artificială?"
 slug: "cognitivism-este-inteligenta-noastra-artificiala"
 excerpt: "Originile cognitivismului și inteligenței umane Originile cognitivismului THE cognitivism este o abordare în psihologie care se concentrează pe mecanismele interne ale gândirii, tratând mintea umană ca pe un sistem de procesare a informațiilor. Originile acestei abordări datează în principal din anii 1950 și 1960, ca reacție la behaviorism, care era foarte dominant la acea vreme [&hellip;]"

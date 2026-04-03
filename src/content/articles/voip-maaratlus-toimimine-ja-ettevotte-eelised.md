@@ -1,5 +1,4 @@
 ---
-
 title: "VOIP: määratlus, toimimine ja ettevõtte eelised"
 slug: "voip-maaratlus-toimimine-ja-ettevotte-eelised"
 excerpt: "VOIP mõiste ja põhiprintsiibid Tehnoloogia, Voice over Internet Protocol (VoIP) kujutab endast suurt arengut meie suhtlemisviisis. Kaua traditsiooniliste telefoniliinide domineerimisel toimub telefonis digitaalne transformatsioon, mis võimaldab edastada nii häält kui ka andmeid Interneti kaudu. Nii et vaatame lähemalt, mis on VoIP ja millised on selle põhiprintsiibid. VoIP määratlus Seal VoIP, Or Voice over Internet Protocol, [&hellip;]"

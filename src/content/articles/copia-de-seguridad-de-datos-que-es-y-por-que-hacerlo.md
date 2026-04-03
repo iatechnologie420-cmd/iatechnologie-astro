@@ -1,5 +1,4 @@
 ---
-
 title: "Copia de seguridad de datos: ¿qué es y por qué hacerlo?"
 slug: "copia-de-seguridad-de-datos-que-es-y-por-que-hacerlo"
 excerpt: "Comprender la importancia de la copia de seguridad La copia de seguridad de datos es esencial para proteger la información de posibles pérdidas debido a fallas de hardware, errores humanos, malware o desastres naturales. Un sistema de respaldo adecuado permite restaurar datos perdidos o dañados y garantiza la continuidad de las operaciones. Conozca los tipos [&hellip;]"

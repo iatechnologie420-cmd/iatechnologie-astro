@@ -1,5 +1,4 @@
 ---
-
 title: "Kas yra dataviz? Apibrėžimas, pagrindiniai įrankiai"
 slug: "kas-yra-dataviz-apibrezimas-pagrindiniai-irankiai"
 excerpt: "„Dataviz“ supratimas: duomenų vizualizacija Šiandien, kai kas sekundę generuojamas didžiulis duomenų kiekis, labai svarbu žinoti, kaip šią informaciją pateikti aiškiai ir efektyviai. Čia yra duomenų vizualizacija, Arba dataviz, disciplininė sritis, kuri sujungia dizainą, pasakojimą ir statistinę analizę, kad sudėtingus duomenis paverstų intuityviomis vaizdinėmis vaizdinėmis. „Dataviz“ tikslai Pagrindinis „dataviz“ tikslas yra padaryti duomenis prieinamus visiems, nepaisant [&hellip;]"

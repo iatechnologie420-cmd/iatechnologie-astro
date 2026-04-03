@@ -1,5 +1,4 @@
 ---
-
 title: "Deepfake: allt sem þú þarft að vita um nýju ógnina sem tengist gervigreind"
 slug: "deepfake-allt-sem-thu-tharft-ad-vita-um-nyju-ognina-sem-tengist-gervigreind"
 excerpt: "Skilgreining og rekstur Deepfake Skilgreining á Deepfake Hugtakið djúpfalsa er samdráttur ensku orðanna „deep learning“ og „fake“. Þessi tækni byggir á reikniritumgervigreind sérstaklega hannað til að búa til eða breyta hljóð- og myndefni, þar á meðal myndböndum og hljóðrásum. Útkoman er oft svo sannfærandi að hún getur blekkt auga og eyra, sem gerir það að [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Esses jogos onde a inteligência artificial venceu os humanos"
 slug: "esses-jogos-onde-a-inteligencia-artificial-venceu-os-humanos"
 excerpt: "O surgimento dos supercomputadores e o desafio do xadrez A era dos supercomputadores não é mais uma visão futurista distante, mas uma realidade tangível que está revolucionando vários setores, incluindo jogos de estratégia como o xadrez. Estas máquinas com um poder computacional fenomenal oferecem um playground ideal para explorar as fronteiras da inteligência artificial e [&hellip;]"

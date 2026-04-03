@@ -1,5 +1,4 @@
 ---
-
 title: "Tehnologiile Nike revoluționează lumea sportului?"
 slug: "tehnologiile-nike-revolutioneaza-lumea-sportului"
 excerpt: "Inovațiile tehnologice ale Nike în sport Nike este un brand iconic în domeniul echipamentelor sportive, iar reputația sa se bazează în mare măsură pe capacitatea sa de a inova constant. De la înființarea sa în 1964, compania a demonstrat o ingeniozitate remarcabilă în dezvoltarea tehnologiilor care îmbunătățesc performanța sportivilor și revoluționează lumea sportului. Tehnologia Flyknit: [&hellip;]"

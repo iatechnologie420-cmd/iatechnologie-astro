@@ -1,5 +1,4 @@
 ---
-
 title: "O que é um espaço de trabalho digital/trabalho aumentado?"
 slug: "o-que-e-um-espaco-de-trabalho-digital-trabalho-aumentado"
 excerpt: "O que é um espaço de trabalho digital? O termo Espaço de trabalho digital, Ou espaço de trabalho digital, define um ambiente de trabalho que não possui mais barreiras físicas graças às tecnologias digitais. Reúne um conjunto de ferramentas e tecnologias que permitem aos utilizadores conectar-se, colaborar e realizar as suas tarefas profissionais independentemente da [&hellip;]"

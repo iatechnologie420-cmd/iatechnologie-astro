@@ -1,5 +1,4 @@
 ---
-
 title: "Quanto è alto e quanto pesa Mark Zuckerberg?"
 slug: "quanto-e-alto-e-quanto-pesa-mark-zuckerberg"
 excerpt: "L&#8217;altezza di Mark Zuckerberg: mito o realtà? La polemica sulla sua taglia Da diversi anni la questione dell’altezza di Mark Zuckerberg, il fondatore di Facebook, è oggetto di molte speculazioni e dibattiti. Alcuni sostengono che sia più piccolo di quanto sembri, mentre altri sostengono che in realtà sia piuttosto alto. Allora qual è la verità [&hellip;]"

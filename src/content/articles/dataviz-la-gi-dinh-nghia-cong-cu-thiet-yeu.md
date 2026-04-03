@@ -1,5 +1,4 @@
 ---
-
 title: "dataviz là gì? Định nghĩa, công cụ thiết yếu"
 slug: "dataviz-la-gi-dinh-nghia-cong-cu-thiet-yeu"
 excerpt: "Tìm hiểu Dataviz: trực quan hóa dữ liệu Ngày nay, với lượng dữ liệu khổng lồ được tạo ra mỗi giây, việc biết cách trình bày thông tin này một cách rõ ràng và hiệu quả là điều cần thiết. Đây là nơi trực quan hóa dữ liệu, Hoặc dataviz, một lĩnh vực kỷ luật [&hellip;]"

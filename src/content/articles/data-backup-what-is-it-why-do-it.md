@@ -1,5 +1,4 @@
 ---
-
 title: "Data backup: what is it, why do it?"
 slug: "data-backup-what-is-it-why-do-it"
 excerpt: "Understand the importance of backup Data backup is essential to protect information from possible loss due to hardware failure, human error, malware or natural disasters. An adequate backup system makes it possible to restore lost or damaged data and ensures continuity of operations. Know the types of backup There are several backup methods, each adapted [&hellip;]"

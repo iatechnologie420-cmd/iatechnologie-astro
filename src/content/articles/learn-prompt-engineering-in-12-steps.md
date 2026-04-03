@@ -1,5 +1,4 @@
 ---
-
 title: "Learn prompt engineering: in 12 steps"
 slug: "learn-prompt-engineering-in-12-steps"
 excerpt: "Introduction to prompt engineering What is Prompt Engineering? THE Prompt Engineering is an emerging field that focuses on optimizing the prompts, or commands, we give to artificial intelligence (AI) systems, particularly those based on natural language, such as text generators. It is a particularly important discipline with the arrival of language processing models like GPT-4 [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Deepfake: kõik, mida pead teadma AI-ga seotud uue ohu kohta"
 slug: "deepfake-koik-mida-pead-teadma-ai-ga-seotud-uue-ohu-kohta"
 excerpt: "Deepfake&#8217;i määratlus ja toimimine Deepfake&#8217;i määratlus Termin sügav võlts on kokkutõmbumine ingliskeelsetest sõnadest &#8220;deep learning&#8221; ja &#8220;fake&#8221;. See tehnoloogia põhineb algoritmideltehisintellekt spetsiaalselt loodud audiovisuaalse sisu, sealhulgas videote ja heliribade loomiseks või redigeerimiseks. Tulemus on sageli nii veenev, et võib silma ja kõrva petta, muutes selle enamiku inimeste jaoks esmapilgul märkamatuks. Süvavõltsingute eesmärk võib olla mänguline, [&hellip;]"

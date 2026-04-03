@@ -1,5 +1,4 @@
 ---
-
 title: "Kaj je rudarjenje besedila? definicija"
 slug: "kaj-je-rudarjenje-besedila-definicija"
 excerpt: "Uvod v rudarjenje besedil THE besedilno rudarjenje, ali rudarjenje besedila v francoščini, je veja podatkovne znanosti, ki se osredotoča na pridobivanje uporabnih informacij iz velikih nizov besedilnih podatkov. Pogosto povezana z obdelava naravnega jezika (NLP), rudarjenje besedila vključuje niz tehnik in orodij, ki so sposobni razumeti, analizirati in obdelati človeški jezik, zbran v besedilni obliki. [&hellip;]"

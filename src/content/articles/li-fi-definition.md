@@ -1,5 +1,4 @@
 ---
-
 title: "Le Li-Fi : la révolution de la connectivité sans fil ultra-rapide"
 slug: "li-fi-definition"
 excerpt: "La révolution silencieuse du Li-Fi : connectivité lumineuse de demain Introduction à la lumière high-tech C&#8217;est un fait peu connu du grand public, mais le Li-Fi (acronyme de Light Fidelity) figure parmi les technologies de transmission sans fil les plus prometteuses à ce jour, bien que ses premiers essais remontent à 2005. Il s&#8217;est développé [&hellip;]"

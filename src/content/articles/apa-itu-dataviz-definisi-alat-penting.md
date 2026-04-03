@@ -1,5 +1,4 @@
 ---
-
 title: "Apa itu dataviz? Definisi, alat penting"
 slug: "apa-itu-dataviz-definisi-alat-penting"
 excerpt: "Memahami Dataviz: visualisasi data Saat ini, dengan banyaknya data yang dihasilkan setiap detiknya, penting untuk mengetahui cara menyajikan informasi ini dengan jelas dan efektif. Di sinilah tempat visualisasi data, Atau dataviz, bidang disiplin yang menggabungkan desain, naratif, dan analisis statistik untuk mengubah data kompleks menjadi representasi visual yang intuitif. Tujuan Dataviz Ambisi utama dataviz adalah [&hellip;]"

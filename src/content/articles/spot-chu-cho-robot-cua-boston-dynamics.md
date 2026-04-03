@@ -1,5 +1,4 @@
 ---
-
 title: "Spot: chú chó robot của Boston Dynamics"
 slug: "spot-chu-cho-robot-cua-boston-dynamics"
 excerpt: "Khám phá Spot, robot chó của Boston Dynamics Nổi tiếng là tinh hoa của robot hiện đại, Điểm, chú chó robot của Boston Dynamics, đã tạo ra một làn sóng chấn động trong thế giới công nghệ mới. Được thiết kế để thay thế các robot ngang hàng, nó là ví dụ tiêu biểu về [&hellip;]"

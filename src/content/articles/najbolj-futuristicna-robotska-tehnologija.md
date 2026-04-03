@@ -1,5 +1,4 @@
 ---
-
 title: "Najbolj futuristična robotska tehnologija"
 slug: "najbolj-futuristicna-robotska-tehnologija"
 excerpt: "Odkritje revolucionarnih robotov THE revolucionarni roboti niso več znanstvena fantastika, zdaj so del našega vsakdana in spreminjajo različne industrije na nove načine. Vzponumetna inteligenca (AI) in napredna robotika odpira vrata dobe, v kateri postane avtomatizacija bolj prilagodljiva, avtonomna in vključena v človeške dejavnosti. V tem članku bomo raziskali nekaj najbolj inovativnih robotov in njihov pomen [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Bestu skólarnir á vefnum: hvernig á að velja rétt"
 slug: "bestu-skolarnir-a-vefnum-hvernig-a-ad-velja-rett"
 excerpt: "Menntaheimurinn er stöðugt að breytast, sérstaklega með tilkomu nýrrar tækni. Í dag eru mörg þjálfunarnámskeið aðgengileg á netinu, sem býður upp á sveigjanleika og aðlögunarhæfni fyrir hvern nemanda. Við munum leiðbeina þér í gegnum úrval valkosta sem í boði eru, til að taka upplýst val um vefskóli sem uppfyllir óskir þínar sem forgangsverkefni. Að skilja [&hellip;]"

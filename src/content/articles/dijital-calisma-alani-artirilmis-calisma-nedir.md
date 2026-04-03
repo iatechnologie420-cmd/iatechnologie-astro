@@ -1,5 +1,4 @@
 ---
-
 title: "Dijital çalışma alanı/artırılmış çalışma nedir?"
 slug: "dijital-calisma-alani-artirilmis-calisma-nedir"
 excerpt: "Dijital Çalışma Alanı Nedir? Dönem Dijital Çalışma Alanı, Veya dijital çalışma alanı, dijital teknolojiler sayesinde artık fiziksel engellerin olmadığı bir çalışma ortamını tanımlıyor. Kullanıcıların fiziksel konumlarından bağımsız olarak bağlantı kurmasına, işbirliği yapmasına ve profesyonel görevlerini yerine getirmesine olanak tanıyan bir dizi araç ve teknolojiyi bir araya getirir. Bu makale, Dijital Çalışma Alanının temel sütunlarını ve [&hellip;]"

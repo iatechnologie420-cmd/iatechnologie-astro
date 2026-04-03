@@ -1,5 +1,4 @@
 ---
-
 title: "Data Miner: hlutverk, færni, þjálfun og laun"
 slug: "data-miner-hlutverk-faerni-thjalfun-og-laun"
 excerpt: "Hlutverk og verkefni gagnavinnslumannsins THE Data Miner, eða gagnaleitarmaður, gegnir mikilvægu hlutverki í heimi gagna og gervigreindar. Það er ómissandi skuggaleikari sem auðveldar ákvarðanatöku og stefnumótandi stjórnun innan fyrirtækja. Við munum útskýra verkefni þess og mikilvægi hlutverks þess. Hvað er gagnavinnslumaður? THE Data Miner er gagnasérfræðingur sem ber ábyrgð á því að vinna innsýn úr [&hellip;]"

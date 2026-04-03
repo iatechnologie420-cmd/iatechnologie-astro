@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: a revolução na conectividade sem fio ultrarrápida"
 slug: "li-fi-a-revolucao-na-conectividade-sem-fio-ultrarrapida"
 excerpt: "A revolução silenciosa do Li-Fi: conectividade leve de amanhã Introdução à iluminação de alta tecnologia É um facto pouco conhecido do grande público, mas o Li-Fi (sigla para Light Fidelity) está entre as tecnologias de transmissão sem fios mais promissoras até à data, embora os seus primeiros testes remontem a 2005. Foi desenvolvido nas sombras, [&hellip;]"

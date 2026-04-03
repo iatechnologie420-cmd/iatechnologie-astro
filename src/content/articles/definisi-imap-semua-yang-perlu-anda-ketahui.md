@@ -1,5 +1,4 @@
 ---
-
 title: "Definisi IMAP: semua yang perlu Anda ketahui"
 slug: "definisi-imap-semua-yang-perlu-anda-ketahui"
 excerpt: "Pengantar IMAP Protokol Akses Pesan Internet (IMAP) adalah standar komunikasi yang memungkinkan pengguna menerima dan mengelola email mereka langsung di server email, yang berbeda dari pendekatan tradisional di mana email diunduh ke klien email lokal. Hal ini membawa banyak manfaat praktis, terutama di dunia di mana kita mengakses email dari berbagai perangkat. Dalam artikel ini, [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Hvernig getur atferlisvísindatækni bætt daglegt líf okkar?"
 slug: "hvernig-getur-atferlisvisindataekni-baett-daglegt-lif-okkar"
 excerpt: "Áhrif tækni í atferlisvísindum Tæknin hefur haft veruleg áhrif á mörg svið, þar á meðal atferlisvísindi. Þökk sé tækniframförum hafa vísindamenn aðgang að verkfærum og aðferðum sem gera þeim kleift að skilja og greina mannlega hegðun betur. Í þessari grein munum við kanna mismunandi þætti áhrifa tækni í atferlisvísindum og hvernig hún getur bætt daglegt [&hellip;]"

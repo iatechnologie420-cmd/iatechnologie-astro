@@ -1,5 +1,4 @@
 ---
-
 title: "Kõige futuristlikum robotitehnoloogia"
 slug: "koige-futuristlikum-robotitehnoloogia"
 excerpt: "Revolutsiooniliste robotite avastamine THE revolutsioonilised robotid ei ole enam ulme, nad on nüüd osa meie igapäevaelust ja muudavad erinevaid tööstusharusid uuel viisil. Tõustehisintellekt (AI) ja arenenud robootika avab ukse ajastusse, kus automatiseerimine muutub kohanemisvõimelisemaks, autonoomsemaks ja integreerub inimtegevusse. Selles artiklis uurime mõningaid kõige uuenduslikumaid roboteid ja nende tähendust tuleviku jaoks. Närvivõrgud ja süvaõpe Edusammud sisse [&hellip;]"

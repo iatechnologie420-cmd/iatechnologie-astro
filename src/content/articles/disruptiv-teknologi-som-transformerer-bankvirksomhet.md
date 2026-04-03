@@ -1,5 +1,4 @@
 ---
-
 title: "Disruptiv teknologi som transformerer bankvirksomhet?"
 slug: "disruptiv-teknologi-som-transformerer-bankvirksomhet"
 excerpt: "Transformasjonen av bankvirksomhet gjennom disruptiv teknologi har endret finanssektoren dypt de siste årene. Teknologiske fremskritt har muliggjort fremveksten av nye innovative løsninger, som endrer måten bankene opererer på og samhandler med kundene sine. I denne artikkelen vil vi utforske de forskjellige dimensjonene av denne transformasjonen og virkningene den har på banknæringen. Digitalisering: den heldigitale æraen [&hellip;]"

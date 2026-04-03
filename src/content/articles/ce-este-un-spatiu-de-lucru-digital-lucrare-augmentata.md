@@ -1,5 +1,4 @@
 ---
-
 title: "Ce este un spațiu de lucru digital/lucrare augmentată?"
 slug: "ce-este-un-spatiu-de-lucru-digital-lucrare-augmentata"
 excerpt: "Ce este un spațiu de lucru digital? Termenul Spațiu de lucru digital, Or spațiu de lucru digital, definește un mediu de lucru care nu mai are bariere fizice datorită tehnologiilor digitale. Acesta reunește un set de instrumente și tehnologii care le permit utilizatorilor să se conecteze, să colaboreze și să își îndeplinească sarcinile profesionale, indiferent [&hellip;]"

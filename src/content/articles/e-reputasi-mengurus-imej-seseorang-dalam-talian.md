@@ -1,5 +1,4 @@
 ---
-
 title: "E-reputasi: Mengurus imej seseorang dalam talian"
 slug: "e-reputasi-mengurus-imej-seseorang-dalam-talian"
 excerpt: "Memahami e-reputasi dan kepentingannya Dengan evolusi berterusan teknologi digital dan peningkatan integrasi media sosial ke dalam kehidupan seharian kita,e-reputasi telah menjadi faktor penting bagi individu dan perniagaan. Ia membentuk semua maklumat yang terdapat di Internet yang mempengaruhi persepsi orang ramai terhadap jenama, syarikat atau seseorang. L&#8217;e-reputasi dibentuk oleh ulasan, pendapat, imej dan interaksi pada platform [&hellip;]"

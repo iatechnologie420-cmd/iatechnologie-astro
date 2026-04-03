@@ -1,5 +1,4 @@
 ---
-
 title: "Gagnaafrit: hvað er það, hvers vegna gera það?"
 slug: "gagnaafrit-hvad-er-thad-hvers-vegna-gera-thad"
 excerpt: "Skilja mikilvægi öryggisafritunar Gagnaafritun er nauðsynleg til að vernda upplýsingar gegn hugsanlegu tapi vegna vélbúnaðarbilunar, mannlegra mistaka, spilliforrita eða náttúruhamfara. Fullnægjandi afritunarkerfi gerir kleift að endurheimta týnd eða skemmd gögn og tryggir samfellu í rekstri. Þekkja tegundir öryggisafritunar Það eru nokkrar öryggisafritunaraðferðir, hver aðlöguð að sérstökum þörfum: Veldu tíðni afrita Tíðni öryggisafritunar fer eftir því [&hellip;]"

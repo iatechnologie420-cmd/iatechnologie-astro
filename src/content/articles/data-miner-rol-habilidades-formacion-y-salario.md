@@ -1,5 +1,4 @@
 ---
-
 title: "Data Miner: rol, habilidades, formación y salario"
 slug: "data-miner-rol-habilidades-formacion-y-salario"
 excerpt: "El papel y las misiones del minero de datos. EL Minero de datos, o buscador de datos, juega un papel crucial en el mundo de los datos y la inteligencia artificial. Es un actor en la sombra imprescindible que facilita la toma de decisiones y la gestión estratégica dentro de las empresas. Detallaremos sus misiones [&hellip;]"

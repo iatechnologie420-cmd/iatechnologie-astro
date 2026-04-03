@@ -1,5 +1,4 @@
 ---
-
 title: "Data Hubi määratlus: kõik, mida peate andmekeskuste kohta teadma"
 slug: "data-hubi-maaratlus-koik-mida-peate-andmekeskuste-kohta-teadma"
 excerpt: "Saage aru põhitõdedest Suurandmete ja digitaalse transformatsiooni ajastul peavad ettevõtted saama oma andmeid tõhusalt ära kasutada. THE Andmekeskus, ehk andmekeskus, on arhitektuurne vastus kasvavale vajadusele andmehalduse, jagamise ja analüüsi järele. Selles artiklis kirjeldame üksikasjalikult Data Hubi põhialuseid ja selle keskset rolli ettevõtete andmestrateegias. Mis on andmekeskus? A Andmekeskus on tsentraliseeritud platvorm, mis aitab koguda, hallata [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "ALM o Gestión del Ciclo de Vida de las Aplicaciones: definición"
 slug: "alm-o-gestion-del-ciclo-de-vida-de-las-aplicaciones-definicion"
 excerpt: "Los fundamentos yoAplicación de gestión del ciclo de vida (ALM) es un marco sistemático de gobernanza y gestión para el desarrollo de software. Abarca las prácticas, procesos y herramientas que permiten a los equipos gestionar el ciclo de vida de una aplicación desde su concepción hasta su retiro. Echemos un vistazo más de cerca a [&hellip;]"

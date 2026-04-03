@@ -1,5 +1,4 @@
 ---
-
 title: "Co to jest datamart/hurtownia danych?"
 slug: "co-to-jest-datamart-hurtownia-danych"
 excerpt: "Wprowadzenie do koncepcji Datamart TO datamart to termin niezbędny w świecie analizy danych i Business Intelligence (BI). Jest to podsekcja hurtowni danych, czyli specjalistycznej bazy danych przechowującej segment informacji firmy. Podczas gdy hurtownię danych można postrzegać jako ogromną bibliotekę danych firmy, hurtownię danych można postrzegać jako konkretną sekcję tej biblioteki zorganizowaną wokół określonego tematu, takiego [&hellip;]"

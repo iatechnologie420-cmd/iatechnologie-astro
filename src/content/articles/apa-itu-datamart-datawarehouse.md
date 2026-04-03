@@ -1,5 +1,4 @@
 ---
-
 title: "Apa itu Datamart/Datawarehouse?"
 slug: "apa-itu-datamart-datawarehouse"
 excerpt: "Pengenalan konsep Datamart ITU datamart adalah istilah penting dalam dunia analisis data dan Business Intelligence (BI). Ini adalah subbagian dari gudang data, yaitu database khusus yang menyimpan segmen informasi perusahaan. Meskipun gudang data dapat dianggap sebagai perpustakaan besar berisi data perusahaan, data mart dapat dilihat sebagai bagian spesifik dari perpustakaan tersebut, yang disusun berdasarkan topik [&hellip;]"

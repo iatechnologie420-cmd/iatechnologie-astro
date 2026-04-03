@@ -1,5 +1,4 @@
 ---
-
 title: "Permainan ini di mana kecerdasan buatan mengalahkan manusia"
 slug: "permainan-ini-di-mana-kecerdasan-buatan-mengalahkan-manusia"
 excerpt: "Fajar superkomputer dan cabaran catur Era superkomputer bukan lagi visi futuristik yang jauh, tetapi realiti ketara yang merevolusikan pelbagai sektor, termasuk permainan strategi seperti catur. Mesin dengan kuasa pengkomputeran yang luar biasa ini menawarkan taman permainan yang ideal untuk meneroka sempadan kecerdasan buatan dan menyahut cabaran catur dengan mengajukan soalan asas: Apakah potensi sebenar superkomputer [&hellip;]"

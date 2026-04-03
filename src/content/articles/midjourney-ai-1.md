@@ -1,5 +1,4 @@
 ---
-
 title: "MidJourney: 논란의 여지가 있는 AI에 대해 알아야 할 모든 것"
 slug: "midjourney-ai-1"
 excerpt: "MidJourney 이해 MidJourney는 강력한 인공 지능으로 우리가 기술과 상호 작용하는 방식을 변화시킵니다. 이 가이드를 리소스로 사용하여 그 기원과 주요 기능을 이해하세요. 미드저니(MidJourney)란 무엇인가요? MidJourney는 도구입니다 인공지능 새로운 기술과의 일상적인 상호 작용을 개선하고 촉진하도록 설계된 아방가르드. 이는 빠르게 우리 삶의 일부가 되고 있는 Lensa 및 ChatGPT와 같은 다른 주목할만한 도구를 포함하여 끊임없이 성장하는 AI 애플리케이션 환경의 [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Median Technologies na giełdzie: realna szansa?"
 slug: "median-technologies-na-gieldzie-realna-szansa"
 excerpt: "Co to jest Mediana Technologies? Median Technologies to firma technologiczna specjalizująca się w rozwiązaniach do obrazowania medycznego i analizy obrazu na potrzeby badań klinicznych. Założona w 2002 roku firma szybko ugruntowała swoją pozycję światowego lidera w swojej branży, oferując innowacyjne rozwiązania w zakresie interpretacji i analizy obrazów medycznych. Produkty i usługi Median Technologies Technologie medialne [&hellip;]"

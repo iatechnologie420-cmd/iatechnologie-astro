@@ -1,5 +1,4 @@
 ---
-
 title: "Kaj je Sharding? opredelitev in prednosti"
 slug: "kaj-je-sharding-opredelitev-in-prednosti"
 excerpt: "Razumevanje razrezovanja: definicija in osnovna načela Svet baz podatkov in obsežnega shranjevanja podatkov je zapleten in se nenehno razvija. Za učinkovito upravljanje eksponentno naraščajočih količin podatkov morajo IT arhitekture inovirati in najti rešitve za optimizacijo delovanja in upravljanja teh podatkov. Eden od pristopov k temu problemu je tehnika, imenovana drobljenje. V tem članku bomo definirali [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "SSD: alt du trenger å vite om Solid-State Drive-datalagring"
 slug: "ssd-alt-du-trenger-a-vite-om-solid-state-drive-datalagring"
 excerpt: "Introduksjon til SSD-er og hvordan de fungerer Fremkomsten av solid state-disker, eller SSD (Solid State Drive på engelsk), markerte en reell revolusjon innen datalagring. I motsetning til tradisjonelle harddisker (HDDer) som bruker magnetiske tallerkener for å lagre informasjon, HDDer SSD stole på flash-minnebrikker uten bevegelige deler. Denne teknologiendringen gir betydelige fordeler når det gjelder ytelse, [&hellip;]"

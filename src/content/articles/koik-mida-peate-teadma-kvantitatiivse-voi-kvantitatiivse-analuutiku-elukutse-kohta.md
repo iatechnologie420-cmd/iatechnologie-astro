@@ -1,5 +1,4 @@
 ---
-
 title: "Kõik, mida peate teadma kvantitatiivse või kvantitatiivse analüütiku elukutse kohta"
 slug: "koik-mida-peate-teadma-kvantitatiivse-voi-kvantitatiivse-analuutiku-elukutse-kohta"
 excerpt: "Sissejuhatus kvantitatiivse rahanduse maailma Kvantitatiivne rahandus on spetsialiseerunud finantsvaldkond, mis kasutab matemaatilisi mudeleid, statistikat ja arvutitehnikaid, et mõista ja ennustada finantsturgude käitumist. Selles artiklis uurime seda valdkonda, arutades selles kasutatavaid tööriistu, selle rakendusi ja oskusi, mis on vajalikud selles silmapaistvuse saavutamiseks. Kvantitatiivne rahastamine on muutunud finantsasutuste otsuste tegemisel oluliseks ja pakub huvitavaid väljavaateid neile, kes [&hellip;]"

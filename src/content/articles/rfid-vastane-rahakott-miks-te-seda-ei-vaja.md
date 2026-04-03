@@ -1,5 +1,4 @@
 ---
-
 title: "RFID-vastane rahakott: miks te seda ei vaja"
 slug: "rfid-vastane-rahakott-miks-te-seda-ei-vaja"
 excerpt: "RFID-tehnoloogia ja sellega seotud riskide mõistmine Mis on RFID? Seal Raadio sageduse tuvastamine (RFID) on tehnoloogia, mis võimaldab raadiolainete abil automaatselt tuvastada esemeid, loomi või inimesi. See kasutab väikeseid elektroonilisi seadmeid, nn sildid Või RFID-märgised, mis salvestavad andmeid ja edastavad selle teabe RFID-lugejale. Sildid võivad olla passiivsed (ilma oma toiteallikata, aktiveeritud lugeja poolt), aktiivsed (sisseehitatud [&hellip;]"

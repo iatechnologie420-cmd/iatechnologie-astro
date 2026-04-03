@@ -1,5 +1,4 @@
 ---
-
 title: "Turingo testo supratimas"
 slug: "turingo-testo-supratimas"
 excerpt: "Turingo testo ištakos ir principai Dirbtinio intelekto (DI) ir kompiuterijos pasaulyje Turingo testas užima svarbią vietą. Tai yra etaloninis metodas, skirtas įvertinti mašinos gebėjimą imituoti žmogaus intelektą. Šio revoliucinio testo ištakos ir principai siekia XX amžiaus vidurį ir yra pagrįsti sudėtingomis filosofinėmis ir skaičiavimo koncepcijomis. Tiuringo testo istorija Tiuringo testas pavadintas jo išradėjo Alano Turingo, [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Làm thế nào để sửa chữa một máy tính bị hỏng?"
 slug: "lam-the-nao-de-sua-chua-mot-may-tinh-bi-hong"
 excerpt: "Chẩn đoán sự cố máy tính của bạn Việc gặp sự cố máy tính đôi khi có thể trở thành một cơn đau đầu thực sự. Máy tính là một tổ hợp công nghệ phức tạp và khi có điều gì đó không hoạt động như mong đợi thì thường có vô số lý do [&hellip;]"

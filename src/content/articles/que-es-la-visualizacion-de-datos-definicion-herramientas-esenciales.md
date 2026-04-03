@@ -1,5 +1,4 @@
 ---
-
 title: "¿Qué es la visualización de datos? Definición, herramientas esenciales"
 slug: "que-es-la-visualizacion-de-datos-definicion-herramientas-esenciales"
 excerpt: "Entendiendo Dataviz: visualización de datos Hoy en día, con la inmensa cantidad de datos que se generan cada segundo, se vuelve imprescindible saber presentar esta información de forma clara y eficaz. Aquí es donde el Visualización de datos, O visualización de datos, un campo disciplinario que combina diseño, narrativa y análisis estadístico para transformar datos [&hellip;]"

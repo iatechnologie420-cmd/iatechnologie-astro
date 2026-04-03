@@ -1,5 +1,4 @@
 ---
-
 title: "Portfel anty-RFID: dlaczego go nie potrzebujesz"
 slug: "portfel-anty-rfid-dlaczego-go-nie-potrzebujesz"
 excerpt: "Zrozumienie technologii RFID i związanych z nią zagrożeń Co to jest RFID? Tam Identyfikacja częstotliwości radiowej (RFID) to technologia pozwalająca na automatyczną identyfikację przedmiotów, zwierząt czy ludzi za pomocą fal radiowych. Wykorzystuje małe urządzenia elektroniczne tzw etykiety Lub Tagi RFID, które przechowują dane i przesyłają je do czytnika RFID. Tagi mogą być pasywne (bez własnego [&hellip;]"

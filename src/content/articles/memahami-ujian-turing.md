@@ -1,5 +1,4 @@
 ---
-
 title: "Memahami ujian Turing"
 slug: "memahami-ujian-turing"
 excerpt: "Asal-usul dan prinsip ujian Turing Dalam dunia kecerdasan buatan (AI) dan pengkomputeran, ujian Turing menduduki tempat yang menonjol. Ini adalah kaedah penanda aras yang direka untuk menilai keupayaan mesin untuk meniru kecerdasan manusia. Asal usul dan prinsip ujian revolusi ini bermula pada pertengahan abad ke-20 dan berdasarkan konsep falsafah dan pengiraan yang kompleks. Sejarah Ujian [&hellip;]"

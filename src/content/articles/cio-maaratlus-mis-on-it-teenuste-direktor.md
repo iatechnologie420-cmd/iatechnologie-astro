@@ -1,5 +1,4 @@
 ---
-
 title: "CIO määratlus: mis on IT-teenuste direktor"
 slug: "cio-maaratlus-mis-on-it-teenuste-direktor"
 excerpt: "IT-teenuste direktori roll ja missioonid IT-teenuste direktori oluline roll THE IT-teenuste direktor, tuntud ka kui CIO Või Infosüsteemide direktor, omab strateegilist kohta kaasaegsetes ettevõtetes. Digiajastul, kus infost ja tehnoloogiast on saanud kutsetegevuse keskmes, on oma kohustuste ja missioonide mõistmine hädavajalik. See artikkel annab täieliku ülevaate CIO funktsioonist ja tähtsusest. Kontekstis, kus infotehnoloogia areneda hämmastava tempoga, [&hellip;]"

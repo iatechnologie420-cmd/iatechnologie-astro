@@ -1,5 +1,4 @@
 ---
-
 title: "Pepper: vse, kar morate vedeti o družbenem robotu družbe SoftBank"
 slug: "pepper-vse-kar-morate-vedeti-o-druzbenem-robotu-druzbe-softbank"
 excerpt: "Pepper: Predstavitev in osnovne funkcije Povzetek Socialni robot Poper je tehnološki podvig, zasnovan za interakcijo z ljudmi v družbenem okolju. Pepper, opremljen s številnimi senzorji in napredno umetno inteligenco, razume naša čustva in se nanje odziva, hkrati pa se prilagaja našemu vedenju. V tem članku bomo predstavili osnovne funkcije Pepperja in njegove glavne uporabe v [&hellip;]"

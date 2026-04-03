@@ -1,5 +1,4 @@
 ---
-
 title: "Zorgen Nike-technologieën voor een revolutie in de sportwereld?"
 slug: "zorgen-nike-technologieen-voor-een-revolutie-in-de-sportwereld"
 excerpt: "Nike&#8217;s technologische innovaties in de sport Nike is een iconisch merk op het gebied van sportartikelen en de reputatie is grotendeels gebaseerd op het vermogen om voortdurend te innoveren. Sinds de oprichting in 1964 heeft het bedrijf opmerkelijke vindingrijkheid getoond in het ontwikkelen van technologieën die de prestaties van atleten verbeteren en een revolutie teweegbrengen [&hellip;]"

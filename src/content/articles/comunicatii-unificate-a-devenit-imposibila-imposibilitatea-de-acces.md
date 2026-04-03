@@ -1,5 +1,4 @@
 ---
-
 title: "Comunicații unificate: a devenit imposibilă imposibilitatea de acces?"
 slug: "comunicatii-unificate-a-devenit-imposibila-imposibilitatea-de-acces"
 excerpt: "Comunicații unificate: definiție și principiu Ce este comunicațiile unificate? THE Comunicații unificate (CU), sau Unified Communications în limba engleză, desemnează un set de servicii și soluții care urmăresc să integreze sau să unifice diferite forme de comunicații în cadrul aceleiași interfețe sau platforme. Acestea includ mesagerie instantanee, conferințe video, apeluri vocale (VoIP), e-mail, conferințe web [&hellip;]"

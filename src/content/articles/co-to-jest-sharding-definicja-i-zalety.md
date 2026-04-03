@@ -1,5 +1,4 @@
 ---
-
 title: "Co to jest sharding? Definicja i zalety"
 slug: "co-to-jest-sharding-definicja-i-zalety"
 excerpt: "Zrozumienie shardingu: definicja i podstawowe zasady Świat baz danych i przechowywania danych na dużą skalę jest złożony i stale się rozwija. Aby skutecznie zarządzać wykładniczo rosnącymi wolumenami danych, architektury IT muszą wprowadzać innowacje i znajdować rozwiązania optymalizujące wydajność i zarządzanie tymi danymi. Jednym ze sposobów rozwiązania tego problemu jest technika tzw fragmentowanie. W tym artykule [&hellip;]"

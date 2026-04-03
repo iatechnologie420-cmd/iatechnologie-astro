@@ -1,5 +1,4 @@
 ---
-
 title: "Vyriausiasis duomenų pareigūnas (CDO): ​​vaidmuo, įgūdžiai, mokymas ir atlyginimas"
 slug: "vyriausiasis-duomenu-pareigunas-cdo-vaidmuo-igudziai-mokymas-ir-atlyginimas"
 excerpt: "Strateginė vyriausiojo duomenų pareigūno vieta įmonėje Didžiųjų duomenų ir duomenų analizės eroje įmonės vis labiau pripažįsta, kaip svarbu strategiškai valdyti ir panaudoti savo duomenis. Šio pripažinimo esmė yra pagrindinis vaidmuo: Vyriausiasis duomenų pareigūnas (CDO). CDO yra būtinas norint subalansuoti valdymą, duomenų kokybę, atitiktį reikalavimams ir panaudoti duomenis siekiant konkurencinio pranašumo. Šiame straipsnyje bus pažvelgta į [&hellip;]"

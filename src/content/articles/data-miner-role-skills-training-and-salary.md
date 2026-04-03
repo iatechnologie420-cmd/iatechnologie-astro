@@ -1,5 +1,4 @@
 ---
-
 title: "Data Miner: role, skills, training and salary"
 slug: "data-miner-role-skills-training-and-salary"
 excerpt: "The role and missions of the data miner THE Data Miner, or data prospector, plays a crucial role in the world of data and artificial intelligence. It is an essential shadow actor who facilitates decision-making and strategic management within companies. We will detail its missions and the importance of its role. What is a data [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "VOIP: Tanımı, işleyişi ve işletme açısından avantajları"
 slug: "voip-tanimi-isleyisi-ve-isletme-acisindan-avantajlari"
 excerpt: "VOIP&#8217;in tanımı ve temel prensipleri teknolojisi İnternet Protokolü Üzerinden Ses (VoIP) iletişim şeklimizde büyük bir evrimi temsil ediyor. Uzun süredir geleneksel telefon hatlarının hakimiyetinde olan telefon, internet üzerinden verinin yanı sıra sesin de iletilmesine olanak tanıyan dijital bir dönüşüm geçiriyor. O halde gelin VoIP&#8217;in ne olduğuna ve temel prensiplerinin neler olduğuna daha yakından bakalım. VoIP&#8217;un [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "ChatGPT yra tik intelekto iliuzija: kodėl?"
 slug: "chatgpt-yra-tik-intelekto-iliuzija-kodel"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Žmogaus intelekto modeliavimas naudojant AI? Gebėjimas imituoti žmogaus intelektą mašinomis visada buvo išskirtinis tiek mokslininkų, tiek plačiosios visuomenės žavesys. Jei idėja apie mašiną, galinčią mąstyti, mąstyti ir suprasti kaip žmogus, vis dar gali atrodyti kaip mokslinė fantastika, dirbtinio intelekto (DI) pažanga mums įrodo, kad esame arčiau šios realybės nei bet kada. Išsklaidykime kartu šio [&hellip;]"

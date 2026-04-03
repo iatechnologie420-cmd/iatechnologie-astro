@@ -1,5 +1,4 @@
 ---
-
 title: "Pemrograman berorientasi objek: untuk apa dan untuk apa?"
 slug: "pemrograman-berorientasi-objek-untuk-apa-dan-untuk-apa"
 excerpt: "Dasar-dasar Pemrograman Berorientasi Objek Di sana Pemrograman berorientasi objek (OOP) adalah paradigma pemrograman yang menggunakan &#8220;objek&#8221; untuk merancang aplikasi dan program komputer. Objek-objek ini mewakili entitas dunia nyata dan memungkinkan pengembang membuat perangkat lunak yang lebih fleksibel, terukur, dan mudah dipelihara. Pada artikel ini, kita akan mengeksplorasi konsep dasar yang menjadi dasar OOP. Abstraksi akuabstraksi [&hellip;]"

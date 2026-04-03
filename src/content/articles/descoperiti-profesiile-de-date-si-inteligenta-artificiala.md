@@ -1,5 +1,4 @@
 ---
-
 title: "Descoperiți profesiile de date și inteligență artificială"
 slug: "descoperiti-profesiile-de-date-si-inteligenta-artificiala"
 excerpt: "Introducere în profesiile de date și inteligență artificială Creșterea datelor și a inteligenței artificiale (AI) a dat naștere unei abundențe de profesii inovatoare și variate. În centrul revoluției digitale, aceste specializări au devenit esențiale pentru companiile care doresc să profite de potențialul oferit de date și automatizarea inteligentă. Înțelegerea profesiilor de date Data Science, o [&hellip;]"

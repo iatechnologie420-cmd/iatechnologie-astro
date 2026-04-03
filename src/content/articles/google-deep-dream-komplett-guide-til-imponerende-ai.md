@@ -1,5 +1,4 @@
 ---
-
 title: "Google Deep Dream: komplett guide til imponerende AI"
 slug: "google-deep-dream-komplett-guide-til-imponerende-ai"
 excerpt: "Forstå konseptet med Google Deep Dream I den fascinerende verden av kunstig intelligens har en spesielt imponerende innovasjon dukket opp: den Google Deep Dream. Betraktet som en imponerende AI, kombinerer dette konseptet avansert teknologi og grenseløs fantasi for å skape fantastiske visuelle representasjoner. For å forstå essensen av denne teknologien, vil vi utforske dens grunnlag, [&hellip;]"

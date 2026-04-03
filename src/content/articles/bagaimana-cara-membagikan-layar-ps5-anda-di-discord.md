@@ -1,5 +1,4 @@
 ---
-
 title: "Bagaimana cara membagikan layar PS5 Anda di Discord?"
 slug: "bagaimana-cara-membagikan-layar-ps5-anda-di-discord"
 excerpt: "Langkah 1: Siapkan konfigurasi Anda Saat bermain game di PS5 Anda, mungkin menyenangkan untuk berbagi pengalaman Anda dengan teman-teman Anda di Discord. Untuk melakukan ini, Anda dapat melakukan streaming layar PS5 Anda langsung ke Discord. Pada artikel ini, kami akan menjelaskan cara berbagi layar PS5 di Discord dengan dua metode berbeda. Ayo pergi ! Periksa [&hellip;]"

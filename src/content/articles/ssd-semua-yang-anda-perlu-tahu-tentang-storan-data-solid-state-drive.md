@@ -1,5 +1,4 @@
 ---
-
 title: "SSD: semua yang anda perlu tahu tentang storan data Solid-State Drive"
 slug: "ssd-semua-yang-anda-perlu-tahu-tentang-storan-data-solid-state-drive"
 excerpt: "Pengenalan kepada SSD dan Cara Ia Berfungsi Kemunculan cakera keadaan pepejal, atau SSD (Pemacu Keadaan Pepejal dalam bahasa Inggeris), menandakan revolusi sebenar dalam bidang penyimpanan data. Tidak seperti pemacu cakera keras tradisional (HDD) yang menggunakan pinggan magnet untuk menyimpan maklumat, HDD SSD bergantung pada cip memori kilat tanpa bahagian yang bergerak. Perubahan dalam teknologi ini [&hellip;]"

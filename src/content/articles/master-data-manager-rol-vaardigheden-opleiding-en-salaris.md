@@ -1,5 +1,4 @@
 ---
-
 title: "Master Data Manager: rol, vaardigheden, opleiding en salaris"
 slug: "master-data-manager-rol-vaardigheden-opleiding-en-salaris"
 excerpt: "De sleutelrol van de Master Data Manager in data governance In een wereld waarin data een belangrijk strategisch bezit voor bedrijven zijn geworden, gegevensbeheer is essentieel om de kwaliteit, veiligheid en effectiviteit van informatie te waarborgen. De kern van dit bestuur is de Masterdatamanager (MDM) speelt een cruciale rol. Laten we samen de verantwoordelijkheden en [&hellip;]"

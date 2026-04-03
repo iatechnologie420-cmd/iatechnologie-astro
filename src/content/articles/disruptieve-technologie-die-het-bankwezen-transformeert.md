@@ -1,5 +1,4 @@
 ---
-
 title: "Disruptieve technologie die het bankwezen transformeert?"
 slug: "disruptieve-technologie-die-het-bankwezen-transformeert"
 excerpt: "De transformatie van het bankwezen door disruptieve technologie heeft de financiële sector de afgelopen jaren diepgaand veranderd. Technologische vooruitgang heeft de opkomst van nieuwe innovatieve oplossingen mogelijk gemaakt, die de manier veranderen waarop banken opereren en met hun klanten omgaan. In dit artikel onderzoeken we de verschillende dimensies van deze transformatie en de impact die [&hellip;]"

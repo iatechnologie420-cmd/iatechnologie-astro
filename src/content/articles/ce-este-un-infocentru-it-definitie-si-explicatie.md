@@ -1,5 +1,4 @@
 ---
-
 title: "Ce este un infocentru IT? definiție și explicație"
 slug: "ce-este-un-infocentru-it-definitie-si-explicatie"
 excerpt: "A centru informatic al computerului, denumit și centru de informatii, se referă la un sistem centralizat dedicat managementului datelor în cadrul unei organizații. Obiectivul său este de a colecta, stoca, organiza și disemina informațiile necesare activității companiei. Funcția sa este esențială pentru a permite analiștilor și factorilor de decizie să exploateze datele într-un mod eficient [&hellip;]"

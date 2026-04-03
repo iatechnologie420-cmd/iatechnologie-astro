@@ -1,5 +1,4 @@
 ---
-
 title: "Ghid pentru blocarea computerului (PC, Mac, Windows etc.)"
 slug: "ghid-pentru-blocarea-computerului-pc-mac-windows-etc"
 excerpt: "Necesitatea de a vă securiza computerul În epoca actuală, în care activitățile devin digitale într-un ritm accelerat, securitatea computerului nostru a devenit o preocupare majoră atât pentru persoane fizice, cât și pentru companii. Iată un ghid detaliat despre reflexele bune de adoptat pentru a vă proteja eficient sistemul informatic. Calculatoarele sunt punctele centrale ale datelor [&hellip;]"

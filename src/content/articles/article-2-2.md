@@ -1,5 +1,4 @@
 ---
-
 slug: "article-2-2"
 title: "ສ່ວນແບ່ງຕະຫຼາດຂອງລະບົບປະຕິບັດການມືຖື iOS, Android ແລະ Windows ໃນປີ 2024"
 slug: ""

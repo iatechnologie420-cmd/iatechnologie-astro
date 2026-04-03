@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing et la naissance de l&#8217;intelligence artificielle"
 slug: "alan-turing-histoire-ia"
 excerpt: "Alan Turing : Père fondateur de l&#8217;intelligence artificielle Alan Turing : Père fondateur de l&#8217;intelligence artificielleL&#8217;histoire de l&#8217;intelligence artificielle (IA) ne pourrait être complètement narrée sans mentionner le nom d&#8217;Alan Turing, considéré par beaucoup comme le père fondateur de ce domaine qui révolutionne aujourd&#8217;hui tant d&#8217;aspects de notre quotidien. Sa contribution va bien au-delà de [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Cognitivisme: is onze intelligentie kunstmatig?"
 slug: "cognitivisme-is-onze-intelligentie-kunstmatig"
 excerpt: "De oorsprong van cognitivisme en menselijke intelligentie De oorsprong van het cognitivisme DE cognitivisme is een benadering in de psychologie die zich richt op de interne mechanismen van het denken, waarbij de menselijke geest wordt behandeld als een informatieverwerkingssysteem. De oorsprong van deze benadering gaat voornamelijk terug tot de jaren vijftig en zestig, als reactie [&hellip;]"

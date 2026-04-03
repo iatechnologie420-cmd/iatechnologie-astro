@@ -1,5 +1,4 @@
 ---
-
 title: "VOIP: Definicija, delovanje in prednosti za podjetje"
 slug: "voip-definicija-delovanje-in-prednosti-za-podjetje"
 excerpt: "Opredelitev VOIP in osnovna načela Tehnologija za Glas prek internetnega protokola (VoIP) predstavlja velik razvoj v načinu našega komuniciranja. Telefonija, v kateri so dolgo prevladovale tradicionalne telefonske linije, je v fazi digitalne preobrazbe, ki omogoča prenos glasu in podatkov po internetu. Oglejmo si torej podrobneje, kaj je VoIP in kakšna so njegova osnovna načela. Opredelitev [&hellip;]"

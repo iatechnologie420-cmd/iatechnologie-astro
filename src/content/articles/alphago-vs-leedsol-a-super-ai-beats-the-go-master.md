@@ -1,5 +1,4 @@
 ---
-
 title: "AlphaGo vs Leedsol: A super AI beats the Go master"
 slug: "alphago-vs-leedsol-a-super-ai-beats-the-go-master"
 excerpt: "A historic clash: artificial intelligence challenges the master of Go The world of Go was historically dominated by human masters, until a significant event that shook established paradigms. Artificial intelligence, this tool developed by human ingenuity, took up the challenge of tackling one of the most complex strategy games in history. This historic clash between [&hellip;]"

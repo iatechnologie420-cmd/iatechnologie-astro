@@ -1,5 +1,4 @@
 ---
-
 title: "De ce nu funcționează ChatGPT și ce să faci în privința asta?"
 slug: "de-ce-nu-functioneaza-chatgpt-si-ce-sa-faci-in-privinta-asta"
 excerpt: "De ce nu funcționează ChatGPT? Când utilizați ChatGPT, este posibil să întâmpinați probleme care îl fac să nu funcționeze corect. Aceste probleme, deși frustrante, pot avea o varietate de cauze. În acest articol, vom explora câteva motive comune pentru care ChatGPT ar putea să nu funcționeze corect și vă vom oferi soluții pentru a le [&hellip;]"

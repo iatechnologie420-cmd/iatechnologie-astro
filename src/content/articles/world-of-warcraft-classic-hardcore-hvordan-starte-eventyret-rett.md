@@ -1,5 +1,4 @@
 ---
-
 title: "World of Warcraft Classic Hardcore: hvordan starte eventyret rett?"
 slug: "world-of-warcraft-classic-hardcore-hvordan-starte-eventyret-rett"
 excerpt: "Forstå de grunnleggende reglene for hardcore-modus Modusen hardcore I World of Warcraft Classic legger til en fengslende og krevende dimensjon til spillet. For eventyrere som leter etter spenning og utfordringer, vil denne guiden hjelpe deg å dykke inn i denne spennende spillmodusen ved å mestre de grunnleggende reglene. Hva er Hardcore-modus? Modusen hardcore I WoW [&hellip;]"

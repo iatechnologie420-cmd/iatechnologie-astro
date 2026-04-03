@@ -1,5 +1,4 @@
 ---
-
 title: "World of Warcraft Classic Hardcore: bagaimana memulai petualangannya kan?"
 slug: "world-of-warcraft-classic-hardcore-bagaimana-memulai-petualangannya-kan"
 excerpt: "Pahami aturan dasar mode Tegar Modusnya keras Di dalam Dunia Warcraft Klasik menambahkan dimensi menawan dan menantang ke dalam game. Bagi para petualang yang mencari sensasi dan tantangan, panduan ini akan membantu Anda terjun ke mode permainan yang mengasyikkan ini dengan menguasai aturan dasarnya. Apa itu mode Tegar? Modusnya keras Di dalam WoW Klasik adalah [&hellip;]"

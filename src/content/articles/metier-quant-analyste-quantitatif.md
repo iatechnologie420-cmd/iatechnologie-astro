@@ -1,5 +1,4 @@
 ---
-
 title: "Tout savoir sur le métier de Quant ou analyste quantitatif"
 slug: "metier-quant-analyste-quantitatif"
 excerpt: "Introduction au monde de la finance quantitative La finance quantitative est un champ spécialisé de la finance qui utilise des modèles mathématiques, statistiques et des techniques informatiques pour comprendre et prédire le comportement des marchés financiers. Dans cet article, nous allons explorer ce domaine en abordant les outils qu&#8217;il utilise, ses applications ainsi que les [&hellip;]"

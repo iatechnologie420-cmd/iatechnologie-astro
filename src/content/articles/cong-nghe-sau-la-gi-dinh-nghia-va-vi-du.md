@@ -1,5 +1,4 @@
 ---
-
 title: "Công nghệ sâu là gì? định nghĩa và ví dụ"
 slug: "cong-nghe-sau-la-gi-dinh-nghia-va-vi-du"
 excerpt: "Ở đó Công nghệ sâu, hay công nghệ tiên tiến, đại diện cho một cuộc cách mạng trong thế giới khởi nghiệp và đổi mới ngày nay. Nó nổi bật so với các công nghệ thông thường hơn bởi mức độ thay đổi sâu sắc và tiềm năng đột phá của nó. Nhưng chúng ta [&hellip;]"

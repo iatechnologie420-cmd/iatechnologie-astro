@@ -1,5 +1,4 @@
 ---
-
 title: "Datamart / Datawarehouse là gì?"
 slug: "datamart-datawarehouse-la-gi"
 excerpt: "Giới thiệu khái niệm Datamart CÁC dữ liệu Mart là một thuật ngữ thiết yếu trong thế giới phân tích dữ liệu và Business Intelligence (BI). Nó là một phần phụ của kho dữ liệu, tức là cơ sở dữ liệu chuyên dụng lưu trữ một phần thông tin của công ty. Mặc dù kho [&hellip;]"

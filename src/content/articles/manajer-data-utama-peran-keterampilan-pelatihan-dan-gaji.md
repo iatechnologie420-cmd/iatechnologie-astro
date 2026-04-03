@@ -1,5 +1,4 @@
 ---
-
 title: "Manajer Data Utama: peran, keterampilan, pelatihan, dan gaji"
 slug: "manajer-data-utama-peran-keterampilan-pelatihan-dan-gaji"
 excerpt: "Peran kunci dari Master Data Manager dalam tata kelola data Di dunia di mana data telah menjadi aset strategis utama bagi bisnis, tata kelola data sangat penting untuk menjamin kualitas, keamanan dan efektivitas informasi. Inti dari pemerintahan ini adalah Manajer Data Utama (MDM) memainkan peran penting. Mari kita telusuri bersama tanggung jawab dan dampak dari [&hellip;]"

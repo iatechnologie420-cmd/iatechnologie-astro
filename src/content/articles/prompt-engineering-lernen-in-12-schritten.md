@@ -1,5 +1,4 @@
 ---
-
 title: "Prompt Engineering lernen: in 12 Schritten"
 slug: "prompt-engineering-lernen-in-12-schritten"
 excerpt: "Einführung in das Prompt Engineering Was ist Prompt Engineering? DER Schnelles Engineering ist ein aufstrebendes Feld, das sich auf die Optimierung der Eingabeaufforderungen oder Befehle konzentriert, die wir an Systeme der künstlichen Intelligenz (KI) geben, insbesondere an Systeme, die auf natürlicher Sprache basieren, wie z. B. Textgeneratoren. Mit der Einführung von Sprachverarbeitungsmodellen wie GPT-4 ist [&hellip;]"

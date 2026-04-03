@@ -1,5 +1,4 @@
 ---
-
 title: "Borsada Medyan Teknolojileri: gerçek bir fırsat mı?"
 slug: "borsada-medyan-teknolojileri-gercek-bir-firsat-mi"
 excerpt: "Medyan Teknolojileri Nedir? Median Technologies, klinik araştırmalara yönelik tıbbi görüntüleme ve görüntü analizi çözümlerinde uzmanlaşmış bir teknoloji şirketidir. 2002 yılında kurulan şirket, tıbbi görüntülerin yorumlanması ve analizine yönelik yenilikçi çözümler sunarak kısa sürede kendi alanında küresel bir lider haline geldi. Medyan Teknolojileri ürün ve hizmetleri Medyan Teknolojileri Aşağıdakiler de dahil olmak üzere tıbbi görüntü analizi [&hellip;]"

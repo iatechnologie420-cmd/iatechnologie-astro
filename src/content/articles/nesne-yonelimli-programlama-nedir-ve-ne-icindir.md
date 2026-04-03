@@ -1,5 +1,4 @@
 ---
-
 title: "Nesne yönelimli programlama: nedir ve ne içindir?"
 slug: "nesne-yonelimli-programlama-nedir-ve-ne-icindir"
 excerpt: "Nesne Yönelimli Programlamanın Temelleri Orada Nesne yönelimli programlama (OOP), bilgisayar uygulamalarını ve programlarını tasarlamak için &#8220;nesneleri&#8221; kullanan bir programlama paradigmasıdır. Bu nesneler gerçek dünyadaki varlıkları temsil eder ve geliştiricilerin daha esnek, ölçeklenebilir ve bakımı kolay yazılımlar oluşturmasına olanak tanır. Bu yazımızda OOP&#8217;un temelini oluşturan temel kavramları inceleyeceğiz. Soyutlama Bensoyutlama programcının, kullanıcıya yalnızca önemli özellikleri göstermek [&hellip;]"

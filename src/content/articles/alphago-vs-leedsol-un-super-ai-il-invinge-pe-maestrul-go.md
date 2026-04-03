@@ -1,5 +1,4 @@
 ---
-
 title: "AlphaGo vs Leedsol: Un super AI îl învinge pe maestrul Go"
 slug: "alphago-vs-leedsol-un-super-ai-il-invinge-pe-maestrul-go"
 excerpt: "O ciocnire istorică: inteligența artificială îl provoacă pe maestrul lui Go Lumea lui Go a fost dominată istoric de stăpâni umani, până la un eveniment semnificativ care a zguduit paradigmele consacrate. Inteligența artificială, acest instrument dezvoltat de ingeniozitatea umană, a preluat provocarea de a aborda unul dintre cele mai complexe jocuri de strategie din istorie. [&hellip;]"

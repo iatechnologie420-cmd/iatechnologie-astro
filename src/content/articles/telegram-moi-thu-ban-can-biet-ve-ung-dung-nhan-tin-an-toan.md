@@ -1,5 +1,4 @@
 ---
-
 title: "Telegram: mọi thứ bạn cần biết về ứng dụng nhắn tin an toàn"
 slug: "telegram-moi-thu-ban-can-biet-ve-ung-dung-nhan-tin-an-toan"
 excerpt: "Telegram là gì? điện tín là một ứng dụng nhắn tin tức thời tập trung vào tốc độ và bảo mật. Nó đã trở thành một trong những nền tảng truyền thông phổ biến nhất trên thế giới nhờ sự kết hợp của các tính năng tiên tiến, giao diện trực quan và cam kết [&hellip;]"

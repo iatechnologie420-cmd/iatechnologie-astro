@@ -1,5 +1,4 @@
 ---
-
 title: "Google Deep Dream: heill leiðarvísir um heillandi gervigreind"
 slug: "google-deep-dream-heill-leidarvisir-um-heillandi-gervigreind"
 excerpt: "Að skilja hugmyndina um Google Deep Dream Í heillandi heimi gervigreindar hefur sérlega áhrifamikil nýjung birst: The Google Deep Dream. Litið á sem a heillandi gervigreind, þetta hugtak sameinar háþróaða tækni og takmarkalaust ímyndunarafl til að búa til hrífandi sjónræna framsetningu. Til að átta okkur fyllilega á kjarna þessarar tækni munum við kanna undirstöður hennar, [&hellip;]"

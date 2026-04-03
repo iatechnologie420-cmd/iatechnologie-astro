@@ -1,5 +1,4 @@
 ---
-
 title: "Human-Machine Interface: what are HMIs?"
 slug: "human-machine-interface-what-are-hmis"
 excerpt: "Definition of Human-Machine Interface The man-machine interface refers to all the means and tools implemented to enable effective interaction between a human user and a computer system. It encompasses everything from the visual design of screens to input devices such as the keyboard, mouse, and even touch and voice interfaces. The historical evolution of HMI [&hellip;]"

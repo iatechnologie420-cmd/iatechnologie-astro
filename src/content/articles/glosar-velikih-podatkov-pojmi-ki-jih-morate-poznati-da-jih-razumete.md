@@ -1,5 +1,4 @@
 ---
-
 title: "Glosar velikih podatkov: ​​Pojmi, ki jih morate poznati, da jih razumete"
 slug: "glosar-velikih-podatkov-pojmi-ki-jih-morate-poznati-da-jih-razumete"
 excerpt: "Uvod v svet velikih podatkov THE Veliki podatki predstavlja rastoči sektor, ki spreminja način, kako podjetja in organizacije analizirajo in izkoriščajo podatke. V vse bolj digitalnem svetu se podatki ustvarjajo z vrtoglavo hitrostjo in v različnih formatih. Obdobje velikih podatkov ni več samo modna beseda; to je realnost, ki oblikuje celotne industrije in na novo [&hellip;]"

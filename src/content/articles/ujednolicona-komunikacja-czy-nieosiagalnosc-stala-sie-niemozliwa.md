@@ -1,5 +1,4 @@
 ---
-
 title: "Ujednolicona komunikacja: czy nieosiągalność stała się niemożliwa?"
 slug: "ujednolicona-komunikacja-czy-nieosiagalnosc-stala-sie-niemozliwa"
 excerpt: "Ujednolicona komunikacja: definicja i zasada Czym jest ujednolicona komunikacja? TO Zjednoczone Komunikacje (CU), czyli Unified Communications w języku angielskim, oznacza zestaw usług i rozwiązań, których celem jest integracja lub ujednolicenie różnych form komunikacji w ramach tego samego interfejsu lub platformy. Obejmuje to między innymi komunikatory internetowe, wideokonferencje, połączenia głosowe (VoIP), pocztę e-mail, konferencje internetowe i [&hellip;]"

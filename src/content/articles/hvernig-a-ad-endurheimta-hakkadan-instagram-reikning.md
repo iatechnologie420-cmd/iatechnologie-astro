@@ -1,5 +1,4 @@
 ---
-
 title: "Hvernig á að endurheimta hakkaðan Instagram reikning?"
 slug: "hvernig-a-ad-endurheimta-hakkadan-instagram-reikning"
 excerpt: "Að bera kennsl á Instagram reikning í hættu Með stöðugri aukningu notenda á félagslegum kerfum eins og Instagram, áhættan á innbroti reikninga hefur aukist. Vita hvernig á að bera kennsl á hvort reikningurinn þinn Instagram hefur verið í hættu er nauðsynlegt til að geta brugðist hratt og vel við. Í þessari grein skulum við fræðast [&hellip;]"

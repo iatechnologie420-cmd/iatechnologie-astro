@@ -1,5 +1,4 @@
 ---
-
 title: "Specjalne znaki klawiaturowe: najważniejsze skróty, które warto znać (w systemie Windows i Mac)"
 slug: "specjalne-znaki-klawiaturowe-najwazniejsze-skroty-ktore-warto-znac-w-systemie-windows-i-mac"
 excerpt: "Znaki specjalne to symbole lub znaki, które nie odpowiadają standardowym literom i cyfrom tradycyjnej klawiatury. Użycie tych znaków specjalnych ma ogromne znaczenie w różnych kontekstach, takich jak programowanie komputerów, pisanie tekstów, zabezpieczanie hasłami oraz wprowadzanie danych matematycznych lub naukowych. W programowaniu, znaki specjalne są niezbędne. Umożliwiają wykonywanie określonych operacji, takich jak oddzielanie ciągów znaków lub [&hellip;]"

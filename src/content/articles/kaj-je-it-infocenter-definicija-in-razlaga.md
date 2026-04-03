@@ -1,5 +1,4 @@
 ---
-
 title: "Kaj je IT infocenter? definicija in razlaga"
 slug: "kaj-je-it-infocenter-definicija-in-razlaga"
 excerpt: "A računalniški infocenter, imenovan tudi kot informacijski center, se nanaša na centraliziran sistem, namenjen upravljanju podatkov znotraj organizacije. Njegov cilj je zbiranje, shranjevanje, organiziranje in širjenje informacij, potrebnih za dejavnost podjetja. Njegova funkcija je bistvenega pomena za omogočanje analitikom in odločevalcem, da izkoriščajo podatke na učinkovit in informiran način. V tem članku bomo raziskali različne [&hellip;]"

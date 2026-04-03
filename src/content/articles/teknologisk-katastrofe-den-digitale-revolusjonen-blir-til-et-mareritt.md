@@ -1,5 +1,4 @@
 ---
-
 title: "Teknologisk katastrofe: den digitale revolusjonen blir til et mareritt?"
 slug: "teknologisk-katastrofe-den-digitale-revolusjonen-blir-til-et-mareritt"
 excerpt: "Den digitale revolusjonens innvirkning på samfunnet vårt Den digitale revolusjonen som preger vår tid har forstyrret mange sider av samfunnet vårt. Digitale teknologier og tilgang til internett har forandret måten vi kommuniserer, jobber, forbruker og til og med lever på. Denne artikkelen utforsker konsekvensene av denne revolusjonen på våre daglige liv og fremhever de avgjørende [&hellip;]"

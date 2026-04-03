@@ -1,5 +1,4 @@
 ---
-
 title: "Înțelegerea testului Turing"
 slug: "intelegerea-testului-turing"
 excerpt: "Originile și principiile testului Turing În lumea inteligenței artificiale (AI) și a calculului, testul Turing ocupă un loc proeminent. Aceasta este o metodă de referință concepută pentru a evalua capacitatea unei mașini de a imita inteligența umană. Originile și principiile acestui test revoluționar datează de la mijlocul secolului al XX-lea și se bazează pe concepte [&hellip;]"

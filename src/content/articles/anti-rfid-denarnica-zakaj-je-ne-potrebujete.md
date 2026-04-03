@@ -1,5 +1,4 @@
 ---
-
 title: "Anti-RFID denarnica: Zakaj je ne potrebujete"
 slug: "anti-rfid-denarnica-zakaj-je-ne-potrebujete"
 excerpt: "Razumevanje tehnologije RFID in njenih tveganj Kaj je RFID? tam Radiofrekvenčna identifikacija (RFID) je tehnologija, ki omogoča avtomatsko identifikacijo predmetov, živali ali ljudi s pomočjo radijskih valov. Uporablja majhne elektronske naprave, imenovane nalepke oz RFID oznake, ki shranjujejo podatke in te informacije posredujejo čitalniku RFID. Oznake so lahko pasivne (brez lastnega vira napajanja, ki ga [&hellip;]"

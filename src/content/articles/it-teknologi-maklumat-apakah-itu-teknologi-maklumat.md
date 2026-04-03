@@ -1,5 +1,4 @@
 ---
-
 title: "IT / Teknologi Maklumat: apakah itu teknologi maklumat?"
 slug: "it-teknologi-maklumat-apakah-itu-teknologi-maklumat"
 excerpt: "Memahami IT: Definisi dan evolusi teknologi maklumat Apa itu IT? Istilah IT, Untuk Teknologi maklumat dalam bahasa Inggeris, menetapkan semua teknologi yang berkaitan dengan pemprosesan dan pengurusan maklumat dan data. Oleh itu, bidang yang luas ini merangkumi sains komputer, telekomunikasi, sistem pengurusan pangkalan data, keselamatan maklumat dan banyak lagi. IT adalah penting dalam dunia moden: [&hellip;]"

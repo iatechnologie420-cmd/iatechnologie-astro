@@ -1,5 +1,4 @@
 ---
-
 title: "Saldırıya uğramış bir Instagram hesabı nasıl kurtarılır?"
 slug: "saldiriya-ugramis-bir-instagram-hesabi-nasil-kurtarilir"
 excerpt: "Güvenliği ihlal edilmiş bir Instagram hesabını belirleme Gibi sosyal platformlardaki kullanıcıların sürekli artmasıyla birlikte instagram, hesap hackleme riskleri yoğunlaştı. Hesabınızın olup olmadığını nasıl tanımlayacağınızı öğrenin instagram hızlı ve etkili bir şekilde hareket edebilmek için tehlikeye atılmış olması önemlidir. Bu makalede, güvenliği ihlal edilmiş bir hesabın uyarı işaretlerini ve bu hesabı kurtarmak için atabileceğiniz adımları öğreneceğiz. [&hellip;]"

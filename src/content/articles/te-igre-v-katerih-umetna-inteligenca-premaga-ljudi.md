@@ -1,5 +1,4 @@
 ---
-
 title: "Te igre, v katerih umetna inteligenca premaga ljudi"
 slug: "te-igre-v-katerih-umetna-inteligenca-premaga-ljudi"
 excerpt: "Zora superračunalnikov in šahovski izziv Obdobje superračunalnikov ni več oddaljena futuristična vizija, ampak oprijemljiva realnost, ki revolucionira različne sektorje, vključno s strateškimi igrami, kot je šah. Ti stroji s fenomenalno računalniško močjo ponujajo idealno igrišče za raziskovanje meja umetne inteligence in sprejemanje šahovskega izziva s postavljanjem temeljnega vprašanja: Kakšen je resnični potencial superračunalnikov, če jih [&hellip;]"

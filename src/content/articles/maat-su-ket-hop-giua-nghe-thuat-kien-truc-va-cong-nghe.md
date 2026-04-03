@@ -1,5 +1,4 @@
 ---
-
 title: "MAAT: sự kết hợp giữa nghệ thuật, kiến ​​trúc và công nghệ?"
 slug: "maat-su-ket-hop-giua-nghe-thuat-kien-truc-va-cong-nghe"
 excerpt: "Câu chuyện về MAAT: sự kết hợp giữa nghệ thuật và kiến ​​trúc MAAT, từ viết tắt của Bảo tàng Nghệ thuật, Kiến trúc và Công nghệ, là một địa điểm mang tính biểu tượng minh chứng cho sự kết hợp giữa nghệ thuật, kiến ​​trúc và công nghệ. Nằm trên bờ sông Tagus ở [&hellip;]"

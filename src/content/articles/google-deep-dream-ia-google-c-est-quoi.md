@@ -1,5 +1,4 @@
 ---
-
 title: "Google Deep Dream : guide complet d’une IA hallucinante"
 slug: "google-deep-dream-ia-google-c-est-quoi"
 excerpt: "Comprendre le concept de Google Deep Dream Dans le monde fascinant de l&#8217;intelligence artificielle, une innovation particulièrement impressionnante a fait son apparition : le Google Deep Dream. Considéré comme une IA hallucinante, ce concept allie technologie avancée et imagination débordante pour créer des représentations visuelles époustouflantes. Pour saisir pleinement l&#8217;essence de cette technologie, nous allons [&hellip;]"

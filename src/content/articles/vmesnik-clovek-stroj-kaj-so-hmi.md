@@ -1,5 +1,4 @@
 ---
-
 title: "Vmesnik človek-stroj: kaj so HMI?"
 slug: "vmesnik-clovek-stroj-kaj-so-hmi"
 excerpt: "Opredelitev vmesnika človek-stroj Vmesnik človek-stroj se nanaša na vsa sredstva in orodja, implementirana za omogočanje učinkovite interakcije med človekom-uporabnikom in računalniškim sistemom. Zajema vse od vizualnega oblikovanja zaslonov do vnosnih naprav, kot so tipkovnica, miška ter vmesniki na dotik in glasovni vmesniki. Zgodovinski razvoj HMI HMI-ji so se od pojava računalništva precej razvili. Sprva osnovni [&hellip;]"

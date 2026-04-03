@@ -1,5 +1,4 @@
 ---
-
 title: "Teknologi luar pesisir dalam: masa depan penerokaan bawah air?"
 slug: "teknologi-luar-pesisir-dalam-masa-depan-penerokaan-bawah-air"
 excerpt: "Apakah teknologi luar pesisir dalam? Teknologi luar pesisir dalam, juga dikenali sebagai teknologi penggerudian air dalam, adalah satu disiplin yang bertujuan untuk meneroka dan mengeksploitasi sumber yang terdapat di dasar laut, pada kedalaman antara 500 hingga beberapa ribu meter. Teknologi ini membuka kemungkinan baharu untuk penerokaan dan eksploitasi rizab minyak, gas dan mineral yang terletak [&hellip;]"

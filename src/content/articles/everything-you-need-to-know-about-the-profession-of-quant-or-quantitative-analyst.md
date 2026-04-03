@@ -1,5 +1,4 @@
 ---
-
 title: "Everything you need to know about the profession of Quant or quantitative analyst"
 slug: "everything-you-need-to-know-about-the-profession-of-quant-or-quantitative-analyst"
 excerpt: "Introduction to the world of quantitative finance Quantitative finance is a specialized field of finance that uses mathematical models, statistics and computer techniques to understand and predict the behavior of financial markets. In this article, we will explore this field by discussing the tools it uses, its applications as well as the skills required to [&hellip;]"

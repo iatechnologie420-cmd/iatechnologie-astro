@@ -1,5 +1,4 @@
 ---
-
 title: "Apa yang dimaksud dengan ruang kerja digital/kerja tambahan?"
 slug: "apa-yang-dimaksud-dengan-ruang-kerja-digital-kerja-tambahan"
 excerpt: "Apa itu Ruang Kerja Digital? Syarat Ruang Kerja Digital, Atau ruang kerja digital, mendefinisikan lingkungan kerja yang tidak lagi memiliki hambatan fisik berkat teknologi digital. Ini menyatukan seperangkat alat dan teknologi yang memungkinkan pengguna untuk terhubung, berkolaborasi, dan melaksanakan tugas profesional mereka terlepas dari lokasi fisik mereka. Artikel ini akan membahas pilar-pilar penting Ruang Kerja [&hellip;]"

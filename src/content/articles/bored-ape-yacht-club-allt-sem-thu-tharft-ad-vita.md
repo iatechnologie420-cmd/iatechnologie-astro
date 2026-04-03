@@ -1,5 +1,4 @@
 ---
-
 title: "Bored Ape Yacht Club: allt sem þú þarft að vita"
 slug: "bored-ape-yacht-club-allt-sem-thu-tharft-ad-vita"
 excerpt: "Hvað er Bored Ape Yacht Club? THE Bored Ape Yacht Club er nýlegt fyrirbæri sem er að hrista upp í heimi Non-Fungible Tokens (NFT). Þessir einstaklega myndskreyttu sýndarapar eru orðnir tákn um stöðu milljarðamæringa í dulmálsheiminum. En hvað gerir þessar NFT svona sérstakar? Og hvers vegna hafa þeir fangað ímyndunarafl svona margra? Í þessari grein [&hellip;]"

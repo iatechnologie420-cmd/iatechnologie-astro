@@ -1,5 +1,4 @@
 ---
-
 title: "De beste scholen op internet: hoe u de juiste keuze maakt"
 slug: "de-beste-scholen-op-internet-hoe-u-de-juiste-keuze-maakt"
 excerpt: "De onderwijswereld verandert voortdurend, vooral met de komst van nieuwe technologieën. Tegenwoordig zijn veel trainingen online toegankelijk, waardoor elke leerling flexibiliteit en aanpassingsvermogen wordt geboden. Wij begeleiden u graag door de vele mogelijkheden, zodat u een weloverwogen keuze kunt maken webschool die prioriteit geeft aan uw ambities. Inzicht in de uitdagingen van afstandsonderwijs Afstandsonderwijs heeft [&hellip;]"

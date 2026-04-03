@@ -1,5 +1,4 @@
 ---
-
 title: "Prețuri iCloud: comparație între diferitele prețuri și posibile planuri"
 slug: "preturi-icloud-comparatie-intre-diferitele-preturi-si-posibile-planuri"
 excerpt: "iCloud este un serviciu de stocare în cloud oferit de Măr care permite stocarea datelor precum documente, fotografii și muzică pe servere la distanță pentru descărcare pe dispozitive iOS, Mac sau Windows. De asemenea, oferă posibilitatea de a sincroniza datele între diferite dispozitive și de a partaja cu ușurință fișiere. În acest articol, vom explora [&hellip;]"

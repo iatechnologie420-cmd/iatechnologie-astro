@@ -1,5 +1,4 @@
 ---
-
 title: "De stelling van Bayes en het gebruik ervan in AI"
 slug: "de-stelling-van-bayes-en-het-gebruik-ervan-in-ai"
 excerpt: "Inleiding tot de stelling van Bayes DE De stelling van Bayes is een fundamentele formule in waarschijnlijkheid en statistiek die het bijwerken van onze overtuigingen beschrijft in de aanwezigheid van nieuwe informatie. Deze stelling, genoemd ter ere van dominee Thomas Bayes, speelt een cruciale rol op veel gebieden, variërend van machinaal leren tot besluitvorming onder [&hellip;]"

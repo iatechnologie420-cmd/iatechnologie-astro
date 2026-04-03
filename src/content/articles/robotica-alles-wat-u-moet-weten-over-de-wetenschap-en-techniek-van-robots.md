@@ -1,5 +1,4 @@
 ---
-
 title: "Robotica: alles wat u moet weten over de wetenschap en techniek van robots"
 slug: "robotica-alles-wat-u-moet-weten-over-de-wetenschap-en-techniek-van-robots"
 excerpt: "De wetenschap achter de machines begrijpen Robotica is een fascinerende tak van technologie die verschillende kennisgebieden combineert om machines te creëren die taken autonoom of semi-autonoom kunnen uitvoeren. In dit artikel onderzoeken we de fundamenten van robotica, begrijpen we de basisprincipes waarmee robots kunnen werken, en bekijken we de impact van deze technologieën op ons [&hellip;]"

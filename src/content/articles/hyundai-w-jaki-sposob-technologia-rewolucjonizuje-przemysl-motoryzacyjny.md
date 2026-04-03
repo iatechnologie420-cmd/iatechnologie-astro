@@ -1,5 +1,4 @@
 ---
-
 title: "Hyundai: W jaki sposób technologia rewolucjonizuje przemysł motoryzacyjny?"
 slug: "hyundai-w-jaki-sposob-technologia-rewolucjonizuje-przemysl-motoryzacyjny"
 excerpt: "Transformacja cyfrowa znacząco zmieniła sposób, w jaki wchodzimy w interakcję z produktami i usługami, a branża motoryzacyjna nie jest wyjątkiem. Doskonały przykład tej ewolucji można zobaczyć w Hyundaia, której udało się włączyć najnowsze osiągnięcia technologiczne do swojej produkcji i operacji, aby pozostać w czołówce branży. Włączenie technologii cyfrowej do działalności Hyundai Aby zoptymalizować swoje działania, [&hellip;]"

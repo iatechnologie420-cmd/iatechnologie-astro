@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: ultra hızlı kablosuz bağlantıda devrim"
 slug: "li-fi-ultra-hizli-kablosuz-baglantida-devrim"
 excerpt: "Sessiz Li-Fi devrimi: yarının hafif bağlantısı Yüksek teknolojili aydınlatmaya giriş Bu genel halk tarafından çok az bilinen bir gerçektir, ancak ilk testleri 2005 yılına dayanmasına rağmen Li-Fi (Light Fidelity&#8217;nin kısaltması), bugüne kadarki en umut verici kablosuz iletim teknolojileri arasındadır. genellikle büyük teknolojik gelişmeleri aydınlatan ilgi odağı. Geleneksel Wi-Fi&#8217;den daha iyi performans gösterme yeteneği, teorik olarak [&hellip;]"

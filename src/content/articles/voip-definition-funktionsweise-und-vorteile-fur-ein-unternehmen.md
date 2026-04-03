@@ -1,5 +1,4 @@
 ---
-
 title: "VOIP: Definition, Funktionsweise und Vorteile für ein Unternehmen"
 slug: "voip-definition-funktionsweise-und-vorteile-fur-ein-unternehmen"
 excerpt: "Definition von VOIP und Grundprinzipien Die Technologie von Voice over Internet Protocol (VoIP) stellt eine große Weiterentwicklung in der Art und Weise dar, wie wir kommunizieren. Die Telefonie, die lange Zeit von herkömmlichen Telefonleitungen dominiert wurde, durchläuft einen digitalen Wandel, der die Übertragung von Sprache und Daten über das Internet ermöglicht. Schauen wir uns also [&hellip;]"

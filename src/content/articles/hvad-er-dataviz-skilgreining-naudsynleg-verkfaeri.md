@@ -1,5 +1,4 @@
 ---
-
 title: "Hvað er dataviz? Skilgreining, nauðsynleg verkfæri"
 slug: "hvad-er-dataviz-skilgreining-naudsynleg-verkfaeri"
 excerpt: "Skilningur á Dataviz: gagnasýn Í dag, með gríðarlegu magni gagna sem myndast á hverri sekúndu, verður nauðsynlegt að vita hvernig á að setja þessar upplýsingar fram á skýran og skilvirkan hátt. Þetta er þar sem gagnasýn, Eða dataviz, fræðigrein sem sameinar hönnun, frásögn og tölfræðilega greiningu til að umbreyta flóknum gögnum í leiðandi sjónræna framsetningu. [&hellip;]"

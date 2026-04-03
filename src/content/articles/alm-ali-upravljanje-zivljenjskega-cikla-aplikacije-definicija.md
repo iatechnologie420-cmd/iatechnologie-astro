@@ -1,5 +1,4 @@
 ---
-
 title: "ALM ali upravljanje življenjskega cikla aplikacije: definicija"
 slug: "alm-ali-upravljanje-zivljenjskega-cikla-aplikacije-definicija"
 excerpt: "Osnove L&#8217;Aplikacija za upravljanje življenjskega cikla (ALM) je sistematično ogrodje upravljanja in upravljanja za razvoj programske opreme. Zajema prakse, procese in orodja, ki ekipam omogočajo upravljanje življenjskega cikla aplikacije od zasnove do upokojitve. Oglejmo si podrobneje sestavne dele in pomen ALM v sodobnem razvoju programske opreme. Kaj je ALM? ALM se nanaša na kontinuiteto praks [&hellip;]"

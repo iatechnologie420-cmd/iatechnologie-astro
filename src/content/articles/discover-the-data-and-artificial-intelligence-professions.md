@@ -1,5 +1,4 @@
 ---
-
 title: "Discover the Data and Artificial Intelligence professions"
 slug: "discover-the-data-and-artificial-intelligence-professions"
 excerpt: "Introduction to Data and Artificial Intelligence professions The rise of data and artificial intelligence (AI) has given rise to an abundance of innovative and varied professions. At the heart of the digital revolution, these specializations have become essential for companies seeking to take advantage of the potential offered by data and intelligent automation. Understanding the [&hellip;]"

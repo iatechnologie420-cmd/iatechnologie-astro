@@ -1,5 +1,4 @@
 ---
-
 title: "Hyundai: Hoe zorgt technologie voor een revolutie in de auto-industrie?"
 slug: "hyundai-hoe-zorgt-technologie-voor-een-revolutie-in-de-auto-industrie"
 excerpt: "Digitale transformatie heeft de manier waarop we omgaan met producten en diensten aanzienlijk veranderd, en de auto-industrie is daarop geen uitzondering. Een uitstekend voorbeeld van deze evolutie is te zien in Hyundai, dat erin is geslaagd de nieuwste technologische ontwikkelingen in zijn productie en activiteiten te integreren om voorop te blijven lopen in de sector. [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "O que é dataviz? Definição, ferramentas essenciais"
 slug: "o-que-e-dataviz-definicao-ferramentas-essenciais"
 excerpt: "Compreendendo o Dataviz: visualização de dados Hoje, com a imensa quantidade de dados gerados a cada segundo, torna-se fundamental saber apresentar esta informação de forma clara e eficaz. É aqui que Visualização de dados, Ou visualização de dados, um campo disciplinar que combina design, análise narrativa e estatística para transformar dados complexos em representações visuais [&hellip;]"

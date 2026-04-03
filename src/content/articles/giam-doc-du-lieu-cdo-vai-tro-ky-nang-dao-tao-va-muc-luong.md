@@ -1,5 +1,4 @@
 ---
-
 title: "Giám đốc dữ liệu (CDO): ​​vai trò, kỹ năng, đào tạo và mức lương"
 slug: "giam-doc-du-lieu-cdo-vai-tro-ky-nang-dao-tao-va-muc-luong"
 excerpt: "Vị trí chiến lược của Giám đốc dữ liệu trong công ty Trong kỷ nguyên dữ liệu lớn và phân tích dữ liệu, các doanh nghiệp ngày càng nhận ra tầm quan trọng của việc quản lý và tận dụng dữ liệu của mình một cách chiến lược. Trọng tâm của sự công nhận này [&hellip;]"

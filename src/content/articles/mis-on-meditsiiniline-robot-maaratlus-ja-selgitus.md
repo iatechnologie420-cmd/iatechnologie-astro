@@ -1,5 +1,4 @@
 ---
-
 title: "Mis on meditsiiniline robot? määratlus ja selgitus"
 slug: "mis-on-meditsiiniline-robot-maaratlus-ja-selgitus"
 excerpt: "Meditsiinirobotite definitsioon ja tüpoloogia Robootika tulek tervishoius on avanud tohutud võimalused arstiabi ja kirurgia parandamiseks. Need tehnoloogiad, tuntud kui meditsiinilised robotid, on mehaanilised seadmed või arvutisüsteemid, mis on võimelised sooritama suure täpsusega keerulisi toiminguid, sageli kvalifitseeritud meditsiinitöötajate järelevalve või otsese kontrolli all. Kuid millised on erinevad meditsiinirobotite tüübid, mida praegu tervishoiusektoris kasutatakse? Uurime seda küsimust [&hellip;]"

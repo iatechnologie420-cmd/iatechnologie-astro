@@ -1,5 +1,4 @@
 ---
-
 title: "Sameinuð fjarskipti: er óaðgengilegt orðið ómögulegt?"
 slug: "sameinud-fjarskipti-er-oadgengilegt-ordid-omogulegt"
 excerpt: "Sameinuð samskipti: Skilgreining og meginregla Hvað er sameinuð fjarskipti? THE Sameinuð fjarskipti (CU), eða Unified Communications á ensku, tilgreinir safn þjónustu og lausna sem miða að því að samþætta eða sameina ýmis konar samskipti innan sama viðmóts eða vettvangs. Þetta felur í sér spjallskilaboð, myndfundi, raddsímtöl (VoIP), tölvupóst, veffundi og talhólf, svo eitthvað sé nefnt. [&hellip;]"

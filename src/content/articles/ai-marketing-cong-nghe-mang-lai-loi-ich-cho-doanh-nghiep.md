@@ -1,5 +1,4 @@
 ---
-
 title: "AI Marketing: công nghệ mang lại lợi ích cho doanh nghiệp?"
 slug: "ai-marketing-cong-nghe-mang-lai-loi-ich-cho-doanh-nghiep"
 excerpt: "Trí tuệ nhân tạo (AI) đang dần nổi lên như một lực lượng biến đổi ngành tiếp thị. Đổi mới hoạt động tiếp thị bằng AI, hiểu được ý nghĩa của nó đối với hoạt động tiếp thị thương hiệu và tiềm năng tương tác giúp tiết kiệm thời gian, tăng hiệu quả và mở [&hellip;]"

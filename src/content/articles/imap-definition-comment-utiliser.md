@@ -1,5 +1,4 @@
 ---
-
 title: "IMAP définition : tout ce que vous devez savoir"
 slug: "imap-definition-comment-utiliser"
 excerpt: "Introduction au protocole IMAP Le protocole IMAP (Internet Message Access Protocol) est un standard de communication qui permet aux utilisateurs de recevoir et de gérer leurs courriels directement sur les serveurs de messagerie, ce qui diffère de l&#8217;approche traditionnelle où les emails sont téléchargés sur le client de messagerie local. Cela apporte de nombreux avantages [&hellip;]"

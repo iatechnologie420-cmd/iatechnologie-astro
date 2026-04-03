@@ -1,5 +1,4 @@
 ---
-
 title: "AlphaGo proti Leedsolu: Super AI premaga mojstra Go"
 slug: "alphago-proti-leedsolu-super-ai-premaga-mojstra-go"
 excerpt: "Zgodovinski spopad: umetna inteligenca izziva mojstra Go V svetu igre Go so v zgodovini prevladovali človeški gospodarji, vse do pomembnega dogodka, ki je zamajal ustaljene paradigme. Umetna inteligenca, to orodje, ki ga je razvila človeška iznajdljivost, je sprejela izziv spopadanja z eno najbolj zapletenih strateških iger v zgodovini. Ta zgodovinski spopad med logičnimi vezji superračunalnika [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: revolucija v ultra hitri brezžični povezljivosti"
 slug: "li-fi-revolucija-v-ultra-hitri-brezzicni-povezljivosti"
 excerpt: "Tiha Li-Fi revolucija: lahka povezljivost jutrišnjega dne Uvod v visokotehnološko razsvetljavo Širši javnosti je malo znano dejstvo, a Li-Fi (akronim za Light Fidelity) je med najbolj obetavnimi tehnologijami brezžičnega prenosa doslej, čeprav segajo njeni prvi testi v leto 2005. Razvit je bil v senci, daleč od soj žarometov, ki običajno osvetli velik tehnološki napredek. Njegova [&hellip;]"

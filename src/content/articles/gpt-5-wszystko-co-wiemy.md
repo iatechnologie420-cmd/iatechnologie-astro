@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: wszystko, co wiemy"
 slug: "gpt-5-wszystko-co-wiemy"
 excerpt: "Ewolucja sztucznej inteligencji: od GPT-3 do GPT-5 Błyskawiczny postępgeneratywną sztuczną inteligencję w krajobrazie technologicznym jest obecnie napędzany przez to zjawisko CzatGPT. Zaczynając od GPT-3, czekając na GPT-4, opracowano wersję pośrednią GPT-3.5 OpenAI. Ale prawdziwa rewolucja szykuje się w oczekiwaniu na przyszły GPT-5, który ma być inteligentniejszy niż wszystko, co istniało do tej pory. ChatGPT: Zaawansowany [&hellip;]"

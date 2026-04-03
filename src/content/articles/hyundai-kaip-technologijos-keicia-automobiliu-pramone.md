@@ -1,5 +1,4 @@
 ---
-
 title: "„Hyundai“: kaip technologijos keičia automobilių pramonę?"
 slug: "hyundai-kaip-technologijos-keicia-automobiliu-pramone"
 excerpt: "Skaitmeninė transformacija labai pakeitė mūsų sąveiką su produktais ir paslaugomis, o automobilių pramonė nėra išimtis. Puikus šios evoliucijos pavyzdys matomas Hyundai, kuri sugebėjo įtraukti naujausius technologinius pasiekimus į savo gamybą ir veiklą ir išlikti pramonės priešakyje. Skaitmeninių technologijų įtraukimas į „Hyundai“ veiklą „Hyundai“ įdiegė įvairias skaitmenines technologijas, kad optimizuotų savo veiklą. Pavyzdžiui, ji įsivaikino Dideli [&hellip;]"

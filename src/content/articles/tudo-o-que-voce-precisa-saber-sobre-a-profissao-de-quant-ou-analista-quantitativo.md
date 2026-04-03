@@ -1,5 +1,4 @@
 ---
-
 title: "Tudo o que você precisa saber sobre a profissão de Quant ou analista quantitativo"
 slug: "tudo-o-que-voce-precisa-saber-sobre-a-profissao-de-quant-ou-analista-quantitativo"
 excerpt: "Introdução ao mundo das finanças quantitativas As finanças quantitativas são um campo especializado das finanças que utiliza modelos matemáticos, estatísticas e técnicas informáticas para compreender e prever o comportamento dos mercados financeiros. Neste artigo, exploraremos esse campo discutindo as ferramentas que ele utiliza, suas aplicações, bem como as habilidades necessárias para se destacar nele. O [&hellip;]"

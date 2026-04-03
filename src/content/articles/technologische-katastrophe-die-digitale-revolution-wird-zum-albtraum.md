@@ -1,5 +1,4 @@
 ---
-
 title: "Technologische Katastrophe: Die digitale Revolution wird zum Albtraum?"
 slug: "technologische-katastrophe-die-digitale-revolution-wird-zum-albtraum"
 excerpt: "Die Auswirkungen der digitalen Revolution auf unsere Gesellschaft Die digitale Revolution, die unsere Zeit prägt, hat viele Aspekte unserer Gesellschaft verändert. Digitale Technologien und der Zugang zum Internet haben die Art und Weise verändert, wie wir kommunizieren, arbeiten, konsumieren und sogar leben. Dieser Artikel untersucht die Folgen dieser Revolution für unser tägliches Leben und beleuchtet [&hellip;]"

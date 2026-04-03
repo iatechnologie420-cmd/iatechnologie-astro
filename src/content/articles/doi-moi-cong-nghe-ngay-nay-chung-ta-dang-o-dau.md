@@ -1,5 +1,4 @@
 ---
-
 title: "Đổi mới công nghệ: ngày nay chúng ta đang ở đâu?"
 slug: "doi-moi-cong-nghe-ngay-nay-chung-ta-dang-o-dau"
 excerpt: "Những tiến bộ công nghệ gần đây Những tiến bộ công nghệ gần đây Những tiến bộ công nghệ gần đây đã thay đổi hoàn toàn cách chúng ta sống, làm việc và giao tiếp. Các công nghệ mới xuất hiện thường xuyên, thúc đẩy xã hội của chúng ta hướng tới một tương lai [&hellip;]"

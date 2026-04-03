@@ -1,5 +1,4 @@
 ---
-
 title: "What is Sharding? definition and advantages"
 slug: "what-is-sharding-definition-and-advantages"
 excerpt: "Understanding sharding: definition and basic principles The world of databases and large-scale data storage is complex and constantly evolving. To effectively manage exponentially increasing volumes of data, IT architectures must innovate and find solutions to optimize performance and management of this data. One approach to this problem is a technique called sharding. In this article, [&hellip;]"

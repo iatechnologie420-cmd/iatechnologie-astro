@@ -1,5 +1,4 @@
 ---
-
 title: "Quais são os últimos avanços em tecnologias de dados?"
 slug: "quais-sao-os-ultimos-avancos-em-tecnologias-de-dados"
 excerpt: "As tecnologias de dados desempenham um papel cada vez mais essencial na nossa sociedade moderna. Com a crescente digitalização das nossas vidas e a explosão de dados gerados diariamente, é crucial compreender a importância destas tecnologias e o seu impacto no nosso mundo. Neste artigo, exploraremos as diferentes facetas das tecnologias de dados e sua [&hellip;]"

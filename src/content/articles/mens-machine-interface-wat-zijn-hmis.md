@@ -1,5 +1,4 @@
 ---
-
 title: "Mens-machine-interface: wat zijn HMI&#8217;s?"
 slug: "mens-machine-interface-wat-zijn-hmis"
 excerpt: "Definitie van mens-machine-interface De mens-machine-interface verwijst naar alle middelen en hulpmiddelen die zijn geïmplementeerd om effectieve interactie tussen een menselijke gebruiker en een computersysteem mogelijk te maken. Het omvat alles, van het visuele ontwerp van schermen tot invoerapparaten zoals het toetsenbord, de muis en zelfs aanraak- en spraakinterfaces. De historische evolutie van HMI HMI&#8217;s hebben [&hellip;]"

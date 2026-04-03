@@ -1,5 +1,4 @@
 ---
-
 title: "Samsung Xcover 7: Den ultimate løsningen for eventyrere?"
 slug: "samsung-xcover-7-den-ultimate-losningen-for-eventyrere"
 excerpt: "De tekniske egenskapene til Samsung Xcover 7 Samsung Xcover 7 er den nyeste telefonen i Xcover-serien, kjent for sin motstand mot elementene og holdbarhet. Med avanserte funksjoner og et robust design er Xcover 7 designet for aktive mennesker som trenger en pålitelig smarttelefon i enhver situasjon. I denne artikkelen skal vi se nærmere på de [&hellip;]"

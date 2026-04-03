@@ -1,5 +1,4 @@
 ---
-
 title: "Menneske-maskin-grensesnitt: hva er HMI-er?"
 slug: "menneske-maskin-grensesnitt-hva-er-hmi-er"
 excerpt: "Definisjon av menneske-maskin-grensesnitt Menneske-maskin-grensesnittet refererer til alle midlene og verktøyene som er implementert for å muliggjøre effektiv interaksjon mellom en menneskelig bruker og et datasystem. Den omfatter alt fra den visuelle utformingen av skjermer til inndataenheter som tastatur, mus og berørings- og stemmegrensesnitt. Den historiske utviklingen av HMI HMI-er har gjennomgått betydelig utvikling siden bruken [&hellip;]"

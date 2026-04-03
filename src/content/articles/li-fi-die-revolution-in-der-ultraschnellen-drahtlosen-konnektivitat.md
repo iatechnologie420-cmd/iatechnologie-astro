@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: die Revolution in der ultraschnellen drahtlosen Konnektivität"
 slug: "li-fi-die-revolution-in-der-ultraschnellen-drahtlosen-konnektivitat"
 excerpt: "Die lautlose Li-Fi-Revolution: leichte Konnektivität von morgen Einführung in die Hightech-Beleuchtung Es ist eine Tatsache, die der breiten Öffentlichkeit kaum bekannt ist, aber Li-Fi (Abkürzung für Light Fidelity) gehört zu den vielversprechendsten drahtlosen Übertragungstechnologien bis heute, obwohl die ersten Tests bereits im Jahr 2005 durchgeführt wurden. Die Entwicklung erfolgte bei weitem nicht im Verborgenen das [&hellip;]"

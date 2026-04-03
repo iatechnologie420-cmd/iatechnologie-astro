@@ -1,5 +1,4 @@
 ---
-
 title: "Big Data Orðalisti: Skilmálar sem þú þarft að vita til að skilja"
 slug: "big-data-ordalisti-skilmalar-sem-thu-tharft-ad-vita-til-ad-skilja"
 excerpt: "Kynning á heimi stórra gagna THE Stór gögn táknar vaxandi geira sem er að breyta því hvernig fyrirtæki og stofnanir greina og nýta gögn. Í sífellt stafrænni heimi eru gögn framleidd á ógnarhraða og á ýmsum sniðum. Tímabil Big Data er ekki lengur bara tískuorð; það er veruleiki sem er að móta heilu atvinnugreinarnar og [&hellip;]"

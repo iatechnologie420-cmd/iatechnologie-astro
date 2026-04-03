@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: cuộc cách mạng về kết nối không dây cực nhanh"
 slug: "li-fi-cuoc-cach-mang-ve-ket-noi-khong-day-cuc-nhanh"
 excerpt: "Cuộc cách mạng Li-Fi thầm lặng: kết nối ánh sáng của ngày mai Giới thiệu về chiếu sáng công nghệ cao Đó là một sự thật ít được công chúng biết đến, nhưng Li-Fi (viết tắt của Light Fidelity) là một trong những công nghệ truyền dẫn không dây hứa hẹn nhất cho đến nay, [&hellip;]"

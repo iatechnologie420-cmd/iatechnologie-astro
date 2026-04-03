@@ -1,5 +1,4 @@
 ---
-
 title: "Zrozumienie testu Turinga"
 slug: "zrozumienie-testu-turinga"
 excerpt: "Geneza i zasady testu Turinga W świecie sztucznej inteligencji (AI) i informatyki test Turinga zajmuje poczesne miejsce. Jest to metoda wzorcowa zaprojektowana w celu oceny zdolności maszyny do naśladowania ludzkiej inteligencji. Początki i zasady tego rewolucyjnego testu sięgają połowy XX wieku i opierają się na złożonych koncepcjach filozoficznych i obliczeniowych. Historia testu Turinga Test Turinga [&hellip;]"

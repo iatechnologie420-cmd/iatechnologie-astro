@@ -1,5 +1,4 @@
 ---
-
 title: "Annoiato Ape Yacht Club: tutto quello che c&#8217;è da sapere"
 slug: "annoiato-ape-yacht-club-tutto-quello-che-ce-da-sapere"
 excerpt: "Cos&#8217;è il Bored Ape Yacht Club? IL Annoiato Ape Yacht Club è un fenomeno recente che sta sconvolgendo il mondo Token non fungibili (NFT). Queste scimmie virtuali illustrate in modo unico sono diventate il simbolo dello status di miliardario nel mondo delle criptovalute. Ma cosa rende questi NFT così speciali? E perché hanno catturato l’immaginazione [&hellip;]"

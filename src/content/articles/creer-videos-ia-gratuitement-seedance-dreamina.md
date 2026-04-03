@@ -1,5 +1,4 @@
 ---
-
 title: "Créer des vidéos IA gratuitement et en illimité grâce à Seedance 1.0 (Dreamina)"
 slug: "creer-videos-ia-gratuitement-seedance-dreamina"
 excerpt: "Vous cherchez un moyen de générer des vidéos IA gratuitement, sans carte bancaire, et sans limite ? La plupart des générateurs IA vidéo comme Pika, Runway ou Veo 3 fonctionnent sur un modèle payant, avec système de crédits et limitations. Mais aujourd’hui, je vous révèle une méthode encore active pour contourner ces restrictions avec Seedance [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: alt vi vet"
 slug: "gpt-5-alt-vi-vet"
 excerpt: "Utviklingen av kunstig intelligens: fra GPT-3 til GPT-5 Den meteoriske progresjonen avgenerativ kunstig intelligens i det teknologiske landskapet drives akkurat i dette øyeblikket av fenomenet ChatGPT. Fra og med GPT-3, mens man ventet på GPT-4, ble en mellomversjon GPT-3.5 utviklet av OpenAI. Men den virkelige revolusjonen brygger på med forventning om fremtidens GPT-5, lovet å [&hellip;]"

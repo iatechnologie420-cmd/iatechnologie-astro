@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: revolutsioon ülikiire traadita ühenduse loomisel"
 slug: "li-fi-revolutsioon-ulikiire-traadita-uhenduse-loomisel"
 excerpt: "Vaikne Li-Fi revolutsioon: homme kerge ühenduvus Sissejuhatus kõrgtehnoloogilisesse valgustusse See on üldsusele vähe teada, kuid Li-Fi (akronüüm sõnast Light Fidelity) on siiani üks paljutõotavamaid traadita edastustehnoloogiaid, kuigi selle esimesed testid pärinevad aastast 2005. See töötati välja varjus, kaugel sellest, et rambivalgus, mis tavaliselt valgustab suuri tehnoloogilisi edusamme. Selle võime ületada tavapärast WiFi-ühendust on muljetavaldav, kiirusega, [&hellip;]"

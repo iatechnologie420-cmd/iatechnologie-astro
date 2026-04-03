@@ -1,5 +1,4 @@
 ---
-
 title: "Guide to locking your Computer (PC, Mac, Windows, etc.)"
 slug: "guide-to-locking-your-computer-pc-mac-windows-etc"
 excerpt: "The need to secure your computer In the current era, where activities are becoming digital at an accelerated pace, the security of our computer has become a major concern for individuals as well as businesses. Here is a detailed guide on the good reflexes to adopt to effectively protect your computer system. Computers are the [&hellip;]"

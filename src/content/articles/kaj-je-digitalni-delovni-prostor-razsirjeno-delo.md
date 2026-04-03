@@ -1,5 +1,4 @@
 ---
-
 title: "Kaj je digitalni delovni prostor/razširjeno delo?"
 slug: "kaj-je-digitalni-delovni-prostor-razsirjeno-delo"
 excerpt: "Kaj je digitalni delovni prostor? Izraz Digitalni delovni prostor, ali digitalni delovni prostor, definira delovno okolje, ki zaradi digitalnih tehnologij nima več fizičnih ovir. Združuje nabor orodij in tehnologij, ki uporabnikom omogočajo povezovanje, sodelovanje in opravljanje poklicnih nalog ne glede na njihovo fizično lokacijo. Ta članek bo razpravljal o bistvenih stebrih digitalnega delovnega prostora in [&hellip;]"

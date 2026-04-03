@@ -1,5 +1,4 @@
 ---
-
 title: "Deepfake: wszystko, co musisz wiedzieć o nowym zagrożeniu związanym z sztuczną inteligencją"
 slug: "deepfake-wszystko-co-musisz-wiedziec-o-nowym-zagrozeniu-zwiazanym-z-sztuczna-inteligencja"
 excerpt: "Definicja i działanie Deepfake Definicja Deepfake’a Termin głębokie podróbki to skrót angielskich słów „deep learning” i „fake”. Technologia ta opiera się na algorytmachsztuczna inteligencja specjalnie zaprojektowane do tworzenia lub edytowania treści audiowizualnych, w tym filmów i ścieżek audio. Rezultat jest często tak przekonujący, że może zwieść oko i ucho, sprawiając, że dla większości ludzi jest [&hellip;]"

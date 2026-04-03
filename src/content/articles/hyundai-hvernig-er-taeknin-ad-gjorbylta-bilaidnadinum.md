@@ -1,5 +1,4 @@
 ---
-
 title: "Hyundai: Hvernig er tæknin að gjörbylta bílaiðnaðinum?"
 slug: "hyundai-hvernig-er-taeknin-ad-gjorbylta-bilaidnadinum"
 excerpt: "Stafræn umbreyting hefur verulega breytt því hvernig við höfum samskipti við vörur og þjónustu og bílaiðnaðurinn er engin undantekning. Frábært dæmi um þessa þróun má sjá í Hyundai, sem hefur tekist að innleiða nýjustu tækniframfarir í framleiðslu sína og starfsemi til að vera áfram í fararbroddi í greininni. Innleiðing stafrænnar tækni í starfsemi Hyundai Hyundai [&hellip;]"

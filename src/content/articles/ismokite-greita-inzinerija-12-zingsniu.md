@@ -1,5 +1,4 @@
 ---
-
 title: "Išmokite greitą inžineriją: 12 žingsnių"
 slug: "ismokite-greita-inzinerija-12-zingsniu"
 excerpt: "Įvadas į greitą inžineriją Kas yra greitoji inžinerija? THE Greita inžinerija yra besiformuojanti sritis, kurioje pagrindinis dėmesys skiriamas raginimų arba komandų optimizavimui, kuriuos teikiame dirbtinio intelekto (AI) sistemoms, ypač pagrįstoms natūralia kalba, pvz., teksto generatoriams. Tai ypač svarbi disciplina, kai atsiranda kalbos apdorojimo modeliai, tokie kaip GPT-4 OpenAI. Idėja yra išmokti efektyviai „kalbėti“ su šiais [&hellip;]"

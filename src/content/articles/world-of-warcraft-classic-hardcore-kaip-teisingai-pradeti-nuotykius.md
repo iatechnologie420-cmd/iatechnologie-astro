@@ -1,5 +1,4 @@
 ---
-
 title: "World of Warcraft Classic Hardcore: kaip teisingai pradėti nuotykius?"
 slug: "world-of-warcraft-classic-hardcore-kaip-teisingai-pradeti-nuotykius"
 excerpt: "Supraskite pagrindines „Hardcore“ režimo taisykles Režimas hardcore Į World of Warcraft Classic prideda žaidimui patrauklų ir daug pastangų reikalaujantį aspektą. Nuotykių ieškotojams, ieškantiems įspūdžių ir iššūkių, šis vadovas padės pasinerti į šį jaudinantį žaidimo režimą, įsisavinus pagrindines jo taisykles. Kas yra hardcore režimas? Režimas hardcore Į WoW klasika Tai iššūkis, kurį pati sau primeta bendruomenė, [&hellip;]"

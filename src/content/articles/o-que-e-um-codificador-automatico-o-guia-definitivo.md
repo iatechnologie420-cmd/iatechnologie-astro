@@ -1,5 +1,4 @@
 ---
-
 title: "O que é um codificador automático? O guia definitivo!"
 slug: "o-que-e-um-codificador-automatico-o-guia-definitivo"
 excerpt: "Codificadores automáticos ou codificadores automáticos em inglês, posicionam-se como ferramentas poderosas na área de aprendizado de máquina e inteligência artificial. Essas redes neurais especiais são usadas para redução de dimensão, detecção de anomalias, eliminação de ruído de dados e muito mais. Este artigo fornece uma introdução a esta tecnologia fascinante, destacando o seu princípio de [&hellip;]"

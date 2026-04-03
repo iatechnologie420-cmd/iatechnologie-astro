@@ -1,5 +1,4 @@
 ---
-
 title: "Không gian làm việc kỹ thuật số/công việc tăng cường là gì?"
 slug: "khong-gian-lam-viec-ky-thuat-so-cong-viec-tang-cuong-la-gi"
 excerpt: "Không gian làm việc kỹ thuật số là gì? Thuật ngữ Không gian làm việc kỹ thuật số, Hoặc không gian làm việc kỹ thuật số, định nghĩa một môi trường làm việc không còn rào cản vật lý nhờ công nghệ kỹ thuật số. Nó tập hợp một bộ công cụ và công nghệ [&hellip;]"

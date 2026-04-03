@@ -1,5 +1,4 @@
 ---
-
 title: "Rafrænt orðspor: Stjórna ímynd einstaklings á netinu"
 slug: "rafraent-ordspor-stjorna-imynd-einstaklings-a-netinu"
 excerpt: "Skilningur á rafrænu orðspori og mikilvægi þess Með áframhaldandi þróun stafrænnar tækni og aukinni samþættingu samfélagsmiðla inn í daglegt líf okkar, errafrænt orðspor er orðinn afgerandi þáttur fyrir einstaklinga og fyrirtæki. Það eru allar þær upplýsingar sem eru á netinu sem hafa áhrif á skynjun almennings á vörumerki, fyrirtæki eða einstaklingi. L&#8217;rafrænt orðspor mótast af [&hellip;]"

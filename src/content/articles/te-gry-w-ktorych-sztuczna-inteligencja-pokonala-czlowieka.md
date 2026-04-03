@@ -1,5 +1,4 @@
 ---
-
 title: "Te gry, w których sztuczna inteligencja pokonała człowieka"
 slug: "te-gry-w-ktorych-sztuczna-inteligencja-pokonala-czlowieka"
 excerpt: "Świt superkomputerów i wyzwanie szachowe Era superkomputerów nie jest już odległą futurystyczną wizją, ale namacalną rzeczywistością, która rewolucjonizuje różne sektory, w tym gry strategiczne, takie jak szachy. Te maszyny o fenomenalnej mocy obliczeniowej stanowią idealny plac zabaw do odkrywania granic sztucznej inteligencji i podejmowania szachowego wyzwania poprzez zadanie fundamentalnego pytania: Jaki jest prawdziwy potencjał superkomputerów [&hellip;]"

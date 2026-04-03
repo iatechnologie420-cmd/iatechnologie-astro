@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: revolusi dalam konektivitas nirkabel ultra-cepat"
 slug: "li-fi-revolusi-dalam-konektivitas-nirkabel-ultra-cepat"
 excerpt: "Revolusi Li-Fi yang senyap: konektivitas ringan masa depan Pengantar pencahayaan berteknologi tinggi Ini adalah fakta yang sedikit diketahui oleh masyarakat umum, namun Li-Fi (singkatan dari Light Fidelity) adalah salah satu teknologi transmisi nirkabel yang paling menjanjikan hingga saat ini, meskipun pengujian pertamanya dilakukan pada tahun 2005. Teknologi ini dikembangkan dalam bayang-bayang, jauh dari apa yang [&hellip;]"

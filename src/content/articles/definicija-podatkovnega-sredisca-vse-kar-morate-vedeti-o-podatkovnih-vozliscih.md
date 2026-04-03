@@ -1,5 +1,4 @@
 ---
-
 title: "Definicija podatkovnega središča: vse, kar morate vedeti o podatkovnih vozliščih"
 slug: "definicija-podatkovnega-sredisca-vse-kar-morate-vedeti-o-podatkovnih-vozliscih"
 excerpt: "Razumeti osnove V dobi velikih podatkov in digitalne transformacije morajo biti podjetja sposobna učinkovito izkoriščati svoje podatke. THE Podatkovno središče, ali »podatkovni center«, je arhitekturni odgovor na to naraščajočo potrebo po upravljanju, skupni rabi in analizi podatkov. V tem članku bomo podrobno opisali osnove podatkovnega središča in njegovo osrednjo vlogo v podatkovni strategiji podjetij. Kaj [&hellip;]"

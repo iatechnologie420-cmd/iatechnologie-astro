@@ -1,5 +1,4 @@
 ---
-
 title: "Ce este un autoencoder? Ghidul suprem!"
 slug: "ce-este-un-autoencoder-ghidul-suprem"
 excerpt: "Autoencodere, sau autoencodere în limba engleză, se poziționează ca instrumente puternice în domeniul învățării automate și al inteligenței artificiale. Aceste rețele neuronale speciale sunt utilizate pentru reducerea dimensiunilor, detectarea anomaliilor, eliminarea zgomotului de date și multe altele. Acest articol oferă o introducere în această tehnologie fascinantă, subliniind principiul ei de funcționare, aplicațiile sale și importanța [&hellip;]"

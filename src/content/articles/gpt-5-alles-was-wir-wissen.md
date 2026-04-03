@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: alles, was wir wissen"
 slug: "gpt-5-alles-was-wir-wissen"
 excerpt: "Die Entwicklung der künstlichen Intelligenz: von GPT-3 zu GPT-5 Der kometenhafte Fortschritt vongenerative künstliche Intelligenz in der technologischen Landschaft wird gerade jetzt durch das Phänomen vorangetrieben ChatGPT. Beginnend mit GPT-3 wurde dann, während auf GPT-4 gewartet wurde, eine Zwischenversion GPT-3.5 entwickelt OpenAI. Aber die wahre Revolution braut sich mit der Vorfreude auf den zukünftigen GPT-5 [&hellip;]"

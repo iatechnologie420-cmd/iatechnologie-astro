@@ -1,5 +1,4 @@
 ---
-
 title: "Qu’est-ce qu’un auto-encodeur ? Le guide ultime!"
 slug: "qu-est-ce-qu-un-auto-encodeur-guide"
 excerpt: "Les auto-encodeurs, ou autoencoders en anglais, se positionnent comme des outils puissants dans le domaine de l&#8217;apprentissage automatique et de l&#8217;intelligence artificielle. Ces réseaux de neurones spéciaux sont utilisés pour la réduction de dimension, la détection d&#8217;anomalies, le débruitage de données, et plus encore. Cet article propose une introduction à cette technologie fascinante, en mettant [&hellip;]"

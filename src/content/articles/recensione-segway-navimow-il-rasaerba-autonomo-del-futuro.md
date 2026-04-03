@@ -1,5 +1,4 @@
 ---
-
 title: "Recensione Segway Navimow: il rasaerba autonomo del futuro?"
 slug: "recensione-segway-navimow-il-rasaerba-autonomo-del-futuro"
 excerpt: "I vantaggi del rasaerba autonomo Segway Navimow Immagina di poter goderti appieno il tuo giardino senza preoccuparti dell&#8217;incombenza di falciare il prato. Grazie al rasaerba autonomo Segway Navimow, questo noioso compito appartiene ormai al passato. Ricco di funzionalità innovative e tecnologia avanzata, questo rasaerba autonomo offre numerosi vantaggi che renderanno più semplice la tua vita [&hellip;]"

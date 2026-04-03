@@ -1,5 +1,4 @@
 ---
-
 title: "AWS Cloud – Alles wat u moet weten over de Amazon Web Services-cloud"
 slug: "aws-cloud-alles-wat-u-moet-weten-over-de-amazon-web-services-cloud"
 excerpt: "Inleiding tot Amazon Web Services (AWS): een revolutie in cloud computing Sinds de oprichting in 2006 heeft Amazon-webservices (AWS) heeft het IT-landschap radicaal veranderd door een platform voor cloudservices te leveren dat ongekende flexibiliteit, schaalgrootte en schaalvoordelen biedt. Deze inleiding heeft tot doel de werkingsprincipes van te verduidelijkenAWS en om uit te leggen waarom deze [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "O que é mineração de texto? definição"
 slug: "o-que-e-mineracao-de-texto-definicao"
 excerpt: "Introdução à mineração de texto O mineração de texto, ou mineração de texto em francês, é um ramo da ciência de dados que se concentra na extração de informações úteis de grandes conjuntos de dados de texto. Frequentemente associado a processamento de linguagem natural (PNL), a mineração de texto envolve um conjunto de técnicas e [&hellip;]"

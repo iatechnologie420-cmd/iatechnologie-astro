@@ -1,5 +1,4 @@
 ---
-
 title: "Hva er dataviz? Definisjon, essensielle verktøy"
 slug: "hva-er-dataviz-definisjon-essensielle-verktoy"
 excerpt: "Forstå Dataviz: datavisualisering I dag, med den enorme mengden data som genereres hvert sekund, blir det viktig å vite hvordan man presenterer denne informasjonen på en klar og effektiv måte. Det er her datavisualisering, Eller dataviz, et disiplinært felt som kombinerer design, narrativ og statistisk analyse for å transformere komplekse data til intuitive visuelle representasjoner. [&hellip;]"

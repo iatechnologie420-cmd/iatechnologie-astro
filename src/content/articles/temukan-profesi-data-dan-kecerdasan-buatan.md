@@ -1,5 +1,4 @@
 ---
-
 title: "Temukan profesi Data dan Kecerdasan Buatan"
 slug: "temukan-profesi-data-dan-kecerdasan-buatan"
 excerpt: "Pengantar profesi Data dan Kecerdasan Buatan Maraknya data dan kecerdasan buatan (AI) telah memunculkan banyak sekali profesi yang inovatif dan beragam. Di jantung revolusi digital, spesialisasi ini menjadi penting bagi perusahaan yang ingin memanfaatkan potensi yang ditawarkan oleh data dan otomatisasi cerdas. Memahami profesi Data Ilmu Data, titik temu antara statistik, analisis data, dan TI, [&hellip;]"

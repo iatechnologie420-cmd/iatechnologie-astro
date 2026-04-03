@@ -1,5 +1,4 @@
 ---
-
 slug: "article-32"
 title: "如何修理坏掉的电脑？"
 slug: ""

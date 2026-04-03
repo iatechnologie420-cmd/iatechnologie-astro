@@ -1,5 +1,4 @@
 ---
-
 title: "Wat is een IT-infocentrum? definitie en uitleg"
 slug: "wat-is-een-it-infocentrum-definitie-en-uitleg"
 excerpt: "A computer informatiecentrum, ook wel genoemd informatie Centrum, verwijst naar een gecentraliseerd systeem dat zich toelegt op gegevensbeheer binnen een organisatie. Het doel is het verzamelen, opslaan, organiseren en verspreiden van de informatie die nodig is voor de activiteiten van het bedrijf. Zijn functie is essentieel om analisten en besluitvormers in staat te stellen gegevens [&hellip;]"

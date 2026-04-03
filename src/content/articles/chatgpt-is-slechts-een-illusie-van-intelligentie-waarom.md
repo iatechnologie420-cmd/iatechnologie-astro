@@ -1,5 +1,4 @@
 ---
-
 title: "ChatGPT is slechts een illusie van intelligentie: waarom?"
 slug: "chatgpt-is-slechts-een-illusie-van-intelligentie-waarom"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE De simulatie van menselijke intelligentie door AI? Het vermogen om menselijke intelligentie met machines te simuleren is altijd een bijzondere fascinatie geweest, zowel voor wetenschappers als voor het grote publiek. Hoewel het idee van een machine die in staat is om te denken, redeneren en begrijpen als een mens nog steeds sciencefiction lijkt, bewijst [&hellip;]"

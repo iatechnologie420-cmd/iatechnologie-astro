@@ -1,5 +1,4 @@
 ---
-
 title: "Koht: Boston Dynamicsi robotkoer"
 slug: "koht-boston-dynamicsi-robotkoer"
 excerpt: "Discovery of Spot, Boston Dynamicsi koerarobot Tuntud selle poolest, et on moodsa robootika koor, Koht, Boston Dynamicsi robotkoer, on tekitanud lööklaine uute tehnoloogiate maailmas. See on loodud asendama oma kolleege ja on embleemiline näide loomarobotidest, mis on valmis oma mudeleid asendama. Spot, tehnoloogiline revolutsioon Koht kehastab suurepäraselt seda tehnoloogilist edusamme. Selle kujundus lähtus ideest reprodutseerida [&hellip;]"

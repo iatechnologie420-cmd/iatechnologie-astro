@@ -1,5 +1,4 @@
 ---
-
 title: "Vieta: šunų robotas iš Boston Dynamics"
 slug: "vieta-sunu-robotas-is-boston-dynamics"
 excerpt: "„Discovery of Spot“, šunų robotas iš Boston Dynamics Žinomas kaip šiuolaikinės robotikos grietinėlė, Vietašuo robotas iš Boston Dynamics sukūrė smūgio bangą naujų technologijų pasaulyje. Sukurtas pakeisti savo bendraamžius, tai simbolinis gyvūnų robotų, pasiruošusių pakeisti savo modelius, pavyzdys. Spot, technologinė revoliucija Vieta puikiai įkūnija šią technologinę pažangą. Jo dizainas buvo grindžiamas idėja kuo tiksliau atkurti tikro [&hellip;]"

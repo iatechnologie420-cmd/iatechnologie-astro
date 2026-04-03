@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing og fødselen av kunstig intelligens"
 slug: "alan-turing-og-fodselen-av-kunstig-intelligens"
 excerpt: "Alan Turing: Grunnlegger av kunstig intelligens Alan Turing: Grunnlegger av kunstig intelligensHistorien om kunstig intelligens (AI) kunne ikke fortelles fullstendig uten å nevne navnet til Alan Turing, av mange ansett for å være grunnleggeren til dette feltet som i dag revolusjonerer så mange aspekter av våre daglige liv. Hans bidrag går langt utover enkel oppfinnelse; [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Õppige kiiret tehnikat: 12 sammuga"
 slug: "oppige-kiiret-tehnikat-12-sammuga"
 excerpt: "Sissejuhatus kiiresse inseneritöösse Mis on Prompt Engineering? THE Kiire inseneritöö on arenev valdkond, mis keskendub tehisintellekti (AI) süsteemidele antavate viipade või käskude optimeerimisele, eriti loomulikul keelel põhinevatele, näiteks tekstigeneraatoritele. See on eriti oluline distsipliin keeletöötlusmudelite, nagu GPT-4, saabumisel OpenAI. Idee on õppida nende tehisintellektidega tõhusalt „vestlema”, et parandada saadud vastuste kvaliteeti ja asjakohasust. Miks on [&hellip;]"

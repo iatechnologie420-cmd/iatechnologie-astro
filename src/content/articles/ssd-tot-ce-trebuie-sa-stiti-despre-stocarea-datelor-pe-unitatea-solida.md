@@ -1,5 +1,4 @@
 ---
-
 title: "SSD: tot ce trebuie să știți despre stocarea datelor pe unitatea solidă"
 slug: "ssd-tot-ce-trebuie-sa-stiti-despre-stocarea-datelor-pe-unitatea-solida"
 excerpt: "Introducere în SSD-uri și modul în care funcționează Apariția discurilor cu stare solidă, sau SSD (Unitate solidă în limba engleză), a marcat o adevărată revoluție în domeniul stocării datelor. Spre deosebire de hard disk-urile tradiționale (HDD) care folosesc platouri magnetice pentru a stoca informații, HDD-urile SSD bazează-te pe cipuri de memorie flash fără piese mobile. [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Ühtne side: kas kättesaamatus on muutunud võimatuks?"
 slug: "uhtne-side-kas-kattesaamatus-on-muutunud-voimatuks"
 excerpt: "Ühtne kommunikatsioon: määratlus ja põhimõte Mis on ühtne side? THE Ühtne side (CU ehk inglise keeles Unified Communications) tähistab teenuste ja lahenduste kogumit, mille eesmärk on integreerida või ühtlustada erinevaid suhtlusvorme samas liideses või platvormis. See hõlmab kiirsuhtlust, videokonverentse, häälkõnesid (VoIP), e-posti, veebikonverentse ja kõneposti. Peamine eesmärk on hõlbustada suhtlust ja koostööd ettevõtte töötajate vahel, [&hellip;]"

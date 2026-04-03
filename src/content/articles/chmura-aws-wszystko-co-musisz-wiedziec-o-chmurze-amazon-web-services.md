@@ -1,5 +1,4 @@
 ---
-
 title: "Chmura AWS – wszystko, co musisz wiedzieć o chmurze Amazon Web Services"
 slug: "chmura-aws-wszystko-co-musisz-wiedziec-o-chmurze-amazon-web-services"
 excerpt: "Wprowadzenie do Amazon Web Services (AWS): rewolucja w przetwarzaniu w chmurze Od momentu powstania w 2006 r. Usługi internetowe Amazona (AWS) radykalnie zmieniła krajobraz IT, dostarczając platformę usług w chmurze, która zapewnia niespotykaną dotąd elastyczność, skalę i korzyści skali. Celem tego wprowadzenia jest wyjaśnienie zasad działaniaAWS oraz wyjaśnić, dlaczego to rozwiązanie stało się kluczowym graczem [&hellip;]"

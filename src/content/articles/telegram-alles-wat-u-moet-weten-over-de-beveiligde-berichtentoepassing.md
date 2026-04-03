@@ -1,5 +1,4 @@
 ---
-
 title: "Telegram: alles wat u moet weten over de beveiligde berichtentoepassing"
 slug: "telegram-alles-wat-u-moet-weten-over-de-beveiligde-berichtentoepassing"
 excerpt: "Wat is Telegram? Telegram is een instant messaging-applicatie gericht op snelheid en veiligheid. Het is een van de populairste communicatieplatforms ter wereld geworden dankzij de combinatie van geavanceerde functies, intuïtieve interface en toewijding aan het beschermen van de privacy van gebruikers. Sinds de lancering in 2013 heeft Telegram onderscheidt zich tussen een groot aantal berichtentoepassingen [&hellip;]"

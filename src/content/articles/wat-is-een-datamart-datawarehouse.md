@@ -1,5 +1,4 @@
 ---
-
 title: "Wat is een Datamart/Datawarehouse?"
 slug: "wat-is-een-datamart-datawarehouse"
 excerpt: "Inleiding tot het concept van Datamart DE datamart is een essentiële term in de wereld van data-analyse en Business Intelligence (BI). Het is een onderafdeling van een datawarehouse, dat wil zeggen een gespecialiseerde database waarin een deel van de bedrijfsinformatie wordt opgeslagen. Hoewel een datawarehouse kan worden gezien als een enorme bibliotheek met bedrijfsgegevens, kan [&hellip;]"

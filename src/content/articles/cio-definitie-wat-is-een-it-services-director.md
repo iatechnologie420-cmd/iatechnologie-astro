@@ -1,5 +1,4 @@
 ---
-
 title: "CIO-definitie: wat is een IT Services Director"
 slug: "cio-definitie-wat-is-een-it-services-director"
 excerpt: "Rol en missies van de directeur IT Services De essentiële rol van de directeur IT Services DE Directeur IT-diensten, ook gekend als CIO Of Directeur van de informatiesystemen, neemt een strategische plaats in binnen moderne bedrijven. In het digitale tijdperk, waarin informatie en technologie de kern van professionele activiteiten zijn geworden, is het begrijpen van [&hellip;]"

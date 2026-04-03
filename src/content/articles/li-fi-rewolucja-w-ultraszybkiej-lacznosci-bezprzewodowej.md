@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: rewolucja w ultraszybkiej łączności bezprzewodowej"
 slug: "li-fi-rewolucja-w-ultraszybkiej-lacznosci-bezprzewodowej"
 excerpt: "Cicha rewolucja Li-Fi: lekka łączność jutra Wprowadzenie do oświetlenia high-tech Jest to fakt mało znany opinii publicznej, ale Li-Fi (akronim od Light Fidelity) to jedna z najbardziej obiecujących technologii transmisji bezprzewodowej w dotychczasowej historii, choć jej pierwsze testy datowane są na rok 2005. Powstawała w cieniu, z dala od światło reflektorów, które zwykle oświetla główne [&hellip;]"

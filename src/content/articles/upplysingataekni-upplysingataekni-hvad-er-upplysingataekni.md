@@ -1,5 +1,4 @@
 ---
-
 title: "Upplýsingatækni / upplýsingatækni: hvað er upplýsingatækni?"
 slug: "upplysingataekni-upplysingataekni-hvad-er-upplysingataekni"
 excerpt: "Skilningur á upplýsingatækni: Skilgreining og þróun upplýsingatækni Hvað er það? Hugtakið ÞAÐ, Fyrir Upplýsingatækni á ensku, tilgreinir alla tækni sem tengist vinnslu og stjórnun á upplýsingar og gögn. Þetta víðfeðma svið nær því yfir tölvunarfræði, fjarskipti, gagnagrunnsstjórnunarkerfi, upplýsingaöryggi og margt fleira. ÞAÐ er nauðsynlegt í nútíma heimi: það gerir fyrirtækjum kleift að starfa á skilvirkan [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "ChatGPT er bara blekking greind: hvers vegna?"
 slug: "chatgpt-er-bara-blekking-greind-hvers-vegna"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Eftirlíking mannlegrar upplýsingaöflunar með gervigreind? Hæfni til að líkja eftir mannlegri greind með vélum hefur alltaf verið einstök hrifning, bæði fyrir vísindamenn og almenning. Ef hugmyndin um vél sem er fær um að hugsa, rökræða og skilja eins og manneskja kann enn að virðast eins og vísindaskáldskapur, þá sanna framfarir í gervigreind (AI) okkur [&hellip;]"

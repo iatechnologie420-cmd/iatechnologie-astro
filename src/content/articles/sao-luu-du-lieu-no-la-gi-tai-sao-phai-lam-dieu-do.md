@@ -1,5 +1,4 @@
 ---
-
 title: "Sao lưu dữ liệu: nó là gì, tại sao phải làm điều đó?"
 slug: "sao-luu-du-lieu-no-la-gi-tai-sao-phai-lam-dieu-do"
 excerpt: "Hiểu tầm quan trọng của việc sao lưu Sao lưu dữ liệu là điều cần thiết để bảo vệ thông tin khỏi bị mất do lỗi phần cứng, lỗi của con người, phần mềm độc hại hoặc thiên tai. Một hệ thống sao lưu đầy đủ có thể khôi phục dữ liệu bị mất hoặc [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Tout savoir sur les prompt : définition, fonctionnement et utilisation"
 slug: "tout-savoir-sur-les-prompt-definition-fonctionnement-et-utilisation"
 excerpt: "Qu&#8217;est ce qu&#8217;un prompt ? Un prompt est une instruction ou une question que l&#8217;on pose à une Intelligence Artificielle (IA) pour générer une réponse ou un contenu. Efficacement rédigés, ils sont des outils puissants qui aident à obtenir des résultats précis de l&#8217;IA. Dans le domaine des nouvelles technologies, et plus précisément de l&#8217;IA [&hellip;]"

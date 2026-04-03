@@ -1,5 +1,4 @@
 ---
-
 title: "Vibe Code avec Gemini : Créez une Web App Gratuitement avec Gemini"
 slug: "vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini"
 excerpt: "Tu as une idée d’app, mais pas envie d’ouvrir VS Code, installer Node, gérer une API, ni lire 15 pages de doc ?Google vient de te faire un cadeau :&nbsp;Vibe Code dans Google AI Studio. En gros :➡️ Tu décris ton idée en français➡️ Gemini génère&nbsp;une vraie web app➡️ Tu vois le résultat en live [&hellip;]"

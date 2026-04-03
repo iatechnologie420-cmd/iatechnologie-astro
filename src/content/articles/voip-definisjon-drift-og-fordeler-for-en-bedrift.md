@@ -1,5 +1,4 @@
 ---
-
 title: "VOIP: Definisjon, drift og fordeler for en bedrift"
 slug: "voip-definisjon-drift-og-fordeler-for-en-bedrift"
 excerpt: "Definisjon av VOIP og grunnleggende prinsipper Teknologien til Voice over Internet Protocol (VoIP) representerer en stor utvikling i måten vi kommuniserer på. Telefoni har lenge vært dominert av tradisjonelle telefonlinjer, og gjennomgår en digital transformasjon som gjør det mulig å overføre både tale og data over internett. Så la oss se nærmere på hva VoIP [&hellip;]"

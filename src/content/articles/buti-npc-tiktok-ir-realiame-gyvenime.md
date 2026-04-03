@@ -1,5 +1,4 @@
 ---
-
 title: "Būti NPC „Tiktok“ ir realiame gyvenime&#8230;?"
 slug: "buti-npc-tiktok-ir-realiame-gyvenime"
 excerpt: "„NPC valdiklių“ fenomenas „TikTok“. Begalinėje visatoje Tik tak, vartotojų dėmesį patraukė gana išskirtinis reiškinys: „ NPC valdikliai » (Ne žaidėjų veikėjai). Anksčiau apsiribojęs vaizdo žaidimais, posakis „NPC“ dabar įsiskverbia į socialinės žiniasklaidos žargoną, apibrėždamas patirtį, kurioje derinama išplėstinė realybė ir socialinė sąveika. Bet kas iš tikrųjų slypi už šio NPC valdymo pamišimo Tik tak, ir [&hellip;]"

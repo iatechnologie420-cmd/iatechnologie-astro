@@ -1,5 +1,4 @@
 ---
-
 title: "La cadena de valor de PORTER | Ejemplos concretos para entender"
 slug: "la-cadena-de-valor-de-porter-ejemplos-concretos-para-entender"
 excerpt: "Comprender la cadena de valor de Michael Porter La cadena de valor es un concepto desarrollado por el economista y académico estadounidense Michael Porter en su obra &#8220;Ventaja Competitiva&#8221; publicada en 1985. Este modelo es fundamental para analizar las actividades internas de una empresa con el fin de optimizar su valor creado y sus ventajas [&hellip;]"

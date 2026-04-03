@@ -1,5 +1,4 @@
 ---
-
 title: "iCloud verð: samanburður á mismunandi verði og mögulegum áætlunum"
 slug: "icloud-verd-samanburdur-a-mismunandi-verdi-og-mogulegum-aaetlunum"
 excerpt: "iCloud er skýgeymsluþjónusta í boði hjá Epli sem gerir kleift að geyma gögn eins og skjöl, myndir og tónlist á ytri netþjónum til að hlaða niður í iOS, Mac eða Windows tæki. Það veitir einnig möguleika á að samstilla gögn á milli mismunandi tækja og deila skrám auðveldlega. Í þessari grein munum við kanna mismunandi [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Deepfake: Alles, was Sie über die neue Bedrohung im Zusammenhang mit KI wissen müssen"
 slug: "deepfake-alles-was-sie-uber-die-neue-bedrohung-im-zusammenhang-mit-ki-wissen-mussen"
 excerpt: "Definition und Funktionsweise von Deepfake Definition von Deepfake Der Begriff Deepfake ist eine Zusammenziehung der englischen Wörter „deep learning“ und „fake“. Diese Technologie basiert auf Algorithmenkünstliche Intelligenz speziell für die Erstellung oder Bearbeitung audiovisueller Inhalte, einschließlich Videos und Audiospuren, konzipiert. Das Ergebnis ist oft so überzeugend, dass es Auge und Ohr täuschen kann und für [&hellip;]"

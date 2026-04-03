@@ -1,5 +1,4 @@
 ---
-
 title: "Google&#8217;s Morpion-game: hoe speel je het en versla je kunstmatige intelligentie?"
 slug: "googles-morpion-game-hoe-speel-je-het-en-versla-je-kunstmatige-intelligentie"
 excerpt: "De regels van het Tic-Toe-spel van Google Doel van het spel Het Morpion-spel, ook wel Boter-kaas-en-eieren genoemd, is een strategiespel dat wordt gespeeld op een 3&#215;3-raster. Het doel is om drie identieke symbolen (kruis of cirkel) horizontaal, verticaal of diagonaal voor je tegenstander op een rij te zetten. Opgericht Het Google Tic Toe-spel is online [&hellip;]"

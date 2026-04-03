@@ -1,5 +1,4 @@
 ---
-
 title: "Tæknigarðar: nýsköpunarmiðstöðvar fyrir morgundaginn?"
 slug: "taeknigardar-nyskopunarmidstodvar-fyrir-morgundaginn"
 excerpt: "Tilkoma tæknigarða Þessir helgidómar nýsköpunar, einnig þekktir sem vísindagarðar eða tæknipólar, eiga sér ríka sögu og eru í stöðugri þróun; þær fela í sér tæknilegar og efnahagslegar framfarir. Þessi grein miðar að því að kanna uppruna og þróun þessara tæknimiðstöðva og varpa ljósi á afgerandi hlutverk þeirra sem hvata fyrir nýsköpun og efnahagsþróun. Saga tæknigarða [&hellip;]"

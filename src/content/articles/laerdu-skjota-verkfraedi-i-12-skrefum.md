@@ -1,5 +1,4 @@
 ---
-
 title: "Lærðu skjóta verkfræði: í 12 skrefum"
 slug: "laerdu-skjota-verkfraedi-i-12-skrefum"
 excerpt: "Kynning á skyndiverkfræði Hvað er prompt verkfræði? THE Hraðvirkt verkfræði er vaxandi svið sem leggur áherslu á að fínstilla leiðbeiningarnar eða skipanirnar sem við gefum gervigreindarkerfum (AI), sérstaklega þeim sem byggja á náttúrulegu tungumáli, eins og textaframleiðendum. Það er sérstaklega mikilvæg fræðigrein með komu tungumálavinnslulíkana eins og GPT-4 frá OpenAI. Hugmyndin er að læra að [&hellip;]"

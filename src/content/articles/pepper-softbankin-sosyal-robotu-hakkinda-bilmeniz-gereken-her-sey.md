@@ -1,5 +1,4 @@
 ---
-
 title: "Pepper: SoftBank&#8217;ın sosyal robotu hakkında bilmeniz gereken her şey"
 slug: "pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "Biber: Sunum ve temel işlevler Özet Sosyal robot Biber insanlarla sosyal bir ortamda etkileşim kurmak için tasarlanmış teknolojik bir başarıdır. Çok sayıda sensör ve gelişmiş yapay zeka ile donatılan Pepper, davranışlarımıza uyum sağlarken duygularımızı anlıyor ve onlara tepki veriyor. Bu makale aracılığıyla Pepper&#8217;ın temel işlevlerinin yanı sıra farklı faaliyet sektörlerindeki ana uygulamalarını da sunacağız. Pepper [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Quant veya kantitatif analist mesleği hakkında bilmeniz gereken her şey"
 slug: "quant-veya-kantitatif-analist-meslegi-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "Kantitatif finans dünyasına giriş Kantitatif finans, finansal piyasaların davranışlarını anlamak ve tahmin etmek için matematiksel modelleri, istatistikleri ve bilgisayar tekniklerini kullanan özel bir finans alanıdır. Bu makalede, bu alanı kullandığı araçları, uygulamalarını ve bu alanda başarılı olmak için gereken becerileri tartışarak keşfedeceğiz. Niceliksel finans, finansal kurumlarda karar vermede vazgeçilmez hale geldi ve bu büyüyen sektöre [&hellip;]"

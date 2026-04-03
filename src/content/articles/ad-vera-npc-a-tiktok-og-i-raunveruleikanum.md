@@ -1,5 +1,4 @@
 ---
-
 title: "Að vera NPC á Tiktok og í raunveruleikanum&#8230;?"
 slug: "ad-vera-npc-a-tiktok-og-i-raunveruleikanum"
 excerpt: "Fyrirbærið „NPC stýringar“ á TikTok Í hinum óendanlega alheimi TikTok, frekar einstakt fyrirbæri hefur fangað athygli notenda: &#8221; NPC stýringar » (Tákn sem ekki eru leikmaður). Áður einskorðað við tölvuleiki, er orðatiltækið „NPC“ nú að læðast inn í hrognamál á samfélagsmiðlum og skilgreinir upplifun sem blandar auknum veruleika og félagslegum samskiptum. En hvað er raunverulega [&hellip;]"

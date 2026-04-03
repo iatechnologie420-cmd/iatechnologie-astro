@@ -1,5 +1,4 @@
 ---
-
 title: "Lập trình hướng đối tượng: nó là gì và dùng để làm gì?"
 slug: "lap-trinh-huong-doi-tuong-no-la-gi-va-dung-de-lam-gi"
 excerpt: "Nguyên tắc cơ bản của lập trình hướng đối tượng Ở đó Lập trình hướng đối tượng (OOP) là một mô hình lập trình sử dụng các &#8220;đối tượng&#8221; để thiết kế các chương trình và ứng dụng máy tính. Các đối tượng này đại diện cho các thực thể trong thế giới thực và [&hellip;]"

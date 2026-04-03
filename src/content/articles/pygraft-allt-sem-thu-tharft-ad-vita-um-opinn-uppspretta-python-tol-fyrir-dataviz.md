@@ -1,5 +1,4 @@
 ---
-
 title: "PyGraft: allt sem þú þarft að vita um opinn uppspretta Python tól fyrir DataViz"
 slug: "pygraft-allt-sem-thu-tharft-ad-vita-um-opinn-uppspretta-python-tol-fyrir-dataviz"
 excerpt: "PyGraft: nýja stjarnan í opnum uppspretta DataViz PyGraft kemur fram sem efnilegt tól, hannað til að veita gagnasérfræðingum og áhugafólki auðgandi og öfluga reynslu í að búa til gagnasýn. Með háþróaðri vinnslugetu og ótrúlegum sveigjanleika, PyGraft er verkefni opinn uppspretta sem þegar er farið að tala um. En hvað er PyGraft og hvernig getur það [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing e o nascimento da inteligência artificial"
 slug: "alan-turing-e-o-nascimento-da-inteligencia-artificial"
 excerpt: "Alan Turing: fundador da inteligência artificial Alan Turing: fundador da inteligência artificialA história da inteligência artificial (IA) não poderia ser contada completamente sem mencionar o nome de Alan Turing, considerado por muitos o pai fundador desta área que hoje revoluciona tantos aspectos da nossa vida quotidiana. A sua contribuição vai muito além da simples invenção; [&hellip;]"

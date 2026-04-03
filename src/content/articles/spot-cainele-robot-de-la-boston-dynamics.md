@@ -1,5 +1,4 @@
 ---
-
 title: "Spot: câinele robot de la Boston Dynamics"
 slug: "spot-cainele-robot-de-la-boston-dynamics"
 excerpt: "Descoperirea lui Spot, câinele robot de la Boston Dynamics Renumit pentru că este crema roboticii moderne, Loc, câinele robot de la Boston Dynamics, a creat o undă de șoc în lumea noilor tehnologii. Conceput pentru a-și înlocui semenii, este exemplul emblematic de roboți animale gata să-și înlocuiască modelele. Spot, o revoluție tehnologică Loc întruchipează perfect [&hellip;]"

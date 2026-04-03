@@ -1,5 +1,4 @@
 ---
-
 title: "MAAT: perpaduan seni, arsitektur, dan teknologi?"
 slug: "maat-perpaduan-seni-arsitektur-dan-teknologi"
 excerpt: "Kisah MAAT: perpaduan seni dan arsitektur MAAT, singkatan dari Museum of Art, Architecture and Technologies, adalah tempat simbolis yang menjadi saksi perpaduan antara seni, arsitektur, dan teknologi. Terletak di tepi Sungai Tagus di Lisbon, tempat ini secara sempurna mewujudkan perpaduan harmonis antara estetika dan inovasi. Dalam artikel ini, kita mendalami sejarah MAAT yang menakjubkan dan [&hellip;]"

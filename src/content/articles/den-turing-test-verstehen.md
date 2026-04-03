@@ -1,5 +1,4 @@
 ---
-
 title: "Den Turing-Test verstehen"
 slug: "den-turing-test-verstehen"
 excerpt: "Ursprünge und Prinzipien des Turing-Tests In der Welt der künstlichen Intelligenz (KI) und des Computing nimmt der Turing-Test einen herausragenden Platz ein. Hierbei handelt es sich um eine Benchmark-Methode zur Bewertung der Fähigkeit einer Maschine, menschliche Intelligenz zu imitieren. Die Ursprünge und Prinzipien dieses revolutionären Tests reichen bis in die Mitte des 20. Jahrhunderts zurück [&hellip;]"

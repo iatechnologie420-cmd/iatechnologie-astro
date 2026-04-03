@@ -1,5 +1,4 @@
 ---
-
 title: "Glosarium Big Data: Istilah-istilah yang perlu Anda ketahui agar dapat dipahami"
 slug: "glosarium-big-data-istilah-istilah-yang-perlu-anda-ketahui-agar-dapat-dipahami"
 excerpt: "Pengantar dunia data besar ITU Data besar mewakili sektor berkembang yang mengubah cara bisnis dan organisasi menganalisis dan memanfaatkan data. Di dunia yang semakin digital, data dihasilkan dengan kecepatan sangat tinggi dan dalam berbagai format. Era Big Data bukan lagi sekedar kata kunci; ini adalah kenyataan yang membentuk seluruh industri dan mendefinisikan ulang batasan ilmu [&hellip;]"

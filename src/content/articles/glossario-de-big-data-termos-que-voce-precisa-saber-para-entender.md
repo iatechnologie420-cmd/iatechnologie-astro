@@ -1,5 +1,4 @@
 ---
-
 title: "Glossário de Big Data: termos que você precisa saber para entender"
 slug: "glossario-de-big-data-termos-que-voce-precisa-saber-para-entender"
 excerpt: "Introdução ao mundo do big data O Grandes dados representa um setor em crescimento que está transformando a forma como as empresas e organizações analisam e aproveitam os dados. Num mundo cada vez mais digital, os dados são gerados a uma velocidade vertiginosa e numa variedade de formatos. A era do Big Data não é [&hellip;]"

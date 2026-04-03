@@ -1,5 +1,4 @@
 ---
-
 title: "Patutkah kita melabur dalam kecerdasan buatan sekarang?"
 slug: "patutkah-kita-melabur-dalam-kecerdasan-buatan-sekarang"
 excerpt: "Sebelum menjawab ya atau tidak sama ada sekarang masanya untuk melabur dalam AI, mari kita semak sejarah AI untuk meletakkan sesuatu dalam konteks dan membuat keputusan yang bernas. Evolusi kecerdasan buatan AI konvensional AI konvensional, juga dikenali sebagai &#8220;AI yang lemah&#8221;, telah bermula pada tahun 1950. Pada masa itu, penyelidik memberi tumpuan terutamanya pada menyelesaikan [&hellip;]"

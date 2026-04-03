@@ -1,5 +1,4 @@
 ---
-
 title: "Panduan untuk mengunci Komputer anda (PC, Mac, Windows, dll.)"
 slug: "panduan-untuk-mengunci-komputer-anda-pc-mac-windows-dll-2"
 excerpt: "Keperluan untuk melindungi komputer anda Dalam era semasa, di mana aktiviti menjadi digital pada kadar yang dipercepatkan, keselamatan komputer kami telah menjadi kebimbangan utama bagi individu dan juga perniagaan. Berikut ialah panduan terperinci tentang refleks yang baik untuk diguna pakai untuk melindungi sistem komputer anda dengan berkesan. Komputer ialah hab pusat data peribadi dan profesional [&hellip;]"

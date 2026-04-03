@@ -1,5 +1,4 @@
 ---
-
 title: "These games where artificial intelligence beat humans"
 slug: "these-games-where-artificial-intelligence-beat-humans"
 excerpt: "The dawn of supercomputers and the chess challenge The era of supercomputers is no longer a distant futuristic vision, but a tangible reality that is revolutionizing various sectors, including strategy games like chess. These machines with phenomenal computing power offer an ideal playground for exploring the frontiers of artificial intelligence and taking up the chess [&hellip;]"

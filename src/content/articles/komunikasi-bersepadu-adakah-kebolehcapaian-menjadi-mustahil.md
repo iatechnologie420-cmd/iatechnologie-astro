@@ -1,5 +1,4 @@
 ---
-
 title: "Komunikasi Bersepadu: adakah kebolehcapaian menjadi mustahil?"
 slug: "komunikasi-bersepadu-adakah-kebolehcapaian-menjadi-mustahil"
 excerpt: "Komunikasi bersatu: Definisi dan prinsip Apakah Komunikasi Bersepadu? THE Komunikasi Bersepadu (CU), atau Unified Communications dalam bahasa Inggeris, menetapkan satu set perkhidmatan dan penyelesaian yang bertujuan untuk menyepadukan atau menyatukan pelbagai bentuk komunikasi dalam antara muka atau platform yang sama. Ini termasuk pemesejan segera, persidangan video, panggilan suara (VoIP), e-mel, persidangan web dan mel suara, [&hellip;]"

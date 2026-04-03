@@ -1,5 +1,4 @@
 ---
-
 title: "Qu’est-ce qu’un Datamart / Datawarehouse ?"
 slug: "datamart-datawarehouse-definition"
 excerpt: "Introduction au concept de Datamart Le datamart est un terme essentiel dans le monde de l&#8217;analyse de données et du Business Intelligence (BI). Il s&#8217;agit d&#8217;une sous-section d&#8217;un entrepôt de données, c&#8217;est-à-dire d&#8217;une base de données spécialisée qui stocke un segment d&#8217;informations d&#8217;une entreprise. Alors qu&#8217;un data warehouse peut être considéré comme une immense bibliothèque [&hellip;]"

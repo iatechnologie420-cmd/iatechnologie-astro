@@ -1,5 +1,4 @@
 ---
-
 title: "IMAP-definisjon: alt du trenger å vite"
 slug: "imap-definisjon-alt-du-trenger-a-vite"
 excerpt: "Introduksjon til IMAP Internet Message Access Protocol (IMAP) er en kommunikasjonsstandard som lar brukere motta og administrere e-postene sine direkte på e-postservere, noe som skiller seg fra den tradisjonelle tilnærmingen der e-poster lastes ned til e-postklienten lokalt. Dette gir mange praktiske fordeler, spesielt i en verden hvor vi får tilgang til e-postene våre fra flere [&hellip;]"

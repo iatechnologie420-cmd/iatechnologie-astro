@@ -1,5 +1,4 @@
 ---
-
 title: "Telegram: kõik, mida pead teadma turvalise sõnumsiderakenduse kohta"
 slug: "telegram-koik-mida-pead-teadma-turvalise-sonumsiderakenduse-kohta"
 excerpt: "Mis on Telegram? Telegramm on kiirsuhtlusrakendus, mis keskendub kiirusele ja turvalisusele. Tänu täiustatud funktsioonidele, intuitiivsele liidesele ja kasutajate privaatsuse kaitsmisele on sellest saanud üks populaarsemaid sideplatvorme maailmas. Alates selle käivitamisest 2013. Telegramm on silma paistnud paljude sõnumirakenduste seas, positsioneerides end alternatiivse suhtlusvahendina, mis austab ja väärtustab konfidentsiaalsust ja sõnavabadust. Telegrami päritolu Lugu sellest Telegramm algab [&hellip;]"

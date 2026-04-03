@@ -1,5 +1,4 @@
 ---
-
 title: "Forstå Turing-testen"
 slug: "forsta-turing-testen"
 excerpt: "Opprinnelsen og prinsippene til Turing-testen I verden av kunstig intelligens (AI) og databehandling inntar Turing-testen en fremtredende plass. Dette er en referansemetode utviklet for å evaluere en maskins evne til å imitere menneskelig intelligens. Opprinnelsen og prinsippene til denne revolusjonerende testen går tilbake til midten av 1900-tallet og er basert på komplekse filosofiske og beregningsmessige [&hellip;]"

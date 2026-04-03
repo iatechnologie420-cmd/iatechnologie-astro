@@ -1,5 +1,4 @@
 ---
-
 title: "Cum ne poate îmbunătăți tehnologia științei comportamentale viața de zi cu zi?"
 slug: "cum-ne-poate-imbunatati-tehnologia-stiintei-comportamentale-viata-de-zi-cu-zi"
 excerpt: "Impactul tehnologiei în științele comportamentului Tehnologia a influențat semnificativ multe domenii, inclusiv științe comportamentale. Datorită progreselor tehnologice, cercetătorii au acces la instrumente și metode care le permit să înțeleagă și să analizeze mai bine comportamentul uman. În acest articol, vom explora diferitele aspecte ale impactului tehnologiei în științele comportamentului și modul în care ne poate [&hellip;]"

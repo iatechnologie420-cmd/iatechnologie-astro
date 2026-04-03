@@ -1,5 +1,4 @@
 ---
-
 title: "Data Hub définition : tout savoir sur les hubs de données"
 slug: "data-hub-definition-hub-de-donnes"
 excerpt: "Comprendre les fondamentaux À l’ère du Big Data et de la transformation numérique, les entreprises doivent pouvoir exploiter efficacement leurs données. Le Data Hub, ou « centre de données », est une réponse architecturale à ce besoin croissant de gestion, de partage et d&#8217;analyse des données. Dans cet article, nous détaillerons les fondamentaux d’un Data [&hellip;]"

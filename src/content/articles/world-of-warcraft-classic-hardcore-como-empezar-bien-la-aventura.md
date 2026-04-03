@@ -1,5 +1,4 @@
 ---
-
 title: "World of Warcraft Classic Hardcore: ¿cómo empezar bien la aventura?"
 slug: "world-of-warcraft-classic-hardcore-como-empezar-bien-la-aventura"
 excerpt: "Comprende las reglas fundamentales del modo Hardcore. El modo duro dentro Clásico de World of Warcraft agrega una dimensión cautivadora y exigente al juego. Para los aventureros que buscan emociones y desafíos, esta guía los ayudará a sumergirse en este emocionante modo de juego dominando sus reglas básicas. ¿Qué es el modo Duro? El modo [&hellip;]"

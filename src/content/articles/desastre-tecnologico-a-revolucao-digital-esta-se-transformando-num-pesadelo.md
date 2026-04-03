@@ -1,5 +1,4 @@
 ---
-
 title: "Desastre tecnológico: a revolução digital está se transformando num pesadelo?"
 slug: "desastre-tecnologico-a-revolucao-digital-esta-se-transformando-num-pesadelo"
 excerpt: "O impacto da revolução digital na nossa sociedade A revolução digital que caracteriza o nosso tempo perturbou muitos aspectos da nossa sociedade. As tecnologias digitais e o acesso à Internet transformaram a forma como comunicamos, trabalhamos, consumimos e até vivemos. Este artigo explora as consequências desta revolução nas nossas vidas quotidianas e destaca as questões [&hellip;]"

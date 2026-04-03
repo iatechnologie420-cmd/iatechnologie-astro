@@ -1,5 +1,4 @@
 ---
-
 title: "Mark Zuckerberg cao bao nhiêu và nặng bao nhiêu?"
 slug: "mark-zuckerberg-cao-bao-nhieu-va-nang-bao-nhieu"
 excerpt: "Chiều cao của Mark Zuckerberg: Huyền thoại hay Hiện thực? Những tranh cãi xung quanh kích thước của anh ấy Trong nhiều năm, câu hỏi về chiều cao của Mark Zuckerberg, người sáng lập Facebook, là chủ đề của nhiều đồn đoán và tranh luận. Một số người cho rằng nó nhỏ hơn vẻ ngoài [&hellip;]"

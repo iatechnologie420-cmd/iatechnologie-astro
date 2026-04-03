@@ -1,5 +1,4 @@
 ---
-
 title: "Biti NPC na Tiktoku in v resničnem življenju &#8230;?"
 slug: "biti-npc-na-tiktoku-in-v-resnicnem-zivljenju"
 excerpt: "Fenomen “kontrolerjev NPC” na TikTok V neskončnem vesolju Tik Tok, je precej edinstven pojav pritegnil pozornost uporabnikov: &#8221; NPC krmilniki » (Liki, ki niso igralci). Izraz &#8220;NPC&#8221;, ki je bil prej omejen na video igre, se zdaj prikrade v žargon družbenih medijev in opredeljuje izkušnjo, ki združuje razširjeno resničnost in družbeno interakcijo. Toda kaj je [&hellip;]"

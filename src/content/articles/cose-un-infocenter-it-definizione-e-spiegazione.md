@@ -1,5 +1,4 @@
 ---
-
 title: "Cos&#8217;è un infocenter IT? definizione e spiegazione"
 slug: "cose-un-infocenter-it-definizione-e-spiegazione"
 excerpt: "UN centro informativo informatico, indicato anche come centro informazioni, si riferisce ad un sistema centralizzato dedicato alla gestione dei dati all&#8217;interno di un&#8217;organizzazione. Il suo obiettivo è raccogliere, archiviare, organizzare e diffondere le informazioni necessarie all&#8217;attività aziendale. La sua funzione è essenziale per consentire ad analisti e decisori di sfruttare i dati in modo efficiente [&hellip;]"

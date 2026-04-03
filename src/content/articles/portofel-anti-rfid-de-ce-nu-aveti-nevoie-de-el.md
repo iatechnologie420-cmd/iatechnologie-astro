@@ -1,5 +1,4 @@
 ---
-
 title: "Portofel anti-RFID: de ce nu aveți nevoie de el"
 slug: "portofel-anti-rfid-de-ce-nu-aveti-nevoie-de-el"
 excerpt: "Înțelegerea tehnologiei RFID și a riscurilor acesteia Ce este RFID? Acolo Identificarea frecventei radio (RFID) este o tehnologie care permite identificarea automată a obiectelor, animalelor sau oamenilor folosind unde radio. Utilizează mici dispozitive electronice numite etichete Sau Etichete RFID, care stochează date și transmit aceste informații unui cititor RFID. Etichetele pot fi pasive (fără o [&hellip;]"

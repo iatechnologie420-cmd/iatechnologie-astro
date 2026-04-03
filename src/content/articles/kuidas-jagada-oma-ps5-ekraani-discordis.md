@@ -1,5 +1,4 @@
 ---
-
 title: "Kuidas jagada oma PS5 ekraani Discordis?"
 slug: "kuidas-jagada-oma-ps5-ekraani-discordis"
 excerpt: "1. samm: valmistage konfiguratsioon ette PS5-ga mänge mängides võib olla tore jagada oma kogemusi oma sõpradega Discordis. Selleks saate oma PS5 ekraani otse Discordi voogesitada. Selles artiklis selgitame, kuidas jagada PS5 ekraani Discordis kahel erineval viisil. Lähme ! Kontrollige oma riistvara Enne alustamist veenduge, et teil on vajalikud materjalid. Teil on vaja järgmist.&#8211; Funktsionaalne PS5: [&hellip;]"

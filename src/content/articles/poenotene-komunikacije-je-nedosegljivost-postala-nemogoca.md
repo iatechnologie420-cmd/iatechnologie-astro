@@ -1,5 +1,4 @@
 ---
-
 title: "Poenotene komunikacije: je nedosegljivost postala nemogoča?"
 slug: "poenotene-komunikacije-je-nedosegljivost-postala-nemogoca"
 excerpt: "Poenotene komunikacije: definicija in princip Kaj so poenotene komunikacije? THE Poenotene komunikacije (CU) ali Unified Communications v angleščini označuje nabor storitev in rešitev, katerih cilj je integracija ali poenotenje različnih oblik komunikacij znotraj istega vmesnika ali platforme. To vključuje neposredno sporočanje, videokonference, glasovne klice (VoIP), e-pošto, spletne konference in glasovno pošto, če naštejemo le nekatere. [&hellip;]"

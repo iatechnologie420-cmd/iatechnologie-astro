@@ -1,5 +1,4 @@
 ---
-
 title: "Kas yra skaitmeninė darbo sritis / papildytas darbas?"
 slug: "kas-yra-skaitmenine-darbo-sritis-papildytas-darbas"
 excerpt: "Kas yra skaitmeninė darbo erdvė? Terminas Skaitmeninė darbo erdvė, Arba skaitmeninė darbo vieta, apibrėžia darbo aplinką, kuriai skaitmeninių technologijų dėka nebelieka fizinių kliūčių. Tai apima įrankių ir technologijų rinkinį, leidžiantį vartotojams prisijungti, bendradarbiauti ir atlikti savo profesines užduotis, nepaisant jų fizinės vietos. Šiame straipsnyje bus aptariami esminiai skaitmeninės darbo erdvės ramsčiai ir kaip jie prisideda [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Diese Spiele, bei denen künstliche Intelligenz den Menschen besiegt"
 slug: "diese-spiele-bei-denen-kunstliche-intelligenz-den-menschen-besiegt"
 excerpt: "Der Beginn der Supercomputer und die Schachherausforderung Das Zeitalter der Supercomputer ist keine ferne Zukunftsvision mehr, sondern eine greifbare Realität, die verschiedene Bereiche revolutioniert, darunter auch Strategiespiele wie Schach. Diese Maschinen mit phänomenaler Rechenleistung bieten einen idealen Spielplatz, um die Grenzen der künstlichen Intelligenz zu erkunden und sich der Schachherausforderung zu stellen, indem sie die [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Kognitivismus: Ist unsere Intelligenz künstlich?"
 slug: "kognitivismus-ist-unsere-intelligenz-kunstlich"
 excerpt: "Die Ursprünge des Kognitivismus und der menschlichen Intelligenz Die Ursprünge des Kognitivismus DER Kognitivismus ist ein Ansatz in der Psychologie, der sich auf die inneren Mechanismen des Denkens konzentriert und den menschlichen Geist als Informationsverarbeitungssystem betrachtet. Die Ursprünge dieses Ansatzes liegen vor allem in den 1950er und 1960er Jahren als Reaktion auf den damals vorherrschenden [&hellip;]"

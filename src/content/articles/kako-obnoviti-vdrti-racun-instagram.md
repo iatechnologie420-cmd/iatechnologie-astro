@@ -1,5 +1,4 @@
 ---
-
 title: "Kako obnoviti vdrti račun Instagram?"
 slug: "kako-obnoviti-vdrti-racun-instagram"
 excerpt: "Prepoznavanje ogroženega računa Instagram Z nenehnim naraščanjem uporabnikov na družbenih platformah, kot je Instagram, se je tveganje vdora v račun povečalo. Vedite, kako ugotoviti, ali je vaš račun Instagram je bil ogrožen, bistvenega pomena za hitro in učinkovito ukrepanje. V tem članku se poučimo o opozorilnih znakih ogroženega računa in korakih, ki jih lahko izvedete, [&hellip;]"

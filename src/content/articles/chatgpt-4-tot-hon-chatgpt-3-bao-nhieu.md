@@ -1,5 +1,4 @@
 ---
-
 title: "ChatGPT-4 tốt hơn ChatGPT-3 bao nhiêu?"
 slug: "chatgpt-4-tot-hon-chatgpt-3-bao-nhieu"
 excerpt: "Sự trỗi dậy của công nghệtrí tuệ nhân tạo tiếp tục biến đổi bối cảnh kỹ thuật số bằng cách cung cấp các công cụ ngày càng tinh vi. Trong thời đại mới này, các phiên bản kế tiếp của Trò chuyệnGPT của OpenAI minh họa hoàn hảo cho sự tiến bộ này. Mặc dù [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Bộ mã hóa tự động là gì? Hướng dẫn cuối cùng!"
 slug: "bo-ma-hoa-tu-dong-la-gi-huong-dan-cuoi-cung"
 excerpt: "Bộ mã hóa tự động hoặc bộ mã hóa tự động bằng tiếng Anh, hãy định vị mình là công cụ đắc lực trong lĩnh vực học máy và trí tuệ nhân tạo. Các mạng thần kinh đặc biệt này được sử dụng để giảm kích thước, phát hiện bất thường, khử nhiễu dữ liệu, [&hellip;]"

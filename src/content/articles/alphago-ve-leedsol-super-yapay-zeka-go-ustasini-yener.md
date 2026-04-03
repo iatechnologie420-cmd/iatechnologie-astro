@@ -1,5 +1,4 @@
 ---
-
 title: "AlphaGo ve Leedsol: Süper yapay zeka, Go ustasını yener"
 slug: "alphago-ve-leedsol-super-yapay-zeka-go-ustasini-yener"
 excerpt: "Tarihi bir çatışma: Yapay zeka Go&#8217;nun ustasına meydan okuyor Go dünyası, yerleşik paradigmaları sarsacak önemli bir olaya kadar tarihsel olarak insan efendilerin hakimiyetindeydi. İnsan yaratıcılığıyla geliştirilen bu araç olan yapay zeka, tarihteki en karmaşık strateji oyunlarından birinin üstesinden gelme zorluğunu üstlendi. Bir süper bilgisayarın mantıksal devreleri ile bir dünya Go şampiyonunun stratejik zihni arasındaki bu [&hellip;]"

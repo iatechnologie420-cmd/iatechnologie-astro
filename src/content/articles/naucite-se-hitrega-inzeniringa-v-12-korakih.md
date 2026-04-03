@@ -1,5 +1,4 @@
 ---
-
 title: "Naučite se hitrega inženiringa: v 12 korakih"
 slug: "naucite-se-hitrega-inzeniringa-v-12-korakih"
 excerpt: "Uvod v hitri inženiring Kaj je Prompt Engineering? THE Hiter inženiring je nastajajoče področje, ki se osredotoča na optimizacijo pozivov ali ukazov, ki jih dajemo sistemom umetne inteligence (AI), zlasti tistim, ki temeljijo na naravnem jeziku, kot so generatorji besedila. To je še posebej pomembna disciplina s prihodom modelov za obdelavo jezika, kot je GPT-4 [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "¿Cómo agregar música a tus notas en Instagram?"
 slug: "como-agregar-musica-a-tus-notas-en-instagram"
 excerpt: "Usa funciones de música en Instagram Instagram se ha convertido en una plataforma imprescindible para compartir momentos, imágenes y vídeos de la vida. Para que tus publicaciones sean aún más atractivas, puedes integrar música en tu contenido. En este artículo, exploraremos las diferentes funciones de música de Instagram y cómo usarlas para crear publicaciones originales [&hellip;]"

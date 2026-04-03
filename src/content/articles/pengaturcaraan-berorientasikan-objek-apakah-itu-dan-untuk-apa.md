@@ -1,5 +1,4 @@
 ---
-
 title: "Pengaturcaraan berorientasikan objek: apakah itu dan untuk apa?"
 slug: "pengaturcaraan-berorientasikan-objek-apakah-itu-dan-untuk-apa"
 excerpt: "Asas Pengaturcaraan Berorientasikan Objek di sana Pengaturcaraan Berorientasikan Objek (OOP) ialah paradigma pengaturcaraan yang menggunakan &#8220;objek&#8221; untuk mereka bentuk aplikasi dan program komputer. Objek ini mewakili entiti dunia sebenar dan membenarkan pembangun mencipta perisian yang lebih fleksibel, berskala dan boleh diselenggara. Dalam artikel ini, kita akan meneroka konsep asas yang membentuk asas OOP. Abstraksi L&#8217;abstraksi [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "SSD : tout savoir sur le stockage de données Solid-State Drive"
 slug: "definition-ssd-stockage-solid-state-drive"
 excerpt: "Introduction aux SSD et leur fonctionnement L&#8217;avènement des disques à état solide, ou SSD (Solid-State Drive en anglais), a marqué une véritable révolution dans le domaine du stockage des données. Contrairement aux disques durs traditionnels (HDD) qui utilisent des plateaux magnétiques pour stocker des informations, les SSD reposent sur des puces de mémoire flash sans [&hellip;]"

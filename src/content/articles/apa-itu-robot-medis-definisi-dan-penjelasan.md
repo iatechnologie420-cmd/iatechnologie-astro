@@ -1,5 +1,4 @@
 ---
-
 title: "Apa itu robot medis? definisi dan penjelasan"
 slug: "apa-itu-robot-medis-definisi-dan-penjelasan"
 excerpt: "Pengertian dan Tipologi Robot Medis Munculnya robotika dalam layanan kesehatan telah membuka kemungkinan besar untuk meningkatkan layanan medis dan pembedahan. Teknologi ini, dikenal sebagai robot medis, adalah perangkat mekanis atau sistem komputer yang mampu melakukan tindakan kompleks dengan presisi tinggi, seringkali di bawah pengawasan atau kendali langsung personel medis yang berkualifikasi. Tapi apa saja jenis [&hellip;]"

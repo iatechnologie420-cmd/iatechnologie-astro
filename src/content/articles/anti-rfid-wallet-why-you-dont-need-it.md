@@ -1,5 +1,4 @@
 ---
-
 title: "Anti-RFID wallet: Why you don&#8217;t need it"
 slug: "anti-rfid-wallet-why-you-dont-need-it"
 excerpt: "Understanding RFID technology and its risks What is RFID? There Radio-Frequency Identification (RFID) is a technology that allows the automatic identification of objects, animals or people using radio waves. It uses small electronic devices called labels Or RFID tags, which store data and transmit this information to an RFID reader. Tags can be passive (without [&hellip;]"

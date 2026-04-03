@@ -1,5 +1,4 @@
 ---
-
 title: "Bestu vélmenni í Star Wars alheiminum"
 slug: "bestu-velmenni-i-star-wars-alheiminum"
 excerpt: "Vélrænar þjóðsögur: C-3PO og R2-D2 Taldir merkustu droids sögunnar Stjörnustríð, C-3PO og R2-D2 hafa merkt kynslóðir aðdáenda með sínum einstaka persónuleika, sögu sinni og mikilvægu hlutverki sínu í gegnum alla þættina. Þessi grein kafar inn í heim þessara vélrænu þjóðsagna og afhjúpar kjarna þeirra og menningarleg áhrif. C-3PO: The Polyglot Droid Protocol C-3PO, oft kallaður [&hellip;]"

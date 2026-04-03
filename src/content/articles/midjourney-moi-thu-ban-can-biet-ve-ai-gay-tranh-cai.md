@@ -1,5 +1,4 @@
 ---
-
 title: "MidJourney: mọi thứ bạn cần biết về AI gây tranh cãi"
 slug: "midjourney-moi-thu-ban-can-biet-ve-ai-gay-tranh-cai"
 excerpt: "Hiểu về MidJourney MidJourney là trí tuệ nhân tạo mạnh mẽ, thay đổi cách chúng ta tương tác với công nghệ. Sử dụng hướng dẫn này làm tài liệu để hiểu nguồn gốc và các chức năng chính của nó. MidJourney là gì? MidJourney là một công cụ trí tuệ nhân tạo tiên phong được [&hellip;]"

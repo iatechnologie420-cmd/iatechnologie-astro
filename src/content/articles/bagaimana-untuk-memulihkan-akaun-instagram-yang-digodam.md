@@ -1,5 +1,4 @@
 ---
-
 title: "Bagaimana untuk memulihkan akaun Instagram yang digodam?"
 slug: "bagaimana-untuk-memulihkan-akaun-instagram-yang-digodam"
 excerpt: "Mengenal pasti akaun Instagram yang terjejas Dengan peningkatan berterusan pengguna di platform sosial seperti Instagram, risiko penggodaman akaun telah meningkat. Ketahui cara untuk mengenal pasti sama ada akaun anda Instagram telah dikompromi adalah penting untuk dapat bertindak dengan cepat dan berkesan. Dalam artikel ini, mari kita ketahui tentang tanda amaran akaun yang terjejas dan langkah [&hellip;]"

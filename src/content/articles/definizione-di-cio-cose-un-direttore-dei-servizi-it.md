@@ -1,5 +1,4 @@
 ---
-
 title: "Definizione di CIO: cos&#8217;è un Direttore dei Servizi IT"
 slug: "definizione-di-cio-cose-un-direttore-dei-servizi-it"
 excerpt: "Ruolo e missioni del Direttore dei Servizi IT Il ruolo essenziale del Direttore dei Servizi IT IL Direttore dei servizi informatici, conosciuto anche come CIO O Direttore dei sistemi informativi, occupa un posto strategico all&#8217;interno delle aziende moderne. Nell&#8217;era digitale, dove l&#8217;informazione e la tecnologia sono diventate il fulcro delle attività professionali, comprendere le proprie [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Telegram: Alles, was Sie über die sichere Messaging-Anwendung wissen müssen"
 slug: "telegram-alles-was-sie-uber-die-sichere-messaging-anwendung-wissen-mussen"
 excerpt: "Was ist Telegramm? Telegramm ist eine Instant-Messaging-Anwendung, die auf Geschwindigkeit und Sicherheit ausgerichtet ist. Dank der Kombination aus fortschrittlichen Funktionen, einer intuitiven Benutzeroberfläche und dem Engagement für den Schutz der Privatsphäre der Benutzer hat es sich zu einer der beliebtesten Kommunikationsplattformen der Welt entwickelt. Seit seiner Einführung im Jahr 2013 Telegramm hat sich unter einer [&hellip;]"

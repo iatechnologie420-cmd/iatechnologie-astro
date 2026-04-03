@@ -1,5 +1,4 @@
 ---
-
 title: "How to repair a broken computer?"
 slug: "how-to-repair-a-broken-computer"
 excerpt: "Diagnosing your computer&#8217;s breakdown Encountering a computer problem can sometimes turn into a real headache. The computer is a complex technological compound, and when something doesn&#8217;t work as expected, there are often a multitude of possible reasons. In this article, we offer you a practical guide to help you identify the problem and find possible [&hellip;]"

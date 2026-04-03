@@ -1,5 +1,4 @@
 ---
-
 title: "Sollten wir jetzt in künstliche Intelligenz investieren?"
 slug: "sollten-wir-jetzt-in-kunstliche-intelligenz-investieren"
 excerpt: "Bevor wir mit „Ja“ oder „Nein“ antworten, ob es jetzt an der Zeit ist, in KI zu investieren, werfen wir einen Blick auf die Geschichte der KI, um die Dinge in einen Kontext zu setzen und eine wohlüberlegte Entscheidung zu treffen. Die Entwicklung der künstlichen Intelligenz Konventionelle KI Konventionelle KI, auch „schwache KI“ genannt, hatte [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Samsung Xcover 7: The ultimate solution for adventurers?"
 slug: "samsung-xcover-7-the-ultimate-solution-for-adventurers"
 excerpt: "The technical characteristics of the Samsung Xcover 7 The Samsung Xcover 7 is the latest phone in the Xcover range, known for its resistance to the elements and durability. With advanced features and a rugged design, the Xcover 7 is designed for active people who need a reliable smartphone in any situation. In this article, [&hellip;]"

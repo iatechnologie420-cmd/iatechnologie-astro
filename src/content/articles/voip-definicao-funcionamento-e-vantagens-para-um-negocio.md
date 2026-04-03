@@ -1,5 +1,4 @@
 ---
-
 title: "VOIP: Definição, funcionamento e vantagens para um negócio"
 slug: "voip-definicao-funcionamento-e-vantagens-para-um-negocio"
 excerpt: "Definição de VOIP e princípios básicos A tecnologia de Voz sobre protocolo de Internet (VoIP) representa uma grande evolução na forma como nos comunicamos. Há muito dominada pelas linhas telefónicas tradicionais, a telefonia está a passar por uma transformação digital que permite a transmissão de voz e também de dados através da Internet. Então, vamos [&hellip;]"

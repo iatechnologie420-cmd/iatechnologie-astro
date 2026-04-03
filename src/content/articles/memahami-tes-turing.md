@@ -1,5 +1,4 @@
 ---
-
 title: "Memahami tes Turing"
 slug: "memahami-tes-turing"
 excerpt: "Asal usul dan prinsip tes Turing Dalam dunia kecerdasan buatan (AI) dan komputasi, tes Turing menempati tempat yang menonjol. Ini adalah metode benchmark yang dirancang untuk mengevaluasi kemampuan mesin dalam meniru kecerdasan manusia. Asal usul dan prinsip tes revolusioner ini dimulai pada pertengahan abad ke-20 dan didasarkan pada konsep filosofis dan komputasi yang kompleks. Sejarah [&hellip;]"

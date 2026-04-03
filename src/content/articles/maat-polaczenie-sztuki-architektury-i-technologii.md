@@ -1,5 +1,4 @@
 ---
-
 title: "MAAT: połączenie sztuki, architektury i technologii?"
 slug: "maat-polaczenie-sztuki-architektury-i-technologii"
 excerpt: "Historia MAAT: połączenie sztuki i architektury MAAT, akronim Muzeum Sztuki, Architektury i Technologii, to emblematyczne miejsce świadczące o fuzji sztuki, architektury i technologii. Położony nad brzegiem Tagu w Lizbonie, doskonale ucieleśnia harmonijne małżeństwo pomiędzy estetyką i innowacją. W tym artykule zagłębiamy się w fascynującą historię MAAT i odkrywamy, w jaki sposób stał się on punktem [&hellip;]"

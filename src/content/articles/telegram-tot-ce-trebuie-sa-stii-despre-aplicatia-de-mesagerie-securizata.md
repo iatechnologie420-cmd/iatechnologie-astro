@@ -1,5 +1,4 @@
 ---
-
 title: "Telegram: tot ce trebuie să știi despre aplicația de mesagerie securizată"
 slug: "telegram-tot-ce-trebuie-sa-stii-despre-aplicatia-de-mesagerie-securizata"
 excerpt: "Ce este Telegram? Telegramă este o aplicație de mesagerie instantanee axată pe viteză și securitate. A devenit una dintre cele mai populare platforme de comunicații din lume datorită combinației sale de caracteristici avansate, interfețe intuitive și angajament de a proteja confidențialitatea utilizatorilor. De la lansarea sa în 2013, Telegramă s-a remarcat în rândul unei multitudini [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Need mängud, kus tehisintellekt võidab inimesi"
 slug: "need-mangud-kus-tehisintellekt-voidab-inimesi"
 excerpt: "Superarvutite koidik ja maleväljakutse Superarvutite ajastu pole enam kauge futuristlik nägemus, vaid käegakatsutav reaalsus, mis teeb revolutsiooni erinevates sektorites, sealhulgas strateegiamängudes nagu male. Need fenomenaalse arvutusvõimsusega masinad pakuvad ideaalset mänguväljakut tehisintellekti piiride avastamiseks ja maleväljakutse vastuvõtmiseks, esitades põhiküsimuse: Milline on superarvutite tegelik potentsiaal, kui seda kasutada malemängus, mis on alati olnud intelligentsuse ja strateegia standardmõõt? [&hellip;]"

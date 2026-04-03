@@ -1,5 +1,4 @@
 ---
-
 title: "Menjadi NPC di Tiktok dan di kehidupan nyata&#8230;?"
 slug: "menjadi-npc-di-tiktok-dan-di-kehidupan-nyata"
 excerpt: "Fenomena “pengendali NPC” di TikTok Di alam semesta yang tak terbatas TIK tok, sebuah fenomena yang agak unik telah menarik perhatian pengguna: “ Pengontrol NPC » (Karakter Non-Pemain). Sebelumnya terbatas pada video game, ungkapan &#8220;NPC&#8221; kini merambah ke dalam jargon media sosial, mendefinisikan sebuah pengalaman yang memadukan augmented reality dan interaksi sosial. Tapi apa sebenarnya [&hellip;]"

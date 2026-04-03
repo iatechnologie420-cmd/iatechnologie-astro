@@ -1,5 +1,4 @@
 ---
-
 title: "Braillova revolucija: Ko tehnologija spremeni dostopnost"
 slug: "braillova-revolucija-ko-tehnologija-spremeni-dostopnost"
 excerpt: "Braillova revolucija v tehnološki dobi Nastanek brajice in sodobne prilagoditve Pisalni sistem za slepe in slabovidne, znan kot braillova pisava, ki ga je prvotno razvil Louis Braille v 19. stoletju, je revolucioniral njihov način komuniciranja. Navdihnjen z mehanizmom, zasnovanim za branje v vojski v temi, je Louis Braille optimiziral metodo, da postane tekoča in hitra [&hellip;]"

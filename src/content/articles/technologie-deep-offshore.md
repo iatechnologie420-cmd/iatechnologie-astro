@@ -1,5 +1,4 @@
 ---
-
 title: "La technologie deep offshore : l&#8217;avenir de l&#8217;exploration sous-marine ?"
 slug: "technologie-deep-offshore"
 excerpt: "Qu&#8217;est-ce que la technologie deep offshore ? La technologie deep offshore, également connue sous le nom de technologie de forage en eau profonde, est une discipline qui vise à explorer et à exploiter les ressources présentes dans les fonds marins, à des profondeurs allant de 500 à plusieurs milliers de mètres. Cette technologie permet d&#8217;ouvrir [&hellip;]"

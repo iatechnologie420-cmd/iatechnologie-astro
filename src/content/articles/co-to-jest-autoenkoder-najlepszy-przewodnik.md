@@ -1,5 +1,4 @@
 ---
-
 title: "Co to jest autoenkoder? Najlepszy przewodnik!"
 slug: "co-to-jest-autoenkoder-najlepszy-przewodnik"
 excerpt: "Autoenkodery lub autoenkodery w języku angielskim, pozycjonują się jako potężne narzędzia w dziedzinie uczenia maszynowego i sztucznej inteligencji. Te specjalne sieci neuronowe służą do redukcji wymiarów, wykrywania anomalii, odszumiania danych i nie tylko. Artykuł ten stanowi wprowadzenie do tej fascynującej technologii, podkreślając jej zasadę działania, zastosowania i rosnące znaczenie w badaniach i przemyśle. Co to [&hellip;]"

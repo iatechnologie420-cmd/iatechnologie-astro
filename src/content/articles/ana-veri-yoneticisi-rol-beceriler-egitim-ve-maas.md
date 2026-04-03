@@ -1,5 +1,4 @@
 ---
-
 title: "Ana Veri Yöneticisi: rol, beceriler, eğitim ve maaş"
 slug: "ana-veri-yoneticisi-rol-beceriler-egitim-ve-maas"
 excerpt: "Ana Veri Yöneticisinin veri yönetişimindeki kilit rolü Verilerin işletmeler için önemli bir stratejik varlık haline geldiği bir dünyada, Veri yönetimi Bilginin kalitesini, güvenliğini ve etkinliğini sağlamak esastır. Bu yönetimin temelinde Ana Veri Yöneticisi (MDM) çok önemli bir rol oynar. Bu stratejik konumun sorumluluklarını ve etkilerini birlikte keşfedelim. Ana Veri Yönetimi Nedir? Ana Veri Yöneticisinin rolüne [&hellip;]"

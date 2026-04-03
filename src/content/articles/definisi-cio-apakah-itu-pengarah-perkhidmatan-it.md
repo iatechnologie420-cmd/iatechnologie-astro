@@ -1,5 +1,4 @@
 ---
-
 title: "Definisi CIO: apakah itu Pengarah Perkhidmatan IT"
 slug: "definisi-cio-apakah-itu-pengarah-perkhidmatan-it"
 excerpt: "Peranan dan misi Pengarah Perkhidmatan IT Peranan penting Pengarah Perkhidmatan IT THE Pengarah Perkhidmatan IT, juga dikenali sebagai CIO Ataupun Pengarah sistem maklumat, memegang tempat yang strategik dalam syarikat moden. Dalam era digital, di mana maklumat dan teknologi telah menjadi teras aktiviti profesional, memahami tanggungjawab dan misi seseorang adalah penting. Artikel ini menyediakan potret lengkap [&hellip;]"

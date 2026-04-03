@@ -1,5 +1,4 @@
 ---
-
 title: "Cos’è uno spazio di lavoro digitale/lavoro aumentato?"
 slug: "cose-uno-spazio-di-lavoro-digitale-lavoro-aumentato"
 excerpt: "Cos&#8217;è uno spazio di lavoro digitale? Il termine Spazio di lavoro digitale, O spazio di lavoro digitale, definisce un ambiente di lavoro che non ha più barriere fisiche grazie alle tecnologie digitali. Riunisce una serie di strumenti e tecnologie che consentono agli utenti di connettersi, collaborare e svolgere le proprie attività professionali indipendentemente dalla loro [&hellip;]"

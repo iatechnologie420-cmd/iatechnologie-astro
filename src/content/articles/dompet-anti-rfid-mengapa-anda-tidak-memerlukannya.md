@@ -1,5 +1,4 @@
 ---
-
 title: "Dompet anti-RFID: Mengapa anda tidak memerlukannya"
 slug: "dompet-anti-rfid-mengapa-anda-tidak-memerlukannya"
 excerpt: "Memahami teknologi RFID dan risikonya Apakah RFID? di sana Pengenalan Frekuensi Radio (RFID) ialah teknologi yang membolehkan pengecaman automatik objek, haiwan atau manusia menggunakan gelombang radio. Ia menggunakan peranti elektronik kecil yang dipanggil label Ataupun tag RFID, yang menyimpan data dan menghantar maklumat ini kepada pembaca RFID. Teg boleh menjadi pasif (tanpa sumber kuasanya sendiri, [&hellip;]"

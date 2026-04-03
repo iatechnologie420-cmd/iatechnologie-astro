@@ -1,5 +1,4 @@
 ---
-
 title: "Veri ve Yapay Zeka mesleklerini keşfedin"
 slug: "veri-ve-yapay-zeka-mesleklerini-kesfedin"
 excerpt: "Veri ve Yapay Zeka mesleklerine giriş Verilerin ve yapay zekanın (AI) yükselişi, çok sayıda yenilikçi ve çeşitli mesleklerin ortaya çıkmasına neden oldu. Dijital devrimin kalbinde yer alan bu uzmanlıklar, veri ve akıllı otomasyonun sunduğu potansiyelden yararlanmak isteyen şirketler için vazgeçilmez hale geldi. Veri mesleklerini anlamak İstatistik, veri analizi ve BT arasında gerçek bir kesişim olan [&hellip;]"

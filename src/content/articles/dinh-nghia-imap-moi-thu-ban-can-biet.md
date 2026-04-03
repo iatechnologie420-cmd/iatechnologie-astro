@@ -1,5 +1,4 @@
 ---
-
 title: "Định nghĩa IMAP: mọi thứ bạn cần biết"
 slug: "dinh-nghia-imap-moi-thu-ban-can-biet"
 excerpt: "Giới thiệu về IMAP Giao thức truy cập thư Internet (IMAP) là một tiêu chuẩn liên lạc cho phép người dùng nhận và quản lý email của họ trực tiếp trên máy chủ email, khác với cách tiếp cận truyền thống nơi email được tải xuống ứng dụng email khách cục bộ. Điều này mang [&hellip;]"

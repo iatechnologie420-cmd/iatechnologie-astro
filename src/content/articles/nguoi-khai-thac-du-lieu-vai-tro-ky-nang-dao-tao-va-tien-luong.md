@@ -1,5 +1,4 @@
 ---
-
 title: "Người khai thác dữ liệu: vai trò, kỹ năng, đào tạo và tiền lương"
 slug: "nguoi-khai-thac-du-lieu-vai-tro-ky-nang-dao-tao-va-tien-luong"
 excerpt: "Vai trò và nhiệm vụ của người khai thác dữ liệu CÁC Người khai thác thông tin, hay người tìm kiếm dữ liệu, đóng một vai trò quan trọng trong thế giới dữ liệu và trí tuệ nhân tạo. Nó là một tác nhân bóng tối thiết yếu, tạo điều kiện thuận lợi cho việc [&hellip;]"

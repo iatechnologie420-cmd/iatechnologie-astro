@@ -1,5 +1,4 @@
 ---
-
 title: "Hyundai: Kuidas muudab tehnoloogia autotööstust revolutsiooniliseks?"
 slug: "hyundai-kuidas-muudab-tehnoloogia-autotoostust-revolutsiooniliseks"
 excerpt: "Digitaalne ümberkujundamine on oluliselt muutnud viisi, kuidas me toodete ja teenustega suhtleme ning autotööstus pole erand. Selle evolutsiooni suurepärast näidet võib näha Hyundai, mis on suutnud oma tootmisse ja tegevustesse kaasata uusimad tehnoloogilised edusammud, et jääda tööstuse esirinnas. Digitehnoloogia kaasamine Hyundai tegevustesse Hyundai on oma tegevuse optimeerimiseks kasutusele võtnud erinevaid digitaaltehnoloogiaid. Näiteks adopteeris ta Suured [&hellip;]"

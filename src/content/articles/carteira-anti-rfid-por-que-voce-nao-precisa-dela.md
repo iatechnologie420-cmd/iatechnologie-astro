@@ -1,5 +1,4 @@
 ---
-
 title: "Carteira anti-RFID: por que você não precisa dela"
 slug: "carteira-anti-rfid-por-que-voce-nao-precisa-dela"
 excerpt: "Compreender a tecnologia RFID e os seus riscos O que é RFID? Lá Identificação de rádio frequencia (RFID) é uma tecnologia que permite a identificação automática de objetos, animais ou pessoas por meio de ondas de rádio. Ele usa pequenos dispositivos eletrônicos chamados rótulos Ou Etiquetas RFID, que armazenam dados e transmitem essas informações para [&hellip;]"

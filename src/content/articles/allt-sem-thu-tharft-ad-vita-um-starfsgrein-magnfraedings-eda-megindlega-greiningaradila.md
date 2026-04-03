@@ -1,5 +1,4 @@
 ---
-
 title: "Allt sem þú þarft að vita um starfsgrein magnfræðings eða megindlega greiningaraðila"
 slug: "allt-sem-thu-tharft-ad-vita-um-starfsgrein-magnfraedings-eda-megindlega-greiningaradila"
 excerpt: "Kynning á heimi megindlegra fjármála Magnfjármögnun er sérhæft svið fjármála sem notar stærðfræðilíkön, tölfræði og tölvutækni til að skilja og spá fyrir um hegðun fjármálamarkaða. Í þessari grein munum við kanna þetta svið með því að ræða verkfærin sem það notar, forrit þess sem og þá færni sem þarf til að skara fram úr á [&hellip;]"

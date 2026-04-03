@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: itin greito belaidžio ryšio revoliucija"
 slug: "li-fi-itin-greito-belaidzio-rysio-revoliucija"
 excerpt: "Tyli Li-Fi revoliucija: lengvas rytojaus ryšys Įvadas į aukštųjų technologijų apšvietimą Tai mažai žinoma plačiajai visuomenei, tačiau Li-Fi (šviesos tikslumo santrumpa) iki šiol yra viena perspektyviausių belaidžio perdavimo technologijų, nors jos pirmieji bandymai datuojami 2005 m. Jis buvo sukurtas šešėlyje, toli gražu ne rampos šviesa, kuri paprastai nušviečia pagrindinius technologinius pasiekimus. Jo gebėjimas pranokti įprastą [&hellip;]"

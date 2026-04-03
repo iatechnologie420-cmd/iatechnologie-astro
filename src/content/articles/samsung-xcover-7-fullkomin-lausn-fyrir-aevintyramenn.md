@@ -1,5 +1,4 @@
 ---
-
 title: "Samsung Xcover 7: Fullkomin lausn fyrir ævintýramenn?"
 slug: "samsung-xcover-7-fullkomin-lausn-fyrir-aevintyramenn"
 excerpt: "Tæknilegir eiginleikar Samsung Xcover 7 Samsung Xcover 7 er nýjasti síminn í Xcover línunni, þekktur fyrir viðnám gegn veðrum og endingu. Með háþróaðri eiginleikum og harðgerðri hönnun er Xcover 7 hannaður fyrir virkt fólk sem þarf áreiðanlegan snjallsíma í hvaða aðstæðum sem er. Í þessari grein munum við skoða nánar tæknilega eiginleikana sem gera Samsung [&hellip;]"

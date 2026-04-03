@@ -1,5 +1,4 @@
 ---
-
 title: "Die PORTER-Wertschöpfungskette | Konkrete Beispiele zum Verstehen"
 slug: "die-porter-wertschopfungskette-konkrete-beispiele-zum-verstehen"
 excerpt: "Die Wertschöpfungskette von Michael Porter verstehen Die Wertschöpfungskette ist ein Konzept, das vom amerikanischen Ökonomen und Wissenschaftler entwickelt wurde Michael Porter in seinem 1985 erschienenen Werk „Competitive Advantage“. Dieses Modell ist für die Analyse der internen Aktivitäten eines Unternehmens unerlässlich, um dessen geschaffenen Wert und Wettbewerbsvorteile zu optimieren. Dieser Artikel gibt Ihnen einen Leitfaden zum [&hellip;]"

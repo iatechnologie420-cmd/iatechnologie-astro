@@ -1,5 +1,4 @@
 ---
-
 slug: "article-67"
 title: "贝叶斯定理及其在人工智能中的应用"
 slug: ""

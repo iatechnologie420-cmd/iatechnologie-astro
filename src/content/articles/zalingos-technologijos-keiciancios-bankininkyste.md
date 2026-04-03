@@ -1,5 +1,4 @@
 ---
-
 title: "Žalingos technologijos, keičiančios bankininkystę?"
 slug: "zalingos-technologijos-keiciancios-bankininkyste"
 excerpt: "Bankininkystės transformacija dėl žlugdančių technologijų pastaraisiais metais iš esmės pakeitė finansų sektorių. Technologijų pažanga leido atsirasti naujiems inovatyviems sprendimams, kurie keičia bankų veiklos ir bendravimo su klientais būdus. Šiame straipsnyje mes išnagrinėsime skirtingus šios transformacijos aspektus ir jos poveikį bankų sektoriui. Skaitmeninimas: visiškai skaitmeninė era Pirmoji bankininkystės transformacijos per žlugdančias technologijas dimensija yra skaitmeninimas. Tradiciniai [&hellip;]"

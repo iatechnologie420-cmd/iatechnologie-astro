@@ -1,5 +1,4 @@
 ---
-
 title: "VOIP: Skilgreining, rekstur og kostir fyrir fyrirtæki"
 slug: "voip-skilgreining-rekstur-og-kostir-fyrir-fyrirtaeki"
 excerpt: "Skilgreining á VOIP og grundvallarreglum Tæknin á Voice over Internet Protocol (VoIP) táknar mikla þróun í samskiptum okkar. Símatækni hefur lengi verið einkennist af hefðbundnum símalínum og er að ganga í gegnum stafræna umbreytingu sem gerir kleift að senda rödd ásamt gögnum yfir internetið. Svo skulum skoða nánar hvað VoIP er og hverjar grundvallarreglur þess [&hellip;]"

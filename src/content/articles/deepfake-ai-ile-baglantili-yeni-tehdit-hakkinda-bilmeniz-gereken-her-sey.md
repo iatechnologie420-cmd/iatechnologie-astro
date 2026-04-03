@@ -1,5 +1,4 @@
 ---
-
 title: "Deepfake: AI ile bağlantılı yeni tehdit hakkında bilmeniz gereken her şey"
 slug: "deepfake-ai-ile-baglantili-yeni-tehdit-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "Deepfake&#8217;in tanımı ve işleyişi Deepfake&#8217;un tanımı Dönem derin sahte İngilizce &#8220;derin öğrenme&#8221; ve &#8220;sahte&#8221; kelimelerinin kısaltılmış halidir. Bu teknoloji algoritmalara dayanmaktadıryapay zeka Videolar ve ses parçaları da dahil olmak üzere görsel-işitsel içerik oluşturmak veya düzenlemek için özel olarak tasarlanmıştır. Sonuç genellikle o kadar ikna edicidir ki, gözü ve kulağı aldatabilir ve çoğu insan için ilk [&hellip;]"

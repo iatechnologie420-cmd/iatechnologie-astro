@@ -1,5 +1,4 @@
 ---
-
 title: "Czym jest cyfrowa przestrzeń robocza/praca rozszerzona?"
 slug: "czym-jest-cyfrowa-przestrzen-robocza-praca-rozszerzona"
 excerpt: "Co to jest cyfrowa przestrzeń robocza? Termin Cyfrowa przestrzeń robocza, Lub cyfrowa przestrzeń robocza, definiuje środowisko pracy, w którym dzięki technologiom cyfrowym nie ma już barier fizycznych. Łączy zestaw narzędzi i technologii umożliwiających użytkownikom łączenie się, współpracę i wykonywanie zadań zawodowych niezależnie od ich fizycznej lokalizacji. W tym artykule omówione zostaną podstawowe filary Digital Workspace [&hellip;]"

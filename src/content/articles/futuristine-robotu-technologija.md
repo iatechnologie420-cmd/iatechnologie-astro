@@ -1,5 +1,4 @@
 ---
-
 title: "Futuristinė robotų technologija"
 slug: "futuristine-robotu-technologija"
 excerpt: "Revoliucinių robotų atradimas THE revoliuciniai robotai nebėra mokslinė fantastika, dabar jie yra mūsų kasdienio gyvenimo dalis ir įvairias pramonės šakas keičia naujais būdais. Iškilimasdirbtinis intelektas (AI) ir pažangi robotika atveria duris į erą, kai automatika tampa labiau pritaikoma, savarankiškesnė ir integruota į žmogaus veiklą. Šiame straipsnyje apžvelgsime keletą novatoriškiausių robotų ir ką jie reiškia ateičiai. [&hellip;]"

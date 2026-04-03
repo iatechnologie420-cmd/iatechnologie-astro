@@ -1,5 +1,4 @@
 ---
-
 title: "Skilgreining CIO: hvað er upplýsingatækniþjónustustjóri"
 slug: "skilgreining-cio-hvad-er-upplysingataeknithjonustustjori"
 excerpt: "Hlutverk og verkefni framkvæmdastjóra upplýsingatækniþjónustu Nauðsynlegt hlutverk framkvæmdastjóra upplýsingatækniþjónustu THE Forstöðumaður upplýsingatækniþjónustu, líka þekkt sem CIO Eða Forstöðumaður upplýsingakerfa, skipar stefnumótandi sess innan nútímafyrirtækja. Á stafrænu tímum, þar sem upplýsingar og tækni eru orðin kjarni faglegrar starfsemi, er nauðsynlegt að skilja skyldur sínar og verkefni. Þessi grein veitir heildarmynd af virkni og mikilvægi CIO. Í [&hellip;]"

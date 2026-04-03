@@ -1,5 +1,4 @@
 ---
-
 title: "Interface Homme-Machine : c&#8217;est quoi les IHM ?"
 slug: "interface-homme-machine-definition-ihm"
 excerpt: "Définition de l&#8217;Interface Homme-Machine L&#8217;interface homme-machine désigne l&#8217;ensemble des moyens et outils mis en oeuvre afin de permettre une interaction efficace entre un utilisateur humain et un système informatique. Elle englobe tout, depuis la conception visuelle des écrans jusqu&#8217;aux périphériques d&#8217;entrée comme le clavier, la souris ou encore les interfaces tactiles et vocales. L&#8217;évolution historique [&hellip;]"

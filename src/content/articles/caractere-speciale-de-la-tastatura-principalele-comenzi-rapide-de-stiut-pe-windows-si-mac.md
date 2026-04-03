@@ -1,5 +1,4 @@
 ---
-
 title: "Caractere speciale de la tastatură: principalele comenzi rapide de știut (pe Windows și Mac)"
 slug: "caractere-speciale-de-la-tastatura-principalele-comenzi-rapide-de-stiut-pe-windows-si-mac"
 excerpt: "Caracterele speciale sunt simboluri sau semne care nu corespund literelor și numerelor standard ale unei tastaturi tradiționale. Utilizarea acestor caractere speciale este de mare importanță în diverse contexte, cum ar fi programarea computerelor, scrierea de texte, securitatea parolelor și introducerea datelor matematice sau științifice. În programare, caracterele speciale sunt esențiale. Acestea vă permit să efectuați [&hellip;]"

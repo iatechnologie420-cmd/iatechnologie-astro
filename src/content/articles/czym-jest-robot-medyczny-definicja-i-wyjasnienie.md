@@ -1,5 +1,4 @@
 ---
-
 title: "Czym jest robot medyczny? definicja i wyjaśnienie"
 slug: "czym-jest-robot-medyczny-definicja-i-wyjasnienie"
 excerpt: "Definicja i typologia robotów medycznych Pojawienie się robotyki w opiece zdrowotnej otworzyło ogromne możliwości poprawy opieki medycznej i chirurgii. Technologie te, tzw roboty medyczne, to urządzenia mechaniczne lub systemy komputerowe zdolne do wykonywania skomplikowanych czynności z dużą precyzją, często pod nadzorem lub bezpośrednią kontrolą wykwalifikowanego personelu medycznego. Ale jakie są różne typy robotów medycznych obecnie [&hellip;]"

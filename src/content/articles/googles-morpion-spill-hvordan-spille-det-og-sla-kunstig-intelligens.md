@@ -1,5 +1,4 @@
 ---
-
 title: "Googles Morpion-spill: Hvordan spille det og slå kunstig intelligens?"
 slug: "googles-morpion-spill-hvordan-spille-det-og-sla-kunstig-intelligens"
 excerpt: "Reglene for Googles Tic-Toe-spill Målet med spillet Morpion-spillet, også kalt Tic-tac-toe, er et strategispill som spilles på et 3&#215;3 rutenett. Målet er å stille opp tre identiske symboler (kryss eller sirkel) horisontalt, vertikalt eller diagonalt foran motstanderen. Sett opp Google Tic Toe-spillet er tilgjengelig online og kan spilles på forskjellige enheter, inkludert smarttelefoner, nettbrett eller [&hellip;]"

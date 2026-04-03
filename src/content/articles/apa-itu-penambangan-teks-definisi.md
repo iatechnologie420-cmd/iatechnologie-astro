@@ -1,5 +1,4 @@
 ---
-
 title: "Apa itu penambangan teks? definisi"
 slug: "apa-itu-penambangan-teks-definisi"
 excerpt: "Pengantar penambangan teks ITU penambangan teks, atau penambangan teks dalam bahasa Prancis, adalah cabang ilmu data yang berfokus pada penggalian informasi berguna dari kumpulan data teks yang besar. Sering dikaitkan dengan pemrosesan bahasa alami (NLP), penambangan teks melibatkan serangkaian teknik dan alat yang mampu memahami, menganalisis, dan memproses bahasa manusia yang dikumpulkan dalam bentuk tekstual. [&hellip;]"

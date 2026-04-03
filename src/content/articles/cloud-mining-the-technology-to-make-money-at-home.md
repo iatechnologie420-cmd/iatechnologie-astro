@@ -1,5 +1,4 @@
 ---
-
 title: "Cloud Mining: the technology to make money at home"
 slug: "cloud-mining-the-technology-to-make-money-at-home"
 excerpt: "Cloud Mining: earn cryptocurrencies without equipment THE cloud mining is a method that allows individuals to participate in the extraction of cryptocurrencies without the need to purchase and maintain their own extraction equipment. This technique is ideal for those who wish to get involved in cryptocurrency mining but do not have the technical, physical or [&hellip;]"

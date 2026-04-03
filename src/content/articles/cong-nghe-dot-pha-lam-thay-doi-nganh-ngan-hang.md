@@ -1,5 +1,4 @@
 ---
-
 title: "Công nghệ đột phá làm thay đổi ngành ngân hàng?"
 slug: "cong-nghe-dot-pha-lam-thay-doi-nganh-ngan-hang"
 excerpt: "Sự chuyển đổi của ngân hàng thông qua công nghệ đột phá đã làm thay đổi sâu sắc lĩnh vực tài chính trong những năm gần đây. Những tiến bộ công nghệ đã cho phép xuất hiện các giải pháp sáng tạo mới, đang thay đổi cách các ngân hàng vận hành và tương tác [&hellip;]"

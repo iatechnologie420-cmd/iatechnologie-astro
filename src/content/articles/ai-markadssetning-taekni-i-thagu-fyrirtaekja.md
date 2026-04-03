@@ -1,5 +1,4 @@
 ---
-
 title: "AI markaðssetning: tækni í þágu fyrirtækja?"
 slug: "ai-markadssetning-taekni-i-thagu-fyrirtaekja"
 excerpt: "Gervigreind (AI) er smám saman að koma fram sem umbreytandi afl fyrir markaðssetningu. Að finna upp markaðssetningu á ný með gervigreind, skilja áhrif þess fyrir markaðssetningu vörumerkja og möguleika á samskiptum sparar tíma, eykur skilvirkni og opnar leið fyrir nýjar aðferðir við þátttöku neytenda. Þessi vöxtur markar umskipti frá hefðbundinni markaðssetningu yfir í upplýstari, persónulegri [&hellip;]"

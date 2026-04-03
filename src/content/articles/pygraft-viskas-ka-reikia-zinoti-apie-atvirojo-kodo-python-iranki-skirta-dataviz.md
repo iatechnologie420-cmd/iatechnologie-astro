@@ -1,5 +1,4 @@
 ---
-
 title: "PyGraft: viskas, ką reikia žinoti apie atvirojo kodo Python įrankį, skirtą DataViz"
 slug: "pygraft-viskas-ka-reikia-zinoti-apie-atvirojo-kodo-python-iranki-skirta-dataviz"
 excerpt: "PyGraft: nauja atvirojo kodo „DataViz“ žvaigždė PyGraft pasirodo kaip perspektyvus įrankis, skirtas suteikti duomenų profesionalams ir entuziastams praturtinančios ir galingos patirties kuriant duomenų vizualizacijas. Pasižymi pažangiomis apdorojimo galimybėmis ir nepaprastu lankstumu, PyGraft yra projektas atviro kodo apie kurį jau pradėta kalbėti. Bet kas yra PyGraft ir kaip jis gali pakeisti jūsų požiūrį į DataViz? Pasinerkime [&hellip;]"

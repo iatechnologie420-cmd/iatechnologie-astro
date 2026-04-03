@@ -1,5 +1,4 @@
 ---
-
 title: "Oppdag yrkene innen data og kunstig intelligens"
 slug: "oppdag-yrkene-innen-data-og-kunstig-intelligens"
 excerpt: "Introduksjon til yrker innen data og kunstig intelligens Fremveksten av data og kunstig intelligens (AI) har gitt opphav til en overflod av innovative og varierte yrker. I hjertet av den digitale revolusjonen har disse spesialiseringene blitt avgjørende for selskaper som ønsker å dra nytte av potensialet som tilbys av data og intelligent automatisering. Forstå datayrkene [&hellip;]"

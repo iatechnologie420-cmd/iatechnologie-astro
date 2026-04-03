@@ -1,5 +1,4 @@
 ---
-
 title: "Mis on digitaalne tööruum / laiendatud töö?"
 slug: "mis-on-digitaalne-tooruum-laiendatud-too"
 excerpt: "Mis on digitaalne tööruum? Termin Digitaalne tööruum, Or digitaalne tööruum, määratleb töökeskkonna, millel pole tänu digitehnoloogiatele enam füüsilisi tõkkeid. See koondab tööriistade ja tehnoloogiate komplekti, mis võimaldab kasutajatel ühenduse luua, koostööd teha ja oma professionaalseid ülesandeid täita olenemata nende füüsilisest asukohast. Selles artiklis käsitletakse digitaalse tööruumi olulisi sambaid ja seda, kuidas need aitavad kaasa tootlikkuse [&hellip;]"

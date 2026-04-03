@@ -1,5 +1,4 @@
 ---
-
 title: "As melhores escolas da web: como fazer a escolha certa"
 slug: "as-melhores-escolas-da-web-como-fazer-a-escolha-certa"
 excerpt: "O mundo da educação está em constante mudança, principalmente com o advento de novas tecnologias. Hoje, muitos cursos de formação estão acessíveis online, oferecendo flexibilidade e adaptabilidade a cada aluno. Iremos guiá-lo através da gama de opções disponíveis, para fazer uma escolha informada de escola web que atenda às suas aspirações como prioridade. Entendendo os [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "„Google“ žaidimas „Morpion“: kaip jį žaisti ir įveikti dirbtinį intelektą?"
 slug: "google-zaidimas-morpion-kaip-ji-zaisti-ir-iveikti-dirbtini-intelekta"
 excerpt: "„Google“ „Tic-Toe“ žaidimo taisyklės Žaidimo tikslas „Morpion“ žaidimas, dar vadinamas „Tic-tac-toe“, yra strateginis žaidimas, žaidžiamas 3&#215;3 tinklelyje. Tikslas yra išdėstyti tris vienodus simbolius (kryžius arba apskritimą) horizontaliai, vertikaliai arba įstrižai prieš varžovą. Nustatyti „Google Tic Toe“ žaidimas yra prieinamas internete ir gali būti žaidžiamas įvairiuose įrenginiuose, įskaitant išmaniuosius telefonus, planšetinius kompiuterius ar kompiuterius. Norėdami pradėti, [&hellip;]"

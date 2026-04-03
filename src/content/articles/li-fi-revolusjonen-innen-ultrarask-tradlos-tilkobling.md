@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: revolusjonen innen ultrarask trådløs tilkobling"
 slug: "li-fi-revolusjonen-innen-ultrarask-tradlos-tilkobling"
 excerpt: "Den stille Li-Fi-revolusjonen: morgendagens lystilkobling Introduksjon til høyteknologisk belysning Det er et faktum lite kjent for allmennheten, men Li-Fi (akronym for Light Fidelity) er blant de mest lovende trådløse overføringsteknologiene til dags dato, selv om de første testene går tilbake til 2005. Den ble utviklet i skyggen, langt fra rampelyset som vanligvis belyser store teknologiske [&hellip;]"

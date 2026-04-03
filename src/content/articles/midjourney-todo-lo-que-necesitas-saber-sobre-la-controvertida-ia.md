@@ -1,5 +1,4 @@
 ---
-
 title: "MidJourney: todo lo que necesitas saber sobre la controvertida IA"
 slug: "midjourney-todo-lo-que-necesitas-saber-sobre-la-controvertida-ia"
 excerpt: "Entendiendo la mitad del viaje MidJourney es una poderosa inteligencia artificial que transforma la forma en que interactuamos con la tecnología. Utilice esta guía como recurso para comprender sus orígenes y funciones clave. ¿Qué es Mitad de Viaje? MidJourney es una herramienta inteligencia artificial vanguardista diseñado para mejorar y facilitar nuestras interacciones diarias con las [&hellip;]"

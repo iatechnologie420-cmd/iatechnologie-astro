@@ -1,5 +1,4 @@
 ---
-
 title: "MAAT: meno, architektūros ir technologijų derinys?"
 slug: "maat-meno-architekturos-ir-technologiju-derinys"
 excerpt: "MAAT istorija: meno ir architektūros derinys MAAT, meno, architektūros ir technologijų muziejaus santrumpa, yra simbolinė vieta, liudijanti meno, architektūros ir technologijų sintezę. Įsikūręs ant Lisabonos Težo upės kranto, jis puikiai įkūnija darnią estetikos ir naujovių santuoką. Šiame straipsnyje mes gilinamės į patrauklią MAAT istoriją ir tyrinėjame, kaip ji tapo nuoroda šiuolaikinio meno pasaulyje. Drąsi MAAT [&hellip;]"

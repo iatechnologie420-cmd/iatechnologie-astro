@@ -1,5 +1,4 @@
 ---
-
 title: "Master Data Manager: rolle, ferdigheter, opplæring og lønn"
 slug: "master-data-manager-rolle-ferdigheter-opplaering-og-lonn"
 excerpt: "Nøkkelrollen til Master Data Manager i datastyring I en verden hvor data har blitt en viktig strategisk ressurs for bedrifter, datastyring er avgjørende for å sikre kvaliteten, sikkerheten og effektiviteten til informasjon. I hjertet av denne styringen er Master Data Manager (MDM) spiller en avgjørende rolle. La oss sammen utforske ansvaret og virkningene av denne [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Sharding nedir? tanımı ve avantajları"
 slug: "sharding-nedir-tanimi-ve-avantajlari"
 excerpt: "Parçalamayı anlama: tanım ve temel ilkeler Veritabanları ve büyük ölçekli veri depolama dünyası karmaşıktır ve sürekli gelişmektedir. Katlanarak artan veri hacimlerini etkili bir şekilde yönetmek için BT mimarilerinin yenilik yapması ve bu verilerin performansını ve yönetimini optimize edecek çözümler bulması gerekir. Bu soruna yönelik bir yaklaşım, adı verilen bir tekniktir. parçalama. Bu makalede parçalamayı tanımlayacağız, [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Samsung Xcover 7: Maceracılar için nihai çözüm mü?"
 slug: "samsung-xcover-7-maceracilar-icin-nihai-cozum-mu"
 excerpt: "Samsung Xcover 7&#8217;nin teknik özellikleri Samsung Xcover 7, Xcover serisinin en son telefonu olup, hava şartlarına karşı dayanıklılığı ve dayanıklılığıyla bilinir. Gelişmiş özellikleri ve sağlam tasarımıyla Xcover 7, her durumda güvenilir bir akıllı telefona ihtiyaç duyan aktif kişiler için tasarlandı. Bu yazımızda Samsung Xcover 7&#8217;yi modern maceracılar için ideal bir seçim haline getiren teknik özelliklere [&hellip;]"

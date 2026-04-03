@@ -1,5 +1,4 @@
 ---
-
 title: "Spot: vélmennahundurinn frá Boston Dynamics"
 slug: "spot-velmennahundurinn-fra-boston-dynamics"
 excerpt: "Uppgötvun Spot, hundavélmenni frá Boston Dynamics Þekkt fyrir að vera krem ​​nútíma vélfærafræði, Blettur, vélmennahundurinn frá Boston Dynamics, hefur skapað höggbylgju í heimi nýrrar tækni. Hannað til að koma í stað jafnaldra sinna, það er táknrænt dæmi um dýravélmenni sem eru tilbúin til að skipta um líkan þeirra. Spot, tæknibylting Blettur felur fullkomlega í sér [&hellip;]"

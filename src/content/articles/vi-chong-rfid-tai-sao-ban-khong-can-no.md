@@ -1,5 +1,4 @@
 ---
-
 title: "Ví chống RFID: Tại sao bạn không cần nó"
 slug: "vi-chong-rfid-tai-sao-ban-khong-can-no"
 excerpt: "Hiểu công nghệ RFID và rủi ro của nó RFID là gì? Ở đó Nhận dạng tần số vô tuyến điện (RFID) là công nghệ cho phép tự động nhận dạng vật thể, động vật hoặc con người bằng sóng vô tuyến. Nó sử dụng các thiết bị điện tử nhỏ gọi là nhãn Hoặc [&hellip;]"

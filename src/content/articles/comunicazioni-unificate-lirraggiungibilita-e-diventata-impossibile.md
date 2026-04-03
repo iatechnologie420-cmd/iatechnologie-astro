@@ -1,5 +1,4 @@
 ---
-
 title: "Comunicazioni Unificate: l&#8217;irraggiungibilità è diventata impossibile?"
 slug: "comunicazioni-unificate-lirraggiungibilita-e-diventata-impossibile"
 excerpt: "Comunicazioni unificate: definizione e principio Cos&#8217;è la comunicazione unificata? IL comunicazioni unificate (CU), o Unified Communications in inglese, designa un insieme di servizi e soluzioni che mirano a integrare o unificare diverse forme di comunicazione all&#8217;interno della stessa interfaccia o piattaforma. Ciò include messaggistica istantanea, videoconferenze, chiamate vocali (VoIP), e-mail, conferenze Web e posta vocale, [&hellip;]"

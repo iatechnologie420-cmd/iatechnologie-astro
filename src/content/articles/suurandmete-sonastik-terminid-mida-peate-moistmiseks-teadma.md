@@ -1,5 +1,4 @@
 ---
-
 title: "Suurandmete sõnastik: terminid, mida peate mõistmiseks teadma"
 slug: "suurandmete-sonastik-terminid-mida-peate-moistmiseks-teadma"
 excerpt: "Sissejuhatus suurandmete maailma THE Suured andmed esindab kasvavat sektorit, mis muudab viisi, kuidas ettevõtted ja organisatsioonid andmeid analüüsivad ja kasutavad. Üha digitaalsemaks muutuvas maailmas luuakse andmeid meeletu kiirusega ja erinevates vormingutes. Big Data ajastu pole enam lihtsalt moesõna; see on reaalsus, mis kujundab terveid tööstusharusid ja määratleb uuesti teaduse, tehisintellekti ja tehnoloogia piire. Mis on [&hellip;]"

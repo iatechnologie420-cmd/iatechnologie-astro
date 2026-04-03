@@ -1,5 +1,4 @@
 ---
-
 title: "Googles Morpion-Spiel: Wie spielt man es und besiegt künstliche Intelligenz?"
 slug: "googles-morpion-spiel-wie-spielt-man-es-und-besiegt-kunstliche-intelligenz"
 excerpt: "Die Regeln des Tic-Toe-Spiels von Google Ziel des Spiels Das Morpion-Spiel, auch Tic-Tac-Toe genannt, ist ein Strategiespiel, das auf einem 3&#215;3-Raster gespielt wird. Das Ziel besteht darin, drei identische Symbole (Kreuz oder Kreis) horizontal, vertikal oder diagonal vor Ihrem Gegner aufzureihen. Aufstellen Das Google Tic Toe-Spiel ist online verfügbar und kann auf verschiedenen Geräten gespielt [&hellip;]"

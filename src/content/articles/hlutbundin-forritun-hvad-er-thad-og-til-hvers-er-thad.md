@@ -1,5 +1,4 @@
 ---
-
 title: "Hlutbundin forritun: hvað er það og til hvers er það?"
 slug: "hlutbundin-forritun-hvad-er-thad-og-til-hvers-er-thad"
 excerpt: "Undirstöðuatriði hlutbundinnar forritunar Þarna Hlutbundin forritun (OOP) er forritunarhugmynd sem notar „hluti“ til að hanna tölvuforrit og forrit. Þessir hlutir tákna raunverulegar einingar og gera forriturum kleift að búa til sveigjanlegri, skalanlegri og viðhaldshæfari hugbúnað. Í þessari grein munum við kanna grunnhugtökin sem mynda grunninn að OOP. Útdráttur L&#8217;útdráttur er ferlið þar sem forritari felur [&hellip;]"

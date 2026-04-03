@@ -1,5 +1,4 @@
 ---
-
 title: "SSD: allt sem þú þarft að vita um Solid-State Drive gagnageymslu"
 slug: "ssd-allt-sem-thu-tharft-ad-vita-um-solid-state-drive-gagnageymslu"
 excerpt: "Kynning á SSD diskum og hvernig þeir virka Tilkoma solid state diska, eða SSD (Solid State Drive á ensku), markaði algjöra byltingu á sviði gagnageymslu. Ólíkt hefðbundnum harða diskum (HDD) sem nota segulmagnaðir diskar til að geyma upplýsingar, HDD SSD treysta á flassminni flísar án hreyfanlegra hluta. Þessi tæknibreyting býður upp á verulegan ávinning hvað [&hellip;]"

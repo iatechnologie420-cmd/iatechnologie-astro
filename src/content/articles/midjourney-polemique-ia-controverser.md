@@ -1,5 +1,4 @@
 ---
-
 title: "MidJourney : tout savoir sur l’IA controversé"
 slug: "midjourney-polemique-ia-controverser"
 excerpt: "Comprendre MidJourney MidJourney est une intelligence artificielle puissante, transformant la façon dont nous interagissons avec la technologie. Utilisez ce guide comme une ressource pour comprendre ses origines et fonctions clés. Qu&#8217;est-ce que MidJourney? MidJourney est un outil d&#8217;intelligence artificielle avant-gardiste conçu pour améliorer et faciliter nos interactions quotidiennes avec les nouvelles technologies. Il fait partie [&hellip;]"

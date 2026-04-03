@@ -1,5 +1,4 @@
 ---
-
 title: "Setning Bayes og notkun hennar í gervigreind"
 slug: "setning-bayes-og-notkun-hennar-i-gervigreind"
 excerpt: "Inngangur að setningu Bayes THE setning Bayes er grundvallarformúla í líkindum og tölfræði sem lýsir uppfærslu á viðhorfum okkar í viðurvist nýrra upplýsinga. Þessi setning er nefnd til heiðurs séra Thomas Bayes og gegnir mikilvægu hlutverki á mörgum sviðum, allt frá vélanámi til ákvarðanatöku í óvissu. Kjarninn í setningu Bayes Hjarta setning Bayes eru skilyrtar [&hellip;]"

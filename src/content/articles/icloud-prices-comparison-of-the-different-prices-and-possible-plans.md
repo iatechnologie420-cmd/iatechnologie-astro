@@ -1,5 +1,4 @@
 ---
-
 title: "iCloud prices: comparison of the different prices and possible plans"
 slug: "icloud-prices-comparison-of-the-different-prices-and-possible-plans"
 excerpt: "iCloud is a cloud storage service offered by Apple which allows data such as documents, photos, and music to be stored on remote servers for downloading to iOS, Mac, or Windows devices. It also provides the ability to sync data between different devices and share files easily. In this article, we&#8217;ll explore the different iCloud [&hellip;]"

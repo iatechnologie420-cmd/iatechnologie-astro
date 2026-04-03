@@ -1,5 +1,4 @@
 ---
-
 title: "ChatGPT este doar o iluzie a inteligenței: de ce?"
 slug: "chatgpt-este-doar-o-iluzie-a-inteligentei-de-ce"
 excerpt: "https://www.youtube.com/watch?v=ShLittT7RTE Simularea inteligenței umane prin AI? Capacitatea de a simula inteligența umană cu mașini a fost întotdeauna o fascinație singulară, atât pentru oamenii de știință, cât și pentru publicul larg. Dacă ideea unei mașini capabile să gândească, să raționeze și să înțeleagă ca un om poate părea totuși ficțiune științifico-fantastică, progresele în inteligența artificială (AI) [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Pepper: viskas, ką reikia žinoti apie „SoftBank“ socialinį robotą"
 slug: "pepper-viskas-ka-reikia-zinoti-apie-softbank-socialini-robota"
 excerpt: "Pipirai: pristatymas ir pagrindinės funkcijos Santrauka Socialinis robotas Pipirai yra technologinis žygdarbis, skirtas bendrauti su žmonėmis socialinėje aplinkoje. Turėdamas daugybę jutiklių ir pažangaus AI, Pepper supranta ir reaguoja į mūsų emocijas, prisitaikydamas prie mūsų elgesio. Šiame straipsnyje pateiksime pagrindines Pepper funkcijas ir pagrindines jo pritaikymo galimybes įvairiuose veiklos sektoriuose. Kas yra socialinis robotas Pepper? Sukurta [&hellip;]"

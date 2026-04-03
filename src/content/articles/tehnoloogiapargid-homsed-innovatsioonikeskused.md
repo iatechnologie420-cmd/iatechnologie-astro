@@ -1,5 +1,4 @@
 ---
-
 title: "Tehnoloogiapargid: homsed innovatsioonikeskused?"
 slug: "tehnoloogiapargid-homsed-innovatsioonikeskused"
 excerpt: "Tehnoparkide tekkimine Nendel innovatsiooni pühamutel, mida tuntakse ka teadusparkide või tehnopoolidena, on rikas ajalugu ja need arenevad pidevalt; need kehastavad tehnilist ja majanduslikku progressi. Selle artikli eesmärk on uurida nende tehnoloogiakeskuste päritolu ja arengut, rõhutades nende olulist rolli innovatsiooni ja majandusarengu katalüsaatorina. Tehnoparkide ajalugu Tehnoparkide ajalugu sai alguse 20. sajandi teisest poolest, kui ilmnes vajadus [&hellip;]"

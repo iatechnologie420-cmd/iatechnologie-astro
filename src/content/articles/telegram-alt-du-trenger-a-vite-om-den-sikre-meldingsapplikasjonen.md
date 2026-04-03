@@ -1,5 +1,4 @@
 ---
-
 title: "Telegram: alt du trenger å vite om den sikre meldingsapplikasjonen"
 slug: "telegram-alt-du-trenger-a-vite-om-den-sikre-meldingsapplikasjonen"
 excerpt: "Hva er Telegram? Telegram er en direktemeldingsapplikasjon med fokus på hastighet og sikkerhet. Det har blitt en av de mest populære kommunikasjonsplattformene i verden takket være kombinasjonen av avanserte funksjoner, intuitivt grensesnitt og forpliktelse til å beskytte brukernes personvern. Siden lanseringen i 2013, Telegram har skilt seg ut blant en rekke meldingsapplikasjoner, og posisjonert seg [&hellip;]"

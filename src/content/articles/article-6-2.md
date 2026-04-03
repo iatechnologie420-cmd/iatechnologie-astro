@@ -1,5 +1,4 @@
 ---
-
 slug: "article-6-2"
 title: "什么是医疗机器人？定义和解释"
 slug: ""

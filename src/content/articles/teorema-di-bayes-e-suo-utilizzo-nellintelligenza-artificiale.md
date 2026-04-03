@@ -1,5 +1,4 @@
 ---
-
 title: "Teorema di Bayes e suo utilizzo nell&#8217;intelligenza artificiale"
 slug: "teorema-di-bayes-e-suo-utilizzo-nellintelligenza-artificiale"
 excerpt: "Introduzione al teorema di Bayes IL Teorema di Bayes è una formula fondamentale in probabilità e statistica che descrive l&#8217;aggiornamento delle nostre convinzioni in presenza di nuove informazioni. Chiamato così in onore del reverendo Thomas Bayes, questo teorema gioca un ruolo cruciale in molti campi che vanno dall&#8217;apprendimento automatico al processo decisionale in condizioni di [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Master Data Manager: role, skills, training and salary"
 slug: "master-data-manager-role-skills-training-and-salary"
 excerpt: "The key role of the Master Data Manager in data governance In a world where data has become a major strategic asset for businesses, data governance is essential to ensure the quality, security and effectiveness of information. At the heart of this governance, the Master Data Manager (MDM) plays a crucial role. Let’s explore together [&hellip;]"

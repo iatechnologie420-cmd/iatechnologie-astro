@@ -1,5 +1,4 @@
 ---
-
 title: "Lexique Big Data : Les termes à connaître pour comprendre"
 slug: "lexique-big-data-les-termes-a-connaitre-pour-comprendre"
 excerpt: "Introduction au monde du big data Le Big Data représente un secteur en pleine expansion qui transforme la manière dont les entreprises et les organisations analysent et exploitent les données. Dans un monde de plus en plus numérisé, les données sont générées à une vitesse vertigineuse et sous divers formats. L&#8217;ère du Big Data n&#8217;est [&hellip;]"

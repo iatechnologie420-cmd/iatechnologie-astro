@@ -1,5 +1,4 @@
 ---
-
 title: "IT/Informatica: cos&#8217;è l&#8217;informatica?"
 slug: "it-informatica-cose-linformatica"
 excerpt: "Comprendere l&#8217;informatica: definizione ed evoluzione delle tecnologie dell&#8217;informazione Che cos&#8217;è? Il termine ESSO, Per Tecnologie dell&#8217;informazione in inglese, designa tutte le tecnologie relative al trattamento e alla gestione di informazione e dati. Questo vasto campo comprende quindi l’informatica, telecomunicazioni, sistemi di gestione di database, sicurezza delle informazioni e molto altro ancora. L’IT è essenziale nel [&hellip;]"

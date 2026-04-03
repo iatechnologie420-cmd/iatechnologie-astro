@@ -1,5 +1,4 @@
 ---
-
 title: "SSD: todo lo que necesitas saber sobre el almacenamiento de datos en unidades de estado sólido"
 slug: "ssd-todo-lo-que-necesitas-saber-sobre-el-almacenamiento-de-datos-en-unidades-de-estado-solido"
 excerpt: "Introducción a los SSD y cómo funcionan La llegada de los discos de estado sólido, o SSD (Unidad de estado sólido en inglés), marcó una auténtica revolución en el campo del almacenamiento de datos. A diferencia de las unidades de disco duro (HDD) tradicionales que utilizan platos magnéticos para almacenar información, las HDD SSD Confíe [&hellip;]"

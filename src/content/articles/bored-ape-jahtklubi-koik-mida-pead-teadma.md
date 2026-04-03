@@ -1,5 +1,4 @@
 ---
-
 title: "Bored Ape Jahtklubi: kõik, mida pead teadma"
 slug: "bored-ape-jahtklubi-koik-mida-pead-teadma"
 excerpt: "Mis on Bored Ape jahtklubi? THE Igav Ape Jahtklubi on hiljutine nähtus, mis raputab maailma Mitteasendatavad märgid (NFT). Nendest ainulaadselt illustreeritud virtuaalsetest ahvidest on saanud krüptomaailmas miljardäri staatuse sümbol. Aga mis teeb need NFT-d nii eriliseks? Ja miks on nad nii paljude inimeste kujutlusvõimet haaranud? Selles artiklis sukeldume NFT-de ja Bored Ape jahtklubi põnevasse maailma. [&hellip;]"

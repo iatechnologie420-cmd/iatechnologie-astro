@@ -1,5 +1,4 @@
 ---
-
 title: "Antene 4G: Kako bolje zajeti 4G v zaprtih prostorih?"
 slug: "antene-4g-kako-bolje-zajeti-4g-v-zaprtih-prostorih"
 excerpt: "Razumeti, kako deluje 4G in njegove omejitve Kaj je 4G? tehnologija 4G, poznan tudi kot 4. generacija standardov za mobilne telekomunikacije, je nadaljevanje 3G in je pred zelo nedavnim 5G. Ponuja hitro mobilno internetno povezavo, ki vam omogoča boljši prenos podatkov. To vključuje pretakanje videoposnetkov v visoki ločljivosti, brskanje po spletu pri visokih hitrostih in [&hellip;]"

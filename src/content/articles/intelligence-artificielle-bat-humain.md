@@ -1,5 +1,4 @@
 ---
-
 title: "Ces jeux où l&#8217;intelligence artificielle a battu l&#8217;humain"
 slug: "intelligence-artificielle-bat-humain"
 excerpt: "L&#8217;aube des superordinateurs et le défi échiquéen L&#8217;ère des superordinateurs n&#8217;est plus une vision futuriste lointaine, mais une réalité tangible qui révolutionne divers secteurs, dont celui des jeux de stratégie comme les échecs. Ces machines à la puissance de calcul phénoménale offrent un terrain de jeu idéal pour explorer les frontières de l&#8217;intelligence artificielle et [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "HIDS vs NIDS: differenze e utilizzo"
 slug: "hids-vs-nids-differenze-e-utilizzo"
 excerpt: "Introduzione ai sistemi di rilevamento delle intrusioni: HIDS e NIDS La sicurezza dei sistemi informativi è una preoccupazione centrale per aziende e organizzazioni di tutte le dimensioni. Di fronte alle crescenti minacce e alla sofisticazione degli attacchi informatici, è imperativo mettere in atto meccanismi di difesa efficaci. Tra questi, l&#8217; sistemi di rilevamento delle intrusioni [&hellip;]"

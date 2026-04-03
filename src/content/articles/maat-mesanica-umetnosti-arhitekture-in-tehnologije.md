@@ -1,5 +1,4 @@
 ---
-
 title: "MAAT: mešanica umetnosti, arhitekture in tehnologije?"
 slug: "maat-mesanica-umetnosti-arhitekture-in-tehnologije"
 excerpt: "Zgodba o MAAT: mešanica umetnosti in arhitekture MAAT, akronim za Museum of Art, Architecture and Technologies, je simbolično mesto, ki priča o fuziji med umetnostjo, arhitekturo in tehnologijo. Nahaja se na bregovih Tejo v Lizboni in odlično uteleša harmonično poroko med estetiko in inovativnostjo. V tem članku se poglobimo v fascinantno zgodovino MAAT in raziščemo, [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Google Deep Dream: hướng dẫn đầy đủ về AI đáng kinh ngạc"
 slug: "google-deep-dream-huong-dan-day-du-ve-ai-dang-kinh-ngac"
 excerpt: "Tìm hiểu khái niệm về Google Deep Dream Trong thế giới hấp dẫn của trí tuệ nhân tạo, một sự đổi mới đặc biệt ấn tượng đã xuất hiện: Giấc mơ sâu sắc của Google. Được coi là một AI đáng kinh ngạc, khái niệm này kết hợp công nghệ tiên tiến và trí tưởng [&hellip;]"

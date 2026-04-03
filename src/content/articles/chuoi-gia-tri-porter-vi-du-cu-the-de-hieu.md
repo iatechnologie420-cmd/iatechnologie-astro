@@ -1,5 +1,4 @@
 ---
-
 title: "Chuỗi giá trị PORTER | Ví dụ cụ thể để hiểu"
 slug: "chuoi-gia-tri-porter-vi-du-cu-the-de-hieu"
 excerpt: "Tìm hiểu chuỗi giá trị của Michael Porter Chuỗi giá trị là một khái niệm được phát triển bởi nhà kinh tế và học giả người Mỹ Michael Porter trong tác phẩm “Lợi thế cạnh tranh” xuất bản năm 1985. Mô hình này rất cần thiết để phân tích các hoạt động nội bộ của [&hellip;]"

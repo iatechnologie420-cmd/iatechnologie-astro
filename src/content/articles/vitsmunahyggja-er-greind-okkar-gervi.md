@@ -1,5 +1,4 @@
 ---
-
 title: "Vitsmunahyggja: Er greind okkar gervi?"
 slug: "vitsmunahyggja-er-greind-okkar-gervi"
 excerpt: "Uppruni vitsmunahyggju og mannlegrar greind Uppruni hugvitshyggju THE vitsmunahyggju er nálgun í sálfræði sem einbeitir sér að innri aðferðum hugsunar og meðhöndlar mannshugann sem upplýsingavinnslukerfi. Uppruni þessarar nálgunar nær fyrst og fremst aftur til fimmta og sjöunda áratugarins, sem viðbragð við atferlishyggju, sem var mjög ríkjandi á þeim tíma og einbeitti sér eingöngu að sýnilegri [&hellip;]"

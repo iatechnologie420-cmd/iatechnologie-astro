@@ -1,5 +1,4 @@
 ---
-
 title: "HIDS vs NIDS: Perbezaan dan Penggunaan"
 slug: "hids-vs-nids-perbezaan-dan-penggunaan"
 excerpt: "Pengenalan kepada Sistem Pengesan Pencerobohan: HIDS dan NIDS Keselamatan sistem maklumat adalah kebimbangan utama untuk perniagaan dan organisasi dari semua saiz. Menghadapi ancaman yang semakin meningkat dan kecanggihan serangan siber, adalah penting untuk meletakkan mekanisme pertahanan yang berkesan. Antaranya, yang sistem pengesanan pencerobohan (IDS) memainkan peranan penting dalam memantau rangkaian komputer dan mengesan aktiviti yang [&hellip;]"

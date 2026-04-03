@@ -1,5 +1,4 @@
 ---
-
 title: "Hva er et IT-infosenter? definisjon og forklaring"
 slug: "hva-er-et-it-infosenter-definisjon-og-forklaring"
 excerpt: "EN datasenter, også referert til som informasjonssenter, refererer til et sentralisert system dedikert til databehandling i en organisasjon. Dens formål er å samle inn, lagre, organisere og formidle den informasjonen som er nødvendig for selskapets virksomhet. Dens funksjon er avgjørende for å gjøre det mulig for analytikere og beslutningstakere å utnytte data på en effektiv [&hellip;]"

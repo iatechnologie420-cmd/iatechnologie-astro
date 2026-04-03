@@ -1,5 +1,4 @@
 ---
-
 title: "AlphaGo kontra Leedsol: super sztuczna inteligencja pokonuje mistrza Go"
 slug: "alphago-kontra-leedsol-super-sztuczna-inteligencja-pokonuje-mistrza-go"
 excerpt: "Historyczne starcie: sztuczna inteligencja rzuca wyzwanie mistrzowi Go Świat Go był historycznie zdominowany przez ludzkich mistrzów, aż do znaczącego wydarzenia, które wstrząsnęło ustalonymi paradygmatami. Sztuczna inteligencja, to narzędzie stworzone dzięki ludzkiej pomysłowości, podjęło wyzwanie zmierzenia się z jedną z najbardziej skomplikowanych gier strategicznych w historii. To historyczne zderzenie logicznych obwodów superkomputera ze strategicznym umysłem mistrza [&hellip;]"

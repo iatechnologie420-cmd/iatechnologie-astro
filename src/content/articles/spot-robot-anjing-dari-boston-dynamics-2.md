@@ -1,5 +1,4 @@
 ---
-
 title: "Spot: robot anjing dari Boston Dynamics"
 slug: "spot-robot-anjing-dari-boston-dynamics-2"
 excerpt: "Discovery of Spot, robot anjing dari Boston Dynamics Terkenal sebagai krim robotik moden, Spot, anjing robot dari Boston Dynamics, telah mencipta gelombang kejutan dalam dunia teknologi baharu. Direka untuk menggantikan rakan sebayanya, ia adalah contoh lambang robot haiwan yang bersedia untuk menggantikan model mereka. Spot, revolusi teknologi Spot dengan sempurna merangkumi kemajuan teknologi ini. Reka [&hellip;]"

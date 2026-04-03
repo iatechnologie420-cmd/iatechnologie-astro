@@ -1,5 +1,4 @@
 ---
-
 slug: "article-184"
 title: "チューリングテストを理解する"
 slug: ""

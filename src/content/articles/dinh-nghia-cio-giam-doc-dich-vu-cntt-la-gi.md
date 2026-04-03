@@ -1,5 +1,4 @@
 ---
-
 title: "Định nghĩa CIO: Giám đốc dịch vụ CNTT là gì"
 slug: "dinh-nghia-cio-giam-doc-dich-vu-cntt-la-gi"
 excerpt: "Vai trò, nhiệm vụ của Giám đốc Dịch vụ CNTT Vai trò thiết yếu của Giám đốc Dịch vụ CNTT CÁC Giám đốc Dịch vụ CNTT, còn được biết là CIO Hoặc Giám đốc hệ thống thông tin, giữ một vị trí chiến lược trong các công ty hiện đại. Trong thời đại số, nơi [&hellip;]"

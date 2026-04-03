@@ -1,5 +1,4 @@
 ---
-
 title: "Veiledning for å låse datamaskinen (PC, Mac, Windows, etc.)"
 slug: "veiledning-for-a-lase-datamaskinen-pc-mac-windows-etc"
 excerpt: "Behovet for å sikre datamaskinen din I den nåværende epoken, hvor aktiviteter blir digitale i et akselerert tempo, har sikkerheten til datamaskinen vår blitt en stor bekymring for enkeltpersoner så vel som bedrifter. Her er en detaljert veiledning om de gode refleksene du bør bruke for å effektivt beskytte datasystemet ditt. Datamaskiner er de sentrale [&hellip;]"

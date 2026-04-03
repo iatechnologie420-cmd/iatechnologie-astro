@@ -1,5 +1,4 @@
 ---
-
 title: "Ar trebui să investim în inteligența artificială acum?"
 slug: "ar-trebui-sa-investim-in-inteligenta-artificiala-acum"
 excerpt: "Înainte de a răspunde da sau nu dacă acum este momentul să investești în AI, haideți să revizuim istoria AI pentru a pune lucrurile în context și a lua o decizie atentă. Evoluția inteligenței artificiale IA convențională IA convențională, cunoscută și sub numele de „IA slabă”, a avut începuturile în anii 1950. La acea vreme, [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Przełomowa technologia zmieniająca bankowość?"
 slug: "przelomowa-technologia-zmieniajaca-bankowosc"
 excerpt: "Transformacja bankowości poprzez przełomową technologię głęboko zmieniła sektor finansowy w ostatnich latach. Postęp technologiczny umożliwił pojawienie się nowych innowacyjnych rozwiązań, które zmieniają sposób działania banków i interakcji z klientami. W tym artykule przyjrzymy się różnym wymiarom tej transformacji i jej wpływowi na branżę bankową. Cyfryzacja: era całkowicie cyfrowa Pierwszym wymiarem transformacji bankowości poprzez przełomową technologię [&hellip;]"

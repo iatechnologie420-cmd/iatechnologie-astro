@@ -1,5 +1,4 @@
 ---
-
 title: "Jak udostępnić ekran PS5 na Discordzie?"
 slug: "jak-udostepnic-ekran-ps5-na-discordzie"
 excerpt: "Krok 1: Przygotuj konfigurację Kiedy grasz w gry na PS5, miło jest podzielić się swoimi wrażeniami ze znajomymi na Discordzie. Aby to zrobić, możesz przesyłać strumieniowo ekran PS5 bezpośrednio do Discorda. W tym artykule wyjaśnimy, jak udostępnić ekran PS5 na Discordzie na dwie różne metody. Chodźmy ! Sprawdź swój sprzęt Zanim zaczniesz, upewnij się, że [&hellip;]"

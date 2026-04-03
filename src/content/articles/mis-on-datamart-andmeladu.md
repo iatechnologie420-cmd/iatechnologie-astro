@@ -1,5 +1,4 @@
 ---
-
 title: "Mis on Datamart / andmeladu?"
 slug: "mis-on-datamart-andmeladu"
 excerpt: "Sissejuhatus Datamarti kontseptsiooni THE datamart on andmeanalüüsi ja äriteabe (BI) maailmas oluline termin. See on andmelao alamjaotis, st spetsiaalne andmebaas, mis salvestab ettevõtte teabe segmenti. Kui andmeladu võib pidada tohutuks ettevõtte andmete raamatukoguks, siis andmeturgu võib vaadelda kui selle teegi konkreetset jaotist, mis on korraldatud konkreetse teema, näiteks müügi, turunduse või inimressursi, ümber. Selles artiklis [&hellip;]"

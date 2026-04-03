@@ -1,5 +1,4 @@
 ---
-
 title: "Google Deep Dream: guia completo para IA alucinante"
 slug: "google-deep-dream-guia-completo-para-ia-alucinante"
 excerpt: "Compreendendo o conceito do Google Deep Dream No fascinante mundo da inteligência artificial, surgiu uma inovação particularmente impressionante: o Sonho profundo do Google. Considerado como um IA alucinante, este conceito combina tecnologia avançada e imaginação sem limites para criar representações visuais de tirar o fôlego. Para compreender totalmente a essência desta tecnologia, exploraremos seus fundamentos, [&hellip;]"

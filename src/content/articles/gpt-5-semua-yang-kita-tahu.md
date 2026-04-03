@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: semua yang kita tahu"
 slug: "gpt-5-semua-yang-kita-tahu"
 excerpt: "Evolusi kecerdasan buatan: daripada GPT-3 kepada GPT-5 Perkembangan meteorik bagikecerdasan buatan generatif dalam landskap teknologi sedang didorong pada masa ini oleh fenomena itu SembangGPT. Bermula dengan GPT-3 kemudian, sementara menunggu GPT-4, versi perantaraan GPT-3.5 telah dibangunkan oleh OpenAI. Tetapi revolusi sebenar sedang berkembang dengan jangkaan masa depan GPT-5, dijanjikan untuk menjadi lebih pintar daripada apa-apa [&hellip;]"

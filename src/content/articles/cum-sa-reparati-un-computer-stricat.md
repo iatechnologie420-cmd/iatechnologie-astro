@@ -1,5 +1,4 @@
 ---
-
 title: "Cum să reparați un computer stricat?"
 slug: "cum-sa-reparati-un-computer-stricat"
 excerpt: "Diagnosticarea defecțiunii computerului dvs Întâmpinarea unei probleme cu computerul se poate transforma uneori într-o adevărată durere de cap. Calculatorul este un compus tehnologic complex, iar atunci când ceva nu funcționează așa cum era de așteptat, există adesea o multitudine de motive posibile. În acest articol, vă oferim un ghid practic pentru a vă ajuta să [&hellip;]"

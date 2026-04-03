@@ -1,5 +1,4 @@
 ---
-
 title: "Apakah perlombongan teks? takrifan"
 slug: "apakah-perlombongan-teks-takrifan"
 excerpt: "Pengenalan kepada perlombongan teks THE perlombongan teks, atau perlombongan teks dalam bahasa Perancis, ialah cabang sains data yang memfokuskan pada mengekstrak maklumat berguna daripada set data teks yang besar. Selalunya dikaitkan dengan pemprosesan bahasa semula jadi (NLP), perlombongan teks melibatkan satu set teknik dan alatan yang mampu memahami, menganalisis dan memproses bahasa manusia yang dikumpul [&hellip;]"

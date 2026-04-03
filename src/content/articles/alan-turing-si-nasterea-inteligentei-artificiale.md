@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing și nașterea inteligenței artificiale"
 slug: "alan-turing-si-nasterea-inteligentei-artificiale"
 excerpt: "Alan Turing: Părintele fondator al inteligenței artificiale Alan Turing: Părintele fondator al inteligenței artificialeIstoria inteligenței artificiale (AI) nu ar putea fi spusă complet fără a menționa numele lui Alan Turing, considerat de mulți părintele fondator al acestui domeniu care astăzi revoluționează atât de multe aspecte ale vieții noastre de zi cu zi. Contribuția lui depășește [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "MidJourney: allt sem þú þarft að vita um umdeilda gervigreind"
 slug: "midjourney-allt-sem-thu-tharft-ad-vita-um-umdeilda-gervigreind"
 excerpt: "Að skilja MidJourney MidJourney er öflug gervigreind sem umbreytir því hvernig við höfum samskipti við tækni. Notaðu þessa handbók sem auðlind til að skilja uppruna hennar og helstu virkni. Hvað er MidJourney? MidJourney er tæki gervigreind framúrstefnu sem er hannað til að bæta og auðvelda dagleg samskipti okkar við nýja tækni. Það er hluti af [&hellip;]"

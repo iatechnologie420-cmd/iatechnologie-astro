@@ -1,5 +1,4 @@
 ---
-
 title: "Công nghệ khoa học hành vi có thể cải thiện cuộc sống hàng ngày của chúng ta như thế nào?"
 slug: "cong-nghe-khoa-hoc-hanh-vi-co-the-cai-thien-cuoc-song-hang-ngay-cua-chung-ta-nhu-the-nao"
 excerpt: "Tác động của công nghệ trong khoa học hành vi Công nghệ đã ảnh hưởng đáng kể đến nhiều lĩnh vực, bao gồm cả khoa học hành vi. Nhờ những tiến bộ công nghệ, các nhà nghiên cứu có thể tiếp cận với các công cụ và phương pháp cho phép họ hiểu và phân [&hellip;]"

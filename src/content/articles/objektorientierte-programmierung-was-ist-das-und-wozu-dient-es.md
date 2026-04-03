@@ -1,5 +1,4 @@
 ---
-
 title: "Objektorientierte Programmierung: Was ist das und wozu dient es?"
 slug: "objektorientierte-programmierung-was-ist-das-und-wozu-dient-es"
 excerpt: "Grundlagen der objektorientierten Programmierung Dort Objekt orientierte Programmierung (OOP) ist ein Programmierparadigma, das „Objekte“ verwendet, um Computeranwendungen und -programme zu entwerfen. Diese Objekte stellen reale Entitäten dar und ermöglichen es Entwicklern, flexiblere, skalierbarere und wartbarere Software zu erstellen. In diesem Artikel werden wir die Grundkonzepte untersuchen, die die Grundlage von OOP bilden. Abstraktion L&#8217;Abstraktion ist [&hellip;]"

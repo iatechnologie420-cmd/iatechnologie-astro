@@ -1,5 +1,4 @@
 ---
-
 title: "Að velja fyrsta netþjóninn þinn: skref-fyrir-skref leiðbeiningar"
 slug: "ad-velja-fyrsta-netthjoninn-thinn-skref-fyrir-skref-leidbeiningar"
 excerpt: "Að skilja muninn á tegundum netþjóna Netþjónar gegna mikilvægu hlutverki í rekstri neta, hýsa vefsíður, geyma gögn og styðja tölvumál, meðal annarra verkefna. Þessar öflugu vélar geta komið í mismunandi gerðum, hver með sínum sérkennum og fullkominni notkun. Þessi grein miðar að því að rifja upp það helsta tegundir netþjóna og mismun þeirra til að [&hellip;]"

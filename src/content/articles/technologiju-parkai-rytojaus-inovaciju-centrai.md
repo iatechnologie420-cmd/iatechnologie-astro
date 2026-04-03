@@ -1,5 +1,4 @@
 ---
-
 title: "Technologijų parkai: rytojaus inovacijų centrai?"
 slug: "technologiju-parkai-rytojaus-inovaciju-centrai"
 excerpt: "Technologijų parkų atsiradimas Šios naujovių šventovės, dar žinomos kaip mokslo parkai arba technopoliai, turi turtingą istoriją ir nuolat tobulėja; jie įkūnija techninę ir ekonominę pažangą. Šiame straipsnyje siekiama ištirti šių technologijų centrų kilmę ir plėtrą, pabrėžiant jų, kaip inovacijų ir ekonomikos plėtros katalizatorių, svarbų vaidmenį. Technologijų parkų istorija Technologijų parkų istorija prasidėjo XX amžiaus antroje [&hellip;]"

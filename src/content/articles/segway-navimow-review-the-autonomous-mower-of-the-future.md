@@ -1,5 +1,4 @@
 ---
-
 title: "Segway Navimow review: The autonomous mower of the future?"
 slug: "segway-navimow-review-the-autonomous-mower-of-the-future"
 excerpt: "The advantages of the Segway Navimow autonomous mower Imagine being able to fully enjoy your garden without worrying about the chore of mowing the lawn. Thanks to the Segway Navimow autonomous mower, this tedious task is now a thing of the past. Packed with innovative features and advanced technology, this autonomous mower offers many benefits [&hellip;]"

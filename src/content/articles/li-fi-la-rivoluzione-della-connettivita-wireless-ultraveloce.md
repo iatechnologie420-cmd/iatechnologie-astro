@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: la rivoluzione della connettività wireless ultraveloce"
 slug: "li-fi-la-rivoluzione-della-connettivita-wireless-ultraveloce"
 excerpt: "La rivoluzione silenziosa del Li-Fi: la connettività leggera di domani Introduzione all&#8217;illuminazione high-tech È un fatto poco noto al grande pubblico, ma il Li-Fi (acronimo di Light Fidelity) è tra le tecnologie di trasmissione wireless ad oggi più promettenti, nonostante i suoi primi test risalgano al 2005. È stato sviluppato nell’ombra, lontano da le luci [&hellip;]"

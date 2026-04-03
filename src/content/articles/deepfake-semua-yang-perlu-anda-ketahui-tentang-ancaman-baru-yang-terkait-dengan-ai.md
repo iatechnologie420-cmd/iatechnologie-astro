@@ -1,5 +1,4 @@
 ---
-
 title: "Deepfake: semua yang perlu Anda ketahui tentang ancaman baru yang terkait dengan AI"
 slug: "deepfake-semua-yang-perlu-anda-ketahui-tentang-ancaman-baru-yang-terkait-dengan-ai"
 excerpt: "Definisi dan pengoperasian Deepfake Definisi Deepfake Syarat palsu dalam adalah singkatan dari kata bahasa Inggris &#8220;deep learning&#8221; dan &#8220;fake&#8221;. Teknologi ini didasarkan pada algoritmakecerdasan buatan dirancang khusus untuk membuat atau mengedit konten audiovisual, termasuk video dan trek audio. Seringkali hasilnya begitu meyakinkan sehingga bisa menipu mata dan telinga, sehingga tidak terdeteksi pada pandangan pertama oleh [&hellip;]"

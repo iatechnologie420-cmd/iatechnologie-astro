@@ -1,5 +1,4 @@
 ---
-
 title: "E-itibar: Bir kişinin imajını çevrimiçi ortamda yönetme"
 slug: "e-itibar-bir-kisinin-imajini-cevrimici-ortamda-yonetme"
 excerpt: "E-itibarı ve önemini anlamak Dijital teknolojilerin sürekli gelişmesi ve sosyal medyanın günlük hayatımıza giderek daha fazla entegre olmasıyla birlikte,e-itibar bireyler ve işletmeler için önemli bir faktör haline gelmiştir. İnternette bulunan ve bir markanın, bir şirketin veya bir kişinin kamuoyundaki algısını etkileyen tüm bilgileri oluşturur. Bene-itibar sosyal ağlar, bloglar, forumlar veya inceleme siteleri gibi farklı platformlardaki [&hellip;]"

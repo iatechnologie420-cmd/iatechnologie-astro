@@ -1,5 +1,4 @@
 ---
-
 title: "Definisi CIO: apa itu Direktur Layanan TI"
 slug: "definisi-cio-apa-itu-direktur-layanan-ti"
 excerpt: "Peran dan misi Direktur Layanan TI Peran penting Direktur Layanan TI ITU Direktur Layanan TI, juga dikenal sebagai CIO Atau Direktur sistem informasi, memegang tempat yang strategis dalam perusahaan modern. Di era digital, di mana informasi dan teknologi telah menjadi inti aktivitas profesional, memahami tanggung jawab dan misi seseorang sangatlah penting. Artikel ini memberikan gambaran [&hellip;]"

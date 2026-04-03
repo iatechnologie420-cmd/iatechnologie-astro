@@ -1,5 +1,4 @@
 ---
-
 title: "Robotik: Alles, was Sie über die Wissenschaft und Technik von Robotern wissen müssen"
 slug: "robotik-alles-was-sie-uber-die-wissenschaft-und-technik-von-robotern-wissen-mussen"
 excerpt: "Die Wissenschaft hinter den Maschinen verstehen Robotik ist ein faszinierender Technologiezweig, der verschiedene Wissensgebiete vereint, um Maschinen zu schaffen, die in der Lage sind, Aufgaben autonom oder teilautonom auszuführen. In diesem Artikel erforschen wir die Grundlagen der Robotik, verstehen die Grundprinzipien, die den Betrieb von Robotern ermöglichen, und betrachten die Auswirkungen dieser Technologien auf unser [&hellip;]"

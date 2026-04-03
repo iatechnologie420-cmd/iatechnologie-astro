@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: vse, kar vemo"
 slug: "gpt-5-vse-kar-vemo"
 excerpt: "Evolucija umetne inteligence: od GPT-3 do GPT-5 Meteorsko napredovanjegenerativna umetna inteligenca v tehnološkem okolju prav v tem trenutku poganja pojav ChatGPT. Začenši z GPT-3 je nato med čakanjem na GPT-4 razvil vmesno različico GPT-3.5 OpenAI. Toda prava revolucija se pripravlja s pričakovanjem prihodnjega GPT-5, ki naj bi bil inteligentnejši od vsega, kar je obstajalo do [&hellip;]"

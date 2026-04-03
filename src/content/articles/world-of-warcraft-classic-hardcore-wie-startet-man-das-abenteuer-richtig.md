@@ -1,5 +1,4 @@
 ---
-
 title: "World of Warcraft Classic Hardcore: Wie startet man das Abenteuer richtig?"
 slug: "world-of-warcraft-classic-hardcore-wie-startet-man-das-abenteuer-richtig"
 excerpt: "Verstehen Sie die Grundregeln des Hardcore-Modus Der Modus Hardcore In World of Warcraft-Klassiker verleiht dem Spiel eine fesselnde und anspruchsvolle Dimension. Für Abenteurer, die auf der Suche nach Nervenkitzel und Herausforderungen sind, hilft dieser Leitfaden dabei, in diesen aufregenden Spielmodus einzutauchen, indem er seine Grundregeln beherrscht. Was ist der Hardcore-Modus? Der Modus Hardcore In WoW [&hellip;]"

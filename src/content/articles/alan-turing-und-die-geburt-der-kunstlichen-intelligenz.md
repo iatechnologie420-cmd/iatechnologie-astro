@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing und die Geburt der künstlichen Intelligenz"
 slug: "alan-turing-und-die-geburt-der-kunstlichen-intelligenz"
 excerpt: "Alan Turing: Begründer der künstlichen Intelligenz Alan Turing: Begründer der künstlichen IntelligenzDie Geschichte der künstlichen Intelligenz (KI) könnte nicht vollständig erzählt werden, ohne den Namen Alan Turing zu erwähnen, der von vielen als Begründer dieses Bereichs angesehen wird, der heute so viele Aspekte unseres täglichen Lebens revolutioniert. Sein Beitrag geht weit über einfache Erfindungen hinaus; [&hellip;]"

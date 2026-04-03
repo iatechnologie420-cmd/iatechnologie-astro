@@ -1,5 +1,4 @@
 ---
-
 title: "Apakah pengekod auto? Panduan muktamad!"
 slug: "apakah-pengekod-auto-panduan-muktamad"
 excerpt: "Pengekod automatik, atau pengekod auto dalam bahasa Inggeris, meletakkan diri mereka sebagai alat yang berkuasa dalam bidang pembelajaran mesin dan kecerdasan buatan. Rangkaian saraf khas ini digunakan untuk pengurangan dimensi, pengesanan anomali, penyahnodahan data dan banyak lagi. Artikel ini menyediakan pengenalan kepada teknologi yang menarik ini, menonjolkan prinsip kerjanya, aplikasinya dan kepentingannya yang semakin meningkat [&hellip;]"

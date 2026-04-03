@@ -1,5 +1,4 @@
 ---
-
 title: "Sejauh manakah ChatGPT-4 lebih baik daripada ChatGPT-3?"
 slug: "sejauh-manakah-chatgpt-4-lebih-baik-daripada-chatgpt-3"
 excerpt: "Kebangkitan teknologikecerdasan buatan terus mengubah landskap digital dengan menawarkan alat yang semakin canggih. Dalam era baharu ini, versi berturut-turut SembangGPT daripada OpenAI menggambarkan kemajuan ini dengan sempurna. Walaupun ChatGPT-3 telah menandakan titik perubahan, lelaran terbarunya, ChatGPT-4, menolak sempadan apa yang pemprosesan bahasa semula jadi (NLP) boleh lakukan. Mari kita lihat penambahbaikan yang ketara dalam versi [&hellip;]"

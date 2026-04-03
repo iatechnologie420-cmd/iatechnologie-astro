@@ -1,5 +1,4 @@
 ---
-
 title: "Li-Fi: byltingin í ofurhröðum þráðlausum tengingum"
 slug: "li-fi-byltingin-i-ofurhrodum-thradlausum-tengingum"
 excerpt: "Hljóðlausa Li-Fi byltingin: létt tenging morgundagsins Kynning á hátæknilýsingu Það er staðreynd sem almenningur lítt þekkt, en Li-Fi (skammstöfun fyrir Light Fidelity) er meðal efnilegustu þráðlausu sendingatækninnar hingað til, þó fyrstu prófanir hennar nái aftur til ársins 2005. Það var þróað í skugganum, langt frá því sviðsljósið sem venjulega lýsir upp helstu tækniframförum. Geta þess [&hellip;]"

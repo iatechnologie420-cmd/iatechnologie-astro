@@ -1,5 +1,4 @@
 ---
-
 title: "Telegrama: viskas, ką reikia žinoti apie saugią pranešimų siuntimo programą"
 slug: "telegrama-viskas-ka-reikia-zinoti-apie-saugia-pranesimu-siuntimo-programa"
 excerpt: "Kas yra Telegrama? Telegrama yra momentinių pranešimų programa, orientuota į greitį ir saugumą. Dėl pažangių funkcijų derinio, intuityvios sąsajos ir įsipareigojimo apsaugoti vartotojų privatumą ji tapo viena iš populiariausių ryšio platformų pasaulyje. Nuo pat įkūrimo 2013 m. Telegrama Išsiskyrė tarp daugybės pranešimų siuntimo programų, pozicionuodamas save kaip alternatyvią komunikacijos priemonę, kuri gerbia ir vertina konfidencialumą [&hellip;]"

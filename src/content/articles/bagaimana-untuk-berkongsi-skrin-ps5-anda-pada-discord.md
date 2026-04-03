@@ -1,5 +1,4 @@
 ---
-
 title: "Bagaimana untuk berkongsi skrin PS5 anda pada Discord?"
 slug: "bagaimana-untuk-berkongsi-skrin-ps5-anda-pada-discord"
 excerpt: "Langkah 1: Sediakan konfigurasi anda Apabila bermain permainan pada PS5 anda, mungkin bagus untuk berkongsi pengalaman anda dengan rakan anda di Discord. Untuk melakukan ini, anda boleh menstrim skrin PS5 anda terus ke Discord. Dalam artikel ini, kami akan menerangkan cara berkongsi skrin PS5 pada Discord dalam dua kaedah berbeza. Mari pergi ! Semak perkakasan [&hellip;]"

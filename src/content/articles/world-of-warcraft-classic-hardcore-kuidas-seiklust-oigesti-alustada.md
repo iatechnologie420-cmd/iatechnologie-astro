@@ -1,5 +1,4 @@
 ---
-
 title: "World of Warcraft Classic Hardcore: kuidas seiklust õigesti alustada?"
 slug: "world-of-warcraft-classic-hardcore-kuidas-seiklust-oigesti-alustada"
 excerpt: "Saate aru Hardcore-režiimi põhireeglitest Režiim hardcore sisse World of Warcraft Classic lisab mängule kütkestava ja nõudliku mõõtme. Põnevust ja väljakutseid otsivatele seiklejatele aitab see juhend sellesse põnevasse mängurežiimi sukelduda, omandades selle põhireeglid. Mis on hardcore režiim? Režiim hardcore sisse WoW klassika on kogukonna enda seatud väljakutse, kus üks reegel on põhiline: teie tegelase surm toob [&hellip;]"

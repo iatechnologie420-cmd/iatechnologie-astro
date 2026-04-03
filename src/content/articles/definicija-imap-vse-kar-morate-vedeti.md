@@ -1,5 +1,4 @@
 ---
-
 title: "Definicija IMAP: vse, kar morate vedeti"
 slug: "definicija-imap-vse-kar-morate-vedeti"
 excerpt: "Uvod v IMAP Protokol za dostop do internetnih sporočil (IMAP) je komunikacijski standard, ki uporabnikom omogoča prejemanje in upravljanje svojih e-poštnih sporočil neposredno na e-poštnih strežnikih, kar se razlikuje od tradicionalnega pristopa, kjer se e-poštna sporočila prenesejo v lokalni e-poštni odjemalec. To prinaša številne praktične prednosti, zlasti v svetu, kjer do svojih e-poštnih sporočil dostopamo [&hellip;]"

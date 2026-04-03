@@ -1,5 +1,4 @@
 ---
-
 title: "Vse, kar morate vedeti o poklicu Quant ali kvantitativnega analitika"
 slug: "vse-kar-morate-vedeti-o-poklicu-quant-ali-kvantitativnega-analitika"
 excerpt: "Uvod v svet kvantitativnih financ Kvantitativne finance so specializirano področje financ, ki uporablja matematične modele, statistiko in računalniške tehnike za razumevanje in napovedovanje obnašanja finančnih trgov. V tem članku bomo raziskali to področje z razpravo o orodjih, ki jih uporablja, njegovih aplikacijah in veščinah, potrebnih za uspeh na tem področju. Kvantitativno financiranje je postalo bistveno [&hellip;]"

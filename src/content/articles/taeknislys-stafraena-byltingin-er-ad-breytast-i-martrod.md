@@ -1,5 +1,4 @@
 ---
-
 title: "Tæknislys: stafræna byltingin er að breytast í martröð?"
 slug: "taeknislys-stafraena-byltingin-er-ad-breytast-i-martrod"
 excerpt: "Áhrif stafrænu byltingarinnar á samfélag okkar Stafræna byltingin sem einkennir okkar tíma hefur truflað marga þætti samfélags okkar. Stafræn tækni og aðgangur að internetinu hafa umbreytt því hvernig við höfum samskipti, vinnum, neytum og jafnvel lifum. Þessi grein kannar afleiðingar þessarar byltingar á daglegt líf okkar og dregur fram þau mikilvægu vandamál sem við verðum [&hellip;]"

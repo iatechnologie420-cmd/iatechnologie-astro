@@ -1,5 +1,4 @@
 ---
-
 title: "Anti-RFID-Geldbörse: Warum Sie es nicht brauchen"
 slug: "anti-rfid-geldborse-warum-sie-es-nicht-brauchen"
 excerpt: "Verständnis der RFID-Technologie und ihrer Risiken Was ist RFID? Dort Radiofrequenz-Identifikation (RFID) ist eine Technologie, die die automatische Identifizierung von Objekten, Tieren oder Menschen mithilfe von Radiowellen ermöglicht. Es verwendet kleine elektronische Geräte namens Etiketten Oder RFID-Tags, die Daten speichern und diese Informationen an ein RFID-Lesegerät übermitteln. Tags können passiv (ohne eigene Stromquelle, vom Lesegerät [&hellip;]"

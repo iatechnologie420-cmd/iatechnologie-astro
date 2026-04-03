@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing in rojstvo umetne inteligence"
 slug: "alan-turing-in-rojstvo-umetne-inteligence"
 excerpt: "Alan Turing: Ustanovitelj umetne inteligence Alan Turing: Ustanovitelj umetne inteligenceZgodovine umetne inteligence (AI) ni mogoče v celoti opisati, ne da bi omenili ime Alana Turinga, ki ga mnogi smatrajo za ustanovitelja tega področja, ki danes revolucionira toliko vidikov našega vsakdanjega življenja. Njegov prispevek presega preprosto izumljanje; temelji na konceptih in teorijah, ki še vedno predstavljajo [&hellip;]"

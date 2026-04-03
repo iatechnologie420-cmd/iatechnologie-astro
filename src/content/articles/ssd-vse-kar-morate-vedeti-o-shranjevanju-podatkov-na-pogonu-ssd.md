@@ -1,5 +1,4 @@
 ---
-
 title: "SSD: vse, kar morate vedeti o shranjevanju podatkov na pogonu SSD"
 slug: "ssd-vse-kar-morate-vedeti-o-shranjevanju-podatkov-na-pogonu-ssd"
 excerpt: "Uvod v diske SSD in njihovo delovanje Pojav polprevodniških diskov, oz SSD (SSD v angleščini), pomeni pravo revolucijo na področju shranjevanja podatkov. Za razliko od tradicionalnih trdih diskov (HDD), ki uporabljajo magnetne plošče za shranjevanje informacij, trdi diski SSD zanašajte se na flash pomnilniške čipe brez gibljivih delov. Ta sprememba v tehnologiji ponuja pomembne prednosti [&hellip;]"

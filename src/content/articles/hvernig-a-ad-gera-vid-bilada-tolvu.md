@@ -1,5 +1,4 @@
 ---
-
 title: "Hvernig á að gera við bilaða tölvu?"
 slug: "hvernig-a-ad-gera-vid-bilada-tolvu"
 excerpt: "Greining á bilun tölvunnar þinnar Að lenda í tölvuvandamálum getur stundum breyst í alvöru höfuðverk. Tölvan er flókið tæknisamband og þegar eitthvað virkar ekki eins og ætlast er til eru oft margar mögulegar ástæður. Í þessari grein bjóðum við þér hagnýta leiðbeiningar til að hjálpa þér að bera kennsl á vandamálið og finna mögulegar lausnir [&hellip;]"

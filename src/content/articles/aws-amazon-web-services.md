@@ -1,5 +1,4 @@
 ---
-
 title: "AWS 클라우드 – Amazon Web Services 클라우드에 대해 알아야 할 모든 것"
 slug: "aws-amazon-web-services"
 excerpt: "Amazon Web Services(AWS) 소개: 클라우드 컴퓨팅의 혁명 2006년 창립 이후, 아마존 웹 서비스(AWS) 전례 없는 유연성, 규모 및 규모의 경제를 제공하는 클라우드 서비스 플랫폼을 제공하여 IT 환경을 근본적으로 변화시켰습니다. 이 소개는 다음의 작동 원리를 명확히 하는 것을 목표로 합니다.AWS 이 솔루션이 클라우드 컴퓨팅의 핵심 플레이어가 된 이유를 설명합니다. 아마존 웹 서비스(AWS)란 무엇입니까? AWS 세계에서 가장 [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "iCloud-priser: sammenligning av de forskjellige prisene og mulige planer"
 slug: "icloud-priser-sammenligning-av-de-forskjellige-prisene-og-mulige-planer"
 excerpt: "iCloud er en skylagringstjeneste som tilbys av eple som gjør at data som dokumenter, bilder og musikk kan lagres på eksterne servere for nedlasting til iOS-, Mac- eller Windows-enheter. Det gir også muligheten til å synkronisere data mellom forskjellige enheter og enkelt dele filer. I denne artikkelen vil vi utforske de forskjellige iCloud-lagringsalternativene og hvordan [&hellip;]"

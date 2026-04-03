@@ -1,5 +1,4 @@
 ---
-
 title: "Didelių duomenų žodynas: terminai, kuriuos reikia žinoti, kad suprastumėte"
 slug: "dideliu-duomenu-zodynas-terminai-kuriuos-reikia-zinoti-kad-suprastumete"
 excerpt: "Įvadas į didžiųjų duomenų pasaulį THE Dideli duomenys atstovauja augantį sektorių, kuris keičia įmonių ir organizacijų duomenų analizės ir panaudojimo būdus. Vis labiau skaitmeniniame pasaulyje duomenys generuojami didžiuliu greičiu ir įvairiais formatais. Didžiųjų duomenų era nebėra tik madingas žodis; tai realybė, kuri formuoja ištisas pramonės šakas ir iš naujo apibrėžia mokslo, dirbtinio intelekto ir technologijų [&hellip;]"

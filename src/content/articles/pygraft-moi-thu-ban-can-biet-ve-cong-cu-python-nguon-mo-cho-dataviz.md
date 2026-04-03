@@ -1,5 +1,4 @@
 ---
-
 title: "PyGraft: mọi thứ bạn cần biết về công cụ Python nguồn mở cho DataViz"
 slug: "pygraft-moi-thu-ban-can-biet-ve-cong-cu-python-nguon-mo-cho-dataviz"
 excerpt: "PyGraft: ngôi sao mới của DataViz nguồn mở PyGraft nổi lên như một công cụ đầy hứa hẹn, được thiết kế để cung cấp cho các chuyên gia và những người đam mê dữ liệu trải nghiệm phong phú và mạnh mẽ trong việc tạo trực quan hóa dữ liệu. Với khả năng xử lý [&hellip;]"

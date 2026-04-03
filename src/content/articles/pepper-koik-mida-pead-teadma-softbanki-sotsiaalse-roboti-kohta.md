@@ -1,5 +1,4 @@
 ---
-
 title: "Pepper: kõik, mida pead teadma SoftBanki sotsiaalse roboti kohta"
 slug: "pepper-koik-mida-pead-teadma-softbanki-sotsiaalse-roboti-kohta"
 excerpt: "Pipar: esitlus ja põhifunktsioonid Kokkuvõte Sotsiaalne robot Pipar on tehnoloogiline saavutus, mis on loodud inimestega suhtlemiseks sotsiaalses keskkonnas. Arvukate andurite ja täiustatud tehisintellektiga varustatud Pepper mõistab meie emotsioone ja reageerib neile, kohanedes samal ajal meie käitumisega. Selle artikli kaudu tutvustame nii Pepperi põhifunktsioone kui ka selle peamisi rakendusi erinevates tegevusvaldkondades. Mis on sotsiaalne robot Pepper? [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "IT/Informacijska tehnologija: kaj je informacijska tehnologija?"
 slug: "it-informacijska-tehnologija-kaj-je-informacijska-tehnologija"
 excerpt: "Razumevanje IT: Definicija in razvoj informacijskih tehnologij Kaj je to? Izraz IT, Za Informacijska tehnologija v angleščini označuje vse tehnologije, povezane z obdelavo in upravljanjem informacije in podatkov. To obsežno področje tako vključuje računalništvo, telekomunikacije, sistemi za upravljanje baz podatkov, informacijska varnost in še veliko več. IT je bistvenega pomena v sodobnem svetu: podjetjem omogoča [&hellip;]"

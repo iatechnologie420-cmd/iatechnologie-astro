@@ -1,5 +1,4 @@
 ---
-
 title: "Data Hub skilgreining: allt sem þú þarft að vita um gagnamiðstöðvar"
 slug: "data-hub-skilgreining-allt-sem-thu-tharft-ad-vita-um-gagnamidstodvar"
 excerpt: "Skildu grundvallaratriðin Á tímum stórra gagna og stafrænna umbreytinga verða fyrirtæki að geta nýtt gögn sín á áhrifaríkan hátt. THE Gagnamiðstöð, eða „gagnaver“, er byggingarfræðilegt svar við þessari vaxandi þörf fyrir gagnastjórnun, miðlun og greiningu. Í þessari grein munum við gera grein fyrir grundvallaratriðum gagnamiðstöðvar og aðalhlutverk þess í gagnastefnu fyrirtækja. Hvað er Data Hub? [&hellip;]"

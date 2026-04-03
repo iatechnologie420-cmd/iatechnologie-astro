@@ -1,5 +1,4 @@
 ---
-
 title: "Klaviatuuri erimärgid: populaarseimad otseteed (Windowsis ja Macis)"
 slug: "klaviatuuri-erimargid-populaarseimad-otseteed-windowsis-ja-macis"
 excerpt: "Erimärgid on sümbolid või märgid, mis ei vasta traditsioonilise klaviatuuri standardtähtedele ja numbritele. Nende erimärkide kasutamine on väga oluline erinevates kontekstides, nagu arvutiprogrammeerimine, teksti kirjutamine, paroolide turvalisus ning matemaatiliste või teaduslike andmete sisestamine. Programmeerimises, erimärgid on hädavajalikud. Need võimaldavad teil teha konkreetseid toiminguid, näiteks eraldada märgistringe või esitada keerulisi juhiseid. Näiteks kasutatakse koodiplokkide piiritlemiseks sulgusid [&hellip;]"

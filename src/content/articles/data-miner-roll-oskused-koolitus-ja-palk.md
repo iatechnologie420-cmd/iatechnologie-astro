@@ -1,5 +1,4 @@
 ---
-
 title: "Data Miner: roll, oskused, koolitus ja palk"
 slug: "data-miner-roll-oskused-koolitus-ja-palk"
 excerpt: "Andmekaevandaja roll ja ülesanded THE Data Miner, ehk andmeotsija, mängib andmete ja tehisintellekti maailmas üliolulist rolli. See on oluline varitegija, kes hõlbustab ettevõtetes otsuste tegemist ja strateegilist juhtimist. Me kirjeldame üksikasjalikult selle missioone ja selle rolli tähtsust. Mis on andmekaevur? THE Data Miner on andmespetsialist, kes vastutab suurte andmemahtude (Big Data) põhjal ülevaadete hankimise eest. [&hellip;]"

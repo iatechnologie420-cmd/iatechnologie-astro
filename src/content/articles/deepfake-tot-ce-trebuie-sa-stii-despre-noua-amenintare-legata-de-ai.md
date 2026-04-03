@@ -1,5 +1,4 @@
 ---
-
 title: "Deepfake: tot ce trebuie să știi despre noua amenințare legată de AI"
 slug: "deepfake-tot-ce-trebuie-sa-stii-despre-noua-amenintare-legata-de-ai"
 excerpt: "Definiția și funcționarea Deepfake Definiţia Deepfake Termenul deepfake este o contracție a cuvintelor engleze „deep learning” și „fake”. Această tehnologie se bazează pe algoritmiinteligenţă artificială special conceput pentru crearea sau editarea de conținut audiovizual, inclusiv videoclipuri și piese audio. Rezultatul este adesea atât de convingător încât poate înșela ochiul și urechea, făcându-l nedetectabil la prima [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Telegram: Güvenli mesajlaşma uygulaması hakkında bilmeniz gereken her şey"
 slug: "telegram-guvenli-mesajlasma-uygulamasi-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "Telegram nedir? Telgraf hız ve güvenliğe odaklanan bir anlık mesajlaşma uygulamasıdır. Gelişmiş özellikleri, sezgisel arayüzü ve kullanıcı gizliliğini korumaya olan bağlılığı sayesinde dünyanın en popüler iletişim platformlarından biri haline geldi. 2013&#8217;teki lansmanından bu yana, Telgraf kendisini gizliliğe ve ifade özgürlüğüne saygı duyan ve değer veren alternatif bir iletişim aracı olarak konumlandırarak çok sayıda mesajlaşma uygulaması [&hellip;]"

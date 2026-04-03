@@ -1,5 +1,4 @@
 ---
-
 title: "Avastage andmete ja tehisintellekti elukutsed"
 slug: "avastage-andmete-ja-tehisintellekti-elukutsed"
 excerpt: "Sissejuhatus andmete ja tehisintellekti kutsealadesse Andmete ja tehisintellekti (AI) tõus on toonud kaasa uuenduslike ja mitmekesiste elukutsete rohkuse. Digipöörde keskmes on need spetsialiseerumisalad muutunud oluliseks ettevõtetele, kes soovivad ära kasutada andmete ja intelligentse automatiseerimise potentsiaali. Andmeametite mõistmine Data Science, tõeline ristumiskoht statistika, andmeanalüüsi ja IT vahel, pakub erinevaid elukutseid, mille missiooniks on koguda keerukatest andmetest [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Apakah ruang kerja digital / kerja tambahan?"
 slug: "apakah-ruang-kerja-digital-kerja-tambahan"
 excerpt: "Apakah Ruang Kerja Digital? Istilah Ruang Kerja Digital, Atau ruang kerja digital, mentakrifkan persekitaran kerja yang tidak lagi mempunyai halangan fizikal berkat teknologi digital. Ia menghimpunkan satu set alat dan teknologi yang membolehkan pengguna berhubung, bekerjasama dan menjalankan tugas profesional mereka tanpa mengira lokasi fizikal mereka. Artikel ini akan membincangkan tonggak penting Ruang Kerja Digital [&hellip;]"

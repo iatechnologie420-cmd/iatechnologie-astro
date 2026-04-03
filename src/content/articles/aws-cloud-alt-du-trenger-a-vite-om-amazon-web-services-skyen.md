@@ -1,5 +1,4 @@
 ---
-
 title: "AWS Cloud – Alt du trenger å vite om Amazon Web Services-skyen"
 slug: "aws-cloud-alt-du-trenger-a-vite-om-amazon-web-services-skyen"
 excerpt: "Introduksjon til Amazon Web Services (AWS): en revolusjon innen cloud computing Siden opprettelsen i 2006, Amazon Web Services (AWS) har radikalt endret IT-landskapet ved å levere en skytjenesteplattform som gir enestående fleksibilitet, skala og stordriftsfordeler. Denne introduksjonen tar sikte på å klargjøre driftsprinsippene forAWS og for å forklare hvorfor denne løsningen har blitt en nøkkelaktør [&hellip;]"

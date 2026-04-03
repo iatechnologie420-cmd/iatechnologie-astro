@@ -1,5 +1,4 @@
 ---
-
 title: "Pepper: todo lo que necesitas saber sobre el robot social de SoftBank"
 slug: "pepper-todo-lo-que-necesitas-saber-sobre-el-robot-social-de-softbank"
 excerpt: "Pimienta: Presentación y funciones básicas Resumen El robot social Pimienta es una hazaña tecnológica diseñada para interactuar con humanos en un entorno social. Equipado con numerosos sensores e inteligencia artificial avanzada, Pepper comprende y reacciona a nuestras emociones mientras se adapta a nuestros comportamientos. A través de este artículo presentaremos las funciones básicas de Pepper [&hellip;]"

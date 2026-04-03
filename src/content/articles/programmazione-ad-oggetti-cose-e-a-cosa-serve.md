@@ -1,5 +1,4 @@
 ---
-
 title: "Programmazione ad oggetti: cos&#8217;è e a cosa serve?"
 slug: "programmazione-ad-oggetti-cose-e-a-cosa-serve"
 excerpt: "Fondamenti di programmazione orientata agli oggetti Là Programmazione orientata agli oggetti (OOP) è un paradigma di programmazione che utilizza &#8220;oggetti&#8221; per progettare applicazioni e programmi per computer. Questi oggetti rappresentano entità del mondo reale e consentono agli sviluppatori di creare software più flessibile, scalabile e manutenibile. In questo articolo esploreremo i concetti di base che [&hellip;]"

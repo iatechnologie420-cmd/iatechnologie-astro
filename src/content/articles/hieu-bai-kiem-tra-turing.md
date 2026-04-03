@@ -1,5 +1,4 @@
 ---
-
 title: "Hiểu bài kiểm tra Turing"
 slug: "hieu-bai-kiem-tra-turing"
 excerpt: "Nguồn gốc và nguyên lý của bài kiểm tra Turing Trong thế giới trí tuệ nhân tạo (AI) và điện toán, bài kiểm tra Turing chiếm một vị trí nổi bật. Đây là một phương pháp chuẩn được thiết kế để đánh giá khả năng của máy bắt chước trí thông minh của con người. [&hellip;]"

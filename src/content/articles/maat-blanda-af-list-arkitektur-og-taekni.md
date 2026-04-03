@@ -1,5 +1,4 @@
 ---
-
 title: "MAAT: blanda af list, arkitektúr og tækni?"
 slug: "maat-blanda-af-list-arkitektur-og-taekni"
 excerpt: "Saga MAAT: blanda af list og arkitektúr MAAT, skammstöfun fyrir Museum of Art, Architecture and Technologies, er táknrænn staður sem ber vitni um samruna listar, arkitektúrs og tækni. Staðsett á bökkum Tagus í Lissabon, felur það fullkomlega í sér hið samræmda hjónaband milli fagurfræði og nýsköpunar. Í þessari grein förum við yfir heillandi sögu MAAT [&hellip;]"

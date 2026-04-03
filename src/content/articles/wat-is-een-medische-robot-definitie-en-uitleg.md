@@ -1,5 +1,4 @@
 ---
-
 title: "Wat is een medische robot? definitie en uitleg"
 slug: "wat-is-een-medische-robot-definitie-en-uitleg"
 excerpt: "Definitie en typologie van medische robots De komst van robotica in de gezondheidszorg heeft enorme mogelijkheden geopend voor het verbeteren van de medische zorg en chirurgie. Deze technologieën, bekend als medische robots, zijn mechanische apparaten of computersystemen die complexe handelingen met hoge precisie kunnen uitvoeren, vaak onder toezicht of directe controle van gekwalificeerd medisch personeel. [&hellip;]"

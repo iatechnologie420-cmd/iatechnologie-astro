@@ -1,5 +1,4 @@
 ---
-
 title: "Deepfake: vse, kar morate vedeti o novi grožnji, povezani z AI"
 slug: "deepfake-vse-kar-morate-vedeti-o-novi-groznji-povezani-z-ai"
 excerpt: "Opredelitev in delovanje Deepfake Opredelitev Deepfake Izraz deepfake je skrajšanje angleških besed &#8220;deep learning&#8221; in &#8220;fake&#8221;. Ta tehnologija temelji na algoritmihumetna inteligenca posebej zasnovan za ustvarjanje ali urejanje avdiovizualnih vsebin, vključno z videoposnetki in zvočnimi posnetki. Rezultat je pogosto tako prepričljiv, da lahko zavede oko in uho, zaradi česar ga večina ljudi na prvi pogled [&hellip;]"

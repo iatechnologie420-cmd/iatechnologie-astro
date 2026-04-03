@@ -1,5 +1,4 @@
 ---
-
 title: "World of Warcraft Classic Hardcore: làm thế nào để bắt đầu cuộc phiêu lưu phải không?"
 slug: "world-of-warcraft-classic-hardcore-lam-the-nao-de-bat-dau-cuoc-phieu-luu-phai-khong"
 excerpt: "Hiểu các quy tắc cơ bản của chế độ Hardcore Chế độ khó tính TRONG Thế giới Warcraft cổ điển thêm chiều hướng hấp dẫn và đòi hỏi khắt khe cho trò chơi. Đối với những nhà thám hiểm đang tìm kiếm cảm giác mạnh và thử thách, hướng dẫn này sẽ giúp bạn đi [&hellip;]"

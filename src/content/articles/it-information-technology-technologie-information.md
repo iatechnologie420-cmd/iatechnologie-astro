@@ -1,5 +1,4 @@
 ---
-
 title: "IT / Information Technology : c&#8217;est quoi les technologies de l’information?"
 slug: "it-information-technology-technologie-information"
 excerpt: "Comprendre l&#8217;IT : Définition et évolution des technologies de l&#8217;information Qu&#8217;est-ce que l&#8217;IT ? Le terme IT, pour Information Technology en anglais, désigne l&#8217;ensemble des technologies liées au traitement et à la gestion de l&#8217;information et des données. Ce vaste domaine comprend ainsi l&#8217;informatique, les télécommunications, les systèmes de gestion de bases de données, la [&hellip;]"

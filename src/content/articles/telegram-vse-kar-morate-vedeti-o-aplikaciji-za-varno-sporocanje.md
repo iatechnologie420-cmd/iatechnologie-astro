@@ -1,5 +1,4 @@
 ---
-
 title: "Telegram: vse, kar morate vedeti o aplikaciji za varno sporočanje"
 slug: "telegram-vse-kar-morate-vedeti-o-aplikaciji-za-varno-sporocanje"
 excerpt: "Kaj je Telegram? Telegram je aplikacija za neposredno sporočanje, osredotočena na hitrost in varnost. Zaradi svoje kombinacije naprednih funkcij, intuitivnega vmesnika in predanosti varovanju zasebnosti uporabnikov je postala ena najbolj priljubljenih komunikacijskih platform na svetu. Od lansiranja leta 2013, Telegram je izstopal med množico aplikacij za sporočanje in se postavil kot alternativno komunikacijsko orodje, ki [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Pepper: semua yang anda perlu tahu tentang robot sosial SoftBank"
 slug: "pepper-semua-yang-anda-perlu-tahu-tentang-robot-sosial-softbank"
 excerpt: "Lada: Persembahan dan fungsi asas Ringkasan Robot sosial Lada ialah pencapaian teknologi yang direka untuk berinteraksi dengan manusia dalam persekitaran sosial. Dilengkapi dengan pelbagai penderia dan AI lanjutan, Pepper memahami dan bertindak balas terhadap emosi kita sambil menyesuaikan diri dengan tingkah laku kita. Melalui artikel ini, kami akan membentangkan fungsi asas Lada serta aplikasi utamanya [&hellip;]"

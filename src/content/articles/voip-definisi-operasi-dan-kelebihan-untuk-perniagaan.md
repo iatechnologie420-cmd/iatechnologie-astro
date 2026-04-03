@@ -1,5 +1,4 @@
 ---
-
 title: "VOIP: Definisi, operasi dan kelebihan untuk perniagaan"
 slug: "voip-definisi-operasi-dan-kelebihan-untuk-perniagaan"
 excerpt: "Definisi VOIP dan prinsip asas Teknologi daripada Suara melalui Protokol Internet (VoIP) mewakili evolusi besar dalam cara kita berkomunikasi. Lama dikuasai oleh talian telefon tradisional, telefon sedang mengalami transformasi digital yang membolehkan suara dihantar serta data melalui internet. Jadi mari kita lihat dengan lebih dekat apakah itu VoIP dan apakah prinsip asasnya. Definisi VoIP di [&hellip;]"

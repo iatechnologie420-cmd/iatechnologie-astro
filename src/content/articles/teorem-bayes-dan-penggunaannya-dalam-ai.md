@@ -1,5 +1,4 @@
 ---
-
 title: "Teorem Bayes dan penggunaannya dalam AI"
 slug: "teorem-bayes-dan-penggunaannya-dalam-ai"
 excerpt: "Pengenalan kepada teorem Bayes THE Teorem Bayes ialah formula asas dalam kebarangkalian dan statistik yang menerangkan pengemaskinian kepercayaan kita dengan kehadiran maklumat baharu. Dinamakan sebagai penghormatan kepada Reverend Thomas Bayes, teorem ini memainkan peranan penting dalam banyak bidang dari pembelajaran mesin kepada membuat keputusan di bawah ketidakpastian. Intipati teorem Bayes Hati daripada Teorem Bayes ialah [&hellip;]"

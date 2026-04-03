@@ -1,5 +1,4 @@
 ---
-
 title: "SSD: everything you need to know about Solid-State Drive data storage"
 slug: "ssd-everything-you-need-to-know-about-solid-state-drive-data-storage"
 excerpt: "Introduction to SSDs and How They Work The advent of solid state disks, or SSD (Solid State Drive in English), marked a real revolution in the field of data storage. Unlike traditional hard disk drives (HDDs) which use magnetic platters to store information, HDDs SSD rely on flash memory chips with no moving parts. This [&hellip;]"

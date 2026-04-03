@@ -1,5 +1,4 @@
 ---
-
 title: "Alan Turing i narodziny sztucznej inteligencji"
 slug: "alan-turing-i-narodziny-sztucznej-inteligencji"
 excerpt: "Alan Turing: Ojciec założyciel sztucznej inteligencji Alan Turing: Ojciec założyciel sztucznej inteligencjiNie można w całości opowiedzieć historii sztucznej inteligencji (AI) bez wspomnienia Alana Turinga, przez wielu uważanego za ojca założyciela tej dziedziny, która dziś rewolucjonizuje wiele aspektów naszego codziennego życia. Jego wkład wykracza daleko poza zwykły wynalazek; opiera się na koncepcjach i teoriach, które nadal [&hellip;]"

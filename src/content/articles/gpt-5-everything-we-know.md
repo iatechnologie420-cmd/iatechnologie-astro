@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: everything we know"
 slug: "gpt-5-everything-we-know"
 excerpt: "The evolution of artificial intelligence: from GPT-3 to GPT-5 The meteoric progression ofgenerative artificial intelligence in the technological landscape is being driven at this very moment by the phenomenon ChatGPT. Starting with GPT-3 then, while waiting for GPT-4, an intermediate version GPT-3.5 was developed by OpenAI. But the real revolution is brewing with the anticipation [&hellip;]"

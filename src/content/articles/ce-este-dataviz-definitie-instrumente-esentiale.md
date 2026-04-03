@@ -1,5 +1,4 @@
 ---
-
 title: "Ce este dataviz? Definiție, instrumente esențiale"
 slug: "ce-este-dataviz-definitie-instrumente-esentiale"
 excerpt: "Înțelegerea Dataviz: vizualizarea datelor Astăzi, odată cu cantitatea imensă de date generate în fiecare secundă, devine esențial să știi să prezinți aceste informații într-un mod clar și eficient. Aici este locul vizualizarea datelor, Or dataviz, un domeniu disciplinar care combină designul, analiza narativă și statistică pentru a transforma date complexe în reprezentări vizuale intuitive. Obiectivele [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "AlphaGo vs Leedsol: super tehisintellekt võidab Go meistrit"
 slug: "alphago-vs-leedsol-super-tehisintellekt-voidab-go-meistrit"
 excerpt: "Ajalooline kokkupõrge: tehisintellekt esitab väljakutse Go meistrile Go maailmas domineerisid ajalooliselt inimmeistrid, kuni toimus märkimisväärne sündmus, mis raputas väljakujunenud paradigmasid. Tehisintellekt, see inimeste leidlikkuse poolt välja töötatud tööriist, võttis vastu väljakutse lahendada üks ajaloo keerukamaid strateegiamänge. See ajalooline kokkupõrge superarvuti loogiliste ahelate ja Go maailmameistri strateegilise meele vahel on pöördepunkt tehisintellekti kognitiivsete võimete tunnustamisel. Uue [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Caractères spéciaux clavier : Top des raccourcis à connaître (Sur Windows et Mac)"
 slug: "caracteres-speciaux-clavier-windows-mac"
 excerpt: "Les caractères spéciaux sont des symboles ou des signes qui ne correspondent pas aux lettres et chiffres standards d’un clavier classique. L&#8217;utilisation de ces caractères spéciaux revêt d&#8217;une grande importance dans divers contextes tels que la programmation informatique, la rédaction de textes, la sécurité des mots de passe, et la saisie de données mathématiques ou [&hellip;]"

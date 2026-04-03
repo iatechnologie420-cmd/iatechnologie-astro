@@ -1,5 +1,4 @@
 ---
-
 title: "Descubre las profesiones de Datos e Inteligencia Artificial"
 slug: "descubre-las-profesiones-de-datos-e-inteligencia-artificial"
 excerpt: "Introducción a las profesiones de Datos e Inteligencia Artificial El auge de los datos y la inteligencia artificial (IA) ha dado lugar a una gran cantidad de profesiones innovadoras y variadas. En el corazón de la revolución digital, estas especializaciones se han vuelto esenciales para las empresas que buscan aprovechar el potencial que ofrecen los [&hellip;]"

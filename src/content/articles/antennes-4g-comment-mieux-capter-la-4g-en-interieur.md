@@ -1,5 +1,4 @@
 ---
-
 title: "Antennes 4G : Comment mieux capter la 4G en intérieur ?"
 slug: "antennes-4g-comment-mieux-capter-la-4g-en-interieur"
 excerpt: "Comprendre le fonctionnement et les limites de la 4G Qu&#8217;est-ce que la 4G? La technologie 4G, également connue sous le nom de 4ème génération de standards pour la télécommunication mobile, est la suite de la 3G et précède la toute récente 5G. Elle offre une connexion à Internet mobile à haut débit, permettant ainsi de [&hellip;]"

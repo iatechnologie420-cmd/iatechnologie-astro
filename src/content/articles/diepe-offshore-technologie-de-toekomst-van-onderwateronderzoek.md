@@ -1,5 +1,4 @@
 ---
-
 title: "Diepe offshore-technologie: de toekomst van onderwateronderzoek?"
 slug: "diepe-offshore-technologie-de-toekomst-van-onderwateronderzoek"
 excerpt: "Wat is deep offshore-technologie? Diepe offshore-technologie, ook wel diepwaterboortechnologie genoemd, is een discipline die tot doel heeft de hulpbronnen in de zeebodem te verkennen en exploiteren, op diepten variërend van 500 tot enkele duizenden meters. Deze technologie opent nieuwe mogelijkheden voor de exploratie en exploitatie van offshore olie-, gas- en minerale reserves. De uitdagingen van [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Põhiandmete haldur: roll, oskused, koolitus ja palk"
 slug: "pohiandmete-haldur-roll-oskused-koolitus-ja-palk"
 excerpt: "Põhiandmete halduri võtmeroll andmehalduses Maailmas, kus andmetest on saanud ettevõtete jaoks suur strateegiline vara, andmete haldamine teabe kvaliteedi, turvalisuse ja tõhususe tagamiseks. Selle valitsemise keskmes on Põhiandmete haldur (MDM) mängib otsustavat rolli. Uurime koos selle strateegilise positsiooniga kaasnevaid kohustusi ja mõjusid. Mis on põhiandmete haldamine? Enne põhiandmete halduri rollile keskendumist on oluline mõista, mida Põhiandmete [&hellip;]"

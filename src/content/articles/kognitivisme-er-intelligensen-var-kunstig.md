@@ -1,5 +1,4 @@
 ---
-
 title: "Kognitivisme: Er intelligensen vår kunstig?"
 slug: "kognitivisme-er-intelligensen-var-kunstig"
 excerpt: "Opprinnelsen til kognitivisme og menneskelig intelligens Opprinnelsen til kognitivisme DE kognitivisme er en tilnærming innen psykologi som fokuserer på tankens indre mekanismer, og behandler menneskesinnet som et informasjonsbehandlingssystem. Opprinnelsen til denne tilnærmingen går hovedsakelig tilbake til 1950- og 1960-tallet, som en reaksjon på behaviorismen, som var veldig dominerende på den tiden og som utelukkende fokuserte [&hellip;]"

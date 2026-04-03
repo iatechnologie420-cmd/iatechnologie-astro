@@ -1,5 +1,4 @@
 ---
-
 title: "Apa itu autoencoder? Panduan utama!"
 slug: "apa-itu-autoencoder-panduan-utama"
 excerpt: "Autoencoder, atau autoencoder dalam bahasa Inggris, memposisikan diri mereka sebagai alat yang ampuh di bidang pembelajaran mesin dan kecerdasan buatan. Jaringan saraf khusus ini digunakan untuk reduksi dimensi, deteksi anomali, penolakan data, dan banyak lagi. Artikel ini memberikan pengenalan tentang teknologi menakjubkan ini, menyoroti prinsip kerjanya, penerapannya, dan semakin pentingnya teknologi ini dalam penelitian dan [&hellip;]"

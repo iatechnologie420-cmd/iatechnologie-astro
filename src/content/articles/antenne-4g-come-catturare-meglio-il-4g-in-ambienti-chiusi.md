@@ -1,5 +1,4 @@
 ---
-
 title: "Antenne 4G: come catturare meglio il 4G in ambienti chiusi?"
 slug: "antenne-4g-come-catturare-meglio-il-4g-in-ambienti-chiusi"
 excerpt: "Comprendere come funziona il 4G e i suoi limiti Cos&#8217;è il 4G? Tecnologia 4G, conosciuto anche come 4a generazione degli standard per le telecomunicazioni mobili, è la continuazione dell&#8217; 3G e precede il recentissimo 5G. Offre una connessione Internet mobile ad alta velocità, consentendoti di beneficiare di un migliore trasferimento dei dati. Ciò include lo [&hellip;]"

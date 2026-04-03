@@ -1,5 +1,4 @@
 ---
-
 title: "Wat is dataviz? Definitie, essentiële hulpmiddelen"
 slug: "wat-is-dataviz-definitie-essentiele-hulpmiddelen"
 excerpt: "Dataviz begrijpen: datavisualisatie Tegenwoordig wordt het, met de enorme hoeveelheid gegevens die elke seconde wordt gegenereerd, essentieel om te weten hoe u deze informatie op een duidelijke en effectieve manier kunt presenteren. Dit is waar de data visualisatie, Of dataviz, een disciplinair veld dat ontwerp, narratieve en statistische analyse combineert om complexe gegevens om te [&hellip;]"

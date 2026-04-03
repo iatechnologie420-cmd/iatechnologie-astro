@@ -1,5 +1,4 @@
 ---
-
 title: "Pengurus Data Induk: peranan, kemahiran, latihan dan gaji"
 slug: "pengurus-data-induk-peranan-kemahiran-latihan-dan-gaji"
 excerpt: "Peranan utama Pengurus Data Induk dalam tadbir urus data Dalam dunia di mana data telah menjadi aset strategik utama untuk perniagaan, tadbir urus data adalah penting untuk memastikan kualiti, keselamatan dan keberkesanan maklumat. Di tengah-tengah tadbir urus ini, Pengurus Data Induk (MDM) memainkan peranan yang penting. Mari kita terokai bersama-sama tanggungjawab dan kesan kedudukan strategik [&hellip;]"

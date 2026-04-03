@@ -1,5 +1,4 @@
 ---
-
 title: "AWS Cloud – Semua yang perlu Anda ketahui tentang cloud Amazon Web Services"
 slug: "aws-cloud-semua-yang-perlu-anda-ketahui-tentang-cloud-amazon-web-services"
 excerpt: "Pengantar Amazon Web Services (AWS): sebuah revolusi dalam komputasi awan Sejak didirikan pada tahun 2006, Layanan Web Amazon (AWS) telah mengubah lanskap TI secara radikal dengan menghadirkan platform layanan cloud yang memberikan fleksibilitas, skala, dan skala ekonomi yang belum pernah terjadi sebelumnya. Pengenalan ini bertujuan untuk memperjelas prinsip pengoperasianAWS dan menjelaskan mengapa solusi ini menjadi [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: viskas, ką žinome"
 slug: "gpt-5-viskas-ka-zinome"
 excerpt: "Dirbtinio intelekto evoliucija: nuo GPT-3 iki GPT-5 Meteorinė progresijageneratyvusis dirbtinis intelektas technologinį kraštovaizdį šiuo metu lemia šis reiškinys ChatGPT. Pradedant nuo GPT-3, tada, laukiant GPT-4, buvo sukurta tarpinė GPT-3.5 versija. OpenAI. Tačiau tikroji revoliucija bręsta laukiant būsimo GPT-5, kuris, žadėtas, bus protingesnis už viską, kas egzistavo iki šiol. ChatGPT: pažangus pokalbių agentas ChatGPT, šiandien tai [&hellip;]"

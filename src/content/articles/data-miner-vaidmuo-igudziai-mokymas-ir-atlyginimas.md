@@ -1,5 +1,4 @@
 ---
-
 title: "Data Miner: vaidmuo, įgūdžiai, mokymas ir atlyginimas"
 slug: "data-miner-vaidmuo-igudziai-mokymas-ir-atlyginimas"
 excerpt: "Duomenų gavėjo vaidmuo ir misijos THE Data Miner, arba duomenų žvalgytojas, atlieka itin svarbų vaidmenį duomenų ir dirbtinio intelekto pasaulyje. Tai esminis šešėlinis veikėjas, palengvinantis sprendimų priėmimą ir strateginį valdymą įmonėse. Išsiaiškinsime jos misijas ir vaidmens svarbą. Kas yra duomenų gavėjas? THE Data Miner yra duomenų specialistas, atsakingas už įžvalgų gavimą iš didelių duomenų (Big [&hellip;]"

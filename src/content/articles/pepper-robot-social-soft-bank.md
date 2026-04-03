@@ -1,5 +1,4 @@
 ---
-
 title: "Pepper : tout savoir sur le robot social de SoftBank"
 slug: "pepper-robot-social-soft-bank"
 excerpt: "Pepper : Présentation et fonctions de base Résumé Le robot social Pepper est une prouesse technologique façonnée pour interagir avec les humains dans un milieu social. Doté de nombreux capteurs et d&#8217;une IA avancée, Pepper comprend et réagit à nos émotions tout en s&#8217;adaptant à nos comportements. A travers cet article, nous vous présenterons les [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "Accordeur d&#8217;instruments Google : révolution pour les musiciens ?"
 slug: "accordeur-instruments-google-musicien"
 excerpt: "L&#8217;importance de l&#8217;accordage des instruments de musique L&#8217;accordage est l&#8217;un des aspects les plus importants lorsqu&#8217;il s&#8217;agit de jouer d&#8217;un instrument de musique. Que vous soyez un débutant ou un musicien expérimenté, vous devez accorder régulièrement votre instrument pour obtenir le meilleur son possible. Dans cet article, nous allons explorer l&#8217;importance de l&#8217;accordage des instruments [&hellip;]"

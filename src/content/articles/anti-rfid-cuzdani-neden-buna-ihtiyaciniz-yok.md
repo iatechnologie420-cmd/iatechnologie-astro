@@ -1,5 +1,4 @@
 ---
-
 title: "Anti-RFID cüzdanı: Neden buna ihtiyacınız yok?"
 slug: "anti-rfid-cuzdani-neden-buna-ihtiyaciniz-yok"
 excerpt: "RFID teknolojisini ve risklerini anlamak RFID nedir? Orada Radyo frekansı tanımlama (RFID) radyo dalgalarını kullanarak nesnelerin, hayvanların veya insanların otomatik olarak tanımlanmasını sağlayan bir teknolojidir. adı verilen küçük elektronik cihazları kullanır. etiketler Veya RFID etiketleriVerileri depolayan ve bu bilgileri bir RFID okuyucuya ileten. Etiketler pasif (kendi güç kaynağı olmadan, okuyucu tarafından etkinleştirilir), aktif (yerleşik bir [&hellip;]"

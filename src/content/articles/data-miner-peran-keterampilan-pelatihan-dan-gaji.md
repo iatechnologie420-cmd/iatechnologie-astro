@@ -1,5 +1,4 @@
 ---
-
 title: "Data Miner: peran, keterampilan, pelatihan, dan gaji"
 slug: "data-miner-peran-keterampilan-pelatihan-dan-gaji"
 excerpt: "Peran dan misi penambang data ITU Penambang Data, atau pencari data, memainkan peran penting dalam dunia data dan kecerdasan buatan. Ini adalah aktor bayangan penting yang memfasilitasi pengambilan keputusan dan manajemen strategis dalam perusahaan. Kami akan merinci misinya dan pentingnya perannya. Apa itu penambang data? ITU Penambang Data adalah seorang profesional data yang bertanggung jawab [&hellip;]"

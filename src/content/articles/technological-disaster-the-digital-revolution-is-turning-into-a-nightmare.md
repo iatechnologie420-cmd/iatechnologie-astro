@@ -1,5 +1,4 @@
 ---
-
 title: "Technological disaster: the digital revolution is turning into a nightmare?"
 slug: "technological-disaster-the-digital-revolution-is-turning-into-a-nightmare"
 excerpt: "The impact of the digital revolution on our society The digital revolution that characterizes our time has disrupted many aspects of our society. Digital technologies and access to the internet have transformed the way we communicate, work, consume and even live. This article explores the consequences of this revolution on our daily lives and highlights [&hellip;]"

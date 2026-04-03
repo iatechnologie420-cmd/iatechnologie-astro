@@ -1,5 +1,4 @@
 ---
-
 title: "The best schools on the web: how to make the right choice"
 slug: "the-best-schools-on-the-web-how-to-make-the-right-choice"
 excerpt: "The world of education is constantly changing, especially with the advent of new technologies. Today, many training courses are accessible online, offering flexibility and adaptability to each learner. We will guide you through the range of options available, to make an informed choice of web school which meets your aspirations as a priority. Understanding the [&hellip;]"

@@ -1,5 +1,4 @@
 ---
-
 title: "GPT-5: allt sem við vitum"
 slug: "gpt-5-allt-sem-vid-vitum"
 excerpt: "Þróun gervigreindar: frá GPT-3 til GPT-5 Loftsteinaframvindan afgenerative gervigreind í tæknilandslaginu er einmitt á þessari stundu knúin áfram af fyrirbærinu SpjallGPT. Byrjað var á GPT-3, á meðan beðið var eftir GPT-4, var milliútgáfa GPT-3.5 þróuð af OpenAI. En hin raunverulega bylting er í uppsiglingu með eftirvæntingu framtíðar GPT-5, sem lofað er að vera gáfulegri en [&hellip;]"
