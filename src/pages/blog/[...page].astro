@@ -57,14 +57,14 @@ const formatDate = (dateString: string) =>
                   style={`transition-delay: ${i * 0.05}s;`}
                 >
                   {post.data.featuredImage ? (
-                    <div class="relative h-48 overflow-hidden bg-muted animate-pulse group-data-[loaded=true]:animate-none">
+                    <div class="relative h-48 overflow-hidden bg-muted">
                       <img 
                         src={post.data.featuredImage} 
                         alt={post.data.title} 
                         class="h-full w-full object-cover transition-all duration-700 group-hover:scale-110 opacity-0 data-[loaded=true]:opacity-100" 
                         loading={i < 6 ? "eager" : "lazy"}
                         decoding="async"
-                        onload="this.parentElement.setAttribute('data-loaded', 'true'); this.setAttribute('data-loaded', 'true')"
+                        onload="this.setAttribute('data-loaded', 'true')"
                       />
                     </div>
                   ) : (
