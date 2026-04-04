@@ -23,13 +23,13 @@ const formatCount = (count: number) => {
     <div class="flex flex-col items-center">
       <div class="text-center">
         <!-- Badge -->
-        <div class="mb-6 inline-flex items-center gap-2 rounded-full glass border-border/40 px-4 py-1.5 shadow-lg shadow-red-500/5">
-          <span class="relative flex h-2.5 w-2.5">
-            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-500 opacity-75"></span>
-            <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-red-500"></span>
-          </span>
-          <span class="text-[11px] font-bold uppercase tracking-[0.1em] text-foreground/90">
-            Mise à jour en direct chaque jour
+        <div class="mb-6 inline-flex items-center gap-3 rounded-full glass border-primary/20 px-5 py-1.5 shadow-lg shadow-primary/5 group hover:border-primary/40 transition-all duration-500">
+          <div class="relative flex items-center justify-center">
+            <span class="animate-ping absolute inline-flex h-3 w-3 rounded-full bg-accent/40 opacity-75"></span>
+            <svg class="relative h-4 w-4 text-accent transition-transform group-hover:scale-110 duration-500" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l1.5 4.5L18 8l-4.5 1.5L12 14l-1.5-4.5L6 8l4.5-1.5L12 2zm8 10l.75 2.25L23 15l-2.25.75L20 18l-.75-2.25L17 15l2.25-.75L20 12zm-12 5l.5 1.5L10 19l-1.5.5L8 21l-.5-1.5L6 19l1.5-.5L8 17z"/></svg>
+          </div>
+          <span class="text-[10px] font-bold uppercase tracking-[0.15em] text-foreground/80 whitespace-nowrap">
+            Mise à jour quotidienne <span class="mx-1 opacity-30">•</span> +6 000 Abonnés YouTube
           </span>
         </div>
 
