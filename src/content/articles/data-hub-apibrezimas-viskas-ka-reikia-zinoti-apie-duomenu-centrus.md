@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "lt"
 title: "Data Hub apibrėžimas: viskas, ką reikia žinoti apie duomenų centrus"
 slug: "data-hub-apibrezimas-viskas-ka-reikia-zinoti-apie-duomenu-centrus"
 excerpt: "Suprasti pagrindus Didžiųjų duomenų ir skaitmeninės transformacijos eroje įmonės turi turėti galimybę efektyviai išnaudoti savo duomenis. THE Duomenų centras, arba „duomenų centras“, yra architektūrinis atsakas į šį augantį duomenų valdymo, dalijimosi ir analizės poreikį. Šiame straipsnyje išsamiai apžvelgsime „Data Hub“ pagrindus ir pagrindinį jo vaidmenį įmonių duomenų strategijoje. Kas yra duomenų centras? A Duomenų centras [&hellip;]"

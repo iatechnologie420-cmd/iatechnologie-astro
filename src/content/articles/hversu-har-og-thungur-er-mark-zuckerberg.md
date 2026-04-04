@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "is"
 title: "Hversu hár og þungur er Mark Zuckerberg?"
 slug: "hversu-har-og-thungur-er-mark-zuckerberg"
 excerpt: "Hæð Mark Zuckerberg: Goðsögn eða veruleiki? Deilurnar um stærð hans Í nokkur ár hefur spurningin um hæð Mark Zuckerbergs, stofnanda Facebook, verið háð miklum vangaveltum og umræðum. Sumir halda því fram að hann sé minni en hann lítur út á meðan aðrir halda því fram að hann sé í raun nokkuð hár. Svo hver er [&hellip;]"

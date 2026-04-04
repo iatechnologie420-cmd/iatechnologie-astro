@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "id"
 title: "Mengapa ChatGPT tidak berfungsi dan apa yang harus dilakukan?"
 slug: "mengapa-chatgpt-tidak-berfungsi-dan-apa-yang-harus-dilakukan"
 excerpt: "Mengapa ChatGPT tidak berfungsi? Saat Anda menggunakan ChatGPT, Anda mungkin mengalami masalah yang membuatnya tidak berfungsi dengan baik. Masalah-masalah ini, meskipun membuat frustrasi, dapat disebabkan oleh berbagai macam hal. Dalam artikel ini, kami akan membahas beberapa alasan umum mengapa ChatGPT mungkin tidak berfungsi dengan baik dan memberi Anda solusi untuk mengatasinya. 1. Koneksi Internet Tidak [&hellip;]"

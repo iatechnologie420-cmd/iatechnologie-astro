@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "id"
 title: "Alan Turing dan lahirnya kecerdasan buatan"
 slug: "alan-turing-dan-lahirnya-kecerdasan-buatan"
 excerpt: "Alan Turing: Bapak Pendiri Kecerdasan Buatan Alan Turing: Bapak Pendiri Kecerdasan BuatanSejarah kecerdasan buatan (AI) tidak dapat diceritakan sepenuhnya tanpa menyebut nama Alan Turing, yang dianggap oleh banyak orang sebagai bapak pendiri bidang ini yang saat ini merevolusi banyak aspek kehidupan kita sehari-hari. Kontribusinya lebih dari sekedar penemuan sederhana; hal ini didasarkan pada konsep dan [&hellip;]"

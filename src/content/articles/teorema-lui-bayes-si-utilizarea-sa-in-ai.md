@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "ro"
 title: "Teorema lui Bayes și utilizarea sa în AI"
 slug: "teorema-lui-bayes-si-utilizarea-sa-in-ai"
 excerpt: "Introducere în teorema lui Bayes THE teorema lui Bayes este o formulă fundamentală în probabilitate și statistică care descrie actualizarea convingerilor noastre în prezența unor noi informații. Numită în onoarea reverendului Thomas Bayes, această teoremă joacă un rol crucial în multe domenii, de la învățarea automată până la luarea deciziilor în condiții de incertitudine. Esența [&hellip;]"

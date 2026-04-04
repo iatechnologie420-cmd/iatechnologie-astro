@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "tr"
 title: "MidJourney: tartışmalı yapay zeka hakkında bilmeniz gereken her şey"
 slug: "midjourney-tartismali-yapay-zeka-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "MidJourney&#8217;i Anlamak MidJourney, teknolojiyle etkileşim şeklimizi dönüştüren güçlü bir yapay zekadır. Bu kılavuzu, kökenlerini ve temel işlevlerini anlamak için bir kaynak olarak kullanın. MidJourney nedir? MidJourney bir araçtır yapay zeka Yeni teknolojilerle günlük etkileşimlerimizi geliştirmek ve kolaylaştırmak için tasarlanmış avangard. Hızla hayatımızın ayrılmaz bir parçası haline gelen Lensa ve ChatGPT gibi diğer önemli araçlar da [&hellip;]"

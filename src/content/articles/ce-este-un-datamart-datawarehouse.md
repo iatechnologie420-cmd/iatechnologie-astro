@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ro"
 title: "Ce este un Datamart/Datawarehouse?"
 slug: "ce-este-un-datamart-datawarehouse"
 excerpt: "Introducere în conceptul de Datamart THE datamart este un termen esențial în lumea analizei datelor și a Business Intelligence (BI). Este o subsecțiune a unui depozit de date, adică o bază de date specializată care stochează un segment din informațiile unei companii. În timp ce un depozit de date poate fi gândit ca o bibliotecă [&hellip;]"

@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "pl"
 title: "ALM lub zarządzanie cyklem życia aplikacji: definicja"
 slug: "alm-lub-zarzadzanie-cyklem-zycia-aplikacji-definicja"
 excerpt: "Podstawy L&#8217;Aplikacja do zarządzania cyklem życia (ALM) to systematyczny system zarządzania i zarządzania rozwojem oprogramowania. Obejmuje praktyki, procesy i narzędzia umożliwiające zespołom zarządzanie cyklem życia aplikacji od koncepcji do wycofania. Przyjrzyjmy się bliżej komponentom i znaczeniu ALM w tworzeniu nowoczesnego oprogramowania. Co to jest ALM? ALM odnosi się do ciągłości praktyk i procesów podczas tworzenia [&hellip;]"

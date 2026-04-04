@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "nb"
 title: "IT / Informasjonsteknologi: hva er informasjonsteknologi?"
 slug: "it-informasjonsteknologi-hva-er-informasjonsteknologi"
 excerpt: "Forstå IT: Definisjon og utvikling av informasjonsteknologi Hva er det? Begrepet DEN, For Informasjonsteknologi på engelsk, angir alle teknologiene knyttet til behandling og administrasjon av informasjon og data. Dette enorme feltet inkluderer dermed informatikk, telekommunikasjon, databasestyringssystemer, informasjonssikkerhet og mye mer. IT er essensielt i den moderne verden: det lar virksomheter operere effektivt, myndigheter kan levere [&hellip;]"

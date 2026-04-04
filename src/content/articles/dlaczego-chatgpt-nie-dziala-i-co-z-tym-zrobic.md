@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "pl"
 title: "Dlaczego ChatGPT nie działa i co z tym zrobić?"
 slug: "dlaczego-chatgpt-nie-dziala-i-co-z-tym-zrobic"
 excerpt: "Dlaczego ChatGPT nie działa? Kiedy korzystasz z ChatGPT, możesz napotkać problemy, które spowodują, że nie będzie on działać poprawnie. Problemy te, choć frustrujące, mogą mieć różne przyczyny. W tym artykule przeanalizujemy kilka typowych powodów, dla których ChatGPT może nie działać poprawnie i przedstawimy rozwiązania tego problemu. 1. Niestabilne połączenie internetowe Niestabilne połączenie internetowe może powodować [&hellip;]"

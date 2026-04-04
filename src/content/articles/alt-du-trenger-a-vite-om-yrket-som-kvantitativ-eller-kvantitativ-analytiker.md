@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "nb"
 title: "Alt du trenger å vite om yrket som kvantitativ eller kvantitativ analytiker"
 slug: "alt-du-trenger-a-vite-om-yrket-som-kvantitativ-eller-kvantitativ-analytiker"
 excerpt: "Introduksjon til verden av kvantitativ finans Kvantitativ finans er et spesialisert finansfelt som bruker matematiske modeller, statistikk og datateknikker for å forstå og forutsi oppførselen til finansmarkedene. I denne artikkelen vil vi utforske dette feltet ved å diskutere verktøyene det bruker, dets applikasjoner samt ferdighetene som kreves for å utmerke seg i det. Kvantitativ finansiering [&hellip;]"

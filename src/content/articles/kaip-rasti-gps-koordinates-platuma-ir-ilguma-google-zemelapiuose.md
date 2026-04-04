@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "lt"
 title: "Kaip rasti GPS koordinates (platuma ir ilguma) „Google“ žemėlapiuose?"
 slug: "kaip-rasti-gps-koordinates-platuma-ir-ilguma-google-zemelapiuose"
 excerpt: "THE GPS (Global Positioning System) yra technologija, kuri tapo būtina mūsų kasdieniame gyvenime. Naudojant palydovų perduodamus signalus, GPS sistema leidžia tiksliai nustatyti savo padėtį geografinių koordinačių pavidalu. Šias koordinates vaizduoja du pagrindiniai elementai: platumos ir ilguma. Šiame straipsnyje mes išnagrinėsime GPS koordinačių pasaulį ir suprasime jų esminį vaidmenį geografinėje vietoje. Kas yra GPS koordinatės? GPS [&hellip;]"

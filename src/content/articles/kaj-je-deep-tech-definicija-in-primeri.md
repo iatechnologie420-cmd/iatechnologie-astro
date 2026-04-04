@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "sl"
 title: "Kaj je deep tech? definicija in primeri"
 slug: "kaj-je-deep-tech-definicija-in-primeri"
 excerpt: "tam Deep Tech, ali vrhunska tehnologija, predstavlja revolucijo v današnjem svetu startupov in inovacij. Od bolj konvencionalnih tehnologij izstopa po globini sprememb in razdiralnem potencialu. Toda kaj pravzaprav mislimo s tem Deep Techin v čem se razlikuje od drugih vrst tehnologije? Opredelitev Deep Tech Izraz Deep Tech se nanaša na tehnologije, ki temeljijo na pomembnih [&hellip;]"

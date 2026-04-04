@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "et"
 title: "Arvuti lukustamise juhend (PC, Mac, Windows jne)"
 slug: "arvuti-lukustamise-juhend-pc-mac-windows-jne"
 excerpt: "Vajadus arvuti turvalisuse tagamiseks Praegusel ajastul, mil tegevused muutuvad kiirenenud tempos digitaalseks, on meie arvuti turvalisus muutunud nii üksikisikute kui ka ettevõtete jaoks suureks murekohaks. Siin on üksikasjalik juhend heade reflekside kohta, mida oma arvutisüsteemi tõhusaks kaitsmiseks kasutada. Arvutid on meie isiklike ja ametialaste andmete kesksed keskused. Need on ka väravad juurdepääsuks piiramatule hulgale teabele [&hellip;]"

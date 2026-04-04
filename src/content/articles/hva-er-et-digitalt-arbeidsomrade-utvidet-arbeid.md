@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "nb"
 title: "Hva er et digitalt arbeidsområde / utvidet arbeid?"
 slug: "hva-er-et-digitalt-arbeidsomrade-utvidet-arbeid"
 excerpt: "Hva er et digitalt arbeidsområde? Begrepet Digitalt arbeidsområde, Eller digital arbeidsplass, definerer et arbeidsmiljø som ikke lenger har fysiske barrierer takket være digitale teknologier. Den samler et sett med verktøy og teknologier som lar brukere koble seg til, samarbeide og utføre sine profesjonelle oppgaver uavhengig av deres fysiske plassering. Denne artikkelen vil diskutere de grunnleggende [&hellip;]"

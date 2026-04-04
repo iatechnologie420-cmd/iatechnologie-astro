@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "tr"
 title: "iCloud fiyatları: farklı fiyatların ve olası planların karşılaştırılması"
 slug: "icloud-fiyatlari-farkli-fiyatlarin-ve-olasi-planlarin-karsilastirilmasi"
 excerpt: "iCloud, tarafından sunulan bir bulut depolama hizmetidir Elma Bu, belgeler, fotoğraflar ve müzik gibi verilerin iOS, Mac veya Windows cihazlarına indirilmek üzere uzak sunucularda saklanmasına olanak tanır. Ayrıca farklı cihazlar arasında verileri senkronize etme ve dosyaları kolayca paylaşma olanağı da sağlar. Bu makalede farklı iCloud saklama seçeneklerini ve bunların dijital yaşamınıza nasıl uyum sağlayabileceğini inceleyeceğiz. [&hellip;]"

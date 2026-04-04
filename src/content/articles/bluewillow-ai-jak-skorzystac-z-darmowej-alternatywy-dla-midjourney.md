@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "pl"
 title: "BlueWillow AI: jak skorzystać z darmowej alternatywy dla MidJourney?"
 slug: "bluewillow-ai-jak-skorzystac-z-darmowej-alternatywy-dla-midjourney"
 excerpt: "W stale rozwijającym się świecie generatywnej sztucznej inteligencji dostępne są alternatywy takie jak Sztuczna inteligencja BlueWillow oferują dostępne rozwiązania dla tych, którzy chcą wykorzystać moc tego typu technologii. Znany jakodarmowa alternatywa dla MidJourney, BlueWillow AI stanowi znaczący postęp, zwłaszcza dzięki zastosowaniu innowacyjnej metody Stable Diffusion. Niezbędna alternatywa dla MidJourney Sztuczna inteligencja BlueWillow jest preferowaną alternatywą [&hellip;]"

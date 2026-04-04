@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "sl"
 title: "Najboljše šole na spletu: kako narediti pravo izbiro"
 slug: "najboljse-sole-na-spletu-kako-narediti-pravo-izbiro"
 excerpt: "Svet izobraževanja se nenehno spreminja, še posebej s prihodom novih tehnologij. Danes je na spletu dostopnih veliko tečajev usposabljanja, ki ponujajo prožnost in prilagodljivost vsakemu učencu. Vodili vas bomo skozi vrsto razpoložljivih možnosti, da boste lahko izbirali na podlagi informacij spletna šola ki prednostno izpolnjuje vaše želje. Razumevanje izzivov učenja na daljavo Študij na daljavo [&hellip;]"

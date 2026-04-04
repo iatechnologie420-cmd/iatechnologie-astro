@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "pl"
 title: "Jak znaleźć współrzędne GPS (szerokość i długość geograficzna) w Mapach Google?"
 slug: "jak-znalezc-wspolrzedne-gps-szerokosc-i-dlugosc-geograficzna-w-mapach-google"
 excerpt: "TO GPS (Global Positioning System) to technologia, która stała się niezbędna w naszym codziennym życiu. Wykorzystując sygnały przesyłane przez satelity, systemu GPS pozwala nam dokładnie określić naszą pozycję w postaci współrzędnych geograficznych. Współrzędne te są reprezentowane przez dwa kluczowe elementy: szerokość i długość geograficzna. W tym artykule poznamy świat współrzędnych GPS i zrozumiemy ich istotną [&hellip;]"

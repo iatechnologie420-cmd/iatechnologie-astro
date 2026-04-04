@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "id"
 title: "Dompet anti-RFID: Mengapa Anda tidak membutuhkannya"
 slug: "dompet-anti-rfid-mengapa-anda-tidak-membutuhkannya"
 excerpt: "Memahami teknologi RFID dan risikonya Apa itu RFID? Di sana Identifikasi frekuensi radio (RFID) adalah teknologi yang memungkinkan identifikasi otomatis objek, hewan, atau manusia menggunakan gelombang radio. Ini menggunakan perangkat elektronik kecil yang disebut label Atau tag RFID, yang menyimpan data dan mengirimkan informasi ini ke pembaca RFID. Tag bisa bersifat pasif (tanpa sumber daya [&hellip;]"

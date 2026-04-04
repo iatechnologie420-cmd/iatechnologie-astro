@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "pl"
 title: "Najlepsze roboty w uniwersum Gwiezdnych Wojen"
 slug: "najlepsze-roboty-w-uniwersum-gwiezdnych-wojen"
 excerpt: "Legendy mechaniczne: C-3PO i R2-D2 Uważany za najbardziej charakterystyczne droidy w całej sadze Gwiezdne Wojny, C-3PO i R2-D2 naznaczyły pokolenia fanów swoją wyjątkową osobowością, historią i kluczową rolą, jaką odegrali w poszczególnych odcinkach. Artykuł ten zagłębia się w świat tych mechanicznych legend, ujawniając ich istotę i wpływ kulturowy. C-3PO: Protokół droidów poliglotowych C-3PO, często nazywany [&hellip;]"

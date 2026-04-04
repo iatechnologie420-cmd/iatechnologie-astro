@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "tr"
 title: "Mark Zuckerberg&#8217;in boyu ve kilosu ne kadar?"
 slug: "mark-zuckerbergin-boyu-ve-kilosu-ne-kadar"
 excerpt: "Mark Zuckerberg&#8217;in boyu: Efsane mi Gerçek mi? Büyüklüğünü çevreleyen tartışma Birkaç yıldır Facebook&#8217;un kurucusu Mark Zuckerberg&#8217;in boyu birçok spekülasyon ve tartışmanın konusu oldu. Bazıları göründüğünden daha küçük olduğunu iddia ederken bazıları da aslında oldukça uzun olduğunu iddia ediyor. Peki Mark Zuckerberg&#8217;in boyu hakkındaki gerçek nedir? Asılsız söylentiler İnternette Mark Zuckerberg&#8217;in boyunun 1 m60&#8217;tan kısa olduğuna [&hellip;]"

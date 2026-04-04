@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "tr"
 title: "SSD: Katı Hal Sürücüsü veri depolama hakkında bilmeniz gereken her şey"
 slug: "ssd-kati-hal-surucusu-veri-depolama-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "SSD&#8217;lere Giriş ve Nasıl Çalışır? Katı hal disklerinin ortaya çıkışı veya SSD (Katı hal sürücüsü İngilizce), veri depolama alanında gerçek bir devrime işaret etti. Bilgi depolamak için manyetik plakalar kullanan geleneksel sabit disk sürücülerinden (HDD&#8217;ler) farklı olarak, HDD&#8217;ler SSD hareketli parçası olmayan flash bellek yongalarına güvenin. Teknolojideki bu değişim performans, dayanıklılık ve enerji tüketimi açısından [&hellip;]"

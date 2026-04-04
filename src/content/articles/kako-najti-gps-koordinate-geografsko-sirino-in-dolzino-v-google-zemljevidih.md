@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "sl"
 title: "Kako najti GPS koordinate (geografsko širino in dolžino) v Google Zemljevidih?"
 slug: "kako-najti-gps-koordinate-geografsko-sirino-in-dolzino-v-google-zemljevidih"
 excerpt: "THE GPS (Global Positioning System) je tehnologija, ki je postala nujna v našem vsakdanjem življenju. Z uporabo signalov, ki jih prenašajo sateliti, GPS sistem omogoča natančno določitev našega položaja v obliki geografskih koordinat. Te koordinate predstavljata dva ključna elementa: zemljepisna širina in zemljepisna dolžina. V tem članku bomo raziskali svet koordinat GPS in razumeli njihovo [&hellip;]"

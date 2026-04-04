@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "ms"
 title: "Bencana teknologi: revolusi digital bertukar menjadi mimpi ngeri?"
 slug: "bencana-teknologi-revolusi-digital-bertukar-menjadi-mimpi-ngeri"
 excerpt: "Kesan revolusi digital terhadap masyarakat kita Revolusi digital yang mencirikan zaman kita telah mengganggu banyak aspek masyarakat kita. Teknologi digital dan akses kepada internet telah mengubah cara kita berkomunikasi, bekerja, menggunakan dan juga hidup. Artikel ini meneroka akibat revolusi ini ke atas kehidupan seharian kita dan menyerlahkan isu penting yang mesti kita hadapi. Akibat revolusi [&hellip;]"

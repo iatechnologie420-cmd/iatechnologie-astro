@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "vi"
 title: "Alan Turing và sự ra đời của trí tuệ nhân tạo"
 slug: "alan-turing-va-su-ra-doi-cua-tri-tue-nhan-tao"
 excerpt: "Alan Turing: Cha đẻ của trí tuệ nhân tạo Alan Turing: Cha đẻ của trí tuệ nhân tạoLịch sử của trí tuệ nhân tạo (AI) không thể kể hết nếu không nhắc đến cái tên Alan Turing, người được nhiều người coi là cha đẻ của lĩnh vực này, lĩnh vực đang cách mạng hóa [&hellip;]"

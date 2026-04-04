@@ -1,5 +1,5 @@
 ---
-lang: "es"
+lang: "pt"
 title: "Aprenda engenharia imediata: em 12 etapas"
 slug: "aprenda-engenharia-imediata-em-12-etapas"
 excerpt: "Introdução à engenharia imediata O que é engenharia imediata? O Engenharia imediata é um campo emergente que se concentra na otimização dos prompts, ou comandos, que damos aos sistemas de inteligência artificial (IA), especialmente aqueles baseados em linguagem natural, como geradores de texto. É uma disciplina particularmente importante com a chegada de modelos de processamento [&hellip;]"

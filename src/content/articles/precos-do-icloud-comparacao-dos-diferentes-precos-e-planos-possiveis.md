@@ -1,5 +1,5 @@
 ---
-lang: "es"
+lang: "pt"
 title: "Preços do iCloud: comparação dos diferentes preços e planos possíveis"
 slug: "precos-do-icloud-comparacao-dos-diferentes-precos-e-planos-possiveis"
 excerpt: "iCloud é um serviço de armazenamento em nuvem oferecido por Maçã que permite que dados como documentos, fotos e músicas sejam armazenados em servidores remotos para download em dispositivos iOS, Mac ou Windows. Ele também oferece a capacidade de sincronizar dados entre diferentes dispositivos e compartilhar arquivos facilmente. Neste artigo, exploraremos as diferentes opções de [&hellip;]"

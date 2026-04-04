@@ -1,5 +1,5 @@
 ---
-lang: "es"
+lang: "pt"
 title: "Compreendendo o teste de Turing"
 slug: "compreendendo-o-teste-de-turing"
 excerpt: "Origens e princípios do teste de Turing No mundo da inteligência artificial (IA) e da computação, o teste de Turing ocupa um lugar de destaque. Este é um método de referência concebido para avaliar a capacidade de uma máquina imitar a inteligência humana. As origens e os princípios deste teste revolucionário remontam a meados do [&hellip;]"

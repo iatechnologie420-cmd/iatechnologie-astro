@@ -1,5 +1,5 @@
 ---
-lang: "es"
+lang: "tr"
 title: "Star Wars evrenindeki en iyi robotlar"
 slug: "star-wars-evrenindeki-en-iyi-robotlar"
 excerpt: "Mekanik efsaneler: C-3PO ve R2-D2 Efsanenin en sembolik droidleri olarak kabul edildi Yıldız Savaşları, C-3PO ve R2-D2, benzersiz kişilikleri, hikayeleri ve bölümler boyunca oynadıkları önemli rollerle nesiller boyu hayranlara damgasını vurdu. Bu makale, bu mekanik efsanelerin dünyasını derinlemesine inceleyerek onların özünü ve kültürel etkilerini ortaya çıkarıyor. C-3PO: Çok Dilli Droid Protokolü Genellikle Threepio olarak adlandırılan [&hellip;]"

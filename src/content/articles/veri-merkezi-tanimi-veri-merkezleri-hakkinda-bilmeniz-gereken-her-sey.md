@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "tr"
 title: "Veri Merkezi tanımı: veri merkezleri hakkında bilmeniz gereken her şey"
 slug: "veri-merkezi-tanimi-veri-merkezleri-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "Temelleri anlayın Büyük Veri ve dijital dönüşüm çağında şirketlerin verilerinden etkin bir şekilde yararlanabilmeleri gerekiyor. THE Veri Merkezi, veya &#8220;veri merkezi&#8221;, veri yönetimi, paylaşımı ve analizine yönelik bu artan ihtiyaca yönelik mimari bir yanıttır. Bu makalede Veri Merkezinin temellerini ve şirketlerin veri stratejisindeki merkezi rolünü ayrıntılarıyla anlatacağız. Veri Merkezi Nedir? A Veri Merkezi çeşitli kaynaklardan [&hellip;]"

@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "tr"
 title: "Google Haritalarda GPS Koordinatları (Enlem ve Boylam) Nasıl Bulunur?"
 slug: "google-haritalarda-gps-koordinatlari-enlem-ve-boylam-nasil-bulunur"
 excerpt: "THE Küresel Konumlama Sistemi (Küresel Konumlandırma Sistemi) günlük hayatımızın vazgeçilmezi haline gelmiş bir teknolojidir. Uydular tarafından iletilen sinyalleri kullanarak, GPS sistemi konumumuzu coğrafi koordinatlar şeklinde doğru bir şekilde belirlememizi sağlar. Bu koordinatlar iki temel unsurla temsil edilir: enlem ve boylam. Bu makalede GPS koordinatlarının dünyasını keşfedeceğiz ve bunların coğrafi konum belirlemedeki temel rolünü anlayacağız. GPS [&hellip;]"

@@ -1,5 +1,5 @@
 ---
-lang: "es"
+lang: "lt"
 title: "Bayeso teorema ir jos panaudojimas dirbtiniu intelektu"
 slug: "bayeso-teorema-ir-jos-panaudojimas-dirbtiniu-intelektu"
 excerpt: "Įvadas į Bayes’o teoremą THE Bayeso teorema yra pagrindinė tikimybių ir statistikos formulė, apibūdinanti mūsų įsitikinimų atnaujinimą esant naujai informacijai. Ši teorema, pavadinta gerbiamo Thomaso Bayeso garbei, vaidina lemiamą vaidmenį daugelyje sričių – nuo ​​mašininio mokymosi iki sprendimų priėmimo neapibrėžtumo sąlygomis. Bayes’o teoremos esmė Širdis Bayeso teorema yra sąlyginė tikimybė. Paprasčiausia forma jis išreiškia, kaip [&hellip;]"

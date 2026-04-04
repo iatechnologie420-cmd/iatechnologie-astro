@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ro"
 title: "Backup de date: ce este, de ce se face?"
 slug: "backup-de-date-ce-este-de-ce-se-face"
 excerpt: "Înțelegeți importanța backupului Backup-ul datelor este esențial pentru a proteja informațiile de posibile pierderi din cauza defecțiunilor hardware, erorilor umane, programelor malware sau dezastrelor naturale. Un sistem de backup adecvat face posibilă restaurarea datelor pierdute sau deteriorate și asigură continuitatea operațiunilor. Cunoașteți tipurile de backup Există mai multe metode de backup, fiecare adaptată nevoilor specifice: [&hellip;]"

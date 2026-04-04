@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "sl"
 title: "Kaj je samodejni kodirnik? Najboljši vodnik!"
 slug: "kaj-je-samodejni-kodirnik-najboljsi-vodnik"
 excerpt: "Avtokodirniki, oz avtokodirniki v angleščini, pozicionirajo kot močno orodje na področju strojnega učenja in umetne inteligence. Te posebne nevronske mreže se uporabljajo za zmanjšanje dimenzij, odkrivanje anomalij, odstranjevanje šumov v podatkih itd. Ta članek predstavlja uvod v to fascinantno tehnologijo, poudarja njeno načelo delovanja, njene aplikacije in njen vse večji pomen v raziskavah in industriji. [&hellip;]"

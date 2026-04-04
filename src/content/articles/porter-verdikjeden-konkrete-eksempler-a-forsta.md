@@ -1,5 +1,5 @@
 ---
-lang: "es"
+lang: "nb"
 title: "PORTER verdikjeden | Konkrete eksempler å forstå"
 slug: "porter-verdikjeden-konkrete-eksempler-a-forsta"
 excerpt: "Forstå Michael Porters verdikjede Verdikjeden er et konsept utviklet av den amerikanske økonomen og akademikeren Michael Porter i hans arbeid &#8220;Competitive Advantage&#8221; publisert i 1985. Denne modellen er essensiell for å analysere de interne aktivitetene til en bedrift for å optimalisere dens skapte verdi og konkurransefortrinn. Denne artikkelen gir deg en guide til å forstå [&hellip;]"

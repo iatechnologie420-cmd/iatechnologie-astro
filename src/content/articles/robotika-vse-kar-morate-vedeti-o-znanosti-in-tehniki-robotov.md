@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "sl"
 title: "Robotika: vse, kar morate vedeti o znanosti in tehniki robotov"
 slug: "robotika-vse-kar-morate-vedeti-o-znanosti-in-tehniki-robotov"
 excerpt: "Razumevanje znanosti za stroji Robotika je fascinantna veja tehnologije, ki združuje različna področja znanja za ustvarjanje strojev, ki so sposobni samostojno ali polavtonomno opravljati naloge. V tem članku bomo raziskali temelje robotike, razumeli osnovna načela, ki robotom omogočajo delovanje, in razmislili o vplivu teh tehnologij na naše vsakdanje življenje. Definicija in zgodovina robotike Izraz robotika [&hellip;]"

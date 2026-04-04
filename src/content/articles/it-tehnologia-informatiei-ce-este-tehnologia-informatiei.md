@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ro"
 title: "IT / Tehnologia informației: ce este tehnologia informației?"
 slug: "it-tehnologia-informatiei-ce-este-tehnologia-informatiei"
 excerpt: "Înțelegerea IT: Definiția și evoluția tehnologiilor informaționale Ce este? Termenul ACEASTA, Pentru Tehnologia de informație în limba engleză, desemnează toate tehnologiile legate de prelucrarea și gestionarea informație și date. Acest domeniu vast include astfel informatica, telecomunicatii, sisteme de gestionare a bazelor de date, securitatea informațiilor și multe altele. IT-ul este esențial în lumea modernă: permite [&hellip;]"

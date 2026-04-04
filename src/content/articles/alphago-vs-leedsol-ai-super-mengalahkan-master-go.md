@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "id"
 title: "AlphaGo vs Leedsol: AI super mengalahkan master Go"
 slug: "alphago-vs-leedsol-ai-super-mengalahkan-master-go"
 excerpt: "Bentrokan bersejarah: kecerdasan buatan menantang penguasa Go Dunia Go secara historis didominasi oleh manusia yang menguasainya, hingga terjadi peristiwa penting yang mengguncang paradigma yang sudah mapan. Kecerdasan buatan, alat yang dikembangkan oleh kecerdikan manusia, menerima tantangan untuk mengatasi salah satu permainan strategi paling kompleks dalam sejarah. Bentrokan bersejarah antara sirkuit logis superkomputer dan pemikiran strategis [&hellip;]"

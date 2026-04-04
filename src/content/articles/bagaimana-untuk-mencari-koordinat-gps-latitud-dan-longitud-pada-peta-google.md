@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ms"
 title: "Bagaimana untuk Mencari Koordinat GPS (Latitud dan Longitud) pada Peta Google?"
 slug: "bagaimana-untuk-mencari-koordinat-gps-latitud-dan-longitud-pada-peta-google"
 excerpt: "THE GPS (Global Positioning System) adalah teknologi yang telah menjadi penting dalam kehidupan seharian kita. Menggunakan isyarat yang dihantar oleh satelit, sistem GPS membolehkan kita menentukan dengan tepat kedudukan kita dalam bentuk koordinat geografi. Koordinat ini diwakili oleh dua elemen utama: latitud dan juga longitud. Dalam artikel ini, kami akan meneroka dunia koordinat GPS dan [&hellip;]"

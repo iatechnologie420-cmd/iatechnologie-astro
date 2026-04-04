@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "et"
 title: "Miks ChatGPT ei tööta ja mida sellega teha?"
 slug: "miks-chatgpt-ei-toota-ja-mida-sellega-teha"
 excerpt: "Miks ChatGPT ei tööta? Kui kasutate ChatGPT-d, võib teil tekkida probleeme, mille tõttu see ei tööta korralikult. Need probleemid, kuigi masendavad, võivad olla mitmel põhjusel. Selles artiklis uurime mõningaid levinumaid põhjuseid, miks ChatGPT ei pruugi korralikult töötada, ja pakume teile lahendusi nende lahendamiseks. 1. Ebastabiilne Interneti-ühendus Ebastabiilne Interneti-ühendus võib ChatGPT kasutamisel probleeme tekitada. Kui teie [&hellip;]"

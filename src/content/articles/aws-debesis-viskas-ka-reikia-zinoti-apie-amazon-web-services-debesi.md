@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "lt"
 title: "AWS debesis – viskas, ką reikia žinoti apie „Amazon Web Services“ debesį"
 slug: "aws-debesis-viskas-ka-reikia-zinoti-apie-amazon-web-services-debesi"
 excerpt: "„Amazon Web Services“ (AWS) įvadas: debesų kompiuterijos revoliucija Nuo pat įkūrimo 2006 m. „Amazon Web Services“ (AWS) radikaliai pakeitė IT aplinką, pristatydama debesijos paslaugų platformą, kuri suteikia precedento neturintį lankstumą, masto ir masto ekonomiją. Šiuo įvadu siekiama paaiškinti veikimo principusAWS ir paaiškinti, kodėl šis sprendimas tapo pagrindiniu debesų kompiuterijos žaidėju. Kas yra „Amazon Web Services“ [&hellip;]"

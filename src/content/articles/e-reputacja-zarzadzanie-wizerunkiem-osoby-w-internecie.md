@@ -1,5 +1,5 @@
 ---
-lang: "it"
+lang: "pl"
 title: "E-reputacja: Zarządzanie wizerunkiem osoby w Internecie"
 slug: "e-reputacja-zarzadzanie-wizerunkiem-osoby-w-internecie"
 excerpt: "Zrozumienie e-reputacji i jej znaczenia Wraz z ciągłą ewolucją technologii cyfrowych i rosnącą integracją mediów społecznościowych z naszym codziennym życiem,e-reputacja stało się kluczowym czynnikiem dla osób fizycznych i przedsiębiorstw. To wszystkie informacje obecne w Internecie, które wpływają na publiczny odbiór marki, firmy lub osoby. L&#8217;e-reputacja jest kształtowany przez komentarze, opinie, obrazy i interakcje na różnych [&hellip;]"

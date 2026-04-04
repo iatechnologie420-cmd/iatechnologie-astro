@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ms"
 title: "Definisi Hab Data: semua yang anda perlu tahu tentang hab data"
 slug: "definisi-hab-data-semua-yang-anda-perlu-tahu-tentang-hab-data"
 excerpt: "Fahami asas-asasnya Dalam era Data Besar dan transformasi digital, syarikat mesti dapat mengeksploitasi data mereka dengan berkesan. THE Hab Data, atau &#8220;pusat data&#8221;, ialah tindak balas seni bina kepada keperluan yang semakin meningkat untuk pengurusan, perkongsian dan analisis data. Dalam artikel ini, kami akan memperincikan asas Hab Data dan peranan utamanya dalam strategi data syarikat. [&hellip;]"

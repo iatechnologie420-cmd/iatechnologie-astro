@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "ms"
 title: "Alan Turing dan kelahiran kecerdasan buatan"
 slug: "alan-turing-dan-kelahiran-kecerdasan-buatan"
 excerpt: "Alan Turing: Bapa Pengasas Kepintaran Buatan Alan Turing: Bapa Pengasas Kepintaran BuatanSejarah kecerdasan buatan (AI) tidak dapat diceritakan sepenuhnya tanpa menyebut nama Alan Turing, yang dianggap ramai sebagai bapa pengasas bidang ini yang kini merevolusikan begitu banyak aspek kehidupan seharian kita. Sumbangannya melangkaui ciptaan mudah; ia berdasarkan konsep dan teori yang masih membentuk asas di [&hellip;]"

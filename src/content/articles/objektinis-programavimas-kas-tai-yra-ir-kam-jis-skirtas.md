@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "lt"
 title: "Objektinis programavimas: kas tai yra ir kam jis skirtas?"
 slug: "objektinis-programavimas-kas-tai-yra-ir-kam-jis-skirtas"
 excerpt: "Objektinio programavimo pagrindai Ten Objektinis programavimas (OOP) yra programavimo paradigma, kuri naudoja „objektus“ kompiuterių programoms ir programoms kurti. Šie objektai yra realaus pasaulio subjektai ir leidžia kūrėjams kurti lankstesnę, keičiamo dydžio ir prižiūrimą programinę įrangą. Šiame straipsnyje mes išnagrinėsime pagrindines sąvokas, kurios sudaro OOP pagrindą. Abstrakcija L&#8217;abstrakcija yra procesas, kurio metu programuotojas paslepia visas nereikšmingas [&hellip;]"

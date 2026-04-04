@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "pl"
 title: "IT / Technologia informacyjna: czym jest technologia informacyjna?"
 slug: "it-technologia-informacyjna-czym-jest-technologia-informacyjna"
 excerpt: "Zrozumienie IT: Definicja i ewolucja technologii informatycznych Co to jest? Termin TO, Dla Technologia informacyjna w języku angielskim oznacza wszystkie technologie związane z przetwarzaniem i zarządzaniem Informacja i dane. Ta rozległa dziedzina obejmuje zatem informatykę, telekomunikacja, systemy zarządzania bazami danych, bezpieczeństwo informacji i wiele innych. Informatyka jest niezbędna we współczesnym świecie: umożliwia przedsiębiorstwom efektywne działanie, [&hellip;]"

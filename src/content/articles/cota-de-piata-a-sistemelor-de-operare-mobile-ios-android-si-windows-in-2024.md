@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ro"
 title: "Cota de piață a sistemelor de operare mobile iOS, Android și Windows în 2024"
 slug: "cota-de-piata-a-sistemelor-de-operare-mobile-ios-android-si-windows-in-2024"
 excerpt: "Cotele de piață ale sistemelor de operare mobile Odată cu ascensiunea smartphone-urilor și evoluția constantă a tehnologiei, rivalitatea dintre iOS, Android și Windows devine din ce în ce mai intens. Cotele de piață pentru fiecare sistem de operare variază inventiv în funcție de mai mulți factori. Prognoza de creștere a pieței sistemelor de operare mobile [&hellip;]"

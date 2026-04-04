@@ -1,5 +1,5 @@
 ---
-lang: "es"
+lang: "id"
 title: "Spot: robot anjing dari Boston Dynamics"
 slug: "spot-robot-anjing-dari-boston-dynamics"
 excerpt: "Discovery of Spot, robot anjing dari Boston Dynamics Terkenal sebagai yang terbaik dalam robotika modern, Titik, robot anjing dari Boston Dynamics, telah menciptakan gelombang kejutan di dunia teknologi baru. Dirancang untuk menggantikan robot sejenisnya, ini adalah contoh simbol robot hewan yang siap menggantikan model mereka. Spot, sebuah revolusi teknologi Titik sempurna mewujudkan kemajuan teknologi ini. [&hellip;]"

@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ro"
 title: "Fiind un NPC pe Tiktok și în viața reală&#8230;?"
 slug: "fiind-un-npc-pe-tiktok-si-in-viata-reala"
 excerpt: "Fenomenul „controlerelor NPC” pe TikTok În universul infinit al TIC-tac, un fenomen destul de singular a captat atenția utilizatorilor: „ Controloare NPC » (Personajele nejucatoare). Anterior limitată la jocurile video, expresia „NPC” se strecoară acum în jargonul rețelelor sociale, definind o experiență care combină realitatea augmentată și interacțiunea socială. Dar ce se află cu adevărat [&hellip;]"

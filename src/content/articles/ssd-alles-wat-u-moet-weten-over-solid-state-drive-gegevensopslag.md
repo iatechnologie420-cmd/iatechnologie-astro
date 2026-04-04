@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "nl"
 title: "SSD: alles wat u moet weten over Solid-State Drive-gegevensopslag"
 slug: "ssd-alles-wat-u-moet-weten-over-solid-state-drive-gegevensopslag"
 excerpt: "Inleiding tot SSD&#8217;s en hoe ze werken De komst van solid-state schijven, of SSD (SSD schijf in het Engels), markeerde een echte revolutie op het gebied van gegevensopslag. In tegenstelling tot traditionele harde schijven (HDD&#8217;s) die magnetische platters gebruiken om informatie op te slaan, zijn HDD&#8217;s SSD vertrouw op flash-geheugenchips zonder bewegende delen. Deze technologische [&hellip;]"

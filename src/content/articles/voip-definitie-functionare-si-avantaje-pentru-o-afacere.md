@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ro"
 title: "VOIP: Definiție, funcționare și avantaje pentru o afacere"
 slug: "voip-definitie-functionare-si-avantaje-pentru-o-afacere"
 excerpt: "Definiția VOIP și principiile de bază Tehnologia de Voice over Internet Protocol (VoIP) reprezintă o evoluție majoră în modul în care comunicăm. Dominat de mult de liniile telefonice tradiționale, telefonia trece printr-o transformare digitală, permițând transmiterea vocii, precum și a datelor prin internet. Deci, să aruncăm o privire mai atentă la ce este VoIP și [&hellip;]"

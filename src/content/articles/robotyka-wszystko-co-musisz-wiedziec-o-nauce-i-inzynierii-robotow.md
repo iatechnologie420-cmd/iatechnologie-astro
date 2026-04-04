@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "pl"
 title: "Robotyka: wszystko, co musisz wiedzieć o nauce i inżynierii robotów"
 slug: "robotyka-wszystko-co-musisz-wiedziec-o-nauce-i-inzynierii-robotow"
 excerpt: "Zrozumienie nauki stojącej za maszynami Robotyka to fascynująca dziedzina technologii, która łączy różne dziedziny wiedzy w celu tworzenia maszyn zdolnych do wykonywania zadań autonomicznie lub półautonomicznie. W tym artykule zbadamy podstawy robotyki, zrozumiemy podstawowe zasady, które pozwalają robotom działać, i rozważymy wpływ tych technologii na nasze codzienne życie. Definicja i historia robotyki Termin robotyka odnosi [&hellip;]"

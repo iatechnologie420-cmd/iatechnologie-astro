@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "id"
 title: "SSD: semua yang perlu Anda ketahui tentang penyimpanan data Solid-State Drive"
 slug: "ssd-semua-yang-perlu-anda-ketahui-tentang-penyimpanan-data-solid-state-drive"
 excerpt: "Pengantar SSD dan Cara Kerjanya Munculnya solid state disk, atau SSD (Penggerak Solid State dalam bahasa Inggris), menandai revolusi nyata di bidang penyimpanan data. Tidak seperti hard disk drive (HDD) tradisional yang menggunakan piringan magnetis untuk menyimpan informasi, HDD SSD mengandalkan chip memori flash tanpa bagian yang bergerak. Perubahan teknologi ini menawarkan manfaat signifikan dalam [&hellip;]"

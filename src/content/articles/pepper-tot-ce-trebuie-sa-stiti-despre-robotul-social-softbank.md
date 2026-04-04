@@ -1,5 +1,5 @@
 ---
-lang: "fr"
+lang: "ro"
 title: "Pepper: tot ce trebuie să știți despre robotul social SoftBank"
 slug: "pepper-tot-ce-trebuie-sa-stiti-despre-robotul-social-softbank"
 excerpt: "Ardei: Prezentare și funcții de bază rezumat Robotul social Piper este o ispravă tehnologică concepută pentru a interacționa cu oamenii într-un mediu social. Echipat cu numeroși senzori și IA avansată, Pepper înțelege și reacționează la emoțiile noastre în timp ce se adaptează la comportamentele noastre. Prin acest articol, vom prezenta funcțiile de bază ale Pepper [&hellip;]"

@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "sl"
 title: "Kaj je medicinski robot? definicija in razlaga"
 slug: "kaj-je-medicinski-robot-definicija-in-razlaga"
 excerpt: "Definicija in tipologija medicinskih robotov Pojav robotike v zdravstvu je odprl neizmerne možnosti za izboljšanje medicinske oskrbe in kirurgije. Te tehnologije, znane kot medicinski roboti, so mehanske naprave ali računalniški sistemi, ki lahko izvajajo zapletena dejanja z visoko natančnostjo, pogosto pod nadzorom ali neposrednim nadzorom usposobljenega medicinskega osebja. Katere vrste medicinskih robotov se trenutno uporabljajo [&hellip;]"

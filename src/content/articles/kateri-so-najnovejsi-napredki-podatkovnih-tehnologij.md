@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "sl"
 title: "Kateri so najnovejši napredki podatkovnih tehnologij?"
 slug: "kateri-so-najnovejsi-napredki-podatkovnih-tehnologij"
 excerpt: "Podatkovne tehnologije igrajo vse pomembnejšo vlogo v naši sodobni družbi. Z naraščajočo digitalizacijo naših življenj in eksplozijo vsakodnevno ustvarjenih podatkov je ključnega pomena razumeti pomen teh tehnologij in njihov vpliv na naš svet. V tem članku bomo raziskali različne vidike podatkovnih tehnologij in njihovo pomembnost na različnih področjih. Optimizacija procesov in odločanja Podatkovne tehnologije omogočajo [&hellip;]"
