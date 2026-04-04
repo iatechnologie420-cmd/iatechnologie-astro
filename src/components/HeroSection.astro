@@ -23,12 +23,12 @@ const formatCount = (count: number) => {
     <div class="flex flex-col items-center">
       <div class="text-center">
         <!-- Badge -->
-        <div class="mb-6 inline-flex items-center gap-3 rounded-full glass border-primary/20 px-5 py-1.5 shadow-lg shadow-primary/5 group hover:border-primary/40 transition-all duration-500">
+        <div class="mb-6 inline-flex items-center gap-3 rounded-full glass border-primary/20 px-5 py-1.5 shadow-xl shadow-primary/10 group hover:border-primary/40 transition-all duration-700">
           <div class="relative flex items-center justify-center">
-            <span class="animate-ping absolute inline-flex h-3 w-3 rounded-full bg-accent/40 opacity-75"></span>
-            <svg class="relative h-4 w-4 text-accent transition-transform group-hover:scale-110 duration-500" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l1.5 4.5L18 8l-4.5 1.5L12 14l-1.5-4.5L6 8l4.5-1.5L12 2zm8 10l.75 2.25L23 15l-2.25.75L20 18l-.75-2.25L17 15l2.25-.75L20 12zm-12 5l.5 1.5L10 19l-1.5.5L8 21l-.5-1.5L6 19l1.5-.5L8 17z"/></svg>
+            <span class="animate-ping absolute inline-flex h-3 w-3 rounded-full bg-accent/30"></span>
+            <svg class="relative h-4 w-4 text-accent drop-shadow-[0_0_8px_rgba(var(--accent-rgb),0.5)] transition-transform group-hover:scale-110 duration-700" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l1.5 4.5L18 8l-4.5 1.5L12 14l-1.5-4.5L6 8l4.5-1.5L12 2zm8 10l.75 2.25L23 15l-2.25.75L20 18l-.75-2.25L17 15l2.25-.75L20 12zm-12 5l.5 1.5L10 19l-1.5.5L8 21l-.5-1.5L6 19l1.5-.5L8 17z"/></svg>
           </div>
-          <span class="text-[10px] font-bold uppercase tracking-[0.15em] text-foreground/80 whitespace-nowrap">
+          <span class="text-[10px] font-bold uppercase tracking-[0.2em] bg-gradient-to-r from-foreground/60 via-foreground to-foreground/60 bg-clip-text text-transparent animate-shimmer bg-[length:200%_auto] whitespace-nowrap">
             Mise à jour quotidienne
           </span>
         </div>
@@ -41,7 +41,7 @@ const formatCount = (count: number) => {
 
         <!-- Subheading -->
         <p class="mx-auto mb-10 max-w-2xl text-base text-muted-foreground sm:text-lg md:text-xl leading-relaxed animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-200 fill-mode-both" style="transition-delay: 0.4s;">
-          L'IA passée au crible. Plus de 500 outils IA analysés minutieusement pour vous livrer la vérité sur leurs prix et performances. Trouvez l'outil idéal pour vos projets en 30 secondes.
+          L'IA passée au crible. Plus de <span class="font-semibold text-foreground/90">500 outils IA</span> analysés minutieusement pour vous livrer la vérité sur leurs prix et performances. Trouvez l'outil idéal pour vos projets en <span class="font-semibold text-foreground/90">30 secondes</span>.
         </p>
 
         <!-- Search bar -->
