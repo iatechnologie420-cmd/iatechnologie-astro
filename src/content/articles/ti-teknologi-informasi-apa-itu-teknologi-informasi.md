@@ -2,7 +2,7 @@
 lang: "id"
 title: "TI / Teknologi Informasi: apa itu teknologi informasi?"
 slug: "ti-teknologi-informasi-apa-itu-teknologi-informasi"
-excerpt: "Pengertian TI: Pengertian dan Evolusi Teknologi Informasi Apa itu? Syarat DIA, Untuk Teknologi Informasi dalam bahasa Inggris, mengacu pada semua teknologi yang terkait dengan pemrosesan dan pengelolaan informasi dan data. Bidang yang luas ini mencakup ilmu komputer, telekomunikasi, sistem manajemen basis data, keamanan informasi, dan banyak lagi. TI sangat penting di dunia modern: TI memungkinkan [&hellip;]"
+excerpt: "Pengertian TI: Pengertian dan Evolusi Teknologi Informasi Apa itu? Syarat DIA, Untuk Teknologi Informasi dalam bahasa Inggris, mengacu pada semua teknologi yang terkait dengan pemrosesan dan pengelolaan informasi dan data. Bidang yang luas ini mencakup ilmu komputer, telekomunikasi, sistem manajemen basis data, keamanan informasi, dan banyak lagi. TI sangat penting di dunia modern: TI memungkinkan […]"
 date: "2024-03-09T12:20:17"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
@@ -10,7 +10,7 @@ categories: ["infrastruktur-dan-jaringan-id", "teknologi-dan-digital-id"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Compreendendo o teste de Turing"
 slug: "compreendendo-o-teste-de-turing"
-excerpt: "Origens e princípios do teste de Turing No mundo da inteligência artificial (IA) e da computação, o teste de Turing ocupa um lugar de destaque. Este é um método de referência concebido para avaliar a capacidade de uma máquina imitar a inteligência humana. As origens e os princípios deste teste revolucionário remontam a meados do [&hellip;]"
+excerpt: "Origens e princípios do teste de Turing No mundo da inteligência artificial (IA) e da computação, o teste de Turing ocupa um lugar de destaque. Este é um método de referência concebido para avaliar a capacidade de uma máquina imitar a inteligência humana. As origens e os princípios deste teste revolucionário remontam a meados do […]"
 date: "2024-03-09T12:57:55"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["treinamento-e-fundamentos-de-ia-pt"]
@@ -84,7 +84,7 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<p>&#8211; <strong>Qualidade das respostas</strong> : Devem ser coerentes e parecer naturais, como se viessem de um humano.<br>&#8211; <strong>Diversidade na conversa</strong> : A capacidade da máquina de participar de uma ampla variedade de tópicos indica alguma forma de compreensão ou adaptação.<br>&#8211; <strong>Gerenciando ambigüidades</strong> : uma máquina deve ser capaz de lidar com as sutilezas e nuances da linguagem, incluindo metáforas, humor e referências culturais.<br>&#8211; <strong>Emoção e empatia</strong>: A inteligência artificial deve demonstrar alguma forma de empatia ou resposta emocional apropriada às situações.</p>
+<p>– <strong>Qualidade das respostas</strong> : Devem ser coerentes e parecer naturais, como se viessem de um humano.<br>– <strong>Diversidade na conversa</strong> : A capacidade da máquina de participar de uma ampla variedade de tópicos indica alguma forma de compreensão ou adaptação.<br>– <strong>Gerenciando ambigüidades</strong> : uma máquina deve ser capaz de lidar com as sutilezas e nuances da linguagem, incluindo metáforas, humor e referências culturais.<br>– <strong>Emoção e empatia</strong>: A inteligência artificial deve demonstrar alguma forma de empatia ou resposta emocional apropriada às situações.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<p>&#8211; <strong>Anonimato total</strong> : O interrogador não deve ter nenhuma pista visual ou sonora que possa ajudá-lo a identificar a entidade por trás das respostas.<br>&#8211; <strong>Interface de comunicação neutra</strong> : As respostas devem ser transmitidas por meio de teclado e tela para evitar discriminação com base na voz ou na caligrafia.</p>
+<p>– <strong>Anonimato total</strong> : O interrogador não deve ter nenhuma pista visual ou sonora que possa ajudá-lo a identificar a entidade por trás das respostas.<br>– <strong>Interface de comunicação neutra</strong> : As respostas devem ser transmitidas por meio de teclado e tela para evitar discriminação com base na voz ou na caligrafia.</p>
 
 
 
@@ -104,7 +104,7 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<p>As avaliações devem basear-se em critérios objetivos, embora o julgamento subjetivo do entrevistador humano desempenhe um papel central na decisão final. Os seguintes aspectos são cruciais:<br>&#8211; <strong>Estatísticas de sucesso</strong> : a porcentagem de vezes que os juízes são enganados é um indicador importante.<br>&#8211; <strong>Controle de polarização</strong> : O preconceito do questionador deve ser minimizado por um bom método de avaliação para garantir a imparcialidade do teste.</p>
+<p>As avaliações devem basear-se em critérios objetivos, embora o julgamento subjetivo do entrevistador humano desempenhe um papel central na decisão final. Os seguintes aspectos são cruciais:<br>– <strong>Estatísticas de sucesso</strong> : a porcentagem de vezes que os juízes são enganados é um indicador importante.<br>– <strong>Controle de polarização</strong> : O preconceito do questionador deve ser minimizado por um bom método de avaliação para garantir a imparcialidade do teste.</p>
 
 
 
@@ -112,7 +112,7 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<p>As interações durante o Teste de Turing devem ser naturais e fluidas, imitando o fluxo de uma conversa humana real. Os seguintes elementos devem ser levados em consideração:<br>&#8211; <strong>Reatividade</strong> : A máquina deve responder às perguntas em um ritmo semelhante ao de uma conversa humana normal.<br>&#8211; <strong>Interação bidirecional</strong> : A máquina não deve apenas responder perguntas, mas também ser capaz de fazer perguntas para mostrar que está acompanhando e participando ativamente da conversa.</p>
+<p>As interações durante o Teste de Turing devem ser naturais e fluidas, imitando o fluxo de uma conversa humana real. Os seguintes elementos devem ser levados em consideração:<br>– <strong>Reatividade</strong> : A máquina deve responder às perguntas em um ritmo semelhante ao de uma conversa humana normal.<br>– <strong>Interação bidirecional</strong> : A máquina não deve apenas responder perguntas, mas também ser capaz de fazer perguntas para mostrar que está acompanhando e participando ativamente da conversa.</p>
 
 
 
@@ -164,7 +164,7 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<p>&#8211; Conversas aprofundadas sobre temas específicos<br>&#8211; Criação de conteúdo artístico original<br>&#8211; Reações a eventos inesperados ou novas informações<br>&#8211; Interação em tempo real com o ambiente, por exemplo, através de robôs</p>
+<p>– Conversas aprofundadas sobre temas específicos<br>– Criação de conteúdo artístico original<br>– Reações a eventos inesperados ou novas informações<br>– Interação em tempo real com o ambiente, por exemplo, através de robôs</p>
 
 
 

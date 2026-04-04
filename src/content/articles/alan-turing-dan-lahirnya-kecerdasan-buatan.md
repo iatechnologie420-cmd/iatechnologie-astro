@@ -2,7 +2,7 @@
 lang: "id"
 title: "Alan Turing dan lahirnya kecerdasan buatan"
 slug: "alan-turing-dan-lahirnya-kecerdasan-buatan"
-excerpt: "Alan Turing: Bapak Pendiri Kecerdasan Buatan Alan Turing: Bapak Pendiri Kecerdasan BuatanSejarah kecerdasan buatan (AI) tidak dapat diceritakan sepenuhnya tanpa menyebut nama Alan Turing, yang dianggap oleh banyak orang sebagai bapak pendiri bidang ini yang saat ini merevolusi banyak aspek kehidupan kita sehari-hari. Kontribusinya lebih dari sekedar penemuan sederhana; hal ini didasarkan pada konsep dan [&hellip;]"
+excerpt: "Alan Turing: Bapak Pendiri Kecerdasan Buatan Alan Turing: Bapak Pendiri Kecerdasan BuatanSejarah kecerdasan buatan (AI) tidak dapat diceritakan sepenuhnya tanpa menyebut nama Alan Turing, yang dianggap oleh banyak orang sebagai bapak pendiri bidang ini yang saat ini merevolusi banyak aspek kehidupan kita sehari-hari. Kontribusinya lebih dari sekedar penemuan sederhana; hal ini didasarkan pada konsep dan […]"
 date: "2024-03-09T12:53:07"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["pelatihan-dan-dasar-dasar-ai-id"]
@@ -10,7 +10,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Video Alan Turing: Bapak AI</figcaption></figure>
 
 
@@ -32,7 +32,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>Alan Turing adalah seorang matematikawan asal Inggris yang karyanya memiliki pengaruh yang menentukan terhadap perkembangan komputasi dan kecerdasan buatan. Selama Perang Dunia Kedua, komitmennya untuk memecahkan kode Nazi, terutama dengan mesinnya yang disebut <strong>Bom</strong>, berkontribusi besar terhadap kemenangan Sekutu. Namun, setelah konflik dunia, penelitiannya mengambil dimensi yang benar-benar revolusioner dengan ditulisnya artikel terkenalnya &#8220;Mesin Komputasi dan Kecerdasan&#8221; pada tahun 1950.</p>
+<p>Alan Turing adalah seorang matematikawan asal Inggris yang karyanya memiliki pengaruh yang menentukan terhadap perkembangan komputasi dan kecerdasan buatan. Selama Perang Dunia Kedua, komitmennya untuk memecahkan kode Nazi, terutama dengan mesinnya yang disebut <strong>Bom</strong>, berkontribusi besar terhadap kemenangan Sekutu. Namun, setelah konflik dunia, penelitiannya mengambil dimensi yang benar-benar revolusioner dengan ditulisnya artikel terkenalnya “Mesin Komputasi dan Kecerdasan” pada tahun 1950.</p>
 
 
 
@@ -192,7 +192,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>&#8211; Dekripsi kode Enigma<br>&#8211; Desain Bom Kriptanalitik<br>&#8211; Formulasi mesin Turing<br>&#8211; Pikirkan tentang konsep tes Turing<br>&#8211; Membuka jalan menuju penelitian di bidang kecerdasan buatan</p>
+<p>– Dekripsi kode Enigma<br>– Desain Bom Kriptanalitik<br>– Formulasi mesin Turing<br>– Pikirkan tentang konsep tes Turing<br>– Membuka jalan menuju penelitian di bidang kecerdasan buatan</p>
 
 
 

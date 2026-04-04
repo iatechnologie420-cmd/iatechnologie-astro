@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Zakaj ChatGPT ne deluje in kaj storiti glede tega?"
 slug: "zakaj-chatgpt-ne-deluje-in-kaj-storiti-glede-tega"
-excerpt: "Zakaj ChatGPT ne deluje? Ko uporabljate ChatGPT, lahko naletite na težave, zaradi katerih ne deluje pravilno. Čeprav so te težave frustrirajoče, imajo lahko različne vzroke. V tem članku bomo raziskali nekaj pogostih razlogov, zakaj ChatGPT morda ne deluje pravilno, in vam ponudili rešitve za njihovo odpravo. 1. Nestabilna internetna povezava Nestabilna internetna povezava lahko povzroči [&hellip;]"
+excerpt: "Zakaj ChatGPT ne deluje? Ko uporabljate ChatGPT, lahko naletite na težave, zaradi katerih ne deluje pravilno. Čeprav so te težave frustrirajoče, imajo lahko različne vzroke. V tem članku bomo raziskali nekaj pogostih razlogov, zakaj ChatGPT morda ne deluje pravilno, in vam ponudili rešitve za njihovo odpravo. 1. Nestabilna internetna povezava Nestabilna internetna povezava lahko povzroči […]"
 date: "2024-03-09T12:17:46"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["aplikacije-ai-sl"]
@@ -38,7 +38,7 @@ categories: ["aplikacije-ai-sl"]
 
 
 
-<p>&#8211; Preverite, ali uporabljate najnovejšo različico brskalnika.<br>&#8211; Počistite predpomnilnik brskalnika, da odstranite vse poškodovane podatke, ki bi lahko vplivali na delovanje ChatGPT.<br>&#8211; Poskusite z drugim brskalnikom, da vidite, ali se težava še vedno pojavlja. Nekateri brskalniki imajo lahko težave z združljivostjo z nekaterimi funkcijami ChatGPT.</p>
+<p>– Preverite, ali uporabljate najnovejšo različico brskalnika.<br>– Počistite predpomnilnik brskalnika, da odstranite vse poškodovane podatke, ki bi lahko vplivali na delovanje ChatGPT.<br>– Poskusite z drugim brskalnikom, da vidite, ali se težava še vedno pojavlja. Nekateri brskalniki imajo lahko težave z združljivostjo z nekaterimi funkcijami ChatGPT.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["aplikacije-ai-sl"]
 
 
 
-<p>&#8211; Zmanjšajte velikost svoje zahteve tako, da zmanjšate število besed ali preoblikujete svojo zahtevo.<br>&#8211; Svojo zahtevo razdelite na več manjših delov in jih pošljite ločeno.<br>&#8211; Bodite potrpežljivi in ​​počakajte, da strežniki za obdelavo končajo obdelavo vaše prejšnje zahteve, preden pošljete novo.</p>
+<p>– Zmanjšajte velikost svoje zahteve tako, da zmanjšate število besed ali preoblikujete svojo zahtevo.<br>– Svojo zahtevo razdelite na več manjših delov in jih pošljite ločeno.<br>– Bodite potrpežljivi in ​​počakajte, da strežniki za obdelavo končajo obdelavo vaše prejšnje zahteve, preden pošljete novo.</p>
 
 
 

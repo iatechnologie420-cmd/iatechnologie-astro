@@ -2,14 +2,14 @@
 lang: "id"
 title: "SSD: semua yang perlu Anda ketahui tentang penyimpanan data Solid-State Drive"
 slug: "ssd-semua-yang-perlu-anda-ketahui-tentang-penyimpanan-data-solid-state-drive"
-excerpt: "Pengantar SSD dan Cara Kerjanya Munculnya solid state disk, atau SSD (Penggerak Solid State dalam bahasa Inggris), menandai revolusi nyata di bidang penyimpanan data. Tidak seperti hard disk drive (HDD) tradisional yang menggunakan piringan magnetis untuk menyimpan informasi, HDD SSD mengandalkan chip memori flash tanpa bagian yang bergerak. Perubahan teknologi ini menawarkan manfaat signifikan dalam [&hellip;]"
+excerpt: "Pengantar SSD dan Cara Kerjanya Munculnya solid state disk, atau SSD (Penggerak Solid State dalam bahasa Inggris), menandai revolusi nyata di bidang penyimpanan data. Tidak seperti hard disk drive (HDD) tradisional yang menggunakan piringan magnetis untuk menyimpan informasi, HDD SSD mengandalkan chip memori flash tanpa bagian yang bergerak. Perubahan teknologi ini menawarkan manfaat signifikan dalam […]"
 date: "2024-03-09T12:22:15"
 categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How It&#039;s Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="How It's Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

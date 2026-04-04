@@ -2,7 +2,7 @@
 lang: "de"
 title: "Wie finde ich GPS-Koordinaten (Breiten- und Längengrad) auf Google Maps?"
 slug: "wie-finde-ich-gps-koordinaten-breiten-und-langengrad-auf-google-maps"
-excerpt: "DER GPS (Global Positioning System) ist eine Technologie, die aus unserem täglichen Leben nicht mehr wegzudenken ist. Mithilfe von Satelliten übertragener Signale wird die GPS-System ermöglicht es uns, unsere Position in Form von geografischen Koordinaten genau zu bestimmen. Diese Koordinaten werden durch zwei Schlüsselelemente dargestellt: die Breite und das Längengrad. In diesem Artikel werden wir [&hellip;]"
+excerpt: "DER GPS (Global Positioning System) ist eine Technologie, die aus unserem täglichen Leben nicht mehr wegzudenken ist. Mithilfe von Satelliten übertragener Signale wird die GPS-System ermöglicht es uns, unsere Position in Form von geografischen Koordinaten genau zu bestimmen. Diese Koordinaten werden durch zwei Schlüsselelemente dargestellt: die Breite und das Längengrad. In diesem Artikel werden wir […]"
 date: "2024-03-09T12:02:32"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["technologie-und-digital-de"]
@@ -142,7 +142,7 @@ categories: ["technologie-und-digital-de"]
 
 
 
-<p>        Nachdem Sie Koordinaten gefunden oder eingegeben haben, <strong>Google Maps</strong> bietet auch die Möglichkeit, diese Informationen zu teilen oder sie zur späteren Bezugnahme mit einer Stecknadel zu markieren. So geht&#8217;s:</p>
+<p>        Nachdem Sie Koordinaten gefunden oder eingegeben haben, <strong>Google Maps</strong> bietet auch die Möglichkeit, diese Informationen zu teilen oder sie zur späteren Bezugnahme mit einer Stecknadel zu markieren. So geht’s:</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "pl"
 title: "E-reputacja: Zarządzanie wizerunkiem osoby w Internecie"
 slug: "e-reputacja-zarzadzanie-wizerunkiem-osoby-w-internecie"
-excerpt: "Zrozumienie e-reputacji i jej znaczenia Wraz z ciągłą ewolucją technologii cyfrowych i rosnącą integracją mediów społecznościowych z naszym codziennym życiem,e-reputacja stało się kluczowym czynnikiem dla osób fizycznych i przedsiębiorstw. To wszystkie informacje obecne w Internecie, które wpływają na publiczny odbiór marki, firmy lub osoby. L&#8217;e-reputacja jest kształtowany przez komentarze, opinie, obrazy i interakcje na różnych [&hellip;]"
+excerpt: "Zrozumienie e-reputacji i jej znaczenia Wraz z ciągłą ewolucją technologii cyfrowych i rosnącą integracją mediów społecznościowych z naszym codziennym życiem,e-reputacja stało się kluczowym czynnikiem dla osób fizycznych i przedsiębiorstw. To wszystkie informacje obecne w Internecie, które wpływają na publiczny odbiór marki, firmy lub osoby. L’e-reputacja jest kształtowany przez komentarze, opinie, obrazy i interakcje na różnych […]"
 date: "2024-03-09T11:58:36"
 categories: ["media-i-platformy-cyfrowe-pl", "technologia-i-cyfrowosc-pl"]
 ---
@@ -23,7 +23,7 @@ categories: ["media-i-platformy-cyfrowe-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>   Wraz z ciągłą ewolucją technologii cyfrowych i rosnącą integracją mediów społecznościowych z naszym codziennym życiem,<strong>e-reputacja</strong> stało się kluczowym czynnikiem dla osób fizycznych i przedsiębiorstw. To wszystkie informacje obecne w Internecie, które wpływają na publiczny odbiór marki, firmy lub osoby. L&#8217;<strong>e-reputacja</strong> jest kształtowany przez komentarze, opinie, obrazy i interakcje na różnych platformach, takich jak sieci społecznościowe, blogi, fora lub strony z recenzjami.</p>
+<p>   Wraz z ciągłą ewolucją technologii cyfrowych i rosnącą integracją mediów społecznościowych z naszym codziennym życiem,<strong>e-reputacja</strong> stało się kluczowym czynnikiem dla osób fizycznych i przedsiębiorstw. To wszystkie informacje obecne w Internecie, które wpływają na publiczny odbiór marki, firmy lub osoby. L’<strong>e-reputacja</strong> jest kształtowany przez komentarze, opinie, obrazy i interakcje na różnych platformach, takich jak sieci społecznościowe, blogi, fora lub strony z recenzjami.</p>
 
 
 
@@ -35,7 +35,7 @@ categories: ["media-i-platformy-cyfrowe-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>   L&#8217;<strong>e-reputacja</strong> składa się z kilku elementów, z których najważniejsze to:</p>
+<p>   L’<strong>e-reputacja</strong> składa się z kilku elementów, z których najważniejsze to:</p>
 
 
 
@@ -115,7 +115,7 @@ categories: ["media-i-platformy-cyfrowe-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>L&#8217;<strong>e-reputacja</strong>lub reputacja cyfrowa odnosi się do postrzegania przez użytkowników Internetu osoby lub marki w Internecie. W epoce, w której większość interakcji i wymian odbywa się online, zachowanie dobrego <strong>e-reputacja</strong> ma kluczowe znaczenie dla sukcesu i wiarygodności podmiotu. Oto podstawy skutecznego zarządzania swoim wizerunkiem w sieci.</p>
+<p>L’<strong>e-reputacja</strong>lub reputacja cyfrowa odnosi się do postrzegania przez użytkowników Internetu osoby lub marki w Internecie. W epoce, w której większość interakcji i wymian odbywa się online, zachowanie dobrego <strong>e-reputacja</strong> ma kluczowe znaczenie dla sukcesu i wiarygodności podmiotu. Oto podstawy skutecznego zarządzania swoim wizerunkiem w sieci.</p>
 
 
 

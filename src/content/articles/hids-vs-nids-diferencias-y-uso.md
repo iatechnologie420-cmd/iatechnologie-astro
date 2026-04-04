@@ -2,7 +2,7 @@
 lang: "es"
 title: "HIDS vs NIDS: diferencias y uso"
 slug: "hids-vs-nids-diferencias-y-uso"
-excerpt: "Introducción a los sistemas de detección de intrusos: HIDS y NIDS La seguridad de los sistemas de información es una preocupación central para empresas y organizaciones de todos los tamaños. Ante las crecientes amenazas y la sofisticación de los ciberataques, es imperativo implementar mecanismos de defensa eficaces. Entre estos, el sistema de deteccion de intrusos [&hellip;]"
+excerpt: "Introducción a los sistemas de detección de intrusos: HIDS y NIDS La seguridad de los sistemas de información es una preocupación central para empresas y organizaciones de todos los tamaños. Ante las crecientes amenazas y la sofisticación de los ciberataques, es imperativo implementar mecanismos de defensa eficaces. Entre estos, el sistema de deteccion de intrusos […]"
 date: "2024-03-09T11:57:03"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
 categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]

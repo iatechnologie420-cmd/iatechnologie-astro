@@ -1,8 +1,8 @@
 ---
-lang: "fr"
+lang: "es"
 title: "MidJourney: todo lo que necesitas saber sobre la controvertida IA"
 slug: "midjourney-todo-lo-que-necesitas-saber-sobre-la-controvertida-ia"
-excerpt: "Entendiendo la mitad del viaje MidJourney es una poderosa inteligencia artificial que transforma la forma en que interactuamos con la tecnología. Utilice esta guía como recurso para comprender sus orígenes y funciones clave. ¿Qué es Mitad de Viaje? MidJourney es una herramienta inteligencia artificial vanguardista diseñado para mejorar y facilitar nuestras interacciones diarias con las [&hellip;]"
+excerpt: "Entendiendo la mitad del viaje MidJourney es una poderosa inteligencia artificial que transforma la forma en que interactuamos con la tecnología. Utilice esta guía como recurso para comprender sus orígenes y funciones clave. ¿Qué es Mitad de Viaje? MidJourney es una herramienta inteligencia artificial vanguardista diseñado para mejorar y facilitar nuestras interacciones diarias con las […]"
 date: "2024-03-09T11:50:16"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
 categories: ["aplicaciones-de-ia-es"]
@@ -78,7 +78,7 @@ categories: ["aplicaciones-de-ia-es"]
 
 
 
-<p>La IA también ha comenzado a causar sensación en el mundo de la cultura y el arte. Ya sea con el cortometraje &#8220;Imagine&#8221;, producido íntegramente por una IA y coronado en el Festival de Cine de Nikon, o con una obra de arte creada por una IA y ganadora de un concurso en detrimento de los artistas humanos, el lugar de la IA sigue creciendo. .</p>
+<p>La IA también ha comenzado a causar sensación en el mundo de la cultura y el arte. Ya sea con el cortometraje “Imagine”, producido íntegramente por una IA y coronado en el Festival de Cine de Nikon, o con una obra de arte creada por una IA y ganadora de un concurso en detrimento de los artistas humanos, el lugar de la IA sigue creciendo. .</p>
 
 
 
@@ -111,7 +111,7 @@ categories: ["aplicaciones-de-ia-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lelabodesreseaux/video/7242723401444412699" data-video-id="7242723401444412699" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@lelabodesreseaux" href="https://www.tiktok.com/@lelabodesreseaux?refer=embed" rel="noopener">@lelabodesreseaux</a> <p>Des Vidéos générés par l’IA en un seul Clic grâce à GEN 2 <a title="gen2" target="_blank" href="https://www.tiktok.com/tag/gen2?refer=embed" rel="noopener">#gen2</a> <a title="gen" target="_blank" href="https://www.tiktok.com/tag/gen?refer=embed" rel="noopener">#gen</a> <a title="ia" target="_blank" href="https://www.tiktok.com/tag/ia?refer=embed" rel="noopener">#ia</a> <a title="texteenvideo" target="_blank" href="https://www.tiktok.com/tag/texteenvideo?refer=embed" rel="noopener">#texteenvideo</a> <a title="texttovideo" target="_blank" href="https://www.tiktok.com/tag/texttovideo?refer=embed" rel="noopener">#texttovideo</a> </p> <a target="_blank" title="♬ Lo-Fi analog beat - Gloveity" href="https://www.tiktok.com/music/Lo-Fi-analog-beat-6817312022837872642?refer=embed" rel="noopener">♬ Lo-Fi analog beat &#8211; Gloveity</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lelabodesreseaux/video/7242723401444412699" data-video-id="7242723401444412699" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@lelabodesreseaux" href="https://www.tiktok.com/@lelabodesreseaux?refer=embed" rel="noopener">@lelabodesreseaux</a> <p>Des Vidéos générés par l’IA en un seul Clic grâce à GEN 2 <a title="gen2" target="_blank" href="https://www.tiktok.com/tag/gen2?refer=embed" rel="noopener">#gen2</a> <a title="gen" target="_blank" href="https://www.tiktok.com/tag/gen?refer=embed" rel="noopener">#gen</a> <a title="ia" target="_blank" href="https://www.tiktok.com/tag/ia?refer=embed" rel="noopener">#ia</a> <a title="texteenvideo" target="_blank" href="https://www.tiktok.com/tag/texteenvideo?refer=embed" rel="noopener">#texteenvideo</a> <a title="texttovideo" target="_blank" href="https://www.tiktok.com/tag/texttovideo?refer=embed" rel="noopener">#texttovideo</a> </p> <a target="_blank" title="♬ Lo-Fi analog beat - Gloveity" href="https://www.tiktok.com/music/Lo-Fi-analog-beat-6817312022837872642?refer=embed" rel="noopener">♬ Lo-Fi analog beat – Gloveity</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

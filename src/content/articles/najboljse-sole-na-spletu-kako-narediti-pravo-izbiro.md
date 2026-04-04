@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Najboljše šole na spletu: kako narediti pravo izbiro"
 slug: "najboljse-sole-na-spletu-kako-narediti-pravo-izbiro"
-excerpt: "Svet izobraževanja se nenehno spreminja, še posebej s prihodom novih tehnologij. Danes je na spletu dostopnih veliko tečajev usposabljanja, ki ponujajo prožnost in prilagodljivost vsakemu učencu. Vodili vas bomo skozi vrsto razpoložljivih možnosti, da boste lahko izbirali na podlagi informacij spletna šola ki prednostno izpolnjuje vaše želje. Razumevanje izzivov učenja na daljavo Študij na daljavo [&hellip;]"
+excerpt: "Svet izobraževanja se nenehno spreminja, še posebej s prihodom novih tehnologij. Danes je na spletu dostopnih veliko tečajev usposabljanja, ki ponujajo prožnost in prilagodljivost vsakemu učencu. Vodili vas bomo skozi vrsto razpoložljivih možnosti, da boste lahko izbirali na podlagi informacij spletna šola ki prednostno izpolnjuje vaše želje. Razumevanje izzivov učenja na daljavo Študij na daljavo […]"
 date: "2024-03-09T12:50:45"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-meilleures-ecoles-du-web-3.png"
 categories: ["usposabljanje-in-osnove-ai-sl"]
@@ -150,7 +150,7 @@ categories: ["usposabljanje-in-osnove-ai-sl"]
 
 
 
-<p>Udacity se osredotoča na tehnične veščine prek svojih &#8220;Nanodegrees&#8221;, programov usposabljanja, zasnovanih v sodelovanju z vodilnimi podjetji v IT sektorju.</p>
+<p>Udacity se osredotoča na tehnične veščine prek svojih “Nanodegrees”, programov usposabljanja, zasnovanih v sodelovanju z vodilnimi podjetji v IT sektorju.</p>
 
 
 

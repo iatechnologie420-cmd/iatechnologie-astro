@@ -2,7 +2,7 @@
 lang: "es"
 title: "El teorema de Bayes y su uso en IA"
 slug: "el-teorema-de-bayes-y-su-uso-en-ia"
-excerpt: "Introducción al teorema de Bayes EL Teorema de Bayes Es una fórmula fundamental en probabilidad y estadística que describe la actualización de nuestras creencias en presencia de nueva información. Este teorema, que lleva el nombre del reverendo Thomas Bayes, desempeña un papel crucial en muchos campos que van desde el aprendizaje automático hasta la toma [&hellip;]"
+excerpt: "Introducción al teorema de Bayes EL Teorema de Bayes Es una fórmula fundamental en probabilidad y estadística que describe la actualización de nuestras creencias en presencia de nueva información. Este teorema, que lleva el nombre del reverendo Thomas Bayes, desempeña un papel crucial en muchos campos que van desde el aprendizaje automático hasta la toma […]"
 date: "2024-03-09T12:12:16"
 categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 ---
@@ -232,7 +232,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 <ul class="wp-block-list">
-<li><strong>Bayes ingenuo</strong>: Un clasificador probabilístico que, a pesar de su nombre &#8216;ingenuo&#8217;, destaca por su simplicidad y eficacia, especialmente cuando la probabilidad de las características es independiente.</li>
+<li><strong>Bayes ingenuo</strong>: Un clasificador probabilístico que, a pesar de su nombre ‘ingenuo’, destaca por su simplicidad y eficacia, especialmente cuando la probabilidad de las características es independiente.</li>
 
 
 

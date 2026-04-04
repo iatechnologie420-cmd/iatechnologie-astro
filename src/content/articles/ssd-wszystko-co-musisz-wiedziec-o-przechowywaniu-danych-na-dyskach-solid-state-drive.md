@@ -2,14 +2,14 @@
 lang: "pl"
 title: "SSD: wszystko, co musisz wiedzieć o przechowywaniu danych na dyskach Solid-State Drive"
 slug: "ssd-wszystko-co-musisz-wiedziec-o-przechowywaniu-danych-na-dyskach-solid-state-drive"
-excerpt: "Wprowadzenie do dysków SSD i ich działania Pojawienie się dysków półprzewodnikowych lub SSD (Dysk SSD w języku angielskim), zapoczątkowała prawdziwą rewolucję w dziedzinie przechowywania danych. W przeciwieństwie do tradycyjnych dysków twardych (HDD), które wykorzystują talerze magnetyczne do przechowywania informacji, dyski twarde SSD polegać na układach pamięci flash pozbawionych ruchomych części. Ta zmiana technologii zapewnia znaczne [&hellip;]"
+excerpt: "Wprowadzenie do dysków SSD i ich działania Pojawienie się dysków półprzewodnikowych lub SSD (Dysk SSD w języku angielskim), zapoczątkowała prawdziwą rewolucję w dziedzinie przechowywania danych. W przeciwieństwie do tradycyjnych dysków twardych (HDD), które wykorzystują talerze magnetyczne do przechowywania informacji, dyski twarde SSD polegać na układach pamięci flash pozbawionych ruchomych części. Ta zmiana technologii zapewnia znaczne […]"
 date: "2024-03-09T12:23:50"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How It&#039;s Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="How It's Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

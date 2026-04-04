@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Master Data Manager: rol, competențe, pregătire și salariu"
 slug: "master-data-manager-rol-competente-pregatire-si-salariu"
-excerpt: "Rolul cheie al Master Data Manager în guvernarea datelor Într-o lume în care datele au devenit un activ strategic major pentru companii, guvernarea datelor este esențială pentru a asigura calitatea, securitatea și eficacitatea informațiilor. În centrul acestei guvernări, Manager de date principale (MDM) joacă un rol crucial. Să explorăm împreună responsabilitățile și impactul acestei poziții [&hellip;]"
+excerpt: "Rolul cheie al Master Data Manager în guvernarea datelor Într-o lume în care datele au devenit un activ strategic major pentru companii, guvernarea datelor este esențială pentru a asigura calitatea, securitatea și eficacitatea informațiilor. În centrul acestei guvernări, Manager de date principale (MDM) joacă un rol crucial. Să explorăm împreună responsabilitățile și impactul acestei poziții […]"
 date: "2024-03-09T12:17:15"
 categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 ---
@@ -111,7 +111,7 @@ categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 
 
 
-<p>Managerul Master Data trebuie să se confrunte în mod constant cu noi provocări, legate în special de evoluțiile tehnologice precum <strong>Date mare</strong>, L&#8217;<strong>inteligenţă artificială</strong> si <strong>cloud computing</strong>. Aceasta înseamnă să rămâneți în fruntea cunoștințelor tehnice și a tendințelor pieței pentru a asigura în continuare o guvernare eficientă a datelor.</p>
+<p>Managerul Master Data trebuie să se confrunte în mod constant cu noi provocări, legate în special de evoluțiile tehnologice precum <strong>Date mare</strong>, L’<strong>inteligenţă artificială</strong> si <strong>cloud computing</strong>. Aceasta înseamnă să rămâneți în fruntea cunoștințelor tehnice și a tendințelor pieței pentru a asigura în continuare o guvernare eficientă a datelor.</p>
 
 
 

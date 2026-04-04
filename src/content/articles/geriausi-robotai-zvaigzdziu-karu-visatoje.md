@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Geriausi robotai Žvaigždžių karų visatoje"
 slug: "geriausi-robotai-zvaigzdziu-karu-visatoje"
-excerpt: "Mechaninės legendos: C-3PO ir R2-D2 Laikomi emblemiškiausiais sagos droidais Žvaigždžių karai, C-3PO ir R2-D2 paženklino gerbėjų kartas savo unikalia asmenybe, istorija ir lemiamu vaidmeniu visuose epizoduose. Šiame straipsnyje gilinamasi į šių mechaninių legendų pasaulį, atskleidžiama jų esmė ir kultūrinis poveikis. C-3PO: „Polyglot Droid“ protokolas C-3PO, dažnai pravardžiuojamas Threepio, yra a protokolo droidas skirtos padėti atlikti [&hellip;]"
+excerpt: "Mechaninės legendos: C-3PO ir R2-D2 Laikomi emblemiškiausiais sagos droidais Žvaigždžių karai, C-3PO ir R2-D2 paženklino gerbėjų kartas savo unikalia asmenybe, istorija ir lemiamu vaidmeniu visuose epizoduose. Šiame straipsnyje gilinamasi į šių mechaninių legendų pasaulį, atskleidžiama jų esmė ir kultūrinis poveikis. C-3PO: „Polyglot Droid“ protokolas C-3PO, dažnai pravardžiuojamas Threepio, yra a protokolo droidas skirtos padėti atlikti […]"
 date: "2024-03-09T12:22:39"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["technologijos-ir-skaitmeninis-lt"]
@@ -10,7 +10,7 @@ categories: ["technologijos-ir-skaitmeninis-lt"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -80,7 +80,7 @@ categories: ["technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>BB-8 pirmą kartą pasirodė &#8220;<strong>Žvaigždžių karai: VII serija – Jėga nubunda</strong>&#8221; 2015 m. Šis astromechaninis droidas greitai tapo gerbėjų mėgstamiausiu dėl savo unikalios sferinės formos, judraus mobilumo ir linksmos asmenybės. BB-8 priklauso vienam iš naujosios trilogijos herojų, <strong>Poe Dameronas</strong>, ir kartu jie dalijasi daugybe nuotykių visoje galaktikoje.</p>
+<p>BB-8 pirmą kartą pasirodė “<strong>Žvaigždžių karai: VII serija – Jėga nubunda</strong>” 2015 m. Šis astromechaninis droidas greitai tapo gerbėjų mėgstamiausiu dėl savo unikalios sferinės formos, judraus mobilumo ir linksmos asmenybės. BB-8 priklauso vienam iš naujosios trilogijos herojų, <strong>Poe Dameronas</strong>, ir kartu jie dalijasi daugybe nuotykių visoje galaktikoje.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>D-O pirmą kartą pristatomas &#8220;<strong>Žvaigždžių karai: IX serija – Skywalkerio iškilimas</strong>“ išleistas 2019 m. Šis mažas droidas ant vieno rato stebina savo gebėjimu judinti žmones. Vaikišką žaislą primenančia forma ir būdingu švilpiančiu balsu jis įkūnija naują draugą, kurio visi norėtume turėti.</p>
+<p>D-O pirmą kartą pristatomas “<strong>Žvaigždžių karai: IX serija – Skywalkerio iškilimas</strong>“ išleistas 2019 m. Šis mažas droidas ant vieno rato stebina savo gebėjimu judinti žmones. Vaikišką žaislą primenančia forma ir būdingu švilpiančiu balsu jis įkūnija naują draugą, kurio visi norėtume turėti.</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "is"
 title: "Gagnaafrit: hvað er það, hvers vegna gera það?"
 slug: "gagnaafrit-hvad-er-thad-hvers-vegna-gera-thad"
-excerpt: "Skilja mikilvægi öryggisafritunar Gagnaafritun er nauðsynleg til að vernda upplýsingar gegn hugsanlegu tapi vegna vélbúnaðarbilunar, mannlegra mistaka, spilliforrita eða náttúruhamfara. Fullnægjandi afritunarkerfi gerir kleift að endurheimta týnd eða skemmd gögn og tryggir samfellu í rekstri. Þekkja tegundir öryggisafritunar Það eru nokkrar öryggisafritunaraðferðir, hver aðlöguð að sérstökum þörfum: Veldu tíðni afrita Tíðni öryggisafritunar fer eftir því [&hellip;]"
+excerpt: "Skilja mikilvægi öryggisafritunar Gagnaafritun er nauðsynleg til að vernda upplýsingar gegn hugsanlegu tapi vegna vélbúnaðarbilunar, mannlegra mistaka, spilliforrita eða náttúruhamfara. Fullnægjandi afritunarkerfi gerir kleift að endurheimta týnd eða skemmd gögn og tryggir samfellu í rekstri. Þekkja tegundir öryggisafritunar Það eru nokkrar öryggisafritunaraðferðir, hver aðlöguð að sérstökum þörfum: Veldu tíðni afrita Tíðni öryggisafritunar fer eftir því […]"
 date: "2024-03-09T12:04:14"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-3.png"
 categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]

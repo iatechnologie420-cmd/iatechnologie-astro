@@ -2,7 +2,7 @@
 lang: "es"
 title: "Comunicaciones Unificadas: ¿la inalcanzabilidad se ha vuelto imposible?"
 slug: "comunicaciones-unificadas-la-inalcanzabilidad-se-ha-vuelto-imposible"
-excerpt: "Comunicaciones unificadas: definición y principio ¿Qué son las Comunicaciones Unificadas? EL Comunicaciones Unificadas (CU), o Comunicaciones Unificadas en inglés, designa un conjunto de servicios y soluciones que tienen como objetivo integrar o unificar varias formas de comunicaciones dentro de una misma interfaz o plataforma. Esto incluye mensajería instantánea, videoconferencias, llamadas de voz (VoIP), correo electrónico, [&hellip;]"
+excerpt: "Comunicaciones unificadas: definición y principio ¿Qué son las Comunicaciones Unificadas? EL Comunicaciones Unificadas (CU), o Comunicaciones Unificadas en inglés, designa un conjunto de servicios y soluciones que tienen como objetivo integrar o unificar varias formas de comunicaciones dentro de una misma interfaz o plataforma. Esto incluye mensajería instantánea, videoconferencias, llamadas de voz (VoIP), correo electrónico, […]"
 date: "2024-03-09T11:59:58"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-3.png"
 categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
@@ -10,7 +10,7 @@ categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Qu&#039;est ce que la communication unifiée  ?" width="500" height="281" src="https://www.youtube.com/embed/gB_FWRvjFU0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Qu'est ce que la communication unifiée  ?" width="500" height="281" src="https://www.youtube.com/embed/gB_FWRvjFU0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -57,27 +57,27 @@ categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
 
 
 <ul class="wp-block-list">
-<li><strong>Mensajería instantánea</strong> &#8211; Permite intercambios en tiempo real entre compañeros.</li>
+<li><strong>Mensajería instantánea</strong> – Permite intercambios en tiempo real entre compañeros.</li>
 
 
 
-<li><strong>VoIP (Voz sobre Protocolo de Internet)</strong> &#8211; Autoriza realizar llamadas de voz a través de internet.</li>
+<li><strong>VoIP (Voz sobre Protocolo de Internet)</strong> – Autoriza realizar llamadas de voz a través de internet.</li>
 
 
 
-<li><strong>Videoconferencia</strong> &#8211; Facilita reuniones virtuales con vídeo.</li>
+<li><strong>Videoconferencia</strong> – Facilita reuniones virtuales con vídeo.</li>
 
 
 
-<li><strong>Mensajería electrónica</strong> &#8211; Centraliza el envío y recepción de correos electrónicos.</li>
+<li><strong>Mensajería electrónica</strong> – Centraliza el envío y recepción de correos electrónicos.</li>
 
 
 
-<li><strong>conferencia web</strong> &#8211; Le permite compartir presentaciones o documentos de forma remota.</li>
+<li><strong>conferencia web</strong> – Le permite compartir presentaciones o documentos de forma remota.</li>
 
 
 
-<li><strong>Buzón de voz y fax integrados</strong> &#8211; Asegura la recepción de mensajes de voz y fax en la bandeja de entrada del correo electrónico.</li>
+<li><strong>Buzón de voz y fax integrados</strong> – Asegura la recepción de mensajes de voz y fax en la bandeja de entrada del correo electrónico.</li>
 
 
 

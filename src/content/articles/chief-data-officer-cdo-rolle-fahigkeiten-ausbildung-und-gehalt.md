@@ -2,7 +2,7 @@
 lang: "de"
 title: "Chief Data Officer (CDO): ​​Rolle, Fähigkeiten, Ausbildung und Gehalt"
 slug: "chief-data-officer-cdo-rolle-fahigkeiten-ausbildung-und-gehalt"
-excerpt: "Der strategische Platz des Chief Data Officer im Unternehmen Im Zeitalter von Big Data und Datenanalysen erkennen Unternehmen zunehmend, wie wichtig es ist, ihre Daten strategisch zu verwalten und zu nutzen. Im Zentrum dieser Anerkennung steht eine Schlüsselrolle: die Chief Data Officer (CDO). Der CDO ist für das Gleichgewicht zwischen Governance, Datenqualität, Einhaltung gesetzlicher Vorschriften [&hellip;]"
+excerpt: "Der strategische Platz des Chief Data Officer im Unternehmen Im Zeitalter von Big Data und Datenanalysen erkennen Unternehmen zunehmend, wie wichtig es ist, ihre Daten strategisch zu verwalten und zu nutzen. Im Zentrum dieser Anerkennung steht eine Schlüsselrolle: die Chief Data Officer (CDO). Der CDO ist für das Gleichgewicht zwischen Governance, Datenqualität, Einhaltung gesetzlicher Vorschriften […]"
 date: "2024-03-09T12:09:09"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["computer-und-daten-de", "technologie-und-digital-de"]
@@ -10,7 +10,7 @@ categories: ["computer-und-daten-de", "technologie-und-digital-de"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="The Promise and Peril of the Chief Data &amp; Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="The Promise and Peril of the Chief Data & Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

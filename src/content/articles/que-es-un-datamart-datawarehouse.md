@@ -2,7 +2,7 @@
 lang: "es"
 title: "¿Qué es un Datamart/Datawarehouse?"
 slug: "que-es-un-datamart-datawarehouse"
-excerpt: "Introducción al concepto de Datamart EL centro de datos es un término imprescindible en el mundo del análisis de datos y del Business Intelligence (BI). Es una subsección de un almacén de datos, es decir, una base de datos especializada que almacena un segmento de la información de una empresa. Alors qu&#8217;un data warehouse peut [&hellip;]"
+excerpt: "Introducción al concepto de Datamart EL centro de datos es un término imprescindible en el mundo del análisis de datos y del Business Intelligence (BI). Es una subsección de un almacén de datos, es decir, una base de datos especializada que almacena un segmento de la información de una empresa. Alors qu’un data warehouse peut […]"
 date: "2024-03-09T12:15:40"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-3.png"
 categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
@@ -28,7 +28,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<p>Alors qu&#8217;un data warehouse peut être considéré comme une immense bibliothèque de données de l&#8217;entreprise, un datamart peut être vu comme une section spécifique de cette bibliothèque, organisée autour d&#8217;un sujet particulier, tel que les ventes, le marketing ou les recursos humanos.</p>
+<p>Alors qu’un data warehouse peut être considéré comme une immense bibliothèque de données de l’entreprise, un datamart peut être vu comme une section spécifique de cette bibliothèque, organisée autour d’un sujet particulier, tel que les ventes, le marketing ou les recursos humanos.</p>
 
 
 
@@ -44,7 +44,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<p>            La mise en place d&#8217;un datamart peut se faire à moindre coût et plus rapidement que la création d&#8217;un entrepôt de données complet, ce qui le rend attrayant pour les départements spécifiques souhaitant améliorer leur analyse de données sans attendre une solution d&#8217;entreprise a gran escala.</p>
+<p>            La mise en place d’un datamart peut se faire à moindre coût et plus rapidement que la création d’un entrepôt de données complet, ce qui le rend attrayant pour les départements spécifiques souhaitant améliorer leur analyse de données sans attendre une solution d’entreprise a gran escala.</p>
 
 
 

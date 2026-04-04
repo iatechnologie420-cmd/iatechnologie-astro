@@ -1,8 +1,8 @@
 ---
 lang: "it"
-title: "Robotica: tutto quello che c&#8217;è da sapere sulla scienza e l&#8217;ingegneria dei robot"
+title: "Robotica: tutto quello che c’è da sapere sulla scienza e l’ingegneria dei robot"
 slug: "robotica-tutto-quello-che-ce-da-sapere-sulla-scienza-e-lingegneria-dei-robot"
-excerpt: "Comprendere la scienza dietro le macchine La robotica è un affascinante ramo della tecnologia che combina vari campi della conoscenza per creare macchine in grado di svolgere compiti in modo autonomo o semi-autonomo. In questo articolo esploreremo le basi della robotica, comprenderemo i principi di base che consentono ai robot di funzionare e considereremo l&#8217;impatto [&hellip;]"
+excerpt: "Comprendere la scienza dietro le macchine La robotica è un affascinante ramo della tecnologia che combina vari campi della conoscenza per creare macchine in grado di svolgere compiti in modo autonomo o semi-autonomo. In questo articolo esploreremo le basi della robotica, comprenderemo i principi di base che consentono ai robot di funzionare e considereremo l’impatto […]"
 date: "2024-03-09T12:00:21"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/La-robotique-tout-savoir-sur-la-science-et-lingenierie-des-robots-3.png"
 categories: ["tecnologia-e-digitale-it"]
@@ -18,7 +18,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<p>La robotica è un affascinante ramo della tecnologia che combina vari campi della conoscenza per creare macchine in grado di svolgere compiti in modo autonomo o semi-autonomo. In questo articolo esploreremo le basi della robotica, comprenderemo i principi di base che consentono ai robot di funzionare e considereremo l&#8217;impatto di queste tecnologie nella nostra vita quotidiana.</p>
+<p>La robotica è un affascinante ramo della tecnologia che combina vari campi della conoscenza per creare macchine in grado di svolgere compiti in modo autonomo o semi-autonomo. In questo articolo esploreremo le basi della robotica, comprenderemo i principi di base che consentono ai robot di funzionare e considereremo l’impatto di queste tecnologie nella nostra vita quotidiana.</p>
 
 
 
@@ -26,7 +26,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<p>Il termine <strong>robotica</strong> si riferisce allo studio, alla progettazione e all&#8217;applicazione dei robot. Sebbene l’idea dei robot possa sembrare moderna, risale agli automi creati nelle antiche civiltà. La parola robot stessa deriva dal ceco robota, che significa lavoro forzato, ed è stata resa popolare dall&#8217;opera teatrale di Karel Čapek &#8220;R.U.R.&#8221; nel 1920. Da allora la robotica si è sviluppata in modo significativo e oggi integra la conoscenza della meccanica, dell’elettronica, dell’informatica e dell’intelligenza artificiale (AI).</p>
+<p>Il termine <strong>robotica</strong> si riferisce allo studio, alla progettazione e all’applicazione dei robot. Sebbene l’idea dei robot possa sembrare moderna, risale agli automi creati nelle antiche civiltà. La parola robot stessa deriva dal ceco robota, che significa lavoro forzato, ed è stata resa popolare dall’opera teatrale di Karel Čapek “R.U.R.” nel 1920. Da allora la robotica si è sviluppata in modo significativo e oggi integra la conoscenza della meccanica, dell’elettronica, dell’informatica e dell’intelligenza artificiale (AI).</p>
 
 
 
@@ -43,11 +43,11 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<li><strong>Sistemi di sensori</strong>: Occhi e orecchie del robot che gli permettono di percepire l&#8217;ambiente circostante.</li>
+<li><strong>Sistemi di sensori</strong>: Occhi e orecchie del robot che gli permettono di percepire l’ambiente circostante.</li>
 
 
 
-<li><strong>Il cervello elettronico</strong>: un sistema di controllo, spesso basato su un microprocessore o un&#8217;intelligenza artificiale, che elabora i dati sensoriali e prende decisioni.</li>
+<li><strong>Il cervello elettronico</strong>: un sistema di controllo, spesso basato su un microprocessore o un’intelligenza artificiale, che elabora i dati sensoriali e prende decisioni.</li>
 </ul>
 
 
@@ -64,7 +64,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<p>L&#8217;<strong>intelligenza artificiale</strong> è essenziale nella creazione di robot sofisticati. Permette ai robot di imparare dai propri errori, adattarsi a nuove situazioni ed eseguire compiti senza l’intervento umano. L’intelligenza artificiale può basarsi su regole predefinite o algoritmi di machine learning e reti neurali.</p>
+<p>L’<strong>intelligenza artificiale</strong> è essenziale nella creazione di robot sofisticati. Permette ai robot di imparare dai propri errori, adattarsi a nuove situazioni ed eseguire compiti senza l’intervento umano. L’intelligenza artificiale può basarsi su regole predefinite o algoritmi di machine learning e reti neurali.</p>
 
 
 
@@ -106,7 +106,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<p>Ora tuffiamoci nell&#8217;affascinante mondo di <strong>progettazione e produzione di robot</strong>, esplorando il processo dettagliato e le sfide tecniche spesso incontrate da ingegneri e ricercatori di robotica.</p>
+<p>Ora tuffiamoci nell’affascinante mondo di <strong>progettazione e produzione di robot</strong>, esplorando il processo dettagliato e le sfide tecniche spesso incontrate da ingegneri e ricercatori di robotica.</p>
 
 
 
@@ -203,7 +203,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<li>Gestione dell&#8217;autonomia energetica e della durata della batteria</li>
+<li>Gestione dell’autonomia energetica e della durata della batteria</li>
 
 
 
@@ -233,7 +233,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@esiee_it/video/7099421766409293062" data-video-id="7099421766409293062" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@esiee_it" href="https://www.tiktok.com/@esiee_it?refer=embed" rel="noopener">@esiee_it</a> <p>Découvre les formations robotique et la campus <a title="esieeit" target="_blank" href="https://www.tiktok.com/tag/esieeit?refer=embed" rel="noopener">#esieeit</a> de Montigny-le-bretonneux avec William <a title="formations" target="_blank" href="https://www.tiktok.com/tag/formations?refer=embed" rel="noopener">#formations</a> <a title="parcoursup" target="_blank" href="https://www.tiktok.com/tag/parcoursup?refer=embed" rel="noopener">#parcoursup</a> <a title="orientation" target="_blank" href="https://www.tiktok.com/tag/orientation?refer=embed" rel="noopener">#orientation</a> <a title="robotique" target="_blank" href="https://www.tiktok.com/tag/robotique?refer=embed" rel="noopener">#robotique</a> <a title="electronique" target="_blank" href="https://www.tiktok.com/tag/electronique?refer=embed" rel="noopener">#electronique</a> <a title="alternance" target="_blank" href="https://www.tiktok.com/tag/alternance?refer=embed" rel="noopener">#alternance</a> <a title="apprentissage" target="_blank" href="https://www.tiktok.com/tag/apprentissage?refer=embed" rel="noopener">#apprentissage</a> <a title="78" target="_blank" href="https://www.tiktok.com/tag/78?refer=embed" rel="noopener">#78</a> <a title="yvelines" target="_blank" href="https://www.tiktok.com/tag/yvelines?refer=embed" rel="noopener">#Yvelines</a> <a title="ComeDanceWithMe" target="_blank" href="https://www.tiktok.com/tag/ComeDanceWithMe?refer=embed" rel="noopener">#ComeDanceWithMe</a></p> <a target="_blank" title="♬ Unwritten Bracelet - DJ BAI" href="https://www.tiktok.com/music/Unwritten-Bracelet-6991886671184660482?refer=embed" rel="noopener">♬ Unwritten Bracelet &#8211; DJ BAI</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@esiee_it/video/7099421766409293062" data-video-id="7099421766409293062" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@esiee_it" href="https://www.tiktok.com/@esiee_it?refer=embed" rel="noopener">@esiee_it</a> <p>Découvre les formations robotique et la campus <a title="esieeit" target="_blank" href="https://www.tiktok.com/tag/esieeit?refer=embed" rel="noopener">#esieeit</a> de Montigny-le-bretonneux avec William <a title="formations" target="_blank" href="https://www.tiktok.com/tag/formations?refer=embed" rel="noopener">#formations</a> <a title="parcoursup" target="_blank" href="https://www.tiktok.com/tag/parcoursup?refer=embed" rel="noopener">#parcoursup</a> <a title="orientation" target="_blank" href="https://www.tiktok.com/tag/orientation?refer=embed" rel="noopener">#orientation</a> <a title="robotique" target="_blank" href="https://www.tiktok.com/tag/robotique?refer=embed" rel="noopener">#robotique</a> <a title="electronique" target="_blank" href="https://www.tiktok.com/tag/electronique?refer=embed" rel="noopener">#electronique</a> <a title="alternance" target="_blank" href="https://www.tiktok.com/tag/alternance?refer=embed" rel="noopener">#alternance</a> <a title="apprentissage" target="_blank" href="https://www.tiktok.com/tag/apprentissage?refer=embed" rel="noopener">#apprentissage</a> <a title="78" target="_blank" href="https://www.tiktok.com/tag/78?refer=embed" rel="noopener">#78</a> <a title="yvelines" target="_blank" href="https://www.tiktok.com/tag/yvelines?refer=embed" rel="noopener">#Yvelines</a> <a title="ComeDanceWithMe" target="_blank" href="https://www.tiktok.com/tag/ComeDanceWithMe?refer=embed" rel="noopener">#ComeDanceWithMe</a></p> <a target="_blank" title="♬ Unwritten Bracelet - DJ BAI" href="https://www.tiktok.com/music/Unwritten-Bracelet-6991886671184660482?refer=embed" rel="noopener">♬ Unwritten Bracelet – DJ BAI</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

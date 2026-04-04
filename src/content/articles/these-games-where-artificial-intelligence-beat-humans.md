@@ -2,7 +2,7 @@
 lang: "en"
 title: "These games where artificial intelligence beat humans"
 slug: "these-games-where-artificial-intelligence-beat-humans"
-excerpt: "The dawn of supercomputers and the chess challenge The era of supercomputers is no longer a distant futuristic vision, but a tangible reality that is revolutionizing various sectors, including strategy games like chess. These machines with phenomenal computing power offer an ideal playground for exploring the frontiers of artificial intelligence and taking up the chess [&hellip;]"
+excerpt: "The dawn of supercomputers and the chess challenge The era of supercomputers is no longer a distant futuristic vision, but a tangible reality that is revolutionizing various sectors, including strategy games like chess. These machines with phenomenal computing power offer an ideal playground for exploring the frontiers of artificial intelligence and taking up the chess […]"
 date: "2024-03-09T12:37:41"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["ai-training-and-fundamentals-en"]
@@ -48,7 +48,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Today&#8217;s supercomputers are equipped with multi-core processors, highly specialized graphics cards, and quantitative and qualitative storage spaces that far exceed those of the Deep Blue era. </p>
+<p>Today’s supercomputers are equipped with multi-core processors, highly specialized graphics cards, and quantitative and qualitative storage spaces that far exceed those of the Deep Blue era. </p>
 
 
 
@@ -114,11 +114,11 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>The integration of AI into strategy games is not limited to providing players with more capable virtual opponents. It is reshaping the way games are designed, played and even perceived by the public. Here&#8217;s how :</p>
+<p>The integration of AI into strategy games is not limited to providing players with more capable virtual opponents. It is reshaping the way games are designed, played and even perceived by the public. Here’s how :</p>
 
 
 
-<p>&#8211; Improved virtual opponents: AI makes it possible to create non-human enemies with advanced strategic capabilities and capable of adapting in real time to player actions. <br>&#8211; Deep learning: modern AI systems rely on machine learning, particularly deep learning, to analyze millions of games and derive optimal strategies.<br>&#8211; Experience personalization: AI can adjust difficulty and play style based on the player, providing a tailored experience.<br>&#8211; Development of new game mechanics**: artificial intelligence allows the introduction of dynamics never seen before, thanks to its ability to manage complex systems.</p>
+<p>– Improved virtual opponents: AI makes it possible to create non-human enemies with advanced strategic capabilities and capable of adapting in real time to player actions. <br>– Deep learning: modern AI systems rely on machine learning, particularly deep learning, to analyze millions of games and derive optimal strategies.<br>– Experience personalization: AI can adjust difficulty and play style based on the player, providing a tailored experience.<br>– Development of new game mechanics**: artificial intelligence allows the introduction of dynamics never seen before, thanks to its ability to manage complex systems.</p>
 
 
 
@@ -130,11 +130,11 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>&#8211; <strong>DeepMind</strong>&#8216;s AlphaGo: this AI made history by defeating Go world champion Lee Sedol in 2016.</p>
+<p>– <strong>DeepMind</strong>‘s AlphaGo: this AI made history by defeating Go world champion Lee Sedol in 2016.</p>
 
 
 
-<p>&#8211; <strong>OpenAI</strong> Five: Developed by OpenAI, this AI beat professional teams in the competitive strategy game Dota 2.</p>
+<p>– <strong>OpenAI</strong> Five: Developed by OpenAI, this AI beat professional teams in the competitive strategy game Dota 2.</p>
 
 
 
@@ -170,10 +170,10 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>&#8211; Personalization and adaptation of video games to the user experience.<br>&#8211; Improvement of simulation games with AI capable of reproducing realistic human behaviors in strategies, diplomacy or economics.<br>&#8211; Use in Serious Games for educational, medical and professional training applications.<br>&#8211; Advances in e-sport where AIs could be used for training, but also as competitors and gaming partners.<br>&#8211; Increased academic research on decision-making, strategy and psychology.</p>
+<p>– Personalization and adaptation of video games to the user experience.<br>– Improvement of simulation games with AI capable of reproducing realistic human behaviors in strategies, diplomacy or economics.<br>– Use in Serious Games for educational, medical and professional training applications.<br>– Advances in e-sport where AIs could be used for training, but also as competitors and gaming partners.<br>– Increased academic research on decision-making, strategy and psychology.</p>
 
 
 
-<p><br>The journey of<strong>AlphaGo</strong> opened a technical and ethical Pandora&#8217;s box. The future promises even more advanced artificial intelligences, capable of evolving in complex and varied environments, revolutionizing not only the field of gaming, but also the way in which we interact with machines. The story of<strong>AlphaGo</strong> is just the beginning of a long series of adventures where AI will transform games and, potentially, our society as a whole.</p>
+<p><br>The journey of<strong>AlphaGo</strong> opened a technical and ethical Pandora’s box. The future promises even more advanced artificial intelligences, capable of evolving in complex and varied environments, revolutionizing not only the field of gaming, but also the way in which we interact with machines. The story of<strong>AlphaGo</strong> is just the beginning of a long series of adventures where AI will transform games and, potentially, our society as a whole.</p>
 
 

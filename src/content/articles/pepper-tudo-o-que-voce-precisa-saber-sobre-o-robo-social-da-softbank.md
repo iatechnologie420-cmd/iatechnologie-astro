@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Pepper: tudo o que você precisa saber sobre o robô social da SoftBank"
 slug: "pepper-tudo-o-que-voce-precisa-saber-sobre-o-robo-social-da-softbank"
-excerpt: "Pepper: Apresentação e funções básicas Resumo O robô social Pimenta é um feito tecnológico projetado para interagir com humanos em um ambiente social. Equipado com vários sensores e IA avançada, Pepper entende e reage às nossas emoções enquanto se adapta aos nossos comportamentos. Através deste artigo apresentaremos as funções básicas do Pepper bem como as [&hellip;]"
+excerpt: "Pepper: Apresentação e funções básicas Resumo O robô social Pimenta é um feito tecnológico projetado para interagir com humanos em um ambiente social. Equipado com vários sensores e IA avançada, Pepper entende e reage às nossas emoções enquanto se adapta aos nossos comportamentos. Através deste artigo apresentaremos as funções básicas do Pepper bem como as […]"
 date: "2024-03-09T11:51:54"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["inovacoes-disruptivas-e-emergentes-pt"]

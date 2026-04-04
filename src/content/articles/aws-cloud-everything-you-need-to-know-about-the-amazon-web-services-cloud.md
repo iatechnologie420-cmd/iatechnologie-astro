@@ -2,7 +2,7 @@
 lang: "en"
 title: "AWS Cloud – Everything you need to know about the Amazon Web Services cloud"
 slug: "aws-cloud-everything-you-need-to-know-about-the-amazon-web-services-cloud"
-excerpt: "Introduction to Amazon Web Services (AWS): a revolution in cloud computing Since its creation in 2006, Amazon Web Services (AWS) has radically changed the IT landscape by delivering a cloud services platform that delivers unprecedented flexibility, scale and economies of scale. This introduction aims to clarify the operating principles ofAWS and to explain why this [&hellip;]"
+excerpt: "Introduction to Amazon Web Services (AWS): a revolution in cloud computing Since its creation in 2006, Amazon Web Services (AWS) has radically changed the IT landscape by delivering a cloud services platform that delivers unprecedented flexibility, scale and economies of scale. This introduction aims to clarify the operating principles ofAWS and to explain why this […]"
 date: "2024-03-09T12:44:32"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
@@ -26,7 +26,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<p><strong>AWS</strong> is the world&#8217;s most comprehensive and widely adopted cloud computing services platform. It offers a wide range of services covering IT infrastructure needs, such as computing power, data storage, and networking. AWS services enable businesses of all sizes to move to the cloud or expand their use of the cloud, enabling innovation, agility and growth.</p>
+<p><strong>AWS</strong> is the world’s most comprehensive and widely adopted cloud computing services platform. It offers a wide range of services covering IT infrastructure needs, such as computing power, data storage, and networking. AWS services enable businesses of all sizes to move to the cloud or expand their use of the cloud, enabling innovation, agility and growth.</p>
 
 
 
@@ -70,7 +70,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<p><strong>S3</strong> is AWS&#8217;s best-known storage service. It is renowned for its durability, availability and scalability. S3 is used for storing images, videos, backup files and many other types of data. Thanks to its object structure and its different storage classes, it is both flexible and economical.</p>
+<p><strong>S3</strong> is AWS’s best-known storage service. It is renowned for its durability, availability and scalability. S3 is used for storing images, videos, backup files and many other types of data. Thanks to its object structure and its different storage classes, it is both flexible and economical.</p>
 
 
 
@@ -110,7 +110,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<p>L&#8217;<strong>Amazon VPC</strong> Allows you to provision an isolated section of the AWS cloud where you can launch AWS resources into a virtual network that you define. This is crucial for security and network management of your cloud services.</p>
+<p>L’<strong>Amazon VPC</strong> Allows you to provision an isolated section of the AWS cloud where you can launch AWS resources into a virtual network that you define. This is crucial for security and network management of your cloud services.</p>
 
 
 
@@ -118,7 +118,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<p><strong>Amazon S3 Glacier</strong> is a very low-cost storage solution designed for long-term data archiving. Although data recovery can take time, Glacier is a great option for storing data that you don&#8217;t need to access frequently.</p>
+<p><strong>Amazon S3 Glacier</strong> is a very low-cost storage solution designed for long-term data archiving. Although data recovery can take time, Glacier is a great option for storing data that you don’t need to access frequently.</p>
 
 
 

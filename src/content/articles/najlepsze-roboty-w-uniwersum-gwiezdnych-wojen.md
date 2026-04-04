@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Najlepsze roboty w uniwersum Gwiezdnych Wojen"
 slug: "najlepsze-roboty-w-uniwersum-gwiezdnych-wojen"
-excerpt: "Legendy mechaniczne: C-3PO i R2-D2 Uważany za najbardziej charakterystyczne droidy w całej sadze Gwiezdne Wojny, C-3PO i R2-D2 naznaczyły pokolenia fanów swoją wyjątkową osobowością, historią i kluczową rolą, jaką odegrali w poszczególnych odcinkach. Artykuł ten zagłębia się w świat tych mechanicznych legend, ujawniając ich istotę i wpływ kulturowy. C-3PO: Protokół droidów poliglotowych C-3PO, często nazywany [&hellip;]"
+excerpt: "Legendy mechaniczne: C-3PO i R2-D2 Uważany za najbardziej charakterystyczne droidy w całej sadze Gwiezdne Wojny, C-3PO i R2-D2 naznaczyły pokolenia fanów swoją wyjątkową osobowością, historią i kluczową rolą, jaką odegrali w poszczególnych odcinkach. Artykuł ten zagłębia się w świat tych mechanicznych legend, ujawniając ich istotę i wpływ kulturowy. C-3PO: Protokół droidów poliglotowych C-3PO, często nazywany […]"
 date: "2024-03-09T12:23:16"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["technologia-i-cyfrowosc-pl"]
@@ -10,7 +10,7 @@ categories: ["technologia-i-cyfrowosc-pl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -80,7 +80,7 @@ categories: ["technologia-i-cyfrowosc-pl"]
 
 
 
-<p>BB-8 po raz pierwszy pojawił się w „<strong>Gwiezdne Wojny: Część VII – Przebudzenie Mocy</strong>&#8221; w 2015 roku. Ten droid astromechaniczny szybko stał się ulubieńcem fanów ze względu na swój wyjątkowy kulisty kształt, zwinną mobilność i wesołą osobowość. BB-8 należy do jednego z bohaterów nowej trylogii, <strong>Poe Damerona</strong>i razem przeżywają wiele przygód w całej galaktyce.</p>
+<p>BB-8 po raz pierwszy pojawił się w „<strong>Gwiezdne Wojny: Część VII – Przebudzenie Mocy</strong>” w 2015 roku. Ten droid astromechaniczny szybko stał się ulubieńcem fanów ze względu na swój wyjątkowy kulisty kształt, zwinną mobilność i wesołą osobowość. BB-8 należy do jednego z bohaterów nowej trylogii, <strong>Poe Damerona</strong>i razem przeżywają wiele przygód w całej galaktyce.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["technologia-i-cyfrowosc-pl"]
 
 
 
-<p>D-O zostało po raz pierwszy wprowadzone w „<strong>Gwiezdne Wojny: Część IX – Skywalker. Odrodzenie</strong>&#8221; wydany w 2019 roku. Ten mały droid na jednym kole zachwyca zdolnością do poruszania ludźmi. Swoim kształtem nawiązuje do dziecięcej zabawki i charakterystycznym gwiżdżącym głosem ucieleśnia nowego przyjaciela, którego wszyscy chcielibyśmy mieć.</p>
+<p>D-O zostało po raz pierwszy wprowadzone w „<strong>Gwiezdne Wojny: Część IX – Skywalker. Odrodzenie</strong>” wydany w 2019 roku. Ten mały droid na jednym kole zachwyca zdolnością do poruszania ludźmi. Swoim kształtem nawiązuje do dziecięcej zabawki i charakterystycznym gwiżdżącym głosem ucieleśnia nowego przyjaciela, którego wszyscy chcielibyśmy mieć.</p>
 
 
 

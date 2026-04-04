@@ -2,7 +2,7 @@
 lang: "es"
 title: "Chief Data Officer (CDO): ​​rol, habilidades, formación y salario"
 slug: "chief-data-officer-cdo-rol-habilidades-formacion-y-salario"
-excerpt: "El lugar estratégico del Chief Data Officer en la empresa En la era del big data y el análisis de datos, las empresas reconocen cada vez más la importancia de gestionar y aprovechar sus datos estratégicamente. En el centro de este reconocimiento hay un papel clave: el Director de datos (CDO). El CDO es esencial [&hellip;]"
+excerpt: "El lugar estratégico del Chief Data Officer en la empresa En la era del big data y el análisis de datos, las empresas reconocen cada vez más la importancia de gestionar y aprovechar sus datos estratégicamente. En el centro de este reconocimiento hay un papel clave: el Director de datos (CDO). El CDO es esencial […]"
 date: "2024-03-09T12:09:21"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
@@ -10,7 +10,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="The Promise and Peril of the Chief Data &amp; Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="The Promise and Peril of the Chief Data & Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -93,7 +93,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<li><strong>Grandes datos</strong> : experiencia con tecnologías y plataformas de Big Data como <strong>Hadoop</strong>, <strong>Chispa &#8211; chispear</strong> O <strong>Gran consulta</strong>.</li>
+<li><strong>Grandes datos</strong> : experiencia con tecnologías y plataformas de Big Data como <strong>Hadoop</strong>, <strong>Chispa – chispear</strong> O <strong>Gran consulta</strong>.</li>
 
 
 

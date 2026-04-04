@@ -2,7 +2,7 @@
 lang: "pl"
 title: "AlphaGo kontra Leedsol: super sztuczna inteligencja pokonuje mistrza Go"
 slug: "alphago-kontra-leedsol-super-sztuczna-inteligencja-pokonuje-mistrza-go"
-excerpt: "Historyczne starcie: sztuczna inteligencja rzuca wyzwanie mistrzowi Go Świat Go był historycznie zdominowany przez ludzkich mistrzów, aż do znaczącego wydarzenia, które wstrząsnęło ustalonymi paradygmatami. Sztuczna inteligencja, to narzędzie stworzone dzięki ludzkiej pomysłowości, podjęło wyzwanie zmierzenia się z jedną z najbardziej skomplikowanych gier strategicznych w historii. To historyczne zderzenie logicznych obwodów superkomputera ze strategicznym umysłem mistrza [&hellip;]"
+excerpt: "Historyczne starcie: sztuczna inteligencja rzuca wyzwanie mistrzowi Go Świat Go był historycznie zdominowany przez ludzkich mistrzów, aż do znaczącego wydarzenia, które wstrząsnęło ustalonymi paradygmatami. Sztuczna inteligencja, to narzędzie stworzone dzięki ludzkiej pomysłowości, podjęło wyzwanie zmierzenia się z jedną z najbardziej skomplikowanych gier strategicznych w historii. To historyczne zderzenie logicznych obwodów superkomputera ze strategicznym umysłem mistrza […]"
 date: "2024-03-09T12:55:55"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-3.png"
 categories: ["szkolenia-i-podstawy-ai-pl"]
@@ -10,7 +10,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="AlphaGo Triomphe : Lee Sedol Battu par l&#039;IA!" width="500" height="281" src="https://www.youtube.com/embed/KJ1Me8vHlYY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="AlphaGo Triomphe : Lee Sedol Battu par l'IA!" width="500" height="281" src="https://www.youtube.com/embed/KJ1Me8vHlYY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -72,7 +72,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<p>Historia sztucznej inteligencji w grach sięga pierwszych komputerów i ich prób gry w szachy. Już w latach pięćdziesiątych programy takie jak ten opracowany przez Claude&#8217;a Shannona położyły podwaliny pod myślenie algorytmiczne w grach strategicznych. Jednakże systemy te miały ograniczoną wydajność przetwarzania i nie mogły naprawdę konkurować z graczami-ludźmi.</p>
+<p>Historia sztucznej inteligencji w grach sięga pierwszych komputerów i ich prób gry w szachy. Już w latach pięćdziesiątych programy takie jak ten opracowany przez Claude’a Shannona położyły podwaliny pod myślenie algorytmiczne w grach strategicznych. Jednakże systemy te miały ograniczoną wydajność przetwarzania i nie mogły naprawdę konkurować z graczami-ludźmi.</p>
 
 
 

@@ -1,8 +1,8 @@
 ---
 lang: "en"
-title: "Bayes&#8217; theorem and its use in AI"
+title: "Bayes’ theorem and its use in AI"
 slug: "bayes-theorem-and-its-use-in-ai"
-excerpt: "Introduction to Bayes&#8217; theorem THE Bayes&#8217; theorem is a fundamental formula in probability and statistics that describes the updating of our beliefs in the presence of new information. Named in honor of the Reverend Thomas Bayes, this theorem plays a crucial role in many fields ranging from machine learning to decision-making under uncertainty. The essence [&hellip;]"
+excerpt: "Introduction to Bayes’ theorem THE Bayes’ theorem is a fundamental formula in probability and statistics that describes the updating of our beliefs in the presence of new information. Named in honor of the Reverend Thomas Bayes, this theorem plays a crucial role in many fields ranging from machine learning to decision-making under uncertainty. The essence […]"
 date: "2024-03-09T12:12:11"
 categories: ["computing-and-data-en", "technology-and-digital-en"]
 ---
@@ -18,20 +18,20 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/en/bayes-theorem-and-its-use-in-ai/#Introduction_to_Bayes_theorem" >Introduction to Bayes&#8217; theorem</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/en/bayes-theorem-and-its-use-in-ai/#The_essence_of_Bayes_theorem" >The essence of Bayes&#8217; theorem</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/en/bayes-theorem-and-its-use-in-ai/#Application_of_Bayes_theorem" >Application of Bayes&#8217; theorem</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/en/bayes-theorem-and-its-use-in-ai/#Importance_in_AI_and_Machine_Learning" >Importance in AI and Machine Learning</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/en/bayes-theorem-and-its-use-in-ai/#Fundamentals_of_Bayesian_Inference" >Fundamentals of Bayesian Inference</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/en/bayes-theorem-and-its-use-in-ai/#Bayes_theorem" >Bayes&#8217; theorem</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/en/bayes-theorem-and-its-use-in-ai/#A_priori_and_posterior_probabilities" >A priori and posterior probabilities</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/en/bayes-theorem-and-its-use-in-ai/#Evidence" >Evidence</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/en/bayes-theorem-and-its-use-in-ai/#Bayesian_inference_in_practice" >Bayesian inference in practice</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/en/bayes-theorem-and-its-use-in-ai/#Bayes_Theorem_in_Machine_Learning_Algorithms" >Bayes&#8217; Theorem in Machine Learning Algorithms</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/en/bayes-theorem-and-its-use-in-ai/#The_application_of_Bayes_theorem_in_AI" >The application of Bayes&#8217; theorem in AI</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/en/bayes-theorem-and-its-use-in-ai/#The_importance_of_Bayesian_learning" >The importance of Bayesian learning</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/en/bayes-theorem-and-its-use-in-ai/#Examples_of_Bayesian_algorithms" >Examples of Bayesian algorithms</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-14" href="/en/bayes-theorem-and-its-use-in-ai/#Bayes_theorem_in_practice" >Bayes&#8217; theorem in practice</a></li></ul></li></ul></li></ul></nav></div>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="Introduction_to_Bayes_theorem"></span>Introduction to Bayes&#8217; theorem<span class="ez-toc-section-end"></span></h2>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/en/bayes-theorem-and-its-use-in-ai/#Introduction_to_Bayes_theorem" >Introduction to Bayes’ theorem</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/en/bayes-theorem-and-its-use-in-ai/#The_essence_of_Bayes_theorem" >The essence of Bayes’ theorem</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/en/bayes-theorem-and-its-use-in-ai/#Application_of_Bayes_theorem" >Application of Bayes’ theorem</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/en/bayes-theorem-and-its-use-in-ai/#Importance_in_AI_and_Machine_Learning" >Importance in AI and Machine Learning</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/en/bayes-theorem-and-its-use-in-ai/#Fundamentals_of_Bayesian_Inference" >Fundamentals of Bayesian Inference</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/en/bayes-theorem-and-its-use-in-ai/#Bayes_theorem" >Bayes’ theorem</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/en/bayes-theorem-and-its-use-in-ai/#A_priori_and_posterior_probabilities" >A priori and posterior probabilities</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/en/bayes-theorem-and-its-use-in-ai/#Evidence" >Evidence</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/en/bayes-theorem-and-its-use-in-ai/#Bayesian_inference_in_practice" >Bayesian inference in practice</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/en/bayes-theorem-and-its-use-in-ai/#Bayes_Theorem_in_Machine_Learning_Algorithms" >Bayes’ Theorem in Machine Learning Algorithms</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/en/bayes-theorem-and-its-use-in-ai/#The_application_of_Bayes_theorem_in_AI" >The application of Bayes’ theorem in AI</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/en/bayes-theorem-and-its-use-in-ai/#The_importance_of_Bayesian_learning" >The importance of Bayesian learning</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/en/bayes-theorem-and-its-use-in-ai/#Examples_of_Bayesian_algorithms" >Examples of Bayesian algorithms</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-14" href="/en/bayes-theorem-and-its-use-in-ai/#Bayes_theorem_in_practice" >Bayes’ theorem in practice</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="Introduction_to_Bayes_theorem"></span>Introduction to Bayes’ theorem<span class="ez-toc-section-end"></span></h2>
 
 
 
-<p>THE <strong>Bayes&#8217; theorem</strong> is a fundamental formula in probability and statistics that describes the updating of our beliefs in the presence of new information. Named in honor of the Reverend Thomas Bayes, this theorem plays a crucial role in many fields ranging from machine learning to decision-making under uncertainty.</p>
+<p>THE <strong>Bayes’ theorem</strong> is a fundamental formula in probability and statistics that describes the updating of our beliefs in the presence of new information. Named in honor of the Reverend Thomas Bayes, this theorem plays a crucial role in many fields ranging from machine learning to decision-making under uncertainty.</p>
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="The_essence_of_Bayes_theorem"></span>The essence of Bayes&#8217; theorem<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="The_essence_of_Bayes_theorem"></span>The essence of Bayes’ theorem<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>The heart of <strong>Bayes&#8217; theorem</strong> is the conditional probability. In its simplest form, it expresses how a posterior probability is updated from an a priori probability by taking into account the probability of the observed event. In other words, it makes it possible to revise the initial probabilities based on new evidence.</p>
+<p>The heart of <strong>Bayes’ theorem</strong> is the conditional probability. In its simplest form, it expresses how a posterior probability is updated from an a priori probability by taking into account the probability of the observed event. In other words, it makes it possible to revise the initial probabilities based on new evidence.</p>
 
 
 
@@ -65,11 +65,11 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Application_of_Bayes_theorem"></span>Application of Bayes&#8217; theorem<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Application_of_Bayes_theorem"></span>Application of Bayes’ theorem<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>The application of <strong>Bayes&#8217; theorem</strong> can be encountered in various practical scenarios, such as medical diagnosis, spam filtering, or statistical inference in scientific research. In medicine, for example, the theorem makes it possible to estimate the probability that a patient has a disease based on the result of a test, knowing the probability that this test gives a true or false positive.</p>
+<p>The application of <strong>Bayes’ theorem</strong> can be encountered in various practical scenarios, such as medical diagnosis, spam filtering, or statistical inference in scientific research. In medicine, for example, the theorem makes it possible to estimate the probability that a patient has a disease based on the result of a test, knowing the probability that this test gives a true or false positive.</p>
 
 
 
@@ -77,11 +77,11 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>In Artificial Intelligence (AI) and <strong>machine learning</strong>, Bayes&#8217; theorem is the cornerstone of Bayesian learning. This learning framework uses prior beliefs and updates them with new data to make predictions. As a result, models can become more accurate as they receive additional data.</p>
+<p>In Artificial Intelligence (AI) and <strong>machine learning</strong>, Bayes’ theorem is the cornerstone of Bayesian learning. This learning framework uses prior beliefs and updates them with new data to make predictions. As a result, models can become more accurate as they receive additional data.</p>
 
 
 
-<p>In summary, the <strong>Bayes&#8217; theorem</strong> is a powerful tool for understanding conditional probabilities and for refining our beliefs by taking into account new information. Its mathematical simplicity contrasts with its broad implications and applications, making it a must-read foundational subject for anyone interested in statistics, decision-making, and artificial intelligence.</p>
+<p>In summary, the <strong>Bayes’ theorem</strong> is a powerful tool for understanding conditional probabilities and for refining our beliefs by taking into account new information. Its mathematical simplicity contrasts with its broad implications and applications, making it a must-read foundational subject for anyone interested in statistics, decision-making, and artificial intelligence.</p>
 
 
 
@@ -93,15 +93,15 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>L&#8217;<strong>Bayesian inference</strong> is a branch of statistics that provides a theoretical framework for interpreting events in terms of probabilities. It is based on the <strong>Bayes&#8217; theorem</strong>, which is a formula for updating the probability of an event occurring in light of new data. </p>
+<p>L’<strong>Bayesian inference</strong> is a branch of statistics that provides a theoretical framework for interpreting events in terms of probabilities. It is based on the <strong>Bayes’ theorem</strong>, which is a formula for updating the probability of an event occurring in light of new data. </p>
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="Bayes_theorem"></span>Bayes&#8217; theorem<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="Bayes_theorem"></span>Bayes’ theorem<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>Bayes&#8217; theorem is the backbone of Bayesian inference. Mathematically, it is stated as follows:</p>
+<p>Bayes’ theorem is the backbone of Bayesian inference. Mathematically, it is stated as follows:</p>
 
 
 
@@ -153,7 +153,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>Bayesian inference involves moving from the prior probability to the posterior probability using Bayes&#8217; theorem.</p>
+<p>Bayesian inference involves moving from the prior probability to the posterior probability using Bayes’ theorem.</p>
 
 
 
@@ -161,7 +161,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>In Bayes&#8217; theorem, P(E) is often called the factor of<strong>evidence</strong>. It can be considered as a measure of the compatibility of the observed data with all possible hypotheses. In practice, it acts as a normalizing factor in updating our beliefs.</p>
+<p>In Bayes’ theorem, P(E) is often called the factor of<strong>evidence</strong>. It can be considered as a measure of the compatibility of the observed data with all possible hypotheses. In practice, it acts as a normalizing factor in updating our beliefs.</p>
 
 
 
@@ -187,11 +187,11 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>L&#8217;<strong>Bayesian inference</strong> provides a powerful framework for reasoning with uncertainty and coherently integrating new information. Its applications are vast and its use in advanced fields such as<strong>artificial intelligence</strong> where the <strong>big data</strong> grows continuously. Understanding its fundamental principles is therefore essential for those who wish to interpret the world through the prism of probability.</p>
+<p>L’<strong>Bayesian inference</strong> provides a powerful framework for reasoning with uncertainty and coherently integrating new information. Its applications are vast and its use in advanced fields such as<strong>artificial intelligence</strong> where the <strong>big data</strong> grows continuously. Understanding its fundamental principles is therefore essential for those who wish to interpret the world through the prism of probability.</p>
 
 
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="Bayes_Theorem_in_Machine_Learning_Algorithms"></span>Bayes&#8217; Theorem in Machine Learning Algorithms<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="Bayes_Theorem_in_Machine_Learning_Algorithms"></span>Bayes’ Theorem in Machine Learning Algorithms<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -199,19 +199,19 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>The world of artificial intelligence (AI) is constantly evolving, and among the fundamental concepts fueling this revolution is Bayes&#8217; theorem. This mathematical tool plays a crucial role in machine learning algorithms, allowing machines to make informed decisions based on probability.</p>
+<p>The world of artificial intelligence (AI) is constantly evolving, and among the fundamental concepts fueling this revolution is Bayes’ theorem. This mathematical tool plays a crucial role in machine learning algorithms, allowing machines to make informed decisions based on probability.</p>
 
 
 
-<p>THE <strong>Bayes&#8217; theorem</strong>, developed by the Rev. Thomas Bayes in the 18th century, is a formula that describes the conditional probability of an event, based on prior knowledge associated with that event. Formally, it makes it possible to calculate the probability (P(A|B)) of an event A, knowing that B is true, using the probability of B knowing that A is true (P(B|A)), the probability of A ( P(A) ), and the probability of B ( P(B) ).</p>
+<p>THE <strong>Bayes’ theorem</strong>, developed by the Rev. Thomas Bayes in the 18th century, is a formula that describes the conditional probability of an event, based on prior knowledge associated with that event. Formally, it makes it possible to calculate the probability (P(A|B)) of an event A, knowing that B is true, using the probability of B knowing that A is true (P(B|A)), the probability of A ( P(A) ), and the probability of B ( P(B) ).</p>
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="The_application_of_Bayes_theorem_in_AI"></span>The application of Bayes&#8217; theorem in AI<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="The_application_of_Bayes_theorem_in_AI"></span>The application of Bayes’ theorem in AI<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>In the context of machine learning, Bayes&#8217; theorem is applied to build probabilistic models. These models are able to adjust their predictions based on new data provided, allowing for continuous improvement and refinement of performance. This process is particularly useful in classification, where the goal is to assign a label to a given input based on observed characteristics.</p>
+<p>In the context of machine learning, Bayes’ theorem is applied to build probabilistic models. These models are able to adjust their predictions based on new data provided, allowing for continuous improvement and refinement of performance. This process is particularly useful in classification, where the goal is to assign a label to a given input based on observed characteristics.</p>
 
 
 
@@ -227,12 +227,12 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>There are several machine learning algorithms that rely on Bayes&#8217; theorem, including:</p>
+<p>There are several machine learning algorithms that rely on Bayes’ theorem, including:</p>
 
 
 
 <ul class="wp-block-list">
-<li><strong>Naive Bayes</strong>: A probabilistic classifier which, despite its &#8216;naive&#8217; name, is remarkable for its simplicity and effectiveness, especially when the probability of the features is independent.</li>
+<li><strong>Naive Bayes</strong>: A probabilistic classifier which, despite its ‘naive’ name, is remarkable for its simplicity and effectiveness, especially when the probability of the features is independent.</li>
 
 
 
@@ -241,7 +241,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Bayes_theorem_in_practice"></span>Bayes&#8217; theorem in practice<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Bayes_theorem_in_practice"></span>Bayes’ theorem in practice<span class="ez-toc-section-end"></span></h4>
 
 
 

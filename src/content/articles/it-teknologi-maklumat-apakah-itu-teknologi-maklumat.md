@@ -2,7 +2,7 @@
 lang: "ms"
 title: "IT / Teknologi Maklumat: apakah itu teknologi maklumat?"
 slug: "it-teknologi-maklumat-apakah-itu-teknologi-maklumat"
-excerpt: "Memahami IT: Definisi dan evolusi teknologi maklumat Apa itu IT? Istilah IT, Untuk Teknologi maklumat dalam bahasa Inggeris, menetapkan semua teknologi yang berkaitan dengan pemprosesan dan pengurusan maklumat dan data. Oleh itu, bidang yang luas ini merangkumi sains komputer, telekomunikasi, sistem pengurusan pangkalan data, keselamatan maklumat dan banyak lagi. IT adalah penting dalam dunia moden: [&hellip;]"
+excerpt: "Memahami IT: Definisi dan evolusi teknologi maklumat Apa itu IT? Istilah IT, Untuk Teknologi maklumat dalam bahasa Inggeris, menetapkan semua teknologi yang berkaitan dengan pemprosesan dan pengurusan maklumat dan data. Oleh itu, bidang yang luas ini merangkumi sains komputer, telekomunikasi, sistem pengurusan pangkalan data, keselamatan maklumat dan banyak lagi. IT adalah penting dalam dunia moden: […]"
 date: "2024-03-09T12:21:47"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastruktur-dan-rangkaian-ms", "teknologi-dan-digital-ms"]
@@ -10,7 +10,7 @@ categories: ["infrastruktur-dan-rangkaian-ms", "teknologi-dan-digital-ms"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infrastruktur-dan-rangkaian-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>    Pada masa ini, beberapa trend utama sedang mengubah IT. L&#8217;<strong>kecerdasan buatan</strong> dan pembelajaran mesin (<em>pembelajaran mesin</em>) telah menjadi elemen utama dalam pembangunan penyelesaian yang lebih bijak dan berautonomi. THE <strong>pengkomputeran awan</strong> terus berkembang dalam populariti, memberikan fleksibiliti dan skala yang tidak pernah dilihat sebelum ini dalam perkhidmatan IT. </p>
+<p>    Pada masa ini, beberapa trend utama sedang mengubah IT. L’<strong>kecerdasan buatan</strong> dan pembelajaran mesin (<em>pembelajaran mesin</em>) telah menjadi elemen utama dalam pembangunan penyelesaian yang lebih bijak dan berautonomi. THE <strong>pengkomputeran awan</strong> terus berkembang dalam populariti, memberikan fleksibiliti dan skala yang tidak pernah dilihat sebelum ini dalam perkhidmatan IT. </p>
 
 
 

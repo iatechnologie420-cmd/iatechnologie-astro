@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Kako dodati glasbo svojim zapiskom na Instagramu?"
 slug: "kako-dodati-glasbo-svojim-zapiskom-na-instagramu"
-excerpt: "Uporabite glasbene funkcije na Instagramu Instagram je postal bistvena platforma za deljenje življenjskih trenutkov, slik in videoposnetkov. Če želite, da bodo vaše objave še bolj privlačne, lahko v svojo vsebino vključite glasbo. V tem članku bomo raziskali različne glasbene funkcije na Instagramu in kako jih uporabiti za ustvarjanje izvirnih in privlačnih objav. Zakaj bi svojim [&hellip;]"
+excerpt: "Uporabite glasbene funkcije na Instagramu Instagram je postal bistvena platforma za deljenje življenjskih trenutkov, slik in videoposnetkov. Če želite, da bodo vaše objave še bolj privlačne, lahko v svojo vsebino vključite glasbo. V tem članku bomo raziskali različne glasbene funkcije na Instagramu in kako jih uporabiti za ustvarjanje izvirnih in privlačnih objav. Zakaj bi svojim […]"
 date: "2024-03-09T12:27:31"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["digitalni-mediji-in-platforme-sl", "tehnologija-in-digital-sl"]
@@ -62,7 +62,7 @@ categories: ["digitalni-mediji-in-platforme-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>1. Sledite zgoraj navedenim korakom, da dodate vsebino svoji zgodbi ali objavi.<br>2. Namesto da izberete &#8220;Glasba&#8221;, izberite možnost &#8220;Zvočni učinki&#8221;.<br>3. Brskajte po različnih kategorijah zvočnih učinkov, ki so na voljo (npr. živali, mesto, narava itd.).<br>4. Izberite zvočni učinek, ki ga želite dodati svoji vsebini.<br>5. Prilagodite videz nalepke z zvočnimi učinki tako, da izberete velikost in lokacijo.<br>6. Tapnite »Končano« ali »Deli«, da dodate zvočni učinek svoji zgodbi ali objavi.</p>
+<p>1. Sledite zgoraj navedenim korakom, da dodate vsebino svoji zgodbi ali objavi.<br>2. Namesto da izberete “Glasba”, izberite možnost “Zvočni učinki”.<br>3. Brskajte po različnih kategorijah zvočnih učinkov, ki so na voljo (npr. živali, mesto, narava itd.).<br>4. Izberite zvočni učinek, ki ga želite dodati svoji vsebini.<br>5. Prilagodite videz nalepke z zvočnimi učinki tako, da izberete velikost in lokacijo.<br>6. Tapnite »Končano« ali »Deli«, da dodate zvočni učinek svoji zgodbi ali objavi.</p>
 
 
 
@@ -102,19 +102,19 @@ categories: ["digitalni-mediji-in-platforme-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>&#8211; Izberite glasbo, ki se ujema z vašim sporočilom ali čustvom, ki ga želite prenesti. Dobro izbrana glasba lahko poveča učinek vaše vsebine in izzove čustveni odziv občinstva.</p>
+<p>– Izberite glasbo, ki se ujema z vašim sporočilom ali čustvom, ki ga želite prenesti. Dobro izbrana glasba lahko poveča učinek vaše vsebine in izzove čustveni odziv občinstva.</p>
 
 
 
-<p>&#8211; Prepričajte se, da je glasnost glasbe uravnotežena z drugimi zvočnimi elementi v vaši objavi. Če je glasba preglasna, lahko preglasi vaše sporočilo, pretiha glasba pa ostane neopažena.</p>
+<p>– Prepričajte se, da je glasnost glasbe uravnotežena z drugimi zvočnimi elementi v vaši objavi. Če je glasba preglasna, lahko preglasi vaše sporočilo, pretiha glasba pa ostane neopažena.</p>
 
 
 
-<p>&#8211; Uporabite prehode in zvočne učinke za ustvarjanje poglobljene avdiovizualne izkušnje. Gladki prehodi in dobro postavljeni zvočni učinki lahko vašo objavo naredijo bolj profesionalno in privlačno.</p>
+<p>– Uporabite prehode in zvočne učinke za ustvarjanje poglobljene avdiovizualne izkušnje. Gladki prehodi in dobro postavljeni zvočni učinki lahko vašo objavo naredijo bolj profesionalno in privlačno.</p>
 
 
 
-<p>&#8211; Ne pozabite navesti izvajalca ali glasbenega vira, če v svoji objavi uporabljate določeno pesem. To izkazuje vaše spoštovanje avtorskih pravic in lahko tudi pomaga pri promociji izvajalca.</p>
+<p>– Ne pozabite navesti izvajalca ali glasbenega vira, če v svoji objavi uporabljate določeno pesem. To izkazuje vaše spoštovanje avtorskih pravic in lahko tudi pomaga pri promociji izvajalca.</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Twierdzenie Bayesa i jego zastosowanie w sztucznej inteligencji"
 slug: "twierdzenie-bayesa-i-jego-zastosowanie-w-sztucznej-inteligencji"
-excerpt: "Wprowadzenie do twierdzenia Bayesa TO Twierdzenie Bayesa to podstawowa formuła prawdopodobieństwa i statystyki, która opisuje aktualizację naszych przekonań w obecności nowych informacji. Twierdzenie to, nazwane na cześć wielebnego Thomasa Bayesa, odgrywa kluczową rolę w wielu dziedzinach, od uczenia maszynowego po podejmowanie decyzji w warunkach niepewności. Istota twierdzenia Bayesa Serce należące do Twierdzenie Bayesa jest prawdopodobieństwem [&hellip;]"
+excerpt: "Wprowadzenie do twierdzenia Bayesa TO Twierdzenie Bayesa to podstawowa formuła prawdopodobieństwa i statystyki, która opisuje aktualizację naszych przekonań w obecności nowych informacji. Twierdzenie to, nazwane na cześć wielebnego Thomasa Bayesa, odgrywa kluczową rolę w wielu dziedzinach, od uczenia maszynowego po podejmowanie decyzji w warunkach niepewności. Istota twierdzenia Bayesa Serce należące do Twierdzenie Bayesa jest prawdopodobieństwem […]"
 date: "2024-03-09T12:13:58"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 ---
@@ -93,7 +93,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>L&#8217;<strong>Wnioskowanie bayesowskie</strong> to dziedzina statystyki zapewniająca ramy teoretyczne do interpretacji zdarzeń pod względem prawdopodobieństwa. Opiera się na <strong>Twierdzenie Bayesa</strong>, czyli wzór na aktualizację prawdopodobieństwa wystąpienia zdarzenia w świetle nowych danych. </p>
+<p>L’<strong>Wnioskowanie bayesowskie</strong> to dziedzina statystyki zapewniająca ramy teoretyczne do interpretacji zdarzeń pod względem prawdopodobieństwa. Opiera się na <strong>Twierdzenie Bayesa</strong>, czyli wzór na aktualizację prawdopodobieństwa wystąpienia zdarzenia w świetle nowych danych. </p>
 
 
 
@@ -187,7 +187,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>L&#8217;<strong>Wnioskowanie bayesowskie</strong> zapewnia potężne ramy do rozumowania w warunkach niepewności i spójnego integrowania nowych informacji. Jego zastosowania są ogromne, a jego zastosowanie w zaawansowanych dziedzinach, takich jak<strong>sztuczna inteligencja</strong> gdzie <strong>duże dane</strong> rośnie w sposób ciągły. Zrozumienie jego podstawowych zasad jest zatem niezbędne dla tych, którzy chcą interpretować świat przez pryzmat prawdopodobieństwa.</p>
+<p>L’<strong>Wnioskowanie bayesowskie</strong> zapewnia potężne ramy do rozumowania w warunkach niepewności i spójnego integrowania nowych informacji. Jego zastosowania są ogromne, a jego zastosowanie w zaawansowanych dziedzinach, takich jak<strong>sztuczna inteligencja</strong> gdzie <strong>duże dane</strong> rośnie w sposób ciągły. Zrozumienie jego podstawowych zasad jest zatem niezbędne dla tych, którzy chcą interpretować świat przez pryzmat prawdopodobieństwa.</p>
 
 
 

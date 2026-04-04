@@ -2,7 +2,7 @@
 lang: "id"
 title: "Pepper: semua yang perlu Anda ketahui tentang robot sosial SoftBank"
 slug: "pepper-semua-yang-perlu-anda-ketahui-tentang-robot-sosial-softbank"
-excerpt: "Pepper: Presentasi dan fungsi dasar Ringkasan Robot sosial Merica adalah prestasi teknologi yang dirancang untuk berinteraksi dengan manusia dalam lingkungan sosial. Dilengkapi dengan berbagai sensor dan AI canggih, Pepper memahami dan bereaksi terhadap emosi kita sambil beradaptasi dengan perilaku kita. Melalui artikel ini, kami akan memaparkan fungsi dasar Pepper serta aplikasi utamanya di berbagai sektor [&hellip;]"
+excerpt: "Pepper: Presentasi dan fungsi dasar Ringkasan Robot sosial Merica adalah prestasi teknologi yang dirancang untuk berinteraksi dengan manusia dalam lingkungan sosial. Dilengkapi dengan berbagai sensor dan AI canggih, Pepper memahami dan bereaksi terhadap emosi kita sambil beradaptasi dengan perilaku kita. Melalui artikel ini, kami akan memaparkan fungsi dasar Pepper serta aplikasi utamanya di berbagai sektor […]"
 date: "2024-03-09T11:50:18"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-id"]

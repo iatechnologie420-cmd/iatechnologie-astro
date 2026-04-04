@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Harga iCloud: perbandingan harga yang berbeza dan kemungkinan rancangan"
 slug: "harga-icloud-perbandingan-harga-yang-berbeza-dan-kemungkinan-rancangan"
-excerpt: "iCloud ialah perkhidmatan storan awan yang ditawarkan oleh epal yang membenarkan data seperti dokumen, foto dan muzik disimpan pada pelayan jauh untuk dimuat turun ke peranti iOS, Mac atau Windows. Ia juga menyediakan keupayaan untuk menyegerakkan data antara peranti yang berbeza dan berkongsi fail dengan mudah. Dalam artikel ini, kami akan meneroka pilihan storan iCloud [&hellip;]"
+excerpt: "iCloud ialah perkhidmatan storan awan yang ditawarkan oleh epal yang membenarkan data seperti dokumen, foto dan muzik disimpan pada pelayan jauh untuk dimuat turun ke peranti iOS, Mac atau Windows. Ia juga menyediakan keupayaan untuk menyegerakkan data antara peranti yang berbeza dan berkongsi fail dengan mudah. Dalam artikel ini, kami akan meneroka pilihan storan iCloud […]"
 date: "2024-03-09T12:00:28"
 categories: ["media-dan-platform-digital-ms", "teknologi-dan-digital-ms"]
 ---
@@ -34,7 +34,7 @@ categories: ["media-dan-platform-digital-ms", "teknologi-dan-digital-ms"]
 
 
 <ul class="wp-block-list">
-<li>5 GB &#8211; Percuma</li>
+<li>5 GB – Percuma</li>
 
 
 
@@ -255,7 +255,7 @@ categories: ["media-dan-platform-digital-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>Selepas mengklik &#8220;Tukar Pelan&#8221;, ikut arahan pada skrin untuk memilih pelan baharu dan masukkan maklumat pembayaran jika perlu.</p>
+<p>Selepas mengklik “Tukar Pelan”, ikut arahan pada skrin untuk memilih pelan baharu dan masukkan maklumat pembayaran jika perlu.</p>
 
 
 

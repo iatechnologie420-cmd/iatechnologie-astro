@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Kodėl „ChatGPT“ neveikia ir ką su tuo daryti?"
 slug: "kodel-chatgpt-neveikia-ir-ka-su-tuo-daryti"
-excerpt: "Kodėl „ChatGPT“ neveikia? Kai naudojate ChatGPT, galite susidurti su problemomis, dėl kurių jis tinkamai neveikia. Šios problemos, nors ir varginančios, gali turėti įvairių priežasčių. Šiame straipsnyje išnagrinėsime kai kurias įprastas priežastis, kodėl „ChatGPT“ gali neveikti tinkamai, ir pateiksime jums sprendimus, kaip jas išspręsti. 1. Nestabilus interneto ryšys Dėl nestabilaus interneto ryšio gali kilti problemų naudojant [&hellip;]"
+excerpt: "Kodėl „ChatGPT“ neveikia? Kai naudojate ChatGPT, galite susidurti su problemomis, dėl kurių jis tinkamai neveikia. Šios problemos, nors ir varginančios, gali turėti įvairių priežasčių. Šiame straipsnyje išnagrinėsime kai kurias įprastas priežastis, kodėl „ChatGPT“ gali neveikti tinkamai, ir pateiksime jums sprendimus, kaip jas išspręsti. 1. Nestabilus interneto ryšys Dėl nestabilaus interneto ryšio gali kilti problemų naudojant […]"
 date: "2024-03-09T12:16:32"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ai-programos-lt"]
@@ -38,7 +38,7 @@ categories: ["ai-programos-lt"]
 
 
 
-<p>– Įsitikinkite, kad naudojate naujausią naršyklės versiją.<br>&#8211; Išvalykite naršyklės talpyklą, kad pašalintumėte visus sugadintus duomenis, galinčius turėti įtakos ChatGPT veikimui.<br>– Išbandykite kitą naršyklę, kad sužinotumėte, ar problema išlieka. Kai kuriose naršyklėse gali kilti suderinamumo su tam tikromis ChatGPT funkcijomis problemų.</p>
+<p>– Įsitikinkite, kad naudojate naujausią naršyklės versiją.<br>– Išvalykite naršyklės talpyklą, kad pašalintumėte visus sugadintus duomenis, galinčius turėti įtakos ChatGPT veikimui.<br>– Išbandykite kitą naršyklę, kad sužinotumėte, ar problema išlieka. Kai kuriose naršyklėse gali kilti suderinamumo su tam tikromis ChatGPT funkcijomis problemų.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["ai-programos-lt"]
 
 
 
-<p>&#8211; Sumažinkite užklausos dydį sumažindami žodžių skaičių arba perfrazuodami užklausą.<br>&#8211; Padalinkite užklausą į keletą mažesnių dalių ir išsiųskite jas atskirai.<br>&#8211; Būkite kantrūs ir palaukite, kol apdorojimo serveriai baigs apdoroti ankstesnę užklausą, prieš siųsdami naują.</p>
+<p>– Sumažinkite užklausos dydį sumažindami žodžių skaičių arba perfrazuodami užklausą.<br>– Padalinkite užklausą į keletą mažesnių dalių ir išsiųskite jas atskirai.<br>– Būkite kantrūs ir palaukite, kol apdorojimo serveriai baigs apdoroti ankstesnę užklausą, prieš siųsdami naują.</p>
 
 
 

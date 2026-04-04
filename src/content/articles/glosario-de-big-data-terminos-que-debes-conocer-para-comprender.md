@@ -2,7 +2,7 @@
 lang: "es"
 title: "Glosario de Big Data: términos que debes conocer para comprender"
 slug: "glosario-de-big-data-terminos-que-debes-conocer-para-comprender"
-excerpt: "Introducción al mundo del big data EL Grandes datos representa un sector en crecimiento que está transformando la forma en que las empresas y organizaciones analizan y aprovechan los datos. En un mundo cada vez más digital, los datos se generan a una velocidad vertiginosa y en una variedad de formatos. La era del Big [&hellip;]"
+excerpt: "Introducción al mundo del big data EL Grandes datos representa un sector en crecimiento que está transformando la forma en que las empresas y organizaciones analizan y aprovechan los datos. En un mundo cada vez más digital, los datos se generan a una velocidad vertiginosa y en una variedad de formatos. La era del Big […]"
 date: "2024-03-09T12:11:59"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Lexique-Big-Data-Top-25-des-termes-a-connaitre-pour-comprendre-le-Big-Data-3.png"
 categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
@@ -10,7 +10,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Big Data &amp; Hadoop Full Course In 12 Hours [2024] | BigData Hadoop Tutorial For Beginners | Edureka" width="500" height="281" src="https://www.youtube.com/embed/9QxZhapbo0o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Big Data & Hadoop Full Course In 12 Hours [2024] | BigData Hadoop Tutorial For Beginners | Edureka" width="500" height="281" src="https://www.youtube.com/embed/9QxZhapbo0o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -52,7 +52,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<p>Para gestionar y procesar Big Data, <strong>tecnologías</strong> Y <strong>herramientas</strong> específicos son necesarios. Plataformas como <strong>apache hadoop</strong> Y <strong>Chispa &#8211; chispear</strong> Permitir el almacenamiento distribuido y el procesamiento de grandes conjuntos de datos. Otras herramientas como NoSQL, bases de datos no relacionales, también se ven favorecidas por su flexibilidad y su capacidad para gestionar grandes cantidades de datos heterogéneos.</p>
+<p>Para gestionar y procesar Big Data, <strong>tecnologías</strong> Y <strong>herramientas</strong> específicos son necesarios. Plataformas como <strong>apache hadoop</strong> Y <strong>Chispa – chispear</strong> Permitir el almacenamiento distribuido y el procesamiento de grandes conjuntos de datos. Otras herramientas como NoSQL, bases de datos no relacionales, también se ven favorecidas por su flexibilidad y su capacidad para gestionar grandes cantidades de datos heterogéneos.</p>
 
 
 

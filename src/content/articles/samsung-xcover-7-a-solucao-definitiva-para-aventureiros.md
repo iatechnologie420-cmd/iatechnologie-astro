@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Samsung Xcover 7: A solução definitiva para aventureiros?"
 slug: "samsung-xcover-7-a-solucao-definitiva-para-aventureiros"
-excerpt: "As características técnicas do Samsung Xcover 7 O Samsung Xcover 7 é o mais recente telefone da linha Xcover, conhecido por sua resistência às intempéries e durabilidade. Com recursos avançados e design robusto, o Xcover 7 foi projetado para pessoas ativas que precisam de um smartphone confiável em qualquer situação. Neste artigo, examinaremos mais de [&hellip;]"
+excerpt: "As características técnicas do Samsung Xcover 7 O Samsung Xcover 7 é o mais recente telefone da linha Xcover, conhecido por sua resistência às intempéries e durabilidade. Com recursos avançados e design robusto, o Xcover 7 foi projetado para pessoas ativas que precisam de um smartphone confiável em qualquer situação. Neste artigo, examinaremos mais de […]"
 date: "2024-03-09T12:14:06"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Samsung-Xcover-7-La-solution-ultime-pour-les-baroudeurs-.png"
 categories: ["tecnologia-e-digital-pt", "tecnologias-vestiveis-e-iot-pt"]
@@ -30,7 +30,7 @@ categories: ["tecnologia-e-digital-pt", "tecnologias-vestiveis-e-iot-pt"]
 
 
 
-<p>O Xcover 7 apresenta um design robusto construído para suportar as condições mais extremas. Apresentando um invólucro de plástico endurecido e tela Gorilla Glass, este telefone tem certificação IP68, o que significa que é resistente à poeira e à prova d&#8217;água até uma profundidade de 1,5 metros por 30 minutos. Além disso, também atende à norma militar MIL-STD-810H, que garante sua resistência a quedas, vibrações e temperaturas extremas.</p>
+<p>O Xcover 7 apresenta um design robusto construído para suportar as condições mais extremas. Apresentando um invólucro de plástico endurecido e tela Gorilla Glass, este telefone tem certificação IP68, o que significa que é resistente à poeira e à prova d’água até uma profundidade de 1,5 metros por 30 minutos. Além disso, também atende à norma militar MIL-STD-810H, que garante sua resistência a quedas, vibrações e temperaturas extremas.</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Pengaturcaraan berorientasikan objek: apakah itu dan untuk apa?"
 slug: "pengaturcaraan-berorientasikan-objek-apakah-itu-dan-untuk-apa"
-excerpt: "Asas Pengaturcaraan Berorientasikan Objek di sana Pengaturcaraan Berorientasikan Objek (OOP) ialah paradigma pengaturcaraan yang menggunakan &#8220;objek&#8221; untuk mereka bentuk aplikasi dan program komputer. Objek ini mewakili entiti dunia sebenar dan membenarkan pembangun mencipta perisian yang lebih fleksibel, berskala dan boleh diselenggara. Dalam artikel ini, kita akan meneroka konsep asas yang membentuk asas OOP. Abstraksi L&#8217;abstraksi [&hellip;]"
+excerpt: "Asas Pengaturcaraan Berorientasikan Objek di sana Pengaturcaraan Berorientasikan Objek (OOP) ialah paradigma pengaturcaraan yang menggunakan “objek” untuk mereka bentuk aplikasi dan program komputer. Objek ini mewakili entiti dunia sebenar dan membenarkan pembangun mencipta perisian yang lebih fleksibel, berskala dan boleh diselenggara. Dalam artikel ini, kita akan meneroka konsep asas yang membentuk asas OOP. Abstraksi L’abstraksi […]"
 date: "2024-03-09T12:48:03"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
 categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
@@ -18,7 +18,7 @@ categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>di sana <strong>Pengaturcaraan Berorientasikan Objek</strong> (OOP) ialah paradigma pengaturcaraan yang menggunakan &#8220;objek&#8221; untuk mereka bentuk aplikasi dan program komputer. Objek ini mewakili entiti dunia sebenar dan membenarkan pembangun mencipta perisian yang lebih fleksibel, berskala dan boleh diselenggara. Dalam artikel ini, kita akan meneroka konsep asas yang membentuk asas OOP.</p>
+<p>di sana <strong>Pengaturcaraan Berorientasikan Objek</strong> (OOP) ialah paradigma pengaturcaraan yang menggunakan “objek” untuk mereka bentuk aplikasi dan program komputer. Objek ini mewakili entiti dunia sebenar dan membenarkan pembangun mencipta perisian yang lebih fleksibel, berskala dan boleh diselenggara. Dalam artikel ini, kita akan meneroka konsep asas yang membentuk asas OOP.</p>
 
 
 
@@ -30,7 +30,7 @@ categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>L&#8217;<strong>abstraksi</strong> ialah proses di mana pengaturcara menyembunyikan semua butiran objek yang tidak berkaitan untuk hanya menunjukkan kepada pengguna ciri penting. Ini menjadikannya lebih mudah untuk memahami cara objek berfungsi tanpa perlu risau tentang kerumitan dalaman mereka.</p>
+<p>L’<strong>abstraksi</strong> ialah proses di mana pengaturcara menyembunyikan semua butiran objek yang tidak berkaitan untuk hanya menunjukkan kepada pengguna ciri penting. Ini menjadikannya lebih mudah untuk memahami cara objek berfungsi tanpa perlu risau tentang kerumitan dalaman mereka.</p>
 
 
 
@@ -38,7 +38,7 @@ categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>L&#8217;<strong>enkapsulasi</strong> ialah teknik yang terdiri daripada mengumpulkan data dan kaedah yang memanipulasinya dalam unit yang sama, sering dipanggil kelas. Enkapsulasi juga melindungi integriti data dengan hanya membenarkan pengubahsuaian melalui kaedah yang ditetapkan, menghalang capaian langsung yang tidak dibenarkan.</p>
+<p>L’<strong>enkapsulasi</strong> ialah teknik yang terdiri daripada mengumpulkan data dan kaedah yang memanipulasinya dalam unit yang sama, sering dipanggil kelas. Enkapsulasi juga melindungi integriti data dengan hanya membenarkan pengubahsuaian melalui kaedah yang ditetapkan, menghalang capaian langsung yang tidak dibenarkan.</p>
 
 
 
@@ -46,7 +46,7 @@ categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>L&#8217;<strong>warisan</strong> ialah ciri OOP yang membolehkan anda mencipta kelas baharu berdasarkan kelas sedia ada. Kelas baharu, dipanggil kelas terbitan, mewarisi atribut dan kaedah kelas asas, membenarkan penggunaan semula kod dan penciptaan hierarki kelas.</p>
+<p>L’<strong>warisan</strong> ialah ciri OOP yang membolehkan anda mencipta kelas baharu berdasarkan kelas sedia ada. Kelas baharu, dipanggil kelas terbitan, mewarisi atribut dan kaedah kelas asas, membenarkan penggunaan semula kod dan penciptaan hierarki kelas.</p>
 
 
 
@@ -102,7 +102,7 @@ categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>Dalam OOP, syarat <strong>persatuan</strong>, <strong>pengagregatan</strong> Dan <strong>gubahan</strong> terangkan cara yang berbeza di mana objek boleh dihubungkan bersama. Asosiasi ialah hubungan antara dua objek yang bebas antara satu sama lain, agregasi ialah hubungan &#8220;seluruh bahagian&#8221; di mana bahagian boleh wujud secara berasingan daripada keseluruhan, dan komposisi ialah hubungan &#8220;sebahagian keseluruhan&#8221; &#8220;di mana bahagian tidak boleh wujud tanpa keseluruhan.</p>
+<p>Dalam OOP, syarat <strong>persatuan</strong>, <strong>pengagregatan</strong> Dan <strong>gubahan</strong> terangkan cara yang berbeza di mana objek boleh dihubungkan bersama. Asosiasi ialah hubungan antara dua objek yang bebas antara satu sama lain, agregasi ialah hubungan “seluruh bahagian” di mana bahagian boleh wujud secara berasingan daripada keseluruhan, dan komposisi ialah hubungan “sebahagian keseluruhan” “di mana bahagian tidak boleh wujud tanpa keseluruhan.</p>
 
 
 
@@ -191,7 +191,7 @@ categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C&#8217;est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original &#8211; Louis Dhanis &#8211; Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C’est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original – Louis Dhanis – Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 
@@ -308,7 +308,7 @@ categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>OOP adalah berdasarkan konsep &#8220;objek&#8221;, yang merupakan contoh &#8220;kelas&#8221;. Objek mengandungi kedua-dua data dan kaedah. Java dan Python adalah bahasa yang merangkumi paradigma ini.</p>
+<p>OOP adalah berdasarkan konsep “objek”, yang merupakan contoh “kelas”. Objek mengandungi kedua-dua data dan kaedah. Java dan Python adalah bahasa yang merangkumi paradigma ini.</p>
 
 
 

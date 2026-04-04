@@ -2,7 +2,7 @@
 lang: "nb"
 title: "AWS Cloud – Alt du trenger å vite om Amazon Web Services-skyen"
 slug: "aws-cloud-alt-du-trenger-a-vite-om-amazon-web-services-skyen"
-excerpt: "Introduksjon til Amazon Web Services (AWS): en revolusjon innen cloud computing Siden opprettelsen i 2006, Amazon Web Services (AWS) har radikalt endret IT-landskapet ved å levere en skytjenesteplattform som gir enestående fleksibilitet, skala og stordriftsfordeler. Denne introduksjonen tar sikte på å klargjøre driftsprinsippene forAWS og for å forklare hvorfor denne løsningen har blitt en nøkkelaktør [&hellip;]"
+excerpt: "Introduksjon til Amazon Web Services (AWS): en revolusjon innen cloud computing Siden opprettelsen i 2006, Amazon Web Services (AWS) har radikalt endret IT-landskapet ved å levere en skytjenesteplattform som gir enestående fleksibilitet, skala og stordriftsfordeler. Denne introduksjonen tar sikte på å klargjøre driftsprinsippene forAWS og for å forklare hvorfor denne løsningen har blitt en nøkkelaktør […]"
 date: "2024-03-09T12:46:57"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
@@ -110,7 +110,7 @@ categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>L&#8217;<strong>Amazon VPC</strong> Lar deg klargjøre en isolert del av AWS-skyen der du kan starte AWS-ressurser i et virtuelt nettverk som du definerer. Dette er avgjørende for sikkerhet og nettverksadministrasjon av skytjenestene dine.</p>
+<p>L’<strong>Amazon VPC</strong> Lar deg klargjøre en isolert del av AWS-skyen der du kan starte AWS-ressurser i et virtuelt nettverk som du definerer. Dette er avgjørende for sikkerhet og nettverksadministrasjon av skytjenestene dine.</p>
 
 
 

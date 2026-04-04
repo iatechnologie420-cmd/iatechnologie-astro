@@ -2,7 +2,7 @@
 lang: "en"
 title: "The most futuristic robot technology"
 slug: "the-most-futuristic-robot-technology"
-excerpt: "Discovery of revolutionary robots THE revolutionary robots are no longer science fiction, they are now part of our daily lives and are transforming various industries in new ways. The rise ofartificial intelligence (AI) and advanced robotics opens the door to an era where automation becomes more adaptable, autonomous and integrated into human activities. In this [&hellip;]"
+excerpt: "Discovery of revolutionary robots THE revolutionary robots are no longer science fiction, they are now part of our daily lives and are transforming various industries in new ways. The rise ofartificial intelligence (AI) and advanced robotics opens the door to an era where automation becomes more adaptable, autonomous and integrated into human activities. In this […]"
 date: "2024-03-09T12:15:28"
 categories: ["ai-applications-en"]
 ---
@@ -23,7 +23,7 @@ categories: ["ai-applications-en"]
 
 
 
-<p>           THE <strong>revolutionary robots</strong> are no longer science fiction, they are now part of our daily lives and are transforming various industries in new ways. The rise of<strong>artificial intelligence</strong> (AI) and <strong>advanced robotics</strong> opens the door to an era where automation becomes more adaptable, autonomous and integrated into human activities. In this article, we&#8217;ll explore some of the most innovative robots and what they mean for the future.</p>
+<p>           THE <strong>revolutionary robots</strong> are no longer science fiction, they are now part of our daily lives and are transforming various industries in new ways. The rise of<strong>artificial intelligence</strong> (AI) and <strong>advanced robotics</strong> opens the door to an era where automation becomes more adaptable, autonomous and integrated into human activities. In this article, we’ll explore some of the most innovative robots and what they mean for the future.</p>
 
 
 
@@ -31,7 +31,7 @@ categories: ["ai-applications-en"]
 
 
 
-<p>           Progress in <strong>neural networks</strong> and D&#8217;<strong>deep learning</strong> have made it possible to create robots capable of analyzing and learning from environmental data, constantly improving their performance. These <strong>systems <strong>intelligent</strong></strong> are the basis of many innovations, from image recognition to autonomous navigation.</p>
+<p>           Progress in <strong>neural networks</strong> and D’<strong>deep learning</strong> have made it possible to create robots capable of analyzing and learning from environmental data, constantly improving their performance. These <strong>systems <strong>intelligent</strong></strong> are the basis of many innovations, from image recognition to autonomous navigation.</p>
 
 
 
@@ -47,7 +47,7 @@ categories: ["ai-applications-en"]
 
 
 
-<p>           Autonomy is the cornerstone of modern robots. Whether in <strong>drones</strong> or some <strong>autonomous vehicles</strong>, like those developed by <strong>You&#8217;re here</strong> And <strong>Waymo</strong>, these robots can perform tasks without human intervention, including navigating complex environments, transporting goods, or even performing surgeries with superhuman precision.</p>
+<p>           Autonomy is the cornerstone of modern robots. Whether in <strong>drones</strong> or some <strong>autonomous vehicles</strong>, like those developed by <strong>You’re here</strong> And <strong>Waymo</strong>, these robots can perform tasks without human intervention, including navigating complex environments, transporting goods, or even performing surgeries with superhuman precision.</p>
 
 
 
@@ -103,7 +103,7 @@ categories: ["ai-applications-en"]
 
 
 
-<p>        By incorporating elements of<strong>artificial intelligence</strong> and D&#8217;<strong>machine learning</strong>, robots become able to learn from their experience, adapt to new situations and improve their performance over time. AI facilitates the automation of complex tasks and enables robotic systems to process and analyze large amounts of data to make informed decisions.</p>
+<p>        By incorporating elements of<strong>artificial intelligence</strong> and D’<strong>machine learning</strong>, robots become able to learn from their experience, adapt to new situations and improve their performance over time. AI facilitates the automation of complex tasks and enables robotic systems to process and analyze large amounts of data to make informed decisions.</p>
 
 
 

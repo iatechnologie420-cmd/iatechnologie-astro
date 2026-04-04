@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Hvordan finne GPS-koordinater (breddegrad og lengdegrad) på Google Maps?"
 slug: "hvordan-finne-gps-koordinater-breddegrad-og-lengdegrad-pa-google-maps"
-excerpt: "DE GPS (Global Positioning System) er en teknologi som har blitt essensiell i vårt daglige liv. Ved å bruke signaler som sendes av satellitter, GPS-system lar oss nøyaktig bestemme vår posisjon i form av geografiske koordinater. Disse koordinatene er representert av to nøkkelelementer: breddegrad og lengdegrad. I denne artikkelen vil vi utforske verden av GPS-koordinater [&hellip;]"
+excerpt: "DE GPS (Global Positioning System) er en teknologi som har blitt essensiell i vårt daglige liv. Ved å bruke signaler som sendes av satellitter, GPS-system lar oss nøyaktig bestemme vår posisjon i form av geografiske koordinater. Disse koordinatene er representert av to nøkkelelementer: breddegrad og lengdegrad. I denne artikkelen vil vi utforske verden av GPS-koordinater […]"
 date: "2024-03-09T12:03:58"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["teknologi-og-digitalt-nb"]
@@ -65,7 +65,7 @@ categories: ["teknologi-og-digitalt-nb"]
 
 
 
-<li>Klikk &#8220;Hva er koordinatene&#8221; i menyen som vises? eller du vil direkte se koordinatene vist i en liten popup.</li>
+<li>Klikk “Hva er koordinatene” i menyen som vises? eller du vil direkte se koordinatene vist i en liten popup.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["teknologi-og-digitalt-nb"]
 
 
 
-<p>For enda større presisjon, etter å ha høyreklikket på ønsket plassering, kan du avgrense utvalget ved å flytte pekeren litt før du velger &#8220;Mer info om denne plasseringen.&#8221; Dette kan være nyttig når du skal finne koordinater for et veldig spesifikt sted, for eksempel inngangen til en bygning eller et punkt av naturlig interesse.</p>
+<p>For enda større presisjon, etter å ha høyreklikket på ønsket plassering, kan du avgrense utvalget ved å flytte pekeren litt før du velger “Mer info om denne plasseringen.” Dette kan være nyttig når du skal finne koordinater for et veldig spesifikt sted, for eksempel inngangen til en bygning eller et punkt av naturlig interesse.</p>
 
 
 

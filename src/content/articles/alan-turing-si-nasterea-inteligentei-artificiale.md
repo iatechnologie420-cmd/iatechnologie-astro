@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Alan Turing și nașterea inteligenței artificiale"
 slug: "alan-turing-si-nasterea-inteligentei-artificiale"
-excerpt: "Alan Turing: Părintele fondator al inteligenței artificiale Alan Turing: Părintele fondator al inteligenței artificialeIstoria inteligenței artificiale (AI) nu ar putea fi spusă complet fără a menționa numele lui Alan Turing, considerat de mulți părintele fondator al acestui domeniu care astăzi revoluționează atât de multe aspecte ale vieții noastre de zi cu zi. Contribuția lui depășește [&hellip;]"
+excerpt: "Alan Turing: Părintele fondator al inteligenței artificiale Alan Turing: Părintele fondator al inteligenței artificialeIstoria inteligenței artificiale (AI) nu ar putea fi spusă complet fără a menționa numele lui Alan Turing, considerat de mulți părintele fondator al acestui domeniu care astăzi revoluționează atât de multe aspecte ale vieții noastre de zi cu zi. Contribuția lui depășește […]"
 date: "2024-03-09T12:55:25"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["training-ai-si-elemente-fundamentale-ro"]
@@ -10,7 +10,7 @@ categories: ["training-ai-si-elemente-fundamentale-ro"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Video Alan Turing: Tatăl AI</figcaption></figure>
 
 
@@ -192,7 +192,7 @@ categories: ["training-ai-si-elemente-fundamentale-ro"]
 
 
 
-<p>&#8211; Decriptarea codului Enigma<br>&#8211; Proiectarea bombei criptoanalitice<br>&#8211; Formularea mașinii Turing<br>&#8211; Gândiți-vă la conceptul testului Turing<br>&#8211; Deschideți calea cercetării în inteligența artificială</p>
+<p>– Decriptarea codului Enigma<br>– Proiectarea bombei criptoanalitice<br>– Formularea mașinii Turing<br>– Gândiți-vă la conceptul testului Turing<br>– Deschideți calea cercetării în inteligența artificială</p>
 
 
 

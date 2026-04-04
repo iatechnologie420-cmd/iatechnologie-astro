@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Bagaimana untuk Mencari Koordinat GPS (Latitud dan Longitud) pada Peta Google?"
 slug: "bagaimana-untuk-mencari-koordinat-gps-latitud-dan-longitud-pada-peta-google"
-excerpt: "THE GPS (Global Positioning System) adalah teknologi yang telah menjadi penting dalam kehidupan seharian kita. Menggunakan isyarat yang dihantar oleh satelit, sistem GPS membolehkan kita menentukan dengan tepat kedudukan kita dalam bentuk koordinat geografi. Koordinat ini diwakili oleh dua elemen utama: latitud dan juga longitud. Dalam artikel ini, kami akan meneroka dunia koordinat GPS dan [&hellip;]"
+excerpt: "THE GPS (Global Positioning System) adalah teknologi yang telah menjadi penting dalam kehidupan seharian kita. Menggunakan isyarat yang dihantar oleh satelit, sistem GPS membolehkan kita menentukan dengan tepat kedudukan kita dalam bentuk koordinat geografi. Koordinat ini diwakili oleh dua elemen utama: latitud dan juga longitud. Dalam artikel ini, kami akan meneroka dunia koordinat GPS dan […]"
 date: "2024-03-09T12:03:53"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["teknologi-dan-digital-ms"]
@@ -65,7 +65,7 @@ categories: ["teknologi-dan-digital-ms"]
 
 
 
-<li>Dalam menu yang muncul, klik &#8220;Apakah koordinat?&#8221; atau anda akan terus melihat koordinat yang dipaparkan dalam pop timbul kecil.</li>
+<li>Dalam menu yang muncul, klik “Apakah koordinat?” atau anda akan terus melihat koordinat yang dipaparkan dalam pop timbul kecil.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["teknologi-dan-digital-ms"]
 
 
 
-<p>Untuk ketepatan yang lebih tinggi, selepas mengklik kanan pada lokasi yang dikehendaki, anda boleh memperhalusi pemilihan dengan menggerakkan sedikit penunjuk sebelum memilih &#8220;Maklumat lanjut tentang lokasi ini.&#8221; Ini boleh berguna apabila mencari koordinat untuk lokasi yang sangat khusus, seperti pintu masuk ke bangunan atau tempat menarik semula jadi.</p>
+<p>Untuk ketepatan yang lebih tinggi, selepas mengklik kanan pada lokasi yang dikehendaki, anda boleh memperhalusi pemilihan dengan menggerakkan sedikit penunjuk sebelum memilih “Maklumat lanjut tentang lokasi ini.” Ini boleh berguna apabila mencari koordinat untuk lokasi yang sangat khusus, seperti pintu masuk ke bangunan atau tempat menarik semula jadi.</p>
 
 
 
@@ -151,7 +151,7 @@ categories: ["teknologi-dan-digital-ms"]
 
 
 
-<li>Untuk menyemat lokasi, klik ikon pin di sebelah butiran hubungan untuk menambahkannya pada &#8220;Tempat Anda&#8221; untuk akses mudah kemudian.</li>
+<li>Untuk menyemat lokasi, klik ikon pin di sebelah butiran hubungan untuk menambahkannya pada “Tempat Anda” untuk akses mudah kemudian.</li>
 </ol>
 
 

@@ -2,7 +2,7 @@
 lang: "ro"
 title: "AWS Cloud – Tot ce trebuie să știți despre cloudul Amazon Web Services"
 slug: "aws-cloud-tot-ce-trebuie-sa-stiti-despre-cloudul-amazon-web-services"
-excerpt: "Introducere în Amazon Web Services (AWS): o revoluție în cloud computing De la crearea sa în 2006, Servicii web Amazon (AWS) a schimbat radical peisajul IT prin furnizarea unei platforme de servicii cloud care oferă flexibilitate, scară și economii de scară fără precedent. Această introducere își propune să clarifice principiile de funcționare aleAWS și pentru [&hellip;]"
+excerpt: "Introducere în Amazon Web Services (AWS): o revoluție în cloud computing De la crearea sa în 2006, Servicii web Amazon (AWS) a schimbat radical peisajul IT prin furnizarea unei platforme de servicii cloud care oferă flexibilitate, scară și economii de scară fără precedent. Această introducere își propune să clarifice principiile de funcționare aleAWS și pentru […]"
 date: "2024-03-09T12:48:01"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
@@ -110,7 +110,7 @@ categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
 
 
 
-<p>L&#8217;<strong>Amazon VPC</strong> Vă permite să furnizați o secțiune izolată a cloudului AWS unde puteți lansa resurse AWS într-o rețea virtuală pe care o definiți. Acest lucru este crucial pentru securitatea și gestionarea rețelei serviciilor dvs. cloud.</p>
+<p>L’<strong>Amazon VPC</strong> Vă permite să furnizați o secțiune izolată a cloudului AWS unde puteți lansa resurse AWS într-o rețea virtuală pe care o definiți. Acest lucru este crucial pentru securitatea și gestionarea rețelei serviciilor dvs. cloud.</p>
 
 
 

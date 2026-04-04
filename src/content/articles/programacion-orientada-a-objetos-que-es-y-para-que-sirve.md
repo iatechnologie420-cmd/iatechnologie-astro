@@ -2,7 +2,7 @@
 lang: "es"
 title: "Programación orientada a objetos: ¿qué es y para qué sirve?"
 slug: "programacion-orientada-a-objetos-que-es-y-para-que-sirve"
-excerpt: "Fundamentos de la programación orientada a objetos Allá Programación orientada a objetos (OOP) es un paradigma de programación que utiliza &#8220;objetos&#8221; para diseñar aplicaciones y programas informáticos. Estos objetos representan entidades del mundo real y permiten a los desarrolladores crear software más flexible, escalable y mantenible. En este artículo, exploraremos los conceptos básicos que forman [&hellip;]"
+excerpt: "Fundamentos de la programación orientada a objetos Allá Programación orientada a objetos (OOP) es un paradigma de programación que utiliza “objetos” para diseñar aplicaciones y programas informáticos. Estos objetos representan entidades del mundo real y permiten a los desarrolladores crear software más flexible, escalable y mantenible. En este artículo, exploraremos los conceptos básicos que forman […]"
 date: "2024-03-09T12:45:47"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
 categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
@@ -18,7 +18,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<p>Allá <strong>Programación orientada a objetos</strong> (OOP) es un paradigma de programación que utiliza &#8220;objetos&#8221; para diseñar aplicaciones y programas informáticos. Estos objetos representan entidades del mundo real y permiten a los desarrolladores crear software más flexible, escalable y mantenible. En este artículo, exploraremos los conceptos básicos que forman la base de la programación orientada a objetos.</p>
+<p>Allá <strong>Programación orientada a objetos</strong> (OOP) es un paradigma de programación que utiliza “objetos” para diseñar aplicaciones y programas informáticos. Estos objetos representan entidades del mundo real y permiten a los desarrolladores crear software más flexible, escalable y mantenible. En este artículo, exploraremos los conceptos básicos que forman la base de la programación orientada a objetos.</p>
 
 
 
@@ -102,7 +102,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<p>En POO, los términos <strong>asociación</strong>, <strong>agregación</strong> Y <strong>composición</strong> Describir las diferentes formas en que los objetos se pueden vincular entre sí. La asociación es una relación entre dos objetos que son independientes entre sí, la agregación es una relación de &#8220;parte entera&#8221; donde las partes pueden existir separadas del todo, y la composición es una relación de &#8220;parte entera&#8221; donde las partes no pueden existir sin el todo. entero.</p>
+<p>En POO, los términos <strong>asociación</strong>, <strong>agregación</strong> Y <strong>composición</strong> Describir las diferentes formas en que los objetos se pueden vincular entre sí. La asociación es una relación entre dos objetos que son independientes entre sí, la agregación es una relación de “parte entera” donde las partes pueden existir separadas del todo, y la composición es una relación de “parte entera” donde las partes no pueden existir sin el todo. entero.</p>
 
 
 
@@ -191,7 +191,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C&#8217;est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original &#8211; Louis Dhanis &#8211; Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C’est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original – Louis Dhanis – Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 
@@ -308,7 +308,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<p>La programación orientada a objetos se basa en el concepto de &#8220;objetos&#8221;, que son instancias de &#8220;clases&#8221;. Los objetos contienen datos y métodos. Java y Python son lenguajes que encarnan este paradigma.</p>
+<p>La programación orientada a objetos se basa en el concepto de “objetos”, que son instancias de “clases”. Los objetos contienen datos y métodos. Java y Python son lenguajes que encarnan este paradigma.</p>
 
 
 

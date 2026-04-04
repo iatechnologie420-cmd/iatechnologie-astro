@@ -2,7 +2,7 @@
 lang: "en"
 title: "Understanding the Turing test"
 slug: "understanding-the-turing-test"
-excerpt: "Origins and principles of the Turing test In the world of artificial intelligence (AI) and computing, the Turing test occupies a prominent place. This is a benchmark method designed to evaluate a machine&#8217;s ability to imitate human intelligence. The origins and principles of this revolutionary test date back to the mid-20th century and are based [&hellip;]"
+excerpt: "Origins and principles of the Turing test In the world of artificial intelligence (AI) and computing, the Turing test occupies a prominent place. This is a benchmark method designed to evaluate a machine’s ability to imitate human intelligence. The origins and principles of this revolutionary test date back to the mid-20th century and are based […]"
 date: "2024-03-09T12:55:44"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["ai-training-and-fundamentals-en"]
@@ -24,7 +24,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>In the world of artificial intelligence (AI) and computing, the Turing test occupies a prominent place. This is a benchmark method designed to evaluate a machine&#8217;s ability to imitate human intelligence. The origins and principles of this revolutionary test date back to the mid-20th century and are based on complex philosophical and computational concepts.</p>
+<p>In the world of artificial intelligence (AI) and computing, the Turing test occupies a prominent place. This is a benchmark method designed to evaluate a machine’s ability to imitate human intelligence. The origins and principles of this revolutionary test date back to the mid-20th century and are based on complex philosophical and computational concepts.</p>
 
 
 
@@ -84,7 +84,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>&#8211; <strong>Quality of responses</strong> : They must be coherent and seem natural, as if they came from a human.<br>&#8211; <strong>Diversity in conversation</strong> : The machine&#8217;s ability to participate in a wide variety of topics indicates some form of understanding or adaptation.<br>&#8211; <strong>Managing ambiguities</strong> : a machine must be able to handle the subtleties and nuances of language, including metaphors, humor and cultural references.<br>&#8211; <strong>Emotion and empathy</strong>: Artificial intelligence should demonstrate some form of empathy or appropriate emotional response to situations.</p>
+<p>– <strong>Quality of responses</strong> : They must be coherent and seem natural, as if they came from a human.<br>– <strong>Diversity in conversation</strong> : The machine’s ability to participate in a wide variety of topics indicates some form of understanding or adaptation.<br>– <strong>Managing ambiguities</strong> : a machine must be able to handle the subtleties and nuances of language, including metaphors, humor and cultural references.<br>– <strong>Emotion and empathy</strong>: Artificial intelligence should demonstrate some form of empathy or appropriate emotional response to situations.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>&#8211; <strong>Total anonymity</strong> : The interrogator should not have any visual or audible clues that could help him identify the entity behind the answers.<br>&#8211; <strong>Neutral communication interface</strong> : Responses must be transmitted via a keyboard and screen to avoid discrimination based on voice or handwriting.</p>
+<p>– <strong>Total anonymity</strong> : The interrogator should not have any visual or audible clues that could help him identify the entity behind the answers.<br>– <strong>Neutral communication interface</strong> : Responses must be transmitted via a keyboard and screen to avoid discrimination based on voice or handwriting.</p>
 
 
 
@@ -104,7 +104,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Assessments must be based on objective criteria, although the subjective judgment of the human interviewer plays a central role in the final decision. The following aspects are crucial:<br>&#8211; <strong>Success Statistics</strong> : the percentage of times judges are deceived is an important indicator.<br>&#8211; <strong>Bias control</strong> : Questioner bias must be minimized by a good assessment method to ensure test fairness.</p>
+<p>Assessments must be based on objective criteria, although the subjective judgment of the human interviewer plays a central role in the final decision. The following aspects are crucial:<br>– <strong>Success Statistics</strong> : the percentage of times judges are deceived is an important indicator.<br>– <strong>Bias control</strong> : Questioner bias must be minimized by a good assessment method to ensure test fairness.</p>
 
 
 
@@ -112,11 +112,11 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Interactions during the Turing Test should be natural and fluid, mimicking the flow of a real human conversation. The following elements should be taken into account:<br>&#8211; <strong>Reactivity</strong> : The machine must answer questions at a pace similar to that of a normal human conversation.<br>&#8211; <strong>Two-way interaction</strong> : The machine should not only answer questions, but also be able to ask questions to show that it is following and actively participating in the conversation.</p>
+<p>Interactions during the Turing Test should be natural and fluid, mimicking the flow of a real human conversation. The following elements should be taken into account:<br>– <strong>Reactivity</strong> : The machine must answer questions at a pace similar to that of a normal human conversation.<br>– <strong>Two-way interaction</strong> : The machine should not only answer questions, but also be able to ask questions to show that it is following and actively participating in the conversation.</p>
 
 
 
-<p>A successful Turing test is not just a matter of deceiving an interlocutor once, but of doing so consistently, under different conditions and with different judges. Although this test is widely discussed and sometimes criticized for its lack of precision on an AI&#8217;s actual understanding or awareness, it remains an interesting challenge for AI designers.<strong>AI</strong>. This is particularly the case for companies at the forefront of technological innovation, such as <strong>Google</strong> with his Assistant or <strong>OpenAI</strong> with GPT-3 / GPT-4, which seek to create ever more sophisticated systems. </p>
+<p>A successful Turing test is not just a matter of deceiving an interlocutor once, but of doing so consistently, under different conditions and with different judges. Although this test is widely discussed and sometimes criticized for its lack of precision on an AI’s actual understanding or awareness, it remains an interesting challenge for AI designers.<strong>AI</strong>. This is particularly the case for companies at the forefront of technological innovation, such as <strong>Google</strong> with his Assistant or <strong>OpenAI</strong> with GPT-3 / GPT-4, which seek to create ever more sophisticated systems. </p>
 
 
 
@@ -164,7 +164,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>&#8211; In-depth conversations on specific themes<br>&#8211; Creation of original artistic content<br>&#8211; Reactions to unexpected events or new information<br>&#8211; Real-time interaction with the environment, for example via robots</p>
+<p>– In-depth conversations on specific themes<br>– Creation of original artistic content<br>– Reactions to unexpected events or new information<br>– Real-time interaction with the environment, for example via robots</p>
 
 
 

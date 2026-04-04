@@ -2,14 +2,14 @@
 lang: "ro"
 title: "Ce este un autoencoder? Ghidul suprem!"
 slug: "ce-este-un-autoencoder-ghidul-suprem"
-excerpt: "Autoencodere, sau autoencodere în limba engleză, se poziționează ca instrumente puternice în domeniul învățării automate și al inteligenței artificiale. Aceste rețele neuronale speciale sunt utilizate pentru reducerea dimensiunilor, detectarea anomaliilor, eliminarea zgomotului de date și multe altele. Acest articol oferă o introducere în această tehnologie fascinantă, subliniind principiul ei de funcționare, aplicațiile sale și importanța [&hellip;]"
+excerpt: "Autoencodere, sau autoencodere în limba engleză, se poziționează ca instrumente puternice în domeniul învățării automate și al inteligenței artificiale. Aceste rețele neuronale speciale sunt utilizate pentru reducerea dimensiunilor, detectarea anomaliilor, eliminarea zgomotului de date și multe altele. Acest articol oferă o introducere în această tehnologie fascinantă, subliniind principiul ei de funcționare, aplicațiile sale și importanța […]"
 date: "2024-03-09T12:07:38"
 categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Tracking Corn &amp; Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Tracking Corn & Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -153,7 +153,7 @@ categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 
 
 
-<p>L&#8217;<strong>autoencoder</strong>, o componentă cheie în arsenalul de învățare profundă alimentată de inteligența artificială (AI), este o rețea neuronală concepută pentru a codifica datele într-o reprezentare dimensională inferioară și a le descompune astfel încât să fie posibilă o reconstrucție relevantă. Să le examinăm <strong>aplicații practice</strong> și variantele care au apărut în acest domeniu fascinant.</p>
+<p>L’<strong>autoencoder</strong>, o componentă cheie în arsenalul de învățare profundă alimentată de inteligența artificială (AI), este o rețea neuronală concepută pentru a codifica datele într-o reprezentare dimensională inferioară și a le descompune astfel încât să fie posibilă o reconstrucție relevantă. Să le examinăm <strong>aplicații practice</strong> și variantele care au apărut în acest domeniu fascinant.</p>
 
 
 

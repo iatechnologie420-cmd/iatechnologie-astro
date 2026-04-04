@@ -2,7 +2,7 @@
 lang: "pt"
 title: "A tecnologia robótica mais futurista"
 slug: "a-tecnologia-robotica-mais-futurista"
-excerpt: "Descoberta de robôs revolucionários O robôs revolucionários já não são ficção científica, fazem agora parte da nossa vida quotidiana e estão a transformar diversas indústrias de novas formas. A ascensão deinteligência artificial (IA) e robótica avançada abre as portas para uma era em que a automação se torna mais adaptável, autônoma e integrada às atividades [&hellip;]"
+excerpt: "Descoberta de robôs revolucionários O robôs revolucionários já não são ficção científica, fazem agora parte da nossa vida quotidiana e estão a transformar diversas indústrias de novas formas. A ascensão deinteligência artificial (IA) e robótica avançada abre as portas para uma era em que a automação se torna mais adaptável, autônoma e integrada às atividades […]"
 date: "2024-03-09T12:18:14"
 categories: ["aplicacoes-de-ia-pt"]
 ---
@@ -31,7 +31,7 @@ categories: ["aplicacoes-de-ia-pt"]
 
 
 
-<p>           Progresso em <strong>redes neurais</strong> e D&#8217;<strong>aprendizagem profunda</strong> tornaram possível criar robôs capazes de analisar e aprender com dados ambientais, melhorando constantemente o seu desempenho. Esses <strong>sistemas <strong>inteligente</strong></strong> são a base de muitas inovações, desde o reconhecimento de imagens até à navegação autónoma.</p>
+<p>           Progresso em <strong>redes neurais</strong> e D’<strong>aprendizagem profunda</strong> tornaram possível criar robôs capazes de analisar e aprender com dados ambientais, melhorando constantemente o seu desempenho. Esses <strong>sistemas <strong>inteligente</strong></strong> são a base de muitas inovações, desde o reconhecimento de imagens até à navegação autónoma.</p>
 
 
 
@@ -103,7 +103,7 @@ categories: ["aplicacoes-de-ia-pt"]
 
 
 
-<p>        Ao incorporar elementos de<strong>inteligência artificial</strong> e D&#8217;<strong>aprendizado de máquina</strong>, os robôs tornam-se capazes de aprender com a sua experiência, adaptar-se a novas situações e melhorar o seu desempenho ao longo do tempo. A IA facilita a automação de tarefas complexas e permite que sistemas robóticos processem e analisem grandes quantidades de dados para tomar decisões informadas.</p>
+<p>        Ao incorporar elementos de<strong>inteligência artificial</strong> e D’<strong>aprendizado de máquina</strong>, os robôs tornam-se capazes de aprender com a sua experiência, adaptar-se a novas situações e melhorar o seu desempenho ao longo do tempo. A IA facilita a automação de tarefas complexas e permite que sistemas robóticos processem e analisem grandes quantidades de dados para tomar decisões informadas.</p>
 
 
 

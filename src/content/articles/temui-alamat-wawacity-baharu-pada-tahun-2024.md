@@ -1,8 +1,8 @@
 ---
-lang: "other"
+lang: "ms"
 title: "Temui alamat Wawacity baharu pada tahun 2024!"
 slug: "temui-alamat-wawacity-baharu-pada-tahun-2024"
-excerpt: "Wawacity: penanda aras untuk muat turun percuma (tetapi menyalahi undang-undang). Wawacity ialah platform dalam talian yang menawarkan pelbagai pilihan kandungan percuma untuk dimuat turun di kawasan yang berbeza: filem, siri, muzik, permainan video, perisian, buku dan banyak lagi. Alamat baharu ini pantas menjadi satu kemestian bagi pencinta hiburan yang ingin menikmati media kegemaran mereka tanpa [&hellip;]"
+excerpt: "Wawacity: penanda aras untuk muat turun percuma (tetapi menyalahi undang-undang). Wawacity ialah platform dalam talian yang menawarkan pelbagai pilihan kandungan percuma untuk dimuat turun di kawasan yang berbeza: filem, siri, muzik, permainan video, perisian, buku dan banyak lagi. Alamat baharu ini pantas menjadi satu kemestian bagi pencinta hiburan yang ingin menikmati media kegemaran mereka tanpa […]"
 date: "2024-03-09T12:40:42"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Decouvrez-la-nouvelle-adresse-de-Wawacity-.png"
 categories: ["media-dan-platform-digital-ms", "teknologi-dan-digital-ms"]

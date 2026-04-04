@@ -2,7 +2,7 @@
 lang: "is"
 title: "Morpion leikur Google: Hvernig á að spila hann og sigra gervigreind?"
 slug: "morpion-leikur-google-hvernig-a-ad-spila-hann-og-sigra-gervigreind"
-excerpt: "Reglur Google Tic-Toe leiksins Markmið leiksins Morpion leikurinn, einnig kallaður Tic-tac-toe, er herkænskuleikur sem er spilaður á 3&#215;3 rist. Markmiðið er að stilla upp þremur eins táknum (kross eða hring) lárétt, lóðrétt eða á ská á undan andstæðingnum. Settu upp Google Tic Toe leikurinn er fáanlegur á netinu og hægt er að spila hann í [&hellip;]"
+excerpt: "Reglur Google Tic-Toe leiksins Markmið leiksins Morpion leikurinn, einnig kallaður Tic-tac-toe, er herkænskuleikur sem er spilaður á 3×3 rist. Markmiðið er að stilla upp þremur eins táknum (kross eða hring) lárétt, lóðrétt eða á ská á undan andstæðingnum. Settu upp Google Tic Toe leikurinn er fáanlegur á netinu og hægt er að spila hann í […]"
 date: "2024-03-09T12:42:17"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
 categories: ["taekni-og-stafraen-is"]
@@ -22,7 +22,7 @@ categories: ["taekni-og-stafraen-is"]
 
 
 
-<p>Morpion leikurinn, einnig kallaður Tic-tac-toe, er herkænskuleikur sem er spilaður á 3&#215;3 rist. Markmiðið er að stilla upp þremur eins táknum (kross eða hring) lárétt, lóðrétt eða á ská á undan andstæðingnum.</p>
+<p>Morpion leikurinn, einnig kallaður Tic-tac-toe, er herkænskuleikur sem er spilaður á 3×3 rist. Markmiðið er að stilla upp þremur eins táknum (kross eða hring) lárétt, lóðrétt eða á ská á undan andstæðingnum.</p>
 
 
 
@@ -46,19 +46,19 @@ categories: ["taekni-og-stafraen-is"]
 
 
 
-<p>&#8211; Byrjaðu á því að hernema miðju ristarinnar: með því að byrja frá miðjunni eykurðu vinningslíkur þínar, því þetta ferningur er upphafspunktur margra mögulegra raða.</p>
+<p>– Byrjaðu á því að hernema miðju ristarinnar: með því að byrja frá miðjunni eykurðu vinningslíkur þínar, því þetta ferningur er upphafspunktur margra mögulegra raða.</p>
 
 
 
-<p>&#8211; Lokaðu hreyfingum andstæðingsins: Fylgstu með hreyfingum andstæðingsins og reyndu að loka fyrir hugsanlega uppstillingu þeirra með því að setja táknin þín á stefnumótandi stöðum.</p>
+<p>– Lokaðu hreyfingum andstæðingsins: Fylgstu með hreyfingum andstæðingsins og reyndu að loka fyrir hugsanlega uppstillingu þeirra með því að setja táknin þín á stefnumótandi stöðum.</p>
 
 
 
-<p>&#8211; Gerðu ráð fyrir næstu hreyfingum: reyndu að spá fyrir um hreyfingar andstæðingsins og settu táknin þín til að vinna gegn aðferðum þeirra.</p>
+<p>– Gerðu ráð fyrir næstu hreyfingum: reyndu að spá fyrir um hreyfingar andstæðingsins og settu táknin þín til að vinna gegn aðferðum þeirra.</p>
 
 
 
-<p>&#8211; Vertu sveigjanlegur í nálgun þinni: ekki læstu þig við eina stefnu, vertu tilbúinn að breyta um taktík eftir hreyfingum andstæðingsins.</p>
+<p>– Vertu sveigjanlegur í nálgun þinni: ekki læstu þig við eina stefnu, vertu tilbúinn að breyta um taktík eftir hreyfingum andstæðingsins.</p>
 
 
 
@@ -66,11 +66,11 @@ categories: ["taekni-og-stafraen-is"]
 
 
 
-<p>&#8211; Ekki vanmeta „auðvelda“ stigið: jafnvel þótt þú sért reyndur leikmaður, getur „auðvelda“ stigið verið góð æfing til að prófa nýjar aðferðir eða fínpússa leikinn þinn.</p>
+<p>– Ekki vanmeta „auðvelda“ stigið: jafnvel þótt þú sért reyndur leikmaður, getur „auðvelda“ stigið verið góð æfing til að prófa nýjar aðferðir eða fínpússa leikinn þinn.</p>
 
 
 
-<p>&#8211; Skemmtu þér: Tic Toe leikurinn er einfaldur og skemmtilegur leikur sem hægt er að spila fljótt. Nýttu þér hvern leik til að skemmta þér og bæta færni þína.</p>
+<p>– Skemmtu þér: Tic Toe leikurinn er einfaldur og skemmtilegur leikur sem hægt er að spila fljótt. Nýttu þér hvern leik til að skemmta þér og bæta færni þína.</p>
 
 
 

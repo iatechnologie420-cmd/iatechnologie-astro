@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Como encontrar coordenadas GPS (latitude e longitude) no Google Maps?"
 slug: "como-encontrar-coordenadas-gps-latitude-e-longitude-no-google-maps"
-excerpt: "O GPS (Sistema de Posicionamento Global) é uma tecnologia que se tornou essencial em nosso dia a dia. Usando sinais transmitidos por satélites, o Sistema GPS nos permite determinar com precisão nossa posição na forma de coordenadas geográficas. Estas coordenadas são representadas por dois elementos-chave: o latitude e a longitude. Neste artigo iremos explorar o [&hellip;]"
+excerpt: "O GPS (Sistema de Posicionamento Global) é uma tecnologia que se tornou essencial em nosso dia a dia. Usando sinais transmitidos por satélites, o Sistema GPS nos permite determinar com precisão nossa posição na forma de coordenadas geográficas. Estas coordenadas são representadas por dois elementos-chave: o latitude e a longitude. Neste artigo iremos explorar o […]"
 date: "2024-03-09T12:04:24"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["tecnologia-e-digital-pt"]
@@ -65,7 +65,7 @@ categories: ["tecnologia-e-digital-pt"]
 
 
 
-<li>No menu que aparece, clique em &#8220;Quais são as coordenadas?&#8221; ou você verá diretamente as coordenadas exibidas em um pequeno pop-up.</li>
+<li>No menu que aparece, clique em “Quais são as coordenadas?” ou você verá diretamente as coordenadas exibidas em um pequeno pop-up.</li>
 
 
 
@@ -151,7 +151,7 @@ categories: ["tecnologia-e-digital-pt"]
 
 
 
-<li>Para fixar o local, clique no ícone de alfinete ao lado dos detalhes do contato para adicioná-lo a &#8220;Seus lugares&#8221; para facilitar o acesso posteriormente.</li>
+<li>Para fixar o local, clique no ícone de alfinete ao lado dos detalhes do contato para adicioná-lo a “Seus lugares” para facilitar o acesso posteriormente.</li>
 </ol>
 
 

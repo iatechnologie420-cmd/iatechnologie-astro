@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Te gry, w których sztuczna inteligencja pokonała człowieka"
 slug: "te-gry-w-ktorych-sztuczna-inteligencja-pokonala-czlowieka"
-excerpt: "Świt superkomputerów i wyzwanie szachowe Era superkomputerów nie jest już odległą futurystyczną wizją, ale namacalną rzeczywistością, która rewolucjonizuje różne sektory, w tym gry strategiczne, takie jak szachy. Te maszyny o fenomenalnej mocy obliczeniowej stanowią idealny plac zabaw do odkrywania granic sztucznej inteligencji i podejmowania szachowego wyzwania poprzez zadanie fundamentalnego pytania: Jaki jest prawdziwy potencjał superkomputerów [&hellip;]"
+excerpt: "Świt superkomputerów i wyzwanie szachowe Era superkomputerów nie jest już odległą futurystyczną wizją, ale namacalną rzeczywistością, która rewolucjonizuje różne sektory, w tym gry strategiczne, takie jak szachy. Te maszyny o fenomenalnej mocy obliczeniowej stanowią idealny plac zabaw do odkrywania granic sztucznej inteligencji i podejmowania szachowego wyzwania poprzez zadanie fundamentalnego pytania: Jaki jest prawdziwy potencjał superkomputerów […]"
 date: "2024-03-09T12:40:10"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["szkolenia-i-podstawy-ai-pl"]
@@ -36,7 +36,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<p>Już w latach pięćdziesiątych XX wieku projekty pierwszych programów szachowych ujawniły potencjał komputerów. Ale to jest pojawienie się superkomputerów <strong>Głęboki błękit</strong> z<strong>IBM-a</strong> co naprawdę urzeczywistniło rolę tych wyjątkowych maszyn. W 1997 roku Deep Blue rzucił wyzwanie mistrzowi świata Garry&#8217;emu Kasparowowi i wygrał mecz, podkreślając potęgę ówczesnych komputerów. </p>
+<p>Już w latach pięćdziesiątych XX wieku projekty pierwszych programów szachowych ujawniły potencjał komputerów. Ale to jest pojawienie się superkomputerów <strong>Głęboki błękit</strong> z<strong>IBM-a</strong> co naprawdę urzeczywistniło rolę tych wyjątkowych maszyn. W 1997 roku Deep Blue rzucił wyzwanie mistrzowi świata Garry’emu Kasparowowi i wygrał mecz, podkreślając potęgę ówczesnych komputerów. </p>
 
 
 
@@ -118,7 +118,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<p>&#8211; Ulepszeni wirtualni przeciwnicy: sztuczna inteligencja umożliwia tworzenie wrogów innych niż ludzie z zaawansowanymi możliwościami strategicznymi i zdolnymi do dostosowywania się w czasie rzeczywistym do działań gracza. <br>&#8211; Głębokie uczenie się: nowoczesne systemy sztucznej inteligencji opierają się na uczeniu maszynowym, w szczególności uczeniu głębokim, w celu analizowania milionów gier i opracowywania optymalnych strategii.<br>&#8211; Personalizacja doświadczenia: sztuczna inteligencja może dostosować poziom trudności i styl gry do gracza, zapewniając dostosowane do jego potrzeb doświadczenia.<br>&#8211; Opracowanie nowej mechaniki gry**: sztuczna inteligencja pozwala na wprowadzenie niespotykanej wcześniej dynamiki, dzięki możliwości zarządzania złożonymi systemami.</p>
+<p>– Ulepszeni wirtualni przeciwnicy: sztuczna inteligencja umożliwia tworzenie wrogów innych niż ludzie z zaawansowanymi możliwościami strategicznymi i zdolnymi do dostosowywania się w czasie rzeczywistym do działań gracza. <br>– Głębokie uczenie się: nowoczesne systemy sztucznej inteligencji opierają się na uczeniu maszynowym, w szczególności uczeniu głębokim, w celu analizowania milionów gier i opracowywania optymalnych strategii.<br>– Personalizacja doświadczenia: sztuczna inteligencja może dostosować poziom trudności i styl gry do gracza, zapewniając dostosowane do jego potrzeb doświadczenia.<br>– Opracowanie nowej mechaniki gry**: sztuczna inteligencja pozwala na wprowadzenie niespotykanej wcześniej dynamiki, dzięki możliwości zarządzania złożonymi systemami.</p>
 
 
 
@@ -130,11 +130,11 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<p>&#8211; <strong>Głęboki Umysł</strong>AlphaGo: ta sztuczna inteligencja przeszła do historii, pokonując mistrza świata w Go Lee Sedola w 2016 roku.</p>
+<p>– <strong>Głęboki Umysł</strong>AlphaGo: ta sztuczna inteligencja przeszła do historii, pokonując mistrza świata w Go Lee Sedola w 2016 roku.</p>
 
 
 
-<p>&#8211; <strong>OpenAI</strong> Pięć: Ta sztuczna inteligencja, opracowana przez OpenAI, pokonała profesjonalne drużyny w konkurencyjnej grze strategicznej Dota 2.</p>
+<p>– <strong>OpenAI</strong> Pięć: Ta sztuczna inteligencja, opracowana przez OpenAI, pokonała profesjonalne drużyny w konkurencyjnej grze strategicznej Dota 2.</p>
 
 
 
@@ -170,7 +170,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<p>&#8211; Personalizacja i dostosowanie gier wideo do doświadczenia użytkownika.<br>&#8211; Udoskonalanie gier symulacyjnych za pomocą sztucznej inteligencji zdolnej do odtwarzania realistycznych zachowań ludzkich w strategiach, dyplomacji czy ekonomii.<br>&#8211; Używaj w Serious Games do zastosowań edukacyjnych, medycznych i szkoleń zawodowych.<br>&#8211; Postępy w e-sporcie, w którym sztuczną inteligencję można wykorzystać do celów treningowych, ale także jako zawodników i partnerów w grach.<br>&#8211; Intensyfikacja badań akademickich na temat podejmowania decyzji, strategii i psychologii.</p>
+<p>– Personalizacja i dostosowanie gier wideo do doświadczenia użytkownika.<br>– Udoskonalanie gier symulacyjnych za pomocą sztucznej inteligencji zdolnej do odtwarzania realistycznych zachowań ludzkich w strategiach, dyplomacji czy ekonomii.<br>– Używaj w Serious Games do zastosowań edukacyjnych, medycznych i szkoleń zawodowych.<br>– Postępy w e-sporcie, w którym sztuczną inteligencję można wykorzystać do celów treningowych, ale także jako zawodników i partnerów w grach.<br>– Intensyfikacja badań akademickich na temat podejmowania decyzji, strategii i psychologii.</p>
 
 
 

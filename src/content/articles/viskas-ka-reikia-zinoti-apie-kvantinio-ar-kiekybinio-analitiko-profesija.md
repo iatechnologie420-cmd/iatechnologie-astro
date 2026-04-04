@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Viskas, ką reikia žinoti apie kvantinio ar kiekybinio analitiko profesiją"
 slug: "viskas-ka-reikia-zinoti-apie-kvantinio-ar-kiekybinio-analitiko-profesija"
-excerpt: "Įvadas į kiekybinių finansų pasaulį Kiekybiniai finansai yra specializuota finansų sritis, kuri naudoja matematinius modelius, statistiką ir kompiuterinius metodus, kad suprastų ir prognozuotų finansų rinkų elgesį. Šiame straipsnyje mes išnagrinėsime šią sritį aptardami joje naudojamus įrankius, jų taikymą ir įgūdžius, kurių reikia norint tobulėti. Kiekybiniai finansai tapo būtini priimant sprendimus finansų institucijose ir siūlo įdomių [&hellip;]"
+excerpt: "Įvadas į kiekybinių finansų pasaulį Kiekybiniai finansai yra specializuota finansų sritis, kuri naudoja matematinius modelius, statistiką ir kompiuterinius metodus, kad suprastų ir prognozuotų finansų rinkų elgesį. Šiame straipsnyje mes išnagrinėsime šią sritį aptardami joje naudojamus įrankius, jų taikymą ir įgūdžius, kurių reikia norint tobulėti. Kiekybiniai finansai tapo būtini priimant sprendimus finansų institucijose ir siūlo įdomių […]"
 date: "2024-03-09T11:56:42"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-3.png"
 categories: ["technologijos-ir-skaitmeninis-lt"]

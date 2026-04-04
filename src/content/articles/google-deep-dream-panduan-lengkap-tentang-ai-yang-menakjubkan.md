@@ -2,7 +2,7 @@
 lang: "id"
 title: "Google Deep Dream: panduan lengkap tentang AI yang menakjubkan"
 slug: "google-deep-dream-panduan-lengkap-tentang-ai-yang-menakjubkan"
-excerpt: "Memahami konsep Google Deep Dream Dalam dunia kecerdasan buatan yang menakjubkan, sebuah inovasi yang sangat mengesankan telah muncul: the Google Mimpi Dalam. Dianggap sebagai a AI yang menakjubkan, konsep ini menggabungkan teknologi canggih dan imajinasi tanpa batas untuk menciptakan representasi visual yang menakjubkan. Untuk sepenuhnya memahami esensi teknologi ini, kita akan mengeksplorasi dasar-dasarnya, cara kerjanya, [&hellip;]"
+excerpt: "Memahami konsep Google Deep Dream Dalam dunia kecerdasan buatan yang menakjubkan, sebuah inovasi yang sangat mengesankan telah muncul: the Google Mimpi Dalam. Dianggap sebagai a AI yang menakjubkan, konsep ini menggabungkan teknologi canggih dan imajinasi tanpa batas untuk menciptakan representasi visual yang menakjubkan. Untuk sepenuhnya memahami esensi teknologi ini, kita akan mengeksplorasi dasar-dasarnya, cara kerjanya, […]"
 date: "2024-03-09T11:50:16"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
 categories: ["aplikasi-ai-id"]
@@ -56,7 +56,7 @@ categories: ["aplikasi-ai-id"]
 
 
 
-<p>Kemampuan Google Deep Dream untuk <strong>mengubah gambar sederhana menjadi penglihatan seperti mimpi dan terkadang mengganggu</strong> memberinya julukan itu <strong>“AI yang luar biasa”</strong>. Hal ini memberi kita wawasan luar biasa tentang bagaimana mesin bisa &#8220;bermimpi&#8221; atau &#8220;berimajinasi&#8221; &#8211; sebuah prospek yang dulunya merupakan bidang fiksi ilmiah, namun kini semakin mendekati kenyataan dengan hadirnya teknologi inovatif seperti ini.</p>
+<p>Kemampuan Google Deep Dream untuk <strong>mengubah gambar sederhana menjadi penglihatan seperti mimpi dan terkadang mengganggu</strong> memberinya julukan itu <strong>“AI yang luar biasa”</strong>. Hal ini memberi kita wawasan luar biasa tentang bagaimana mesin bisa “bermimpi” atau “berimajinasi” – sebuah prospek yang dulunya merupakan bidang fiksi ilmiah, namun kini semakin mendekati kenyataan dengan hadirnya teknologi inovatif seperti ini.</p>
 
 
 
@@ -80,7 +80,7 @@ categories: ["aplikasi-ai-id"]
 
 
 
-<p>Bidang kecerdasan buatan juga mengalami kekhawatiran mengenai kemungkinan &#8220;penyembuhan&#8221; <strong>&#8220;halusinasi&#8221;</strong> robot percakapan. Meskipun hal ini mungkin tampak aneh dan bahkan sedikit menakutkan, AI Google berpotensi untuk memahami dan menyelesaikan masalah ini. Dengan menggunakan algoritme kompleks dan model prediktif, AI dapat mengidentifikasi penyimpangan dan memperbaiki kesalahan untuk interaksi yang lebih lancar dan alami.</p>
+<p>Bidang kecerdasan buatan juga mengalami kekhawatiran mengenai kemungkinan “penyembuhan” <strong>“halusinasi”</strong> robot percakapan. Meskipun hal ini mungkin tampak aneh dan bahkan sedikit menakutkan, AI Google berpotensi untuk memahami dan menyelesaikan masalah ini. Dengan menggunakan algoritme kompleks dan model prediktif, AI dapat mengidentifikasi penyimpangan dan memperbaiki kesalahan untuk interaksi yang lebih lancar dan alami.</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "nl"
 title: "Deepfake: alles wat u moet weten over de nieuwe dreiging die verband houdt met AI"
 slug: "deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai"
-excerpt: "Definitie en werking van Deepfake Definitie van deepfake De voorwaarde diep nep is een samentrekking van de Engelse woorden ‘deep learning’ en ‘fake’. Deze technologie is gebaseerd op algoritmenkunstmatige intelligentie speciaal ontworpen voor het creëren of bewerken van audiovisuele inhoud, inclusief video&#8217;s en audiotracks. Het resultaat is vaak zo overtuigend dat het oog en oor [&hellip;]"
+excerpt: "Definitie en werking van Deepfake Definitie van deepfake De voorwaarde diep nep is een samentrekking van de Engelse woorden ‘deep learning’ en ‘fake’. Deze technologie is gebaseerd op algoritmenkunstmatige intelligentie speciaal ontworpen voor het creëren of bewerken van audiovisuele inhoud, inclusief video’s en audiotracks. Het resultaat is vaak zo overtuigend dat het oog en oor […]"
 date: "2024-03-09T12:50:33"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
 categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-nl"]
@@ -19,7 +19,7 @@ categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Definitie_en_werking_van_Deepfake" >Definitie en werking van Deepfake</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Definitie_van_deepfake" >Definitie van deepfake</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Hoe_deepfake_werkt" >Hoe deepfake werkt</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Impact_van_deepfake" >Impact van deepfake</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#De_ethische_implicaties_en_risicos_van_deep_fake" >De ethische implicaties en risico&#8217;s van deep fake</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Risicos_voor_de_samenleving" >Risico&#8217;s voor de samenleving</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Technologische_vooruitgang_in_het_licht_van_Deepfake" >Technologische vooruitgang in het licht van Deepfake</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Deepfake-detectie" >Deepfake-detectie</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-9" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Verbeterde_wet-_en_regelgeving" >Verbeterde wet- en regelgeving</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Educatie_en_bewustzijn" >Educatie en bewustzijn</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-11" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Versterking_van_onlineplatforms" >Versterking van onlineplatforms</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Hoe_deepfakes_te_detecteren" >Hoe deepfakes te detecteren</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-13" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Hoe_u_uzelf_kunt_beschermen_tegen_deepfakes" >Hoe u uzelf kunt beschermen tegen deepfakes</a></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Definitie_en_werking_van_Deepfake" >Definitie en werking van Deepfake</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Definitie_van_deepfake" >Definitie van deepfake</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Hoe_deepfake_werkt" >Hoe deepfake werkt</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Impact_van_deepfake" >Impact van deepfake</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#De_ethische_implicaties_en_risicos_van_deep_fake" >De ethische implicaties en risico’s van deep fake</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Risicos_voor_de_samenleving" >Risico’s voor de samenleving</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Technologische_vooruitgang_in_het_licht_van_Deepfake" >Technologische vooruitgang in het licht van Deepfake</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Deepfake-detectie" >Deepfake-detectie</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-9" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Verbeterde_wet-_en_regelgeving" >Verbeterde wet- en regelgeving</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Educatie_en_bewustzijn" >Educatie en bewustzijn</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-11" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Versterking_van_onlineplatforms" >Versterking van onlineplatforms</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Hoe_deepfakes_te_detecteren" >Hoe deepfakes te detecteren</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-13" href="/nl/deepfake-alles-wat-u-moet-weten-over-de-nieuwe-dreiging-die-verband-houdt-met-ai/#Hoe_u_uzelf_kunt_beschermen_tegen_deepfakes" >Hoe u uzelf kunt beschermen tegen deepfakes</a></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="Definitie_en_werking_van_Deepfake"></span>Definitie en werking van Deepfake<span class="ez-toc-section-end"></span></h2>
 
 
@@ -28,7 +28,7 @@ categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-
 
 
 
-<p>De voorwaarde <strong>diep nep</strong> is een samentrekking van de Engelse woorden ‘deep learning’ en ‘fake’. Deze technologie is gebaseerd op algoritmen<strong>kunstmatige intelligentie</strong> speciaal ontworpen voor het creëren of bewerken van audiovisuele inhoud, inclusief video&#8217;s en audiotracks. Het resultaat is vaak zo overtuigend dat het oog en oor kan misleiden, waardoor het voor de meeste mensen op het eerste gezicht niet waarneembaar is. Het doel van deepfakes kan speels, artistiek, maar ook kwaadaardig zijn, bijvoorbeeld met als doel het verspreiden van valse informatie of het beschadigen van iemands reputatie.</p>
+<p>De voorwaarde <strong>diep nep</strong> is een samentrekking van de Engelse woorden ‘deep learning’ en ‘fake’. Deze technologie is gebaseerd op algoritmen<strong>kunstmatige intelligentie</strong> speciaal ontworpen voor het creëren of bewerken van audiovisuele inhoud, inclusief video’s en audiotracks. Het resultaat is vaak zo overtuigend dat het oog en oor kan misleiden, waardoor het voor de meeste mensen op het eerste gezicht niet waarneembaar is. Het doel van deepfakes kan speels, artistiek, maar ook kwaadaardig zijn, bijvoorbeeld met als doel het verspreiden van valse informatie of het beschadigen van iemands reputatie.</p>
 
 
 
@@ -48,7 +48,7 @@ categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-
 
 
 
-<p>In de praktijk vereist het maken van een deepfake eerst het verzamelen van grote hoeveelheden gegevens, zoals afbeeldingen of video&#8217;s van het doelwit. Deze gegevens worden vervolgens gebruikt om het model te trainen in het begrijpen en imiteren van de specifieke kenmerken van het doelwit. Zodra het model is getraind, kan het de nep-inhoud met hoge nauwkeurigheid genereren.</p>
+<p>In de praktijk vereist het maken van een deepfake eerst het verzamelen van grote hoeveelheden gegevens, zoals afbeeldingen of video’s van het doelwit. Deze gegevens worden vervolgens gebruikt om het model te trainen in het begrijpen en imiteren van de specifieke kenmerken van het doelwit. Zodra het model is getraind, kan het de nep-inhoud met hoge nauwkeurigheid genereren.</p>
 
 
 
@@ -60,7 +60,7 @@ categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-
 
 
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="De_ethische_implicaties_en_risicos_van_deep_fake"></span>De ethische implicaties en risico&#8217;s van deep fake<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="De_ethische_implicaties_en_risicos_van_deep_fake"></span>De ethische implicaties en risico’s van deep fake<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -86,7 +86,7 @@ categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="Risicos_voor_de_samenleving"></span>Risico&#8217;s voor de samenleving<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="Risicos_voor_de_samenleving"></span>Risico’s voor de samenleving<span class="ez-toc-section-end"></span></h3>
 
 
 
@@ -95,7 +95,7 @@ categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-
 
 
 <ul class="wp-block-list">
-<li><strong>Politieke invloed:</strong> De mogelijkheid om nepvideo&#8217;s van politici te maken zou de uitkomst van verkiezingen kunnen beïnvloeden of regeringen kunnen destabiliseren.</li>
+<li><strong>Politieke invloed:</strong> De mogelijkheid om nepvideo’s van politici te maken zou de uitkomst van verkiezingen kunnen beïnvloeden of regeringen kunnen destabiliseren.</li>
 
 
 
@@ -152,7 +152,7 @@ categories: ["disruptieve-en-opkomende-innovaties-nl", "technologie-en-digitaal-
 
 
 
-<p>Geconfronteerd met dit panorama wordt publieke voorlichting van cruciaal belang. Het is belangrijk om het bewustzijn over het probleem van deepfakes te vergroten, zodat gebruikers waakzaam zijn en kunnen twijfelen aan wat ze online zien. Informatiecampagnes, geleid door overheden en NGO&#8217;s, en educatieve modules op scholen beginnen op te duiken.</p>
+<p>Geconfronteerd met dit panorama wordt publieke voorlichting van cruciaal belang. Het is belangrijk om het bewustzijn over het probleem van deepfakes te vergroten, zodat gebruikers waakzaam zijn en kunnen twijfelen aan wat ze online zien. Informatiecampagnes, geleid door overheden en NGO’s, en educatieve modules op scholen beginnen op te duiken.</p>
 
 
 

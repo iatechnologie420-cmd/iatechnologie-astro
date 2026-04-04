@@ -2,14 +2,14 @@
 lang: "fr"
 title: "🎥 Crée des vidéos IA cohérente avec VEO 3 Image-to-Video et ElevenLabs"
 slug: "veo-3-image-to-video-cree-une-image-parfaite-voix-personnalise"
-excerpt: "Tu rêves de transformer une simple image en vidéo ultra réaliste accompagnée d’une voix unique ? En associant&nbsp;VEO 3et&nbsp;ElevenLabs, tu peux créer un personnage IA visuellement et vocalement stable, sans avoir besoin de micro, caméra ou studio. Voici comment mettre en place ce workflow simple et efficace, étape par étape, avec&nbsp;OpenArt.ai&nbsp;pour garantir une base solide visuelle [&hellip;]"
+excerpt: "Tu rêves de transformer une simple image en vidéo ultra réaliste accompagnée d’une voix unique ? En associant VEO 3et ElevenLabs, tu peux créer un personnage IA visuellement et vocalement stable, sans avoir besoin de micro, caméra ou studio. Voici comment mettre en place ce workflow simple et efficace, étape par étape, avec OpenArt.ai pour garantir une base solide visuelle […]"
 date: "2025-07-23T15:13:43"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-Image-24-juil.-2025-a-00_11_08-2.png"
 categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 ---
 
 
-<p>Tu rêves de transformer une simple image en vidéo ultra réaliste accompagnée d’une voix unique ? En associant&nbsp;<strong>VEO 3</strong>et&nbsp;<strong>ElevenLabs</strong>, tu peux créer un personnage IA visuellement et vocalement stable, sans avoir besoin de micro, caméra ou studio. Voici comment mettre en place ce workflow simple et efficace, étape par étape, avec&nbsp;<strong>OpenArt.ai</strong>&nbsp;pour garantir une base solide visuelle et&nbsp;<strong>ElevenLabs</strong>&nbsp;pour une voix IA forte.</p>
+<p>Tu rêves de transformer une simple image en vidéo ultra réaliste accompagnée d’une voix unique ? En associant <strong>VEO 3</strong>et <strong>ElevenLabs</strong>, tu peux créer un personnage IA visuellement et vocalement stable, sans avoir besoin de micro, caméra ou studio. Voici comment mettre en place ce workflow simple et efficace, étape par étape, avec <strong>OpenArt.ai</strong> pour garantir une base solide visuelle et <strong>ElevenLabs</strong> pour une voix IA forte.</p>
 
 
 
@@ -18,7 +18,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="🔥 Crée l&#039;image PARFAITE pour des Vidéos IA Cohérente via VEO 3 Image to Video avec Ta Propre Voix 🤯" width="500" height="281" src="https://www.youtube.com/embed/zNt9sgOB_tU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="🔥 Crée l'image PARFAITE pour des Vidéos IA Cohérente via VEO 3 Image to Video avec Ta Propre Voix 🤯" width="500" height="281" src="https://www.youtube.com/embed/zNt9sgOB_tU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -37,20 +37,20 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 <ul class="wp-block-list">
-<li>Des&nbsp;<strong>expressions faciales naturelles</strong></li>
+<li>Des <strong>expressions faciales naturelles</strong></li>
 
 
 
-<li>Des&nbsp;<strong>mouvements corporels ou de caméra</strong></li>
+<li>Des <strong>mouvements corporels ou de caméra</strong></li>
 
 
 
-<li>Une&nbsp;<strong>voix et des effets sonores synchronisés</strong></li>
+<li>Une <strong>voix et des effets sonores synchronisés</strong></li>
 </ul>
 
 
 
-<p>Mais tout tient à la&nbsp;<strong>qualité de l’image de référence</strong>&nbsp;: c’est elle qui guide l’ensemble de la vidéo. Une image floue ou mal cadrée se traduira automatiquement par une vidéo instable.</p>
+<p>Mais tout tient à la <strong>qualité de l’image de référence</strong> : c’est elle qui guide l’ensemble de la vidéo. Une image floue ou mal cadrée se traduira automatiquement par une vidéo instable.</p>
 
 
 
@@ -75,19 +75,19 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<li><strong>Génération text-to-image</strong>&nbsp;et&nbsp;<strong>image-to-image</strong>, avec contrôle précis du style, résolution, angles et textures.</li>
+<li><strong>Génération text-to-image</strong> et <strong>image-to-image</strong>, avec contrôle précis du style, résolution, angles et textures.</li>
 
 
 
-<li><strong>Outils d’édition intégrés</strong>&nbsp;(inpainting, upscale, remotion d’objets) pour affiner finement ton image.</li>
+<li><strong>Outils d’édition intégrés</strong> (inpainting, upscale, remotion d’objets) pour affiner finement ton image.</li>
 
 
 
-<li><strong>Possibilité d’entraîner tes propres modèles</strong>&nbsp;pour des visages ou styles ultra personnalisés (jusqu’à 12 clones de personnages selon les plans).</li>
+<li><strong>Possibilité d’entraîner tes propres modèles</strong> pour des visages ou styles ultra personnalisés (jusqu’à 12 clones de personnages selon les plans).</li>
 
 
 
-<li><strong>Image-to-Video</strong>&nbsp;en version bêta, mais pour notre usage VEO 3 reste incontournable.</li>
+<li><strong>Image-to-Video</strong> en version bêta, mais pour notre usage VEO 3 reste incontournable.</li>
 </ul>
 
 
@@ -104,11 +104,11 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>🔧&nbsp;<em>Ajouts de crédits possible à 15 $/5 000 crédits</em>.</p>
+<p>🔧 <em>Ajouts de crédits possible à 15 $/5 000 crédits</em>.</p>
 
 
 
-<p>➤&nbsp;<strong>Bon plan</strong>&nbsp;: le plan&nbsp;<em>Essential</em>&nbsp;à 7 $/mois suffit largement pour créer et stabiliser ton image de référence.</p>
+<p>➤ <strong>Bon plan</strong> : le plan <em>Essential</em> à 7 $/mois suffit largement pour créer et stabiliser ton image de référence.</p>
 
 
 
@@ -129,15 +129,15 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 <ol class="wp-block-list">
-<li>Connecte-toi à&nbsp;<strong>Gemini Pro/Ultra</strong>&nbsp;ou&nbsp;<strong>Flow (Google AI Pro)</strong>.</li>
+<li>Connecte-toi à <strong>Gemini Pro/Ultra</strong> ou <strong>Flow (Google AI Pro)</strong>.</li>
 
 
 
-<li>Utilise la fonction&nbsp;<strong>Image-to-Video</strong>, télécharge ton image (format paysage recommandé).</li>
+<li>Utilise la fonction <strong>Image-to-Video</strong>, télécharge ton image (format paysage recommandé).</li>
 
 
 
-<li>Rédige un prompt pour décrire la scène, les gestes, la parole, et précise &#8220;no subtitles&#8221; pour éviter les sous-titres automatiques.</li>
+<li>Rédige un prompt pour décrire la scène, les gestes, la parole, et précise “no subtitles” pour éviter les sous-titres automatiques.</li>
 
 
 
@@ -146,7 +146,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>Tu peux créer jusqu’à&nbsp;<strong>140 vidéos gratuites par mois</strong>&nbsp;grâce aux quotas Gemini (3/j) et Flow (crédits).</p>
+<p>Tu peux créer jusqu’à <strong>140 vidéos gratuites par mois</strong> grâce aux quotas Gemini (3/j) et Flow (crédits).</p>
 
 
 
@@ -158,7 +158,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>La voix générée par VEO 3 est générique : pour une meilleure connexion avec ton audience, ajoute&nbsp;<strong>ta voix IA personnalisée</strong>&nbsp;grâce à ElevenLabs.</p>
+<p>La voix générée par VEO 3 est générique : pour une meilleure connexion avec ton audience, ajoute <strong>ta voix IA personnalisée</strong> grâce à ElevenLabs.</p>
 
 
 
@@ -171,11 +171,11 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<li><strong>Clonage instantané</strong>&nbsp;de ta voix (nécessite un échantillon)</li>
+<li><strong>Clonage instantané</strong> de ta voix (nécessite un échantillon)</li>
 
 
 
-<li>Outil&nbsp;<strong>Voice Changer</strong>&nbsp;pour importer ta vidéo et remplacer l’audio</li>
+<li>Outil <strong>Voice Changer</strong> pour importer ta vidéo et remplacer l’audio</li>
 
 
 
@@ -201,19 +201,19 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 <ul class="wp-block-list">
-<li><strong>Visuel stable + voix unique</strong>&nbsp;= branding fort et reconnaissance immédiate</li>
+<li><strong>Visuel stable + voix unique</strong> = branding fort et reconnaissance immédiate</li>
 
 
 
-<li><strong>Production simplifiée</strong>&nbsp;pour des vidéos récurrentes : shorts, tutoriels, messages promo…</li>
+<li><strong>Production simplifiée</strong> pour des vidéos récurrentes : shorts, tutoriels, messages promo…</li>
 
 
 
-<li><strong>Évolutif et abordable</strong>&nbsp;: crédit mensuels suffisants pour créer 50 à 100 vidéos/mois</li>
+<li><strong>Évolutif et abordable</strong> : crédit mensuels suffisants pour créer 50 à 100 vidéos/mois</li>
 
 
 
-<li><strong>Flexibilité totale</strong>&nbsp;dans le style, le ton, la langue, et le décor</li>
+<li><strong>Flexibilité totale</strong> dans le style, le ton, la langue, et le décor</li>
 </ul>
 
 
@@ -227,7 +227,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 <ul class="wp-block-list">
-<li>Toujours utiliser la&nbsp;<strong>même image OpenArt</strong>&nbsp;pour chaque vidéo si tu veux une série cohérente</li>
+<li>Toujours utiliser la <strong>même image OpenArt</strong> pour chaque vidéo si tu veux une série cohérente</li>
 
 
 
@@ -239,7 +239,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<li>Clone ta voix avec le&nbsp;<strong>plan Starter</strong>&nbsp;d’ElevenLabs dès le début</li>
+<li>Clone ta voix avec le <strong>plan Starter</strong> d’ElevenLabs dès le début</li>
 
 
 
@@ -256,23 +256,23 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>Ce workflow te permet de créer&nbsp;<strong>des avatars IA cohérents</strong>, voix-personnalisée, et vidéos récurrentes, sans équipement, sans prise de vue, en tirant parti de :</p>
+<p>Ce workflow te permet de créer <strong>des avatars IA cohérents</strong>, voix-personnalisée, et vidéos récurrentes, sans équipement, sans prise de vue, en tirant parti de :</p>
 
 
 
 <ul class="wp-block-list">
-<li><strong>OpenArt</strong>&nbsp;(image fidèle et stable),</li>
+<li><strong>OpenArt</strong> (image fidèle et stable),</li>
 
 
 
-<li><strong>VEO 3</strong>&nbsp;(animation fluide et audio),</li>
+<li><strong>VEO 3</strong> (animation fluide et audio),</li>
 
 
 
-<li><strong>ElevenLabs</strong>&nbsp;(voix IA expressive et synchronisée).</li>
+<li><strong>ElevenLabs</strong> (voix IA expressive et synchronisée).</li>
 </ul>
 
 
 
-<p>Tu as maintenant une méthode complète, simple et économique pour produire du contenu vidéo original à grande échelle, avec&nbsp;<strong>une forte identité visuelle et vocale</strong>. Prêt à passer à la vitesse IA ?</p>
+<p>Tu as maintenant une méthode complète, simple et économique pour produire du contenu vidéo original à grande échelle, avec <strong>une forte identité visuelle et vocale</strong>. Prêt à passer à la vitesse IA ?</p>
 

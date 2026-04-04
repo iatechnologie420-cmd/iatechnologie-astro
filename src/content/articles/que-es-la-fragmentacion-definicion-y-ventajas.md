@@ -2,7 +2,7 @@
 lang: "es"
 title: "¿Qué es la fragmentación? definición y ventajas"
 slug: "que-es-la-fragmentacion-definicion-y-ventajas"
-excerpt: "Comprender la fragmentación: definición y principios básicos El mundo de las bases de datos y el almacenamiento de datos a gran escala es complejo y está en constante evolución. Para gestionar eficazmente volúmenes de datos en aumento exponencial, las arquitecturas de TI deben innovar y encontrar soluciones para optimizar el rendimiento y la gestión de [&hellip;]"
+excerpt: "Comprender la fragmentación: definición y principios básicos El mundo de las bases de datos y el almacenamiento de datos a gran escala es complejo y está en constante evolución. Para gestionar eficazmente volúmenes de datos en aumento exponencial, las arquitecturas de TI deben innovar y encontrar soluciones para optimizar el rendimiento y la gestión de […]"
 date: "2024-03-09T12:30:21"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-3.png"
 categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]
@@ -151,7 +151,7 @@ categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]
 
 
 
-<li><strong>Riesgos de una mala distribución:</strong> La distribución desigual de los datos puede generar &#8220;puntos calientes&#8221;, donde algunos fragmentos están sobrecargados.</li>
+<li><strong>Riesgos de una mala distribución:</strong> La distribución desigual de los datos puede generar “puntos calientes”, donde algunos fragmentos están sobrecargados.</li>
 
 
 

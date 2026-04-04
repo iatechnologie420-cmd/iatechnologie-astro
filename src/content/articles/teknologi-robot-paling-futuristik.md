@@ -2,7 +2,7 @@
 lang: "id"
 title: "Teknologi robot paling futuristik"
 slug: "teknologi-robot-paling-futuristik"
-excerpt: "Penemuan robot revolusioner ITU robot revolusioner bukan lagi fiksi ilmiah, kini menjadi bagian dari kehidupan kita sehari-hari dan mengubah berbagai industri dengan cara baru. Munculnyakecerdasan buatan (AI) dan robotika tingkat lanjut membuka pintu ke era di mana otomasi menjadi lebih mudah beradaptasi, otonom, dan terintegrasi ke dalam aktivitas manusia. Pada artikel ini, kita akan mengeksplorasi [&hellip;]"
+excerpt: "Penemuan robot revolusioner ITU robot revolusioner bukan lagi fiksi ilmiah, kini menjadi bagian dari kehidupan kita sehari-hari dan mengubah berbagai industri dengan cara baru. Munculnyakecerdasan buatan (AI) dan robotika tingkat lanjut membuka pintu ke era di mana otomasi menjadi lebih mudah beradaptasi, otonom, dan terintegrasi ke dalam aktivitas manusia. Pada artikel ini, kita akan mengeksplorasi […]"
 date: "2024-03-09T12:15:58"
 categories: ["aplikasi-ai-id"]
 ---
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=8LWwv1HbPCS
 
 
 
-<p>           Kemajuan dalam <strong>jaringan saraf</strong> dan D&#8217;<strong>pembelajaran mendalam</strong> telah memungkinkan terciptanya robot yang mampu menganalisis dan belajar dari data lingkungan, serta terus meningkatkan kinerjanya. Ini <strong>sistem <strong>cerdas</strong></strong> adalah dasar dari banyak inovasi, mulai dari pengenalan gambar hingga navigasi otonom.</p>
+<p>           Kemajuan dalam <strong>jaringan saraf</strong> dan D’<strong>pembelajaran mendalam</strong> telah memungkinkan terciptanya robot yang mampu menganalisis dan belajar dari data lingkungan, serta terus meningkatkan kinerjanya. Ini <strong>sistem <strong>cerdas</strong></strong> adalah dasar dari banyak inovasi, mulai dari pengenalan gambar hingga navigasi otonom.</p>
 
 
 
@@ -103,7 +103,7 @@ https://www.youtube.com/watch?v=8LWwv1HbPCS
 
 
 
-<p>        Dengan memasukkan unsur<strong>kecerdasan buatan</strong> dan D&#8217;<strong>pembelajaran mesin</strong>, robot dapat belajar dari pengalamannya, beradaptasi dengan situasi baru, dan meningkatkan kinerjanya seiring waktu. AI memfasilitasi otomatisasi tugas-tugas kompleks dan memungkinkan sistem robotik memproses dan menganalisis data dalam jumlah besar untuk membuat keputusan yang tepat.</p>
+<p>        Dengan memasukkan unsur<strong>kecerdasan buatan</strong> dan D’<strong>pembelajaran mesin</strong>, robot dapat belajar dari pengalamannya, beradaptasi dengan situasi baru, dan meningkatkan kinerjanya seiring waktu. AI memfasilitasi otomatisasi tugas-tugas kompleks dan memungkinkan sistem robotik memproses dan menganalisis data dalam jumlah besar untuk membuat keputusan yang tepat.</p>
 
 
 

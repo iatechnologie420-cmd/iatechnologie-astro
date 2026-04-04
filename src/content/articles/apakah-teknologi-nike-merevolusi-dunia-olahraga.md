@@ -2,7 +2,7 @@
 lang: "id"
 title: "Apakah teknologi Nike merevolusi dunia olahraga?"
 slug: "apakah-teknologi-nike-merevolusi-dunia-olahraga"
-excerpt: "Inovasi teknologi Nike dalam olahraga Nike adalah merek ikonik di bidang peralatan olahraga, dan reputasinya sebagian besar didasarkan pada kemampuannya untuk terus berinovasi. Sejak didirikan pada tahun 1964, perusahaan ini telah menunjukkan kecerdikan luar biasa dalam mengembangkan teknologi yang meningkatkan kinerja atlet dan merevolusi dunia olahraga. Teknologi Flyknit: ringan dan pas Salah satu contoh paling [&hellip;]"
+excerpt: "Inovasi teknologi Nike dalam olahraga Nike adalah merek ikonik di bidang peralatan olahraga, dan reputasinya sebagian besar didasarkan pada kemampuannya untuk terus berinovasi. Sejak didirikan pada tahun 1964, perusahaan ini telah menunjukkan kecerdikan luar biasa dalam mengembangkan teknologi yang meningkatkan kinerja atlet dan merevolusi dunia olahraga. Teknologi Flyknit: ringan dan pas Salah satu contoh paling […]"
 date: "2024-03-09T12:33:19"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-id", "teknologi-dan-digital-id"]

@@ -2,7 +2,7 @@
 lang: "is"
 title: "Hvernig á að finna GPS hnit (breiddar- og lengdargráðu) á Google kortum?"
 slug: "hvernig-a-ad-finna-gps-hnit-breiddar-og-lengdargradu-a-google-kortum"
-excerpt: "THE GPS (Global Positioning System) er tækni sem er orðin nauðsynleg í daglegu lífi okkar. Með því að nota merki sem send eru frá gervihnöttum, GPS kerfi gerir okkur kleift að ákvarða nákvæmlega staðsetningu okkar í formi landfræðilegra hnita. Þessi hnit eru táknuð með tveimur lykilþáttum: the breiddargráðu og lengdargráðu. Í þessari grein munum við [&hellip;]"
+excerpt: "THE GPS (Global Positioning System) er tækni sem er orðin nauðsynleg í daglegu lífi okkar. Með því að nota merki sem send eru frá gervihnöttum, GPS kerfi gerir okkur kleift að ákvarða nákvæmlega staðsetningu okkar í formi landfræðilegra hnita. Þessi hnit eru táknuð með tveimur lykilþáttum: the breiddargráðu og lengdargráðu. Í þessari grein munum við […]"
 date: "2024-03-09T12:02:59"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["taekni-og-stafraen-is"]
@@ -65,7 +65,7 @@ categories: ["taekni-og-stafraen-is"]
 
 
 
-<li>Í valmyndinni sem birtist skaltu smella á &#8220;Hver eru hnitin?&#8221; eða þú munt beint sjá hnitin birt í litlum sprettiglugga.</li>
+<li>Í valmyndinni sem birtist skaltu smella á “Hver eru hnitin?” eða þú munt beint sjá hnitin birt í litlum sprettiglugga.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["taekni-og-stafraen-is"]
 
 
 
-<p>Fyrir enn meiri nákvæmni, eftir að hafa hægrismellt á viðkomandi staðsetningu, geturðu fínstillt valið með því að færa bendilinn aðeins áður en þú velur &#8220;Frekari upplýsingar um þessa staðsetningu.&#8221; Þetta getur verið gagnlegt þegar finna hnit fyrir mjög ákveðna staðsetningu, eins og innganginn að byggingu eða náttúrulega áhugaverða stað.</p>
+<p>Fyrir enn meiri nákvæmni, eftir að hafa hægrismellt á viðkomandi staðsetningu, geturðu fínstillt valið með því að færa bendilinn aðeins áður en þú velur “Frekari upplýsingar um þessa staðsetningu.” Þetta getur verið gagnlegt þegar finna hnit fyrir mjög ákveðna staðsetningu, eins og innganginn að byggingu eða náttúrulega áhugaverða stað.</p>
 
 
 

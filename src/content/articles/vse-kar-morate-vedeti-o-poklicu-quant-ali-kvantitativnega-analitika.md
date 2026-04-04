@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Vse, kar morate vedeti o poklicu Quant ali kvantitativnega analitika"
 slug: "vse-kar-morate-vedeti-o-poklicu-quant-ali-kvantitativnega-analitika"
-excerpt: "Uvod v svet kvantitativnih financ Kvantitativne finance so specializirano področje financ, ki uporablja matematične modele, statistiko in računalniške tehnike za razumevanje in napovedovanje obnašanja finančnih trgov. V tem članku bomo raziskali to področje z razpravo o orodjih, ki jih uporablja, njegovih aplikacijah in veščinah, potrebnih za uspeh na tem področju. Kvantitativno financiranje je postalo bistveno [&hellip;]"
+excerpt: "Uvod v svet kvantitativnih financ Kvantitativne finance so specializirano področje financ, ki uporablja matematične modele, statistiko in računalniške tehnike za razumevanje in napovedovanje obnašanja finančnih trgov. V tem članku bomo raziskali to področje z razpravo o orodjih, ki jih uporablja, njegovih aplikacijah in veščinah, potrebnih za uspeh na tem področju. Kvantitativno financiranje je postalo bistveno […]"
 date: "2024-03-09T11:58:00"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-3.png"
 categories: ["tehnologija-in-digital-sl"]
@@ -36,7 +36,7 @@ categories: ["tehnologija-in-digital-sl"]
 
 
 
-<p>Strokovnjaki za kvantitativne finance, ki jih pogosto imenujemo &#8220;kvanti&#8221;, se za opravljanje svojega dela zanašajo na vrsto orodij. Med temi orodji najdemo:</p>
+<p>Strokovnjaki za kvantitativne finance, ki jih pogosto imenujemo “kvanti”, se za opravljanje svojega dela zanašajo na vrsto orodij. Med temi orodji najdemo:</p>
 
 
 

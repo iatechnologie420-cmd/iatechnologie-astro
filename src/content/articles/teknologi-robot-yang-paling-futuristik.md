@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Teknologi robot yang paling futuristik"
 slug: "teknologi-robot-yang-paling-futuristik"
-excerpt: "Penemuan robot revolusioner THE robot revolusioner bukan lagi fiksyen sains, ia kini menjadi sebahagian daripada kehidupan seharian kita dan sedang mengubah pelbagai industri dengan cara baharu. Kebangkitankecerdasan buatan (AI) dan robotik canggih membuka pintu kepada era di mana automasi menjadi lebih mudah disesuaikan, autonomi dan disepadukan ke dalam aktiviti manusia. Dalam artikel ini, kami akan [&hellip;]"
+excerpt: "Penemuan robot revolusioner THE robot revolusioner bukan lagi fiksyen sains, ia kini menjadi sebahagian daripada kehidupan seharian kita dan sedang mengubah pelbagai industri dengan cara baharu. Kebangkitankecerdasan buatan (AI) dan robotik canggih membuka pintu kepada era di mana automasi menjadi lebih mudah disesuaikan, autonomi dan disepadukan ke dalam aktiviti manusia. Dalam artikel ini, kami akan […]"
 date: "2024-03-09T12:17:26"
 categories: ["aplikasi-ai-ms"]
 ---
@@ -31,7 +31,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 
-<p>           Kemajuan dalam <strong>rangkaian saraf</strong> dan D&#8217;<strong>pembelajaran yang mendalam</strong> telah memungkinkan untuk mencipta robot yang mampu menganalisis dan belajar daripada data persekitaran, sentiasa meningkatkan prestasi mereka. Ini <strong>sistem <strong>bijak pandai</strong></strong> adalah asas kepada banyak inovasi, daripada pengecaman imej kepada navigasi autonomi.</p>
+<p>           Kemajuan dalam <strong>rangkaian saraf</strong> dan D’<strong>pembelajaran yang mendalam</strong> telah memungkinkan untuk mencipta robot yang mampu menganalisis dan belajar daripada data persekitaran, sentiasa meningkatkan prestasi mereka. Ini <strong>sistem <strong>bijak pandai</strong></strong> adalah asas kepada banyak inovasi, daripada pengecaman imej kepada navigasi autonomi.</p>
 
 
 
@@ -103,7 +103,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 
-<p>        Dengan memasukkan unsur-unsur<strong>kecerdasan buatan</strong> dan D&#8217;<strong>pembelajaran mesin</strong>, robot menjadi mampu belajar daripada pengalaman, menyesuaikan diri dengan situasi baharu dan meningkatkan prestasi mereka dari semasa ke semasa. AI memudahkan automasi tugas yang kompleks dan membolehkan sistem robotik memproses dan menganalisis sejumlah besar data untuk membuat keputusan termaklum.</p>
+<p>        Dengan memasukkan unsur-unsur<strong>kecerdasan buatan</strong> dan D’<strong>pembelajaran mesin</strong>, robot menjadi mampu belajar daripada pengalaman, menyesuaikan diri dengan situasi baharu dan meningkatkan prestasi mereka dari semasa ke semasa. AI memudahkan automasi tugas yang kompleks dan membolehkan sistem robotik memproses dan menganalisis sejumlah besar data untuk membuat keputusan termaklum.</p>
 
 
 

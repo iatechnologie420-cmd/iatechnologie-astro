@@ -2,7 +2,7 @@
 lang: "de"
 title: "IT / Informationstechnologie: Was ist Informationstechnologie?"
 slug: "it-informationstechnologie-was-ist-informationstechnologie"
-excerpt: "IT verstehen: Definition und Entwicklung von Informationstechnologien Was ist es? Der Begriff ES, Für Informationstechnologie bezeichnet im Englischen alle Technologien im Zusammenhang mit der Verarbeitung und Verwaltung von Information und Daten. Dieses weite Gebiet umfasst somit die Informatik, Telekommunikation, Datenbankmanagementsysteme, Informationssicherheit und vieles mehr. IT ist in der modernen Welt von entscheidender Bedeutung: Sie ermöglicht [&hellip;]"
+excerpt: "IT verstehen: Definition und Entwicklung von Informationstechnologien Was ist es? Der Begriff ES, Für Informationstechnologie bezeichnet im Englischen alle Technologien im Zusammenhang mit der Verarbeitung und Verwaltung von Information und Daten. Dieses weite Gebiet umfasst somit die Informatik, Telekommunikation, Datenbankmanagementsysteme, Informationssicherheit und vieles mehr. IT ist in der modernen Welt von entscheidender Bedeutung: Sie ermöglicht […]"
 date: "2024-03-09T12:19:41"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastruktur-und-netzwerke-de", "technologie-und-digital-de"]
@@ -10,7 +10,7 @@ categories: ["infrastruktur-und-netzwerke-de", "technologie-und-digital-de"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infrastruktur-und-netzwerke-de", "technologie-und-digital-de"]
 
 
 
-<p>    Derzeit verändern mehrere große Trends die IT. L&#8217;<strong>künstliche Intelligenz</strong> und maschinelles Lernen (<em>maschinelles Lernen</em>) sind zu Schlüsselelementen bei der Entwicklung intelligenterer und autonomerer Lösungen geworden. DER <strong>Cloud Computing</strong> erfreut sich weiterhin wachsender Beliebtheit und bietet Flexibilität und Skalierbarkeit, die es bei IT-Diensten noch nie gegeben hat. </p>
+<p>    Derzeit verändern mehrere große Trends die IT. L’<strong>künstliche Intelligenz</strong> und maschinelles Lernen (<em>maschinelles Lernen</em>) sind zu Schlüsselelementen bei der Entwicklung intelligenterer und autonomerer Lösungen geworden. DER <strong>Cloud Computing</strong> erfreut sich weiterhin wachsender Beliebtheit und bietet Flexibilität und Skalierbarkeit, die es bei IT-Diensten noch nie gegeben hat. </p>
 
 
 

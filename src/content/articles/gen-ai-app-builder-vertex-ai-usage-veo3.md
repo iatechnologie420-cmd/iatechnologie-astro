@@ -2,18 +2,18 @@
 lang: "fr"
 title: "🚨 Veo3 ne fonctionne PAS avec GenAI App Builder sur Vertex AI (à quoi sert il vraiment ?)"
 slug: "gen-ai-app-builder-vertex-ai-usage-veo3"
-excerpt: "Vous avez été nombreux à débloquer jusqu’à&nbsp;1300 $ de crédits&nbsp;sur Google Cloud avec Vertex AI. En creusant les conditions et en discutant directement avec le support Google, j’ai découvert une information essentielle :le bonus GenAI App Builder ne permet pas de générer des vidéos avec Veo 3. Dans cet article, je vous explique exactement&nbsp;comment fonctionnent ces [&hellip;]"
+excerpt: "Vous avez été nombreux à débloquer jusqu’à 1300 $ de crédits sur Google Cloud avec Vertex AI. En creusant les conditions et en discutant directement avec le support Google, j’ai découvert une information essentielle :le bonus GenAI App Builder ne permet pas de générer des vidéos avec Veo 3. Dans cet article, je vous explique exactement comment fonctionnent ces […]"
 date: "2025-07-07T02:31:44"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-Image-7-juil.-2025-a-11_29_27.png"
 categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 ---
 
 
-<p>Vous avez été nombreux à débloquer jusqu’à&nbsp;<strong>1300 $ de crédits</strong>&nbsp;sur Google Cloud avec Vertex AI. En creusant les conditions et en discutant directement avec le support Google, j’ai découvert une information essentielle :<br><strong>le bonus GenAI App Builder ne permet pas de générer des vidéos avec Veo 3</strong>.</p>
+<p>Vous avez été nombreux à débloquer jusqu’à <strong>1300 $ de crédits</strong> sur Google Cloud avec Vertex AI. En creusant les conditions et en discutant directement avec le support Google, j’ai découvert une information essentielle :<br><strong>le bonus GenAI App Builder ne permet pas de générer des vidéos avec Veo 3</strong>.</p>
 
 
 
-<p>Dans cet article, je vous explique exactement&nbsp;<strong>comment fonctionnent ces deux crédits</strong>, comment&nbsp;<strong>éviter les erreurs de facturation</strong>, et surtout :&nbsp;<strong>à quoi sert réellement le crédit GenAI</strong>, avec des cas d’usage concrets, puissants et monétisables.</p>
+<p>Dans cet article, je vous explique exactement <strong>comment fonctionnent ces deux crédits</strong>, comment <strong>éviter les erreurs de facturation</strong>, et surtout : <strong>à quoi sert réellement le crédit GenAI</strong>, avec des cas d’usage concrets, puissants et monétisables.</p>
 
 
 
@@ -60,11 +60,11 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>Tant que vous ne validez pas complètement votre compte (adresse postale, numéro de téléphone, formulaire fiscal), vous restez dans l’environnement d’essai initial.<br>Cela vous donne accès aux&nbsp;<strong>300 $ de crédits Free Trial</strong>, entièrement compatibles avec&nbsp;<strong>Veo 3</strong>,&nbsp;<strong>Imagen</strong>&nbsp;et&nbsp;<strong>Gemini 1.5 Pro</strong>.</p>
+<p>Tant que vous ne validez pas complètement votre compte (adresse postale, numéro de téléphone, formulaire fiscal), vous restez dans l’environnement d’essai initial.<br>Cela vous donne accès aux <strong>300 $ de crédits Free Trial</strong>, entièrement compatibles avec <strong>Veo 3</strong>, <strong>Imagen</strong> et <strong>Gemini 1.5 Pro</strong>.</p>
 
 
 
-<p>➡️ Dès que vous finalisez toutes les étapes,&nbsp;<strong>le crédit GenAI App Builder se débloque</strong>, mais si vous avez déjà dépassé vos 300 $,&nbsp;<strong>les prochaines générations seront facturées</strong>.</p>
+<p>➡️ Dès que vous finalisez toutes les étapes, <strong>le crédit GenAI App Builder se débloque</strong>, mais si vous avez déjà dépassé vos 300 $, <strong>les prochaines générations seront facturées</strong>.</p>
 
 
 
@@ -89,7 +89,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<li>Tenez compte d’un <strong>délai de 24h</strong> pour l’actualisation de votre solde, ne pensez pas que parce que le solde ne bouge pas direct que ce ne sera pas le cas le lendemain&#8230; car ce sera le cas. 24h de délais d&#8217;actualisation.</li>
+<li>Tenez compte d’un <strong>délai de 24h</strong> pour l’actualisation de votre solde, ne pensez pas que parce que le solde ne bouge pas direct que ce ne sera pas le cas le lendemain… car ce sera le cas. 24h de délais d’actualisation.</li>
 </ul>
 
 
@@ -114,7 +114,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>Ce crédit vous ouvre la porte à des projets IA avancés, compatibles avec l’écosystème&nbsp;<strong>Vertex AI</strong>, sans toucher à vos 300 $ de génération.</p>
+<p>Ce crédit vous ouvre la porte à des projets IA avancés, compatibles avec l’écosystème <strong>Vertex AI</strong>, sans toucher à vos 300 $ de génération.</p>
 
 
 
@@ -122,7 +122,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p><strong>Dialogflow CX</strong>&nbsp;est une plateforme de création de chatbots avancés. Elle vous permet de :</p>
+<p><strong>Dialogflow CX</strong> est une plateforme de création de chatbots avancés. Elle vous permet de :</p>
 
 
 
@@ -144,7 +144,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p><strong>Cas d’usage</strong>&nbsp;:</p>
+<p><strong>Cas d’usage</strong> :</p>
 
 
 
@@ -174,7 +174,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>Grâce à&nbsp;<strong>Vertex AI Search</strong>&nbsp;et son module Conversation, vous pouvez :</p>
+<p>Grâce à <strong>Vertex AI Search</strong> et son module Conversation, vous pouvez :</p>
 
 
 
@@ -196,7 +196,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p><strong>Cas d’usage</strong>&nbsp;:</p>
+<p><strong>Cas d’usage</strong> :</p>
 
 
 
@@ -222,11 +222,11 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>Avec&nbsp;<strong>Vector Search</strong>, vous encodez des textes, images ou audios en vecteurs pour les interroger par similarité.</p>
+<p>Avec <strong>Vector Search</strong>, vous encodez des textes, images ou audios en vecteurs pour les interroger par similarité.</p>
 
 
 
-<p><strong>Fonctionnalités</strong>&nbsp;:</p>
+<p><strong>Fonctionnalités</strong> :</p>
 
 
 
@@ -244,7 +244,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p><strong>Cas d’usage</strong>&nbsp;:</p>
+<p><strong>Cas d’usage</strong> :</p>
 
 
 
@@ -270,11 +270,11 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p><strong>Agent Assist</strong>&nbsp;permet à une IA d’analyser un appel en direct, faire des suggestions, transcrire, résumer et proposer des réponses intelligentes à l’agent humain.</p>
+<p><strong>Agent Assist</strong> permet à une IA d’analyser un appel en direct, faire des suggestions, transcrire, résumer et proposer des réponses intelligentes à l’agent humain.</p>
 
 
 
-<p><strong>Cas d’usage</strong>&nbsp;:</p>
+<p><strong>Cas d’usage</strong> :</p>
 
 
 
@@ -346,7 +346,7 @@ categories: ["applications-de-l-ia-fr", "ia", "outils-ia-saas-tests-et-avis"]
 
 
 
-<p>Mais si vous débloquez le crédit&nbsp;<strong>GenAI App Builder</strong>, vous avez entre les mains un budget de&nbsp;<strong>plus de 1000 $</strong>&nbsp;pour créer des projets IA puissants : assistant vocal, moteur de recherche sémantique, bot avancé, automation complète, etc.</p>
+<p>Mais si vous débloquez le crédit <strong>GenAI App Builder</strong>, vous avez entre les mains un budget de <strong>plus de 1000 $</strong> pour créer des projets IA puissants : assistant vocal, moteur de recherche sémantique, bot avancé, automation complète, etc.</p>
 
 
 

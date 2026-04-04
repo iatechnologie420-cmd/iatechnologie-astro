@@ -1,8 +1,8 @@
 ---
 lang: "tr"
-title: "Pepper: SoftBank&#8217;ın sosyal robotu hakkında bilmeniz gereken her şey"
+title: "Pepper: SoftBank’ın sosyal robotu hakkında bilmeniz gereken her şey"
 slug: "pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey"
-excerpt: "Biber: Sunum ve temel işlevler Özet Sosyal robot Biber insanlarla sosyal bir ortamda etkileşim kurmak için tasarlanmış teknolojik bir başarıdır. Çok sayıda sensör ve gelişmiş yapay zeka ile donatılan Pepper, davranışlarımıza uyum sağlarken duygularımızı anlıyor ve onlara tepki veriyor. Bu makale aracılığıyla Pepper&#8217;ın temel işlevlerinin yanı sıra farklı faaliyet sektörlerindeki ana uygulamalarını da sunacağız. Pepper [&hellip;]"
+excerpt: "Biber: Sunum ve temel işlevler Özet Sosyal robot Biber insanlarla sosyal bir ortamda etkileşim kurmak için tasarlanmış teknolojik bir başarıdır. Çok sayıda sensör ve gelişmiş yapay zeka ile donatılan Pepper, davranışlarımıza uyum sağlarken duygularımızı anlıyor ve onlara tepki veriyor. Bu makale aracılığıyla Pepper’ın temel işlevlerinin yanı sıra farklı faaliyet sektörlerindeki ana uygulamalarını da sunacağız. Pepper […]"
 date: "2024-03-09T11:52:19"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["yikici-ve-gelisen-yenilikler-tr"]
@@ -19,7 +19,7 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Biber_Sunum_ve_temel_islevler" >Biber: Sunum ve temel işlevler</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Ozet" >Özet</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Pepper_sosyal_robotu_nedir" >Pepper sosyal robotu nedir?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Sosyal_robotun_ozellikleri" >Sosyal robotun özellikleri</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Pepperin_temel_fonksiyonlari" >Pepper&#8217;ın temel fonksiyonları</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Biberin_baslica_uygulamalari" >Biberin başlıca uygulamaları</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Pepperin_Sosyal_Yetenekleri" >Pepper&#8217;ın Sosyal Yetenekleri</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Sorunsuz_ve_verimli_etkilesim" >Sorunsuz ve verimli etkileşim</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Duygu_tespiti_ve_adaptasyonu" >Duygu tespiti ve adaptasyonu</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Sozlu_ve_sozsuz_iletisim" >Sözlü ve sözsüz iletişim</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Cok_cesitli_uygulamalar" >Çok çeşitli uygulamalar</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Ozet-2" >Özet</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-13" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#SoftBank_Pepperin_arkasindaki_vizyon_ve_teknoloji" >SoftBank: Pepper&#8217;ın arkasındaki vizyon ve teknoloji</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-14" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Pepperin_ortaya_cikisinda_SoftBankin_rolu" >Pepper&#8217;ın ortaya çıkışında SoftBank&#8217;ın rolü</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-15" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Toplum_uzerindeki_etkisi" >Toplum üzerindeki etkisi</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-16" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Sonuc_SoftBank_ve_Pepper_ile_sosyal_robotlarin_gelecegi" >Sonuç: SoftBank ve Pepper ile sosyal robotların geleceği</a></li></ul></li></ul></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Biber_Sunum_ve_temel_islevler" >Biber: Sunum ve temel işlevler</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Ozet" >Özet</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Pepper_sosyal_robotu_nedir" >Pepper sosyal robotu nedir?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Sosyal_robotun_ozellikleri" >Sosyal robotun özellikleri</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Pepperin_temel_fonksiyonlari" >Pepper’ın temel fonksiyonları</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Biberin_baslica_uygulamalari" >Biberin başlıca uygulamaları</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Pepperin_Sosyal_Yetenekleri" >Pepper’ın Sosyal Yetenekleri</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Sorunsuz_ve_verimli_etkilesim" >Sorunsuz ve verimli etkileşim</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Duygu_tespiti_ve_adaptasyonu" >Duygu tespiti ve adaptasyonu</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Sozlu_ve_sozsuz_iletisim" >Sözlü ve sözsüz iletişim</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Cok_cesitli_uygulamalar" >Çok çeşitli uygulamalar</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Ozet-2" >Özet</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-13" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#SoftBank_Pepperin_arkasindaki_vizyon_ve_teknoloji" >SoftBank: Pepper’ın arkasındaki vizyon ve teknoloji</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-14" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Pepperin_ortaya_cikisinda_SoftBankin_rolu" >Pepper’ın ortaya çıkışında SoftBank’ın rolü</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-15" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Toplum_uzerindeki_etkisi" >Toplum üzerindeki etkisi</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-16" href="/tr/pepper-softbankin-sosyal-robotu-hakkinda-bilmeniz-gereken-her-sey/#Sonuc_SoftBank_ve_Pepper_ile_sosyal_robotlarin_gelecegi" >Sonuç: SoftBank ve Pepper ile sosyal robotların geleceği</a></li></ul></li></ul></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="Biber_Sunum_ve_temel_islevler"></span>Biber: Sunum ve temel işlevler<span class="ez-toc-section-end"></span></h2>
 
 
@@ -28,7 +28,7 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<p>Sosyal robot <strong>Biber</strong> insanlarla sosyal bir ortamda etkileşim kurmak için tasarlanmış teknolojik bir başarıdır. Çok sayıda sensör ve gelişmiş yapay zeka ile donatılan Pepper, davranışlarımıza uyum sağlarken duygularımızı anlıyor ve onlara tepki veriyor. Bu makale aracılığıyla Pepper&#8217;ın temel işlevlerinin yanı sıra farklı faaliyet sektörlerindeki ana uygulamalarını da sunacağız.</p>
+<p>Sosyal robot <strong>Biber</strong> insanlarla sosyal bir ortamda etkileşim kurmak için tasarlanmış teknolojik bir başarıdır. Çok sayıda sensör ve gelişmiş yapay zeka ile donatılan Pepper, davranışlarımıza uyum sağlarken duygularımızı anlıyor ve onlara tepki veriyor. Bu makale aracılığıyla Pepper’ın temel işlevlerinin yanı sıra farklı faaliyet sektörlerindeki ana uygulamalarını da sunacağız.</p>
 
 
 
@@ -44,7 +44,7 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<p>Pepper, yaklaşık 1,20 metrelik boyu ve sadece 28 kg&#8217;lık ağırlığıyla dikkat çekiyor. O sahip <strong>dokunmatik ekranlar</strong> göğsünde ve kullanıyor <strong>Konuşma tanıma</strong> insan talimatlarını anlamak ve bunlara yanıt vermek.</p>
+<p>Pepper, yaklaşık 1,20 metrelik boyu ve sadece 28 kg’lık ağırlığıyla dikkat çekiyor. O sahip <strong>dokunmatik ekranlar</strong> göğsünde ve kullanıyor <strong>Konuşma tanıma</strong> insan talimatlarını anlamak ve bunlara yanıt vermek.</p>
 
 
 
@@ -52,11 +52,11 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Pepperin_temel_fonksiyonlari"></span>Pepper&#8217;ın temel fonksiyonları<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Pepperin_temel_fonksiyonlari"></span>Pepper’ın temel fonksiyonları<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>Sosyal bir robot olarak Pepper&#8217;ın temel işlevleri insanlarla etkileşimden ibarettir. Basit bir sohbeti sürdürebilir, insanları ve duygularını tanıyabilir, bağımsız hareket edebilir ve hatta dans edebilir! Her iki amaçla da kullanılabilecek bir araçtır. <strong>eğlenmek için</strong> ve için <strong>Eğitim vermek</strong>.</p>
+<p>Sosyal bir robot olarak Pepper’ın temel işlevleri insanlarla etkileşimden ibarettir. Basit bir sohbeti sürdürebilir, insanları ve duygularını tanıyabilir, bağımsız hareket edebilir ve hatta dans edebilir! Her iki amaçla da kullanılabilecek bir araçtır. <strong>eğlenmek için</strong> ve için <strong>Eğitim vermek</strong>.</p>
 
 
 
@@ -72,7 +72,7 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="Pepperin_Sosyal_Yetenekleri"></span>Pepper&#8217;ın Sosyal Yetenekleri<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="Pepperin_Sosyal_Yetenekleri"></span>Pepper’ın Sosyal Yetenekleri<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -84,7 +84,7 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<p>Geleceğe adım atmak Pepper&#8217;la yüzleşmek anlamına gelir. <strong>yenilikçi sosyal robot</strong> onun için öne çıkıyor <strong>sosyal beceriler</strong> dikkat çekici. Japon şirketi SoftBank Robotics tarafından geliştirilen Pepper, insan duygularını anlamak ve bunlara yanıt vermek, akıcı ve verimli bir şekilde etkileşimde bulunmak ve duruma göre davranışını uyarlamak için tasarlandı.</p>
+<p>Geleceğe adım atmak Pepper’la yüzleşmek anlamına gelir. <strong>yenilikçi sosyal robot</strong> onun için öne çıkıyor <strong>sosyal beceriler</strong> dikkat çekici. Japon şirketi SoftBank Robotics tarafından geliştirilen Pepper, insan duygularını anlamak ve bunlara yanıt vermek, akıcı ve verimli bir şekilde etkileşimde bulunmak ve duruma göre davranışını uyarlamak için tasarlandı.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<p>Pepper&#8217;ın ana varlığı, yeteneğidir. <strong>İnsan duygularını tespit etmek ve yorumlamak</strong>. Bir dizi sensör, kamera ve mikrofon kullanan Pepper, kullanıcıların yüz ifadelerini ve ses tonunu analiz ederek sevinç, üzüntü, öfke veya şaşkınlık gibi duyguları anlayabiliyor. Bu bilgi toplandıktan sonra Pepper, davranışını ve tepkilerini muhatabının ruh haline göre uyarlayarak etkileşimi daha doğal ve keyifli hale getiriyor.</p>
+<p>Pepper’ın ana varlığı, yeteneğidir. <strong>İnsan duygularını tespit etmek ve yorumlamak</strong>. Bir dizi sensör, kamera ve mikrofon kullanan Pepper, kullanıcıların yüz ifadelerini ve ses tonunu analiz ederek sevinç, üzüntü, öfke veya şaşkınlık gibi duyguları anlayabiliyor. Bu bilgi toplandıktan sonra Pepper, davranışını ve tepkilerini muhatabının ruh haline göre uyarlayarak etkileşimi daha doğal ve keyifli hale getiriyor.</p>
 
 
 
@@ -120,7 +120,7 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="SoftBank_Pepperin_arkasindaki_vizyon_ve_teknoloji"></span>SoftBank: Pepper&#8217;ın arkasındaki vizyon ve teknoloji<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="SoftBank_Pepperin_arkasindaki_vizyon_ve_teknoloji"></span>SoftBank: Pepper’ın arkasındaki vizyon ve teknoloji<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -128,11 +128,11 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Pepperin_ortaya_cikisinda_SoftBankin_rolu"></span>Pepper&#8217;ın ortaya çıkışında SoftBank&#8217;ın rolü<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Pepperin_ortaya_cikisinda_SoftBankin_rolu"></span>Pepper’ın ortaya çıkışında SoftBank’ın rolü<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>Zaten birçok yeniliğin ön saflarında yer alan, <strong>SoftBank</strong> Pepper&#8217;ın yükselişinde çok önemliydi. SoftBank, küresel teknoloji ekosistemine yaptığı önemli yatırımlar sayesinde yalnızca Pepper&#8217;ın pazara sunulmasına yardımcı olmakla kalmadı, aynı zamanda sosyal robotiğin büyümesi ve evrimi için ideal ortamı da yarattı.</p>
+<p>Zaten birçok yeniliğin ön saflarında yer alan, <strong>SoftBank</strong> Pepper’ın yükselişinde çok önemliydi. SoftBank, küresel teknoloji ekosistemine yaptığı önemli yatırımlar sayesinde yalnızca Pepper’ın pazara sunulmasına yardımcı olmakla kalmadı, aynı zamanda sosyal robotiğin büyümesi ve evrimi için ideal ortamı da yarattı.</p>
 
 
 
@@ -148,6 +148,6 @@ categories: ["yikici-ve-gelisen-yenilikler-tr"]
 
 
 
-<p>SoftBank ve Pepper&#8217;ın izlediği yol, sosyal robot devriminin yalnızca başlangıcıdır. İnsan duygularını doğru bir şekilde anlamak veya insan-robot etkileşimi için etik standartlar oluşturmak gibi zorluklara rağmen gelecek parlak görünüyor. SoftBank gibi şirketlerin bu devrimin ön saflarında yer almasıyla, yakında giderek daha sofistike ve duygusal açıdan akıllı robotlarla birlikte yaşayacağız. Potansiyellerle dolu büyüleyici bir gelecek bizi bekliyor.</p>
+<p>SoftBank ve Pepper’ın izlediği yol, sosyal robot devriminin yalnızca başlangıcıdır. İnsan duygularını doğru bir şekilde anlamak veya insan-robot etkileşimi için etik standartlar oluşturmak gibi zorluklara rağmen gelecek parlak görünüyor. SoftBank gibi şirketlerin bu devrimin ön saflarında yer almasıyla, yakında giderek daha sofistike ve duygusal açıdan akıllı robotlarla birlikte yaşayacağız. Potansiyellerle dolu büyüleyici bir gelecek bizi bekliyor.</p>
 
 

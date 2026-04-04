@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Memahami ujian Turing"
 slug: "memahami-ujian-turing"
-excerpt: "Asal-usul dan prinsip ujian Turing Dalam dunia kecerdasan buatan (AI) dan pengkomputeran, ujian Turing menduduki tempat yang menonjol. Ini adalah kaedah penanda aras yang direka untuk menilai keupayaan mesin untuk meniru kecerdasan manusia. Asal usul dan prinsip ujian revolusi ini bermula pada pertengahan abad ke-20 dan berdasarkan konsep falsafah dan pengiraan yang kompleks. Sejarah Ujian [&hellip;]"
+excerpt: "Asal-usul dan prinsip ujian Turing Dalam dunia kecerdasan buatan (AI) dan pengkomputeran, ujian Turing menduduki tempat yang menonjol. Ini adalah kaedah penanda aras yang direka untuk menilai keupayaan mesin untuk meniru kecerdasan manusia. Asal usul dan prinsip ujian revolusi ini bermula pada pertengahan abad ke-20 dan berdasarkan konsep falsafah dan pengiraan yang kompleks. Sejarah Ujian […]"
 date: "2024-03-09T12:57:17"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["latihan-dan-asas-ai-ms"]
@@ -32,7 +32,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>Ujian Turing mengambil namanya daripada penciptanya, Alan Turing, seorang ahli matematik British yang dianggap sebagai salah satu perintis sains komputer. Dia pertama kali membentangkan ujian ini dalam artikel 1950nya &#8220;Jentera Pengkomputeran dan Perisikan,&#8221; yang diterbitkan dalam jurnal British Mind. Alan Turing meneroka persoalan sama ada mesin boleh berfikir dan mencadangkan kaedah untuk menilai kecerdasan buatan.</p>
+<p>Ujian Turing mengambil namanya daripada penciptanya, Alan Turing, seorang ahli matematik British yang dianggap sebagai salah satu perintis sains komputer. Dia pertama kali membentangkan ujian ini dalam artikel 1950nya “Jentera Pengkomputeran dan Perisikan,” yang diterbitkan dalam jurnal British Mind. Alan Turing meneroka persoalan sama ada mesin boleh berfikir dan mencadangkan kaedah untuk menilai kecerdasan buatan.</p>
 
 
 
@@ -84,7 +84,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>&#8211; <strong>Kualiti respons</strong> : Mereka mesti koheren dan kelihatan semula jadi, seolah-olah mereka datang dari manusia.<br>&#8211; <strong>Kepelbagaian dalam perbualan</strong> : Keupayaan mesin untuk mengambil bahagian dalam pelbagai topik menunjukkan beberapa bentuk pemahaman atau penyesuaian.<br>&#8211; <strong>Menguruskan kekaburan</strong> : mesin mesti boleh mengendalikan kehalusan dan nuansa bahasa, termasuk metafora, humor dan rujukan budaya.<br>&#8211; <strong>Emosi dan empati</strong>: Kecerdasan buatan harus menunjukkan beberapa bentuk empati atau tindak balas emosi yang sesuai terhadap situasi.</p>
+<p>– <strong>Kualiti respons</strong> : Mereka mesti koheren dan kelihatan semula jadi, seolah-olah mereka datang dari manusia.<br>– <strong>Kepelbagaian dalam perbualan</strong> : Keupayaan mesin untuk mengambil bahagian dalam pelbagai topik menunjukkan beberapa bentuk pemahaman atau penyesuaian.<br>– <strong>Menguruskan kekaburan</strong> : mesin mesti boleh mengendalikan kehalusan dan nuansa bahasa, termasuk metafora, humor dan rujukan budaya.<br>– <strong>Emosi dan empati</strong>: Kecerdasan buatan harus menunjukkan beberapa bentuk empati atau tindak balas emosi yang sesuai terhadap situasi.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>&#8211; <strong>Tanpa nama sepenuhnya</strong> : Penyiasat seharusnya tidak mempunyai sebarang petunjuk visual atau boleh didengar yang boleh membantunya mengenal pasti entiti di sebalik jawapan.<br>&#8211; <strong>Antara muka komunikasi neutral</strong> : Respons mesti dihantar melalui papan kekunci dan skrin untuk mengelakkan diskriminasi berdasarkan suara atau tulisan tangan.</p>
+<p>– <strong>Tanpa nama sepenuhnya</strong> : Penyiasat seharusnya tidak mempunyai sebarang petunjuk visual atau boleh didengar yang boleh membantunya mengenal pasti entiti di sebalik jawapan.<br>– <strong>Antara muka komunikasi neutral</strong> : Respons mesti dihantar melalui papan kekunci dan skrin untuk mengelakkan diskriminasi berdasarkan suara atau tulisan tangan.</p>
 
 
 
@@ -104,7 +104,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>Penilaian mesti berdasarkan kriteria objektif, walaupun pertimbangan subjektif penemuduga manusia memainkan peranan penting dalam keputusan akhir. Aspek berikut adalah penting:<br>&#8211; <strong>Statistik Kejayaan</strong> : peratusan kali hakim ditipu adalah penunjuk penting.<br>&#8211; <strong>Kawalan berat sebelah</strong> : Kecondongan penyoal mesti diminimumkan dengan kaedah penilaian yang baik untuk memastikan keadilan ujian.</p>
+<p>Penilaian mesti berdasarkan kriteria objektif, walaupun pertimbangan subjektif penemuduga manusia memainkan peranan penting dalam keputusan akhir. Aspek berikut adalah penting:<br>– <strong>Statistik Kejayaan</strong> : peratusan kali hakim ditipu adalah penunjuk penting.<br>– <strong>Kawalan berat sebelah</strong> : Kecondongan penyoal mesti diminimumkan dengan kaedah penilaian yang baik untuk memastikan keadilan ujian.</p>
 
 
 
@@ -112,7 +112,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>Interaksi semasa Ujian Turing hendaklah semula jadi dan cair, meniru aliran perbualan manusia yang sebenar. Elemen berikut perlu diambil kira:<br>&#8211; <strong>Kereaktifan</strong> : Mesin mesti menjawab soalan pada kadar yang serupa dengan perbualan manusia biasa.<br>&#8211; <strong>Interaksi dua hala</strong> : Mesin bukan sahaja harus menjawab soalan, tetapi juga boleh bertanya soalan untuk menunjukkan bahawa ia mengikuti dan mengambil bahagian secara aktif dalam perbualan.</p>
+<p>Interaksi semasa Ujian Turing hendaklah semula jadi dan cair, meniru aliran perbualan manusia yang sebenar. Elemen berikut perlu diambil kira:<br>– <strong>Kereaktifan</strong> : Mesin mesti menjawab soalan pada kadar yang serupa dengan perbualan manusia biasa.<br>– <strong>Interaksi dua hala</strong> : Mesin bukan sahaja harus menjawab soalan, tetapi juga boleh bertanya soalan untuk menunjukkan bahawa ia mengikuti dan mengambil bahagian secara aktif dalam perbualan.</p>
 
 
 
@@ -164,7 +164,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>&#8211; Perbualan mendalam mengenai tema tertentu<br>&#8211; Penciptaan kandungan artistik asli<br>&#8211; Reaksi terhadap peristiwa yang tidak dijangka atau maklumat baharu<br>&#8211; Interaksi masa nyata dengan persekitaran, contohnya melalui robot</p>
+<p>– Perbualan mendalam mengenai tema tertentu<br>– Penciptaan kandungan artistik asli<br>– Reaksi terhadap peristiwa yang tidak dijangka atau maklumat baharu<br>– Interaksi masa nyata dengan persekitaran, contohnya melalui robot</p>
 
 
 

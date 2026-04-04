@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Deepfake: alt du trenger å vite om den nye trusselen knyttet til AI"
 slug: "deepfake-alt-du-trenger-a-vite-om-den-nye-trusselen-knyttet-til-ai"
-excerpt: "Definisjon og drift av Deepfake Definisjon av Deepfake Begrepet dypfalske er en sammentrekning av de engelske ordene «deep learning» og «fake». Denne teknologien er basert på algoritmerkunstig intelligens spesialdesignet for å lage eller redigere audiovisuelt innhold, inkludert videoer og lydspor. Resultatet er ofte så overbevisende at det kan lure øyet og øret, noe som gjør [&hellip;]"
+excerpt: "Definisjon og drift av Deepfake Definisjon av Deepfake Begrepet dypfalske er en sammentrekning av de engelske ordene «deep learning» og «fake». Denne teknologien er basert på algoritmerkunstig intelligens spesialdesignet for å lage eller redigere audiovisuelt innhold, inkludert videoer og lydspor. Resultatet er ofte så overbevisende at det kan lure øyet og øret, noe som gjør […]"
 date: "2024-03-09T12:50:25"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
 categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]

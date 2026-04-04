@@ -2,7 +2,7 @@
 lang: "it"
 title: "Spot: il cane robot della Boston Dynamics"
 slug: "spot-il-cane-robot-della-boston-dynamics"
-excerpt: "Scoperta di Spot, il cane robot della Boston Dynamics Rinomato per essere la crema della robotica moderna, Macchiare, il cane robot della Boston Dynamics, ha creato un&#8217;onda d&#8217;urto nel mondo delle nuove tecnologie. Progettato per sostituire i suoi simili, è l&#8217;esempio emblematico di robot animali pronti a sostituire i loro modelli. Spot, una rivoluzione tecnologica [&hellip;]"
+excerpt: "Scoperta di Spot, il cane robot della Boston Dynamics Rinomato per essere la crema della robotica moderna, Macchiare, il cane robot della Boston Dynamics, ha creato un’onda d’urto nel mondo delle nuove tecnologie. Progettato per sostituire i suoi simili, è l’esempio emblematico di robot animali pronti a sostituire i loro modelli. Spot, una rivoluzione tecnologica […]"
 date: "2024-03-09T11:46:58"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
 categories: ["innovazioni-dirompenti-ed-emergenti-it"]
@@ -19,12 +19,12 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/spot-il-cane-robot-della-boston-dynamics/#Scoperta_di_Spot_il_cane_robot_della_Boston_Dynamics" >Scoperta di Spot, il cane robot della Boston Dynamics</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_una_rivoluzione_tecnologica" >Spot, una rivoluzione tecnologica</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_oltre_laspetto_divertente" >Spot: oltre l&#8217;aspetto divertente</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/it/spot-il-cane-robot-della-boston-dynamics/#Caratteristiche_del_robot_Boston_Dynamics_Spot" >Caratteristiche del robot Boston Dynamics Spot</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/it/spot-il-cane-robot-della-boston-dynamics/#riassunto" >riassunto</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_e_la_sua_inarrestabile_utilita" >Spot e la sua inarrestabile utilità</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_unimpresa_tecnologica" >Spot: un&#8217;impresa tecnologica</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_e_la_sua_prossima_commercializzazione" >Spot e la sua prossima commercializzazione</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-9" href="/it/spot-il-cane-robot-della-boston-dynamics/#Applicazioni_pratiche_del_robot_Spot_in_diversi_settori" >Applicazioni pratiche del robot Spot in diversi settori</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/spot-il-cane-robot-della-boston-dynamics/#Il_robot_Spot_nel_settore_industriale" >Il robot Spot nel settore industriale</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/spot-il-cane-robot-della-boston-dynamics/#Il_robot_Spot_nel_settore_sanitario" >Il robot Spot nel settore sanitario</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/it/spot-il-cane-robot-della-boston-dynamics/#Il_robot_Spot_nel_settore_dellintrattenimento" >Il robot Spot nel settore dell&#8217;intrattenimento</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/it/spot-il-cane-robot-della-boston-dynamics/#Il_robot_Spot_e_altre_innovazioni_robotiche" >Il robot Spot e altre innovazioni robotiche</a></li></ul></li></ul></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/spot-il-cane-robot-della-boston-dynamics/#Scoperta_di_Spot_il_cane_robot_della_Boston_Dynamics" >Scoperta di Spot, il cane robot della Boston Dynamics</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_una_rivoluzione_tecnologica" >Spot, una rivoluzione tecnologica</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_oltre_laspetto_divertente" >Spot: oltre l’aspetto divertente</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/it/spot-il-cane-robot-della-boston-dynamics/#Caratteristiche_del_robot_Boston_Dynamics_Spot" >Caratteristiche del robot Boston Dynamics Spot</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/it/spot-il-cane-robot-della-boston-dynamics/#riassunto" >riassunto</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_e_la_sua_inarrestabile_utilita" >Spot e la sua inarrestabile utilità</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_unimpresa_tecnologica" >Spot: un’impresa tecnologica</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/spot-il-cane-robot-della-boston-dynamics/#Spot_e_la_sua_prossima_commercializzazione" >Spot e la sua prossima commercializzazione</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-9" href="/it/spot-il-cane-robot-della-boston-dynamics/#Applicazioni_pratiche_del_robot_Spot_in_diversi_settori" >Applicazioni pratiche del robot Spot in diversi settori</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/spot-il-cane-robot-della-boston-dynamics/#Il_robot_Spot_nel_settore_industriale" >Il robot Spot nel settore industriale</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/spot-il-cane-robot-della-boston-dynamics/#Il_robot_Spot_nel_settore_sanitario" >Il robot Spot nel settore sanitario</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/it/spot-il-cane-robot-della-boston-dynamics/#Il_robot_Spot_nel_settore_dellintrattenimento" >Il robot Spot nel settore dell’intrattenimento</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/it/spot-il-cane-robot-della-boston-dynamics/#Il_robot_Spot_e_altre_innovazioni_robotiche" >Il robot Spot e altre innovazioni robotiche</a></li></ul></li></ul></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="Scoperta_di_Spot_il_cane_robot_della_Boston_Dynamics"></span>Scoperta di Spot, il cane robot della Boston Dynamics<span class="ez-toc-section-end"></span></h2>
 
 
 
-<p>Rinomato per essere la crema della robotica moderna, <strong>Macchiare</strong>, il cane robot della Boston Dynamics, ha creato un&#8217;onda d&#8217;urto nel mondo delle nuove tecnologie. Progettato per sostituire i suoi simili, è l&#8217;esempio emblematico di robot animali pronti a sostituire i loro modelli.</p>
+<p>Rinomato per essere la crema della robotica moderna, <strong>Macchiare</strong>, il cane robot della Boston Dynamics, ha creato un’onda d’urto nel mondo delle nuove tecnologie. Progettato per sostituire i suoi simili, è l’esempio emblematico di robot animali pronti a sostituire i loro modelli.</p>
 
 
 
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<p><strong>Macchiare</strong> incarna perfettamente questo progresso tecnologico. La sua progettazione è stata guidata dall&#8217;idea di riprodurre il più fedelmente possibile i movimenti e le reazioni di un vero cane. L&#8217;intelligenza artificiale di cui è dotato gli permette di comprendere il suo ambiente e di interagire con esso in modo autonomo.</p>
+<p><strong>Macchiare</strong> incarna perfettamente questo progresso tecnologico. La sua progettazione è stata guidata dall’idea di riprodurre il più fedelmente possibile i movimenti e le reazioni di un vero cane. L’intelligenza artificiale di cui è dotato gli permette di comprendere il suo ambiente e di interagire con esso in modo autonomo.</p>
 
 
 
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Spot_oltre_laspetto_divertente"></span>Spot: oltre l&#8217;aspetto divertente<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Spot_oltre_laspetto_divertente"></span>Spot: oltre l’aspetto divertente<span class="ez-toc-section-end"></span></h4>
 
 
 
@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<p><b>Dinamica di Boston</b>, già noto per le sue audaci creazioni robotiche, colpisce duramente <strong>Macchiare</strong>, il suo nuovo cane robotico. La sua particolarità? La capacità di muoversi in ambienti difficili svolgendo compiti complessi, che lo rende una risorsa preziosa per molteplici applicazioni, sia nell&#8217;industria che nella protezione del patrimonio culturale.</p>
+<p><b>Dinamica di Boston</b>, già noto per le sue audaci creazioni robotiche, colpisce duramente <strong>Macchiare</strong>, il suo nuovo cane robotico. La sua particolarità? La capacità di muoversi in ambienti difficili svolgendo compiti complessi, che lo rende una risorsa preziosa per molteplici applicazioni, sia nell’industria che nella protezione del patrimonio culturale.</p>
 
 
 
@@ -80,11 +80,11 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Spot_unimpresa_tecnologica"></span>Spot: un&#8217;impresa tecnologica<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Spot_unimpresa_tecnologica"></span>Spot: un’impresa tecnologica<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>La progettazione di <strong>Macchiare</strong> integra gli ultimi progressi nel campo dell&#8217;intelligenza artificiale (AI). La sua mobilità è stata migliorata grazie ad una serie di sensori che gli permettono di muoversi autonomamente su qualsiasi terreno. Per quanto riguarda il software integrato, ha un livello di apprendimento continuo che rende le sue azioni più efficaci nel tempo.</p>
+<p>La progettazione di <strong>Macchiare</strong> integra gli ultimi progressi nel campo dell’intelligenza artificiale (AI). La sua mobilità è stata migliorata grazie ad una serie di sensori che gli permettono di muoversi autonomamente su qualsiasi terreno. Per quanto riguarda il software integrato, ha un livello di apprendimento continuo che rende le sue azioni più efficaci nel tempo.</p>
 
 
 
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@leotechmaker/video/6967733120455953669" data-video-id="6967733120455953669" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@leotechmaker" href="https://www.tiktok.com/@leotechmaker?refer=embed" rel="noopener">@leotechmaker</a> <p>Voici un chien robot qui va remplacer votre VRAI chien ! <a title="tiktokacademie" target="_blank" href="https://www.tiktok.com/tag/tiktokacademie?refer=embed" rel="noopener">#tiktokacademie</a></p> <a target="_blank" title="♬ son original - Léo - TechMaker" href="https://www.tiktok.com/music/son-original-6967733022481271557?refer=embed" rel="noopener">♬ son original &#8211; Léo &#8211; TechMaker</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@leotechmaker/video/6967733120455953669" data-video-id="6967733120455953669" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@leotechmaker" href="https://www.tiktok.com/@leotechmaker?refer=embed" rel="noopener">@leotechmaker</a> <p>Voici un chien robot qui va remplacer votre VRAI chien ! <a title="tiktokacademie" target="_blank" href="https://www.tiktok.com/tag/tiktokacademie?refer=embed" rel="noopener">#tiktokacademie</a></p> <a target="_blank" title="♬ son original - Léo - TechMaker" href="https://www.tiktok.com/music/son-original-6967733022481271557?refer=embed" rel="noopener">♬ son original – Léo – TechMaker</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 
@@ -114,7 +114,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<p>Nel settore, il <strong>Individua il robot</strong> è una vera svolta. Grazie alla sua capacità di navigare su terreni sconnessi, si rivela uno strumento particolarmente efficace per ispezionare siti industriali potenzialmente pericolosi, proteggendo così l&#8217;uomo dai pericoli. Il suo potenziale è vasto e spazia dall&#8217;ispezione di tubazioni di gas e petrolio, al monitoraggio dei processi produttivi e alla manutenzione ordinaria delle apparecchiature.</p>
+<p>Nel settore, il <strong>Individua il robot</strong> è una vera svolta. Grazie alla sua capacità di navigare su terreni sconnessi, si rivela uno strumento particolarmente efficace per ispezionare siti industriali potenzialmente pericolosi, proteggendo così l’uomo dai pericoli. Il suo potenziale è vasto e spazia dall’ispezione di tubazioni di gas e petrolio, al monitoraggio dei processi produttivi e alla manutenzione ordinaria delle apparecchiature.</p>
 
 
 
@@ -126,7 +126,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Il_robot_Spot_nel_settore_dellintrattenimento"></span>Il robot Spot nel settore dell&#8217;intrattenimento<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Il_robot_Spot_nel_settore_dellintrattenimento"></span>Il robot Spot nel settore dell’intrattenimento<span class="ez-toc-section-end"></span></h4>
 
 
 

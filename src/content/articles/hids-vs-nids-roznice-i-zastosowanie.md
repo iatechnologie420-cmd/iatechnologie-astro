@@ -2,7 +2,7 @@
 lang: "pl"
 title: "HIDS vs NIDS: różnice i zastosowanie"
 slug: "hids-vs-nids-roznice-i-zastosowanie"
-excerpt: "Wprowadzenie do systemów wykrywania włamań: HIDS i NIDS Bezpieczeństwo systemu informatycznego jest główną troską przedsiębiorstw i organizacji każdej wielkości. W obliczu rosnących zagrożeń i wyrafinowania cyberataków konieczne jest wdrożenie skutecznych mechanizmów ochronnych. Wśród nich systemy wykrywania włamań (IDS) odgrywają kluczową rolę w monitorowaniu sieci komputerowych i wykrywaniu podejrzanych działań. W szczególności systemy wykrywania włamań hosta [&hellip;]"
+excerpt: "Wprowadzenie do systemów wykrywania włamań: HIDS i NIDS Bezpieczeństwo systemu informatycznego jest główną troską przedsiębiorstw i organizacji każdej wielkości. W obliczu rosnących zagrożeń i wyrafinowania cyberataków konieczne jest wdrożenie skutecznych mechanizmów ochronnych. Wśród nich systemy wykrywania włamań (IDS) odgrywają kluczową rolę w monitorowaniu sieci komputerowych i wykrywaniu podejrzanych działań. W szczególności systemy wykrywania włamań hosta […]"
 date: "2024-03-09T11:58:36"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
 categories: ["infrastruktura-i-sieci-pl", "technologia-i-cyfrowosc-pl"]

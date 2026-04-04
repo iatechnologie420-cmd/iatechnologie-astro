@@ -2,7 +2,7 @@
 lang: "et"
 title: "Miks ChatGPT ei tööta ja mida sellega teha?"
 slug: "miks-chatgpt-ei-toota-ja-mida-sellega-teha"
-excerpt: "Miks ChatGPT ei tööta? Kui kasutate ChatGPT-d, võib teil tekkida probleeme, mille tõttu see ei tööta korralikult. Need probleemid, kuigi masendavad, võivad olla mitmel põhjusel. Selles artiklis uurime mõningaid levinumaid põhjuseid, miks ChatGPT ei pruugi korralikult töötada, ja pakume teile lahendusi nende lahendamiseks. 1. Ebastabiilne Interneti-ühendus Ebastabiilne Interneti-ühendus võib ChatGPT kasutamisel probleeme tekitada. Kui teie [&hellip;]"
+excerpt: "Miks ChatGPT ei tööta? Kui kasutate ChatGPT-d, võib teil tekkida probleeme, mille tõttu see ei tööta korralikult. Need probleemid, kuigi masendavad, võivad olla mitmel põhjusel. Selles artiklis uurime mõningaid levinumaid põhjuseid, miks ChatGPT ei pruugi korralikult töötada, ja pakume teile lahendusi nende lahendamiseks. 1. Ebastabiilne Interneti-ühendus Ebastabiilne Interneti-ühendus võib ChatGPT kasutamisel probleeme tekitada. Kui teie […]"
 date: "2024-03-09T12:15:31"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ai-rakendused-et"]
@@ -38,7 +38,7 @@ categories: ["ai-rakendused-et"]
 
 
 
-<p>&#8211; Veenduge, et kasutate oma brauseri uusimat versiooni.<br>&#8211; Tühjendage brauseri vahemälu, et eemaldada kõik rikutud andmed, mis võivad mõjutada ChatGPT tööd.<br>&#8211; Proovige mõnda muud brauserit, et näha, kas probleem püsib. Mõnel brauseril võib teatud ChatGPT funktsioonidega olla ühilduvusprobleeme.</p>
+<p>– Veenduge, et kasutate oma brauseri uusimat versiooni.<br>– Tühjendage brauseri vahemälu, et eemaldada kõik rikutud andmed, mis võivad mõjutada ChatGPT tööd.<br>– Proovige mõnda muud brauserit, et näha, kas probleem püsib. Mõnel brauseril võib teatud ChatGPT funktsioonidega olla ühilduvusprobleeme.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["ai-rakendused-et"]
 
 
 
-<p>&#8211; Vähendage oma päringu suurust, vähendades sõnade arvu või sõnastades oma taotlust ümber.<br>&#8211; Jagage oma päring mitmeks väiksemaks osaks ja saatke need eraldi.<br>&#8211; Olge kannatlik ja oodake enne uue päringu saatmist, kuni töötlemisserverid on teie eelmise päringu töötlemise lõpetanud.</p>
+<p>– Vähendage oma päringu suurust, vähendades sõnade arvu või sõnastades oma taotlust ümber.<br>– Jagage oma päring mitmeks väiksemaks osaks ja saatke need eraldi.<br>– Olge kannatlik ja oodake enne uue päringu saatmist, kuni töötlemisserverid on teie eelmise päringu töötlemise lõpetanud.</p>
 
 
 

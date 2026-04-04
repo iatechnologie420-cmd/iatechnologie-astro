@@ -2,7 +2,7 @@
 lang: "en"
 title: "PyGraft: everything you need to know about the open source Python tool for DataViz"
 slug: "pygraft-everything-you-need-to-know-about-the-open-source-python-tool-for-dataviz"
-excerpt: "PyGraft: the new star of open source DataViz PyGraft emerges as a promising tool, designed to provide data professionals and enthusiasts with an enriching and powerful experience in creating data visualizations. Featuring advanced processing capabilities and remarkable flexibility, PyGraft is a project open source which has already started to get talked about. But what is [&hellip;]"
+excerpt: "PyGraft: the new star of open source DataViz PyGraft emerges as a promising tool, designed to provide data professionals and enthusiasts with an enriching and powerful experience in creating data visualizations. Featuring advanced processing capabilities and remarkable flexibility, PyGraft is a project open source which has already started to get talked about. But what is […]"
 date: "2024-03-09T12:08:42"
 categories: ["computing-and-data-en", "technology-and-digital-en"]
 ---
@@ -27,7 +27,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>But what is PyGraft and how can it revolutionize your approach to DataViz? Let&#8217;s dive into this introductory guide to discover its essential advantages and functions.</p>
+<p>But what is PyGraft and how can it revolutionize your approach to DataViz? Let’s dive into this introductory guide to discover its essential advantages and functions.</p>
 
 
 
@@ -47,7 +47,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>    The main advantage of <strong>PyGraft</strong> lies in its intuitive approach and ease of integration into Data Science workflows. Whether you&#8217;re an analyst, data scientist, or simply passionate about numbers, PyGraft offers near-limitless possibilities for transforming your data into compelling visual stories. Its support for multiple data formats and easy integration with popular Python data structures like pandas make PyGraft particularly attractive.</p>
+<p>    The main advantage of <strong>PyGraft</strong> lies in its intuitive approach and ease of integration into Data Science workflows. Whether you’re an analyst, data scientist, or simply passionate about numbers, PyGraft offers near-limitless possibilities for transforming your data into compelling visual stories. Its support for multiple data formats and easy integration with popular Python data structures like pandas make PyGraft particularly attractive.</p>
 
 
 

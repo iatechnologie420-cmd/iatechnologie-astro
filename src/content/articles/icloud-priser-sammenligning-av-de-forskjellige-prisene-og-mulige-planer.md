@@ -2,7 +2,7 @@
 lang: "nb"
 title: "iCloud-priser: sammenligning av de forskjellige prisene og mulige planer"
 slug: "icloud-priser-sammenligning-av-de-forskjellige-prisene-og-mulige-planer"
-excerpt: "iCloud er en skylagringstjeneste som tilbys av eple som gjør at data som dokumenter, bilder og musikk kan lagres på eksterne servere for nedlasting til iOS-, Mac- eller Windows-enheter. Det gir også muligheten til å synkronisere data mellom forskjellige enheter og enkelt dele filer. I denne artikkelen vil vi utforske de forskjellige iCloud-lagringsalternativene og hvordan [&hellip;]"
+excerpt: "iCloud er en skylagringstjeneste som tilbys av eple som gjør at data som dokumenter, bilder og musikk kan lagres på eksterne servere for nedlasting til iOS-, Mac- eller Windows-enheter. Det gir også muligheten til å synkronisere data mellom forskjellige enheter og enkelt dele filer. I denne artikkelen vil vi utforske de forskjellige iCloud-lagringsalternativene og hvordan […]"
 date: "2024-03-09T12:00:35"
 categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 ---
@@ -34,7 +34,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 <ul class="wp-block-list">
-<li>5 GB &#8211; Gratis</li>
+<li>5 GB – Gratis</li>
 
 
 
@@ -255,7 +255,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>Etter å ha klikket på &#8220;Endre plan&#8221;, følg instruksjonene på skjermen for å velge en ny plan og angi betalingsinformasjon om nødvendig.</p>
+<p>Etter å ha klikket på “Endre plan”, følg instruksjonene på skjermen for å velge en ny plan og angi betalingsinformasjon om nødvendig.</p>
 
 
 

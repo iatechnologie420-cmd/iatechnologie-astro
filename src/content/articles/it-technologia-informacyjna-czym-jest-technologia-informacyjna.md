@@ -2,7 +2,7 @@
 lang: "pl"
 title: "IT / Technologia informacyjna: czym jest technologia informacyjna?"
 slug: "it-technologia-informacyjna-czym-jest-technologia-informacyjna"
-excerpt: "Zrozumienie IT: Definicja i ewolucja technologii informatycznych Co to jest? Termin TO, Dla Technologia informacyjna w języku angielskim oznacza wszystkie technologie związane z przetwarzaniem i zarządzaniem Informacja i dane. Ta rozległa dziedzina obejmuje zatem informatykę, telekomunikacja, systemy zarządzania bazami danych, bezpieczeństwo informacji i wiele innych. Informatyka jest niezbędna we współczesnym świecie: umożliwia przedsiębiorstwom efektywne działanie, [&hellip;]"
+excerpt: "Zrozumienie IT: Definicja i ewolucja technologii informatycznych Co to jest? Termin TO, Dla Technologia informacyjna w języku angielskim oznacza wszystkie technologie związane z przetwarzaniem i zarządzaniem Informacja i dane. Ta rozległa dziedzina obejmuje zatem informatykę, telekomunikacja, systemy zarządzania bazami danych, bezpieczeństwo informacji i wiele innych. Informatyka jest niezbędna we współczesnym świecie: umożliwia przedsiębiorstwom efektywne działanie, […]"
 date: "2024-03-09T12:22:15"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastruktura-i-sieci-pl", "technologia-i-cyfrowosc-pl"]
@@ -10,7 +10,7 @@ categories: ["infrastruktura-i-sieci-pl", "technologia-i-cyfrowosc-pl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infrastruktura-i-sieci-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>    Obecnie IT zmienia się kilka głównych trendów. L&#8217;<strong>sztuczna inteligencja</strong> i uczenie maszynowe (<em>nauczanie maszynowe</em>) stały się kluczowymi elementami w rozwoju bardziej inteligentnych i autonomicznych rozwiązań. TO <strong>Chmura obliczeniowa</strong> zyskuje na popularności, zapewniając elastyczność i skalę niespotykaną wcześniej w usługach IT. </p>
+<p>    Obecnie IT zmienia się kilka głównych trendów. L’<strong>sztuczna inteligencja</strong> i uczenie maszynowe (<em>nauczanie maszynowe</em>) stały się kluczowymi elementami w rozwoju bardziej inteligentnych i autonomicznych rozwiązań. TO <strong>Chmura obliczeniowa</strong> zyskuje na popularności, zapewniając elastyczność i skalę niespotykaną wcześniej w usługach IT. </p>
 
 
 

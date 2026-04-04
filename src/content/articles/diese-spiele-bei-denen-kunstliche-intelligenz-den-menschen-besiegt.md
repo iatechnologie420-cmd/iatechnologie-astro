@@ -2,7 +2,7 @@
 lang: "de"
 title: "Diese Spiele, bei denen künstliche Intelligenz den Menschen besiegt"
 slug: "diese-spiele-bei-denen-kunstliche-intelligenz-den-menschen-besiegt"
-excerpt: "Der Beginn der Supercomputer und die Schachherausforderung Das Zeitalter der Supercomputer ist keine ferne Zukunftsvision mehr, sondern eine greifbare Realität, die verschiedene Bereiche revolutioniert, darunter auch Strategiespiele wie Schach. Diese Maschinen mit phänomenaler Rechenleistung bieten einen idealen Spielplatz, um die Grenzen der künstlichen Intelligenz zu erkunden und sich der Schachherausforderung zu stellen, indem sie die [&hellip;]"
+excerpt: "Der Beginn der Supercomputer und die Schachherausforderung Das Zeitalter der Supercomputer ist keine ferne Zukunftsvision mehr, sondern eine greifbare Realität, die verschiedene Bereiche revolutioniert, darunter auch Strategiespiele wie Schach. Diese Maschinen mit phänomenaler Rechenleistung bieten einen idealen Spielplatz, um die Grenzen der künstlichen Intelligenz zu erkunden und sich der Schachherausforderung zu stellen, indem sie die […]"
 date: "2024-03-09T12:37:31"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["ki-training-und-grundlagen-de"]
@@ -118,7 +118,7 @@ categories: ["ki-training-und-grundlagen-de"]
 
 
 
-<p>&#8211; Verbesserte virtuelle Gegner: KI ermöglicht die Schaffung nichtmenschlicher Feinde mit fortschrittlichen strategischen Fähigkeiten und der Fähigkeit, sich in Echtzeit an die Aktionen des Spielers anzupassen. <br>&#8211; Deep Learning: Moderne KI-Systeme nutzen maschinelles Lernen, insbesondere Deep Learning, um Millionen von Spielen zu analysieren und optimale Strategien abzuleiten.<br>&#8211; Personalisierung des Erlebnisses: Die KI kann den Schwierigkeitsgrad und den Spielstil je nach Spieler anpassen und so ein maßgeschneidertes Erlebnis bieten.<br>&#8211; Entwicklung neuer Spielmechaniken**: Künstliche Intelligenz ermöglicht dank ihrer Fähigkeit, komplexe Systeme zu verwalten, die Einführung nie dagewesener Dynamiken.</p>
+<p>– Verbesserte virtuelle Gegner: KI ermöglicht die Schaffung nichtmenschlicher Feinde mit fortschrittlichen strategischen Fähigkeiten und der Fähigkeit, sich in Echtzeit an die Aktionen des Spielers anzupassen. <br>– Deep Learning: Moderne KI-Systeme nutzen maschinelles Lernen, insbesondere Deep Learning, um Millionen von Spielen zu analysieren und optimale Strategien abzuleiten.<br>– Personalisierung des Erlebnisses: Die KI kann den Schwierigkeitsgrad und den Spielstil je nach Spieler anpassen und so ein maßgeschneidertes Erlebnis bieten.<br>– Entwicklung neuer Spielmechaniken**: Künstliche Intelligenz ermöglicht dank ihrer Fähigkeit, komplexe Systeme zu verwalten, die Einführung nie dagewesener Dynamiken.</p>
 
 
 
@@ -130,11 +130,11 @@ categories: ["ki-training-und-grundlagen-de"]
 
 
 
-<p>&#8211; <strong>DeepMind</strong>&#8216;s AlphaGo: Diese KI hat Geschichte geschrieben, indem sie 2016 den Go-Weltmeister Lee Sedol besiegte.</p>
+<p>– <strong>DeepMind</strong>‘s AlphaGo: Diese KI hat Geschichte geschrieben, indem sie 2016 den Go-Weltmeister Lee Sedol besiegte.</p>
 
 
 
-<p>&#8211; <strong>OpenAI</strong> Fünftens: Diese von OpenAI entwickelte KI schlug professionelle Teams im kompetitiven Strategiespiel Dota 2.</p>
+<p>– <strong>OpenAI</strong> Fünftens: Diese von OpenAI entwickelte KI schlug professionelle Teams im kompetitiven Strategiespiel Dota 2.</p>
 
 
 
@@ -170,7 +170,7 @@ categories: ["ki-training-und-grundlagen-de"]
 
 
 
-<p>&#8211; Personalisierung und Anpassung von Videospielen an das Benutzererlebnis.<br>&#8211; Verbesserung von Simulationsspielen mit KI, die in der Lage sind, realistische menschliche Verhaltensweisen in Strategie, Diplomatie oder Wirtschaft zu reproduzieren.<br>&#8211; Verwendung in Serious Games für pädagogische, medizinische und berufliche Trainingsanwendungen.<br>&#8211; Fortschritte im E-Sport, wo KIs zum Training, aber auch als Konkurrenten und Spielpartner eingesetzt werden könnten.<br>&#8211; Verstärkte akademische Forschung zu Entscheidungsfindung, Strategie und Psychologie.</p>
+<p>– Personalisierung und Anpassung von Videospielen an das Benutzererlebnis.<br>– Verbesserung von Simulationsspielen mit KI, die in der Lage sind, realistische menschliche Verhaltensweisen in Strategie, Diplomatie oder Wirtschaft zu reproduzieren.<br>– Verwendung in Serious Games für pädagogische, medizinische und berufliche Trainingsanwendungen.<br>– Fortschritte im E-Sport, wo KIs zum Training, aber auch als Konkurrenten und Spielpartner eingesetzt werden könnten.<br>– Verstärkte akademische Forschung zu Entscheidungsfindung, Strategie und Psychologie.</p>
 
 
 

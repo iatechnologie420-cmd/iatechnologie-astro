@@ -2,7 +2,7 @@
 lang: "es"
 title: "¿Cómo encontrar coordenadas GPS (latitud y longitud) en Google Maps?"
 slug: "como-encontrar-coordenadas-gps-latitud-y-longitud-en-google-maps"
-excerpt: "EL GPS (Sistema de Posicionamiento Global) es una tecnología que se ha vuelto imprescindible en nuestra vida diaria. Utilizando señales transmitidas por satélites, el sistema gps nos permite determinar con precisión nuestra posición en forma de coordenadas geográficas. Estas coordenadas están representadas por dos elementos clave: la latitud y la longitud. En este artículo, exploraremos [&hellip;]"
+excerpt: "EL GPS (Sistema de Posicionamiento Global) es una tecnología que se ha vuelto imprescindible en nuestra vida diaria. Utilizando señales transmitidas por satélites, el sistema gps nos permite determinar con precisión nuestra posición en forma de coordenadas geográficas. Estas coordenadas están representadas por dos elementos clave: la latitud y la longitud. En este artículo, exploraremos […]"
 date: "2024-03-09T12:02:42"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["tecnologia-y-digital-es"]
@@ -65,7 +65,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<li>En el menú que aparece, haga clic en &#8220;¿Cuáles son las coordenadas?&#8221; o verás directamente las coordenadas mostradas en una pequeña ventana emergente.</li>
+<li>En el menú que aparece, haga clic en “¿Cuáles son las coordenadas?” o verás directamente las coordenadas mostradas en una pequeña ventana emergente.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<p>Para una precisión aún mayor, después de hacer clic derecho en la ubicación deseada, puede refinar la selección moviendo ligeramente el puntero antes de elegir &#8220;Más información sobre esta ubicación&#8221;. Esto puede resultar útil a la hora de buscar coordenadas para una ubicación muy específica, como la entrada a un edificio o un punto de interés natural.</p>
+<p>Para una precisión aún mayor, después de hacer clic derecho en la ubicación deseada, puede refinar la selección moviendo ligeramente el puntero antes de elegir “Más información sobre esta ubicación”. Esto puede resultar útil a la hora de buscar coordenadas para una ubicación muy específica, como la entrada a un edificio o un punto de interés natural.</p>
 
 
 
@@ -151,7 +151,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<li>Para fijar la ubicación, haga clic en el ícono de fijación al lado de los detalles del contacto para agregarlo a &#8220;Tus lugares&#8221; y acceder fácilmente más tarde.</li>
+<li>Para fijar la ubicación, haga clic en el ícono de fijación al lado de los detalles del contacto para agregarlo a “Tus lugares” y acceder fácilmente más tarde.</li>
 </ol>
 
 

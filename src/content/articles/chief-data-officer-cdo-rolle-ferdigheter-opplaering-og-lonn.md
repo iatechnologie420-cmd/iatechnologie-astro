@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Chief Data Officer (CDO): ​​rolle, ferdigheter, opplæring og lønn"
 slug: "chief-data-officer-cdo-rolle-ferdigheter-opplaering-og-lonn"
-excerpt: "Den strategiske plassen til Chief Data Officer i selskapet I en tid med big data og dataanalyse anerkjenner bedrifter i økende grad viktigheten av å administrere og utnytte dataene sine strategisk. I hjertet av denne anerkjennelsen er en nøkkelrolle: Chief Data Officer (CDO). CDO er avgjørende for å balansere styring, datakvalitet, regeloverholdelse og utnytte data [&hellip;]"
+excerpt: "Den strategiske plassen til Chief Data Officer i selskapet I en tid med big data og dataanalyse anerkjenner bedrifter i økende grad viktigheten av å administrere og utnytte dataene sine strategisk. I hjertet av denne anerkjennelsen er en nøkkelrolle: Chief Data Officer (CDO). CDO er avgjørende for å balansere styring, datakvalitet, regeloverholdelse og utnytte data […]"
 date: "2024-03-09T12:10:41"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
@@ -10,7 +10,7 @@ categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="The Promise and Peril of the Chief Data &amp; Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="The Promise and Peril of the Chief Data & Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

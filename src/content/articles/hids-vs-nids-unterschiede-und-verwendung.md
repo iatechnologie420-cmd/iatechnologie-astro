@@ -2,7 +2,7 @@
 lang: "de"
 title: "HIDS vs. NIDS: Unterschiede und Verwendung"
 slug: "hids-vs-nids-unterschiede-und-verwendung"
-excerpt: "Einführung in Einbruchmeldesysteme: HIDS und NIDS Die Sicherheit von Informationssystemen ist ein zentrales Anliegen für Unternehmen und Organisationen jeder Größe. Angesichts wachsender Bedrohungen und der Komplexität von Cyber-Angriffen ist es unerlässlich, wirksame Abwehrmechanismen einzurichten. Unter diesen sind die Einbrucherkennungssystem (IDS) spielen eine entscheidende Rolle bei der Überwachung von Computernetzwerken und der Erkennung verdächtiger Aktivitäten. Insbesondere [&hellip;]"
+excerpt: "Einführung in Einbruchmeldesysteme: HIDS und NIDS Die Sicherheit von Informationssystemen ist ein zentrales Anliegen für Unternehmen und Organisationen jeder Größe. Angesichts wachsender Bedrohungen und der Komplexität von Cyber-Angriffen ist es unerlässlich, wirksame Abwehrmechanismen einzurichten. Unter diesen sind die Einbrucherkennungssystem (IDS) spielen eine entscheidende Rolle bei der Überwachung von Computernetzwerken und der Erkennung verdächtiger Aktivitäten. Insbesondere […]"
 date: "2024-03-09T11:56:46"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
 categories: ["infrastruktur-und-netzwerke-de", "technologie-und-digital-de"]

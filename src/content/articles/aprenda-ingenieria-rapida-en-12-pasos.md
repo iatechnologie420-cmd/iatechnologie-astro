@@ -2,7 +2,7 @@
 lang: "es"
 title: "Aprenda ingeniería rápida: en 12 pasos"
 slug: "aprenda-ingenieria-rapida-en-12-pasos"
-excerpt: "Introducción a la ingeniería rápida. ¿Qué es la ingeniería rápida? EL Ingeniería rápida Es un campo emergente que se centra en optimizar las indicaciones o comandos que damos a los sistemas de inteligencia artificial (IA), en particular aquellos basados ​​en lenguaje natural, como los generadores de texto. Es una disciplina particularmente importante con la llegada [&hellip;]"
+excerpt: "Introducción a la ingeniería rápida. ¿Qué es la ingeniería rápida? EL Ingeniería rápida Es un campo emergente que se centra en optimizar las indicaciones o comandos que damos a los sistemas de inteligencia artificial (IA), en particular aquellos basados ​​en lenguaje natural, como los generadores de texto. Es una disciplina particularmente importante con la llegada […]"
 date: "2024-03-09T12:50:39"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
 categories: ["formacion-y-fundamentos-de-la-ia-es"]
@@ -67,7 +67,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<li><strong>Proporcionar &#8220;salida&#8221; al modelo:</strong> A veces, el modelo puede tener dificultades para completar una tarea con precisión. Para mitigar esto, proporcione rutas o instrucciones alternativas para que el modelo las siga si no puede encontrar una respuesta satisfactoria.</li>
+<li><strong>Proporcionar “salida” al modelo:</strong> A veces, el modelo puede tener dificultades para completar una tarea con precisión. Para mitigar esto, proporcione rutas o instrucciones alternativas para que el modelo las siga si no puede encontrar una respuesta satisfactoria.</li>
 
 
 

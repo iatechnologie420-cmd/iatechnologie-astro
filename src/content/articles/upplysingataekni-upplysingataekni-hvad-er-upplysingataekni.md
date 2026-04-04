@@ -2,7 +2,7 @@
 lang: "is"
 title: "Upplýsingatækni / upplýsingatækni: hvað er upplýsingatækni?"
 slug: "upplysingataekni-upplysingataekni-hvad-er-upplysingataekni"
-excerpt: "Skilningur á upplýsingatækni: Skilgreining og þróun upplýsingatækni Hvað er það? Hugtakið ÞAÐ, Fyrir Upplýsingatækni á ensku, tilgreinir alla tækni sem tengist vinnslu og stjórnun á upplýsingar og gögn. Þetta víðfeðma svið nær því yfir tölvunarfræði, fjarskipti, gagnagrunnsstjórnunarkerfi, upplýsingaöryggi og margt fleira. ÞAÐ er nauðsynlegt í nútíma heimi: það gerir fyrirtækjum kleift að starfa á skilvirkan [&hellip;]"
+excerpt: "Skilningur á upplýsingatækni: Skilgreining og þróun upplýsingatækni Hvað er það? Hugtakið ÞAÐ, Fyrir Upplýsingatækni á ensku, tilgreinir alla tækni sem tengist vinnslu og stjórnun á upplýsingar og gögn. Þetta víðfeðma svið nær því yfir tölvunarfræði, fjarskipti, gagnagrunnsstjórnunarkerfi, upplýsingaöryggi og margt fleira. ÞAÐ er nauðsynlegt í nútíma heimi: það gerir fyrirtækjum kleift að starfa á skilvirkan […]"
 date: "2024-03-09T12:20:27"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
@@ -10,7 +10,7 @@ categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["innvidir-og-net-is", "taekni-og-stafraen-is"]
 
 
 
-<p>    Eins og er eru nokkrar helstu straumar að umbreyta upplýsingatækni. L&#8217;<strong>gervigreind</strong> og vélanám (<em>vélanám</em>) hafa orðið lykilatriði í þróun skynsamlegri og sjálfstæðari lausna. THE <strong>skýjatölvu</strong> heldur áfram að vaxa í vinsældum og veitir sveigjanleika og umfang sem aldrei hefur áður sést í upplýsingatækniþjónustu. </p>
+<p>    Eins og er eru nokkrar helstu straumar að umbreyta upplýsingatækni. L’<strong>gervigreind</strong> og vélanám (<em>vélanám</em>) hafa orðið lykilatriði í þróun skynsamlegri og sjálfstæðari lausna. THE <strong>skýjatölvu</strong> heldur áfram að vaxa í vinsældum og veitir sveigjanleika og umfang sem aldrei hefur áður sést í upplýsingatækniþjónustu. </p>
 
 
 

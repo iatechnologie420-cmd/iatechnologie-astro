@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Najbardziej futurystyczna technologia robotyczna"
 slug: "najbardziej-futurystyczna-technologia-robotyczna"
-excerpt: "Odkrycie rewolucyjnych robotów TO rewolucyjne roboty nie są już science fiction, są teraz częścią naszego codziennego życia i przekształcają różne gałęzie przemysłu w nowy sposób. Wzrostsztuczna inteligencja (AI) i zaawansowana robotyka otwiera drzwi do ery, w której automatyzacja staje się bardziej elastyczna, autonomiczna i zintegrowana z działalnością człowieka. W tym artykule omówimy niektóre z najbardziej [&hellip;]"
+excerpt: "Odkrycie rewolucyjnych robotów TO rewolucyjne roboty nie są już science fiction, są teraz częścią naszego codziennego życia i przekształcają różne gałęzie przemysłu w nowy sposób. Wzrostsztuczna inteligencja (AI) i zaawansowana robotyka otwiera drzwi do ery, w której automatyzacja staje się bardziej elastyczna, autonomiczna i zintegrowana z działalnością człowieka. W tym artykule omówimy niektóre z najbardziej […]"
 date: "2024-03-09T12:17:54"
 categories: ["aplikacje-ai-pl"]
 ---
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=8LWwv1HbSzt
 
 
 
-<p>           Postęp w <strong>sieci neuronowe</strong> i D&#8217;<strong>głęboka nauka</strong> umożliwiły stworzenie robotów zdolnych do analizowania i uczenia się na podstawie danych środowiskowych, stale poprawiając ich wydajność. Te <strong>systemy <strong>inteligentny</strong></strong> stanowią podstawę wielu innowacji, od rozpoznawania obrazu po autonomiczną nawigację.</p>
+<p>           Postęp w <strong>sieci neuronowe</strong> i D’<strong>głęboka nauka</strong> umożliwiły stworzenie robotów zdolnych do analizowania i uczenia się na podstawie danych środowiskowych, stale poprawiając ich wydajność. Te <strong>systemy <strong>inteligentny</strong></strong> stanowią podstawę wielu innowacji, od rozpoznawania obrazu po autonomiczną nawigację.</p>
 
 
 
@@ -103,7 +103,7 @@ https://www.youtube.com/watch?v=8LWwv1HbSzt
 
 
 
-<p>        Włączając elementy<strong>sztuczna inteligencja</strong> i D&#8217;<strong>nauczanie maszynowe</strong>roboty będą mogły uczyć się na podstawie swoich doświadczeń, dostosowywać się do nowych sytuacji i z biegiem czasu poprawiać swoją wydajność. Sztuczna inteligencja ułatwia automatyzację złożonych zadań i umożliwia systemom robotycznym przetwarzanie i analizowanie dużych ilości danych w celu podejmowania świadomych decyzji.</p>
+<p>        Włączając elementy<strong>sztuczna inteligencja</strong> i D’<strong>nauczanie maszynowe</strong>roboty będą mogły uczyć się na podstawie swoich doświadczeń, dostosowywać się do nowych sytuacji i z biegiem czasu poprawiać swoją wydajność. Sztuczna inteligencja ułatwia automatyzację złożonych zadań i umożliwia systemom robotycznym przetwarzanie i analizowanie dużych ilości danych w celu podejmowania świadomych decyzji.</p>
 
 
 

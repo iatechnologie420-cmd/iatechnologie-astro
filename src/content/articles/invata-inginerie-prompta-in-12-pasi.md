@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Învață inginerie promptă: în 12 pași"
 slug: "invata-inginerie-prompta-in-12-pasi"
-excerpt: "Introducere în inginerie promptă Ce este Prompt Engineering? THE Inginerie promptă este un domeniu în curs de dezvoltare care se concentrează pe optimizarea solicitărilor sau comenzilor pe care le oferim sistemelor de inteligență artificială (AI), în special celor bazate pe limbaj natural, cum ar fi generatoarele de text. Este o disciplină deosebit de importantă odată [&hellip;]"
+excerpt: "Introducere în inginerie promptă Ce este Prompt Engineering? THE Inginerie promptă este un domeniu în curs de dezvoltare care se concentrează pe optimizarea solicitărilor sau comenzilor pe care le oferim sistemelor de inteligență artificială (AI), în special celor bazate pe limbaj natural, cum ar fi generatoarele de text. Este o disciplină deosebit de importantă odată […]"
 date: "2024-03-09T12:53:13"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
 categories: ["training-ai-si-elemente-fundamentale-ro"]

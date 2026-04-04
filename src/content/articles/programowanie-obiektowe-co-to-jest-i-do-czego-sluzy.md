@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Programowanie obiektowe: co to jest i do czego służy?"
 slug: "programowanie-obiektowe-co-to-jest-i-do-czego-sluzy"
-excerpt: "Podstawy programowania obiektowego Tam Programowanie obiektowe (OOP) to paradygmat programowania wykorzystujący „obiekty” do projektowania aplikacji i programów komputerowych. Obiekty te reprezentują byty ze świata rzeczywistego i umożliwiają programistom tworzenie bardziej elastycznego, skalowalnego i łatwiejszego w utrzymaniu oprogramowania. W tym artykule omówimy podstawowe pojęcia stanowiące podstawę OOP. Abstrakcja L&#8217;abstrakcja to proces, podczas którego programista ukrywa wszystkie [&hellip;]"
+excerpt: "Podstawy programowania obiektowego Tam Programowanie obiektowe (OOP) to paradygmat programowania wykorzystujący „obiekty” do projektowania aplikacji i programów komputerowych. Obiekty te reprezentują byty ze świata rzeczywistego i umożliwiają programistom tworzenie bardziej elastycznego, skalowalnego i łatwiejszego w utrzymaniu oprogramowania. W tym artykule omówimy podstawowe pojęcia stanowiące podstawę OOP. Abstrakcja L’abstrakcja to proces, podczas którego programista ukrywa wszystkie […]"
 date: "2024-03-09T12:48:39"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
@@ -30,7 +30,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>L&#8217;<strong>abstrakcja</strong> to proces, podczas którego programista ukrywa wszystkie nieistotne szczegóły obiektu, aby pokazać użytkownikowi jedynie ważne funkcje. Dzięki temu łatwiej jest zrozumieć, jak działają obiekty, nie martwiąc się o ich wewnętrzną złożoność.</p>
+<p>L’<strong>abstrakcja</strong> to proces, podczas którego programista ukrywa wszystkie nieistotne szczegóły obiektu, aby pokazać użytkownikowi jedynie ważne funkcje. Dzięki temu łatwiej jest zrozumieć, jak działają obiekty, nie martwiąc się o ich wewnętrzną złożoność.</p>
 
 
 
@@ -38,7 +38,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>L&#8217;<strong>kapsułkowanie</strong> to technika polegająca na grupowaniu danych i metodach manipulacji nimi w ramach tej samej jednostki, często nazywanej klasą. Enkapsulacja chroni również integralność danych, umożliwiając modyfikację wyłącznie określonymi metodami, zapobiegając bezpośredniemu nieautoryzowanemu dostępowi.</p>
+<p>L’<strong>kapsułkowanie</strong> to technika polegająca na grupowaniu danych i metodach manipulacji nimi w ramach tej samej jednostki, często nazywanej klasą. Enkapsulacja chroni również integralność danych, umożliwiając modyfikację wyłącznie określonymi metodami, zapobiegając bezpośredniemu nieautoryzowanemu dostępowi.</p>
 
 
 
@@ -46,7 +46,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>L&#8217;<strong>dziedzictwo</strong> to funkcja OOP, która pozwala na utworzenie nowej klasy w oparciu o istniejącą klasę. Nowa klasa, zwana klasą pochodną, ​​dziedziczy atrybuty i metody klasy bazowej, umożliwiając ponowne wykorzystanie kodu i tworzenie hierarchii klas.</p>
+<p>L’<strong>dziedzictwo</strong> to funkcja OOP, która pozwala na utworzenie nowej klasy w oparciu o istniejącą klasę. Nowa klasa, zwana klasą pochodną, ​​dziedziczy atrybuty i metody klasy bazowej, umożliwiając ponowne wykorzystanie kodu i tworzenie hierarchii klas.</p>
 
 
 
@@ -191,7 +191,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C&#8217;est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original &#8211; Louis Dhanis &#8211; Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C’est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original – Louis Dhanis – Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

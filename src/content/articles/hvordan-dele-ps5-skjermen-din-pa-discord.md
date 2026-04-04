@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Hvordan dele PS5-skjermen din på Discord?"
 slug: "hvordan-dele-ps5-skjermen-din-pa-discord"
-excerpt: "Trinn 1: Forbered konfigurasjonen Når du spiller spill på PS5, kan det være fint å dele opplevelsen din med vennene dine på Discord. For å gjøre dette kan du streame PS5-skjermen din direkte til Discord. I denne artikkelen vil vi forklare hvordan du deler PS5-skjermen på Discord på to forskjellige metoder. La oss gå ! [&hellip;]"
+excerpt: "Trinn 1: Forbered konfigurasjonen Når du spiller spill på PS5, kan det være fint å dele opplevelsen din med vennene dine på Discord. For å gjøre dette kan du streame PS5-skjermen din direkte til Discord. I denne artikkelen vil vi forklare hvordan du deler PS5-skjermen på Discord på to forskjellige metoder. La oss gå ! […]"
 date: "2024-03-09T12:53:17"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
@@ -26,7 +26,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>Før du begynner, sørg for at du har de nødvendige materialene. Her er det du trenger:<br>&#8211; En funksjonell PS5: Sørg for at konsollen din er i god stand og koblet til TV-en.<br>&#8211; En Discord-konto: Hvis du ikke har en konto ennå, gå til nettsiden deres for å registrere deg gratis.</p>
+<p>Før du begynner, sørg for at du har de nødvendige materialene. Her er det du trenger:<br>– En funksjonell PS5: Sørg for at konsollen din er i god stand og koblet til TV-en.<br>– En Discord-konto: Hvis du ikke har en konto ennå, gå til nettsiden deres for å registrere deg gratis.</p>
 
 
 
@@ -34,7 +34,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>For å kunne streame PS5-skjermen til Discord, må du installere Discord-appen på PC-en. Slik gjør du det:<br>1. Åpne nettleseren og gå til Discord-nettstedet.<br>2. Klikk på &#8220;Last ned&#8221;-knappen for å laste ned programmet.<br>3. Når nedlastingen er fullført, åpner du installasjonsfilen og følger instruksjonene på skjermen for å installere programmet på PC-en.</p>
+<p>For å kunne streame PS5-skjermen til Discord, må du installere Discord-appen på PC-en. Slik gjør du det:<br>1. Åpne nettleseren og gå til Discord-nettstedet.<br>2. Klikk på “Last ned”-knappen for å laste ned programmet.<br>3. Når nedlastingen er fullført, åpner du installasjonsfilen og følger instruksjonene på skjermen for å installere programmet på PC-en.</p>
 
 
 
@@ -46,7 +46,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>1. Slå på PS5 og logg på kontoen din.<br>2. Gå til konsollinnstillingene ved å velge tannhjulikonet øverst til høyre på startskjermen.<br>3. I innstillingene velger du &#8220;Ta opp og kringkast&#8221; og deretter &#8220;Kringkastingsinnstillinger&#8221;.<br>4. I kringkastingsinnstillingene aktiverer du alternativet &#8220;Tillat kringkasting&#8221;.<br>5. Still inn strømmekvaliteten i henhold til dine preferanser. Husk at bedre kvalitet vil kreve en raskere Internett-tilkobling.</p>
+<p>1. Slå på PS5 og logg på kontoen din.<br>2. Gå til konsollinnstillingene ved å velge tannhjulikonet øverst til høyre på startskjermen.<br>3. I innstillingene velger du “Ta opp og kringkast” og deretter “Kringkastingsinnstillinger”.<br>4. I kringkastingsinnstillingene aktiverer du alternativet “Tillat kringkasting”.<br>5. Still inn strømmekvaliteten i henhold til dine preferanser. Husk at bedre kvalitet vil kreve en raskere Internett-tilkobling.</p>
 
 
 
@@ -58,7 +58,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>1. Åpne Discord på PC-en.<br>2. I Discord-appen klikker du på &#8220;Brukerinnstillinger&#8221; nederst til venstre.<br>3. I brukerinnstillinger velger du &#8220;Spill&#8221; og deretter &#8220;Spillaktivitet&#8221;.<br>4. Klikk på &#8220;+&#8221;-knappen under &#8220;Legg til et spill&#8221;. Finn og velg &#8220;PlayStation&#8221;-appen.<br>5. Når du har lagt til PlayStation-appen, sørg for at strømming er aktivert ved å sjekke at bryteren er i «På»-posisjon.</p>
+<p>1. Åpne Discord på PC-en.<br>2. I Discord-appen klikker du på “Brukerinnstillinger” nederst til venstre.<br>3. I brukerinnstillinger velger du “Spill” og deretter “Spillaktivitet”.<br>4. Klikk på “+”-knappen under “Legg til et spill”. Finn og velg “PlayStation”-appen.<br>5. Når du har lagt til PlayStation-appen, sørg for at strømming er aktivert ved å sjekke at bryteren er i «På»-posisjon.</p>
 
 
 
@@ -70,7 +70,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>1. Gå tilbake til PS5-startskjermen.<br>2. Spill spillet du vil dele med vennene dine på Discord.<br>3. I Discord-appen på PC-en, lag et talerom eller bli med en av vennene dine.<br>4. Klikk på &#8220;Delt skjerm&#8221;-ikonet i talerommet for å starte strømmingen.<br>5. Velg &#8220;PlayStation&#8221;-alternativet for å streame PS5-skjermen.<br>6. Vennene dine vil kunne se skjermen din og dele spillopplevelsen med deg.</p>
+<p>1. Gå tilbake til PS5-startskjermen.<br>2. Spill spillet du vil dele med vennene dine på Discord.<br>3. I Discord-appen på PC-en, lag et talerom eller bli med en av vennene dine.<br>4. Klikk på “Delt skjerm”-ikonet i talerommet for å starte strømmingen.<br>5. Velg “PlayStation”-alternativet for å streame PS5-skjermen.<br>6. Vennene dine vil kunne se skjermen din og dele spillopplevelsen med deg.</p>
 
 
 
@@ -118,7 +118,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>I Innstillinger, gå til «Stemme og video»-fanen og rull ned til «Oppdagede enheter»-delen. Under &#8220;Video Device&#8221; bør du se &#8220;PS Remote Play.&#8221; Velg dette alternativet slik at Discord kan bruke PS Remote Play-appen din som en strømmekilde.</p>
+<p>I Innstillinger, gå til «Stemme og video»-fanen og rull ned til «Oppdagede enheter»-delen. Under “Video Device” bør du se “PS Remote Play.” Velg dette alternativet slik at Discord kan bruke PS Remote Play-appen din som en strømmekilde.</p>
 
 
 
@@ -130,7 +130,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p><strong>Triks:</strong> Sørg for at personverninnstillingene til PS5-en din tillater at innhold strømmes til andre enheter. Du kan sjekke disse innstillingene i PS5-innstillingene dine, under fanen &#8220;Opptak og strømming&#8221;.</p>
+<p><strong>Triks:</strong> Sørg for at personverninnstillingene til PS5-en din tillater at innhold strømmes til andre enheter. Du kan sjekke disse innstillingene i PS5-innstillingene dine, under fanen “Opptak og strømming”.</p>
 
 
 
@@ -147,7 +147,7 @@ categories: ["digitale-medier-og-plattformer-nb", "teknologi-og-digitalt-nb"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Comment réparer l&#039;audio de partage d&#039;écran Discord ne fonctionne pas | Discord Audio Not Working" width="500" height="281" src="https://www.youtube.com/embed/qq56ONDC-2k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Comment réparer l'audio de partage d'écran Discord ne fonctionne pas | Discord Audio Not Working" width="500" height="281" src="https://www.youtube.com/embed/qq56ONDC-2k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

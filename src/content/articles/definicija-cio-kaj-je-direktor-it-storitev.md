@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Definicija CIO: kaj je direktor IT storitev"
 slug: "definicija-cio-kaj-je-direktor-it-storitev"
-excerpt: "Vloga in naloge direktorja IT storitev Bistvena vloga direktorja IT storitev THE Direktor IT storitev, poznan tudi kot CIO oz Direktor informacijskih sistemov, ima v sodobnih podjetjih strateško mesto. V digitalni dobi, kjer so informacije in tehnologija postale jedro poklicnih dejavnosti, je razumevanje lastnih odgovornosti in poslanstva bistvenega pomena. Ta članek nudi popoln portret funkcije [&hellip;]"
+excerpt: "Vloga in naloge direktorja IT storitev Bistvena vloga direktorja IT storitev THE Direktor IT storitev, poznan tudi kot CIO oz Direktor informacijskih sistemov, ima v sodobnih podjetjih strateško mesto. V digitalni dobi, kjer so informacije in tehnologija postale jedro poklicnih dejavnosti, je razumevanje lastnih odgovornosti in poslanstva bistvenega pomena. Ta članek nudi popoln portret funkcije […]"
 date: "2024-03-09T12:04:57"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-3.png"
 categories: ["infrastruktura-in-omrezja-sl"]

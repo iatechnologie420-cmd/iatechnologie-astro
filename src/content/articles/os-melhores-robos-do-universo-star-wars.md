@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Os melhores robôs do universo Star Wars"
 slug: "os-melhores-robos-do-universo-star-wars"
-excerpt: "Lendas mecânicas: C-3PO e R2-D2 Considerados os dróides mais emblemáticos da saga Guerra das Estrelas, C-3PO e R2-D2 marcaram gerações de fãs com sua personalidade única, sua história e seu papel crucial ao longo dos episódios. Este artigo investiga o mundo dessas lendas mecânicas, revelando sua essência e impacto cultural. C-3PO: O Protocolo Droid Poliglota [&hellip;]"
+excerpt: "Lendas mecânicas: C-3PO e R2-D2 Considerados os dróides mais emblemáticos da saga Guerra das Estrelas, C-3PO e R2-D2 marcaram gerações de fãs com sua personalidade única, sua história e seu papel crucial ao longo dos episódios. Este artigo investiga o mundo dessas lendas mecânicas, revelando sua essência e impacto cultural. C-3PO: O Protocolo Droid Poliglota […]"
 date: "2024-03-09T12:23:31"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["tecnologia-e-digital-pt"]
@@ -10,7 +10,7 @@ categories: ["tecnologia-e-digital-pt"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -80,7 +80,7 @@ categories: ["tecnologia-e-digital-pt"]
 
 
 
-<p>BB-8 fez sua primeira aparição em &#8220;<strong>Star Wars: Episódio VII &#8211; O Despertar da Força</strong>&#8221; em 2015. Este andróide astromecânico rapidamente se tornou um favorito dos fãs devido à sua forma esférica única, mobilidade ágil e personalidade alegre. BB-8 pertence a um dos heróis da nova trilogia, <strong>Poe Dameron</strong>, e juntos eles compartilham muitas aventuras pela galáxia.</p>
+<p>BB-8 fez sua primeira aparição em “<strong>Star Wars: Episódio VII – O Despertar da Força</strong>” em 2015. Este andróide astromecânico rapidamente se tornou um favorito dos fãs devido à sua forma esférica única, mobilidade ágil e personalidade alegre. BB-8 pertence a um dos heróis da nova trilogia, <strong>Poe Dameron</strong>, e juntos eles compartilham muitas aventuras pela galáxia.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["tecnologia-e-digital-pt"]
 
 
 
-<p>D-O é introduzido pela primeira vez em &#8220;<strong>Star Wars: Episódio IX &#8211; A Ascensão Skywalker</strong>&#8221; lançado em 2019. Este pequeno andróide sobre uma roda impressiona pela sua capacidade de mover pessoas. Com seu formato que lembra um brinquedo de criança e sua voz assobiante característica, ele personifica o novo amigo que todos gostaríamos de ter.</p>
+<p>D-O é introduzido pela primeira vez em “<strong>Star Wars: Episódio IX – A Ascensão Skywalker</strong>” lançado em 2019. Este pequeno andróide sobre uma roda impressiona pela sua capacidade de mover pessoas. Com seu formato que lembra um brinquedo de criança e sua voz assobiante característica, ele personifica o novo amigo que todos gostaríamos de ter.</p>
 
 
 

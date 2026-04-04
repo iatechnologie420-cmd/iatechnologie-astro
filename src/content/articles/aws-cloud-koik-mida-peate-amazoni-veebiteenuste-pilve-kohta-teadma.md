@@ -2,7 +2,7 @@
 lang: "et"
 title: "AWS Cloud – kõik, mida peate Amazoni veebiteenuste pilve kohta teadma"
 slug: "aws-cloud-koik-mida-peate-amazoni-veebiteenuste-pilve-kohta-teadma"
-excerpt: "Sissejuhatus Amazoni veebiteenustesse (AWS): revolutsioon pilvandmetöötluses Alates selle loomisest 2006. Amazon Web Services (AWS) on radikaalselt muutnud IT-maastikku, pakkudes pilveteenuste platvormi, mis pakub enneolematut paindlikkust, mastaapi ja mastaabisäästu. Selle sissejuhatuse eesmärk on selgitada selle toimimispõhimõtteidAWS ja selgitada, miks sellest lahendusest on saanud pilvandmetöötluse võtmemängija. Mis on Amazon Web Services (AWS)? AWS on maailma kõige põhjalikum [&hellip;]"
+excerpt: "Sissejuhatus Amazoni veebiteenustesse (AWS): revolutsioon pilvandmetöötluses Alates selle loomisest 2006. Amazon Web Services (AWS) on radikaalselt muutnud IT-maastikku, pakkudes pilveteenuste platvormi, mis pakub enneolematut paindlikkust, mastaapi ja mastaabisäästu. Selle sissejuhatuse eesmärk on selgitada selle toimimispõhimõtteidAWS ja selgitada, miks sellest lahendusest on saanud pilvandmetöötluse võtmemängija. Mis on Amazon Web Services (AWS)? AWS on maailma kõige põhjalikum […]"
 date: "2024-03-09T12:44:52"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
@@ -110,7 +110,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<p>L&#8217;<strong>Amazon VPC</strong> Võimaldab luua AWS-i pilve eraldatud jaotise, kus saate käivitada AWS-i ressursse enda määratletud virtuaalsesse võrku. See on teie pilveteenuste turvalisuse ja võrguhalduse jaoks ülioluline.</p>
+<p>L’<strong>Amazon VPC</strong> Võimaldab luua AWS-i pilve eraldatud jaotise, kus saate käivitada AWS-i ressursse enda määratletud virtuaalsesse võrku. See on teie pilveteenuste turvalisuse ja võrguhalduse jaoks ülioluline.</p>
 
 
 
@@ -279,7 +279,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<li><strong>DevOps:</strong> Rakendage pidevaid integreerimis- ja juurutusahelaid AWS CodePipeline&#8217;i ja AWS CodeBuildiga.</li>
+<li><strong>DevOps:</strong> Rakendage pidevaid integreerimis- ja juurutusahelaid AWS CodePipeline’i ja AWS CodeBuildiga.</li>
 
 
 
@@ -287,7 +287,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<li><strong>Asjade Internet (IoT):</strong> Ühendage ja hallake IoT-seadmeid hulgi, kasutades AWS IoT Core&#8217;i.</li>
+<li><strong>Asjade Internet (IoT):</strong> Ühendage ja hallake IoT-seadmeid hulgi, kasutades AWS IoT Core’i.</li>
 
 
 

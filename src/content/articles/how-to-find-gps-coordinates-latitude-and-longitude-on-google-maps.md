@@ -2,7 +2,7 @@
 lang: "en"
 title: "How to Find GPS Coordinates (Latitude and Longitude) on Google Maps?"
 slug: "how-to-find-gps-coordinates-latitude-and-longitude-on-google-maps"
-excerpt: "THE GPS (Global Positioning System) is a technology that has become essential in our daily lives. Using signals transmitted by satellites, the GPS system allows us to accurately determine our position in the form of geographic coordinates. These coordinates are represented by two key elements: the latitude and the longitude. In this article, we will [&hellip;]"
+excerpt: "THE GPS (Global Positioning System) is a technology that has become essential in our daily lives. Using signals transmitted by satellites, the GPS system allows us to accurately determine our position in the form of geographic coordinates. These coordinates are represented by two key elements: the latitude and the longitude. In this article, we will […]"
 date: "2024-03-09T12:02:37"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["technology-and-digital-en"]
@@ -65,7 +65,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<li>In the menu that appears, click &#8220;What are the coordinates?&#8221; or you will directly see the coordinates displayed in a small popup.</li>
+<li>In the menu that appears, click “What are the coordinates?” or you will directly see the coordinates displayed in a small popup.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>For even greater precision, after right-clicking on the desired location, you can refine the selection by moving the pointer slightly before choosing &#8220;More info about this location.&#8221; This can be useful when finding coordinates for a very specific location, such as the entrance to a building or a point of natural interest.</p>
+<p>For even greater precision, after right-clicking on the desired location, you can refine the selection by moving the pointer slightly before choosing “More info about this location.” This can be useful when finding coordinates for a very specific location, such as the entrance to a building or a point of natural interest.</p>
 
 
 
@@ -112,7 +112,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>Once you have the GPS coordinates of a place you want, you can easily locate it on <strong>Google Maps</strong>. Here&#8217;s how :</p>
+<p>Once you have the GPS coordinates of a place you want, you can easily locate it on <strong>Google Maps</strong>. Here’s how :</p>
 
 
 
@@ -142,7 +142,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>        After finding or entering coordinates, <strong>Google Maps</strong> also provides the option to share this information or mark it with a pin for future reference. Here&#8217;s how to do it:</p>
+<p>        After finding or entering coordinates, <strong>Google Maps</strong> also provides the option to share this information or mark it with a pin for future reference. Here’s how to do it:</p>
 
 
 
@@ -151,7 +151,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<li>To pin the location, click the pin icon next to the contact details to have it added to &#8220;Your Places&#8221; for easy access later.</li>
+<li>To pin the location, click the pin icon next to the contact details to have it added to “Your Places” for easy access later.</li>
 </ol>
 
 

@@ -2,7 +2,7 @@
 lang: "pt"
 title: "TI/Tecnologia da Informação: o que é tecnologia da informação?"
 slug: "ti-tecnologia-da-informacao-o-que-e-tecnologia-da-informacao"
-excerpt: "Entendendo TI: Definição e evolução das tecnologias de informação O que é? O termo ISTO, Para Tecnologia da Informação em inglês, designa todas as tecnologias relacionadas ao processamento e gerenciamento de Informação e dados. Este vasto campo inclui, portanto, a ciência da computação, telecomunicações, sistemas de gerenciamento de banco de dados, segurança da informação e [&hellip;]"
+excerpt: "Entendendo TI: Definição e evolução das tecnologias de informação O que é? O termo ISTO, Para Tecnologia da Informação em inglês, designa todas as tecnologias relacionadas ao processamento e gerenciamento de Informação e dados. Este vasto campo inclui, portanto, a ciência da computação, telecomunicações, sistemas de gerenciamento de banco de dados, segurança da informação e […]"
 date: "2024-03-09T12:22:40"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infraestrutura-e-redes-pt", "tecnologia-e-digital-pt"]
@@ -10,7 +10,7 @@ categories: ["infraestrutura-e-redes-pt", "tecnologia-e-digital-pt"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infraestrutura-e-redes-pt", "tecnologia-e-digital-pt"]
 
 
 
-<p>    Atualmente, diversas tendências importantes estão transformando a TI. EU&#8217;<strong>inteligência artificial</strong> e aprendizado de máquina (<em>aprendizado de máquina</em>) tornaram-se elementos-chave no desenvolvimento de soluções mais inteligentes e autónomas. O <strong>computação em nuvem</strong> continua a crescer em popularidade, proporcionando flexibilidade e escala nunca antes vistas em serviços de TI. </p>
+<p>    Atualmente, diversas tendências importantes estão transformando a TI. EU’<strong>inteligência artificial</strong> e aprendizado de máquina (<em>aprendizado de máquina</em>) tornaram-se elementos-chave no desenvolvimento de soluções mais inteligentes e autónomas. O <strong>computação em nuvem</strong> continua a crescer em popularidade, proporcionando flexibilidade e escala nunca antes vistas em serviços de TI. </p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "et"
 title: "IT / Infotehnoloogia: mis on infotehnoloogia?"
 slug: "it-infotehnoloogia-mis-on-infotehnoloogia"
-excerpt: "IT mõistmine: infotehnoloogiate definitsioon ja areng Mis see on? Termin IT, Sest Infotehnoloogia inglise keeles tähistab kõiki töötlemise ja haldamisega seotud tehnoloogiaid teavet ja andmed. See suur valdkond hõlmab seega arvutiteadust, telekommunikatsioon, andmebaasihaldussüsteemid, infoturve ja palju muud. IT on tänapäeva maailmas hädavajalik: see võimaldab ettevõtetel tõhusalt tegutseda, valitsustel teenuseid pakkuda ning üksikisikutel suhelda ja juurdepääsu [&hellip;]"
+excerpt: "IT mõistmine: infotehnoloogiate definitsioon ja areng Mis see on? Termin IT, Sest Infotehnoloogia inglise keeles tähistab kõiki töötlemise ja haldamisega seotud tehnoloogiaid teavet ja andmed. See suur valdkond hõlmab seega arvutiteadust, telekommunikatsioon, andmebaasihaldussüsteemid, infoturve ja palju muud. IT on tänapäeva maailmas hädavajalik: see võimaldab ettevõtetel tõhusalt tegutseda, valitsustel teenuseid pakkuda ning üksikisikutel suhelda ja juurdepääsu […]"
 date: "2024-03-09T12:20:09"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
@@ -10,7 +10,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<p>    Praegu on IT-d muutmas mitmed peamised suundumused. L&#8217;<strong>tehisintellekt</strong> ja masinõpe (<em>masinõpe</em>) on muutunud intelligentsemate ja autonoomsemate lahenduste väljatöötamise võtmeelementideks. THE <strong>pilvandmetöötlus</strong> populaarsus kasvab jätkuvalt, pakkudes IT-teenustes seninägematut paindlikkust ja ulatust. </p>
+<p>    Praegu on IT-d muutmas mitmed peamised suundumused. L’<strong>tehisintellekt</strong> ja masinõpe (<em>masinõpe</em>) on muutunud intelligentsemate ja autonoomsemate lahenduste väljatöötamise võtmeelementideks. THE <strong>pilvandmetöötlus</strong> populaarsus kasvab jätkuvalt, pakkudes IT-teenustes seninägematut paindlikkust ja ulatust. </p>
 
 
 
@@ -178,7 +178,7 @@ categories: ["infrastruktuur-ja-vorgud-et", "tehnoloogia-ja-digitaalne-et"]
 
 
 
-<p>            Neid komponente saab juurutada väikesest kontorist suurtesse pilveinfrastruktuuridesse, mida haldavad sellised hiiglased nagu <strong>Amazon</strong> koos AWS-iga, <strong>Microsoft</strong> Azure&#8217;iga või <strong>Google</strong> Google Cloud Platformiga.</p>
+<p>            Neid komponente saab juurutada väikesest kontorist suurtesse pilveinfrastruktuuridesse, mida haldavad sellised hiiglased nagu <strong>Amazon</strong> koos AWS-iga, <strong>Microsoft</strong> Azure’iga või <strong>Google</strong> Google Cloud Platformiga.</p>
 
 
 

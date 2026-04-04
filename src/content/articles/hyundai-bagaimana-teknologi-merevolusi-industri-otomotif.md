@@ -2,7 +2,7 @@
 lang: "id"
 title: "Hyundai: Bagaimana teknologi merevolusi industri otomotif?"
 slug: "hyundai-bagaimana-teknologi-merevolusi-industri-otomotif"
-excerpt: "Transformasi digital telah mengubah cara kita berinteraksi dengan produk dan layanan secara signifikan, tidak terkecuali industri otomotif. Contoh bagus dari evolusi ini dapat dilihat di Hyundai, yang telah berhasil menggabungkan kemajuan teknologi terkini ke dalam produksi dan operasinya untuk tetap menjadi yang terdepan dalam industri. Memasukkan teknologi digital ke dalam operasional Hyundai Hyundai telah mengadopsi [&hellip;]"
+excerpt: "Transformasi digital telah mengubah cara kita berinteraksi dengan produk dan layanan secara signifikan, tidak terkecuali industri otomotif. Contoh bagus dari evolusi ini dapat dilihat di Hyundai, yang telah berhasil menggabungkan kemajuan teknologi terkini ke dalam produksi dan operasinya untuk tetap menjadi yang terdepan dalam industri. Memasukkan teknologi digital ke dalam operasional Hyundai Hyundai telah mengadopsi […]"
 date: "2024-03-09T11:52:56"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Hyundai-Comment-la-technologie-digitale-revolutionne-lindustrie-automobile-1-2.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-id", "teknologi-dan-digital-id"]
@@ -92,7 +92,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-id", "teknologi-dan-digital-id"
 
 
 
-<p>Titik balik digital <strong>Hyundai</strong> dalam industri otomotif terwujud dalam mobil yang semakin terhubung dan otomatis. Memang, otomatisasi dan <strong>digitalisasi</strong> telah menjadi hal yang penting dalam industri otomotif, seperti yang dapat kita amati dalam inisiatif Stellantis &#038; YOU. Hyundai tidak mau kalah dan berusaha untuk mengintegrasikan tren ini dengan menawarkan mobil yang lebih cerdas dan terhubung. Integrasi AI ke dalam jantung kendaraannya adalah salah satu contoh paling mencolok dari revolusi digital yang dipimpin oleh Hyundai. </p>
+<p>Titik balik digital <strong>Hyundai</strong> dalam industri otomotif terwujud dalam mobil yang semakin terhubung dan otomatis. Memang, otomatisasi dan <strong>digitalisasi</strong> telah menjadi hal yang penting dalam industri otomotif, seperti yang dapat kita amati dalam inisiatif Stellantis & YOU. Hyundai tidak mau kalah dan berusaha untuk mengintegrasikan tren ini dengan menawarkan mobil yang lebih cerdas dan terhubung. Integrasi AI ke dalam jantung kendaraannya adalah salah satu contoh paling mencolok dari revolusi digital yang dipimpin oleh Hyundai. </p>
 
 
 

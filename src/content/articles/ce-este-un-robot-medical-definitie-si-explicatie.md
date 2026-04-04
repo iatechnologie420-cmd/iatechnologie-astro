@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Ce este un robot medical? definiție și explicație"
 slug: "ce-este-un-robot-medical-definitie-si-explicatie"
-excerpt: "Definiția și tipologia roboților medicali Apariția roboticii în asistența medicală a deschis posibilități imense de îmbunătățire a îngrijirii medicale și a intervențiilor chirurgicale. Aceste tehnologii, cunoscute ca roboți medicali, sunt dispozitive mecanice sau sisteme informatice capabile să efectueze acțiuni complexe cu mare precizie, adesea sub supravegherea sau controlul direct al personalului medical calificat. Dar care [&hellip;]"
+excerpt: "Definiția și tipologia roboților medicali Apariția roboticii în asistența medicală a deschis posibilități imense de îmbunătățire a îngrijirii medicale și a intervențiilor chirurgicale. Aceste tehnologii, cunoscute ca roboți medicali, sunt dispozitive mecanice sau sisteme informatice capabile să efectueze acțiuni complexe cu mare precizie, adesea sub supravegherea sau controlul direct al personalului medical calificat. Dar care […]"
 date: "2024-03-09T12:27:08"
 categories: ["aplicatii-ai-ro"]
 ---

@@ -2,7 +2,7 @@
 lang: "de"
 title: "Die besten Roboter im Star Wars-Universum"
 slug: "die-besten-roboter-im-star-wars-universum"
-excerpt: "Mechanische Legenden: C-3PO und R2-D2 Gilt als der symbolträchtigste Droide der Saga Krieg der Sterne, C-3PO und R2-D2 haben Generationen von Fans mit ihrer einzigartigen Persönlichkeit, ihrer Geschichte und ihrer entscheidenden Rolle in den Episoden geprägt. Dieser Artikel taucht in die Welt dieser mechanischen Legenden ein und enthüllt ihr Wesen und ihre kulturelle Bedeutung. C-3PO: [&hellip;]"
+excerpt: "Mechanische Legenden: C-3PO und R2-D2 Gilt als der symbolträchtigste Droide der Saga Krieg der Sterne, C-3PO und R2-D2 haben Generationen von Fans mit ihrer einzigartigen Persönlichkeit, ihrer Geschichte und ihrer entscheidenden Rolle in den Episoden geprägt. Dieser Artikel taucht in die Welt dieser mechanischen Legenden ein und enthüllt ihr Wesen und ihre kulturelle Bedeutung. C-3PO: […]"
 date: "2024-03-09T12:21:11"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["technologie-und-digital-de"]
@@ -10,7 +10,7 @@ categories: ["technologie-und-digital-de"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -80,7 +80,7 @@ categories: ["technologie-und-digital-de"]
 
 
 
-<p>BB-8 hatte seinen ersten Auftritt in „<strong>Star Wars: Episode VII – Das Erwachen der Macht</strong>&#8221; im Jahr 2015. Dieser Astromech-Droide wurde aufgrund seiner einzigartigen Kugelform, seiner agilen Beweglichkeit und seiner fröhlichen Persönlichkeit schnell zu einem Liebling der Fans. BB-8 gehört zu einem der Helden der neuen Trilogie. <strong>Poe Dameron</strong>, und gemeinsam erleben sie viele Abenteuer in der ganzen Galaxis.</p>
+<p>BB-8 hatte seinen ersten Auftritt in „<strong>Star Wars: Episode VII – Das Erwachen der Macht</strong>” im Jahr 2015. Dieser Astromech-Droide wurde aufgrund seiner einzigartigen Kugelform, seiner agilen Beweglichkeit und seiner fröhlichen Persönlichkeit schnell zu einem Liebling der Fans. BB-8 gehört zu einem der Helden der neuen Trilogie. <strong>Poe Dameron</strong>, und gemeinsam erleben sie viele Abenteuer in der ganzen Galaxis.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["technologie-und-digital-de"]
 
 
 
-<p>D-O wird erstmals eingeführt in „<strong>Star Wars: Episode IX – Der Aufstieg Skywalkers</strong>&#8221; erschien 2019. Dieser kleine Droide auf einem Rad beeindruckt durch seine Fähigkeit, Menschen zu bewegen. Mit seiner Form, die an ein Kinderspielzeug erinnert, und seiner charakteristischen Pfeifstimme verkörpert er den neuen Freund, den wir alle gerne hätten.</p>
+<p>D-O wird erstmals eingeführt in „<strong>Star Wars: Episode IX – Der Aufstieg Skywalkers</strong>” erschien 2019. Dieser kleine Droide auf einem Rad beeindruckt durch seine Fähigkeit, Menschen zu bewegen. Mit seiner Form, die an ein Kinderspielzeug erinnert, und seiner charakteristischen Pfeifstimme verkörpert er den neuen Freund, den wir alle gerne hätten.</p>
 
 
 

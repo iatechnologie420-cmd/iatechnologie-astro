@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Cei mai buni roboți din universul Star Wars"
 slug: "cei-mai-buni-roboti-din-universul-star-wars"
-excerpt: "Legende mecanice: C-3PO și R2-D2 Considerați cei mai emblematici droizi ai sagăi Razboiul Stelelor, C-3PO și R2-D2 au marcat generații de fani prin personalitatea lor unică, povestea și rolul lor crucial de-a lungul episoadelor. Acest articol se adâncește în lumea acestor legende mecanice, dezvăluind esența și impactul lor cultural. C-3PO: Protocolul Polyglot Droid C-3PO, adesea [&hellip;]"
+excerpt: "Legende mecanice: C-3PO și R2-D2 Considerați cei mai emblematici droizi ai sagăi Razboiul Stelelor, C-3PO și R2-D2 au marcat generații de fani prin personalitatea lor unică, povestea și rolul lor crucial de-a lungul episoadelor. Acest articol se adâncește în lumea acestor legende mecanice, dezvăluind esența și impactul lor cultural. C-3PO: Protocolul Polyglot Droid C-3PO, adesea […]"
 date: "2024-03-09T12:23:39"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["tehnologie-si-digital-ro"]
@@ -10,7 +10,7 @@ categories: ["tehnologie-si-digital-ro"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -80,7 +80,7 @@ categories: ["tehnologie-si-digital-ro"]
 
 
 
-<p>BB-8 și-a făcut prima apariție în &#8220;<strong>Războiul Stelelor: Episodul VII &#8211; Trezirea Forței</strong>&#8221; în 2015. Acest droid astromech a devenit rapid favoritul fanilor datorită formei sale sferice unice, mobilității agile și personalității vesele. BB-8 aparține unuia dintre eroii noii trilogii, <strong>Poe Dameron</strong>și împreună împărtășesc multe aventuri prin galaxie.</p>
+<p>BB-8 și-a făcut prima apariție în “<strong>Războiul Stelelor: Episodul VII – Trezirea Forței</strong>” în 2015. Acest droid astromech a devenit rapid favoritul fanilor datorită formei sale sferice unice, mobilității agile și personalității vesele. BB-8 aparține unuia dintre eroii noii trilogii, <strong>Poe Dameron</strong>și împreună împărtășesc multe aventuri prin galaxie.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["tehnologie-si-digital-ro"]
 
 
 
-<p>D-O este introdus pentru prima dată în &#8220;<strong>Star Wars: Episodul IX &#8211; Ascensiunea lui Skywalker</strong>&#8221; lansat în 2019. Acest mic droid pe o singură roată impresionează prin capacitatea sa de a mișca oamenii. Cu forma sa care amintește de jucăria unui copil și vocea sa fluieră caracteristică, întruchipează noul prieten pe care ne-am dori cu toții să-l avem.</p>
+<p>D-O este introdus pentru prima dată în “<strong>Star Wars: Episodul IX – Ascensiunea lui Skywalker</strong>” lansat în 2019. Acest mic droid pe o singură roată impresionează prin capacitatea sa de a mișca oamenii. Cu forma sa care amintește de jucăria unui copil și vocea sa fluieră caracteristică, întruchipează noul prieten pe care ne-am dori cu toții să-l avem.</p>
 
 
 

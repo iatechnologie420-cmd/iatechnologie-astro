@@ -2,7 +2,7 @@
 lang: "it"
 title: "Portafoglio anti-RFID: perché non ti serve"
 slug: "portafoglio-anti-rfid-perche-non-ti-serve"
-excerpt: "Comprendere la tecnologia RFID e i suoi rischi Cos&#8217;è l&#8217;RFID? Là Identificazione della frequenza radio (RFID) è una tecnologia che consente l&#8217;identificazione automatica di oggetti, animali o persone mediante onde radio. Utilizza piccoli dispositivi elettronici chiamati etichette O Tag RFID, che memorizzano i dati e trasmettono queste informazioni a un lettore RFID. I tag possono [&hellip;]"
+excerpt: "Comprendere la tecnologia RFID e i suoi rischi Cos’è l’RFID? Là Identificazione della frequenza radio (RFID) è una tecnologia che consente l’identificazione automatica di oggetti, animali o persone mediante onde radio. Utilizza piccoli dispositivi elettronici chiamati etichette O Tag RFID, che memorizzano i dati e trasmettono queste informazioni a un lettore RFID. I tag possono […]"
 date: "2024-03-09T11:59:24"
 categories: ["informatica-e-dati-it", "tecnologie-indossabili-e-iot-it"]
 ---
@@ -18,16 +18,16 @@ categories: ["informatica-e-dati-it", "tecnologie-indossabili-e-iot-it"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Comprendere_la_tecnologia_RFID_e_i_suoi_rischi" >Comprendere la tecnologia RFID e i suoi rischi</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Cose_lRFID" >Cos&#8217;è l&#8217;RFID?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Come_funziona_lRFID" >Come funziona l&#8217;RFID?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Applicazioni_RFID" >Applicazioni RFID</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Vantaggi_dellRFID" >Vantaggi dell&#8217;RFID</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Rischi_e_svantaggi_dellRFID" >Rischi e svantaggi dell&#8217;RFID</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#I_miti_sul_furto_di_identita_RFID_sfatati" >I miti sul furto di identità RFID sfatati</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Mito_n1_gli_scanner_RFID_possono_leggere_i_tuoi_dati_a_grandi_distanze" >Mito n.1: gli scanner RFID possono leggere i tuoi dati a grandi distanze</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Mito_n2_tutte_le_tue_informazioni_vengono_esposte" >Mito n.2: tutte le tue informazioni vengono esposte</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Mito_n3_clonare_una_carta_RFID_e_facile" >Mito n.3: clonare una carta RFID è facile</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Mito_n4_i_portafogli_blindati_sono_essenziali" >Mito n.4: i portafogli blindati sono essenziali</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Conclusione_la_realta_dietro_i_miti" >Conclusione: la realtà dietro i miti</a></li></ul></li></ul></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Comprendere_la_tecnologia_RFID_e_i_suoi_rischi" >Comprendere la tecnologia RFID e i suoi rischi</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Cose_lRFID" >Cos’è l’RFID?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Come_funziona_lRFID" >Come funziona l’RFID?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Applicazioni_RFID" >Applicazioni RFID</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Vantaggi_dellRFID" >Vantaggi dell’RFID</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Rischi_e_svantaggi_dellRFID" >Rischi e svantaggi dell’RFID</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#I_miti_sul_furto_di_identita_RFID_sfatati" >I miti sul furto di identità RFID sfatati</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Mito_n1_gli_scanner_RFID_possono_leggere_i_tuoi_dati_a_grandi_distanze" >Mito n.1: gli scanner RFID possono leggere i tuoi dati a grandi distanze</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Mito_n2_tutte_le_tue_informazioni_vengono_esposte" >Mito n.2: tutte le tue informazioni vengono esposte</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Mito_n3_clonare_una_carta_RFID_e_facile" >Mito n.3: clonare una carta RFID è facile</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Mito_n4_i_portafogli_blindati_sono_essenziali" >Mito n.4: i portafogli blindati sono essenziali</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/it/portafoglio-anti-rfid-perche-non-ti-serve/#Conclusione_la_realta_dietro_i_miti" >Conclusione: la realtà dietro i miti</a></li></ul></li></ul></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="Comprendere_la_tecnologia_RFID_e_i_suoi_rischi"></span>Comprendere la tecnologia RFID e i suoi rischi<span class="ez-toc-section-end"></span></h2>
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="Cose_lRFID"></span>Cos&#8217;è l&#8217;RFID?<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="Cose_lRFID"></span>Cos’è l’RFID?<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>Là <strong>Identificazione della frequenza radio</strong> (<strong>RFID</strong>) è una tecnologia che consente l&#8217;identificazione automatica di oggetti, animali o persone mediante onde radio. Utilizza piccoli dispositivi elettronici chiamati <strong>etichette</strong> O <strong>Tag RFID</strong>, che memorizzano i dati e trasmettono queste informazioni a un lettore RFID. </p>
+<p>Là <strong>Identificazione della frequenza radio</strong> (<strong>RFID</strong>) è una tecnologia che consente l’identificazione automatica di oggetti, animali o persone mediante onde radio. Utilizza piccoli dispositivi elettronici chiamati <strong>etichette</strong> O <strong>Tag RFID</strong>, che memorizzano i dati e trasmettono queste informazioni a un lettore RFID. </p>
 
 
 
@@ -35,11 +35,11 @@ categories: ["informatica-e-dati-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Come_funziona_lRFID"></span>Come funziona l&#8217;RFID?<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Come_funziona_lRFID"></span>Come funziona l’RFID?<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>Il funzionamento dell&#8217;RFID si basa su tre componenti principali: l&#8217;antenna, il transponder (tag RFID) e il ricevitore (lettore RFID). Quando un tag passa vicino a un lettore, l&#8217;antenna del lettore emette onde radio. Se il tag è nel raggio d&#8217;azione, si attiva e invia i suoi dati al lettore, che poi li trasmette ad un sistema informatico per l&#8217;elaborazione.</p>
+<p>Il funzionamento dell’RFID si basa su tre componenti principali: l’antenna, il transponder (tag RFID) e il ricevitore (lettore RFID). Quando un tag passa vicino a un lettore, l’antenna del lettore emette onde radio. Se il tag è nel raggio d’azione, si attiva e invia i suoi dati al lettore, che poi li trasmette ad un sistema informatico per l’elaborazione.</p>
 
 
 
@@ -56,7 +56,7 @@ categories: ["informatica-e-dati-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<li>Controllo accessi: badge RFID per proteggere l&#8217;accesso agli edifici.</li>
+<li>Controllo accessi: badge RFID per proteggere l’accesso agli edifici.</li>
 
 
 
@@ -73,7 +73,7 @@ categories: ["informatica-e-dati-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Vantaggi_dellRFID"></span>Vantaggi dell&#8217;RFID<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Vantaggi_dellRFID"></span>Vantaggi dell’RFID<span class="ez-toc-section-end"></span></h4>
 
 
 
@@ -99,7 +99,7 @@ categories: ["informatica-e-dati-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Rischi_e_svantaggi_dellRFID"></span>Rischi e svantaggi dell&#8217;RFID<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Rischi_e_svantaggi_dellRFID"></span>Rischi e svantaggi dell’RFID<span class="ez-toc-section-end"></span></h4>
 
 
 
@@ -116,7 +116,7 @@ categories: ["informatica-e-dati-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<li><strong>Costi di implementazione</strong> : L&#8217;installazione di sistemi RFID completi può essere costosa, soprattutto per le piccole imprese.</li>
+<li><strong>Costi di implementazione</strong> : L’installazione di sistemi RFID completi può essere costosa, soprattutto per le piccole imprese.</li>
 
 
 

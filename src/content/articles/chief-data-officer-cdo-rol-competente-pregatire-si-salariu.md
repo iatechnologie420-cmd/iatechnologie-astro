@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Chief Data Officer (CDO): ​​rol, competențe, pregătire și salariu"
 slug: "chief-data-officer-cdo-rol-competente-pregatire-si-salariu"
-excerpt: "Locul strategic al Chief Data Officer în companie În era datelor mari și a analizei datelor, companiile recunosc din ce în ce mai mult importanța gestionării și valorificării strategice a datelor lor. În centrul acestei recunoașteri se află un rol cheie: cel Chief Data Officer (CDO). CDO este esențial pentru echilibrarea guvernanței, a calității datelor, [&hellip;]"
+excerpt: "Locul strategic al Chief Data Officer în companie În era datelor mari și a analizei datelor, companiile recunosc din ce în ce mai mult importanța gestionării și valorificării strategice a datelor lor. În centrul acestei recunoașteri se află un rol cheie: cel Chief Data Officer (CDO). CDO este esențial pentru echilibrarea guvernanței, a calității datelor, […]"
 date: "2024-03-09T12:11:13"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
@@ -10,7 +10,7 @@ categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="The Promise and Peril of the Chief Data &amp; Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="The Promise and Peril of the Chief Data & Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

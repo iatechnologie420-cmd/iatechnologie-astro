@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Antene 4G: Cum să capturați mai bine 4G în interior?"
 slug: "antene-4g-cum-sa-capturati-mai-bine-4g-in-interior"
-excerpt: "Înțelegeți cum funcționează 4G și limitele acestuia Ce este 4G? Tehnologie 4G, de asemenea cunoscut ca si a 4-a generație a standardelor pentru telecomunicațiile mobile, este continuarea 3G și precede cel foarte recent 5G. Oferă o conexiune la Internet mobil de mare viteză, permițându-vă să beneficiați de un transfer de date mai bun. Aceasta include [&hellip;]"
+excerpt: "Înțelegeți cum funcționează 4G și limitele acestuia Ce este 4G? Tehnologie 4G, de asemenea cunoscut ca si a 4-a generație a standardelor pentru telecomunicațiile mobile, este continuarea 3G și precede cel foarte recent 5G. Oferă o conexiune la Internet mobil de mare viteză, permițându-vă să beneficiați de un transfer de date mai bun. Aceasta include […]"
 date: "2024-03-09T12:17:43"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
 categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]

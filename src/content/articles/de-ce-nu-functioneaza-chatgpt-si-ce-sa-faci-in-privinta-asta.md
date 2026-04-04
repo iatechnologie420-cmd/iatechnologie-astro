@@ -2,7 +2,7 @@
 lang: "ro"
 title: "De ce nu funcționează ChatGPT și ce să faci în privința asta?"
 slug: "de-ce-nu-functioneaza-chatgpt-si-ce-sa-faci-in-privinta-asta"
-excerpt: "De ce nu funcționează ChatGPT? Când utilizați ChatGPT, este posibil să întâmpinați probleme care îl fac să nu funcționeze corect. Aceste probleme, deși frustrante, pot avea o varietate de cauze. În acest articol, vom explora câteva motive comune pentru care ChatGPT ar putea să nu funcționeze corect și vă vom oferi soluții pentru a le [&hellip;]"
+excerpt: "De ce nu funcționează ChatGPT? Când utilizați ChatGPT, este posibil să întâmpinați probleme care îl fac să nu funcționeze corect. Aceste probleme, deși frustrante, pot avea o varietate de cauze. În acest articol, vom explora câteva motive comune pentru care ChatGPT ar putea să nu funcționeze corect și vă vom oferi soluții pentru a le […]"
 date: "2024-03-09T12:17:32"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["aplicatii-ai-ro"]
@@ -38,7 +38,7 @@ categories: ["aplicatii-ai-ro"]
 
 
 
-<p>&#8211; Asigurați-vă că utilizați cea mai recentă versiune a browserului dvs.<br>&#8211; Goliți memoria cache a browserului pentru a elimina orice date corupte care ar putea afecta funcționarea ChatGPT.<br>&#8211; Încercați alt browser pentru a vedea dacă problema persistă. Unele browsere pot avea probleme de compatibilitate cu anumite funcții ChatGPT.</p>
+<p>– Asigurați-vă că utilizați cea mai recentă versiune a browserului dvs.<br>– Goliți memoria cache a browserului pentru a elimina orice date corupte care ar putea afecta funcționarea ChatGPT.<br>– Încercați alt browser pentru a vedea dacă problema persistă. Unele browsere pot avea probleme de compatibilitate cu anumite funcții ChatGPT.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["aplicatii-ai-ro"]
 
 
 
-<p>&#8211; Reduceți dimensiunea solicitării dvs. reducând numărul de cuvinte sau reformulând cererea dvs.<br>&#8211; Împărțiți solicitarea în mai multe părți mai mici și trimiteți-le separat.<br>&#8211; Aveți răbdare și așteptați până când serverele de procesare au terminat de procesat cererea dumneavoastră anterioară înainte de a trimite una nouă.</p>
+<p>– Reduceți dimensiunea solicitării dvs. reducând numărul de cuvinte sau reformulând cererea dvs.<br>– Împărțiți solicitarea în mai multe părți mai mici și trimiteți-le separat.<br>– Aveți răbdare și așteptați până când serverele de procesare au terminat de procesat cererea dumneavoastră anterioară înainte de a trimite una nouă.</p>
 
 
 

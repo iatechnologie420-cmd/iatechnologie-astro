@@ -2,14 +2,14 @@
 lang: "en"
 title: "What is an autoencoder? The ultimate guide!"
 slug: "what-is-an-autoencoder-the-ultimate-guide"
-excerpt: "Autoencoders, or autoencoders in English, position themselves as powerful tools in the field of machine learning and artificial intelligence. These special neural networks are used for dimension reduction, anomaly detection, data denoising, and more. This article provides an introduction to this fascinating technology, highlighting its working principle, its applications and its growing importance in research [&hellip;]"
+excerpt: "Autoencoders, or autoencoders in English, position themselves as powerful tools in the field of machine learning and artificial intelligence. These special neural networks are used for dimension reduction, anomaly detection, data denoising, and more. This article provides an introduction to this fascinating technology, highlighting its working principle, its applications and its growing importance in research […]"
 date: "2024-03-09T12:05:23"
 categories: ["computing-and-data-en", "technology-and-digital-en"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Tracking Corn &amp; Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Tracking Corn & Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -88,7 +88,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<li><strong>Denoising</strong>: they are able to learn to ignore the &#8220;noise&#8221; in the data.</li>
+<li><strong>Denoising</strong>: they are able to learn to ignore the “noise” in the data.</li>
 
 
 
@@ -105,7 +105,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>In short, the ability of autoencoders to discover and define meaningful characteristics of data makes them a must-have instrument in any AI practitioner&#8217;s toolkit.</p>
+<p>In short, the ability of autoencoders to discover and define meaningful characteristics of data makes them a must-have instrument in any AI practitioner’s toolkit.</p>
 
 
 
@@ -153,7 +153,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>L&#8217;<strong>autoencoder</strong>, a key component in the arsenal of deep learning powered by Artificial Intelligence (AI), is a neural network designed to encode data into a lower-dimensional representation and decompose it in such a way that a relevant reconstruction is possible. Let&#8217;s examine them <strong>practical applications</strong> and the variants that have emerged in this fascinating field.</p>
+<p>L’<strong>autoencoder</strong>, a key component in the arsenal of deep learning powered by Artificial Intelligence (AI), is a neural network designed to encode data into a lower-dimensional representation and decompose it in such a way that a relevant reconstruction is possible. Let’s examine them <strong>practical applications</strong> and the variants that have emerged in this fascinating field.</p>
 
 
 

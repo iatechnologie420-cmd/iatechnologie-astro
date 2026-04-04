@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Data Hub apibrėžimas: viskas, ką reikia žinoti apie duomenų centrus"
 slug: "data-hub-apibrezimas-viskas-ka-reikia-zinoti-apie-duomenu-centrus"
-excerpt: "Suprasti pagrindus Didžiųjų duomenų ir skaitmeninės transformacijos eroje įmonės turi turėti galimybę efektyviai išnaudoti savo duomenis. THE Duomenų centras, arba „duomenų centras“, yra architektūrinis atsakas į šį augantį duomenų valdymo, dalijimosi ir analizės poreikį. Šiame straipsnyje išsamiai apžvelgsime „Data Hub“ pagrindus ir pagrindinį jo vaidmenį įmonių duomenų strategijoje. Kas yra duomenų centras? A Duomenų centras [&hellip;]"
+excerpt: "Suprasti pagrindus Didžiųjų duomenų ir skaitmeninės transformacijos eroje įmonės turi turėti galimybę efektyviai išnaudoti savo duomenis. THE Duomenų centras, arba „duomenų centras“, yra architektūrinis atsakas į šį augantį duomenų valdymo, dalijimosi ir analizės poreikį. Šiame straipsnyje išsamiai apžvelgsime „Data Hub“ pagrindus ir pagrindinį jo vaidmenį įmonių duomenų strategijoje. Kas yra duomenų centras? A Duomenų centras […]"
 date: "2024-03-09T11:54:26"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
 categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]

@@ -2,14 +2,14 @@
 lang: "sl"
 title: "SSD: vse, kar morate vedeti o shranjevanju podatkov na pogonu SSD"
 slug: "ssd-vse-kar-morate-vedeti-o-shranjevanju-podatkov-na-pogonu-ssd"
-excerpt: "Uvod v diske SSD in njihovo delovanje Pojav polprevodniških diskov, oz SSD (SSD v angleščini), pomeni pravo revolucijo na področju shranjevanja podatkov. Za razliko od tradicionalnih trdih diskov (HDD), ki uporabljajo magnetne plošče za shranjevanje informacij, trdi diski SSD zanašajte se na flash pomnilniške čipe brez gibljivih delov. Ta sprememba v tehnologiji ponuja pomembne prednosti [&hellip;]"
+excerpt: "Uvod v diske SSD in njihovo delovanje Pojav polprevodniških diskov, oz SSD (SSD v angleščini), pomeni pravo revolucijo na področju shranjevanja podatkov. Za razliko od tradicionalnih trdih diskov (HDD), ki uporabljajo magnetne plošče za shranjevanje informacij, trdi diski SSD zanašajte se na flash pomnilniške čipe brez gibljivih delov. Ta sprememba v tehnologiji ponuja pomembne prednosti […]"
 date: "2024-03-09T12:24:25"
 categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How It&#039;s Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="How It's Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

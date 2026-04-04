@@ -2,7 +2,7 @@
 lang: "is"
 title: "Hversu hár og þungur er Mark Zuckerberg?"
 slug: "hversu-har-og-thungur-er-mark-zuckerberg"
-excerpt: "Hæð Mark Zuckerberg: Goðsögn eða veruleiki? Deilurnar um stærð hans Í nokkur ár hefur spurningin um hæð Mark Zuckerbergs, stofnanda Facebook, verið háð miklum vangaveltum og umræðum. Sumir halda því fram að hann sé minni en hann lítur út á meðan aðrir halda því fram að hann sé í raun nokkuð hár. Svo hver er [&hellip;]"
+excerpt: "Hæð Mark Zuckerberg: Goðsögn eða veruleiki? Deilurnar um stærð hans Í nokkur ár hefur spurningin um hæð Mark Zuckerbergs, stofnanda Facebook, verið háð miklum vangaveltum og umræðum. Sumir halda því fram að hann sé minni en hann lítur út á meðan aðrir halda því fram að hann sé í raun nokkuð hár. Svo hver er […]"
 date: "2024-03-09T12:36:03"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["taekni-og-stafraen-is"]

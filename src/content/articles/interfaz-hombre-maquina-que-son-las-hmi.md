@@ -2,7 +2,7 @@
 lang: "es"
 title: "Interfaz hombre-máquina: ¿qué son las HMI?"
 slug: "interfaz-hombre-maquina-que-son-las-hmi"
-excerpt: "Definición de interfaz hombre-máquina La interfaz hombre-máquina se refiere a todos los medios y herramientas implementados para permitir la interacción efectiva entre un usuario humano y un sistema informático. Abarca todo, desde el diseño visual de las pantallas hasta los dispositivos de entrada como el teclado, el mouse e incluso las interfaces táctiles y de [&hellip;]"
+excerpt: "Definición de interfaz hombre-máquina La interfaz hombre-máquina se refiere a todos los medios y herramientas implementados para permitir la interacción efectiva entre un usuario humano y un sistema informático. Abarca todo, desde el diseño visual de las pantallas hasta los dispositivos de entrada como el teclado, el mouse e incluso las interfaces táctiles y de […]"
 date: "2024-03-09T12:19:21"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Interface-Homme-Machine-tout-savoir-sur-les-IHM-3.png"
 categories: ["tecnologia-y-digital-es", "tecnologias-portatiles-e-iot-es"]
@@ -247,7 +247,7 @@ categories: ["tecnologia-y-digital-es", "tecnologias-portatiles-e-iot-es"]
 
 
 
-<li>Incluya las funciones &#8220;Deshacer&#8221; y &#8220;Rehacer&#8221; para facilitar la corrección.</li>
+<li>Incluya las funciones “Deshacer” y “Rehacer” para facilitar la corrección.</li>
 </ul>
 
 
@@ -309,7 +309,7 @@ categories: ["tecnologia-y-digital-es", "tecnologias-portatiles-e-iot-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lucienprof/video/7276471705206361376" data-video-id="7276471705206361376" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@lucienprof" href="https://www.tiktok.com/@lucienprof?refer=embed" rel="noopener">@lucienprof</a> <p>Interface Homme-machine <a title="prof" target="_blank" href="https://www.tiktok.com/tag/prof?refer=embed" rel="noopener">#prof</a> <a title="profparticulier" target="_blank" href="https://www.tiktok.com/tag/profparticulier?refer=embed" rel="noopener">#profparticulier</a> <a title="coursparticulier" target="_blank" href="https://www.tiktok.com/tag/coursparticulier?refer=embed" rel="noopener">#coursparticulier</a> <a title="coursparticuliers" target="_blank" href="https://www.tiktok.com/tag/coursparticuliers?refer=embed" rel="noopener">#coursparticuliers</a> <a title="science" target="_blank" href="https://www.tiktok.com/tag/science?refer=embed" rel="noopener">#science</a> <a title="nsi" target="_blank" href="https://www.tiktok.com/tag/nsi?refer=embed" rel="noopener">#nsi</a> <a title="informatique" target="_blank" href="https://www.tiktok.com/tag/informatique?refer=embed" rel="noopener">#informatique</a> <a title="réussir" target="_blank" href="https://www.tiktok.com/tag/r%C3%A9ussir?refer=embed" rel="noopener">#réussir</a> </p> <a target="_blank" title="♬ son original - LucienProf®" href="https://www.tiktok.com/music/son-original-7276471722507815712?refer=embed" rel="noopener">♬ son original &#8211; LucienProf®</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lucienprof/video/7276471705206361376" data-video-id="7276471705206361376" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@lucienprof" href="https://www.tiktok.com/@lucienprof?refer=embed" rel="noopener">@lucienprof</a> <p>Interface Homme-machine <a title="prof" target="_blank" href="https://www.tiktok.com/tag/prof?refer=embed" rel="noopener">#prof</a> <a title="profparticulier" target="_blank" href="https://www.tiktok.com/tag/profparticulier?refer=embed" rel="noopener">#profparticulier</a> <a title="coursparticulier" target="_blank" href="https://www.tiktok.com/tag/coursparticulier?refer=embed" rel="noopener">#coursparticulier</a> <a title="coursparticuliers" target="_blank" href="https://www.tiktok.com/tag/coursparticuliers?refer=embed" rel="noopener">#coursparticuliers</a> <a title="science" target="_blank" href="https://www.tiktok.com/tag/science?refer=embed" rel="noopener">#science</a> <a title="nsi" target="_blank" href="https://www.tiktok.com/tag/nsi?refer=embed" rel="noopener">#nsi</a> <a title="informatique" target="_blank" href="https://www.tiktok.com/tag/informatique?refer=embed" rel="noopener">#informatique</a> <a title="réussir" target="_blank" href="https://www.tiktok.com/tag/r%C3%A9ussir?refer=embed" rel="noopener">#réussir</a> </p> <a target="_blank" title="♬ son original - LucienProf®" href="https://www.tiktok.com/music/son-original-7276471722507815712?refer=embed" rel="noopener">♬ son original – LucienProf®</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

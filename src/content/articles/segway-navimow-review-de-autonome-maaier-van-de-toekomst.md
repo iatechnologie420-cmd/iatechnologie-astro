@@ -2,7 +2,7 @@
 lang: "nl"
 title: "Segway Navimow review: de autonome maaier van de toekomst?"
 slug: "segway-navimow-review-de-autonome-maaier-van-de-toekomst"
-excerpt: "De voordelen van de autonome maaier Segway Navimow Stelt u zich eens voor dat u ten volle van uw tuin kunt genieten zonder dat u zich zorgen hoeft te maken over het maaien van het gazon. Dankzij de autonome maaier Segway Navimow behoort deze vervelende taak nu tot het verleden. Deze autonome maaier zit boordevol [&hellip;]"
+excerpt: "De voordelen van de autonome maaier Segway Navimow Stelt u zich eens voor dat u ten volle van uw tuin kunt genieten zonder dat u zich zorgen hoeft te maken over het maaien van het gazon. Dankzij de autonome maaier Segway Navimow behoort deze vervelende taak nu tot het verleden. Deze autonome maaier zit boordevol […]"
 date: "2024-03-09T12:36:43"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["draagbare-technologieen-en-iot-nl", "technologie-en-digitaal-nl"]

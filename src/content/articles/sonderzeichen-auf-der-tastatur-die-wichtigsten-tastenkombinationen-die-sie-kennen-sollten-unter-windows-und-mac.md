@@ -2,7 +2,7 @@
 lang: "de"
 title: "Sonderzeichen auf der Tastatur: Die wichtigsten Tastenkombinationen, die Sie kennen sollten (unter Windows und Mac)"
 slug: "sonderzeichen-auf-der-tastatur-die-wichtigsten-tastenkombinationen-die-sie-kennen-sollten-unter-windows-und-mac"
-excerpt: "Sonderzeichen sind Symbole oder Zeichen, die nicht den Standardbuchstaben und -zahlen einer herkömmlichen Tastatur entsprechen. Die Verwendung dieser Sonderzeichen ist in verschiedenen Kontexten wie Computerprogrammierung, Textschreiben, Passwortsicherheit und mathematischer oder wissenschaftlicher Dateneingabe von großer Bedeutung. Beim Programmieren, Sonderzeichen sind unerlässlich. Mit ihnen können Sie bestimmte Operationen ausführen, beispielsweise das Trennen von Zeichenfolgen oder die Darstellung [&hellip;]"
+excerpt: "Sonderzeichen sind Symbole oder Zeichen, die nicht den Standardbuchstaben und -zahlen einer herkömmlichen Tastatur entsprechen. Die Verwendung dieser Sonderzeichen ist in verschiedenen Kontexten wie Computerprogrammierung, Textschreiben, Passwortsicherheit und mathematischer oder wissenschaftlicher Dateneingabe von großer Bedeutung. Beim Programmieren, Sonderzeichen sind unerlässlich. Mit ihnen können Sie bestimmte Operationen ausführen, beispielsweise das Trennen von Zeichenfolgen oder die Darstellung […]"
 date: "2024-03-09T12:05:44"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Caracteres-Speciaux-Clavier-Les-150-Raccourcis-a-Connaitre-Sur-Windows-et-Mac-3.png"
 categories: ["technologie-und-digital-de"]
@@ -312,7 +312,7 @@ categories: ["technologie-und-digital-de"]
 
 
 
-<p>Gibt es bestimmte Sonderzeichen, die Sie häufig verwenden und für die es keine Standardverknüpfung gibt? Sie können über die Tastatureinstellungen neue erstellen. So geht&#8217;s:</p>
+<p>Gibt es bestimmte Sonderzeichen, die Sie häufig verwenden und für die es keine Standardverknüpfung gibt? Sie können über die Tastatureinstellungen neue erstellen. So geht’s:</p>
 
 
 
@@ -343,7 +343,7 @@ categories: ["technologie-und-digital-de"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@vincentvintech/video/7115131366957731077" data-video-id="7115131366957731077" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@vincentvintech" href="https://www.tiktok.com/@vincentvintech?refer=embed" rel="noopener">@vincentvintech</a> <p>4 raccourcis clavier avec la touche windows à connaître absolument <a title="windows" target="_blank" href="https://www.tiktok.com/tag/windows?refer=embed" rel="noopener">#windows</a> <a title="pc" target="_blank" href="https://www.tiktok.com/tag/pc?refer=embed" rel="noopener">#pc</a> <a title="astuce" target="_blank" href="https://www.tiktok.com/tag/astuce?refer=embed" rel="noopener">#astuce</a> <a title="lifehacks" target="_blank" href="https://www.tiktok.com/tag/lifehacks?refer=embed" rel="noopener">#lifehacks</a> <a title="ordinateur" target="_blank" href="https://www.tiktok.com/tag/ordinateur?refer=embed" rel="noopener">#ordinateur</a> <a title="tech" target="_blank" href="https://www.tiktok.com/tag/tech?refer=embed" rel="noopener">#tech</a></p> <a target="_blank" title="♬ son original - Vincent Vintech" href="https://www.tiktok.com/music/son-original-7115131378878204678?refer=embed" rel="noopener">♬ son original &#8211; Vincent Vintech</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@vincentvintech/video/7115131366957731077" data-video-id="7115131366957731077" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@vincentvintech" href="https://www.tiktok.com/@vincentvintech?refer=embed" rel="noopener">@vincentvintech</a> <p>4 raccourcis clavier avec la touche windows à connaître absolument <a title="windows" target="_blank" href="https://www.tiktok.com/tag/windows?refer=embed" rel="noopener">#windows</a> <a title="pc" target="_blank" href="https://www.tiktok.com/tag/pc?refer=embed" rel="noopener">#pc</a> <a title="astuce" target="_blank" href="https://www.tiktok.com/tag/astuce?refer=embed" rel="noopener">#astuce</a> <a title="lifehacks" target="_blank" href="https://www.tiktok.com/tag/lifehacks?refer=embed" rel="noopener">#lifehacks</a> <a title="ordinateur" target="_blank" href="https://www.tiktok.com/tag/ordinateur?refer=embed" rel="noopener">#ordinateur</a> <a title="tech" target="_blank" href="https://www.tiktok.com/tag/tech?refer=embed" rel="noopener">#tech</a></p> <a target="_blank" title="♬ son original - Vincent Vintech" href="https://www.tiktok.com/music/son-original-7115131378878204678?refer=embed" rel="noopener">♬ son original – Vincent Vintech</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

@@ -2,7 +2,7 @@
 lang: "es"
 title: "Master Data Manager: rol, habilidades, formación y salario"
 slug: "master-data-manager-rol-habilidades-formacion-y-salario"
-excerpt: "El papel clave del Master Data Manager en el gobierno de datos En un mundo donde los datos se han convertido en un importante activo estratégico para las empresas, dato de governancia es esencial para garantizar la calidad, seguridad y eficacia de la información. En el centro de esta gobernanza, la Administrador de datos maestros [&hellip;]"
+excerpt: "El papel clave del Master Data Manager en el gobierno de datos En un mundo donde los datos se han convertido en un importante activo estratégico para las empresas, dato de governancia es esencial para garantizar la calidad, seguridad y eficacia de la información. En el centro de esta gobernanza, la Administrador de datos maestros […]"
 date: "2024-03-09T12:15:24"
 categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 ---
@@ -111,7 +111,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<p>El Master Data Manager debe afrontar constantemente nuevos retos, vinculados en particular a avances tecnológicos como <strong>grandes datos</strong>, l&#8217;<strong>inteligencia artificial</strong> y el <strong>computación en la nube</strong>. Esto significa mantenerse a la vanguardia del conocimiento técnico y las tendencias del mercado para continuar garantizando una gobernanza de datos eficaz.</p>
+<p>El Master Data Manager debe afrontar constantemente nuevos retos, vinculados en particular a avances tecnológicos como <strong>grandes datos</strong>, l’<strong>inteligencia artificial</strong> y el <strong>computación en la nube</strong>. Esto significa mantenerse a la vanguardia del conocimiento técnico y las tendencias del mercado para continuar garantizando una gobernanza de datos eficaz.</p>
 
 
 

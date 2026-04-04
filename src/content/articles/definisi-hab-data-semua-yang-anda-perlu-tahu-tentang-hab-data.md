@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Definisi Hab Data: semua yang anda perlu tahu tentang hab data"
 slug: "definisi-hab-data-semua-yang-anda-perlu-tahu-tentang-hab-data"
-excerpt: "Fahami asas-asasnya Dalam era Data Besar dan transformasi digital, syarikat mesti dapat mengeksploitasi data mereka dengan berkesan. THE Hab Data, atau &#8220;pusat data&#8221;, ialah tindak balas seni bina kepada keperluan yang semakin meningkat untuk pengurusan, perkongsian dan analisis data. Dalam artikel ini, kami akan memperincikan asas Hab Data dan peranan utamanya dalam strategi data syarikat. [&hellip;]"
+excerpt: "Fahami asas-asasnya Dalam era Data Besar dan transformasi digital, syarikat mesti dapat mengeksploitasi data mereka dengan berkesan. THE Hab Data, atau “pusat data”, ialah tindak balas seni bina kepada keperluan yang semakin meningkat untuk pengurusan, perkongsian dan analisis data. Dalam artikel ini, kami akan memperincikan asas Hab Data dan peranan utamanya dalam strategi data syarikat. […]"
 date: "2024-03-09T11:54:42"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
 categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
@@ -24,7 +24,7 @@ categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>Dalam era Data Besar dan transformasi digital, syarikat mesti dapat mengeksploitasi data mereka dengan berkesan. THE <strong>Hab Data</strong>, atau &#8220;pusat data&#8221;, ialah tindak balas seni bina kepada keperluan yang semakin meningkat untuk pengurusan, perkongsian dan analisis data. Dalam artikel ini, kami akan memperincikan asas Hab Data dan peranan utamanya dalam strategi data syarikat.</p>
+<p>Dalam era Data Besar dan transformasi digital, syarikat mesti dapat mengeksploitasi data mereka dengan berkesan. THE <strong>Hab Data</strong>, atau “pusat data”, ialah tindak balas seni bina kepada keperluan yang semakin meningkat untuk pengurusan, perkongsian dan analisis data. Dalam artikel ini, kami akan memperincikan asas Hab Data dan peranan utamanya dalam strategi data syarikat.</p>
 
 
 

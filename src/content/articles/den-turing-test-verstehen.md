@@ -2,7 +2,7 @@
 lang: "de"
 title: "Den Turing-Test verstehen"
 slug: "den-turing-test-verstehen"
-excerpt: "Ursprünge und Prinzipien des Turing-Tests In der Welt der künstlichen Intelligenz (KI) und des Computing nimmt der Turing-Test einen herausragenden Platz ein. Hierbei handelt es sich um eine Benchmark-Methode zur Bewertung der Fähigkeit einer Maschine, menschliche Intelligenz zu imitieren. Die Ursprünge und Prinzipien dieses revolutionären Tests reichen bis in die Mitte des 20. Jahrhunderts zurück [&hellip;]"
+excerpt: "Ursprünge und Prinzipien des Turing-Tests In der Welt der künstlichen Intelligenz (KI) und des Computing nimmt der Turing-Test einen herausragenden Platz ein. Hierbei handelt es sich um eine Benchmark-Methode zur Bewertung der Fähigkeit einer Maschine, menschliche Intelligenz zu imitieren. Die Ursprünge und Prinzipien dieses revolutionären Tests reichen bis in die Mitte des 20. Jahrhunderts zurück […]"
 date: "2024-03-09T12:55:36"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["ki-training-und-grundlagen-de"]
@@ -84,7 +84,7 @@ categories: ["ki-training-und-grundlagen-de"]
 
 
 
-<p>&#8211; <strong>Qualität der Antworten</strong> : Sie müssen stimmig sein und natürlich wirken, als kämen sie von einem Menschen.<br>&#8211; <strong>Vielfalt im Gespräch</strong> : Die Fähigkeit der Maschine, an einer Vielzahl von Themen teilzunehmen, weist auf eine Form des Verständnisses oder der Anpassung hin.<br>&#8211; <strong>Umgang mit Unklarheiten</strong> : Eine Maschine muss in der Lage sein, mit den Feinheiten und Nuancen der Sprache umzugehen, einschließlich Metaphern, Humor und kulturellen Bezügen.<br>&#8211; <strong>Emotion und Empathie</strong>: Künstliche Intelligenz sollte eine Form von Empathie oder eine angemessene emotionale Reaktion auf Situationen zeigen.</p>
+<p>– <strong>Qualität der Antworten</strong> : Sie müssen stimmig sein und natürlich wirken, als kämen sie von einem Menschen.<br>– <strong>Vielfalt im Gespräch</strong> : Die Fähigkeit der Maschine, an einer Vielzahl von Themen teilzunehmen, weist auf eine Form des Verständnisses oder der Anpassung hin.<br>– <strong>Umgang mit Unklarheiten</strong> : Eine Maschine muss in der Lage sein, mit den Feinheiten und Nuancen der Sprache umzugehen, einschließlich Metaphern, Humor und kulturellen Bezügen.<br>– <strong>Emotion und Empathie</strong>: Künstliche Intelligenz sollte eine Form von Empathie oder eine angemessene emotionale Reaktion auf Situationen zeigen.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["ki-training-und-grundlagen-de"]
 
 
 
-<p>&#8211; <strong>Völlige Anonymität</strong> : Der Vernehmer sollte keine visuellen oder akustischen Hinweise haben, die ihm helfen könnten, die Entität hinter den Antworten zu identifizieren.<br>&#8211; <strong>Neutrale Kommunikationsschnittstelle</strong> : Antworten müssen über eine Tastatur und einen Bildschirm übermittelt werden, um eine Diskriminierung aufgrund von Stimme oder Handschrift zu vermeiden.</p>
+<p>– <strong>Völlige Anonymität</strong> : Der Vernehmer sollte keine visuellen oder akustischen Hinweise haben, die ihm helfen könnten, die Entität hinter den Antworten zu identifizieren.<br>– <strong>Neutrale Kommunikationsschnittstelle</strong> : Antworten müssen über eine Tastatur und einen Bildschirm übermittelt werden, um eine Diskriminierung aufgrund von Stimme oder Handschrift zu vermeiden.</p>
 
 
 
@@ -104,7 +104,7 @@ categories: ["ki-training-und-grundlagen-de"]
 
 
 
-<p>Bewertungen müssen auf objektiven Kriterien basieren, wobei das subjektive Urteil des menschlichen Interviewers eine zentrale Rolle bei der endgültigen Entscheidung spielt. Entscheidend sind folgende Aspekte:<br>&#8211; <strong>Erfolgsstatistik</strong> : Der Prozentsatz der Fälle, in denen Richter getäuscht werden, ist ein wichtiger Indikator.<br>&#8211; <strong>Bias-Kontrolle</strong> : Die Voreingenommenheit des Fragestellers muss durch eine gute Bewertungsmethode minimiert werden, um die Fairness des Tests sicherzustellen.</p>
+<p>Bewertungen müssen auf objektiven Kriterien basieren, wobei das subjektive Urteil des menschlichen Interviewers eine zentrale Rolle bei der endgültigen Entscheidung spielt. Entscheidend sind folgende Aspekte:<br>– <strong>Erfolgsstatistik</strong> : Der Prozentsatz der Fälle, in denen Richter getäuscht werden, ist ein wichtiger Indikator.<br>– <strong>Bias-Kontrolle</strong> : Die Voreingenommenheit des Fragestellers muss durch eine gute Bewertungsmethode minimiert werden, um die Fairness des Tests sicherzustellen.</p>
 
 
 
@@ -112,7 +112,7 @@ categories: ["ki-training-und-grundlagen-de"]
 
 
 
-<p>Die Interaktionen während des Turing-Tests sollten natürlich und fließend sein und den Ablauf einer echten menschlichen Konversation nachahmen. Folgende Elemente sollten berücksichtigt werden:<br>&#8211; <strong>Reaktivität</strong> : Die Maschine muss Fragen in einem Tempo beantworten, das dem einer normalen menschlichen Konversation ähnelt.<br>&#8211; <strong>Zweiseitige Interaktion</strong> : Die Maschine sollte nicht nur Fragen beantworten, sondern auch Fragen stellen können, um zu zeigen, dass sie dem Gespräch folgt und sich aktiv daran beteiligt.</p>
+<p>Die Interaktionen während des Turing-Tests sollten natürlich und fließend sein und den Ablauf einer echten menschlichen Konversation nachahmen. Folgende Elemente sollten berücksichtigt werden:<br>– <strong>Reaktivität</strong> : Die Maschine muss Fragen in einem Tempo beantworten, das dem einer normalen menschlichen Konversation ähnelt.<br>– <strong>Zweiseitige Interaktion</strong> : Die Maschine sollte nicht nur Fragen beantworten, sondern auch Fragen stellen können, um zu zeigen, dass sie dem Gespräch folgt und sich aktiv daran beteiligt.</p>
 
 
 
@@ -164,7 +164,7 @@ categories: ["ki-training-und-grundlagen-de"]
 
 
 
-<p>&#8211; Ausführliche Gespräche zu bestimmten Themen<br>&#8211; Erstellung origineller künstlerischer Inhalte<br>&#8211; Reaktionen auf unerwartete Ereignisse oder neue Informationen<br>&#8211; Echtzeit-Interaktion mit der Umgebung, beispielsweise über Roboter</p>
+<p>– Ausführliche Gespräche zu bestimmten Themen<br>– Erstellung origineller künstlerischer Inhalte<br>– Reaktionen auf unerwartete Ereignisse oder neue Informationen<br>– Echtzeit-Interaktion mit der Umgebung, beispielsweise über Roboter</p>
 
 
 

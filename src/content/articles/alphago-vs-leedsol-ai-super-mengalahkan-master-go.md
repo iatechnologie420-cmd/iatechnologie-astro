@@ -2,7 +2,7 @@
 lang: "id"
 title: "AlphaGo vs Leedsol: AI super mengalahkan master Go"
 slug: "alphago-vs-leedsol-ai-super-mengalahkan-master-go"
-excerpt: "Bentrokan bersejarah: kecerdasan buatan menantang penguasa Go Dunia Go secara historis didominasi oleh manusia yang menguasainya, hingga terjadi peristiwa penting yang mengguncang paradigma yang sudah mapan. Kecerdasan buatan, alat yang dikembangkan oleh kecerdikan manusia, menerima tantangan untuk mengatasi salah satu permainan strategi paling kompleks dalam sejarah. Bentrokan bersejarah antara sirkuit logis superkomputer dan pemikiran strategis [&hellip;]"
+excerpt: "Bentrokan bersejarah: kecerdasan buatan menantang penguasa Go Dunia Go secara historis didominasi oleh manusia yang menguasainya, hingga terjadi peristiwa penting yang mengguncang paradigma yang sudah mapan. Kecerdasan buatan, alat yang dikembangkan oleh kecerdikan manusia, menerima tantangan untuk mengatasi salah satu permainan strategi paling kompleks dalam sejarah. Bentrokan bersejarah antara sirkuit logis superkomputer dan pemikiran strategis […]"
 date: "2024-03-09T12:53:55"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-3.png"
 categories: ["pelatihan-dan-dasar-dasar-ai-id"]
@@ -10,7 +10,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="AlphaGo Triomphe : Lee Sedol Battu par l&#039;IA!" width="500" height="281" src="https://www.youtube.com/embed/KJ1Me8vHlYY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="AlphaGo Triomphe : Lee Sedol Battu par l'IA!" width="500" height="281" src="https://www.youtube.com/embed/KJ1Me8vHlYY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -96,7 +96,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>Selain itu, pengenalan gagasan intuisi ke dalam kecerdasan buatan juga sangat menentukan. AI telah mulai &#8216;memahami&#8217; pola dan strategi yang kompleks tanpa diprogram secara eksplisit untuk melakukannya. Dia mengembangkan gaya bermain yang inovatif dan sebelumnya tidak diketahui, membuktikan kemampuannya untuk berinovasi dan berkembang secara mandiri.</p>
+<p>Selain itu, pengenalan gagasan intuisi ke dalam kecerdasan buatan juga sangat menentukan. AI telah mulai ‘memahami’ pola dan strategi yang kompleks tanpa diprogram secara eksplisit untuk melakukannya. Dia mengembangkan gaya bermain yang inovatif dan sebelumnya tidak diketahui, membuktikan kemampuannya untuk berinovasi dan berkembang secara mandiri.</p>
 
 
 
@@ -140,7 +140,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>Langkah AlphaGo 37 sangat penting; para ahli berbicara tentang perpindahan &#8220;dari galaksi lain&#8221;, yang sama sekali tidak terduga bagi para profesional Go. Putaran ini merupakan titik kritis dan ilustrasi sempurna dari pendekatan Go yang tidak konvensional.<strong>AlfaGo</strong> berdasarkan pembelajaran mendalam.</p>
+<p>Langkah AlphaGo 37 sangat penting; para ahli berbicara tentang perpindahan “dari galaksi lain”, yang sama sekali tidak terduga bagi para profesional Go. Putaran ini merupakan titik kritis dan ilustrasi sempurna dari pendekatan Go yang tidak konvensional.<strong>AlfaGo</strong> berdasarkan pembelajaran mendalam.</p>
 
 
 

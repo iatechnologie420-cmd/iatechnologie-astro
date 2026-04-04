@@ -2,7 +2,7 @@
 lang: "es"
 title: "¿Por qué ChatGPT no funciona y qué hacer al respecto?"
 slug: "por-que-chatgpt-no-funciona-y-que-hacer-al-respecto"
-excerpt: "¿Por qué ChatGPT no funciona? Cuando utilizas ChatGPT, puedes encontrarte con problemas que hacen que no funcione correctamente. Estos problemas, aunque frustrantes, pueden tener diversas causas. En este artículo, exploraremos algunas razones comunes por las que ChatGPT puede no funcionar correctamente y le brindaremos soluciones para resolverlas. 1. Conexión a Internet inestable Una conexión a [&hellip;]"
+excerpt: "¿Por qué ChatGPT no funciona? Cuando utilizas ChatGPT, puedes encontrarte con problemas que hacen que no funcione correctamente. Estos problemas, aunque frustrantes, pueden tener diversas causas. En este artículo, exploraremos algunas razones comunes por las que ChatGPT puede no funcionar correctamente y le brindaremos soluciones para resolverlas. 1. Conexión a Internet inestable Una conexión a […]"
 date: "2024-03-09T12:15:23"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["aplicaciones-de-ia-es"]
@@ -38,7 +38,7 @@ categories: ["aplicaciones-de-ia-es"]
 
 
 
-<p>&#8211; Asegúrate de estar utilizando la última versión de tu navegador.<br>&#8211; Borre la memoria caché de su navegador para eliminar cualquier dato corrupto que pueda afectar el funcionamiento de ChatGPT.<br>&#8211; Pruebe con otro navegador para ver si el problema persiste. Algunos navegadores pueden tener problemas de compatibilidad con determinadas funciones de ChatGPT.</p>
+<p>– Asegúrate de estar utilizando la última versión de tu navegador.<br>– Borre la memoria caché de su navegador para eliminar cualquier dato corrupto que pueda afectar el funcionamiento de ChatGPT.<br>– Pruebe con otro navegador para ver si el problema persiste. Algunos navegadores pueden tener problemas de compatibilidad con determinadas funciones de ChatGPT.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["aplicaciones-de-ia-es"]
 
 
 
-<p>&#8211; Reduzca el tamaño de su solicitud reduciendo el número de palabras o reformulándola.<br>&#8211; Divide tu solicitud en varias partes más pequeñas y envíalas por separado.<br>&#8211; Tenga paciencia y espere hasta que los servidores de procesamiento hayan terminado de procesar su solicitud anterior antes de enviar una nueva.</p>
+<p>– Reduzca el tamaño de su solicitud reduciendo el número de palabras o reformulándola.<br>– Divide tu solicitud en varias partes más pequeñas y envíalas por separado.<br>– Tenga paciencia y espere hasta que los servidores de procesamiento hayan terminado de procesar su solicitud anterior antes de enviar una nueva.</p>
 
 
 

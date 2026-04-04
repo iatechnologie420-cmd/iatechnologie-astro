@@ -2,7 +2,7 @@
 lang: "pt"
 title: "O que é fragmentação? definição e vantagens"
 slug: "o-que-e-fragmentacao-definicao-e-vantagens"
-excerpt: "Compreendendo a fragmentação: definição e princípios básicos O mundo dos bancos de dados e do armazenamento de dados em grande escala é complexo e está em constante evolução. Para gerir eficazmente volumes de dados cada vez maiores, as arquiteturas de TI devem inovar e encontrar soluções para otimizar o desempenho e a gestão destes dados. [&hellip;]"
+excerpt: "Compreendendo a fragmentação: definição e princípios básicos O mundo dos bancos de dados e do armazenamento de dados em grande escala é complexo e está em constante evolução. Para gerir eficazmente volumes de dados cada vez maiores, as arquiteturas de TI devem inovar e encontrar soluções para otimizar o desempenho e a gestão destes dados. […]"
 date: "2024-03-09T12:33:14"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-3.png"
 categories: ["infraestrutura-e-redes-pt", "tecnologia-e-digital-pt"]

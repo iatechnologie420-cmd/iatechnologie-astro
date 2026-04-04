@@ -2,7 +2,7 @@
 lang: "vi"
 title: "Làm cách nào để tìm tọa độ GPS (Vĩ độ và Kinh độ) trên Google Maps?"
 slug: "lam-cach-nao-de-tim-toa-do-gps-vi-do-va-kinh-do-tren-google-maps"
-excerpt: "CÁC GPS (Hệ thống định vị toàn cầu) là một công nghệ đã trở nên thiết yếu trong cuộc sống hàng ngày của chúng ta. Sử dụng tín hiệu được truyền bởi vệ tinh, hệ thống GPS cho phép chúng tôi xác định chính xác vị trí của mình dưới dạng tọa độ địa lý. [&hellip;]"
+excerpt: "CÁC GPS (Hệ thống định vị toàn cầu) là một công nghệ đã trở nên thiết yếu trong cuộc sống hàng ngày của chúng ta. Sử dụng tín hiệu được truyền bởi vệ tinh, hệ thống GPS cho phép chúng tôi xác định chính xác vị trí của mình dưới dạng tọa độ địa lý. […]"
 date: "2024-03-09T12:04:53"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["cong-nghe-va-ky-thuat-so-vi"]
@@ -65,7 +65,7 @@ categories: ["cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<li>Trong menu xuất hiện, nhấp vào &#8220;Tọa độ là gì?&#8221; hoặc bạn sẽ thấy trực tiếp tọa độ hiển thị trong một cửa sổ bật lên nhỏ.</li>
+<li>Trong menu xuất hiện, nhấp vào “Tọa độ là gì?” hoặc bạn sẽ thấy trực tiếp tọa độ hiển thị trong một cửa sổ bật lên nhỏ.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<p>Để có độ chính xác cao hơn nữa, sau khi nhấp chuột phải vào vị trí mong muốn, bạn có thể tinh chỉnh lựa chọn bằng cách di chuyển con trỏ một chút trước khi chọn &#8220;Thông tin thêm về vị trí này&#8221;. Điều này có thể hữu ích khi tìm tọa độ cho một vị trí rất cụ thể, chẳng hạn như lối vào một tòa nhà hoặc một điểm quan tâm tự nhiên.</p>
+<p>Để có độ chính xác cao hơn nữa, sau khi nhấp chuột phải vào vị trí mong muốn, bạn có thể tinh chỉnh lựa chọn bằng cách di chuyển con trỏ một chút trước khi chọn “Thông tin thêm về vị trí này”. Điều này có thể hữu ích khi tìm tọa độ cho một vị trí rất cụ thể, chẳng hạn như lối vào một tòa nhà hoặc một điểm quan tâm tự nhiên.</p>
 
 
 
@@ -151,7 +151,7 @@ categories: ["cong-nghe-va-ky-thuat-so-vi"]
 
 
 
-<li>Để ghim vị trí, hãy nhấp vào biểu tượng ghim bên cạnh chi tiết liên hệ để thêm vị trí đó vào &#8220;Địa điểm của bạn&#8221; để dễ dàng truy cập sau này.</li>
+<li>Để ghim vị trí, hãy nhấp vào biểu tượng ghim bên cạnh chi tiết liên hệ để thêm vị trí đó vào “Địa điểm của bạn” để dễ dàng truy cập sau này.</li>
 </ol>
 
 

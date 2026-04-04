@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Alan Turing in rojstvo umetne inteligence"
 slug: "alan-turing-in-rojstvo-umetne-inteligence"
-excerpt: "Alan Turing: Ustanovitelj umetne inteligence Alan Turing: Ustanovitelj umetne inteligenceZgodovine umetne inteligence (AI) ni mogoče v celoti opisati, ne da bi omenili ime Alana Turinga, ki ga mnogi smatrajo za ustanovitelja tega področja, ki danes revolucionira toliko vidikov našega vsakdanjega življenja. Njegov prispevek presega preprosto izumljanje; temelji na konceptih in teorijah, ki še vedno predstavljajo [&hellip;]"
+excerpt: "Alan Turing: Ustanovitelj umetne inteligence Alan Turing: Ustanovitelj umetne inteligenceZgodovine umetne inteligence (AI) ni mogoče v celoti opisati, ne da bi omenili ime Alana Turinga, ki ga mnogi smatrajo za ustanovitelja tega področja, ki danes revolucionira toliko vidikov našega vsakdanjega življenja. Njegov prispevek presega preprosto izumljanje; temelji na konceptih in teorijah, ki še vedno predstavljajo […]"
 date: "2024-03-09T12:55:43"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["usposabljanje-in-osnove-ai-sl"]
@@ -10,7 +10,7 @@ categories: ["usposabljanje-in-osnove-ai-sl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Video Alan Turing: Oče umetne inteligence</figcaption></figure>
 
 
@@ -32,7 +32,7 @@ categories: ["usposabljanje-in-osnove-ai-sl"]
 
 
 
-<p>Alan Turing je bil britanski matematik, katerega delo je odločilno vplivalo na razvoj računalništva in umetne inteligence. Med drugo svetovno vojno je njegova predanost dešifriranju nacističnih kod, predvsem s svojim strojem, imenovanim <strong>Bomba</strong>, je veliko prispeval k zmagi zaveznikov. Vendar pa je po svetovnem konfliktu njegovo raziskovanje dobilo resnično revolucionarno razsežnost s pisanjem njegovega znamenitega članka &#8220;Računalniški stroji in inteligenca&#8221; leta 1950.</p>
+<p>Alan Turing je bil britanski matematik, katerega delo je odločilno vplivalo na razvoj računalništva in umetne inteligence. Med drugo svetovno vojno je njegova predanost dešifriranju nacističnih kod, predvsem s svojim strojem, imenovanim <strong>Bomba</strong>, je veliko prispeval k zmagi zaveznikov. Vendar pa je po svetovnem konfliktu njegovo raziskovanje dobilo resnično revolucionarno razsežnost s pisanjem njegovega znamenitega članka “Računalniški stroji in inteligenca” leta 1950.</p>
 
 
 
@@ -192,7 +192,7 @@ categories: ["usposabljanje-in-osnove-ai-sl"]
 
 
 
-<p>&#8211; Dešifriranje kode Enigma<br>&#8211; Zasnova kriptonalitične bombe<br>&#8211; Oblikovanje Turingovega stroja<br>&#8211; Razmislite o konceptu Turingovega testa<br>&#8211; Odprite pot raziskavam na področju umetne inteligence</p>
+<p>– Dešifriranje kode Enigma<br>– Zasnova kriptonalitične bombe<br>– Oblikovanje Turingovega stroja<br>– Razmislite o konceptu Turingovega testa<br>– Odprite pot raziskavam na področju umetne inteligence</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Chief Data Officer (CDO): ​​rola, umiejętności, szkolenia i wynagrodzenie"
 slug: "chief-data-officer-cdo-rola-umiejetnosci-szkolenia-i-wynagrodzenie"
-excerpt: "Strategiczne miejsce Chief Data Officera w firmie W epoce dużych zbiorów danych i ich analizy firmy coraz częściej zdają sobie sprawę ze znaczenia strategicznego zarządzania danymi i ich wykorzystywania. U podstaw tego uznania leży kluczowa rola: Dyrektor ds. danych (CDO). CDO jest niezbędne do zrównoważenia zarządzania, jakości danych, zgodności z przepisami i wykorzystania danych w [&hellip;]"
+excerpt: "Strategiczne miejsce Chief Data Officera w firmie W epoce dużych zbiorów danych i ich analizy firmy coraz częściej zdają sobie sprawę ze znaczenia strategicznego zarządzania danymi i ich wykorzystywania. U podstaw tego uznania leży kluczowa rola: Dyrektor ds. danych (CDO). CDO jest niezbędne do zrównoważenia zarządzania, jakości danych, zgodności z przepisami i wykorzystania danych w […]"
 date: "2024-03-09T12:10:55"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
@@ -10,7 +10,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="The Promise and Peril of the Chief Data &amp; Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="The Promise and Peril of the Chief Data & Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

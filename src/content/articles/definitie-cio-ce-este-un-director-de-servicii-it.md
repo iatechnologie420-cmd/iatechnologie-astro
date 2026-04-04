@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Definiție CIO: ce este un director de servicii IT"
 slug: "definitie-cio-ce-este-un-director-de-servicii-it"
-excerpt: "Rolul și misiunile Directorului Servicii IT Rolul esențial al Directorului Serviciilor IT THE Director Servicii IT, de asemenea cunoscut ca si CIO Sau Director al sistemelor informatice, ocupă un loc strategic în cadrul companiilor moderne. În era digitală, în care informația și tehnologia au devenit nucleul activităților profesionale, înțelegerea responsabilităților și a misiunilor cuiva este [&hellip;]"
+excerpt: "Rolul și misiunile Directorului Servicii IT Rolul esențial al Directorului Serviciilor IT THE Director Servicii IT, de asemenea cunoscut ca si CIO Sau Director al sistemelor informatice, ocupă un loc strategic în cadrul companiilor moderne. În era digitală, în care informația și tehnologia au devenit nucleul activităților profesionale, înțelegerea responsabilităților și a misiunilor cuiva este […]"
 date: "2024-03-09T12:04:41"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-3.png"
 categories: ["infrastructura-si-retele-ro"]

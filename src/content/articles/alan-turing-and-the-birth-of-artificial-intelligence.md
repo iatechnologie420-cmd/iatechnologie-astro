@@ -2,7 +2,7 @@
 lang: "en"
 title: "Alan Turing and the birth of artificial intelligence"
 slug: "alan-turing-and-the-birth-of-artificial-intelligence"
-excerpt: "Alan Turing: Founding Father of Artificial Intelligence Alan Turing: Founding Father of Artificial IntelligenceThe history of artificial intelligence (AI) could not be completely told without mentioning the name of Alan Turing, considered by many to be the founding father of this field which is today revolutionizing so many aspects of our daily lives. His contribution [&hellip;]"
+excerpt: "Alan Turing: Founding Father of Artificial Intelligence Alan Turing: Founding Father of Artificial IntelligenceThe history of artificial intelligence (AI) could not be completely told without mentioning the name of Alan Turing, considered by many to be the founding father of this field which is today revolutionizing so many aspects of our daily lives. His contribution […]"
 date: "2024-03-09T12:52:41"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["ai-training-and-fundamentals-en"]
@@ -10,7 +10,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Video Alan Turing: The Father of AI</figcaption></figure>
 
 
@@ -19,7 +19,7 @@ categories: ["ai-training-and-fundamentals-en"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Alan_Turing_Founding_Father_of_Artificial_Intelligence" >Alan Turing: Founding Father of Artificial Intelligence</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Who_was_Alan_Turing" >Who was Alan Turing?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Turing_and_the_design_of_artificial_intelligence" >Turing and the design of artificial intelligence</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Fundamental_theories_and_imaginary_machines" >Fundamental theories and imaginary machines</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Turings_legacy_to_modern_AI" >Turing&#8217;s legacy to modern AI</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-6" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#The_Turing_machine_Principle_and_influence_on_the_development_of_AI" >The Turing machine: Principle and influence on the development of AI</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#What_is_the_Turing_machine" >What is the Turing machine?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#The_principle_of_the_universal_machine" >The principle of the universal machine</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Impact_on_the_development_of_artificial_intelligence" >Impact on the development of artificial intelligence</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Turings_contribution_during_the_war" >Turing&#8217;s contribution during the war</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Alan_Turing_Pioneer_of_deciphering" >Alan Turing: Pioneer of deciphering</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#From_the_Turing_machine_to_the_birth_of_computing" >From the Turing machine to the birth of computing</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Towards_the_conceptualization_of_artificial_intelligence" >Towards the conceptualization of artificial intelligence</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-14" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#The_Turing_test_and_the_future_of_artificial_intelligence" >The Turing test and the future of artificial intelligence</a></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Alan_Turing_Founding_Father_of_Artificial_Intelligence" >Alan Turing: Founding Father of Artificial Intelligence</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Who_was_Alan_Turing" >Who was Alan Turing?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Turing_and_the_design_of_artificial_intelligence" >Turing and the design of artificial intelligence</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Fundamental_theories_and_imaginary_machines" >Fundamental theories and imaginary machines</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Turings_legacy_to_modern_AI" >Turing’s legacy to modern AI</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-6" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#The_Turing_machine_Principle_and_influence_on_the_development_of_AI" >The Turing machine: Principle and influence on the development of AI</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#What_is_the_Turing_machine" >What is the Turing machine?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#The_principle_of_the_universal_machine" >The principle of the universal machine</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Impact_on_the_development_of_artificial_intelligence" >Impact on the development of artificial intelligence</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Turings_contribution_during_the_war" >Turing’s contribution during the war</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Alan_Turing_Pioneer_of_deciphering" >Alan Turing: Pioneer of deciphering</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#From_the_Turing_machine_to_the_birth_of_computing" >From the Turing machine to the birth of computing</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#Towards_the_conceptualization_of_artificial_intelligence" >Towards the conceptualization of artificial intelligence</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-14" href="/en/alan-turing-and-the-birth-of-artificial-intelligence/#The_Turing_test_and_the_future_of_artificial_intelligence" >The Turing test and the future of artificial intelligence</a></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="Alan_Turing_Founding_Father_of_Artificial_Intelligence"></span>Alan Turing: Founding Father of Artificial Intelligence<span class="ez-toc-section-end"></span></h2>
 
 
@@ -32,7 +32,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Alan Turing was a British mathematician whose work had a decisive impact on the development of computing and artificial intelligence. During the Second World War, his commitment to deciphering Nazi codes, notably with his machine called the <strong>Bomb</strong>, greatly contributed to the victory of the Allies. However, it was after the world conflict that his research took on a truly revolutionary dimension with the writing of his famous article &#8220;Computing Machinery and Intelligence&#8221; in 1950.</p>
+<p>Alan Turing was a British mathematician whose work had a decisive impact on the development of computing and artificial intelligence. During the Second World War, his commitment to deciphering Nazi codes, notably with his machine called the <strong>Bomb</strong>, greatly contributed to the victory of the Allies. However, it was after the world conflict that his research took on a truly revolutionary dimension with the writing of his famous article “Computing Machinery and Intelligence” in 1950.</p>
 
 
 
@@ -62,7 +62,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Turing also introduced the concept of <strong>Turing machine</strong>, an abstract model that can manipulate a series of symbols on a strip according to a set of rules. This concept is considered the main model of computability, which shows the depth and advancement of Turing&#8217;s thoughts at a time when computers as we know them did not yet exist. </p>
+<p>Turing also introduced the concept of <strong>Turing machine</strong>, an abstract model that can manipulate a series of symbols on a strip according to a set of rules. This concept is considered the main model of computability, which shows the depth and advancement of Turing’s thoughts at a time when computers as we know them did not yet exist. </p>
 
 
 
@@ -70,7 +70,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Turings_legacy_to_modern_AI"></span>Turing&#8217;s legacy to modern AI<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Turings_legacy_to_modern_AI"></span>Turing’s legacy to modern AI<span class="ez-toc-section-end"></span></h4>
 
 
 
@@ -78,7 +78,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Some notions and architectures arising from Turing&#8217;s work, such as artificial neural networks and deep learning (<strong>Deep Learning</strong>), today represent the most advanced frontiers of AI, enabling the realization of applications once considered science fiction.</p>
+<p>Some notions and architectures arising from Turing’s work, such as artificial neural networks and deep learning (<strong>Deep Learning</strong>), today represent the most advanced frontiers of AI, enabling the realization of applications once considered science fiction.</p>
 
 
 
@@ -140,11 +140,11 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<figure class="wp-block-table"><table><tbody><tr><td>Influence</td><td>Description</td></tr><tr><td>Algorithmic</td><td>The design of <strong>computer programs</strong> efficient and effective is directly inspired by the Turing machine.</td></tr><tr><td>Calculability</td><td>It made it possible to delineate the capabilities and limits of algorithmic calculation, essential for studying artificial intelligence.</td></tr><tr><td>Modelization</td><td>Many models and techniques in AI are based on the theory of computability resulting from the work of Turing.</td></tr></tbody></table><figcaption class="wp-element-caption">Influence of Turing&#8217;s work</figcaption></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>Influence</td><td>Description</td></tr><tr><td>Algorithmic</td><td>The design of <strong>computer programs</strong> efficient and effective is directly inspired by the Turing machine.</td></tr><tr><td>Calculability</td><td>It made it possible to delineate the capabilities and limits of algorithmic calculation, essential for studying artificial intelligence.</td></tr><tr><td>Modelization</td><td>Many models and techniques in AI are based on the theory of computability resulting from the work of Turing.</td></tr></tbody></table><figcaption class="wp-element-caption">Influence of Turing’s work</figcaption></figure>
 
 
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="Turings_contribution_during_the_war"></span>Turing&#8217;s contribution during the war<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="Turings_contribution_during_the_war"></span>Turing’s contribution during the war<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -160,7 +160,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>During the war, the Allied forces found themselves faced with an immense challenge: deciphering the secret codes generated by the Enigma machine. Alan Turing played a decisive role in this shadow battle by developing the Cryptanalytic Bomb, a device capable of unraveling the mysteries of Enigma. Thanks to this tool and Turing&#8217;s insight, the decryption of enemy messages made it possible to influence the course of the conflict.</p>
+<p>During the war, the Allied forces found themselves faced with an immense challenge: deciphering the secret codes generated by the Enigma machine. Alan Turing played a decisive role in this shadow battle by developing the Cryptanalytic Bomb, a device capable of unraveling the mysteries of Enigma. Thanks to this tool and Turing’s insight, the decryption of enemy messages made it possible to influence the course of the conflict.</p>
 
 
 
@@ -188,11 +188,11 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Here is a list of Alan Turing&#8217;s major contributions:</p>
+<p>Here is a list of Alan Turing’s major contributions:</p>
 
 
 
-<p>&#8211; Decryption of the Enigma code<br>&#8211; Design of the Cryptanalytic Bomb<br>&#8211; Formulation of the Turing machine<br>&#8211; Think about the concept of the Turing test<br>&#8211; Open the path to research in artificial intelligence</p>
+<p>– Decryption of the Enigma code<br>– Design of the Cryptanalytic Bomb<br>– Formulation of the Turing machine<br>– Think about the concept of the Turing test<br>– Open the path to research in artificial intelligence</p>
 
 
 
@@ -212,6 +212,6 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>The emergence of AI technologies is significantly impacting our society, from recommendation systems on streaming platforms to virtual assistants like Apple&#8217;s Siri or Amazon&#8217;s Alexa or even more recently OpenAi&#8217;s ChatGPT</p>
+<p>The emergence of AI technologies is significantly impacting our society, from recommendation systems on streaming platforms to virtual assistants like Apple’s Siri or Amazon’s Alexa or even more recently OpenAi’s ChatGPT</p>
 
 

@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Googlov uglaševalec instrumentov: revolucija za glasbenike?"
 slug: "googlov-uglasevalec-instrumentov-revolucija-za-glasbenike"
-excerpt: "Pomen uglaševanja glasbil Uglasitev je eden najpomembnejših vidikov, ko gre za igranje glasbila. Ne glede na to, ali ste začetnik ali izkušen glasbenik, morate svoj instrument redno uglaševati, da dobite najboljši možni zvok. V tem članku bomo raziskali pomen uglaševanja glasbenih inštrumentov in vam dali nekaj nasvetov, kako zagotoviti, da bo vaš inštrument vedno uglašen, [&hellip;]"
+excerpt: "Pomen uglaševanja glasbil Uglasitev je eden najpomembnejših vidikov, ko gre za igranje glasbila. Ne glede na to, ali ste začetnik ali izkušen glasbenik, morate svoj instrument redno uglaševati, da dobite najboljši možni zvok. V tem članku bomo raziskali pomen uglaševanja glasbenih inštrumentov in vam dali nekaj nasvetov, kako zagotoviti, da bo vaš inštrument vedno uglašen, […]"
 date: "2024-03-09T12:40:32"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["tehnologija-in-digital-sl"]

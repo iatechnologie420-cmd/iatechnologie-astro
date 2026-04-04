@@ -2,7 +2,7 @@
 lang: "id"
 title: "Teorema Bayes dan penggunaannya dalam AI"
 slug: "teorema-bayes-dan-penggunaannya-dalam-ai"
-excerpt: "Singkatnya, itu Teorema Bayes adalah alat yang ampuh untuk memahami probabilitas bersyarat dan untuk menyempurnakan keyakinan kita dengan mempertimbangkan informasi baru. Kesederhanaan matematisnya kontras dengan implikasi dan penerapannya yang luas, menjadikannya subjek dasar yang wajib dibaca oleh siapa pun yang tertarik pada statistik, pengambilan keputusan, dan kecerdasan buatan. Dasar-dasar Inferensi Bayesian aku Inferensi Bayesian adalah [&hellip;]"
+excerpt: "Singkatnya, itu Teorema Bayes adalah alat yang ampuh untuk memahami probabilitas bersyarat dan untuk menyempurnakan keyakinan kita dengan mempertimbangkan informasi baru. Kesederhanaan matematisnya kontras dengan implikasi dan penerapannya yang luas, menjadikannya subjek dasar yang wajib dibaca oleh siapa pun yang tertarik pada statistik, pengambilan keputusan, dan kecerdasan buatan. Dasar-dasar Inferensi Bayesian aku Inferensi Bayesian adalah […]"
 date: "2024-03-09T12:12:29"
 categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 ---
@@ -161,7 +161,7 @@ categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 
 
 
-<p>: Pengklasifikasi probabilistik yang, meskipun namanya &#8216;naif&#8217;, luar biasa karena kesederhanaan dan efektivitasnya, terutama ketika probabilitas fiturnya independen.<strong>Jaringan Bayesian</strong>: Model grafis yang mewakili hubungan probabilistik antara sekumpulan variabel, dan dapat digunakan untuk prediksi, klasifikasi, dan pengambilan keputusan.</p>
+<p>: Pengklasifikasi probabilistik yang, meskipun namanya ‘naif’, luar biasa karena kesederhanaan dan efektivitasnya, terutama ketika probabilitas fiturnya independen.<strong>Jaringan Bayesian</strong>: Model grafis yang mewakili hubungan probabilistik antara sekumpulan variabel, dan dapat digunakan untuk prediksi, klasifikasi, dan pengambilan keputusan.</p>
 
 
 

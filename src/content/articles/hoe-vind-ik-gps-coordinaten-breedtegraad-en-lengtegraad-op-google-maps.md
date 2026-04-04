@@ -2,7 +2,7 @@
 lang: "nl"
 title: "Hoe vind ik GPS-coördinaten (breedtegraad en lengtegraad) op Google Maps?"
 slug: "hoe-vind-ik-gps-coordinaten-breedtegraad-en-lengtegraad-op-google-maps"
-excerpt: "DE GPS (Global Positioning System) is een technologie die essentieel is geworden in ons dagelijks leven. Met behulp van signalen die door satellieten worden uitgezonden, kunnen de GPS-systeem stelt ons in staat onze positie nauwkeurig te bepalen in de vorm van geografische coördinaten. Deze coördinaten worden weergegeven door twee sleutelelementen: de breedtegraad en de Lengtegraad. [&hellip;]"
+excerpt: "DE GPS (Global Positioning System) is een technologie die essentieel is geworden in ons dagelijks leven. Met behulp van signalen die door satellieten worden uitgezonden, kunnen de GPS-systeem stelt ons in staat onze positie nauwkeurig te bepalen in de vorm van geografische coördinaten. Deze coördinaten worden weergegeven door twee sleutelelementen: de breedtegraad en de Lengtegraad. […]"
 date: "2024-03-09T12:04:05"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["technologie-en-digitaal-nl"]
@@ -65,7 +65,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<li>In het menu dat verschijnt, klik je op &#8216;Wat zijn de coördinaten?&#8217; of u ziet de coördinaten direct weergegeven in een kleine pop-up.</li>
+<li>In het menu dat verschijnt, klik je op ‘Wat zijn de coördinaten?’ of u ziet de coördinaten direct weergegeven in een kleine pop-up.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<p>Voor nog meer precisie kunt u, nadat u met de rechtermuisknop op de gewenste locatie heeft geklikt, de selectie verfijnen door de aanwijzer iets te verplaatsen voordat u &#8216;Meer info over deze locatie&#8217; kiest. Dit kan handig zijn bij het vinden van coördinaten voor een zeer specifieke locatie, zoals de ingang van een gebouw of een natuurlijk interessant punt.</p>
+<p>Voor nog meer precisie kunt u, nadat u met de rechtermuisknop op de gewenste locatie heeft geklikt, de selectie verfijnen door de aanwijzer iets te verplaatsen voordat u ‘Meer info over deze locatie’ kiest. Dit kan handig zijn bij het vinden van coördinaten voor een zeer specifieke locatie, zoals de ingang van een gebouw of een natuurlijk interessant punt.</p>
 
 
 
@@ -151,7 +151,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<li>Om de locatie vast te zetten, klikt u op het vastzetpictogram naast de contactgegevens, zodat deze wordt toegevoegd aan &#8216;Uw plaatsen&#8217;, zodat u deze later gemakkelijk kunt openen.</li>
+<li>Om de locatie vast te zetten, klikt u op het vastzetpictogram naast de contactgegevens, zodat deze wordt toegevoegd aan ‘Uw plaatsen’, zodat u deze later gemakkelijk kunt openen.</li>
 </ol>
 
 

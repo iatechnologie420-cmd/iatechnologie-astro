@@ -2,7 +2,7 @@
 lang: "en"
 title: "What is a medical robot? definition and explanation"
 slug: "what-is-a-medical-robot-definition-and-explanation"
-excerpt: "Definition and typology of medical robots The advent of robotics in healthcare has opened up immense possibilities for improving medical care and surgery. These technologies, known as medical robots, are mechanical devices or computer systems capable of performing complex actions with high precision, often under the supervision or direct control of qualified medical personnel. But [&hellip;]"
+excerpt: "Definition and typology of medical robots The advent of robotics in healthcare has opened up immense possibilities for improving medical care and surgery. These technologies, known as medical robots, are mechanical devices or computer systems capable of performing complex actions with high precision, often under the supervision or direct control of qualified medical personnel. But […]"
 date: "2024-03-09T12:23:52"
 categories: ["ai-applications-en"]
 ---
@@ -25,7 +25,7 @@ categories: ["ai-applications-en"]
 
 
 
-<p>To begin, let&#8217;s look at the very definition of a <strong>medical robot</strong>. This term refers to a machine that is programmed to perform a variety of medical tasks, such as surgery, disease screening, rehabilitation, or assistance to the elderly or disabled. These machines can vary widely in complexity and autonomy.</p>
+<p>To begin, let’s look at the very definition of a <strong>medical robot</strong>. This term refers to a machine that is programmed to perform a variety of medical tasks, such as surgery, disease screening, rehabilitation, or assistance to the elderly or disabled. These machines can vary widely in complexity and autonomy.</p>
 
 
 
@@ -159,7 +159,7 @@ categories: ["ai-applications-en"]
 
 
 
-<p>Ethics in the field of <strong>medical robots</strong> focuses on several major areas. First, the notion of liability: in the event of a medical robot&#8217;s failure, who is held responsible? The manufacturer, the medical personnel who operate it or the robot itself? This question is complex and touches on the foundations of the law.</p>
+<p>Ethics in the field of <strong>medical robots</strong> focuses on several major areas. First, the notion of liability: in the event of a medical robot’s failure, who is held responsible? The manufacturer, the medical personnel who operate it or the robot itself? This question is complex and touches on the foundations of the law.</p>
 
 
 

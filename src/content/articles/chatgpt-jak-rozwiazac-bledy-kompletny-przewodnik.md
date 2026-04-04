@@ -2,7 +2,7 @@
 lang: "pl"
 title: "ChatGPT: jak rozwiązać błędy? Kompletny przewodnik"
 slug: "chatgpt-jak-rozwiazac-bledy-kompletny-przewodnik"
-excerpt: "Poznaj i rozwiąż typowe błędy ChatGPT Sztuczna inteligencja w dalszym ciągu robi ogromne postępy w rozwoju i udoskonaleniach, ale jest daleka od doskonałości. W związku z tym czasami zdarzały się niedopuszczalne błędy, które dyrektor generalny Google nie omieszkaj rozpoznać. Niezależnie od tego, czy chodzi o przetwarzanie informacji, generowanie treści, czy nawet gdy: sędzia wydaje w [&hellip;]"
+excerpt: "Poznaj i rozwiąż typowe błędy ChatGPT Sztuczna inteligencja w dalszym ciągu robi ogromne postępy w rozwoju i udoskonaleniach, ale jest daleka od doskonałości. W związku z tym czasami zdarzały się niedopuszczalne błędy, które dyrektor generalny Google nie omieszkaj rozpoznać. Niezależnie od tego, czy chodzi o przetwarzanie informacji, generowanie treści, czy nawet gdy: sędzia wydaje w […]"
 date: "2024-03-09T11:51:33"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["aplikacje-ai-pl"]
@@ -65,7 +65,7 @@ categories: ["aplikacje-ai-pl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original &#8211; OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original – OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

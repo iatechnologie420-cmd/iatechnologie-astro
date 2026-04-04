@@ -2,7 +2,7 @@
 lang: "en"
 title: "Everything you need to know about the profession of Quant or quantitative analyst"
 slug: "everything-you-need-to-know-about-the-profession-of-quant-or-quantitative-analyst"
-excerpt: "Introduction to the world of quantitative finance Quantitative finance is a specialized field of finance that uses mathematical models, statistics and computer techniques to understand and predict the behavior of financial markets. In this article, we will explore this field by discussing the tools it uses, its applications as well as the skills required to [&hellip;]"
+excerpt: "Introduction to the world of quantitative finance Quantitative finance is a specialized field of finance that uses mathematical models, statistics and computer techniques to understand and predict the behavior of financial markets. In this article, we will explore this field by discussing the tools it uses, its applications as well as the skills required to […]"
 date: "2024-03-09T11:55:22"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-3.png"
 categories: ["technology-and-digital-en"]
@@ -382,7 +382,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>With the rapid advancement of technology and the complexity of financial markets, the quant profession is destined to grow. Quantitative analysts will play a key role in financial innovation, particularly through the integration of artificial intelligence in the construction of increasingly sophisticated investment strategies. Quants&#8217; ability to adapt and innovate will determine their success in an ever-changing financial landscape.</p>
+<p>With the rapid advancement of technology and the complexity of financial markets, the quant profession is destined to grow. Quantitative analysts will play a key role in financial innovation, particularly through the integration of artificial intelligence in the construction of increasingly sophisticated investment strategies. Quants’ ability to adapt and innovate will determine their success in an ever-changing financial landscape.</p>
 
 
 

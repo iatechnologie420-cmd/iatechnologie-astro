@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Bayesov izrek in njegova uporaba v AI"
 slug: "bayesov-izrek-in-njegova-uporaba-v-ai"
-excerpt: "Uvod v Bayesov izrek THE Bayesov izrek je temeljna formula v verjetnosti in statistiki, ki opisuje posodabljanje naših prepričanj ob prisotnosti novih informacij. Ta izrek, imenovan v čast prečastitemu Thomasu Bayesu, igra ključno vlogo na številnih področjih, od strojnega učenja do odločanja v negotovosti. Bistvo Bayesovega izreka Srce od Bayesov izrek je pogojna verjetnost. V [&hellip;]"
+excerpt: "Uvod v Bayesov izrek THE Bayesov izrek je temeljna formula v verjetnosti in statistiki, ki opisuje posodabljanje naših prepričanj ob prisotnosti novih informacij. Ta izrek, imenovan v čast prečastitemu Thomasu Bayesu, igra ključno vlogo na številnih področjih, od strojnega učenja do odločanja v negotovosti. Bistvo Bayesovega izreka Srce od Bayesov izrek je pogojna verjetnost. V […]"
 date: "2024-03-09T12:14:34"
 categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 ---
@@ -93,7 +93,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>L&#8217;<strong>Bayesov sklep</strong> je veja statistike, ki zagotavlja teoretični okvir za interpretacijo dogodkov v smislu verjetnosti. Temelji na <strong>Bayesov izrek</strong>, ki je formula za posodabljanje verjetnosti dogodka glede na nove podatke. </p>
+<p>L’<strong>Bayesov sklep</strong> je veja statistike, ki zagotavlja teoretični okvir za interpretacijo dogodkov v smislu verjetnosti. Temelji na <strong>Bayesov izrek</strong>, ki je formula za posodabljanje verjetnosti dogodka glede na nove podatke. </p>
 
 
 
@@ -187,7 +187,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>L&#8217;<strong>Bayesov sklep</strong> zagotavlja močan okvir za sklepanje z negotovostjo in skladno vključevanje novih informacij. Njegove uporabe so obsežne in njegova uporaba na naprednih področjih, kot je npr<strong>umetna inteligenca</strong> kje za <strong>veliki podatki</strong> nenehno raste. Razumevanje njenih temeljnih principov je zato nujno za tiste, ki želijo svet razlagati skozi prizmo verjetnosti.</p>
+<p>L’<strong>Bayesov sklep</strong> zagotavlja močan okvir za sklepanje z negotovostjo in skladno vključevanje novih informacij. Njegove uporabe so obsežne in njegova uporaba na naprednih področjih, kot je npr<strong>umetna inteligenca</strong> kje za <strong>veliki podatki</strong> nenehno raste. Razumevanje njenih temeljnih principov je zato nujno za tiste, ki želijo svet razlagati skozi prizmo verjetnosti.</p>
 
 
 
@@ -232,7 +232,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 <ul class="wp-block-list">
-<li><strong>Naivni Bayes</strong>: Verjetnotni klasifikator, ki je kljub &#8216;naivnemu&#8217; imenu izjemen zaradi svoje preprostosti in učinkovitosti, še posebej, če je verjetnost značilnosti neodvisna.</li>
+<li><strong>Naivni Bayes</strong>: Verjetnotni klasifikator, ki je kljub ‘naivnemu’ imenu izjemen zaradi svoje preprostosti in učinkovitosti, še posebej, če je verjetnost značilnosti neodvisna.</li>
 
 
 

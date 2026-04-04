@@ -2,7 +2,7 @@
 lang: "es"
 title: "Deepfake: todo lo que necesitas saber sobre la nueva amenaza vinculada a la IA"
 slug: "deepfake-todo-lo-que-necesitas-saber-sobre-la-nueva-amenaza-vinculada-a-la-ia"
-excerpt: "Definición y funcionamiento de Deepfake Definición de deepfake El término profundo es una contracción de las palabras inglesas &#8220;deep learning&#8221; y &#8220;fake&#8221;. Esta tecnología se basa en algoritmos.inteligencia artificial especialmente diseñado para la creación o edición de contenidos audiovisuales, incluidos vídeos y pistas de audio. El resultado suele ser tan convincente que puede engañar a [&hellip;]"
+excerpt: "Definición y funcionamiento de Deepfake Definición de deepfake El término profundo es una contracción de las palabras inglesas “deep learning” y “fake”. Esta tecnología se basa en algoritmos.inteligencia artificial especialmente diseñado para la creación o edición de contenidos audiovisuales, incluidos vídeos y pistas de audio. El resultado suele ser tan convincente que puede engañar a […]"
 date: "2024-03-09T12:48:19"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Deepfake-tout-savoir-sur-la-nouvelle-menace-liee-a-lIA-3.png"
 categories: ["innovaciones-disruptivas-y-emergentes-es", "tecnologia-y-digital-es"]
@@ -28,7 +28,7 @@ categories: ["innovaciones-disruptivas-y-emergentes-es", "tecnologia-y-digital-e
 
 
 
-<p>El término <strong>profundo</strong> es una contracción de las palabras inglesas &#8220;deep learning&#8221; y &#8220;fake&#8221;. Esta tecnología se basa en algoritmos.<strong>inteligencia artificial</strong> especialmente diseñado para la creación o edición de contenidos audiovisuales, incluidos vídeos y pistas de audio. El resultado suele ser tan convincente que puede engañar a la vista y al oído, haciéndolo indetectable a primera vista para la mayoría de las personas. El objetivo de los deepfakes puede ser lúdico, artístico, pero también malicioso, como por ejemplo difundir información falsa o dañar la reputación de alguien.</p>
+<p>El término <strong>profundo</strong> es una contracción de las palabras inglesas “deep learning” y “fake”. Esta tecnología se basa en algoritmos.<strong>inteligencia artificial</strong> especialmente diseñado para la creación o edición de contenidos audiovisuales, incluidos vídeos y pistas de audio. El resultado suele ser tan convincente que puede engañar a la vista y al oído, haciéndolo indetectable a primera vista para la mayoría de las personas. El objetivo de los deepfakes puede ser lúdico, artístico, pero también malicioso, como por ejemplo difundir información falsa o dañar la reputación de alguien.</p>
 
 
 

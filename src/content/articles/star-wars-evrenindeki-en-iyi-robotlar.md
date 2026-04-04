@@ -2,7 +2,7 @@
 lang: "tr"
 title: "Star Wars evrenindeki en iyi robotlar"
 slug: "star-wars-evrenindeki-en-iyi-robotlar"
-excerpt: "Mekanik efsaneler: C-3PO ve R2-D2 Efsanenin en sembolik droidleri olarak kabul edildi Yıldız Savaşları, C-3PO ve R2-D2, benzersiz kişilikleri, hikayeleri ve bölümler boyunca oynadıkları önemli rollerle nesiller boyu hayranlara damgasını vurdu. Bu makale, bu mekanik efsanelerin dünyasını derinlemesine inceleyerek onların özünü ve kültürel etkilerini ortaya çıkarıyor. C-3PO: Çok Dilli Droid Protokolü Genellikle Threepio olarak adlandırılan [&hellip;]"
+excerpt: "Mekanik efsaneler: C-3PO ve R2-D2 Efsanenin en sembolik droidleri olarak kabul edildi Yıldız Savaşları, C-3PO ve R2-D2, benzersiz kişilikleri, hikayeleri ve bölümler boyunca oynadıkları önemli rollerle nesiller boyu hayranlara damgasını vurdu. Bu makale, bu mekanik efsanelerin dünyasını derinlemesine inceleyerek onların özünü ve kültürel etkilerini ortaya çıkarıyor. C-3PO: Çok Dilli Droid Protokolü Genellikle Threepio olarak adlandırılan […]"
 date: "2024-03-09T12:24:02"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["teknoloji-ve-dijital-tr"]
@@ -10,7 +10,7 @@ categories: ["teknoloji-ve-dijital-tr"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -48,7 +48,7 @@ categories: ["teknoloji-ve-dijital-tr"]
 
 
 
-<p>Artoo&#8217;nun önemli bilgileri saklama, karmaşık bilgisayar sistemlerinde gezinme ve başkalarının gidemeyeceği yerlere girme yeteneği onu sessiz ama vazgeçilmez bir kahraman yapıyor. Bir dizi elektronik düdükten oluşan ünlü &#8220;sesi&#8221;, kelimeler olmadan anlamlı iletişime izin vererek halkla ve destandaki arkadaşlarıyla güçlü bir duygusal bağ yaratıyor.</p>
+<p>Artoo’nun önemli bilgileri saklama, karmaşık bilgisayar sistemlerinde gezinme ve başkalarının gidemeyeceği yerlere girme yeteneği onu sessiz ama vazgeçilmez bir kahraman yapıyor. Bir dizi elektronik düdükten oluşan ünlü “sesi”, kelimeler olmadan anlamlı iletişime izin vererek halkla ve destandaki arkadaşlarıyla güçlü bir duygusal bağ yaratıyor.</p>
 
 
 
@@ -56,7 +56,7 @@ categories: ["teknoloji-ve-dijital-tr"]
 
 
 
-<p>Her ne kadar kökten farklı olsalar da, C-3PO ve R2-D2&#8217;nin tamamlayıcılığı başarılarının temel unsurlarından biridir. Arkadaşlıkları ve etkileşimleri, bölümleri boyunca sürekli bir anlatı akışı sağlar. <strong>Yıldız Savaşları</strong>. C-3PO&#8217;nun ciddiyeti ve endişeleri, R2-D2&#8217;nin sessiz cesaretini mükemmel bir şekilde dengeleyerek galaktik destanda hafiflik ve insanlık anları sağlıyor.</p>
+<p>Her ne kadar kökten farklı olsalar da, C-3PO ve R2-D2’nin tamamlayıcılığı başarılarının temel unsurlarından biridir. Arkadaşlıkları ve etkileşimleri, bölümleri boyunca sürekli bir anlatı akışı sağlar. <strong>Yıldız Savaşları</strong>. C-3PO’nun ciddiyeti ve endişeleri, R2-D2’nin sessiz cesaretini mükemmel bir şekilde dengeleyerek galaktik destanda hafiflik ve insanlık anları sağlıyor.</p>
 
 
 
@@ -64,7 +64,7 @@ categories: ["teknoloji-ve-dijital-tr"]
 
 
 
-<p>C-3PO ve R2-D2&#8217;nin varlığı ekranların ötesine geçerek popüler kültüre demir attı. Pek çok başka medyada da referans olarak kullanılmışlar, ticari ikonlar haline gelmişler ve gerçek hayattaki robotların tasarımına ilham kaynağı olmuşlardır. Dostluk, sadakat ve cesaret gibi evrensel temaları yansıtarak bu sentetik karakterleri şaşırtıcı derecede insani ve zamansız hale getiriyorlar.</p>
+<p>C-3PO ve R2-D2’nin varlığı ekranların ötesine geçerek popüler kültüre demir attı. Pek çok başka medyada da referans olarak kullanılmışlar, ticari ikonlar haline gelmişler ve gerçek hayattaki robotların tasarımına ilham kaynağı olmuşlardır. Dostluk, sadakat ve cesaret gibi evrensel temaları yansıtarak bu sentetik karakterleri şaşırtıcı derecede insani ve zamansız hale getiriyorlar.</p>
 
 
 
@@ -72,7 +72,7 @@ categories: ["teknoloji-ve-dijital-tr"]
 
 
 
-<p>Efsane <strong>Yıldız Savaşları</strong>Bu sadece Jedi&#8217;ların Sith&#8217;e karşı destansı hikayeleri değil; aynı zamanda ünlü bir <strong>karakter galerisi</strong> Hayranların hayal gücünü harekete geçiren bu oyunlar arasında droidlerin özel bir yeri var. BB-8 ve D-O, çok çok uzaklardaki bu galaksinin sevilen droidlerinin panteonuna katılan en yeni simgeler.</p>
+<p>Efsane <strong>Yıldız Savaşları</strong>Bu sadece Jedi’ların Sith’e karşı destansı hikayeleri değil; aynı zamanda ünlü bir <strong>karakter galerisi</strong> Hayranların hayal gücünü harekete geçiren bu oyunlar arasında droidlerin özel bir yeri var. BB-8 ve D-O, çok çok uzaklardaki bu galaksinin sevilen droidlerinin panteonuna katılan en yeni simgeler.</p>
 
 
 
@@ -80,11 +80,11 @@ categories: ["teknoloji-ve-dijital-tr"]
 
 
 
-<p>BB-8 ilk kez &#8220;<strong>Yıldız Savaşları: Bölüm VII &#8211; Güç Uyanıyor</strong>&#8221; 2015&#8217;te. Bu astromekanik droid, benzersiz küresel şekli, çevik hareket kabiliyeti ve neşeli kişiliği nedeniyle hızla hayranların favorisi haline geldi. BB-8, yeni üçlemenin kahramanlarından birine ait, <strong>Poe Dameron</strong>ve birlikte galaksideki birçok macerayı paylaşıyorlar.</p>
+<p>BB-8 ilk kez “<strong>Yıldız Savaşları: Bölüm VII – Güç Uyanıyor</strong>” 2015’te. Bu astromekanik droid, benzersiz küresel şekli, çevik hareket kabiliyeti ve neşeli kişiliği nedeniyle hızla hayranların favorisi haline geldi. BB-8, yeni üçlemenin kahramanlarından birine ait, <strong>Poe Dameron</strong>ve birlikte galaksideki birçok macerayı paylaşıyorlar.</p>
 
 
 
-<p>BB-8&#8217;in tasarımı, insansı görünüme sahip droid geleneğini kırıyor ve yeni bir hareket mekaniği sunuyor. Mıknatıs kullanımı sayesinde dönen gövdesinin üzerinde süzülen başı, ifade ve işlevselliği birleştiren unutulmaz sekanslar sağlıyor.</p>
+<p>BB-8’in tasarımı, insansı görünüme sahip droid geleneğini kırıyor ve yeni bir hareket mekaniği sunuyor. Mıknatıs kullanımı sayesinde dönen gövdesinin üzerinde süzülen başı, ifade ve işlevselliği birleştiren unutulmaz sekanslar sağlıyor.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["teknoloji-ve-dijital-tr"]
 
 
 
-<p>D-O ilk kez &#8220;<strong>Yıldız Savaşları: Bölüm IX &#8211; Skywalker&#8217;ın Yükselişi</strong>&#8221; 2019&#8217;da piyasaya sürüldü. Tek tekerlek üzerindeki bu küçük droid, insanları hareket ettirme yeteneğiyle etkiliyor. Bir çocuk oyuncağını andıran şekli ve karakteristik ıslık sesiyle hepimizin sahip olmak isteyeceği yeni arkadaşı temsil ediyor.</p>
+<p>D-O ilk kez “<strong>Yıldız Savaşları: Bölüm IX – Skywalker’ın Yükselişi</strong>” 2019’da piyasaya sürüldü. Tek tekerlek üzerindeki bu küçük droid, insanları hareket ettirme yeteneğiyle etkiliyor. Bir çocuk oyuncağını andıran şekli ve karakteristik ıslık sesiyle hepimizin sahip olmak isteyeceği yeni arkadaşı temsil ediyor.</p>
 
 
 

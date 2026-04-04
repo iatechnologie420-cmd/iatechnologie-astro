@@ -2,7 +2,7 @@
 lang: "lt"
 title: "4G antenos: kaip geriau užfiksuoti 4G patalpose?"
 slug: "4g-antenos-kaip-geriau-uzfiksuoti-4g-patalpose"
-excerpt: "Supraskite, kaip veikia 4G ir jo ribos Kas yra 4G? Technologijos 4G, taip pat žinomas kaip 4 karta mobiliųjų telekomunikacijų standartų, yra tęsinys 3G ir yra prieš labai neseną 5G. Jis siūlo didelės spartos mobiliojo interneto ryšį, leidžiantį naudotis geresniu duomenų perdavimu. Tai apima didelės raiškos vaizdo įrašų srautinį perdavimą, interneto naršymą dideliu greičiu ir [&hellip;]"
+excerpt: "Supraskite, kaip veikia 4G ir jo ribos Kas yra 4G? Technologijos 4G, taip pat žinomas kaip 4 karta mobiliųjų telekomunikacijų standartų, yra tęsinys 3G ir yra prieš labai neseną 5G. Jis siūlo didelės spartos mobiliojo interneto ryšį, leidžiantį naudotis geresniu duomenų perdavimu. Tai apima didelės raiškos vaizdo įrašų srautinį perdavimą, interneto naršymą dideliu greičiu ir […]"
 date: "2024-03-09T12:16:28"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
 categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]

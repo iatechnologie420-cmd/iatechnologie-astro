@@ -2,7 +2,7 @@
 lang: "lt"
 title: "ALM arba programos gyvavimo ciklo valdymas: apibrėžimas"
 slug: "alm-arba-programos-gyvavimo-ciklo-valdymas-apibrezimas"
-excerpt: "Pagrindai L&#8217;Gyvenimo ciklo valdymo programa (ALM) yra sisteminga programinės įrangos kūrimo valdymo ir valdymo sistema. Ji apima praktiką, procesus ir įrankius, kurie leidžia komandoms valdyti programos gyvavimo ciklą nuo sumanymo iki išėjimo į pensiją. Pažvelkime į ALM komponentus ir svarbą šiuolaikinėje programinės įrangos kūrime. Kas yra ALM? ALM reiškia praktikos ir procesų tęstinumą kuriant ir [&hellip;]"
+excerpt: "Pagrindai L’Gyvenimo ciklo valdymo programa (ALM) yra sisteminga programinės įrangos kūrimo valdymo ir valdymo sistema. Ji apima praktiką, procesus ir įrankius, kurie leidžia komandoms valdyti programos gyvavimo ciklą nuo sumanymo iki išėjimo į pensiją. Pažvelkime į ALM komponentus ir svarbą šiuolaikinėje programinės įrangos kūrime. Kas yra ALM? ALM reiškia praktikos ir procesų tęstinumą kuriant ir […]"
 date: "2024-03-09T12:10:08"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ALM-ou-Application-Lifecycle-Management-quest-ce-que-cest-1-3.png"
 categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
@@ -18,7 +18,7 @@ categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>            L&#8217;<strong>Gyvenimo ciklo valdymo programa</strong> (ALM) yra sisteminga programinės įrangos kūrimo valdymo ir valdymo sistema. Ji apima praktiką, procesus ir įrankius, kurie leidžia komandoms valdyti programos gyvavimo ciklą nuo sumanymo iki išėjimo į pensiją. Pažvelkime į ALM komponentus ir svarbą šiuolaikinėje programinės įrangos kūrime.</p>
+<p>            L’<strong>Gyvenimo ciklo valdymo programa</strong> (ALM) yra sisteminga programinės įrangos kūrimo valdymo ir valdymo sistema. Ji apima praktiką, procesus ir įrankius, kurie leidžia komandoms valdyti programos gyvavimo ciklą nuo sumanymo iki išėjimo į pensiją. Pažvelkime į ALM komponentus ir svarbą šiuolaikinėje programinės įrangos kūrime.</p>
 
 
 
@@ -80,7 +80,7 @@ categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>            Daugelis įrankių palaiko ALM procesus, pvz <strong>versijų valdymas</strong> (su <strong>Git</strong> Arba <strong>SVN</strong>), L&#8217;<strong>nuolatinė integracija</strong> (<strong>Jenkinsas</strong>, <strong>CircleCI</strong>), THE <strong>nuolatinis dislokavimas</strong>, THE <strong>klaidų sekimas</strong> ir sistemos <strong>dokumentų tvarkymas</strong>. Agile praktika, pvz <strong>Scrum</strong> Arba <strong>Kanbanas</strong>, taip pat atlieka esminį vaidmenį pritaikant ALM prie dinamiškos plėtros aplinkos.</p>
+<p>            Daugelis įrankių palaiko ALM procesus, pvz <strong>versijų valdymas</strong> (su <strong>Git</strong> Arba <strong>SVN</strong>), L’<strong>nuolatinė integracija</strong> (<strong>Jenkinsas</strong>, <strong>CircleCI</strong>), THE <strong>nuolatinis dislokavimas</strong>, THE <strong>klaidų sekimas</strong> ir sistemos <strong>dokumentų tvarkymas</strong>. Agile praktika, pvz <strong>Scrum</strong> Arba <strong>Kanbanas</strong>, taip pat atlieka esminį vaidmenį pritaikant ALM prie dinamiškos plėtros aplinkos.</p>
 
 
 
@@ -190,6 +190,6 @@ categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>L&#8217;<strong>ALM</strong> praktikoje yra esminis veiksnys, užtikrinantis taikomųjų programų sėkmę ir tvarumą šiandieninėje technologijų aplinkoje. Apgalvotas įgyvendinimas ir gerai integruota geriausia praktika gali padėti pasiekti aukštą našumo ir galutinio vartotojo pasitenkinimo lygį.</p>
+<p>L’<strong>ALM</strong> praktikoje yra esminis veiksnys, užtikrinantis taikomųjų programų sėkmę ir tvarumą šiandieninėje technologijų aplinkoje. Apgalvotas įgyvendinimas ir gerai integruota geriausia praktika gali padėti pasiekti aukštą našumo ir galutinio vartotojo pasitenkinimo lygį.</p>
 
 

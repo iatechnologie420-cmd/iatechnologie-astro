@@ -2,7 +2,7 @@
 lang: "de"
 title: "Wie groß und schwer ist Mark Zuckerberg?"
 slug: "wie-gros-und-schwer-ist-mark-zuckerberg"
-excerpt: "Mark Zuckerbergs Größe: Mythos oder Realität? Die Kontroverse um seine Größe Seit mehreren Jahren ist die Frage nach der Größe von Mark Zuckerberg, dem Gründer von Facebook, Gegenstand zahlreicher Spekulationen und Debatten. Einige behaupten, es sei kleiner, als es aussieht, während andere behaupten, es sei tatsächlich ziemlich groß. Was ist also die Wahrheit über Mark [&hellip;]"
+excerpt: "Mark Zuckerbergs Größe: Mythos oder Realität? Die Kontroverse um seine Größe Seit mehreren Jahren ist die Frage nach der Größe von Mark Zuckerberg, dem Gründer von Facebook, Gegenstand zahlreicher Spekulationen und Debatten. Einige behaupten, es sei kleiner, als es aussieht, während andere behaupten, es sei tatsächlich ziemlich groß. Was ist also die Wahrheit über Mark […]"
 date: "2024-03-09T12:35:07"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quelle-est-la-taille-et-le-poids-de-Mark-Zuckerberg-.png"
 categories: ["technologie-und-digital-de"]

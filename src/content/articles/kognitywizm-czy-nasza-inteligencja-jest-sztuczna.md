@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Kognitywizm: czy nasza inteligencja jest sztuczna?"
 slug: "kognitywizm-czy-nasza-inteligencja-jest-sztuczna"
-excerpt: "Geneza kognitywizmu i inteligencji człowieka Początki kognitywizmu TO kognitywizm to podejście w psychologii skupiające się na wewnętrznych mechanizmach myślenia, traktujące ludzki umysł jako system przetwarzania informacji. Początki tego podejścia sięgają głównie lat 50. i 60. XX wieku, jako reakcja na bardzo dominujący wówczas behawioryzm, skupiający się wyłącznie na zachowaniach obserwowalnych, zaniedbując wewnętrzne procesy psychiczne. TO [&hellip;]"
+excerpt: "Geneza kognitywizmu i inteligencji człowieka Początki kognitywizmu TO kognitywizm to podejście w psychologii skupiające się na wewnętrznych mechanizmach myślenia, traktujące ludzki umysł jako system przetwarzania informacji. Początki tego podejścia sięgają głównie lat 50. i 60. XX wieku, jako reakcja na bardzo dominujący wówczas behawioryzm, skupiający się wyłącznie na zachowaniach obserwowalnych, zaniedbując wewnętrzne procesy psychiczne. TO […]"
 date: "2024-03-09T12:20:16"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["szkolenia-i-podstawy-ai-pl"]
@@ -38,7 +38,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<p>            L&#8217;<strong>ludzka inteligencja</strong> to złożona zdolność, która obejmuje różnorodne umiejętności, takie jak rozwiązywanie problemów, rozumienie, uczenie się, dostosowywanie się do nowych kontekstów, kreatywność oraz manipulowanie symbolami i koncepcjami. W ujęciu kognitywistycznym inteligencję ludzką często postrzega się jako wynik procesów poznawczych, które można rozłożyć i przeanalizować naukowo.</p>
+<p>            L’<strong>ludzka inteligencja</strong> to złożona zdolność, która obejmuje różnorodne umiejętności, takie jak rozwiązywanie problemów, rozumienie, uczenie się, dostosowywanie się do nowych kontekstów, kreatywność oraz manipulowanie symbolami i koncepcjami. W ujęciu kognitywistycznym inteligencję ludzką często postrzega się jako wynik procesów poznawczych, które można rozłożyć i przeanalizować naukowo.</p>
 
 
 

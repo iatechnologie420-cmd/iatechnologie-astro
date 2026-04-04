@@ -1,8 +1,8 @@
 ---
 lang: "pl"
-title: "Bycie NPC na Tiktoku i w prawdziwym życiu&#8230;?"
+title: "Bycie NPC na Tiktoku i w prawdziwym życiu…?"
 slug: "bycie-npc-na-tiktoku-i-w-prawdziwym-zyciu"
-excerpt: "Fenomen „kontrolerów NPC” na TikToku W nieskończonym wszechświecie TIK Tok, uwagę użytkowników przykuło dość osobliwe zjawisko: „ Kontrolerzy NPC » (Postacie niezależne). Wyrażenie „NPC”, które wcześniej ograniczało się do gier wideo, wkrada się teraz do żargonu mediów społecznościowych, definiując doświadczenie łączące rzeczywistość rozszerzoną i interakcję społeczną. Ale co tak naprawdę kryje się za tym szaleństwem [&hellip;]"
+excerpt: "Fenomen „kontrolerów NPC” na TikToku W nieskończonym wszechświecie TIK Tok, uwagę użytkowników przykuło dość osobliwe zjawisko: „ Kontrolerzy NPC » (Postacie niezależne). Wyrażenie „NPC”, które wcześniej ograniczało się do gier wideo, wkrada się teraz do żargonu mediów społecznościowych, definiując doświadczenie łączące rzeczywistość rozszerzoną i interakcję społeczną. Ale co tak naprawdę kryje się za tym szaleństwem […]"
 date: "2024-03-09T12:04:19"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Elles-se-laissent-controler-comme-des-PNJ-sur-TikTok-et-ca-rapporte-gros-3.png"
 categories: ["media-i-platformy-cyfrowe-pl", "technologia-i-cyfrowosc-pl"]

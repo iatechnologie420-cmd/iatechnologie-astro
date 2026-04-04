@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Master Data Manager: rola, umiejętności, szkolenia i wynagrodzenie"
 slug: "master-data-manager-rola-umiejetnosci-szkolenia-i-wynagrodzenie"
-excerpt: "Kluczowa rola Master Data Managera w zarządzaniu danymi W świecie, w którym dane stały się głównym zasobem strategicznym przedsiębiorstw, zarządzanie danymi jest niezbędne do zapewnienia jakości, bezpieczeństwa i skuteczności informacji. W sercu tego zarządzania znajduje się Główny menedżer danych (MDM) odgrywa kluczową rolę. Przeanalizujmy wspólnie obowiązki i skutki tej strategicznej pozycji. Co to jest zarządzanie [&hellip;]"
+excerpt: "Kluczowa rola Master Data Managera w zarządzaniu danymi W świecie, w którym dane stały się głównym zasobem strategicznym przedsiębiorstw, zarządzanie danymi jest niezbędne do zapewnienia jakości, bezpieczeństwa i skuteczności informacji. W sercu tego zarządzania znajduje się Główny menedżer danych (MDM) odgrywa kluczową rolę. Przeanalizujmy wspólnie obowiązki i skutki tej strategicznej pozycji. Co to jest zarządzanie […]"
 date: "2024-03-09T12:16:55"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 ---
@@ -111,7 +111,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>Master Data Manager musi stale stawiać czoła nowym wyzwaniom, związanym w szczególności z rozwojem technologicznym m.in <strong>duże dane</strong>, L&#8217;<strong>sztuczna inteligencja</strong> i <strong>Chmura obliczeniowa</strong>. Oznacza to pozostawanie w czołówce wiedzy technicznej i trendów rynkowych, aby w dalszym ciągu zapewniać skuteczne zarządzanie danymi.</p>
+<p>Master Data Manager musi stale stawiać czoła nowym wyzwaniom, związanym w szczególności z rozwojem technologicznym m.in <strong>duże dane</strong>, L’<strong>sztuczna inteligencja</strong> i <strong>Chmura obliczeniowa</strong>. Oznacza to pozostawanie w czołówce wiedzy technicznej i trendów rynkowych, aby w dalszym ciągu zapewniać skuteczne zarządzanie danymi.</p>
 
 
 

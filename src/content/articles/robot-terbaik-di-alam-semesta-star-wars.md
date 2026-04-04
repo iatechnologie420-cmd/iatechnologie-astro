@@ -2,7 +2,7 @@
 lang: "id"
 title: "Robot terbaik di alam semesta Star Wars"
 slug: "robot-terbaik-di-alam-semesta-star-wars"
-excerpt: "Legenda mekanis: C-3PO dan R2-D2 Dianggap sebagai droid paling simbolis dalam saga ini Perang Bintang, C-3PO dan R2-D2 telah menandai generasi penggemar dengan kepribadian unik, cerita, dan peran penting mereka sepanjang episode. Artikel ini menggali dunia legenda mekanik ini, mengungkap esensi dan dampak budayanya. C-3PO: Protokol Droid Poliglot C-3PO, sering dijuluki Threepio, adalah a protokol [&hellip;]"
+excerpt: "Legenda mekanis: C-3PO dan R2-D2 Dianggap sebagai droid paling simbolis dalam saga ini Perang Bintang, C-3PO dan R2-D2 telah menandai generasi penggemar dengan kepribadian unik, cerita, dan peran penting mereka sepanjang episode. Artikel ini menggali dunia legenda mekanik ini, mengungkap esensi dan dampak budayanya. C-3PO: Protokol Droid Poliglot C-3PO, sering dijuluki Threepio, adalah a protokol […]"
 date: "2024-03-09T12:21:46"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["teknologi-dan-digital-id"]
@@ -10,7 +10,7 @@ categories: ["teknologi-dan-digital-id"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -48,7 +48,7 @@ categories: ["teknologi-dan-digital-id"]
 
 
 
-<p>Kemampuan Artoo untuk menyimpan informasi penting, menavigasi sistem komputer yang kompleks, dan menjelajah ke tempat yang tidak bisa dituju orang lain menjadikannya pahlawan yang pendiam namun sangat diperlukan. &#8220;Suaranya&#8221; yang terkenal, terdiri dari serangkaian peluit elektronik, memungkinkan komunikasi ekspresif tanpa kata-kata, menciptakan ikatan emosional yang kuat dengan publik dan teman-temannya dalam saga tersebut.</p>
+<p>Kemampuan Artoo untuk menyimpan informasi penting, menavigasi sistem komputer yang kompleks, dan menjelajah ke tempat yang tidak bisa dituju orang lain menjadikannya pahlawan yang pendiam namun sangat diperlukan. “Suaranya” yang terkenal, terdiri dari serangkaian peluit elektronik, memungkinkan komunikasi ekspresif tanpa kata-kata, menciptakan ikatan emosional yang kuat dengan publik dan teman-temannya dalam saga tersebut.</p>
 
 
 
@@ -80,7 +80,7 @@ categories: ["teknologi-dan-digital-id"]
 
 
 
-<p>BB-8 muncul pertama kali di &#8220;<strong>Star Wars: Episode VII &#8211; Kekuatan Bangkit</strong>&#8221; pada tahun 2015. Droid astromech ini dengan cepat menjadi favorit penggemar karena bentuknya yang unik, mobilitas yang lincah, dan kepribadian yang ceria. BB-8 milik salah satu pahlawan trilogi baru, <strong>Poe Dameron</strong>, dan bersama-sama mereka berbagi banyak petualangan melintasi galaksi.</p>
+<p>BB-8 muncul pertama kali di “<strong>Star Wars: Episode VII – Kekuatan Bangkit</strong>” pada tahun 2015. Droid astromech ini dengan cepat menjadi favorit penggemar karena bentuknya yang unik, mobilitas yang lincah, dan kepribadian yang ceria. BB-8 milik salah satu pahlawan trilogi baru, <strong>Poe Dameron</strong>, dan bersama-sama mereka berbagi banyak petualangan melintasi galaksi.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["teknologi-dan-digital-id"]
 
 
 
-<p>D-O pertama kali diperkenalkan di &#8220;<strong>Star Wars: Episode IX &#8211; Bangkitnya Skywalker</strong>&#8221; dirilis pada tahun 2019. Droid kecil beroda satu ini mengesankan dengan kemampuannya menggerakkan orang. Dengan bentuknya yang mengingatkan pada mainan anak-anak dan ciri khas suara siulannya, ia mewujudkan teman baru yang ingin kita semua miliki.</p>
+<p>D-O pertama kali diperkenalkan di “<strong>Star Wars: Episode IX – Bangkitnya Skywalker</strong>” dirilis pada tahun 2019. Droid kecil beroda satu ini mengesankan dengan kemampuannya menggerakkan orang. Dengan bentuknya yang mengingatkan pada mainan anak-anak dan ciri khas suara siulannya, ia mewujudkan teman baru yang ingin kita semua miliki.</p>
 
 
 

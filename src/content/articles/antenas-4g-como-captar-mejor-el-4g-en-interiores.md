@@ -2,7 +2,7 @@
 lang: "es"
 title: "Antenas 4G: ¿Cómo captar mejor el 4G en interiores?"
 slug: "antenas-4g-como-captar-mejor-el-4g-en-interiores"
-excerpt: "Entiende cómo funciona 4G y sus límites ¿Qué es 4G? La tecnologia 4G, también conocido como 4ta generación de estándares para las telecomunicaciones móviles, es la continuación de la 3G y precede al muy reciente 5G. Ofrece una conexión a Internet móvil de alta velocidad, lo que le permite beneficiarse de una mejor transferencia de [&hellip;]"
+excerpt: "Entiende cómo funciona 4G y sus límites ¿Qué es 4G? La tecnologia 4G, también conocido como 4ta generación de estándares para las telecomunicaciones móviles, es la continuación de la 3G y precede al muy reciente 5G. Ofrece una conexión a Internet móvil de alta velocidad, lo que le permite beneficiarse de una mejor transferencia de […]"
 date: "2024-03-09T12:15:05"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
 categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]

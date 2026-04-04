@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Pepper: alt du trenger å vite om SoftBanks sosiale robot"
 slug: "pepper-alt-du-trenger-a-vite-om-softbanks-sosiale-robot"
-excerpt: "Pepper: Presentasjon og grunnleggende funksjoner Sammendrag Den sosiale roboten Pepper er en teknologisk bragd designet for å samhandle med mennesker i et sosialt miljø. Utstyrt med en rekke sensorer og avansert AI, forstår og reagerer Pepper på følelsene våre mens han tilpasser seg atferden vår. Gjennom denne artikkelen vil vi presentere de grunnleggende funksjonene til [&hellip;]"
+excerpt: "Pepper: Presentasjon og grunnleggende funksjoner Sammendrag Den sosiale roboten Pepper er en teknologisk bragd designet for å samhandle med mennesker i et sosialt miljø. Utstyrt med en rekke sensorer og avansert AI, forstår og reagerer Pepper på følelsene våre mens han tilpasser seg atferden vår. Gjennom denne artikkelen vil vi presentere de grunnleggende funksjonene til […]"
 date: "2024-03-09T11:51:27"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pepper-tout-savoir-sur-le-robot-social-de-SoftBank-2.png"
 categories: ["disruptive-og-nye-innovasjoner-nb"]

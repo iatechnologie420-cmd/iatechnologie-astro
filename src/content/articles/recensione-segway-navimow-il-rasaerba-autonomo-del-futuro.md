@@ -2,7 +2,7 @@
 lang: "it"
 title: "Recensione Segway Navimow: il rasaerba autonomo del futuro?"
 slug: "recensione-segway-navimow-il-rasaerba-autonomo-del-futuro"
-excerpt: "I vantaggi del rasaerba autonomo Segway Navimow Immagina di poter goderti appieno il tuo giardino senza preoccuparti dell&#8217;incombenza di falciare il prato. Grazie al rasaerba autonomo Segway Navimow, questo noioso compito appartiene ormai al passato. Ricco di funzionalità innovative e tecnologia avanzata, questo rasaerba autonomo offre numerosi vantaggi che renderanno più semplice la tua vita [&hellip;]"
+excerpt: "I vantaggi del rasaerba autonomo Segway Navimow Immagina di poter goderti appieno il tuo giardino senza preoccuparti dell’incombenza di falciare il prato. Grazie al rasaerba autonomo Segway Navimow, questo noioso compito appartiene ormai al passato. Ricco di funzionalità innovative e tecnologia avanzata, questo rasaerba autonomo offre numerosi vantaggi che renderanno più semplice la tua vita […]"
 date: "2024-03-09T12:35:38"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Segway-Navimow-La-tondeuse-autonome-du-futur-.png"
 categories: ["tecnologia-e-digitale-it", "tecnologie-indossabili-e-iot-it"]
@@ -13,16 +13,16 @@ categories: ["tecnologia-e-digitale-it", "tecnologie-indossabili-e-iot-it"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#I_vantaggi_del_rasaerba_autonomo_Segway_Navimow" >I vantaggi del rasaerba autonomo Segway Navimow</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#1_Facilita_duso" >1. Facilità d&#8217;uso</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#2_Risparmia_tempo_e_fatica" >2. Risparmia tempo e fatica</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#3_Taglio_preciso_e_uniforme" >3. Taglio preciso e uniforme</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#4_Risparmio_energetico_e_rispetto_dellambiente" >4. Risparmio energetico e rispetto dell&#8217;ambiente</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#5_Connettivita_intelligente" >5. Connettività intelligente</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Come_funziona_il_rasaerba_autonomo_Segway_Navimow" >Come funziona il rasaerba autonomo Segway Navimow?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Navigazione_precisa_grazie_ai_sensori_intelligenti" >Navigazione precisa grazie ai sensori intelligenti</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Mappatura_precisa_del_terreno" >Mappatura precisa del terreno</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Funzionamento_autonomo" >Funzionamento autonomo</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Connettivita_e_facilita_duso" >Connettività e facilità d&#8217;uso</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#I_limiti_del_rasaerba_autonomo_Segway_Navimow" >I limiti del rasaerba autonomo Segway Navimow</a></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#I_vantaggi_del_rasaerba_autonomo_Segway_Navimow" >I vantaggi del rasaerba autonomo Segway Navimow</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#1_Facilita_duso" >1. Facilità d’uso</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#2_Risparmia_tempo_e_fatica" >2. Risparmia tempo e fatica</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#3_Taglio_preciso_e_uniforme" >3. Taglio preciso e uniforme</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#4_Risparmio_energetico_e_rispetto_dellambiente" >4. Risparmio energetico e rispetto dell’ambiente</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#5_Connettivita_intelligente" >5. Connettività intelligente</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Come_funziona_il_rasaerba_autonomo_Segway_Navimow" >Come funziona il rasaerba autonomo Segway Navimow?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Navigazione_precisa_grazie_ai_sensori_intelligenti" >Navigazione precisa grazie ai sensori intelligenti</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Mappatura_precisa_del_terreno" >Mappatura precisa del terreno</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Funzionamento_autonomo" >Funzionamento autonomo</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#Connettivita_e_facilita_duso" >Connettività e facilità d’uso</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/it/recensione-segway-navimow-il-rasaerba-autonomo-del-futuro/#I_limiti_del_rasaerba_autonomo_Segway_Navimow" >I limiti del rasaerba autonomo Segway Navimow</a></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="I_vantaggi_del_rasaerba_autonomo_Segway_Navimow"></span>I vantaggi del rasaerba autonomo Segway Navimow<span class="ez-toc-section-end"></span></h2>
 
 
 
-<p>Immagina di poter goderti appieno il tuo giardino senza preoccuparti dell&#8217;incombenza di falciare il prato. Grazie al rasaerba autonomo Segway Navimow, questo noioso compito appartiene ormai al passato. Ricco di funzionalità innovative e tecnologia avanzata, questo rasaerba autonomo offre numerosi vantaggi che renderanno più semplice la tua vita quotidiana.</p>
+<p>Immagina di poter goderti appieno il tuo giardino senza preoccuparti dell’incombenza di falciare il prato. Grazie al rasaerba autonomo Segway Navimow, questo noioso compito appartiene ormai al passato. Ricco di funzionalità innovative e tecnologia avanzata, questo rasaerba autonomo offre numerosi vantaggi che renderanno più semplice la tua vita quotidiana.</p>
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="1_Facilita_duso"></span>1. Facilità d&#8217;uso<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="1_Facilita_duso"></span>1. Facilità d’uso<span class="ez-toc-section-end"></span></h4>
 
 
 
@@ -46,11 +46,11 @@ categories: ["tecnologia-e-digitale-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="4_Risparmio_energetico_e_rispetto_dellambiente"></span>4. Risparmio energetico e rispetto dell&#8217;ambiente<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="4_Risparmio_energetico_e_rispetto_dellambiente"></span>4. Risparmio energetico e rispetto dell’ambiente<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>Il rasaerba autonomo Segway Navimow è dotato di una batteria ricaricabile, che lo rende efficiente dal punto di vista energetico. Rispetto a un rasaerba tradizionale a benzina, il rasaerba autonomo è molto più rispettoso dell&#8217;ambiente e non genera emissioni inquinanti. Inoltre, è molto meno rumoroso, il che ti permette di falciare il prato in qualsiasi momento della giornata senza disturbare i vicini.</p>
+<p>Il rasaerba autonomo Segway Navimow è dotato di una batteria ricaricabile, che lo rende efficiente dal punto di vista energetico. Rispetto a un rasaerba tradizionale a benzina, il rasaerba autonomo è molto più rispettoso dell’ambiente e non genera emissioni inquinanti. Inoltre, è molto meno rumoroso, il che ti permette di falciare il prato in qualsiasi momento della giornata senza disturbare i vicini.</p>
 
 
 
@@ -58,7 +58,7 @@ categories: ["tecnologia-e-digitale-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<p>Il rasaerba autonomo Segway Navimow è dotato di connettività intelligente che ti consente di controllarlo da remoto utilizzando un&#8217;app mobile. In questo modo puoi pianificare facilmente i tempi di taglio, controllare lo stato del tosaerba e regolare le impostazioni di taglio sempre e ovunque. Questa connettività intelligente ti offre flessibilità e controllo totale sulla cura del tuo prato.</p>
+<p>Il rasaerba autonomo Segway Navimow è dotato di connettività intelligente che ti consente di controllarlo da remoto utilizzando un’app mobile. In questo modo puoi pianificare facilmente i tempi di taglio, controllare lo stato del tosaerba e regolare le impostazioni di taglio sempre e ovunque. Questa connettività intelligente ti offre flessibilità e controllo totale sulla cura del tuo prato.</p>
 
 
 
@@ -90,11 +90,11 @@ categories: ["tecnologia-e-digitale-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Connettivita_e_facilita_duso"></span>Connettività e facilità d&#8217;uso<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Connettivita_e_facilita_duso"></span>Connettività e facilità d’uso<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>Il rasaerba autonomo Segway Navimow dispone anche di connettività intelligente. Puoi controllare e monitorare il tuo rasaerba da remoto utilizzando un&#8217;applicazione mobile dedicata. Questa app ti consente di programmare gli orari di taglio, impostare zone specifiche e controllare lo stato del rasaerba in tempo reale. Offre quindi grande flessibilità e facilità d&#8217;uso.</p>
+<p>Il rasaerba autonomo Segway Navimow dispone anche di connettività intelligente. Puoi controllare e monitorare il tuo rasaerba da remoto utilizzando un’applicazione mobile dedicata. Questa app ti consente di programmare gli orari di taglio, impostare zone specifiche e controllare lo stato del rasaerba in tempo reale. Offre quindi grande flessibilità e facilità d’uso.</p>
 
 
 
@@ -108,7 +108,7 @@ categories: ["tecnologia-e-digitale-it", "tecnologie-indossabili-e-iot-it"]
 
 
 
-<p><strong>1. Limitazioni dell&#8217;area:</strong> Il rasaerba autonomo Segway Navimow è progettato per prati di medie e grandi dimensioni, con una superficie massima di 2000 m². Per i proprietari di grandi proprietà, ciò potrebbe limitare l&#8217;utilità del dispositivo. In questi casi, potrebbe essere meglio assumere un servizio di falciatura professionale.</p>
+<p><strong>1. Limitazioni dell’area:</strong> Il rasaerba autonomo Segway Navimow è progettato per prati di medie e grandi dimensioni, con una superficie massima di 2000 m². Per i proprietari di grandi proprietà, ciò potrebbe limitare l’utilità del dispositivo. In questi casi, potrebbe essere meglio assumere un servizio di falciatura professionale.</p>
 
 
 

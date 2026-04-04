@@ -2,7 +2,7 @@
 lang: "es"
 title: "TI / Tecnologías de la Información: ¿qué es la tecnología de la información?"
 slug: "ti-tecnologias-de-la-informacion-que-es-la-tecnologia-de-la-informacion"
-excerpt: "Entendiendo las TI: Definición y evolución de las tecnologías de la información ¿Qué es? El término ÉL, para Tecnologías de la información en inglés, designa todas las tecnologías relacionadas con el procesamiento y gestión de información y datos. Este vasto campo incluye, por tanto, la informática, telecomunicaciones, sistemas de gestión de bases de datos, seguridad [&hellip;]"
+excerpt: "Entendiendo las TI: Definición y evolución de las tecnologías de la información ¿Qué es? El término ÉL, para Tecnologías de la información en inglés, designa todas las tecnologías relacionadas con el procesamiento y gestión de información y datos. Este vasto campo incluye, por tanto, la informática, telecomunicaciones, sistemas de gestión de bases de datos, seguridad […]"
 date: "2024-03-09T12:19:59"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]
@@ -10,7 +10,7 @@ categories: ["infraestructura-y-redes-es", "tecnologia-y-digital-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

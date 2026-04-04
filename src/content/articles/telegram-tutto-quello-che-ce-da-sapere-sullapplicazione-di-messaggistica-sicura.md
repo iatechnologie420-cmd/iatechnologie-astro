@@ -1,8 +1,8 @@
 ---
 lang: "it"
-title: "Telegram: tutto quello che c&#8217;è da sapere sull&#8217;applicazione di messaggistica sicura"
+title: "Telegram: tutto quello che c’è da sapere sull’applicazione di messaggistica sicura"
 slug: "telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura"
-excerpt: "Cos&#8217;è Telegram? Telegramma è un&#8217;applicazione di messaggistica istantanea incentrata sulla velocità e sulla sicurezza. È diventata una delle piattaforme di comunicazione più popolari al mondo grazie alla sua combinazione di funzionalità avanzate, interfaccia intuitiva e impegno nella protezione della privacy degli utenti. Dal suo lancio nel 2013, Telegramma si è distinta tra una moltitudine di [&hellip;]"
+excerpt: "Cos’è Telegram? Telegramma è un’applicazione di messaggistica istantanea incentrata sulla velocità e sulla sicurezza. È diventata una delle piattaforme di comunicazione più popolari al mondo grazie alla sua combinazione di funzionalità avanzate, interfaccia intuitiva e impegno nella protezione della privacy degli utenti. Dal suo lancio nel 2013, Telegramma si è distinta tra una moltitudine di […]"
 date: "2024-03-09T12:12:12"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-3.png"
 categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
@@ -19,12 +19,12 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Cose_Telegram" >Cos&#8217;è Telegram?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Le_origini_di_Telegram" >Le origini di Telegram</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#La_filosofia_di_Telegram" >La filosofia di Telegram</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Le_caratteristiche_principali_di_Telegram" >Le caratteristiche principali di Telegram</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Crittografia_end-to-end" >Crittografia end-to-end</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Conversazioni_segrete" >Conversazioni segrete</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Rispetto_della_privacy" >Rispetto della privacy</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Bot_di_Telegram" >Bot di Telegram</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Interfaccia_utente_intuitiva" >Interfaccia utente intuitiva</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Condivisione_di_file_di_grandi_dimensioni" >Condivisione di file di grandi dimensioni</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Aggiornamenti_costanti" >Aggiornamenti costanti</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Telegram_Premium_cosa_permette" >Telegram Premium: cosa permette?</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Funzionalita_principali_di_Telegram_Premium" >Funzionalità principali di Telegram Premium</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Benefici_addizionali" >Benefici addizionali</a></li></ul></li></ul></nav></div>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="Cose_Telegram"></span>Cos&#8217;è Telegram?<span class="ez-toc-section-end"></span></h2>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Cose_Telegram" >Cos’è Telegram?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Le_origini_di_Telegram" >Le origini di Telegram</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#La_filosofia_di_Telegram" >La filosofia di Telegram</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Le_caratteristiche_principali_di_Telegram" >Le caratteristiche principali di Telegram</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Crittografia_end-to-end" >Crittografia end-to-end</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Conversazioni_segrete" >Conversazioni segrete</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Rispetto_della_privacy" >Rispetto della privacy</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Bot_di_Telegram" >Bot di Telegram</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Interfaccia_utente_intuitiva" >Interfaccia utente intuitiva</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Condivisione_di_file_di_grandi_dimensioni" >Condivisione di file di grandi dimensioni</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Aggiornamenti_costanti" >Aggiornamenti costanti</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Telegram_Premium_cosa_permette" >Telegram Premium: cosa permette?</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Funzionalita_principali_di_Telegram_Premium" >Funzionalità principali di Telegram Premium</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="/it/telegram-tutto-quello-che-ce-da-sapere-sullapplicazione-di-messaggistica-sicura/#Benefici_addizionali" >Benefici addizionali</a></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="Cose_Telegram"></span>Cos’è Telegram?<span class="ez-toc-section-end"></span></h2>
 
 
 
-<p>    <strong>Telegramma</strong> è un&#8217;applicazione di messaggistica istantanea incentrata sulla velocità e sulla sicurezza. È diventata una delle piattaforme di comunicazione più popolari al mondo grazie alla sua combinazione di funzionalità avanzate, interfaccia intuitiva e impegno nella protezione della privacy degli utenti. </p>
+<p>    <strong>Telegramma</strong> è un’applicazione di messaggistica istantanea incentrata sulla velocità e sulla sicurezza. È diventata una delle piattaforme di comunicazione più popolari al mondo grazie alla sua combinazione di funzionalità avanzate, interfaccia intuitiva e impegno nella protezione della privacy degli utenti. </p>
 
 
 
@@ -36,7 +36,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p>    La storia di <strong>Telegramma</strong> inizia con due fratelli, Nikolai e Pavel Durov, che in precedenza hanno fondato il popolarissimo social network russo VKontakte. Preoccupati dall&#8217;evoluzione della privacy online e incoraggiati dal desiderio di creare una piattaforma di comunicazione sicura, hanno lanciato <strong>Telegramma</strong> nell&#8217;agosto 2013. Il loro obiettivo era chiaro: offrire un servizio che promuova la libertà e sia inaccessibile alle agenzie di sorveglianza e agli hacker.</p>
+<p>    La storia di <strong>Telegramma</strong> inizia con due fratelli, Nikolai e Pavel Durov, che in precedenza hanno fondato il popolarissimo social network russo VKontakte. Preoccupati dall’evoluzione della privacy online e incoraggiati dal desiderio di creare una piattaforma di comunicazione sicura, hanno lanciato <strong>Telegramma</strong> nell’agosto 2013. Il loro obiettivo era chiaro: offrire un servizio che promuova la libertà e sia inaccessibile alle agenzie di sorveglianza e agli hacker.</p>
 
 
 
@@ -48,7 +48,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p>Inoltre, l&#8217;app è gratuita e mantiene la promessa di non vendere mai pubblicità o dati degli utenti, una posizione che definisce la sua filosofia di rispetto della privacy e dell&#8217;esperienza dell&#8217;utente sopra ogni altra cosa.</p>
+<p>Inoltre, l’app è gratuita e mantiene la promessa di non vendere mai pubblicità o dati degli utenti, una posizione che definisce la sua filosofia di rispetto della privacy e dell’esperienza dell’utente sopra ogni altra cosa.</p>
 
 
 
@@ -64,7 +64,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p>Un punto cruciale di sicurezza <strong>Telegramma</strong> è il suo sistema di crittografia end-to-end. Concretamente ciò significa che i messaggi inviati vengono trasformati in un codice segreto sul dispositivo del mittente e vengono decifrati solo sul dispositivo del destinatario. Ciò impedisce l&#8217;accesso non autorizzato durante la trasmissione, garantendo la riservatezza delle comunicazioni.</p>
+<p>Un punto cruciale di sicurezza <strong>Telegramma</strong> è il suo sistema di crittografia end-to-end. Concretamente ciò significa che i messaggi inviati vengono trasformati in un codice segreto sul dispositivo del mittente e vengono decifrati solo sul dispositivo del destinatario. Ciò impedisce l’accesso non autorizzato durante la trasmissione, garantendo la riservatezza delle comunicazioni.</p>
 
 
 
@@ -72,7 +72,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p>Oltre alla crittografia classica, <strong>Telegramma</strong> offre il <strong>“Conversazioni segrete”</strong>. Questi includono funzionalità aggiuntive come l&#8217;autodistruzione dei messaggi e non vengono archiviati sui server di <strong>Telegramma</strong>, fornendo così un maggiore livello di sicurezza per le informazioni più sensibili.</p>
+<p>Oltre alla crittografia classica, <strong>Telegramma</strong> offre il <strong>“Conversazioni segrete”</strong>. Questi includono funzionalità aggiuntive come l’autodistruzione dei messaggi e non vengono archiviati sui server di <strong>Telegramma</strong>, fornendo così un maggiore livello di sicurezza per le informazioni più sensibili.</p>
 
 
 
@@ -80,7 +80,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p><strong>Telegramma</strong> si distingue anche per il rispetto della privacy. Gli utenti possono nascondere il proprio numero di telefono e controllare chi può vederli, riducendo il rischio di spam e molestie. Gruppi e canali pubblici consentono la diffusione di informazioni senza rivelare l&#8217;identità dei partecipanti.</p>
+<p><strong>Telegramma</strong> si distingue anche per il rispetto della privacy. Gli utenti possono nascondere il proprio numero di telefono e controllare chi può vederli, riducendo il rischio di spam e molestie. Gruppi e canali pubblici consentono la diffusione di informazioni senza rivelare l’identità dei partecipanti.</p>
 
 
 
@@ -88,7 +88,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p>IL <strong>bot</strong> SU <strong>Telegramma</strong> sono applicazioni di terze parti che funzionano all&#8217;interno della messaggistica. Possono svolgere una moltitudine di compiti, dalla gestione di attività amministrative al gioco interattivo. Questi robot aprono un mondo di possibilità per automatizzare e arricchire l&#8217;esperienza dell&#8217;utente.</p>
+<p>IL <strong>bot</strong> SU <strong>Telegramma</strong> sono applicazioni di terze parti che funzionano all’interno della messaggistica. Possono svolgere una moltitudine di compiti, dalla gestione di attività amministrative al gioco interattivo. Questi robot aprono un mondo di possibilità per automatizzare e arricchire l’esperienza dell’utente.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p>L&#8217;interfaccia di <strong>Telegramma</strong>, noto per la sua semplicità e facilità d&#8217;uso, consente agli utenti di navigare facilmente tra messaggi, gruppi e canali. L&#8217;applicazione offre inoltre ampie opzioni di personalizzazione, per un comfort visivo e un&#8217;esperienza su misura.</p>
+<p>L’interfaccia di <strong>Telegramma</strong>, noto per la sua semplicità e facilità d’uso, consente agli utenti di navigare facilmente tra messaggi, gruppi e canali. L’applicazione offre inoltre ampie opzioni di personalizzazione, per un comfort visivo e un’esperienza su misura.</p>
 
 
 
@@ -104,7 +104,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p>Un&#8217;altra caratteristica notevole di <strong>Telegramma</strong> è la sua capacità di gestire pesanti condivisioni di file. A differenza di molti dei suoi concorrenti, <strong>Telegramma</strong> consente agli utenti di inviare file fino a 2 GB, rendendo la condivisione di video, progetti pesanti o raccolte di foto di grandi dimensioni un gioco da ragazzi.</p>
+<p>Un’altra caratteristica notevole di <strong>Telegramma</strong> è la sua capacità di gestire pesanti condivisioni di file. A differenza di molti dei suoi concorrenti, <strong>Telegramma</strong> consente agli utenti di inviare file fino a 2 GB, rendendo la condivisione di video, progetti pesanti o raccolte di foto di grandi dimensioni un gioco da ragazzi.</p>
 
 
 
@@ -112,7 +112,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p><strong>Telegramma</strong> si distingue per la sua costante evoluzione. L&#8217;app viene regolarmente aggiornata con nuove funzionalità e miglioramenti della sicurezza per soddisfare al meglio le mutevoli esigenze dei suoi utenti.</p>
+<p><strong>Telegramma</strong> si distingue per la sua costante evoluzione. L’app viene regolarmente aggiornata con nuove funzionalità e miglioramenti della sicurezza per soddisfare al meglio le mutevoli esigenze dei suoi utenti.</p>
 
 
 
@@ -124,7 +124,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<p>Telegram Premium è un&#8217;opzione di abbonamento che arricchisce l&#8217;esperienza dell&#8217;utente su Telegram con funzionalità avanzate ed esclusive. Optando per questa versione a pagamento, gli utenti beneficiano di funzionalità estese e miglioramenti significativi rispetto alla versione gratuita dell&#8217;applicazione. Ecco una panoramica dettagliata dei vantaggi offerti da Telegram Premium:</p>
+<p>Telegram Premium è un’opzione di abbonamento che arricchisce l’esperienza dell’utente su Telegram con funzionalità avanzate ed esclusive. Optando per questa versione a pagamento, gli utenti beneficiano di funzionalità estese e miglioramenti significativi rispetto alla versione gratuita dell’applicazione. Ecco una panoramica dettagliata dei vantaggi offerti da Telegram Premium:</p>
 
 
 
@@ -155,7 +155,7 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<li>Aggiungi 10 gatti all&#8217;elenco principale.</li>
+<li>Aggiungi 10 gatti all’elenco principale.</li>
 
 
 
@@ -173,15 +173,15 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 
-<li><strong>Gestione migliorata dei gatti</strong> : strumenti avanzati per l&#8217;organizzazione dell&#8217;elenco chat, inclusa la possibilità di modificare la cartella chat predefinita per una navigazione personalizzata.</li>
+<li><strong>Gestione migliorata dei gatti</strong> : strumenti avanzati per l’organizzazione dell’elenco chat, inclusa la possibilità di modificare la cartella chat predefinita per una navigazione personalizzata.</li>
 
 
 
-<li><strong>Immagini animate del profilo</strong> : i video del profilo si animano per tutti gli utenti dell&#8217;app, consentendo un&#8217;espressione più dinamica della personalità.</li>
+<li><strong>Immagini animate del profilo</strong> : i video del profilo si animano per tutti gli utenti dell’app, consentendo un’espressione più dinamica della personalità.</li>
 
 
 
-<li><strong>Nessuna pubblicità</strong> : gli abbonati Premium non vedranno i post sponsorizzati nei canali pubblici, offrendo un&#8217;esperienza utente più pulita e ininterrotta.</li>
+<li><strong>Nessuna pubblicità</strong> : gli abbonati Premium non vedranno i post sponsorizzati nei canali pubblici, offrendo un’esperienza utente più pulita e ininterrotta.</li>
 </ul>
 
 
@@ -191,15 +191,15 @@ categories: ["infrastrutture-e-reti-it", "tecnologia-e-digitale-it"]
 
 
 <ul class="wp-block-list">
-<li><strong>Icone dell&#8217;app premium</strong> : Per gli abbonati sono disponibili icone uniche delle app, che consentono un&#8217;ulteriore personalizzazione della schermata iniziale.</li>
+<li><strong>Icone dell’app premium</strong> : Per gli abbonati sono disponibili icone uniche delle app, che consentono un’ulteriore personalizzazione della schermata iniziale.</li>
 
 
 
-<li><strong>Distintivi premium</strong> : accanto al nome dell&#8217;utente nell&#8217;elenco chat viene visualizzato un badge speciale, che indica il suo supporto per Telegram e l&#8217;accesso a funzionalità esclusive.</li>
+<li><strong>Distintivi premium</strong> : accanto al nome dell’utente nell’elenco chat viene visualizzato un badge speciale, che indica il suo supporto per Telegram e l’accesso a funzionalità esclusive.</li>
 </ul>
 
 
 
-<p>I miglioramenti apportati dagli abbonamenti Premium non solo supportano il continuo sviluppo di Telegram, ma assicurano anche che l&#8217;app rimanga gratuita, indipendente e fedele ai suoi valori incentrati sull&#8217;utente. Abbonandosi a Telegram Premium, gli utenti contribuiscono direttamente al miglioramento e all&#8217;espansione dell&#8217;applicazione per i decenni a venire.</p>
+<p>I miglioramenti apportati dagli abbonamenti Premium non solo supportano il continuo sviluppo di Telegram, ma assicurano anche che l’app rimanga gratuita, indipendente e fedele ai suoi valori incentrati sull’utente. Abbonandosi a Telegram Premium, gli utenti contribuiscono direttamente al miglioramento e all’espansione dell’applicazione per i decenni a venire.</p>
 
 

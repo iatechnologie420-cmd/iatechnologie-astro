@@ -2,7 +2,7 @@
 lang: "en"
 title: "IT / Information Technology: what is information technology?"
 slug: "it-information-technology-what-is-information-technology"
-excerpt: "Understanding IT: Definition and evolution of information technologies What is IT? The term IT, For Information technology in English, designates all the technologies related to the processing and management of information and data. This vast field thus includes computer science, telecommunications, database management systems, information security, and much more. IT is essential in the modern [&hellip;]"
+excerpt: "Understanding IT: Definition and evolution of information technologies What is IT? The term IT, For Information technology in English, designates all the technologies related to the processing and management of information and data. This vast field thus includes computer science, telecommunications, database management systems, information security, and much more. IT is essential in the modern […]"
 date: "2024-03-09T12:19:51"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
@@ -10,7 +10,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<p>    Currently, several major trends are transforming IT. L&#8217;<strong>artificial intelligence</strong> and machine learning (<em>machine learning</em>) have become key elements in the development of more intelligent and autonomous solutions. THE <strong>cloud computing</strong> continues to grow in popularity, providing flexibility and scale never before seen in IT services. </p>
+<p>    Currently, several major trends are transforming IT. L’<strong>artificial intelligence</strong> and machine learning (<em>machine learning</em>) have become key elements in the development of more intelligent and autonomous solutions. THE <strong>cloud computing</strong> continues to grow in popularity, providing flexibility and scale never before seen in IT services. </p>
 
 
 

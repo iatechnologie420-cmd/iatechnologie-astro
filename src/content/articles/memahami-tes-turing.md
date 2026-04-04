@@ -2,7 +2,7 @@
 lang: "id"
 title: "Memahami tes Turing"
 slug: "memahami-tes-turing"
-excerpt: "Asal usul dan prinsip tes Turing Dalam dunia kecerdasan buatan (AI) dan komputasi, tes Turing menempati tempat yang menonjol. Ini adalah metode benchmark yang dirancang untuk mengevaluasi kemampuan mesin dalam meniru kecerdasan manusia. Asal usul dan prinsip tes revolusioner ini dimulai pada pertengahan abad ke-20 dan didasarkan pada konsep filosofis dan komputasi yang kompleks. Sejarah [&hellip;]"
+excerpt: "Asal usul dan prinsip tes Turing Dalam dunia kecerdasan buatan (AI) dan komputasi, tes Turing menempati tempat yang menonjol. Ini adalah metode benchmark yang dirancang untuk mengevaluasi kemampuan mesin dalam meniru kecerdasan manusia. Asal usul dan prinsip tes revolusioner ini dimulai pada pertengahan abad ke-20 dan didasarkan pada konsep filosofis dan komputasi yang kompleks. Sejarah […]"
 date: "2024-03-09T12:56:07"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["pelatihan-dan-dasar-dasar-ai-id"]
@@ -84,7 +84,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>&#8211; <strong>Kualitas tanggapan</strong> : Mereka harus koheren dan tampak alami, seolah-olah berasal dari manusia.<br>&#8211; <strong>Keberagaman dalam percakapan</strong> : Kemampuan mesin untuk berpartisipasi dalam beragam topik menunjukkan beberapa bentuk pemahaman atau adaptasi.<br>&#8211; <strong>Mengelola ambiguitas</strong> : sebuah mesin harus mampu menangani seluk-beluk dan nuansa bahasa, termasuk metafora, humor, dan referensi budaya.<br>&#8211; <strong>Emosi dan empati</strong>: Kecerdasan buatan harus menunjukkan suatu bentuk empati atau respons emosional yang sesuai terhadap situasi.</p>
+<p>– <strong>Kualitas tanggapan</strong> : Mereka harus koheren dan tampak alami, seolah-olah berasal dari manusia.<br>– <strong>Keberagaman dalam percakapan</strong> : Kemampuan mesin untuk berpartisipasi dalam beragam topik menunjukkan beberapa bentuk pemahaman atau adaptasi.<br>– <strong>Mengelola ambiguitas</strong> : sebuah mesin harus mampu menangani seluk-beluk dan nuansa bahasa, termasuk metafora, humor, dan referensi budaya.<br>– <strong>Emosi dan empati</strong>: Kecerdasan buatan harus menunjukkan suatu bentuk empati atau respons emosional yang sesuai terhadap situasi.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>&#8211; <strong>Anonimitas total</strong> : Interogator tidak boleh memiliki petunjuk visual atau suara apa pun yang dapat membantu mereka mengidentifikasi entitas di balik jawaban.<br>&#8211; <strong>Antarmuka komunikasi netral</strong> : Tanggapan harus dikirimkan melalui keyboard dan layar untuk menghindari diskriminasi berdasarkan suara atau tulisan tangan.</p>
+<p>– <strong>Anonimitas total</strong> : Interogator tidak boleh memiliki petunjuk visual atau suara apa pun yang dapat membantu mereka mengidentifikasi entitas di balik jawaban.<br>– <strong>Antarmuka komunikasi netral</strong> : Tanggapan harus dikirimkan melalui keyboard dan layar untuk menghindari diskriminasi berdasarkan suara atau tulisan tangan.</p>
 
 
 
@@ -104,7 +104,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>Penilaian harus didasarkan pada kriteria objektif, meskipun penilaian subjektif dari pewawancara memainkan peran sentral dalam keputusan akhir. Aspek-aspek berikut ini sangat penting:<br>&#8211; <strong>Statistik Kesuksesan</strong> : persentase berapa kali hakim ditipu merupakan indikator penting.<br>&#8211; <strong>Kontrol bias</strong> : Bias penanya harus diminimalkan dengan metode penilaian yang baik untuk memastikan keadilan tes.</p>
+<p>Penilaian harus didasarkan pada kriteria objektif, meskipun penilaian subjektif dari pewawancara memainkan peran sentral dalam keputusan akhir. Aspek-aspek berikut ini sangat penting:<br>– <strong>Statistik Kesuksesan</strong> : persentase berapa kali hakim ditipu merupakan indikator penting.<br>– <strong>Kontrol bias</strong> : Bias penanya harus diminimalkan dengan metode penilaian yang baik untuk memastikan keadilan tes.</p>
 
 
 
@@ -112,7 +112,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>Interaksi selama Tes Turing harus alami dan lancar, meniru alur percakapan manusia yang sebenarnya. Elemen-elemen berikut harus dipertimbangkan:<br>&#8211; <strong>Reaktivitas</strong> : Mesin harus menjawab pertanyaan dengan kecepatan yang mirip dengan percakapan manusia pada umumnya.<br>&#8211; <strong>Interaksi dua arah</strong> : Mesin seharusnya tidak hanya menjawab pertanyaan, tetapi juga dapat mengajukan pertanyaan untuk menunjukkan bahwa mesin mengikuti dan berpartisipasi aktif dalam percakapan.</p>
+<p>Interaksi selama Tes Turing harus alami dan lancar, meniru alur percakapan manusia yang sebenarnya. Elemen-elemen berikut harus dipertimbangkan:<br>– <strong>Reaktivitas</strong> : Mesin harus menjawab pertanyaan dengan kecepatan yang mirip dengan percakapan manusia pada umumnya.<br>– <strong>Interaksi dua arah</strong> : Mesin seharusnya tidak hanya menjawab pertanyaan, tetapi juga dapat mengajukan pertanyaan untuk menunjukkan bahwa mesin mengikuti dan berpartisipasi aktif dalam percakapan.</p>
 
 
 
@@ -164,7 +164,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>&#8211; Percakapan mendalam tentang tema tertentu<br>&#8211; Penciptaan konten artistik asli<br>&#8211; Reaksi terhadap kejadian tak terduga atau informasi baru<br>&#8211; Interaksi real-time dengan lingkungan, misalnya melalui robot</p>
+<p>– Percakapan mendalam tentang tema tertentu<br>– Penciptaan konten artistik asli<br>– Reaksi terhadap kejadian tak terduga atau informasi baru<br>– Interaksi real-time dengan lingkungan, misalnya melalui robot</p>
 
 
 

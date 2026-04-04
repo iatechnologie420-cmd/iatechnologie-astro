@@ -2,7 +2,7 @@
 lang: "tr"
 title: "Birleşik İletişim: Ulaşılamazlık imkansız hale mi geldi?"
 slug: "birlesik-iletisim-ulasilamazlik-imkansiz-hale-mi-geldi"
-excerpt: "Birleşik iletişim: Tanım ve prensip Birleşik İletişim Nedir? THE Birleşik İletişim (CU) veya İngilizce Birleşik İletişim, çeşitli iletişim biçimlerini aynı arayüz veya platform içerisinde entegre etmeyi veya birleştirmeyi amaçlayan bir dizi hizmet ve çözümü belirtir. Buna anlık mesajlaşma, video konferans, sesli arama (VoIP), e-posta, web konferansı ve sesli posta dahildir. Ana amaç, coğrafi konuma veya [&hellip;]"
+excerpt: "Birleşik iletişim: Tanım ve prensip Birleşik İletişim Nedir? THE Birleşik İletişim (CU) veya İngilizce Birleşik İletişim, çeşitli iletişim biçimlerini aynı arayüz veya platform içerisinde entegre etmeyi veya birleştirmeyi amaçlayan bir dizi hizmet ve çözümü belirtir. Buna anlık mesajlaşma, video konferans, sesli arama (VoIP), e-posta, web konferansı ve sesli posta dahildir. Ana amaç, coğrafi konuma veya […]"
 date: "2024-03-09T12:02:05"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Communications-unifies-le-terme-dinjoignabilite-est-il-devenu-abstrait-1-3.png"
 categories: ["dijital-medya-ve-platformlar-tr", "teknoloji-ve-dijital-tr"]
@@ -10,7 +10,7 @@ categories: ["dijital-medya-ve-platformlar-tr", "teknoloji-ve-dijital-tr"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Qu&#039;est ce que la communication unifiée  ?" width="500" height="281" src="https://www.youtube.com/embed/gB_FWRvjFU0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Qu'est ce que la communication unifiée  ?" width="500" height="281" src="https://www.youtube.com/embed/gB_FWRvjFU0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -40,7 +40,7 @@ categories: ["dijital-medya-ve-platformlar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<p>  Dijital çağda, <strong>şirketler</strong> iç ve dış iletişimlerinde giderek artan bir esneklik ve yanıt verme ihtiyacıyla karşı karşıya kalmaları gerekmektedir. CU&#8217;nun benimsenmesi, farklı iletişim araçları arasındaki siloları ortadan kaldırarak ve bilgi alışverişindeki gecikmeleri azaltarak şirketlerin verimlilik kazanmasına olanak tanır. </p>
+<p>  Dijital çağda, <strong>şirketler</strong> iç ve dış iletişimlerinde giderek artan bir esneklik ve yanıt verme ihtiyacıyla karşı karşıya kalmaları gerekmektedir. CU’nun benimsenmesi, farklı iletişim araçları arasındaki siloları ortadan kaldırarak ve bilgi alışverişindeki gecikmeleri azaltarak şirketlerin verimlilik kazanmasına olanak tanır. </p>
 
 
 
@@ -57,27 +57,27 @@ categories: ["dijital-medya-ve-platformlar-tr", "teknoloji-ve-dijital-tr"]
 
 
 <ul class="wp-block-list">
-<li><strong>Anlık mesajlaşma</strong> &#8211; Meslektaşlar arasında gerçek zamanlı alışverişe izin verir.</li>
+<li><strong>Anlık mesajlaşma</strong> – Meslektaşlar arasında gerçek zamanlı alışverişe izin verir.</li>
 
 
 
-<li><strong>VoIP (İnternet Protokolü Üzerinden Ses)</strong> &#8211; İnternet üzerinden sesli görüşme yapılmasına yetki verir.</li>
+<li><strong>VoIP (İnternet Protokolü Üzerinden Ses)</strong> – İnternet üzerinden sesli görüşme yapılmasına yetki verir.</li>
 
 
 
-<li><strong>Video konferans</strong> &#8211; Videolu sanal toplantıları kolaylaştırır.</li>
+<li><strong>Video konferans</strong> – Videolu sanal toplantıları kolaylaştırır.</li>
 
 
 
-<li><strong>E-posta</strong> &#8211; E-postaların gönderilmesini ve alınmasını merkezileştirir.</li>
+<li><strong>E-posta</strong> – E-postaların gönderilmesini ve alınmasını merkezileştirir.</li>
 
 
 
-<li><strong>Web konferansı</strong> &#8211; Sunumları veya belgeleri uzaktan paylaşmanıza olanak tanır.</li>
+<li><strong>Web konferansı</strong> – Sunumları veya belgeleri uzaktan paylaşmanıza olanak tanır.</li>
 
 
 
-<li><strong>Entegre sesli posta ve faks</strong> &#8211; E-posta gelen kutusuna sesli ve faks mesajlarının alınmasını sağlar.</li>
+<li><strong>Entegre sesli posta ve faks</strong> – E-posta gelen kutusuna sesli ve faks mesajlarının alınmasını sağlar.</li>
 
 
 
@@ -124,7 +124,7 @@ categories: ["dijital-medya-ve-platformlar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<p>  Birçok oyuncu, işletmelerin çeşitli ihtiyaçlarını karşılamak için çeşitli çözümler sunarak Birleşik İletişim pazarına hakimdir. Bulduğumuz en iyi bilinenler arasında <strong>Microsoft</strong> Microsoft Teams&#8217;le, <strong>Cisco</strong> Webex ile, <strong>Yakınlaştır</strong> çok beğenilen video konferans çözümü için, hatta <strong>Gevşek</strong>, profesyonel anlık mesajlaşmaya öncülük etti.</p>
+<p>  Birçok oyuncu, işletmelerin çeşitli ihtiyaçlarını karşılamak için çeşitli çözümler sunarak Birleşik İletişim pazarına hakimdir. Bulduğumuz en iyi bilinenler arasında <strong>Microsoft</strong> Microsoft Teams’le, <strong>Cisco</strong> Webex ile, <strong>Yakınlaştır</strong> çok beğenilen video konferans çözümü için, hatta <strong>Gevşek</strong>, profesyonel anlık mesajlaşmaya öncülük etti.</p>
 
 
 
@@ -160,7 +160,7 @@ categories: ["dijital-medya-ve-platformlar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<p>Geliştirilmesi <strong>anlık mesajlaşma platformları</strong> gibi <strong>Naber</strong> Veya <strong>Telgraf</strong> ve bunun gibi sosyal ağlar <strong>Facebook</strong> Ve <strong>heyecan</strong> durumu bir kez daha değiştirdi. Bu platformlar gerçek zamanlı iletişime izin verir ve genellikle &#8220;son bağlantılar&#8221; veya &#8220;görülen&#8221; gibi kullanılabilirlik göstergelerini bırakır; bu da erişilemezlik kavramını daha da azaltır.</p>
+<p>Geliştirilmesi <strong>anlık mesajlaşma platformları</strong> gibi <strong>Naber</strong> Veya <strong>Telgraf</strong> ve bunun gibi sosyal ağlar <strong>Facebook</strong> Ve <strong>heyecan</strong> durumu bir kez daha değiştirdi. Bu platformlar gerçek zamanlı iletişime izin verir ve genellikle “son bağlantılar” veya “görülen” gibi kullanılabilirlik göstergelerini bırakır; bu da erişilemezlik kavramını daha da azaltır.</p>
 
 
 

@@ -2,14 +2,14 @@
 lang: "en"
 title: "SSD: everything you need to know about Solid-State Drive data storage"
 slug: "ssd-everything-you-need-to-know-about-solid-state-drive-data-storage"
-excerpt: "Introduction to SSDs and How They Work The advent of solid state disks, or SSD (Solid State Drive in English), marked a real revolution in the field of data storage. Unlike traditional hard disk drives (HDDs) which use magnetic platters to store information, HDDs SSD rely on flash memory chips with no moving parts. This [&hellip;]"
+excerpt: "Introduction to SSDs and How They Work The advent of solid state disks, or SSD (Solid State Drive in English), marked a real revolution in the field of data storage. Unlike traditional hard disk drives (HDDs) which use magnetic platters to store information, HDDs SSD rely on flash memory chips with no moving parts. This […]"
 date: "2024-03-09T12:21:52"
 categories: ["computing-and-data-en", "technology-and-digital-en"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How It&#039;s Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="How It's Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -59,7 +59,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>In the world of computing, the question of storage is essential. For several years, integrated circuit disks or <strong>SSD</strong> (Solid State Drives) are gaining popularity over magnetic hard drives or <strong>HDD</strong> (Hard Disk Drives). Let&#8217;s take a closer look at the superiority of <strong>SSD</strong> on the <strong>HDD</strong> through a series of criteria.</p>
+<p>In the world of computing, the question of storage is essential. For several years, integrated circuit disks or <strong>SSD</strong> (Solid State Drives) are gaining popularity over magnetic hard drives or <strong>HDD</strong> (Hard Disk Drives). Let’s take a closer look at the superiority of <strong>SSD</strong> on the <strong>HDD</strong> through a series of criteria.</p>
 
 
 
@@ -179,7 +179,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>Read and write speeds are key indicators of an SSD&#8217;s performance. They determine how quickly the system can access data and record new information. An SSD with high read and write speeds will reduce loading times and improve the user experience, especially for disk space-intensive applications.</p>
+<p>Read and write speeds are key indicators of an SSD’s performance. They determine how quickly the system can access data and record new information. An SSD with high read and write speeds will reduce loading times and improve the user experience, especially for disk space-intensive applications.</p>
 
 
 
@@ -187,7 +187,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>An SSD is often more reliable than an HDD because it has no moving parts that can wear out or be damaged. However, SSDs have a finite number of write cycles before the hardware begins to decline. Check the SSD&#8217;s endurance, often expressed in total writes or number of years. Choose an SSD known for its long-term durability.</p>
+<p>An SSD is often more reliable than an HDD because it has no moving parts that can wear out or be damaged. However, SSDs have a finite number of write cycles before the hardware begins to decline. Check the SSD’s endurance, often expressed in total writes or number of years. Choose an SSD known for its long-term durability.</p>
 
 
 

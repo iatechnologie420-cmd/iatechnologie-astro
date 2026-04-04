@@ -2,7 +2,7 @@
 lang: "es"
 title: "Samsung Xcover 7: ¿La solución definitiva para los aventureros?"
 slug: "samsung-xcover-7-la-solucion-definitiva-para-los-aventureros"
-excerpt: "Las características técnicas del Samsung Xcover 7 El Samsung Xcover 7 es el último teléfono de la gama Xcover, conocido por su resistencia a los elementos y durabilidad. Con funciones avanzadas y un diseño resistente, el Xcover 7 está diseñado para personas activas que necesitan un teléfono inteligente confiable en cualquier situación. En este artículo, [&hellip;]"
+excerpt: "Las características técnicas del Samsung Xcover 7 El Samsung Xcover 7 es el último teléfono de la gama Xcover, conocido por su resistencia a los elementos y durabilidad. Con funciones avanzadas y un diseño resistente, el Xcover 7 está diseñado para personas activas que necesitan un teléfono inteligente confiable en cualquier situación. En este artículo, […]"
 date: "2024-03-09T12:12:21"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Samsung-Xcover-7-La-solution-ultime-pour-les-baroudeurs-.png"
 categories: ["tecnologia-y-digital-es", "tecnologias-portatiles-e-iot-es"]
@@ -30,7 +30,7 @@ categories: ["tecnologia-y-digital-es", "tecnologias-portatiles-e-iot-es"]
 
 
 
-<p>El Xcover 7 luce un diseño robusto construido para soportar las condiciones más extremas. Doté d&#8217;une coque en plastique durci et d&#8217;un écran Gorilla Glass, ce téléphone est certifié IP68, ce qui signifie qu&#8217;il est étanche à la poussière et à l&#8217;eau jusqu&#8217;à une profondeur de 1,5 mètre pendant 30 minutos. Además, también cumple con la norma militar MIL-STD-810H, lo que asegura su resistencia a caídas, vibraciones y temperaturas extremas.</p>
+<p>El Xcover 7 luce un diseño robusto construido para soportar las condiciones más extremas. Doté d’une coque en plastique durci et d’un écran Gorilla Glass, ce téléphone est certifié IP68, ce qui signifie qu’il est étanche à la poussière et à l’eau jusqu’à une profondeur de 1,5 mètre pendant 30 minutos. Además, también cumple con la norma militar MIL-STD-810H, lo que asegura su resistencia a caídas, vibraciones y temperaturas extremas.</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Telegram: wszystko, co musisz wiedzieć o aplikacji do bezpiecznego przesyłania wiadomości"
 slug: "telegram-wszystko-co-musisz-wiedziec-o-aplikacji-do-bezpiecznego-przesylania-wiadomosci"
-excerpt: "Co to jest Telegram? Telegram to aplikacja do obsługi wiadomości błyskawicznych, skupiająca się na szybkości i bezpieczeństwie. Stała się jedną z najpopularniejszych platform komunikacyjnych na świecie dzięki połączeniu zaawansowanych funkcji, intuicyjnego interfejsu i zaangażowaniu w ochronę prywatności użytkowników. Od chwili premiery w 2013 r. Telegram wyróżnia się spośród mnóstwa aplikacji do przesyłania wiadomości, pozycjonując się [&hellip;]"
+excerpt: "Co to jest Telegram? Telegram to aplikacja do obsługi wiadomości błyskawicznych, skupiająca się na szybkości i bezpieczeństwie. Stała się jedną z najpopularniejszych platform komunikacyjnych na świecie dzięki połączeniu zaawansowanych funkcji, intuicyjnego interfejsu i zaangażowaniu w ochronę prywatności użytkowników. Od chwili premiery w 2013 r. Telegram wyróżnia się spośród mnóstwa aplikacji do przesyłania wiadomości, pozycjonując się […]"
 date: "2024-03-09T12:13:40"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-3.png"
 categories: ["infrastruktura-i-sieci-pl", "technologia-i-cyfrowosc-pl"]

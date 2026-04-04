@@ -2,7 +2,7 @@
 lang: "pt"
 title: "O que é um espaço de trabalho digital/trabalho aumentado?"
 slug: "o-que-e-um-espaco-de-trabalho-digital-trabalho-aumentado"
-excerpt: "O que é um espaço de trabalho digital? O termo Espaço de trabalho digital, Ou espaço de trabalho digital, define um ambiente de trabalho que não possui mais barreiras físicas graças às tecnologias digitais. Reúne um conjunto de ferramentas e tecnologias que permitem aos utilizadores conectar-se, colaborar e realizar as suas tarefas profissionais independentemente da [&hellip;]"
+excerpt: "O que é um espaço de trabalho digital? O termo Espaço de trabalho digital, Ou espaço de trabalho digital, define um ambiente de trabalho que não possui mais barreiras físicas graças às tecnologias digitais. Reúne um conjunto de ferramentas e tecnologias que permitem aos utilizadores conectar-se, colaborar e realizar as suas tarefas profissionais independentemente da […]"
 date: "2024-03-09T12:25:13"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-3.png"
 categories: ["infraestrutura-e-redes-pt", "tecnologia-e-digital-pt"]
@@ -162,7 +162,7 @@ categories: ["infraestrutura-e-redes-pt", "tecnologia-e-digital-pt"]
 
 
 
-<p>EU&#8217;<strong>Inteligência Artificial (IA)</strong> e a<strong>Aprendizado de máquina</strong> (Machine Learning) estão no centro do trabalho aumentado. Permitem não só automatizar tarefas repetitivas, libertando tempo para missões de maior valor acrescentado, mas também apoiar a tomada de decisões graças à análise de dados massivos (Big Data). Assistentes virtuais, chatbots e sistemas de recomendação personalizados são algumas das ferramentas alimentadas por IA que estão transformando o mundo do trabalho.</p>
+<p>EU’<strong>Inteligência Artificial (IA)</strong> e a<strong>Aprendizado de máquina</strong> (Machine Learning) estão no centro do trabalho aumentado. Permitem não só automatizar tarefas repetitivas, libertando tempo para missões de maior valor acrescentado, mas também apoiar a tomada de decisões graças à análise de dados massivos (Big Data). Assistentes virtuais, chatbots e sistemas de recomendação personalizados são algumas das ferramentas alimentadas por IA que estão transformando o mundo do trabalho.</p>
 
 
 

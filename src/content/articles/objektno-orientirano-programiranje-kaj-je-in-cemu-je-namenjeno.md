@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Objektno orientirano programiranje: kaj je in čemu je namenjeno?"
 slug: "objektno-orientirano-programiranje-kaj-je-in-cemu-je-namenjeno"
-excerpt: "Osnove objektno orientiranega programiranja tam Objektno orientirano programiranje (OOP) je programska paradigma, ki uporablja &#8220;objekte&#8221; za oblikovanje računalniških aplikacij in programov. Ti objekti predstavljajo entitete iz resničnega sveta in razvijalcem omogočajo ustvarjanje bolj prilagodljive, razširljive in vzdržljive programske opreme. V tem članku bomo raziskali osnovne koncepte, ki tvorijo temelj OOP. Abstrakcija L&#8217;abstrakcija je postopek, s [&hellip;]"
+excerpt: "Osnove objektno orientiranega programiranja tam Objektno orientirano programiranje (OOP) je programska paradigma, ki uporablja “objekte” za oblikovanje računalniških aplikacij in programov. Ti objekti predstavljajo entitete iz resničnega sveta in razvijalcem omogočajo ustvarjanje bolj prilagodljive, razširljive in vzdržljive programske opreme. V tem članku bomo raziskali osnovne koncepte, ki tvorijo temelj OOP. Abstrakcija L’abstrakcija je postopek, s […]"
 date: "2024-03-09T12:49:44"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
 categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
@@ -18,7 +18,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>tam <strong>Objektno orientirano programiranje</strong> (OOP) je programska paradigma, ki uporablja &#8220;objekte&#8221; za oblikovanje računalniških aplikacij in programov. Ti objekti predstavljajo entitete iz resničnega sveta in razvijalcem omogočajo ustvarjanje bolj prilagodljive, razširljive in vzdržljive programske opreme. V tem članku bomo raziskali osnovne koncepte, ki tvorijo temelj OOP.</p>
+<p>tam <strong>Objektno orientirano programiranje</strong> (OOP) je programska paradigma, ki uporablja “objekte” za oblikovanje računalniških aplikacij in programov. Ti objekti predstavljajo entitete iz resničnega sveta in razvijalcem omogočajo ustvarjanje bolj prilagodljive, razširljive in vzdržljive programske opreme. V tem članku bomo raziskali osnovne koncepte, ki tvorijo temelj OOP.</p>
 
 
 
@@ -30,7 +30,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>L&#8217;<strong>abstrakcija</strong> je postopek, s katerim programer skrije vse nepomembne podrobnosti predmeta, da bi uporabniku pokazal le pomembne lastnosti. Tako je lažje razumeti, kako predmeti delujejo, ne da bi vas skrbelo njihova notranja kompleksnost.</p>
+<p>L’<strong>abstrakcija</strong> je postopek, s katerim programer skrije vse nepomembne podrobnosti predmeta, da bi uporabniku pokazal le pomembne lastnosti. Tako je lažje razumeti, kako predmeti delujejo, ne da bi vas skrbelo njihova notranja kompleksnost.</p>
 
 
 
@@ -38,7 +38,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>L&#8217;<strong>enkapsulacija</strong> je tehnika, ki je sestavljena iz združevanja podatkov in metod, ki z njimi manipulirajo, znotraj iste enote, ki se pogosto imenuje razred. Enkapsulacija prav tako ščiti celovitost podatkov, tako da omogoča samo spreminjanje z definiranimi metodami, kar preprečuje nepooblaščen nepooblaščen dostop.</p>
+<p>L’<strong>enkapsulacija</strong> je tehnika, ki je sestavljena iz združevanja podatkov in metod, ki z njimi manipulirajo, znotraj iste enote, ki se pogosto imenuje razred. Enkapsulacija prav tako ščiti celovitost podatkov, tako da omogoča samo spreminjanje z definiranimi metodami, kar preprečuje nepooblaščen nepooblaščen dostop.</p>
 
 
 
@@ -46,7 +46,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>L&#8217;<strong>zapuščina</strong> je funkcija OOP, ki vam omogoča, da ustvarite nov razred na podlagi obstoječega razreda. Novi razred, imenovan izpeljani razred, podeduje atribute in metode osnovnega razreda, kar omogoča ponovno uporabo kode in ustvarjanje hierarhij razredov.</p>
+<p>L’<strong>zapuščina</strong> je funkcija OOP, ki vam omogoča, da ustvarite nov razred na podlagi obstoječega razreda. Novi razred, imenovan izpeljani razred, podeduje atribute in metode osnovnega razreda, kar omogoča ponovno uporabo kode in ustvarjanje hierarhij razredov.</p>
 
 
 
@@ -102,7 +102,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>V OOP, pogoji <strong>združenje</strong>, <strong>združevanje</strong> in <strong>sestava</strong> opišejo različne načine, na katere je mogoče predmete povezati. Asociacija je razmerje med dvema predmetoma, ki sta neodvisna drug od drugega, združevanje je razmerje &#8220;celo-del&#8221;, kjer deli lahko obstajajo ločeno od celote, sestava pa je razmerje &#8220;celo-del&#8221;, &#8220;kjer deli ne morejo obstajati brez cela.</p>
+<p>V OOP, pogoji <strong>združenje</strong>, <strong>združevanje</strong> in <strong>sestava</strong> opišejo različne načine, na katere je mogoče predmete povezati. Asociacija je razmerje med dvema predmetoma, ki sta neodvisna drug od drugega, združevanje je razmerje “celo-del”, kjer deli lahko obstajajo ločeno od celote, sestava pa je razmerje “celo-del”, “kjer deli ne morejo obstajati brez cela.</p>
 
 
 
@@ -191,7 +191,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C&#8217;est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original &#8211; Louis Dhanis &#8211; Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C’est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original – Louis Dhanis – Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 
@@ -308,7 +308,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>OOP temelji na konceptu &#8220;predmetov&#8221;, ki so primerki &#8220;razredov&#8221;. Objekti vsebujejo podatke in metode. Java in Python sta jezika, ki utelešata to paradigmo.</p>
+<p>OOP temelji na konceptu “predmetov”, ki so primerki “razredov”. Objekti vsebujejo podatke in metode. Java in Python sta jezika, ki utelešata to paradigmo.</p>
 
 
 

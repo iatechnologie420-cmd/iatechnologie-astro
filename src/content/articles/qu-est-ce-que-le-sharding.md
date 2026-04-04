@@ -2,7 +2,7 @@
 lang: "fr"
 title: "Qu’est-ce que le Sharding ? définition et avantages"
 slug: "qu-est-ce-que-le-sharding"
-excerpt: "Comprendre le sharding : définition et principes de base Le monde des bases de données et du stockage de données à grande échelle est complexe et constamment en évolution. Pour gérer efficacement les volumes de données qui augmentent de façon exponentielle, les architectures informatiques doivent innover et trouver des solutions pour optimiser les performances et [&hellip;]"
+excerpt: "Comprendre le sharding : définition et principes de base Le monde des bases de données et du stockage de données à grande échelle est complexe et constamment en évolution. Pour gérer efficacement les volumes de données qui augmentent de façon exponentielle, les architectures informatiques doivent innover et trouver des solutions pour optimiser les performances et […]"
 date: "2024-02-03T08:57:47"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-que-le-Sharding-definition-et-avantages-de-cette-methode-de-distribution-des-donnees-3.png"
 categories: ["infrastructure-et-reseaux", "technologie-numerique"]
@@ -19,12 +19,12 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/qu-est-ce-que-le-sharding/#Comprendre_le_sharding_definition_et_principes_de_base" >Comprendre le sharding : définition et principes de base</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/qu-est-ce-que-le-sharding/#Quest-ce_que_le_Sharding" >Qu&#8217;est-ce que le Sharding ?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/qu-est-ce-que-le-sharding/#Comment_fonctionne_le_sharding" >Comment fonctionne le sharding ?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/qu-est-ce-que-le-sharding/#Avantages_du_Sharding" >Avantages du Sharding</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/qu-est-ce-que-le-sharding/#Challenges_et_Considerations" >Challenges et Considérations</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-6" href="/qu-est-ce-que-le-sharding/#Comment_les_donnees_sont-elles_distribuees" >Comment les données sont-elles distribuées ?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/qu-est-ce-que-le-sharding/#Stockage_des_donnees_dans_les_shards" >Stockage des données dans les shards</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/qu-est-ce-que-le-sharding/#Inconvenients_du_Sharding" >Inconvénients du Sharding</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/qu-est-ce-que-le-sharding/#Challenges_techniques_du_sharding" >Challenges techniques du sharding</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/qu-est-ce-que-le-sharding/#Considerations_Pratiques_pour_le_Sharding" >Considérations Pratiques pour le Sharding</a></li></ul></li></ul></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/qu-est-ce-que-le-sharding/#Comprendre_le_sharding_definition_et_principes_de_base" >Comprendre le sharding : définition et principes de base</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/qu-est-ce-que-le-sharding/#Quest-ce_que_le_Sharding" >Qu’est-ce que le Sharding ?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/qu-est-ce-que-le-sharding/#Comment_fonctionne_le_sharding" >Comment fonctionne le sharding ?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/qu-est-ce-que-le-sharding/#Avantages_du_Sharding" >Avantages du Sharding</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/qu-est-ce-que-le-sharding/#Challenges_et_Considerations" >Challenges et Considérations</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-6" href="/qu-est-ce-que-le-sharding/#Comment_les_donnees_sont-elles_distribuees" >Comment les données sont-elles distribuées ?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/qu-est-ce-que-le-sharding/#Stockage_des_donnees_dans_les_shards" >Stockage des données dans les shards</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/qu-est-ce-que-le-sharding/#Inconvenients_du_Sharding" >Inconvénients du Sharding</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/qu-est-ce-que-le-sharding/#Challenges_techniques_du_sharding" >Challenges techniques du sharding</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/qu-est-ce-que-le-sharding/#Considerations_Pratiques_pour_le_Sharding" >Considérations Pratiques pour le Sharding</a></li></ul></li></ul></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="Comprendre_le_sharding_definition_et_principes_de_base"></span>Comprendre le sharding : définition et principes de base<span class="ez-toc-section-end"></span></h2>
 
 
 
-<p>Le monde des bases de données et du stockage de données à grande échelle est complexe et constamment en évolution. Pour gérer efficacement les volumes de données qui augmentent de façon exponentielle, les architectures informatiques doivent innover et trouver des solutions pour optimiser les performances et la gestion de ces données. L&#8217;une des approches de cette problématique est une technique appelée <strong>sharding</strong>. </p>
+<p>Le monde des bases de données et du stockage de données à grande échelle est complexe et constamment en évolution. Pour gérer efficacement les volumes de données qui augmentent de façon exponentielle, les architectures informatiques doivent innover et trouver des solutions pour optimiser les performances et la gestion de ces données. L’une des approches de cette problématique est une technique appelée <strong>sharding</strong>. </p>
 
 
 
@@ -32,11 +32,11 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="Quest-ce_que_le_Sharding"></span>Qu&#8217;est-ce que le Sharding ?<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="Quest-ce_que_le_Sharding"></span>Qu’est-ce que le Sharding ?<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>Le <strong>sharding</strong> est une méthode de partitionnement horizontal de données dans une base de données distribuée ou un système de gestion de base de données. Cette technique consiste à diviser la base de données en plus petites parties appelées <em>shards</em>, qui peuvent être réparties sur plusieurs serveurs. Chaque shard contient un sous-ensemble de données et fonctionne comme une base de données indépendante. Le principal avantage de cela est qu&#8217;il permet de gérer de grandes quantités de données et de transactions de manière plus efficace en réduisant la charge sur chaque serveur individuel.</p>
+<p>Le <strong>sharding</strong> est une méthode de partitionnement horizontal de données dans une base de données distribuée ou un système de gestion de base de données. Cette technique consiste à diviser la base de données en plus petites parties appelées <em>shards</em>, qui peuvent être réparties sur plusieurs serveurs. Chaque shard contient un sous-ensemble de données et fonctionne comme une base de données indépendante. Le principal avantage de cela est qu’il permet de gérer de grandes quantités de données et de transactions de manière plus efficace en réduisant la charge sur chaque serveur individuel.</p>
 
 
 
@@ -44,11 +44,11 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<p>Le sharding s&#8217;appuie sur une logique de répartition des données qui est déterminée par un algorithme de sharding. Il existe différents algorithmes, mais le choix dépend souvent de la nature des données et des requêtes que le système doit gérer. Des exemples courants d&#8217;algorithmes comprennent le sharding basé sur la plage (où les données sont distribuées selon des plages de valeurs), le sharding par hachage (où un hachage de certaines clés détermine l&#8217;emplacement de la donnée), ou encore le sharding basé sur le répertoire (avec une table de correspondance pour localiser les données).</p>
+<p>Le sharding s’appuie sur une logique de répartition des données qui est déterminée par un algorithme de sharding. Il existe différents algorithmes, mais le choix dépend souvent de la nature des données et des requêtes que le système doit gérer. Des exemples courants d’algorithmes comprennent le sharding basé sur la plage (où les données sont distribuées selon des plages de valeurs), le sharding par hachage (où un hachage de certaines clés détermine l’emplacement de la donnée), ou encore le sharding basé sur le répertoire (avec une table de correspondance pour localiser les données).</p>
 
 
 
-<p>Une fois les shards créés et les données réparties, un système de gestion centralisé, souvent appelé <em>shard manager</em> ou <em>balancer</em>, est nécessaire pour coordonner les transactions et les requêtes entre les différents shards. Ce système assure que les requêtes sont dirigées vers le bon shard, permettant ainsi d&#8217;interagir avec seulement la portion pertinente de la base de données.</p>
+<p>Une fois les shards créés et les données réparties, un système de gestion centralisé, souvent appelé <em>shard manager</em> ou <em>balancer</em>, est nécessaire pour coordonner les transactions et les requêtes entre les différents shards. Ce système assure que les requêtes sont dirigées vers le bon shard, permettant ainsi d’interagir avec seulement la portion pertinente de la base de données.</p>
 
 
 
@@ -61,7 +61,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 <ul class="wp-block-list">
-<li><strong>Scalabilité</strong> : Le sharding permet aux bases de données de facilement s&#8217;adapter à l&#8217;augmentation de la charge en ajoutant simplement plus de serveurs.</li>
+<li><strong>Scalabilité</strong> : Le sharding permet aux bases de données de facilement s’adapter à l’augmentation de la charge en ajoutant simplement plus de serveurs.</li>
 
 
 
@@ -87,7 +87,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<li>Les transactions qui nécessitent de l&#8217;information à travers différents shards sont plus compliquées à gérer.</li>
+<li>Les transactions qui nécessitent de l’information à travers différents shards sont plus compliquées à gérer.</li>
 
 
 
@@ -96,7 +96,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<p>Ainsi, il est important de considérer attentivement si le sharding est la bonne stratégie pour une application donnée. Parfois, d&#8217;autres approches comme le partitionnement vertical, la réplication de données, ou l&#8217;utilisation d&#8217;une base de données non relationnelle, peuvent être plus appropriées.</p>
+<p>Ainsi, il est important de considérer attentivement si le sharding est la bonne stratégie pour une application donnée. Parfois, d’autres approches comme le partitionnement vertical, la réplication de données, ou l’utilisation d’une base de données non relationnelle, peuvent être plus appropriées.</p>
 
 
 
@@ -113,7 +113,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 <ul class="wp-block-list">
-<li><strong>Sharding basé sur la plage de clés :</strong> Les données sont réparties selon une clé spécifique, où chaque shard est responsable d&#8217;une plage de valeurs.</li>
+<li><strong>Sharding basé sur la plage de clés :</strong> Les données sont réparties selon une clé spécifique, où chaque shard est responsable d’une plage de valeurs.</li>
 
 
 
@@ -126,7 +126,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<p>Ces méthodes permettent une répartition relativement équilibrée des données, une réduction des goulots d&#8217;étranglement et une amélioration des temps de réponse.</p>
+<p>Ces méthodes permettent une répartition relativement équilibrée des données, une réduction des goulots d’étranglement et une amélioration des temps de réponse.</p>
 
 
 
@@ -134,7 +134,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<p>Les données sont stockées dans chaque shard de manière indépendante des autres shards. Cela signifie que chaque shard agit comme une base de données autonome, avec ses propres schémas et index. La cohérence des données entre les shards est maintenue de façon logique plutôt que physique, ce qui peut parfois introduire de la complexité lors de la gestion des transactions qui s&#8217;étendent sur plusieurs shards.</p>
+<p>Les données sont stockées dans chaque shard de manière indépendante des autres shards. Cela signifie que chaque shard agit comme une base de données autonome, avec ses propres schémas et index. La cohérence des données entre les shards est maintenue de façon logique plutôt que physique, ce qui peut parfois introduire de la complexité lors de la gestion des transactions qui s’étendent sur plusieurs shards.</p>
 
 
 
@@ -155,7 +155,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<li><strong>Coûts :</strong> La nécessité d&#8217;opérer et de gérer plus d&#8217;infrastructure peut augmenter les coûts.</li>
+<li><strong>Coûts :</strong> La nécessité d’opérer et de gérer plus d’infrastructure peut augmenter les coûts.</li>
 
 
 
@@ -177,19 +177,19 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 <ul class="wp-block-list">
-<li><strong>Complexité de la conception</strong> : La planification des clés de sharding est cruciale et doit être faite avec prudence, car une mauvaise conception peut entraîner un déséquilibre dans la distribution des données et compromettre l&#8217;efficacité du système.</li>
+<li><strong>Complexité de la conception</strong> : La planification des clés de sharding est cruciale et doit être faite avec prudence, car une mauvaise conception peut entraîner un déséquilibre dans la distribution des données et compromettre l’efficacité du système.</li>
 
 
 
-<li><strong>Requêtes transversales</strong> : La réalisation de requêtes sur plusieurs shards peut être complexe et lourde car cela nécessite des mécanismes de communication et d&#8217;agrégation entre les shards.</li>
+<li><strong>Requêtes transversales</strong> : La réalisation de requêtes sur plusieurs shards peut être complexe et lourde car cela nécessite des mécanismes de communication et d’agrégation entre les shards.</li>
 
 
 
-<li><strong>Transactions distribuées</strong> : Maintenir l&#8217;intégrité des transactions sur plusieurs shards est complexe et requiert des protocoles de coordination et des mécanismes de verrouillage sophistiqués.</li>
+<li><strong>Transactions distribuées</strong> : Maintenir l’intégrité des transactions sur plusieurs shards est complexe et requiert des protocoles de coordination et des mécanismes de verrouillage sophistiqués.</li>
 
 
 
-<li><strong>Mise à l&#8217;échelle</strong> : Bien que le sharding permette le scalabilité, l&#8217;ajout ou la suppression de shards après coup peut s&#8217;avérer compliqué et nécessite souvent une redistribution des données.</li>
+<li><strong>Mise à l’échelle</strong> : Bien que le sharding permette le scalabilité, l’ajout ou la suppression de shards après coup peut s’avérer compliqué et nécessite souvent une redistribution des données.</li>
 </ul>
 
 
@@ -207,7 +207,7 @@ categories: ["infrastructure-et-reseaux", "technologie-numerique"]
 
 
 
-<li><strong>Performance</strong> : Le choix d&#8217;une stratégie de sharding inadaptée peut entraîner des performances médiocres, notamment si le load balancing n&#8217;est pas bien géré.</li>
+<li><strong>Performance</strong> : Le choix d’une stratégie de sharding inadaptée peut entraîner des performances médiocres, notamment si le load balancing n’est pas bien géré.</li>
 
 
 

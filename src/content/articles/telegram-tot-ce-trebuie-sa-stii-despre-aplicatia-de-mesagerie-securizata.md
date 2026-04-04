@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Telegram: tot ce trebuie să știi despre aplicația de mesagerie securizată"
 slug: "telegram-tot-ce-trebuie-sa-stii-despre-aplicatia-de-mesagerie-securizata"
-excerpt: "Ce este Telegram? Telegramă este o aplicație de mesagerie instantanee axată pe viteză și securitate. A devenit una dintre cele mai populare platforme de comunicații din lume datorită combinației sale de caracteristici avansate, interfețe intuitive și angajament de a proteja confidențialitatea utilizatorilor. De la lansarea sa în 2013, Telegramă s-a remarcat în rândul unei multitudini [&hellip;]"
+excerpt: "Ce este Telegram? Telegramă este o aplicație de mesagerie instantanee axată pe viteză și securitate. A devenit una dintre cele mai populare platforme de comunicații din lume datorită combinației sale de caracteristici avansate, interfețe intuitive și angajament de a proteja confidențialitatea utilizatorilor. De la lansarea sa în 2013, Telegramă s-a remarcat în rândul unei multitudini […]"
 date: "2024-03-09T12:14:03"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-3.png"
 categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]

@@ -2,7 +2,7 @@
 lang: "en"
 title: "Are Nike technologies revolutionizing the world of sport?"
 slug: "are-nike-technologies-revolutionizing-the-world-of-sport"
-excerpt: "Nike&#8217;s technological innovations in sport Nike is an iconic brand in the field of sports equipment, and its reputation is largely based on its ability to constantly innovate. Since its founding in 1964, the company has demonstrated remarkable ingenuity in developing technologies that improve athlete performance and revolutionize the world of sport. Flyknit technology: lightness [&hellip;]"
+excerpt: "Nike’s technological innovations in sport Nike is an iconic brand in the field of sports equipment, and its reputation is largely based on its ability to constantly innovate. Since its founding in 1964, the company has demonstrated remarkable ingenuity in developing technologies that improve athlete performance and revolutionize the world of sport. Flyknit technology: lightness […]"
 date: "2024-03-09T12:32:50"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-technologies-Nike-revolutionnent-elles-le-monde-du-sport-.png"
 categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-en"]
@@ -13,8 +13,8 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Nikes_technological_innovations_in_sport" >Nike&#8217;s technological innovations in sport</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Flyknit_technology_lightness_and_fit" >Flyknit technology: lightness and fit</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#The_Nike_Air_sole_cushioning_and_dynamism" >The Nike Air sole: cushioning and dynamism</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Dri-FIT_technology_moisture_management" >Dri-FIT technology: moisture management</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Nike_Plus_technology_tracking_and_training" >Nike Plus technology: tracking and training</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Smart_shoes" >Smart shoes</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Innovative_textiles" >Innovative textiles</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Virtual_reality" >Virtual reality</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Connected_nutrition" >Connected nutrition</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#The_advantages_and_limitations_of_Nike_technologies" >The advantages and limitations of Nike technologies</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#The_use_of_innovative_materials" >The use of innovative materials</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Digital_integration" >Digital integration</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Innovation_continues" >Innovation continues</a></li></ul></li></ul></li></ul></nav></div>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="Nikes_technological_innovations_in_sport"></span>Nike&#8217;s technological innovations in sport<span class="ez-toc-section-end"></span></h2>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Nikes_technological_innovations_in_sport" >Nike’s technological innovations in sport</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Flyknit_technology_lightness_and_fit" >Flyknit technology: lightness and fit</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#The_Nike_Air_sole_cushioning_and_dynamism" >The Nike Air sole: cushioning and dynamism</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Dri-FIT_technology_moisture_management" >Dri-FIT technology: moisture management</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Nike_Plus_technology_tracking_and_training" >Nike Plus technology: tracking and training</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Smart_shoes" >Smart shoes</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Innovative_textiles" >Innovative textiles</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Virtual_reality" >Virtual reality</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Connected_nutrition" >Connected nutrition</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#The_advantages_and_limitations_of_Nike_technologies" >The advantages and limitations of Nike technologies</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#The_use_of_innovative_materials" >The use of innovative materials</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Digital_integration" >Digital integration</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/en/are-nike-technologies-revolutionizing-the-world-of-sport/#Innovation_continues" >Innovation continues</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="Nikes_technological_innovations_in_sport"></span>Nike’s technological innovations in sport<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -42,7 +42,7 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 
 
 
-<p>Additionally, Nike Air technology also helps improve athletes&#8217; performance by providing increased support and propulsion during their movements.</p>
+<p>Additionally, Nike Air technology also helps improve athletes’ performance by providing increased support and propulsion during their movements.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 
 
 
-<p>Dri-FIT technology developed by <strong>Nike</strong> is a concrete example of the brand&#8217;s involvement in the field of sportswear. This innovation allows athletes to stay dry and comfortable with an effective moisture management system. Clothing with Dri-FIT technology is made from special fabrics that wick sweat away from the skin to the outside of the garment, where it can quickly evaporate. </p>
+<p>Dri-FIT technology developed by <strong>Nike</strong> is a concrete example of the brand’s involvement in the field of sportswear. This innovation allows athletes to stay dry and comfortable with an effective moisture management system. Clothing with Dri-FIT technology is made from special fabrics that wick sweat away from the skin to the outside of the garment, where it can quickly evaporate. </p>
 
 
 
@@ -70,7 +70,7 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 
 
 
-<p>One of Nike&#8217;s notable innovations is the development of smart shoes. Thanks to integrated sensors, these shoes are able to analyze the athlete&#8217;s stride, running technique and biometric data. This information is then transmitted to a mobile application which allows progress to be tracked, workouts to be adjusted and performance to be improved. Nike&#8217;s smart shoes offer a real advantage to athletes by giving them a better understanding of their body and the way they run.</p>
+<p>One of Nike’s notable innovations is the development of smart shoes. Thanks to integrated sensors, these shoes are able to analyze the athlete’s stride, running technique and biometric data. This information is then transmitted to a mobile application which allows progress to be tracked, workouts to be adjusted and performance to be improved. Nike’s smart shoes offer a real advantage to athletes by giving them a better understanding of their body and the way they run.</p>
 
 
 
@@ -78,7 +78,7 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 
 
 
-<p>In addition to shoes, Nike has also developed innovative textiles that help improve the performance of athletes. The brand&#8217;s clothing incorporates technologies such as graduated compression, which promotes blood circulation and reduces muscle vibration, providing better performance and faster recovery. In addition, Nike textiles are generally light, breathable and antiperspirant, which allows athletes to feel more comfortable during exercise and optimize their performance.</p>
+<p>In addition to shoes, Nike has also developed innovative textiles that help improve the performance of athletes. The brand’s clothing incorporates technologies such as graduated compression, which promotes blood circulation and reduces muscle vibration, providing better performance and faster recovery. In addition, Nike textiles are generally light, breathable and antiperspirant, which allows athletes to feel more comfortable during exercise and optimize their performance.</p>
 
 
 
@@ -86,7 +86,7 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 
 
 
-<p>One of Nike&#8217;s latest innovations is the use of virtual reality to improve sports performance. Thanks to virtual reality headsets, athletes can train in virtual environments, reproducing real competition conditions. This allows them to familiarize themselves with game situations, improve their decision-making and work on their concentration. Virtual reality therefore offers athletes new possibilities for training and mental preparation, thus helping to improve their performance during competitions.</p>
+<p>One of Nike’s latest innovations is the use of virtual reality to improve sports performance. Thanks to virtual reality headsets, athletes can train in virtual environments, reproducing real competition conditions. This allows them to familiarize themselves with game situations, improve their decision-making and work on their concentration. Virtual reality therefore offers athletes new possibilities for training and mental preparation, thus helping to improve their performance during competitions.</p>
 
 
 
@@ -159,7 +159,7 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 
 
 
-<li><strong>The community connection:</strong> Nike&#8217;s connected products allow athletes to connect and share their performances with other users, creating a true virtual community.</li>
+<li><strong>The community connection:</strong> Nike’s connected products allow athletes to connect and share their performances with other users, creating a true virtual community.</li>
 </ul>
 
 
@@ -169,7 +169,7 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 
 
 <ul class="wp-block-list">
-<li><strong>Protection of private life :</strong> The use of connected technologies may raise questions regarding the protection of users&#8217; privacy, particularly with regard to the collection and use of their personal data.</li>
+<li><strong>Protection of private life :</strong> The use of connected technologies may raise questions regarding the protection of users’ privacy, particularly with regard to the collection and use of their personal data.</li>
 
 
 
@@ -217,7 +217,7 @@ categories: ["disruptive-and-emerging-innovations-en", "technology-and-digital-e
 
 
 
-<li><strong>Fragility of intellectual property:</strong> Nike&#8217;s innovative technologies may be targets for counterfeiting or intellectual property theft, which could harm the company.</li>
+<li><strong>Fragility of intellectual property:</strong> Nike’s innovative technologies may be targets for counterfeiting or intellectual property theft, which could harm the company.</li>
 </ul>
 
 

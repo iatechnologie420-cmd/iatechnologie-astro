@@ -2,7 +2,7 @@
 lang: "es"
 title: "Entendiendo la prueba de Turing"
 slug: "entendiendo-la-prueba-de-turing"
-excerpt: "Orígenes y principios del test de Turing En el mundo de la inteligencia artificial (IA) y la informática, el test de Turing ocupa un lugar destacado. Se trata de un método de referencia diseñado para evaluar la capacidad de una máquina para imitar la inteligencia humana. Los orígenes y principios de esta prueba revolucionaria se [&hellip;]"
+excerpt: "Orígenes y principios del test de Turing En el mundo de la inteligencia artificial (IA) y la informática, el test de Turing ocupa un lugar destacado. Se trata de un método de referencia diseñado para evaluar la capacidad de una máquina para imitar la inteligencia humana. Los orígenes y principios de esta prueba revolucionaria se […]"
 date: "2024-03-09T12:55:52"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["formacion-y-fundamentos-de-la-ia-es"]
@@ -32,7 +32,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>La prueba de Turing toma su nombre de su inventor, Alan Turing, un matemático británico considerado uno de los pioneros de la informática. Presentó esta prueba por primera vez en su artículo de 1950 &#8220;Computing Machinery and Intelligence&#8221;, publicado en la revista británica Mind. Alan Turing explora la cuestión de si las máquinas pueden pensar y propone un método para evaluar la inteligencia artificial.</p>
+<p>La prueba de Turing toma su nombre de su inventor, Alan Turing, un matemático británico considerado uno de los pioneros de la informática. Presentó esta prueba por primera vez en su artículo de 1950 “Computing Machinery and Intelligence”, publicado en la revista británica Mind. Alan Turing explora la cuestión de si las máquinas pueden pensar y propone un método para evaluar la inteligencia artificial.</p>
 
 
 
@@ -84,7 +84,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>&#8211; <strong>Calidad de las respuestas</strong> : Deben ser coherentes y parecer naturales, como si vinieran de un humano.<br>&#8211; <strong>Diversidad en la conversación</strong> : La capacidad de la máquina para participar en una amplia variedad de temas indica alguna forma de comprensión o adaptación.<br>&#8211; <strong>Manejar las ambigüedades</strong> : una máquina debe poder manejar las sutilezas y matices del lenguaje, incluidas las metáforas, el humor y las referencias culturales.<br>&#8211; <strong>Emoción y empatía</strong>: La inteligencia artificial debe demostrar alguna forma de empatía o respuesta emocional adecuada a las situaciones.</p>
+<p>– <strong>Calidad de las respuestas</strong> : Deben ser coherentes y parecer naturales, como si vinieran de un humano.<br>– <strong>Diversidad en la conversación</strong> : La capacidad de la máquina para participar en una amplia variedad de temas indica alguna forma de comprensión o adaptación.<br>– <strong>Manejar las ambigüedades</strong> : una máquina debe poder manejar las sutilezas y matices del lenguaje, incluidas las metáforas, el humor y las referencias culturales.<br>– <strong>Emoción y empatía</strong>: La inteligencia artificial debe demostrar alguna forma de empatía o respuesta emocional adecuada a las situaciones.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>&#8211; <strong>Anonimato total</strong> : El interrogador no debe tener ninguna pista visual o audible que pueda ayudarle a identificar la entidad detrás de las respuestas.<br>&#8211; <strong>Interfaz de comunicación neutra</strong> : Las respuestas deben transmitirse a través de un teclado y una pantalla para evitar la discriminación por voz o escritura.</p>
+<p>– <strong>Anonimato total</strong> : El interrogador no debe tener ninguna pista visual o audible que pueda ayudarle a identificar la entidad detrás de las respuestas.<br>– <strong>Interfaz de comunicación neutra</strong> : Las respuestas deben transmitirse a través de un teclado y una pantalla para evitar la discriminación por voz o escritura.</p>
 
 
 
@@ -104,7 +104,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>Las valoraciones deben basarse en criterios objetivos, aunque el juicio subjetivo del entrevistador humano juega un papel central en la decisión final. Los siguientes aspectos son cruciales:<br>&#8211; <strong>Estadísticas de éxito</strong> : el porcentaje de veces que los jueces son engañados es un indicador importante.<br>&#8211; <strong>control de sesgo</strong> : El sesgo del interrogador debe minimizarse mediante un buen método de evaluación para garantizar la imparcialidad de la prueba.</p>
+<p>Las valoraciones deben basarse en criterios objetivos, aunque el juicio subjetivo del entrevistador humano juega un papel central en la decisión final. Los siguientes aspectos son cruciales:<br>– <strong>Estadísticas de éxito</strong> : el porcentaje de veces que los jueces son engañados es un indicador importante.<br>– <strong>control de sesgo</strong> : El sesgo del interrogador debe minimizarse mediante un buen método de evaluación para garantizar la imparcialidad de la prueba.</p>
 
 
 
@@ -112,7 +112,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>Las interacciones durante la Prueba de Turing deben ser naturales y fluidas, imitando el flujo de una conversación humana real. Se deben tener en cuenta los siguientes elementos:<br>&#8211; <strong>Reactividad</strong> : La máquina debe responder preguntas a un ritmo similar al de una conversación humana normal.<br>&#8211; <strong>Interacción bidireccional</strong> : La máquina no sólo debe responder preguntas, sino también poder hacer preguntas para demostrar que está siguiendo y participando activamente en la conversación.</p>
+<p>Las interacciones durante la Prueba de Turing deben ser naturales y fluidas, imitando el flujo de una conversación humana real. Se deben tener en cuenta los siguientes elementos:<br>– <strong>Reactividad</strong> : La máquina debe responder preguntas a un ritmo similar al de una conversación humana normal.<br>– <strong>Interacción bidireccional</strong> : La máquina no sólo debe responder preguntas, sino también poder hacer preguntas para demostrar que está siguiendo y participando activamente en la conversación.</p>
 
 
 
@@ -164,7 +164,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>&#8211; Conversaciones en profundidad sobre temas específicos.<br>&#8211; Creación de contenido artístico original.<br>&#8211; Reacciones ante eventos inesperados o nueva información.<br>&#8211; Interacción en tiempo real con el entorno, por ejemplo mediante robots.</p>
+<p>– Conversaciones en profundidad sobre temas específicos.<br>– Creación de contenido artístico original.<br>– Reacciones ante eventos inesperados o nueva información.<br>– Interacción en tiempo real con el entorno, por ejemplo mediante robots.</p>
 
 
 

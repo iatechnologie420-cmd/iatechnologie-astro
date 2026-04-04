@@ -2,7 +2,7 @@
 lang: "nl"
 title: "Waarom werkt ChatGPT niet en wat kun je eraan doen?"
 slug: "waarom-werkt-chatgpt-niet-en-wat-kun-je-eraan-doen"
-excerpt: "Waarom werkt ChatGPT niet? Wanneer u ChatGPT gebruikt, kunt u problemen tegenkomen waardoor het niet goed werkt. Hoewel deze problemen frustrerend zijn, kunnen ze verschillende oorzaken hebben. In dit artikel zullen we enkele veelvoorkomende redenen onderzoeken waarom ChatGPT mogelijk niet goed werkt en u oplossingen bieden om deze op te lossen. 1. Onstabiele internetverbinding Een [&hellip;]"
+excerpt: "Waarom werkt ChatGPT niet? Wanneer u ChatGPT gebruikt, kunt u problemen tegenkomen waardoor het niet goed werkt. Hoewel deze problemen frustrerend zijn, kunnen ze verschillende oorzaken hebben. In dit artikel zullen we enkele veelvoorkomende redenen onderzoeken waarom ChatGPT mogelijk niet goed werkt en u oplossingen bieden om deze op te lossen. 1. Onstabiele internetverbinding Een […]"
 date: "2024-03-09T12:17:01"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["ai-toepassingen-nl"]
@@ -38,7 +38,7 @@ categories: ["ai-toepassingen-nl"]
 
 
 
-<p>&#8211; Zorg ervoor dat u de nieuwste versie van uw browser gebruikt.<br>&#8211; Wis uw browsercache om beschadigde gegevens te verwijderen die de werking van ChatGPT kunnen beïnvloeden.<br>&#8211; Probeer een andere browser om te zien of het probleem zich blijft voordoen. Sommige browsers kunnen compatibiliteitsproblemen hebben met bepaalde ChatGPT-functies.</p>
+<p>– Zorg ervoor dat u de nieuwste versie van uw browser gebruikt.<br>– Wis uw browsercache om beschadigde gegevens te verwijderen die de werking van ChatGPT kunnen beïnvloeden.<br>– Probeer een andere browser om te zien of het probleem zich blijft voordoen. Sommige browsers kunnen compatibiliteitsproblemen hebben met bepaalde ChatGPT-functies.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["ai-toepassingen-nl"]
 
 
 
-<p>&#8211; Verklein uw verzoek door het aantal woorden te verminderen of uw verzoek opnieuw te formuleren.<br>&#8211; Verdeel uw aanvraag in meerdere kleinere delen en verstuur deze afzonderlijk.<br>&#8211; Wees geduldig en wacht tot de verwerkingsservers uw vorige verzoek hebben verwerkt voordat u een nieuw verzoek verzendt.</p>
+<p>– Verklein uw verzoek door het aantal woorden te verminderen of uw verzoek opnieuw te formuleren.<br>– Verdeel uw aanvraag in meerdere kleinere delen en verstuur deze afzonderlijk.<br>– Wees geduldig en wacht tot de verwerkingsservers uw vorige verzoek hebben verwerkt voordat u een nieuw verzoek verzendt.</p>
 
 
 
@@ -87,11 +87,11 @@ categories: ["ai-toepassingen-nl"]
 
 
 
-<li><strong>Geografische positie</strong> : Regionale beperkingen van OpenAI kunnen de toegang tot ChatGPT in bepaalde regio&#8217;s beperken.</li>
+<li><strong>Geografische positie</strong> : Regionale beperkingen van OpenAI kunnen de toegang tot ChatGPT in bepaalde regio’s beperken.</li>
 
 
 
-<li><strong>Onderbreking van een applicatie van derden</strong> : VPN&#8217;s en antivirussoftware kunnen ChatGPT soms verstoren.</li>
+<li><strong>Onderbreking van een applicatie van derden</strong> : VPN’s en antivirussoftware kunnen ChatGPT soms verstoren.</li>
 </ol>
 
 

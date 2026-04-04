@@ -2,7 +2,7 @@
 lang: "it"
 title: "Come trovare le coordinate GPS (latitudine e longitudine) su Google Maps?"
 slug: "come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps"
-excerpt: "IL GPS (Global Positioning System) è una tecnologia diventata essenziale nella nostra vita quotidiana. Utilizzando i segnali trasmessi dai satelliti, il Sistema GPS ci consente di determinare con precisione la nostra posizione sotto forma di coordinate geografiche. Queste coordinate sono rappresentate da due elementi chiave: il latitudine e il longitudine. In questo articolo esploreremo il [&hellip;]"
+excerpt: "IL GPS (Global Positioning System) è una tecnologia diventata essenziale nella nostra vita quotidiana. Utilizzando i segnali trasmessi dai satelliti, il Sistema GPS ci consente di determinare con precisione la nostra posizione sotto forma di coordinate geografiche. Queste coordinate sono rappresentate da due elementi chiave: il latitudine e il longitudine. In questo articolo esploreremo il […]"
 date: "2024-03-09T12:03:07"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["tecnologia-e-digitale-it"]
@@ -27,16 +27,16 @@ categories: ["tecnologia-e-digitale-it"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Cosa_sono_le_coordinate_GPS" >Cosa sono le coordinate GPS?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Lutilita_delle_coordinate_GPS" >L&#8217;utilità delle coordinate GPS</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Come_trovare_le_coordinate_GPS_su_Google_Maps" >Come trovare le coordinate GPS su Google Maps</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Suggerimento_per_una_maggiore_precisione" >Suggerimento per una maggiore precisione</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Leggere_e_comprendere_le_coordinate_GPS" >Leggere e comprendere le coordinate GPS</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Utilizza_le_coordinate_GPS_su_Google_Maps" >Utilizza le coordinate GPS su Google Maps</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Pin_di_condivisione_e_coordinate" >Pin di condivisione e coordinate</a></li></ul></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Cosa_sono_le_coordinate_GPS" >Cosa sono le coordinate GPS?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Lutilita_delle_coordinate_GPS" >L’utilità delle coordinate GPS</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Come_trovare_le_coordinate_GPS_su_Google_Maps" >Come trovare le coordinate GPS su Google Maps</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Suggerimento_per_una_maggiore_precisione" >Suggerimento per una maggiore precisione</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Leggere_e_comprendere_le_coordinate_GPS" >Leggere e comprendere le coordinate GPS</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Utilizza_le_coordinate_GPS_su_Google_Maps" >Utilizza le coordinate GPS su Google Maps</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/it/come-trovare-le-coordinate-gps-latitudine-e-longitudine-su-google-maps/#Pin_di_condivisione_e_coordinate" >Pin di condivisione e coordinate</a></li></ul></li></ul></nav></div>
 <h3 class="wp-block-heading"><span class="ez-toc-section" id="Cosa_sono_le_coordinate_GPS"></span>Cosa sono le coordinate GPS?<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>    Le coordinate GPS sono punti di riferimento che indicano una posizione specifica sulla Terra. Là <strong>latitudine</strong> misura la distanza nord o sud dall&#8217;equatore e varia tra -90 gradi (al Polo Sud) e +90 gradi (al Polo Nord). Là <strong>longitudine</strong>, dal canto suo, misura la distanza est o ovest dal meridiano di Greenwich e varia tra -180 e +180 gradi. È la combinazione di queste due misurazioni che permette di determinare un punto geografico preciso.</p>
+<p>    Le coordinate GPS sono punti di riferimento che indicano una posizione specifica sulla Terra. Là <strong>latitudine</strong> misura la distanza nord o sud dall’equatore e varia tra -90 gradi (al Polo Sud) e +90 gradi (al Polo Nord). Là <strong>longitudine</strong>, dal canto suo, misura la distanza est o ovest dal meridiano di Greenwich e varia tra -180 e +180 gradi. È la combinazione di queste due misurazioni che permette di determinare un punto geografico preciso.</p>
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Lutilita_delle_coordinate_GPS"></span>L&#8217;utilità delle coordinate GPS<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Lutilita_delle_coordinate_GPS"></span>L’utilità delle coordinate GPS<span class="ez-toc-section-end"></span></h4>
 
 
 
@@ -65,7 +65,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<li>Nel menu visualizzato, fai clic su &#8220;Quali sono le coordinate?&#8221; oppure vedrai direttamente le coordinate visualizzate in un piccolo popup.</li>
+<li>Nel menu visualizzato, fai clic su “Quali sono le coordinate?” oppure vedrai direttamente le coordinate visualizzate in un piccolo popup.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<p>Per una precisione ancora maggiore, dopo aver cliccato con il tasto destro sulla località desiderata, è possibile affinare la selezione spostando leggermente il puntatore prima di scegliere &#8220;Ulteriori informazioni su questa località&#8221;. Ciò può essere utile quando si trovano le coordinate per una posizione molto specifica, come l&#8217;ingresso di un edificio o un punto di interesse naturale.</p>
+<p>Per una precisione ancora maggiore, dopo aver cliccato con il tasto destro sulla località desiderata, è possibile affinare la selezione spostando leggermente il puntatore prima di scegliere “Ulteriori informazioni su questa località”. Ciò può essere utile quando si trovano le coordinate per una posizione molto specifica, come l’ingresso di un edificio o un punto di interesse naturale.</p>
 
 
 
@@ -95,7 +95,7 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 <ul class="wp-block-list">
-<li><strong>Latitudine:</strong> è la misura in gradi che indica la distanza nord o sud dall&#8217;equatore, variando da -90° a +90°.</li>
+<li><strong>Latitudine:</strong> è la misura in gradi che indica la distanza nord o sud dall’equatore, variando da -90° a +90°.</li>
 
 
 
@@ -151,11 +151,11 @@ categories: ["tecnologia-e-digitale-it"]
 
 
 
-<li>Per appuntare la posizione, fai clic sull&#8217;icona della puntina accanto ai dettagli del contatto per aggiungerla a &#8220;I tuoi luoghi&#8221; per accedervi facilmente in seguito.</li>
+<li>Per appuntare la posizione, fai clic sull’icona della puntina accanto ai dettagli del contatto per aggiungerla a “I tuoi luoghi” per accedervi facilmente in seguito.</li>
 </ol>
 
 
 
-<p>            Che sia per condividere un luogo d&#8217;incontro, per un&#8217;urbex, una caccia al tesoro o semplicemente per lavoro o per attività ricreative, saper trovare e leggere le coordinate GPS su <strong>Google Maps</strong> è un&#8217;abilità pratica. Basta seguire i passaggi sopra menzionati e sarai in grado di localizzare con precisione qualsiasi punto sulla Terra.</p>
+<p>            Che sia per condividere un luogo d’incontro, per un’urbex, una caccia al tesoro o semplicemente per lavoro o per attività ricreative, saper trovare e leggere le coordinate GPS su <strong>Google Maps</strong> è un’abilità pratica. Basta seguire i passaggi sopra menzionati e sarai in grado di localizzare con precisione qualsiasi punto sulla Terra.</p>
 
 

@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Turingo testo supratimas"
 slug: "turingo-testo-supratimas"
-excerpt: "Turingo testo ištakos ir principai Dirbtinio intelekto (DI) ir kompiuterijos pasaulyje Turingo testas užima svarbią vietą. Tai yra etaloninis metodas, skirtas įvertinti mašinos gebėjimą imituoti žmogaus intelektą. Šio revoliucinio testo ištakos ir principai siekia XX amžiaus vidurį ir yra pagrįsti sudėtingomis filosofinėmis ir skaičiavimo koncepcijomis. Tiuringo testo istorija Tiuringo testas pavadintas jo išradėjo Alano Turingo, [&hellip;]"
+excerpt: "Turingo testo ištakos ir principai Dirbtinio intelekto (DI) ir kompiuterijos pasaulyje Turingo testas užima svarbią vietą. Tai yra etaloninis metodas, skirtas įvertinti mašinos gebėjimą imituoti žmogaus intelektą. Šio revoliucinio testo ištakos ir principai siekia XX amžiaus vidurį ir yra pagrįsti sudėtingomis filosofinėmis ir skaičiavimo koncepcijomis. Tiuringo testo istorija Tiuringo testas pavadintas jo išradėjo Alano Turingo, […]"
 date: "2024-03-09T12:57:02"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bien-comprendre-le-test-de-Turing-3.png"
 categories: ["ai-mokymas-ir-pagrindai-lt"]
@@ -84,7 +84,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<p>&#8211; <strong>Atsakymų kokybė</strong> : Jie turi būti nuoseklūs ir atrodyti natūralūs, tarsi būtų kilę iš žmogaus.<br>&#8211; <strong>Įvairovė pokalbyje</strong> : Mašinos gebėjimas dalyvauti nagrinėjant įvairias temas rodo tam tikrą supratimo ar prisitaikymo formą.<br>&#8211; <strong>Dviprasmybių valdymas</strong> : mašina turi sugebėti valdyti kalbos subtilybes ir niuansus, įskaitant metaforas, humorą ir kultūrines nuorodas.<br>&#8211; <strong>Emocija ir empatija</strong>: Dirbtinis intelektas turėtų parodyti tam tikrą empatijos formą arba tinkamą emocinį atsaką į situacijas.</p>
+<p>– <strong>Atsakymų kokybė</strong> : Jie turi būti nuoseklūs ir atrodyti natūralūs, tarsi būtų kilę iš žmogaus.<br>– <strong>Įvairovė pokalbyje</strong> : Mašinos gebėjimas dalyvauti nagrinėjant įvairias temas rodo tam tikrą supratimo ar prisitaikymo formą.<br>– <strong>Dviprasmybių valdymas</strong> : mašina turi sugebėti valdyti kalbos subtilybes ir niuansus, įskaitant metaforas, humorą ir kultūrines nuorodas.<br>– <strong>Emocija ir empatija</strong>: Dirbtinis intelektas turėtų parodyti tam tikrą empatijos formą arba tinkamą emocinį atsaką į situacijas.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<p>&#8211; <strong>Visiškas anonimiškumas</strong> : Tardytojas neturėtų turėti jokių vaizdinių ar garsinių užuominų, kurios galėtų padėti nustatyti už atsakymų esančią esybę.<br>&#8211; <strong>Neutrali komunikacijos sąsaja</strong> : atsakymai turi būti perduodami klaviatūra ir ekranu, kad būtų išvengta diskriminacijos dėl balso ar rašysenos.</p>
+<p>– <strong>Visiškas anonimiškumas</strong> : Tardytojas neturėtų turėti jokių vaizdinių ar garsinių užuominų, kurios galėtų padėti nustatyti už atsakymų esančią esybę.<br>– <strong>Neutrali komunikacijos sąsaja</strong> : atsakymai turi būti perduodami klaviatūra ir ekranu, kad būtų išvengta diskriminacijos dėl balso ar rašysenos.</p>
 
 
 
@@ -104,7 +104,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<p>Vertinimai turi būti pagrįsti objektyviais kriterijais, nors subjektyvus pašnekovo sprendimas vaidina pagrindinį vaidmenį priimant galutinį sprendimą. Šie aspektai yra labai svarbūs:<br>&#8211; <strong>Sėkmės statistika</strong> : teisėjų apgaulių procentas yra svarbus rodiklis.<br>&#8211; <strong>Šališkumo valdymas</strong> : Klausiančiojo šališkumas turi būti sumažintas naudojant gerą vertinimo metodą, kad būtų užtikrintas testo teisingumas.</p>
+<p>Vertinimai turi būti pagrįsti objektyviais kriterijais, nors subjektyvus pašnekovo sprendimas vaidina pagrindinį vaidmenį priimant galutinį sprendimą. Šie aspektai yra labai svarbūs:<br>– <strong>Sėkmės statistika</strong> : teisėjų apgaulių procentas yra svarbus rodiklis.<br>– <strong>Šališkumo valdymas</strong> : Klausiančiojo šališkumas turi būti sumažintas naudojant gerą vertinimo metodą, kad būtų užtikrintas testo teisingumas.</p>
 
 
 
@@ -112,7 +112,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<p>Sąveika Tiuringo testo metu turėtų būti natūrali ir sklandi, imituojanti tikro žmogaus pokalbio eigą. Reikėtų atsižvelgti į šiuos elementus:<br>&#8211; <strong>Reaktyvumas</strong> : Mašina turi atsakyti į klausimus tokiu tempu, kaip ir įprasto žmogaus pokalbio metu.<br>&#8211; <strong>Dvipusė sąveika</strong> : Aparatas turi ne tik atsakyti į klausimus, bet ir gebėti užduoti klausimus, parodydamas, kad seka ir aktyviai dalyvauja pokalbyje.</p>
+<p>Sąveika Tiuringo testo metu turėtų būti natūrali ir sklandi, imituojanti tikro žmogaus pokalbio eigą. Reikėtų atsižvelgti į šiuos elementus:<br>– <strong>Reaktyvumas</strong> : Mašina turi atsakyti į klausimus tokiu tempu, kaip ir įprasto žmogaus pokalbio metu.<br>– <strong>Dvipusė sąveika</strong> : Aparatas turi ne tik atsakyti į klausimus, bet ir gebėti užduoti klausimus, parodydamas, kad seka ir aktyviai dalyvauja pokalbyje.</p>
 
 
 
@@ -164,7 +164,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<p>&#8211; Išsamūs pokalbiai konkrečiomis temomis<br>&#8211; Originalaus meninio turinio kūrimas<br>&#8211; Reakcija į netikėtus įvykius ar naują informaciją<br>&#8211; Sąveika su aplinka realiuoju laiku, pavyzdžiui, per robotus</p>
+<p>– Išsamūs pokalbiai konkrečiomis temomis<br>– Originalaus meninio turinio kūrimas<br>– Reakcija į netikėtus įvykius ar naują informaciją<br>– Sąveika su aplinka realiuoju laiku, pavyzdžiui, per robotus</p>
 
 
 

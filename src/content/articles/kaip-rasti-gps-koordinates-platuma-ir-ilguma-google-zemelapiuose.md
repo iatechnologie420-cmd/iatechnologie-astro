@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Kaip rasti GPS koordinates (platuma ir ilguma) „Google“ žemėlapiuose?"
 slug: "kaip-rasti-gps-koordinates-platuma-ir-ilguma-google-zemelapiuose"
-excerpt: "THE GPS (Global Positioning System) yra technologija, kuri tapo būtina mūsų kasdieniame gyvenime. Naudojant palydovų perduodamus signalus, GPS sistema leidžia tiksliai nustatyti savo padėtį geografinių koordinačių pavidalu. Šias koordinates vaizduoja du pagrindiniai elementai: platumos ir ilguma. Šiame straipsnyje mes išnagrinėsime GPS koordinačių pasaulį ir suprasime jų esminį vaidmenį geografinėje vietoje. Kas yra GPS koordinatės? GPS [&hellip;]"
+excerpt: "THE GPS (Global Positioning System) yra technologija, kuri tapo būtina mūsų kasdieniame gyvenime. Naudojant palydovų perduodamus signalus, GPS sistema leidžia tiksliai nustatyti savo padėtį geografinių koordinačių pavidalu. Šias koordinates vaizduoja du pagrindiniai elementai: platumos ir ilguma. Šiame straipsnyje mes išnagrinėsime GPS koordinačių pasaulį ir suprasime jų esminį vaidmenį geografinėje vietoje. Kas yra GPS koordinatės? GPS […]"
 date: "2024-03-09T12:03:41"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["technologijos-ir-skaitmeninis-lt"]
@@ -65,7 +65,7 @@ categories: ["technologijos-ir-skaitmeninis-lt"]
 
 
 
-<li>Pasirodžiusiame meniu spustelėkite &#8220;Kokios koordinatės?&#8221; arba tiesiogiai matysite koordinates, rodomas mažame iššokančiame lange.</li>
+<li>Pasirodžiusiame meniu spustelėkite “Kokios koordinatės?” arba tiesiogiai matysite koordinates, rodomas mažame iššokančiame lange.</li>
 
 
 

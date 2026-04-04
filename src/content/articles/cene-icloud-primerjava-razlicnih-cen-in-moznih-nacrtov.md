@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Cene iCloud: primerjava različnih cen in možnih načrtov"
 slug: "cene-icloud-primerjava-razlicnih-cen-in-moznih-nacrtov"
-excerpt: "iCloud je storitev za shranjevanje v oblaku, ki jo ponuja Apple ki omogoča shranjevanje podatkov, kot so dokumenti, fotografije in glasba, na oddaljenih strežnikih za prenos v naprave iOS, Mac ali Windows. Omogoča tudi sinhronizacijo podatkov med različnimi napravami in preprosto skupno rabo datotek. V tem članku bomo raziskali različne možnosti shranjevanja iCloud in kako [&hellip;]"
+excerpt: "iCloud je storitev za shranjevanje v oblaku, ki jo ponuja Apple ki omogoča shranjevanje podatkov, kot so dokumenti, fotografije in glasba, na oddaljenih strežnikih za prenos v naprave iOS, Mac ali Windows. Omogoča tudi sinhronizacijo podatkov med različnimi napravami in preprosto skupno rabo datotek. V tem članku bomo raziskali različne možnosti shranjevanja iCloud in kako […]"
 date: "2024-03-09T12:01:28"
 categories: ["digitalni-mediji-in-platforme-sl", "tehnologija-in-digital-sl"]
 ---
@@ -34,7 +34,7 @@ categories: ["digitalni-mediji-in-platforme-sl", "tehnologija-in-digital-sl"]
 
 
 <ul class="wp-block-list">
-<li>5 GB &#8211; brezplačno</li>
+<li>5 GB – brezplačno</li>
 
 
 

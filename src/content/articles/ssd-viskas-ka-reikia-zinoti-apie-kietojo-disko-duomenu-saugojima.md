@@ -2,14 +2,14 @@
 lang: "lt"
 title: "SSD: viskas, ką reikia žinoti apie kietojo disko duomenų saugojimą"
 slug: "ssd-viskas-ka-reikia-zinoti-apie-kietojo-disko-duomenu-saugojima"
-excerpt: "Įvadas į SSD ir kaip jie veikia Kietojo kūno diskų atsiradimas arba SSD (Kietojo kūno diskas anglų kalba), pažymėjo tikrą revoliuciją duomenų saugojimo srityje. Skirtingai nuo tradicinių standžiųjų diskų (HDD), kuriuose informacijai saugoti naudojamos magnetinės plokštelės, HDD SSD pasikliaukite „flash“ atminties lustais be judančių dalių. Šis technologijos pokytis suteikia didelę naudą našumo, ilgaamžiškumo ir energijos [&hellip;]"
+excerpt: "Įvadas į SSD ir kaip jie veikia Kietojo kūno diskų atsiradimas arba SSD (Kietojo kūno diskas anglų kalba), pažymėjo tikrą revoliuciją duomenų saugojimo srityje. Skirtingai nuo tradicinių standžiųjų diskų (HDD), kuriuose informacijai saugoti naudojamos magnetinės plokštelės, HDD SSD pasikliaukite „flash“ atminties lustais be judančių dalių. Šis technologijos pokytis suteikia didelę naudą našumo, ilgaamžiškumo ir energijos […]"
 date: "2024-03-09T12:23:07"
 categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How It&#039;s Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="How It's Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

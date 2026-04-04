@@ -2,7 +2,7 @@
 lang: "nl"
 title: "De beste robots in het Star Wars-universum"
 slug: "de-beste-robots-in-het-star-wars-universum"
-excerpt: "Mechanische legendes: C-3PO en R2-D2 Beschouwd als de meest emblematische droids van de saga Star Wars, C-3PO en R2-D2 hebben generaties fans gemarkeerd met hun unieke persoonlijkheid, hun verhaal en hun cruciale rol gedurende de afleveringen. Dit artikel duikt in de wereld van deze mechanische legendes en onthult hun essentie en culturele impact. C-3PO: Het [&hellip;]"
+excerpt: "Mechanische legendes: C-3PO en R2-D2 Beschouwd als de meest emblematische droids van de saga Star Wars, C-3PO en R2-D2 hebben generaties fans gemarkeerd met hun unieke persoonlijkheid, hun verhaal en hun cruciale rol gedurende de afleveringen. Dit artikel duikt in de wereld van deze mechanische legendes en onthult hun essentie en culturele impact. C-3PO: Het […]"
 date: "2024-03-09T12:23:09"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["technologie-en-digitaal-nl"]
@@ -10,7 +10,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -48,7 +48,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<p>Artoo&#8217;s vermogen om belangrijke informatie op te slaan, door complexe computersystemen te navigeren en zich te wagen waar anderen niet kunnen komen, maakt hem tot een stille maar onmisbare held. Zijn beroemde &#8220;stem&#8221;, bestaande uit een reeks elektronische fluitjes, maakt expressieve communicatie zonder woorden mogelijk, waardoor een sterke emotionele band ontstaat met het publiek en zijn vrienden in de saga.</p>
+<p>Artoo’s vermogen om belangrijke informatie op te slaan, door complexe computersystemen te navigeren en zich te wagen waar anderen niet kunnen komen, maakt hem tot een stille maar onmisbare held. Zijn beroemde “stem”, bestaande uit een reeks elektronische fluitjes, maakt expressieve communicatie zonder woorden mogelijk, waardoor een sterke emotionele band ontstaat met het publiek en zijn vrienden in de saga.</p>
 
 
 
@@ -80,7 +80,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<p>BB-8 maakte zijn eerste optreden in &#8220;<strong>Star Wars: Aflevering VII &#8211; The Force Awakens</strong>&#8221; in 2015. Deze astromech droid werd al snel een favoriet bij fans vanwege zijn unieke bolvorm, behendige mobiliteit en vrolijke persoonlijkheid. BB-8 behoort tot een van de helden van de nieuwe trilogie, <strong>Poe Dameron</strong>, en samen delen ze vele avonturen in het heelal.</p>
+<p>BB-8 maakte zijn eerste optreden in “<strong>Star Wars: Aflevering VII – The Force Awakens</strong>” in 2015. Deze astromech droid werd al snel een favoriet bij fans vanwege zijn unieke bolvorm, behendige mobiliteit en vrolijke persoonlijkheid. BB-8 behoort tot een van de helden van de nieuwe trilogie, <strong>Poe Dameron</strong>, en samen delen ze vele avonturen in het heelal.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<p>D-O wordt voor het eerst geïntroduceerd in &#8220;<strong>Star Wars: Aflevering IX &#8211; De opkomst van Skywalker</strong>&#8221; uitgebracht in 2019. Deze kleine droid op één wiel maakt indruk met zijn vermogen om mensen te bewegen. Met zijn vorm die doet denken aan kinderspeelgoed en zijn karakteristieke fluitstem, belichaamt hij de nieuwe vriend die we allemaal graag zouden willen hebben.</p>
+<p>D-O wordt voor het eerst geïntroduceerd in “<strong>Star Wars: Aflevering IX – De opkomst van Skywalker</strong>” uitgebracht in 2019. Deze kleine droid op één wiel maakt indruk met zijn vermogen om mensen te bewegen. Met zijn vorm die doet denken aan kinderspeelgoed en zijn karakteristieke fluitstem, belichaamt hij de nieuwe vriend die we allemaal graag zouden willen hebben.</p>
 
 
 

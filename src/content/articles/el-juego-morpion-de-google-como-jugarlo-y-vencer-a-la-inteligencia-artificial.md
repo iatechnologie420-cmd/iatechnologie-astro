@@ -2,7 +2,7 @@
 lang: "es"
 title: "El juego Morpion de Google: ¿Cómo jugarlo y vencer a la inteligencia artificial?"
 slug: "el-juego-morpion-de-google-como-jugarlo-y-vencer-a-la-inteligencia-artificial"
-excerpt: "Las reglas del juego Tic-Toe de Google Objetivo del juego El juego Morpion, también llamado Tic-tac-toe, es un juego de estrategia que se juega en una cuadrícula de 3&#215;3. El objetivo es alinear tres símbolos idénticos (cruz o círculo) horizontal, vertical o diagonalmente delante de tu oponente. Configuración El juego Google Tic Toe está disponible [&hellip;]"
+excerpt: "Las reglas del juego Tic-Toe de Google Objetivo del juego El juego Morpion, también llamado Tic-tac-toe, es un juego de estrategia que se juega en una cuadrícula de 3×3. El objetivo es alinear tres símbolos idénticos (cruz o círculo) horizontal, vertical o diagonalmente delante de tu oponente. Configuración El juego Google Tic Toe está disponible […]"
 date: "2024-03-09T12:41:55"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Jeu-de-Morpion-de-Google-Comment-y-jouer-et-battre-lintelligence-artificielle-.png"
 categories: ["tecnologia-y-digital-es"]
@@ -22,7 +22,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<p>El juego Morpion, también llamado Tic-tac-toe, es un juego de estrategia que se juega en una cuadrícula de 3&#215;3. El objetivo es alinear tres símbolos idénticos (cruz o círculo) horizontal, vertical o diagonalmente delante de tu oponente.</p>
+<p>El juego Morpion, también llamado Tic-tac-toe, es un juego de estrategia que se juega en una cuadrícula de 3×3. El objetivo es alinear tres símbolos idénticos (cruz o círculo) horizontal, vertical o diagonalmente delante de tu oponente.</p>
 
 
 
@@ -30,7 +30,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<p>El juego Google Tic Toe está disponible online y se puede jugar en diferentes dispositivos, incluidos teléfonos inteligentes, tabletas u ordenadores. Para comenzar, simplemente vaya al sitio web de Google y busque &#8220;juego Tic Toe&#8221; en la barra de búsqueda.</p>
+<p>El juego Google Tic Toe está disponible online y se puede jugar en diferentes dispositivos, incluidos teléfonos inteligentes, tabletas u ordenadores. Para comenzar, simplemente vaya al sitio web de Google y busque “juego Tic Toe” en la barra de búsqueda.</p>
 
 
 
@@ -46,19 +46,19 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<p>&#8211; Comienza ocupando el centro de la cuadrícula: comenzando desde el centro, aumentas tus posibilidades de ganar, porque esta casilla es el punto de partida de muchas alineaciones posibles.</p>
+<p>– Comienza ocupando el centro de la cuadrícula: comenzando desde el centro, aumentas tus posibilidades de ganar, porque esta casilla es el punto de partida de muchas alineaciones posibles.</p>
 
 
 
-<p>&#8211; Bloquea los movimientos del oponente: vigila los movimientos de tu oponente e intenta bloquear sus posibles alineaciones colocando tus símbolos en ubicaciones estratégicas.</p>
+<p>– Bloquea los movimientos del oponente: vigila los movimientos de tu oponente e intenta bloquear sus posibles alineaciones colocando tus símbolos en ubicaciones estratégicas.</p>
 
 
 
-<p>&#8211; Anticipa los próximos movimientos: intenta predecir los movimientos de tu oponente y coloca tus símbolos para contrarrestar sus estrategias.</p>
+<p>– Anticipa los próximos movimientos: intenta predecir los movimientos de tu oponente y coloca tus símbolos para contrarrestar sus estrategias.</p>
 
 
 
-<p>&#8211; Sé flexible en tu enfoque: no te limites a una sola estrategia, prepárate para cambiar de táctica dependiendo de los movimientos de tu oponente.</p>
+<p>– Sé flexible en tu enfoque: no te limites a una sola estrategia, prepárate para cambiar de táctica dependiendo de los movimientos de tu oponente.</p>
 
 
 
@@ -66,11 +66,11 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<p>&#8211; No subestimes el nivel &#8220;fácil&#8221;: incluso si eres un jugador experimentado, el nivel &#8220;fácil&#8221; puede ser una buena práctica para probar nuevas estrategias o perfeccionar tu juego.</p>
+<p>– No subestimes el nivel “fácil”: incluso si eres un jugador experimentado, el nivel “fácil” puede ser una buena práctica para probar nuevas estrategias o perfeccionar tu juego.</p>
 
 
 
-<p>&#8211; Diviértete: el juego Tic Toe es un juego sencillo y divertido que se puede jugar rápidamente. Aprovecha cada juego para divertirte y mejorar tus habilidades.</p>
+<p>– Diviértete: el juego Tic Toe es un juego sencillo y divertido que se puede jugar rápidamente. Aprovecha cada juego para divertirte y mejorar tus habilidades.</p>
 
 
 

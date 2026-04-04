@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Taman teknologi: hab inovasi untuk esok?"
 slug: "taman-teknologi-hab-inovasi-untuk-esok"
-excerpt: "Kemunculan taman teknologi Tempat perlindungan inovasi ini, juga dikenali sebagai taman sains atau teknopole, mempunyai sejarah yang kaya dan sentiasa berkembang; ia merangkumi kemajuan teknikal dan ekonomi. Artikel ini bertujuan untuk meneroka asal usul dan pembangunan hab teknologi ini, menonjolkan peranan penting mereka sebagai pemangkin untuk inovasi dan pembangunan ekonomi. Sejarah taman teknologi Sejarah taman [&hellip;]"
+excerpt: "Kemunculan taman teknologi Tempat perlindungan inovasi ini, juga dikenali sebagai taman sains atau teknopole, mempunyai sejarah yang kaya dan sentiasa berkembang; ia merangkumi kemajuan teknikal dan ekonomi. Artikel ini bertujuan untuk meneroka asal usul dan pembangunan hab teknologi ini, menonjolkan peranan penting mereka sebagai pemangkin untuk inovasi dan pembangunan ekonomi. Sejarah taman teknologi Sejarah taman […]"
 date: "2024-03-09T12:36:34"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Les-parcs-technologiques-des-hubs-dinnovation-pour-demain-.png"
 categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"]
@@ -30,7 +30,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"
 
 
 
-<figure class="wp-block-table"><table><tbody><tr><td>tahun</td><td>Pencapaian</td></tr><tr><td>1951</td><td>Penciptaan struktur pertama yang menyerupai taman teknologi di Stanford</td></tr><tr><td>1980</td><td>Pengembangan global dengan taman teknologi di Eropah &#038; Asia</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>tahun</td><td>Pencapaian</td></tr><tr><td>1951</td><td>Penciptaan struktur pertama yang menyerupai taman teknologi di Stanford</td></tr><tr><td>1980</td><td>Pengembangan global dengan taman teknologi di Eropah & Asia</td></tr></tbody></table></figure>
 
 
 
@@ -42,7 +42,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"
 
 
 
-<p>&#8211; 1970-1980: Penyatuan pangkalan dengan struktur seperti Taman Penyelidikan Segitiga di North Carolina.<br>&#8211; 1990-2000: Kepelbagaian dan pengkhususan taman teknologi.<br>&#8211; 2000-an: Penyepaduan program inkubasi dan pecutan permulaan.</p>
+<p>– 1970-1980: Penyatuan pangkalan dengan struktur seperti Taman Penyelidikan Segitiga di North Carolina.<br>– 1990-2000: Kepelbagaian dan pengkhususan taman teknologi.<br>– 2000-an: Penyepaduan program inkubasi dan pecutan permulaan.</p>
 
 
 
@@ -58,19 +58,19 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"
 
 
 
-<p>&#8211; Kemudahan R&#038;D: mereka menyediakan persekitaran yang kondusif untuk penyelidikan dan pembangunan.</p>
+<p>– Kemudahan R&D: mereka menyediakan persekitaran yang kondusif untuk penyelidikan dan pembangunan.</p>
 
 
 
-<p>&#8211; Daya tarikan untuk bakat: mereka telah menjadi pusat menarik untuk penyelidik, jurutera dan usahawan.</p>
+<p>– Daya tarikan untuk bakat: mereka telah menjadi pusat menarik untuk penyelidik, jurutera dan usahawan.</p>
 
 
 
-<p>&#8211; Pembangunan ekonomi serantau: mereka merangsang ekonomi tempatan dan serantau melalui penciptaan peluang pekerjaan dan perniagaan.</p>
+<p>– Pembangunan ekonomi serantau: mereka merangsang ekonomi tempatan dan serantau melalui penciptaan peluang pekerjaan dan perniagaan.</p>
 
 
 
-<p>&#8211; Rangkaian: mereka memudahkan rangkaian antara profesional dan pakar dari sektor yang berbeza.<br>  </p>
+<p>– Rangkaian: mereka memudahkan rangkaian antara profesional dan pakar dari sektor yang berbeza.<br>  </p>
 
 
 
@@ -86,7 +86,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"
 
 
 
-<p>&#8211; Mengimbangi pertumbuhan dan kesan alam sekitar.<br>&#8211; Menyediakan infrastruktur yang boleh disesuaikan dengan kepesatan kemajuan teknologi.<br>&#8211; Menyokong kemunculan teknologi yang bertanggungjawab dan inklusif.</p>
+<p>– Mengimbangi pertumbuhan dan kesan alam sekitar.<br>– Menyediakan infrastruktur yang boleh disesuaikan dengan kepesatan kemajuan teknologi.<br>– Menyokong kemunculan teknologi yang bertanggungjawab dan inklusif.</p>
 
 
 
@@ -98,7 +98,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"
 
 
 
-<p>Mereka memudahkan kemunculan sinergi antara aktor yang berbeza, membolehkan perkongsian pengetahuan dan mengukuhkan kapasiti penyelidikan dan pembangunan (R&#038;D).</p>
+<p>Mereka memudahkan kemunculan sinergi antara aktor yang berbeza, membolehkan perkongsian pengetahuan dan mengukuhkan kapasiti penyelidikan dan pembangunan (R&D).</p>
 
 
 
@@ -130,7 +130,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"
 
 
 
-<p>&#8211; Makmal R&#038;D<br>&#8211; Meja modular<br>&#8211; Bilik persidangan dan acara<br>&#8211; Perkhidmatan berkongsi (rangkaian, undang-undang, kewangan)<br>Infrastruktur ini menyokong pertumbuhan perniagaan dan keupayaan mereka untuk berinovasi.</p>
+<p>– Makmal R&D<br>– Meja modular<br>– Bilik persidangan dan acara<br>– Perkhidmatan berkongsi (rangkaian, undang-undang, kewangan)<br>Infrastruktur ini menyokong pertumbuhan perniagaan dan keupayaan mereka untuk berinovasi.</p>
 
 
 
@@ -138,7 +138,7 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"
 
 
 
-<p>Di luar sfera teknologi semata-mata, taman teknologi mempunyai kesan yang besar terhadap pembangunan ekonomi tempatan. Mereka menarik perniagaan dan bakat, menghasilkan penciptaan pekerjaan, pembinaan kemahiran dan peningkatan daya hidup ekonomi. Ini digambarkan dengan baik oleh contoh <strong>Taman Segi Tiga Penyelidikan</strong> di North Carolina, Amerika Syarikat, yang telah mengubah seluruh wilayah berkat kedinamikan dalam R&#038;D.</p>
+<p>Di luar sfera teknologi semata-mata, taman teknologi mempunyai kesan yang besar terhadap pembangunan ekonomi tempatan. Mereka menarik perniagaan dan bakat, menghasilkan penciptaan pekerjaan, pembinaan kemahiran dan peningkatan daya hidup ekonomi. Ini digambarkan dengan baik oleh contoh <strong>Taman Segi Tiga Penyelidikan</strong> di North Carolina, Amerika Syarikat, yang telah mengubah seluruh wilayah berkat kedinamikan dalam R&D.</p>
 
 
 
@@ -172,6 +172,6 @@ categories: ["inovasi-yang-mengganggu-dan-muncul-ms", "teknologi-dan-digital-ms"
 
 
 
-<figure class="wp-block-table"><table><tbody><tr><td>Taman Teknologi</td><td>Lokasi</td><td>Sektor Utama</td></tr><tr><td><strong>Lembah Silikon</strong></td><td>California, Amerika Syarikat</td><td>Teknologi, Permulaan, Inovasi</td></tr><tr><td><strong>Taman Teknologi Sophia Antipolis</strong></td><td>Riviera Perancis, Perancis</td><td>ICT, Farmasi, R&#038;D</td></tr><tr><td><strong>Zhongguancun</strong></td><td>Beijing, China</td><td>Elektronik, pengkomputeran</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>Taman Teknologi</td><td>Lokasi</td><td>Sektor Utama</td></tr><tr><td><strong>Lembah Silikon</strong></td><td>California, Amerika Syarikat</td><td>Teknologi, Permulaan, Inovasi</td></tr><tr><td><strong>Taman Teknologi Sophia Antipolis</strong></td><td>Riviera Perancis, Perancis</td><td>ICT, Farmasi, R&D</td></tr><tr><td><strong>Zhongguancun</strong></td><td>Beijing, China</td><td>Elektronik, pengkomputeran</td></tr></tbody></table></figure>
 
 

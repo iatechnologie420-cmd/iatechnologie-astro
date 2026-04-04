@@ -2,7 +2,7 @@
 lang: "ms"
 title: "AWS Awan – Semua yang anda perlu tahu tentang awan Perkhidmatan Web Amazon"
 slug: "aws-awan-semua-yang-anda-perlu-tahu-tentang-awan-perkhidmatan-web-amazon"
-excerpt: "Pengenalan kepada Perkhidmatan Web Amazon (AWS): revolusi dalam pengkomputeran awan Sejak diwujudkan pada tahun 2006, Perkhidmatan Web Amazon (AWS) telah mengubah secara radikal landskap IT dengan menyampaikan platform perkhidmatan awan yang memberikan fleksibiliti, skala dan skala ekonomi yang belum pernah terjadi sebelumnya. Pengenalan ini bertujuan untuk menjelaskan prinsip operasi bagiAWS dan untuk menjelaskan mengapa penyelesaian [&hellip;]"
+excerpt: "Pengenalan kepada Perkhidmatan Web Amazon (AWS): revolusi dalam pengkomputeran awan Sejak diwujudkan pada tahun 2006, Perkhidmatan Web Amazon (AWS) telah mengubah secara radikal landskap IT dengan menyampaikan platform perkhidmatan awan yang memberikan fleksibiliti, skala dan skala ekonomi yang belum pernah terjadi sebelumnya. Pengenalan ini bertujuan untuk menjelaskan prinsip operasi bagiAWS dan untuk menjelaskan mengapa penyelesaian […]"
 date: "2024-03-09T12:46:45"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastruktur-dan-rangkaian-ms", "teknologi-dan-digital-ms"]
@@ -110,7 +110,7 @@ categories: ["infrastruktur-dan-rangkaian-ms", "teknologi-dan-digital-ms"]
 
 
 
-<p>L&#8217;<strong>Amazon VPC</strong> Membolehkan anda menyediakan bahagian terpencil awan AWS yang membolehkan anda melancarkan sumber AWS ke dalam rangkaian maya yang anda tentukan. Ini penting untuk keselamatan dan pengurusan rangkaian perkhidmatan awan anda.</p>
+<p>L’<strong>Amazon VPC</strong> Membolehkan anda menyediakan bahagian terpencil awan AWS yang membolehkan anda melancarkan sumber AWS ke dalam rangkaian maya yang anda tentukan. Ini penting untuk keselamatan dan pengurusan rangkaian perkhidmatan awan anda.</p>
 
 
 

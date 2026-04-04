@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Teorema lui Bayes și utilizarea sa în AI"
 slug: "teorema-lui-bayes-si-utilizarea-sa-in-ai"
-excerpt: "Introducere în teorema lui Bayes THE teorema lui Bayes este o formulă fundamentală în probabilitate și statistică care descrie actualizarea convingerilor noastre în prezența unor noi informații. Numită în onoarea reverendului Thomas Bayes, această teoremă joacă un rol crucial în multe domenii, de la învățarea automată până la luarea deciziilor în condiții de incertitudine. Esența [&hellip;]"
+excerpt: "Introducere în teorema lui Bayes THE teorema lui Bayes este o formulă fundamentală în probabilitate și statistică care descrie actualizarea convingerilor noastre în prezența unor noi informații. Numită în onoarea reverendului Thomas Bayes, această teoremă joacă un rol crucial în multe domenii, de la învățarea automată până la luarea deciziilor în condiții de incertitudine. Esența […]"
 date: "2024-03-09T12:14:18"
 categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 ---
@@ -93,7 +93,7 @@ categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 
 
 
-<p>L&#8217;<strong>Inferența bayesiană</strong> este o ramură a statisticii care oferă un cadru teoretic pentru interpretarea evenimentelor în termeni de probabilități. Se bazează pe <strong>teorema lui Bayes</strong>, care este o formulă pentru actualizarea probabilității ca un eveniment să se producă în lumina unor date noi. </p>
+<p>L’<strong>Inferența bayesiană</strong> este o ramură a statisticii care oferă un cadru teoretic pentru interpretarea evenimentelor în termeni de probabilități. Se bazează pe <strong>teorema lui Bayes</strong>, care este o formulă pentru actualizarea probabilității ca un eveniment să se producă în lumina unor date noi. </p>
 
 
 
@@ -187,7 +187,7 @@ categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 
 
 
-<p>L&#8217;<strong>Inferența bayesiană</strong> oferă un cadru puternic pentru raționament cu incertitudine și pentru integrarea coerentă a informațiilor noi. Aplicațiile sale sunt vaste și utilizarea sa în domenii avansate precum<strong>inteligenţă artificială</strong> unde <strong>Date mare</strong> creste continuu. Înțelegerea principiilor sale fundamentale este, prin urmare, esențială pentru cei care doresc să interpreteze lumea prin prisma probabilității.</p>
+<p>L’<strong>Inferența bayesiană</strong> oferă un cadru puternic pentru raționament cu incertitudine și pentru integrarea coerentă a informațiilor noi. Aplicațiile sale sunt vaste și utilizarea sa în domenii avansate precum<strong>inteligenţă artificială</strong> unde <strong>Date mare</strong> creste continuu. Înțelegerea principiilor sale fundamentale este, prin urmare, esențială pentru cei care doresc să interpreteze lumea prin prisma probabilității.</p>
 
 
 

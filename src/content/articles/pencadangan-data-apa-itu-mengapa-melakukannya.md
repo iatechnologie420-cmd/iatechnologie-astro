@@ -2,7 +2,7 @@
 lang: "id"
 title: "Pencadangan data: apa itu, mengapa melakukannya?"
 slug: "pencadangan-data-apa-itu-mengapa-melakukannya"
-excerpt: "Pahami pentingnya cadangan Cadangan data sangat penting untuk melindungi informasi dari kemungkinan kehilangan akibat kegagalan perangkat keras, kesalahan manusia, malware, atau bencana alam. Sistem cadangan yang memadai memungkinkan untuk memulihkan data yang hilang atau rusak dan menjamin kelangsungan operasi. Ketahui jenis cadangan Ada beberapa metode pencadangan, masing-masing disesuaikan dengan kebutuhan spesifik: Pilih frekuensi pencadangan Frekuensi [&hellip;]"
+excerpt: "Pahami pentingnya cadangan Cadangan data sangat penting untuk melindungi informasi dari kemungkinan kehilangan akibat kegagalan perangkat keras, kesalahan manusia, malware, atau bencana alam. Sistem cadangan yang memadai memungkinkan untuk memulihkan data yang hilang atau rusak dan menjamin kelangsungan operasi. Ketahui jenis cadangan Ada beberapa metode pencadangan, masing-masing disesuaikan dengan kebutuhan spesifik: Pilih frekuensi pencadangan Frekuensi […]"
 date: "2024-03-09T12:04:02"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-3.png"
 categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]

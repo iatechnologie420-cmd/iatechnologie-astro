@@ -2,7 +2,7 @@
 lang: "en"
 title: "Telegram: everything you need to know about the secure messaging application"
 slug: "telegram-everything-you-need-to-know-about-the-secure-messaging-application"
-excerpt: "What is Telegram? Telegram is an instant messaging application focused on speed and security. It has become one of the most popular communications platforms in the world thanks to its combination of advanced features, intuitive interface and commitment to protecting user privacy. Since its launch in 2013, Telegram has stood out among a multitude of [&hellip;]"
+excerpt: "What is Telegram? Telegram is an instant messaging application focused on speed and security. It has become one of the most popular communications platforms in the world thanks to its combination of advanced features, intuitive interface and commitment to protecting user privacy. Since its launch in 2013, Telegram has stood out among a multitude of […]"
 date: "2024-03-09T12:11:33"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Telegram-tout-savoir-sur-lapplication-de-messagerie-securisee-3.png"
 categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
@@ -64,7 +64,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<p>A crucial point of safety <strong>Telegram</strong> is its end-to-end encryption system. Concretely, this means that sent messages are transformed into a secret code on the sender&#8217;s device and are only decrypted on the recipient&#8217;s device. This prevents unauthorized access during transmission, ensuring confidentiality of communications.</p>
+<p>A crucial point of safety <strong>Telegram</strong> is its end-to-end encryption system. Concretely, this means that sent messages are transformed into a secret code on the sender’s device and are only decrypted on the recipient’s device. This prevents unauthorized access during transmission, ensuring confidentiality of communications.</p>
 
 
 
@@ -195,7 +195,7 @@ categories: ["infrastructure-and-networks-en", "technology-and-digital-en"]
 
 
 
-<li><strong>Premium badges</strong> : A special badge is displayed next to the user&#8217;s name in the chat list, indicating their support for Telegram and access to exclusive features.</li>
+<li><strong>Premium badges</strong> : A special badge is displayed next to the user’s name in the chat list, indicating their support for Telegram and access to exclusive features.</li>
 </ul>
 
 

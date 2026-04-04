@@ -2,7 +2,7 @@
 lang: "en"
 title: "Bored Ape Yacht Club: everything you need to know"
 slug: "bored-ape-yacht-club-everything-you-need-to-know"
-excerpt: "What is the Bored Ape Yacht Club? THE Bored Ape Yacht Club is a recent phenomenon that is shaking up the world of Non-Fungible Tokens (NFT). These uniquely illustrated virtual monkeys have become the symbol of billionaire status in the crypto world. But what makes these NFTs so special? And why have they captured the [&hellip;]"
+excerpt: "What is the Bored Ape Yacht Club? THE Bored Ape Yacht Club is a recent phenomenon that is shaking up the world of Non-Fungible Tokens (NFT). These uniquely illustrated virtual monkeys have become the symbol of billionaire status in the crypto world. But what makes these NFTs so special? And why have they captured the […]"
 date: "2024-03-09T11:46:17"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Bored-Ape-Yacht-Club-tout-savoir.png"
 categories: ["blockchain-and-digital-security-en", "technology-and-digital-en"]
@@ -32,7 +32,7 @@ categories: ["blockchain-and-digital-security-en", "technology-and-digital-en"]
 
 
 
-<p>The Bored Ape Yacht Club is a collection of 10,000 unique virtual apes in the form of<strong>NFT</strong>, each being the exclusive property of its buyer. By acquiring one of these monkeys, you are not only purchasing a digital illustration, but also an entry ticket to an exclusive club. These NFTs don&#8217;t just have aesthetic value &#8211; they are also digital assets with associated commercial use rights.</p>
+<p>The Bored Ape Yacht Club is a collection of 10,000 unique virtual apes in the form of<strong>NFT</strong>, each being the exclusive property of its buyer. By acquiring one of these monkeys, you are not only purchasing a digital illustration, but also an entry ticket to an exclusive club. These NFTs don’t just have aesthetic value – they are also digital assets with associated commercial use rights.</p>
 
 
 
@@ -40,7 +40,7 @@ categories: ["blockchain-and-digital-security-en", "technology-and-digital-en"]
 
 
 
-<p>If the Bored Ape Yacht Club has enjoyed resounding success, it is in part thanks to its innovative business model. Buying a monkey is not limited to a simple financial transaction. It&#8217;s an investment that provides access to a host of benefits and privileges, ranging from private parties to artistic collaborations. Additionally, with the explosion of the NFT market, which could reach <strong>$4.5 billion by 2025</strong>, these virtual monkeys could become even more lucrative.</p>
+<p>If the Bored Ape Yacht Club has enjoyed resounding success, it is in part thanks to its innovative business model. Buying a monkey is not limited to a simple financial transaction. It’s an investment that provides access to a host of benefits and privileges, ranging from private parties to artistic collaborations. Additionally, with the explosion of the NFT market, which could reach <strong>$4.5 billion by 2025</strong>, these virtual monkeys could become even more lucrative.</p>
 
 
 
@@ -48,7 +48,7 @@ categories: ["blockchain-and-digital-security-en", "technology-and-digital-en"]
 
 
 
-<p>Beyond the financial sphere, the Bored Ape Yacht Club has also invested in popular culture. Graffiti on the walls of art galleries, collaborations with renowned artists, appearances in rappers&#8217; music videos&#8230; The monkeys of the Bored Ape Yacht Club are everywhere and symbolize a cultural revolution led by cryptocurrencies and NFTs.</p>
+<p>Beyond the financial sphere, the Bored Ape Yacht Club has also invested in popular culture. Graffiti on the walls of art galleries, collaborations with renowned artists, appearances in rappers’ music videos… The monkeys of the Bored Ape Yacht Club are everywhere and symbolize a cultural revolution led by cryptocurrencies and NFTs.</p>
 
 
 
@@ -56,7 +56,7 @@ categories: ["blockchain-and-digital-security-en", "technology-and-digital-en"]
 
 
 
-<p>Despite everything, the Bored Ape Yacht Club is not unanimous. While some see these NFTs as an investment opportunity of the future, others see them as a speculative bubble ready to burst. It&#8217;s a question worth asking, especially when you know that some of these monkeys sell for <strong>gold price</strong>.</p>
+<p>Despite everything, the Bored Ape Yacht Club is not unanimous. While some see these NFTs as an investment opportunity of the future, others see them as a speculative bubble ready to burst. It’s a question worth asking, especially when you know that some of these monkeys sell for <strong>gold price</strong>.</p>
 
 
 
@@ -68,7 +68,7 @@ categories: ["blockchain-and-digital-security-en", "technology-and-digital-en"]
 
 
 
-<p>One of the key factors in Bored Ape Yacht Club&#8217;s success is its rarity. Only 10,000 virtual monkeys were created, randomly generated on the Ethereum blockchain. Each monkey is unique and has an exclusive combination of characteristics, providing intrinsic value to each NFT.</p>
+<p>One of the key factors in Bored Ape Yacht Club’s success is its rarity. Only 10,000 virtual monkeys were created, randomly generated on the Ethereum blockchain. Each monkey is unique and has an exclusive combination of characteristics, providing intrinsic value to each NFT.</p>
 
 
 
@@ -93,7 +93,7 @@ categories: ["blockchain-and-digital-security-en", "technology-and-digital-en"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@nftfrance/video/7134281794840448261" data-video-id="7134281794840448261" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@nftfrance" href="https://www.tiktok.com/@nftfrance?refer=embed" rel="noopener">@nftfrance</a> <p>Les fondateurs du Bored Ape Yacht Club sur le floor price de leurs collection 🤯 <a title="nftfrance" target="_blank" href="https://www.tiktok.com/tag/nftfrance?refer=embed" rel="noopener">#nftfrance</a> <a title="nft" target="_blank" href="https://www.tiktok.com/tag/nft?refer=embed" rel="noopener">#nft</a> <a title="boredapeyachtclub" target="_blank" href="https://www.tiktok.com/tag/boredapeyachtclub?refer=embed" rel="noopener">#boredapeyachtclub</a> <a title="bayc" target="_blank" href="https://www.tiktok.com/tag/bayc?refer=embed" rel="noopener">#bayc</a> <a title="boredape" target="_blank" href="https://www.tiktok.com/tag/boredape?refer=embed" rel="noopener">#boredape</a> <a title="pourtoi" target="_blank" href="https://www.tiktok.com/tag/pourtoi?refer=embed" rel="noopener">#pourtoi</a> <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed" rel="noopener">#fypシ</a> <a title="interview" target="_blank" href="https://www.tiktok.com/tag/interview?refer=embed" rel="noopener">#interview</a> </p> <a target="_blank" title="♬ original sound - NFT France" href="https://www.tiktok.com/music/original-sound-7134281814629190405?refer=embed" rel="noopener">♬ original sound &#8211; NFT France</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@nftfrance/video/7134281794840448261" data-video-id="7134281794840448261" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@nftfrance" href="https://www.tiktok.com/@nftfrance?refer=embed" rel="noopener">@nftfrance</a> <p>Les fondateurs du Bored Ape Yacht Club sur le floor price de leurs collection 🤯 <a title="nftfrance" target="_blank" href="https://www.tiktok.com/tag/nftfrance?refer=embed" rel="noopener">#nftfrance</a> <a title="nft" target="_blank" href="https://www.tiktok.com/tag/nft?refer=embed" rel="noopener">#nft</a> <a title="boredapeyachtclub" target="_blank" href="https://www.tiktok.com/tag/boredapeyachtclub?refer=embed" rel="noopener">#boredapeyachtclub</a> <a title="bayc" target="_blank" href="https://www.tiktok.com/tag/bayc?refer=embed" rel="noopener">#bayc</a> <a title="boredape" target="_blank" href="https://www.tiktok.com/tag/boredape?refer=embed" rel="noopener">#boredape</a> <a title="pourtoi" target="_blank" href="https://www.tiktok.com/tag/pourtoi?refer=embed" rel="noopener">#pourtoi</a> <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed" rel="noopener">#fypシ</a> <a title="interview" target="_blank" href="https://www.tiktok.com/tag/interview?refer=embed" rel="noopener">#interview</a> </p> <a target="_blank" title="♬ original sound - NFT France" href="https://www.tiktok.com/music/original-sound-7134281814629190405?refer=embed" rel="noopener">♬ original sound – NFT France</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 
@@ -102,7 +102,7 @@ categories: ["blockchain-and-digital-security-en", "technology-and-digital-en"]
 
 
 
-<p>In the world of NFTs, purchasing a Bored Ape is understood as a significant investment, similar to that of contemporary works of art. It should be noted that the NFT market is highly volatile. Justin Bieber&#8217;s NFT Bored Ape, for example, purchased for $1.29 million, lost 95% of its value.</p>
+<p>In the world of NFTs, purchasing a Bored Ape is understood as a significant investment, similar to that of contemporary works of art. It should be noted that the NFT market is highly volatile. Justin Bieber’s NFT Bored Ape, for example, purchased for $1.29 million, lost 95% of its value.</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "is"
 title: "Framkvæmdastjóri gagna (CDO): ​​hlutverk, færni, þjálfun og laun"
 slug: "framkvaemdastjori-gagna-cdo-hlutverk-faerni-thjalfun-og-laun"
-excerpt: "Stefnumótunarstaður gagnastjórans í fyrirtækinu Á tímum stórra gagna og gagnagreininga viðurkenna fyrirtæki í auknum mæli mikilvægi þess að stjórna og nýta gögn sín á hernaðarlegan hátt. Kjarninn í þessari viðurkenningu er lykilhlutverk: að Framkvæmdastjóri gagna (CDO). CDO er nauðsynlegt til að koma jafnvægi á stjórnunarhætti, gagnagæði, reglufylgni og nýta gögn til samkeppnisforskots. Þessi grein mun [&hellip;]"
+excerpt: "Stefnumótunarstaður gagnastjórans í fyrirtækinu Á tímum stórra gagna og gagnagreininga viðurkenna fyrirtæki í auknum mæli mikilvægi þess að stjórna og nýta gögn sín á hernaðarlegan hátt. Kjarninn í þessari viðurkenningu er lykilhlutverk: að Framkvæmdastjóri gagna (CDO). CDO er nauðsynlegt til að koma jafnvægi á stjórnunarhætti, gagnagæði, reglufylgni og nýta gögn til samkeppnisforskots. Þessi grein mun […]"
 date: "2024-03-09T12:09:40"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]
@@ -10,7 +10,7 @@ categories: ["taekni-og-stafraen-is", "tolvur-og-gogn-is"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="The Promise and Peril of the Chief Data &amp; Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="The Promise and Peril of the Chief Data & Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

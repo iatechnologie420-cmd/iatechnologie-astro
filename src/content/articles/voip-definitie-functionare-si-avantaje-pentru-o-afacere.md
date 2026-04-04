@@ -2,7 +2,7 @@
 lang: "ro"
 title: "VOIP: Definiție, funcționare și avantaje pentru o afacere"
 slug: "voip-definitie-functionare-si-avantaje-pentru-o-afacere"
-excerpt: "Definiția VOIP și principiile de bază Tehnologia de Voice over Internet Protocol (VoIP) reprezintă o evoluție majoră în modul în care comunicăm. Dominat de mult de liniile telefonice tradiționale, telefonia trece printr-o transformare digitală, permițând transmiterea vocii, precum și a datelor prin internet. Deci, să aruncăm o privire mai atentă la ce este VoIP și [&hellip;]"
+excerpt: "Definiția VOIP și principiile de bază Tehnologia de Voice over Internet Protocol (VoIP) reprezintă o evoluție majoră în modul în care comunicăm. Dominat de mult de liniile telefonice tradiționale, telefonia trece printr-o transformare digitală, permițând transmiterea vocii, precum și a datelor prin internet. Deci, să aruncăm o privire mai atentă la ce este VoIP și […]"
 date: "2024-03-09T12:21:48"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/VOIP-Definition-fonctionnement-et-avantages-pour-une-entreprise-3.png"
 categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
@@ -251,19 +251,19 @@ categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
 
 
 <ul class="wp-block-list">
-<li><strong>RingCentral</strong> &#8211; Oferă o soluție completă de comunicații, inclusiv VoIP, conferințe video și mesagerie.</li>
+<li><strong>RingCentral</strong> – Oferă o soluție completă de comunicații, inclusiv VoIP, conferințe video și mesagerie.</li>
 
 
 
-<li><strong>8&#215;8</strong> &#8211; Oferă servicii VoIP în cloud pentru întreprinderile mici și mijlocii cu funcții avansate.</li>
+<li><strong>8×8</strong> – Oferă servicii VoIP în cloud pentru întreprinderile mici și mijlocii cu funcții avansate.</li>
 
 
 
-<li><strong>Vonage</strong> &#8211; Cunoscut pentru soluțiile VoIP rezidențiale, Vonage oferă și servicii adaptate pentru afaceri.</li>
+<li><strong>Vonage</strong> – Cunoscut pentru soluțiile VoIP rezidențiale, Vonage oferă și servicii adaptate pentru afaceri.</li>
 
 
 
-<li><strong>Cisco</strong> &#8211; Faimos pentru hardware-ul său de rețea, Cisco oferă, de asemenea, soluții VoIP robuste pentru companiile mari.</li>
+<li><strong>Cisco</strong> – Faimos pentru hardware-ul său de rețea, Cisco oferă, de asemenea, soluții VoIP robuste pentru companiile mari.</li>
 </ul>
 
 

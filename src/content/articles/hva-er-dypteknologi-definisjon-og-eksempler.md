@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Hva er dypteknologi? definisjon og eksempler"
 slug: "hva-er-dypteknologi-definisjon-og-eksempler"
-excerpt: "Der Deep Tech, eller banebrytende teknologi, representerer en revolusjon i verden av startups og innovasjon i dag. Det skiller seg ut fra mer konvensjonelle teknologier ved dybden av endringene og dets forstyrrende potensial. Men hva mener vi egentlig med Deep Tech, og hvordan er det forskjellig fra andre typer teknologi? Definisjon av Deep Tech Begrepet [&hellip;]"
+excerpt: "Der Deep Tech, eller banebrytende teknologi, representerer en revolusjon i verden av startups og innovasjon i dag. Det skiller seg ut fra mer konvensjonelle teknologier ved dybden av endringene og dets forstyrrende potensial. Men hva mener vi egentlig med Deep Tech, og hvordan er det forskjellig fra andre typer teknologi? Definisjon av Deep Tech Begrepet […]"
 date: "2024-03-09T12:27:46"
 categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]
 ---
@@ -65,7 +65,7 @@ categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>Disse teknologiene krever ofte betydelige investeringer, i tid og kapital, for å krysse den teknologiske &#8220;dødsdalen&#8221;, som er den kritiske fasen mellom proof of concept og å bringe et levedyktig produkt til markedet. Dette er en av grunnene til at startups <strong>Deep Tech</strong> er jevnlig gjenstand for betydelig finansiering og støtte fra spesialiserte investorer.</p>
+<p>Disse teknologiene krever ofte betydelige investeringer, i tid og kapital, for å krysse den teknologiske “dødsdalen”, som er den kritiske fasen mellom proof of concept og å bringe et levedyktig produkt til markedet. Dette er en av grunnene til at startups <strong>Deep Tech</strong> er jevnlig gjenstand for betydelig finansiering og støtte fra spesialiserte investorer.</p>
 
 
 
@@ -211,7 +211,7 @@ categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>L&#8217;<strong>Kunstig intelligens</strong> (AI) og <strong>Maskinlæring</strong> (maskinlæring) er sikkert de mest publiserte av Deep Tech-feltene. Disse teknologiene påvirker nesten alle sektorer, fra helse til finans, og gjør det mulig å analysere og tolke enorme mengder data for å utlede læring, forutsi atferd og automatisere komplekse prosesser.</p>
+<p>L’<strong>Kunstig intelligens</strong> (AI) og <strong>Maskinlæring</strong> (maskinlæring) er sikkert de mest publiserte av Deep Tech-feltene. Disse teknologiene påvirker nesten alle sektorer, fra helse til finans, og gjør det mulig å analysere og tolke enorme mengder data for å utlede læring, forutsi atferd og automatisere komplekse prosesser.</p>
 
 
 
@@ -235,7 +235,7 @@ categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>Innovasjoner innen <strong>nanoteknologi</strong> gjør det mulig å lage nye materialer med overraskende egenskaper &#8211; lettere, mer motstandsdyktig eller til og med med nye elektriske eller termiske egenskaper. Disse avanserte materialene har potensial til å transformere mange felt, fra forbrukerelektronikk til romfart.</p>
+<p>Innovasjoner innen <strong>nanoteknologi</strong> gjør det mulig å lage nye materialer med overraskende egenskaper – lettere, mer motstandsdyktig eller til og med med nye elektriske eller termiske egenskaper. Disse avanserte materialene har potensial til å transformere mange felt, fra forbrukerelektronikk til romfart.</p>
 
 
 
@@ -259,7 +259,7 @@ categories: ["disruptive-og-nye-innovasjoner-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>Med reduksjonen i lanseringskostnadene og utviklingen av nye teknologier, blir verdensrommet en ny lekeplass for Deep Tech-innovasjoner. Ultra-miniatyriserte satellitter, avansert fremdrift, romutforskning&#8230; det kommersielle og vitenskapelige potensialet er kolossalt.</p>
+<p>Med reduksjonen i lanseringskostnadene og utviklingen av nye teknologier, blir verdensrommet en ny lekeplass for Deep Tech-innovasjoner. Ultra-miniatyriserte satellitter, avansert fremdrift, romutforskning… det kommersielle og vitenskapelige potensialet er kolossalt.</p>
 
 
 

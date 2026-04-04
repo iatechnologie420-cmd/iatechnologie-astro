@@ -2,7 +2,7 @@
 lang: "id"
 title: "Chief Data Officer (CDO): ​​​​peran, keterampilan, pelatihan dan gaji"
 slug: "chief-data-officer-cdo-peran-keterampilan-pelatihan-dan-gaji"
-excerpt: "Posisi strategis Chief Data Officer di perusahaan Di era big data dan analisis data, dunia usaha semakin menyadari pentingnya mengelola dan memanfaatkan data mereka secara strategis. Inti dari pengakuan ini adalah peran kuncinya: the Kepala Petugas Data (CDO). CDO sangat penting untuk menyeimbangkan tata kelola, kualitas data, kepatuhan terhadap peraturan, dan memanfaatkan data untuk keunggulan [&hellip;]"
+excerpt: "Posisi strategis Chief Data Officer di perusahaan Di era big data dan analisis data, dunia usaha semakin menyadari pentingnya mengelola dan memanfaatkan data mereka secara strategis. Inti dari pengakuan ini adalah peran kuncinya: the Kepala Petugas Data (CDO). CDO sangat penting untuk menyeimbangkan tata kelola, kualitas data, kepatuhan terhadap peraturan, dan memanfaatkan data untuk keunggulan […]"
 date: "2024-03-09T12:09:33"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Chief-Data-Officer-CDO-role-competences-formations-et-salaire-3.png"
 categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
@@ -10,7 +10,7 @@ categories: ["komputasi-dan-data-id", "teknologi-dan-digital-id"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="The Promise and Peril of the Chief Data &amp; Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="The Promise and Peril of the Chief Data & Analytics Officer (CDAO) Role" width="500" height="281" src="https://www.youtube.com/embed/7zFRWzNElOM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

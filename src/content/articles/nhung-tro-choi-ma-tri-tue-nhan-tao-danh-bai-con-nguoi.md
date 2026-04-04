@@ -2,7 +2,7 @@
 lang: "vi"
 title: "Những trò chơi mà trí tuệ nhân tạo đánh bại con người"
 slug: "nhung-tro-choi-ma-tri-tue-nhan-tao-danh-bai-con-nguoi"
-excerpt: "Bình minh của siêu máy tính và thử thách cờ vua Kỷ nguyên của siêu máy tính không còn là một viễn cảnh tương lai xa vời nữa mà là một thực tế hữu hình đang cách mạng hóa nhiều lĩnh vực khác nhau, bao gồm cả các trò chơi chiến lược như cờ vua. [&hellip;]"
+excerpt: "Bình minh của siêu máy tính và thử thách cờ vua Kỷ nguyên của siêu máy tính không còn là một viễn cảnh tương lai xa vời nữa mà là một thực tế hữu hình đang cách mạng hóa nhiều lĩnh vực khác nhau, bao gồm cả các trò chơi chiến lược như cờ vua. […]"
 date: "2024-03-09T12:41:28"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
@@ -118,7 +118,7 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 
-<p>&#8211; Cải thiện đối thủ ảo: AI cho phép tạo ra những kẻ thù không phải con người với khả năng chiến lược tiên tiến và có khả năng thích ứng trong thời gian thực với hành động của người chơi. <br>&#8211; Học sâu: các hệ thống AI hiện đại dựa vào học máy, đặc biệt là học sâu, để phân tích hàng triệu trò chơi và đưa ra các chiến lược tối ưu.<br>&#8211; Cá nhân hóa trải nghiệm: AI có thể điều chỉnh độ khó và phong cách chơi dựa trên người chơi, mang lại trải nghiệm phù hợp.<br>&#8211; Phát triển cơ chế trò chơi mới**: trí tuệ nhân tạo cho phép tạo ra động lực chưa từng thấy trước đây nhờ khả năng quản lý các hệ thống phức tạp.</p>
+<p>– Cải thiện đối thủ ảo: AI cho phép tạo ra những kẻ thù không phải con người với khả năng chiến lược tiên tiến và có khả năng thích ứng trong thời gian thực với hành động của người chơi. <br>– Học sâu: các hệ thống AI hiện đại dựa vào học máy, đặc biệt là học sâu, để phân tích hàng triệu trò chơi và đưa ra các chiến lược tối ưu.<br>– Cá nhân hóa trải nghiệm: AI có thể điều chỉnh độ khó và phong cách chơi dựa trên người chơi, mang lại trải nghiệm phù hợp.<br>– Phát triển cơ chế trò chơi mới**: trí tuệ nhân tạo cho phép tạo ra động lực chưa từng thấy trước đây nhờ khả năng quản lý các hệ thống phức tạp.</p>
 
 
 
@@ -130,11 +130,11 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 
-<p>&#8211; <strong>DeepMind</strong>&#8216;s AlphaGo: AI này đã làm nên lịch sử khi đánh bại nhà vô địch cờ vây thế giới Lee Sedol vào năm 2016.</p>
+<p>– <strong>DeepMind</strong>‘s AlphaGo: AI này đã làm nên lịch sử khi đánh bại nhà vô địch cờ vây thế giới Lee Sedol vào năm 2016.</p>
 
 
 
-<p>&#8211; <strong>OpenAI</strong> Năm: Được phát triển bởi OpenAI, AI này đã đánh bại các đội chuyên nghiệp trong trò chơi chiến lược cạnh tranh Dota 2.</p>
+<p>– <strong>OpenAI</strong> Năm: Được phát triển bởi OpenAI, AI này đã đánh bại các đội chuyên nghiệp trong trò chơi chiến lược cạnh tranh Dota 2.</p>
 
 
 
@@ -170,7 +170,7 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 
-<p>&#8211; Cá nhân hóa và điều chỉnh trò chơi điện tử phù hợp với trải nghiệm người dùng.<br>&#8211; Cải tiến các trò chơi mô phỏng với AI có khả năng tái tạo hành vi thực tế của con người trong chiến lược, ngoại giao hay kinh tế.<br>&#8211; Sử dụng trong các trò chơi nghiêm túc dành cho các ứng dụng giáo dục, y tế và đào tạo chuyên nghiệp.<br>&#8211; Những tiến bộ trong thể thao điện tử trong đó AI có thể được sử dụng để đào tạo cũng như với tư cách là đối thủ và đối tác chơi game.<br>&#8211; Tăng cường nghiên cứu học thuật về việc ra quyết định, chiến lược và tâm lý học.</p>
+<p>– Cá nhân hóa và điều chỉnh trò chơi điện tử phù hợp với trải nghiệm người dùng.<br>– Cải tiến các trò chơi mô phỏng với AI có khả năng tái tạo hành vi thực tế của con người trong chiến lược, ngoại giao hay kinh tế.<br>– Sử dụng trong các trò chơi nghiêm túc dành cho các ứng dụng giáo dục, y tế và đào tạo chuyên nghiệp.<br>– Những tiến bộ trong thể thao điện tử trong đó AI có thể được sử dụng để đào tạo cũng như với tư cách là đối thủ và đối tác chơi game.<br>– Tăng cường nghiên cứu học thuật về việc ra quyết định, chiến lược và tâm lý học.</p>
 
 
 

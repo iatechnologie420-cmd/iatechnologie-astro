@@ -2,14 +2,14 @@
 lang: "nb"
 title: "SSD: alt du trenger å vite om Solid-State Drive-datalagring"
 slug: "ssd-alt-du-trenger-a-vite-om-solid-state-drive-datalagring"
-excerpt: "Introduksjon til SSD-er og hvordan de fungerer Fremkomsten av solid state-disker, eller SSD (Solid State Drive på engelsk), markerte en reell revolusjon innen datalagring. I motsetning til tradisjonelle harddisker (HDDer) som bruker magnetiske tallerkener for å lagre informasjon, HDDer SSD stole på flash-minnebrikker uten bevegelige deler. Denne teknologiendringen gir betydelige fordeler når det gjelder ytelse, [&hellip;]"
+excerpt: "Introduksjon til SSD-er og hvordan de fungerer Fremkomsten av solid state-disker, eller SSD (Solid State Drive på engelsk), markerte en reell revolusjon innen datalagring. I motsetning til tradisjonelle harddisker (HDDer) som bruker magnetiske tallerkener for å lagre informasjon, HDDer SSD stole på flash-minnebrikker uten bevegelige deler. Denne teknologiendringen gir betydelige fordeler når det gjelder ytelse, […]"
 date: "2024-03-09T12:23:30"
 categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How It&#039;s Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="How It's Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

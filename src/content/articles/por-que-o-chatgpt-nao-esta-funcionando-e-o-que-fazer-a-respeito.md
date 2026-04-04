@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Por que o ChatGPT não está funcionando e o que fazer a respeito?"
 slug: "por-que-o-chatgpt-nao-esta-funcionando-e-o-que-fazer-a-respeito"
-excerpt: "Por que o ChatGPT não está funcionando? Ao usar o ChatGPT, você pode encontrar problemas que fazem com que ele não funcione corretamente. Esses problemas, embora frustrantes, podem ter diversas causas. Neste artigo, exploraremos alguns motivos comuns pelos quais o ChatGPT pode não estar funcionando corretamente e forneceremos soluções para resolvê-los. 1. Conexão instável com [&hellip;]"
+excerpt: "Por que o ChatGPT não está funcionando? Ao usar o ChatGPT, você pode encontrar problemas que fazem com que ele não funcione corretamente. Esses problemas, embora frustrantes, podem ter diversas causas. Neste artigo, exploraremos alguns motivos comuns pelos quais o ChatGPT pode não estar funcionando corretamente e forneceremos soluções para resolvê-los. 1. Conexão instável com […]"
 date: "2024-03-09T12:17:22"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["aplicacoes-de-ia-pt"]
@@ -38,7 +38,7 @@ categories: ["aplicacoes-de-ia-pt"]
 
 
 
-<p>&#8211; Certifique-se de estar usando a versão mais recente do seu navegador.<br>&#8211; Limpe o cache do navegador para remover quaisquer dados corrompidos que possam afetar o funcionamento do ChatGPT.<br>&#8211; Experimente outro navegador para ver se o problema persiste. Alguns navegadores podem ter problemas de compatibilidade com determinados recursos do ChatGPT.</p>
+<p>– Certifique-se de estar usando a versão mais recente do seu navegador.<br>– Limpe o cache do navegador para remover quaisquer dados corrompidos que possam afetar o funcionamento do ChatGPT.<br>– Experimente outro navegador para ver se o problema persiste. Alguns navegadores podem ter problemas de compatibilidade com determinados recursos do ChatGPT.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["aplicacoes-de-ia-pt"]
 
 
 
-<p>&#8211; Reduza o tamanho do seu pedido, reduzindo o número de palavras ou reformulando o seu pedido.<br>&#8211; Divida o seu pedido em várias partes menores e envie-as separadamente.<br>&#8211; Seja paciente e espere até que os servidores de processamento terminem de processar sua solicitação anterior antes de enviar uma nova.</p>
+<p>– Reduza o tamanho do seu pedido, reduzindo o número de palavras ou reformulando o seu pedido.<br>– Divida o seu pedido em várias partes menores e envie-as separadamente.<br>– Seja paciente e espere até que os servidores de processamento terminem de processar sua solicitação anterior antes de enviar uma nova.</p>
 
 
 

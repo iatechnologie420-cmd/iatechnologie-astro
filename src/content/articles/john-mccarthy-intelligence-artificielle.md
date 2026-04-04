@@ -1,8 +1,8 @@
 ---
 lang: "fr"
-title: "John McCarthy : L&#8217;homme qui a inventé l&#8217;intelligence artificielle"
+title: "John McCarthy : L’homme qui a inventé l’intelligence artificielle"
 slug: "john-mccarthy-intelligence-artificielle"
-excerpt: "Qui était John McCarthy ? John McCarthy, né en 1927 à Boston, est une figure fondatrice de l’intelligence artificielle (IA). Génie des mathématiques dès son plus jeune âge, il apprend le calcul différentiel et intégral avant même d&#8217;entrer à l’université. Après des études au California Institute of Technology, puis un doctorat à Princeton, il s&#8217;oriente [&hellip;]"
+excerpt: "Qui était John McCarthy ? John McCarthy, né en 1927 à Boston, est une figure fondatrice de l’intelligence artificielle (IA). Génie des mathématiques dès son plus jeune âge, il apprend le calcul différentiel et intégral avant même d’entrer à l’université. Après des études au California Institute of Technology, puis un doctorat à Princeton, il s’oriente […]"
 date: "2025-06-10T12:50:14"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-Image-10-juin-2025-a-21_57_02.png"
 categories: ["non-classe-fr"]
@@ -18,11 +18,11 @@ categories: ["non-classe-fr"]
 
 
 
-<p>John McCarthy, né en 1927 à Boston, est une figure fondatrice de l’intelligence artificielle (IA). Génie des mathématiques dès son plus jeune âge, il apprend le calcul différentiel et intégral avant même d&#8217;entrer à l’université. Après des études au California Institute of Technology, puis un doctorat à Princeton, il s&#8217;oriente vers un domaine encore balbutiant à l&#8217;époque : l&#8217;informatique.</p>
+<p>John McCarthy, né en 1927 à Boston, est une figure fondatrice de l’intelligence artificielle (IA). Génie des mathématiques dès son plus jeune âge, il apprend le calcul différentiel et intégral avant même d’entrer à l’université. Après des études au California Institute of Technology, puis un doctorat à Princeton, il s’oriente vers un domaine encore balbutiant à l’époque : l’informatique.</p>
 
 
 
-<p>McCarthy est avant tout un visionnaire. Là où d’autres voyaient de simples calculateurs, lui imaginait des machines capables de raisonner, d&#8217;apprendre et même de comprendre.</p>
+<p>McCarthy est avant tout un visionnaire. Là où d’autres voyaient de simples calculateurs, lui imaginait des machines capables de raisonner, d’apprendre et même de comprendre.</p>
 
 
 
@@ -30,7 +30,7 @@ categories: ["non-classe-fr"]
 
 
 
-<p>En 1955, McCarthy propose l’organisation d’un atelier de recherche à Dartmouth College pour explorer une idée révolutionnaire : celle de créer des machines capables de simuler l’intelligence humaine. Il forge à cette occasion le terme &#8220;intelligence artificielle&#8221;, une expression qui allait bouleverser le monde.</p>
+<p>En 1955, McCarthy propose l’organisation d’un atelier de recherche à Dartmouth College pour explorer une idée révolutionnaire : celle de créer des machines capables de simuler l’intelligence humaine. Il forge à cette occasion le terme “intelligence artificielle”, une expression qui allait bouleverser le monde.</p>
 
 
 
@@ -70,7 +70,7 @@ categories: ["non-classe-fr"]
 
 
 
-<p>Dans les années 1960, McCarthy imagine un programme hypothétique appelé &#8220;Advice Taker&#8221;, qui serait capable de raisonner à partir de faits généraux et de tirer des conclusions logiques. C’est l’un des premiers modèles de machine dotée de &#8220;bon sens&#8221;.</p>
+<p>Dans les années 1960, McCarthy imagine un programme hypothétique appelé “Advice Taker”, qui serait capable de raisonner à partir de faits généraux et de tirer des conclusions logiques. C’est l’un des premiers modèles de machine dotée de “bon sens”.</p>
 
 
 
@@ -78,7 +78,7 @@ categories: ["non-classe-fr"]
 
 
 
-<p>Il développe également la &#8220;circumscription&#8221;, une méthode de raisonnement non monotone qui permet aux machines de faire des hypothèses en l’absence d’informations complètes. C’est une avancée clé pour modéliser la pensée humaine dans des environnements complexes.</p>
+<p>Il développe également la “circumscription”, une méthode de raisonnement non monotone qui permet aux machines de faire des hypothèses en l’absence d’informations complètes. C’est une avancée clé pour modéliser la pensée humaine dans des environnements complexes.</p>
 
 
 
@@ -136,7 +136,7 @@ categories: ["non-classe-fr"]
 
 
 
-<p>John McCarthy est bien plus que l’homme qui a inventé le terme &#8220;intelligence artificielle&#8221;. Il en a été l’architecte visionnaire, l’ingénieur infatigable, et le philosophe engagé. Comprendre son œuvre, c’est comprendre les racines profondes de l’IA moderne.</p>
+<p>John McCarthy est bien plus que l’homme qui a inventé le terme “intelligence artificielle”. Il en a été l’architecte visionnaire, l’ingénieur infatigable, et le philosophe engagé. Comprendre son œuvre, c’est comprendre les racines profondes de l’IA moderne.</p>
 
 
 

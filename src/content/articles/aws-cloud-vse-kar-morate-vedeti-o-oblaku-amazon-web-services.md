@@ -2,7 +2,7 @@
 lang: "sl"
 title: "AWS Cloud – Vse, kar morate vedeti o oblaku Amazon Web Services"
 slug: "aws-cloud-vse-kar-morate-vedeti-o-oblaku-amazon-web-services"
-excerpt: "Uvod v spletne storitve Amazon (AWS): revolucija v računalništvu v oblaku Od svoje ustanovitve leta 2006, Spletne storitve Amazon (AWS) je radikalno spremenil krajino IT z zagotavljanjem platforme storitev v oblaku, ki zagotavlja neprimerljivo prilagodljivost, obseg in ekonomijo obsega. Namen tega uvoda je pojasniti načela delovanjaAWS in pojasniti, zakaj je ta rešitev postala ključni akter [&hellip;]"
+excerpt: "Uvod v spletne storitve Amazon (AWS): revolucija v računalništvu v oblaku Od svoje ustanovitve leta 2006, Spletne storitve Amazon (AWS) je radikalno spremenil krajino IT z zagotavljanjem platforme storitev v oblaku, ki zagotavlja neprimerljivo prilagodljivost, obseg in ekonomijo obsega. Namen tega uvoda je pojasniti načela delovanjaAWS in pojasniti, zakaj je ta rešitev postala ključni akter […]"
 date: "2024-03-09T12:48:24"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cloud-AWS-_E2_80_93-Tout-savoir-sur-le-cloud-Amazon-Web-Services-3.png"
 categories: ["infrastruktura-in-omrezja-sl", "tehnologija-in-digital-sl"]
@@ -110,7 +110,7 @@ categories: ["infrastruktura-in-omrezja-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>L&#8217;<strong>Amazon VPC</strong> Omogoča vam, da zagotovite izoliran del oblaka AWS, kjer lahko zaženete vire AWS v navidezno omrežje, ki ga določite. To je ključnega pomena za varnost in upravljanje omrežja vaših storitev v oblaku.</p>
+<p>L’<strong>Amazon VPC</strong> Omogoča vam, da zagotovite izoliran del oblaka AWS, kjer lahko zaženete vire AWS v navidezno omrežje, ki ga določite. To je ključnega pomena za varnost in upravljanje omrežja vaših storitev v oblaku.</p>
 
 
 

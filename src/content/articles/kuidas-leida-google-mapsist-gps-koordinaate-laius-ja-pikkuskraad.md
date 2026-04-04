@@ -2,7 +2,7 @@
 lang: "et"
 title: "Kuidas leida Google Mapsist GPS-koordinaate (laius- ja pikkuskraad)?"
 slug: "kuidas-leida-google-mapsist-gps-koordinaate-laius-ja-pikkuskraad"
-excerpt: "THE GPS (Global Positioning System) on tehnoloogia, mis on muutunud meie igapäevaelus hädavajalikuks. Kasutades satelliitide poolt edastatavaid signaale, GPS süsteem võimaldab meil täpselt määrata oma asukoha geograafiliste koordinaatide kujul. Neid koordinaate esindavad kaks põhielementi: laiuskraad ja pikkuskraad. Selles artiklis uurime GPS-koordinaatide maailma ja mõistame nende olulist rolli geolokatsioonis. Mis on GPS-koordinaadid? GPS-koordinaadid on võrdluspunktid, mis [&hellip;]"
+excerpt: "THE GPS (Global Positioning System) on tehnoloogia, mis on muutunud meie igapäevaelus hädavajalikuks. Kasutades satelliitide poolt edastatavaid signaale, GPS süsteem võimaldab meil täpselt määrata oma asukoha geograafiliste koordinaatide kujul. Neid koordinaate esindavad kaks põhielementi: laiuskraad ja pikkuskraad. Selles artiklis uurime GPS-koordinaatide maailma ja mõistame nende olulist rolli geolokatsioonis. Mis on GPS-koordinaadid? GPS-koordinaadid on võrdluspunktid, mis […]"
 date: "2024-03-09T12:02:47"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["tehnoloogia-ja-digitaalne-et"]
@@ -65,7 +65,7 @@ categories: ["tehnoloogia-ja-digitaalne-et"]
 
 
 
-<li>Ilmuvas menüüs klõpsake &#8220;Millised on koordinaadid?&#8221; või näete koordinaate otse väikeses hüpikaknas.</li>
+<li>Ilmuvas menüüs klõpsake “Millised on koordinaadid?” või näete koordinaate otse väikeses hüpikaknas.</li>
 
 
 

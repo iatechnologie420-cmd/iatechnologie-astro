@@ -2,7 +2,7 @@
 lang: "es"
 title: "Alan Turing y el nacimiento de la inteligencia artificial"
 slug: "alan-turing-y-el-nacimiento-de-la-inteligencia-artificial"
-excerpt: "Alan Turing: padre fundador de la inteligencia artificial Alan Turing: padre fundador de la inteligencia artificialLa historia de la inteligencia artificial (IA) no podría contarse completamente sin mencionar el nombre de Alan Turing, considerado por muchos el padre fundador de este campo que hoy está revolucionando muchos aspectos de nuestra vida cotidiana. Su contribución va [&hellip;]"
+excerpt: "Alan Turing: padre fundador de la inteligencia artificial Alan Turing: padre fundador de la inteligencia artificialLa historia de la inteligencia artificial (IA) no podría contarse completamente sin mencionar el nombre de Alan Turing, considerado por muchos el padre fundador de este campo que hoy está revolucionando muchos aspectos de nuestra vida cotidiana. Su contribución va […]"
 date: "2024-03-09T12:52:49"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["formacion-y-fundamentos-de-la-ia-es"]
@@ -10,7 +10,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Vídeo Alan Turing: El padre de la IA</figcaption></figure>
 
 
@@ -32,7 +32,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>Alan Turing fue un matemático británico cuyo trabajo tuvo un impacto decisivo en el desarrollo de la informática y la inteligencia artificial. Durante la Segunda Guerra Mundial, su compromiso de descifrar los códigos nazis, en particular con su máquina llamada <strong>Bomba</strong>, contribuyó en gran medida a la victoria de los aliados. Sin embargo, fue después del conflicto mundial cuando sus investigaciones adquirieron una dimensión verdaderamente revolucionaria con la redacción de su célebre artículo &#8220;Computing Machinery and Intelligence&#8221; en 1950.</p>
+<p>Alan Turing fue un matemático británico cuyo trabajo tuvo un impacto decisivo en el desarrollo de la informática y la inteligencia artificial. Durante la Segunda Guerra Mundial, su compromiso de descifrar los códigos nazis, en particular con su máquina llamada <strong>Bomba</strong>, contribuyó en gran medida a la victoria de los aliados. Sin embargo, fue después del conflicto mundial cuando sus investigaciones adquirieron una dimensión verdaderamente revolucionaria con la redacción de su célebre artículo “Computing Machinery and Intelligence” en 1950.</p>
 
 
 
@@ -192,7 +192,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>&#8211; Descifrado del código Enigma.<br>&#8211; Diseño de la Bomba Criptoanalítica<br>&#8211; Formulación de la máquina de Turing<br>&#8211; Pensar en el concepto de prueba de Turing.<br>&#8211; Abrir el camino a la investigación en inteligencia artificial</p>
+<p>– Descifrado del código Enigma.<br>– Diseño de la Bomba Criptoanalítica<br>– Formulación de la máquina de Turing<br>– Pensar en el concepto de prueba de Turing.<br>– Abrir el camino a la investigación en inteligencia artificial</p>
 
 
 

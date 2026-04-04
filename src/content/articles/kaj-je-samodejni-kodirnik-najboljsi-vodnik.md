@@ -2,14 +2,14 @@
 lang: "sl"
 title: "Kaj je samodejni kodirnik? Najboljši vodnik!"
 slug: "kaj-je-samodejni-kodirnik-najboljsi-vodnik"
-excerpt: "Avtokodirniki, oz avtokodirniki v angleščini, pozicionirajo kot močno orodje na področju strojnega učenja in umetne inteligence. Te posebne nevronske mreže se uporabljajo za zmanjšanje dimenzij, odkrivanje anomalij, odstranjevanje šumov v podatkih itd. Ta članek predstavlja uvod v to fascinantno tehnologijo, poudarja njeno načelo delovanja, njene aplikacije in njen vse večji pomen v raziskavah in industriji. [&hellip;]"
+excerpt: "Avtokodirniki, oz avtokodirniki v angleščini, pozicionirajo kot močno orodje na področju strojnega učenja in umetne inteligence. Te posebne nevronske mreže se uporabljajo za zmanjšanje dimenzij, odkrivanje anomalij, odstranjevanje šumov v podatkih itd. Ta članek predstavlja uvod v to fascinantno tehnologijo, poudarja njeno načelo delovanja, njene aplikacije in njen vse večji pomen v raziskavah in industriji. […]"
 date: "2024-03-09T12:07:52"
 categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Tracking Corn &amp; Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Tracking Corn & Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -88,7 +88,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<li><strong>Odpravljanje hrupa</strong>: sposobni so se naučiti ignorirati &#8220;šum&#8221; v podatkih.</li>
+<li><strong>Odpravljanje hrupa</strong>: sposobni so se naučiti ignorirati “šum” v podatkih.</li>
 
 
 
@@ -153,7 +153,7 @@ categories: ["racunalnistvo-in-podatki-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>L&#8217;<strong>samodejni kodirnik</strong>, ključna komponenta v arzenalu globokega učenja, ki ga poganja umetna inteligenca (AI), je nevronska mreža, zasnovana za kodiranje podatkov v nižjedimenzionalno predstavitev in njihovo razgradnjo na tak način, da je mogoča ustrezna rekonstrukcija. Preglejmo jih <strong>praktične aplikacije</strong> in različice, ki so se pojavile na tem fascinantnem področju.</p>
+<p>L’<strong>samodejni kodirnik</strong>, ključna komponenta v arzenalu globokega učenja, ki ga poganja umetna inteligenca (AI), je nevronska mreža, zasnovana za kodiranje podatkov v nižjedimenzionalno predstavitev in njihovo razgradnjo na tak način, da je mogoča ustrezna rekonstrukcija. Preglejmo jih <strong>praktične aplikacije</strong> in različice, ki so se pojavile na tem fascinantnem področju.</p>
 
 
 

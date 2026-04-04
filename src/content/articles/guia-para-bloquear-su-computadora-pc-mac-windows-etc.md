@@ -2,7 +2,7 @@
 lang: "es"
 title: "Guía para bloquear su computadora (PC, Mac, Windows, etc.)"
 slug: "guia-para-bloquear-su-computadora-pc-mac-windows-etc"
-excerpt: "La necesidad de proteger su computadora En la era actual, en la que las actividades se están volviendo digitales a un ritmo acelerado, la seguridad de nuestra computadora se ha convertido en una preocupación importante tanto para las personas como para las empresas. Aquí encontrará una guía detallada sobre los buenos reflejos que debe adoptar [&hellip;]"
+excerpt: "La necesidad de proteger su computadora En la era actual, en la que las actividades se están volviendo digitales a un ritmo acelerado, la seguridad de nuestra computadora se ha convertido en una preocupación importante tanto para las personas como para las empresas. Aquí encontrará una guía detallada sobre los buenos reflejos que debe adoptar […]"
 date: "2024-03-09T11:56:56"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/LArt-de-Verrouiller-son-Ordinateur-PC-Mac-et-Toutes-les-Versions-de-Windows-3.png"
 categories: ["blockchain-y-seguridad-digital-es", "tecnologia-y-digital-es"]

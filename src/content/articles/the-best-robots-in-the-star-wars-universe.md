@@ -2,7 +2,7 @@
 lang: "en"
 title: "The best robots in the Star Wars universe"
 slug: "the-best-robots-in-the-star-wars-universe"
-excerpt: "Mechanical legends: C-3PO and R2-D2 Considered the most emblematic droids of the saga Star Wars, C-3PO and R2-D2 have marked generations of fans with their unique personality, their story and their crucial role throughout the episodes. This article delves into the world of these mechanical legends, revealing their essence and cultural impact. C-3PO: The Polyglot [&hellip;]"
+excerpt: "Mechanical legends: C-3PO and R2-D2 Considered the most emblematic droids of the saga Star Wars, C-3PO and R2-D2 have marked generations of fans with their unique personality, their story and their crucial role throughout the episodes. This article delves into the world of these mechanical legends, revealing their essence and cultural impact. C-3PO: The Polyglot […]"
 date: "2024-03-09T12:21:19"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["technology-and-digital-en"]
@@ -10,7 +10,7 @@ categories: ["technology-and-digital-en"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -48,7 +48,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>Artoo&#8217;s ability to store important information, navigate complex computer systems, and venture where others cannot go makes him a quiet but indispensable hero. His famous &#8220;voice&#8221;, made up of a series of electronic whistles, allows expressive communication without words, creating a strong emotional bond with the public and his friends in the saga.</p>
+<p>Artoo’s ability to store important information, navigate complex computer systems, and venture where others cannot go makes him a quiet but indispensable hero. His famous “voice”, made up of a series of electronic whistles, allows expressive communication without words, creating a strong emotional bond with the public and his friends in the saga.</p>
 
 
 
@@ -56,7 +56,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>Although they are radically different, the complementarity of C-3PO and R2-D2 is one of the key elements of their success. Their friendship and interactions provide a continuous narrative thread throughout the episodes of <strong>Star Wars</strong>. C-3PO&#8217;s seriousness and concerns perfectly counterbalance R2-D2&#8217;s quiet boldness, providing moments of levity and humanity in the galactic epic.</p>
+<p>Although they are radically different, the complementarity of C-3PO and R2-D2 is one of the key elements of their success. Their friendship and interactions provide a continuous narrative thread throughout the episodes of <strong>Star Wars</strong>. C-3PO’s seriousness and concerns perfectly counterbalance R2-D2’s quiet boldness, providing moments of levity and humanity in the galactic epic.</p>
 
 
 
@@ -72,7 +72,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>The saga <strong>Star Wars</strong>, it&#8217;s not just epic tales of Jedi versus Sith; it is also a famous <strong>character gallery</strong> that capture the imagination of fans, and among these, droids hold a special place. BB-8 and D-O are the newest icons joining the pantheon of beloved droids from that galaxy far, far away.</p>
+<p>The saga <strong>Star Wars</strong>, it’s not just epic tales of Jedi versus Sith; it is also a famous <strong>character gallery</strong> that capture the imagination of fans, and among these, droids hold a special place. BB-8 and D-O are the newest icons joining the pantheon of beloved droids from that galaxy far, far away.</p>
 
 
 
@@ -80,11 +80,11 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>BB-8 made his first appearance in &#8220;<strong>Star Wars: Episode VII &#8211; The Force Awakens</strong>&#8221; in 2015. This astromech droid quickly became a fan favorite due to its unique spherical shape, agile mobility and cheerful personality. BB-8 belongs to one of the heroes of the new trilogy, <strong>Poe Dameron</strong>, and together they share many adventures across the galaxy.</p>
+<p>BB-8 made his first appearance in “<strong>Star Wars: Episode VII – The Force Awakens</strong>” in 2015. This astromech droid quickly became a fan favorite due to its unique spherical shape, agile mobility and cheerful personality. BB-8 belongs to one of the heroes of the new trilogy, <strong>Poe Dameron</strong>, and together they share many adventures across the galaxy.</p>
 
 
 
-<p>BB-8&#8217;s design breaks with the tradition of droids with a humanoid appearance and introduces a new movement mechanic. His head floating above his rotating body, thanks to the use of magnets, provides memorable sequences that combine expression and functionality.</p>
+<p>BB-8’s design breaks with the tradition of droids with a humanoid appearance and introduces a new movement mechanic. His head floating above his rotating body, thanks to the use of magnets, provides memorable sequences that combine expression and functionality.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>D-O is first introduced in &#8220;<strong>Star Wars: Episode IX &#8211; The Rise of Skywalker</strong>&#8221; released in 2019. This little droid on one wheel impresses with its ability to move people. With its shape reminiscent of a child&#8217;s toy and its characteristic whistling voice, it embodies the new friend we would all like to have.</p>
+<p>D-O is first introduced in “<strong>Star Wars: Episode IX – The Rise of Skywalker</strong>” released in 2019. This little droid on one wheel impresses with its ability to move people. With its shape reminiscent of a child’s toy and its characteristic whistling voice, it embodies the new friend we would all like to have.</p>
 
 
 

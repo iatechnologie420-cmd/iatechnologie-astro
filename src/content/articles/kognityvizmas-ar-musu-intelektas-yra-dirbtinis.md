@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Kognityvizmas: ar mūsų intelektas yra dirbtinis?"
 slug: "kognityvizmas-ar-musu-intelektas-yra-dirbtinis"
-excerpt: "Kognityvizmo ir žmogaus intelekto ištakos Kognityvizmo ištakos THE kognityvizmas yra požiūris į psichologiją, orientuotas į vidinius mąstymo mechanizmus, traktuojantis žmogaus protą kaip informacijos apdorojimo sistemą. Šio požiūrio ištakos daugiausia siekia šeštąjį ir septintąjį dešimtmetį, kaip reakciją į biheviorizmą, kuris tuo metu buvo labai dominuojantis ir orientuotas tik į stebimą elgesį, nepaisydamas vidinių psichinių procesų. THE [&hellip;]"
+excerpt: "Kognityvizmo ir žmogaus intelekto ištakos Kognityvizmo ištakos THE kognityvizmas yra požiūris į psichologiją, orientuotas į vidinius mąstymo mechanizmus, traktuojantis žmogaus protą kaip informacijos apdorojimo sistemą. Šio požiūrio ištakos daugiausia siekia šeštąjį ir septintąjį dešimtmetį, kaip reakciją į biheviorizmą, kuris tuo metu buvo labai dominuojantis ir orientuotas tik į stebimą elgesį, nepaisydamas vidinių psichinių procesų. THE […]"
 date: "2024-03-09T12:19:36"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Cognitivisme-_E2_80_93-Notre-intelligence-est-elle-artificielle-1-3.png"
 categories: ["ai-mokymas-ir-pagrindai-lt"]
@@ -26,7 +26,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<p>            THE <strong>pamatai</strong> Kognityvizmo teorijos yra pagrįstos žymių veikėjų, tokių kaip Jeanas Piaget&#8217;as, tyrinėjęs vaikų pažinimo raidą, arba Noamas Chomskis, kurio bihevioristinės psichologijos ir verbalinio mokymosi teorijų kritika buvo esminė psichologijos orientacijos į gilesnę kryptį, darbais. proto ir jo gebėjimų tyrimas.</p>
+<p>            THE <strong>pamatai</strong> Kognityvizmo teorijos yra pagrįstos žymių veikėjų, tokių kaip Jeanas Piaget’as, tyrinėjęs vaikų pažinimo raidą, arba Noamas Chomskis, kurio bihevioristinės psichologijos ir verbalinio mokymosi teorijų kritika buvo esminė psichologijos orientacijos į gilesnę kryptį, darbais. proto ir jo gebėjimų tyrimas.</p>
 
 
 
@@ -38,7 +38,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<p>            L&#8217;<strong>žmogaus intelektas</strong> yra sudėtingas fakultetas, apimantis įvairius gebėjimus, tokius kaip problemų sprendimas, supratimas, mokymasis, prisitaikymas prie naujų kontekstų, kūrybiškumas ir manipuliavimas simboliais bei sąvokomis. Kognityvizmo rėmuose žmogaus intelektas dažnai įsivaizduojamas kaip pažinimo procesų, kuriuos galima suskaidyti ir moksliškai analizuoti, rezultatas.</p>
+<p>            L’<strong>žmogaus intelektas</strong> yra sudėtingas fakultetas, apimantis įvairius gebėjimus, tokius kaip problemų sprendimas, supratimas, mokymasis, prisitaikymas prie naujų kontekstų, kūrybiškumas ir manipuliavimas simboliais bei sąvokomis. Kognityvizmo rėmuose žmogaus intelektas dažnai įsivaizduojamas kaip pažinimo procesų, kuriuos galima suskaidyti ir moksliškai analizuoti, rezultatas.</p>
 
 
 

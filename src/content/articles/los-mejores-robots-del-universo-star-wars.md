@@ -2,7 +2,7 @@
 lang: "es"
 title: "Los mejores robots del universo Star Wars"
 slug: "los-mejores-robots-del-universo-star-wars"
-excerpt: "Leyendas mecánicas: C-3PO y R2-D2 Considerados los droides más emblemáticos de la saga. Guerra de las Galaxias, C-3PO y R2-D2 han marcado a generaciones de fans con su personalidad única, su historia y su papel crucial a lo largo de los episodios. Este artículo se adentra en el mundo de estas leyendas mecánicas, revelando su [&hellip;]"
+excerpt: "Leyendas mecánicas: C-3PO y R2-D2 Considerados los droides más emblemáticos de la saga. Guerra de las Galaxias, C-3PO y R2-D2 han marcado a generaciones de fans con su personalidad única, su historia y su papel crucial a lo largo de los episodios. Este artículo se adentra en el mundo de estas leyendas mecánicas, revelando su […]"
 date: "2024-03-09T12:21:25"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-top-des-robots-dans-lunivers-Star-Wars.png"
 categories: ["tecnologia-y-digital-es"]
@@ -10,7 +10,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Star Wars: The Phantom Menace (1999) - &quot;Activate the Droids&quot; scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Star Wars: The Phantom Menace (1999) - "Activate the Droids" scene [1080p]" width="500" height="281" src="https://www.youtube.com/embed/bjCLlsOvKrQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -48,7 +48,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<p>La capacidad de Artoo para almacenar información importante, navegar por complejos sistemas informáticos y aventurarse donde otros no pueden llegar lo convierte en un héroe silencioso pero indispensable. Su famosa &#8220;voz&#8221;, compuesta por una serie de silbatos electrónicos, permite una comunicación expresiva sin palabras, creando un fuerte vínculo emocional con el público y sus amigos de la saga.</p>
+<p>La capacidad de Artoo para almacenar información importante, navegar por complejos sistemas informáticos y aventurarse donde otros no pueden llegar lo convierte en un héroe silencioso pero indispensable. Su famosa “voz”, compuesta por una serie de silbatos electrónicos, permite una comunicación expresiva sin palabras, creando un fuerte vínculo emocional con el público y sus amigos de la saga.</p>
 
 
 
@@ -80,7 +80,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<p>BB-8 hizo su primera aparición en &#8220;<strong>Star Wars: Episodio VII &#8211; El despertar de la fuerza</strong>&#8221; en 2015. Este droide astromecánico se convirtió rápidamente en un favorito de los fanáticos debido a su forma esférica única, movilidad ágil y personalidad alegre. BB-8 pertenece a uno de los héroes de la nueva trilogía, <strong>Poe Dameron</strong>, y juntos comparten muchas aventuras por toda la galaxia.</p>
+<p>BB-8 hizo su primera aparición en “<strong>Star Wars: Episodio VII – El despertar de la fuerza</strong>” en 2015. Este droide astromecánico se convirtió rápidamente en un favorito de los fanáticos debido a su forma esférica única, movilidad ágil y personalidad alegre. BB-8 pertenece a uno de los héroes de la nueva trilogía, <strong>Poe Dameron</strong>, y juntos comparten muchas aventuras por toda la galaxia.</p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["tecnologia-y-digital-es"]
 
 
 
-<p>D-O se introduce por primera vez en &#8220;<strong>Star Wars: Episodio IX &#8211; El ascenso de Skywalker</strong>&#8221; lanzado en 2019. Este pequeño droide sobre una rueda impresiona por su capacidad para mover a las personas. Con su forma que recuerda a un juguete infantil y su característico silbido, encarna al nuevo amigo que a todos nos gustaría tener.</p>
+<p>D-O se introduce por primera vez en “<strong>Star Wars: Episodio IX – El ascenso de Skywalker</strong>” lanzado en 2019. Este pequeño droide sobre una rueda impresiona por su capacidad para mover a las personas. Con su forma que recuerda a un juguete infantil y su característico silbido, encarna al nuevo amigo que a todos nos gustaría tener.</p>
 
 
 

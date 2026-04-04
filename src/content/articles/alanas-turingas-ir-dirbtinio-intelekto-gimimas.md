@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Alanas Turingas ir dirbtinio intelekto gimimas"
 slug: "alanas-turingas-ir-dirbtinio-intelekto-gimimas"
-excerpt: "Alanas Turingas: Dirbtinio intelekto įkūrėjas Alanas Turingas: Dirbtinio intelekto įkūrėjasDirbtinio intelekto (DI) istorija negali būti visiškai nupasakota nepaminėjus Alano Turingo vardo, kurį daugelis laiko šios srities, kuri šiandien keičia tiek daug mūsų kasdienio gyvenimo aspektų, įkūrėju. Jo indėlis gerokai viršija paprastą išradimą; jis pagrįstas koncepcijomis ir teorijomis, kurios vis dar sudaro pagrindą, kuriuo remiantis vystosi [&hellip;]"
+excerpt: "Alanas Turingas: Dirbtinio intelekto įkūrėjas Alanas Turingas: Dirbtinio intelekto įkūrėjasDirbtinio intelekto (DI) istorija negali būti visiškai nupasakota nepaminėjus Alano Turingo vardo, kurį daugelis laiko šios srities, kuri šiandien keičia tiek daug mūsų kasdienio gyvenimo aspektų, įkūrėju. Jo indėlis gerokai viršija paprastą išradimą; jis pagrįstas koncepcijomis ir teorijomis, kurios vis dar sudaro pagrindą, kuriuo remiantis vystosi […]"
 date: "2024-03-09T12:54:08"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["ai-mokymas-ir-pagrindai-lt"]
@@ -10,7 +10,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Vaizdo įrašas Alanas Turingas: AI tėvas</figcaption></figure>
 
 
@@ -192,7 +192,7 @@ categories: ["ai-mokymas-ir-pagrindai-lt"]
 
 
 
-<p>&#8211; Enigma kodo iššifravimas<br>&#8211; Kriptanalitinės bombos projektavimas<br>&#8211; Tiuringo mašinos formulavimas<br>&#8211; Pagalvokite apie Tiuringo testo koncepciją<br>&#8211; Atverkite kelią dirbtinio intelekto tyrimams</p>
+<p>– Enigma kodo iššifravimas<br>– Kriptanalitinės bombos projektavimas<br>– Tiuringo mašinos formulavimas<br>– Pagalvokite apie Tiuringo testo koncepciją<br>– Atverkite kelią dirbtinio intelekto tyrimams</p>
 
 
 

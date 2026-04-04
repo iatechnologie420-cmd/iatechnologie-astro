@@ -2,7 +2,7 @@
 lang: "nb"
 title: "ChatGPT: hvordan løser jeg feil? Komplett guide"
 slug: "chatgpt-hvordan-loser-jeg-feil-komplett-guide"
-excerpt: "Forstå og løs vanlige ChatGPT-feil Kunstig intelligens fortsetter å gjøre enorme fremskritt i utvikling og forbedring, men den er langt fra perfekt. Dermed har vi sett noen ganger uakseptable feil oppstå, som administrerende direktør i Google ikke unnlate å gjenkjenne. Enten når det gjelder informasjonsbehandling, innholdsgenerering eller til og med når en dommer avsier dom [&hellip;]"
+excerpt: "Forstå og løs vanlige ChatGPT-feil Kunstig intelligens fortsetter å gjøre enorme fremskritt i utvikling og forbedring, men den er langt fra perfekt. Dermed har vi sett noen ganger uakseptable feil oppstå, som administrerende direktør i Google ikke unnlate å gjenkjenne. Enten når det gjelder informasjonsbehandling, innholdsgenerering eller til og med når en dommer avsier dom […]"
 date: "2024-03-09T11:51:20"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["ai-applikasjoner-nb"]
@@ -24,11 +24,11 @@ categories: ["ai-applikasjoner-nb"]
 
 
 
-<p>Kunstig intelligens fortsetter å gjøre enorme fremskritt i utvikling og forbedring, men den er langt fra perfekt. Dermed har vi sett noen ganger uakseptable feil oppstå, som <strong>administrerende direktør i Google</strong> ikke unnlate å gjenkjenne. Enten når det gjelder informasjonsbehandling, innholdsgenerering eller til og med når en <strong>dommer avsier dom fulle av feil i Brasil</strong>, kan disse teknologiske tabberne og &#8220;hallusinasjonene av kunstig intelligens&#8221; noen ganger gjøre oss forvirrede. </p>
+<p>Kunstig intelligens fortsetter å gjøre enorme fremskritt i utvikling og forbedring, men den er langt fra perfekt. Dermed har vi sett noen ganger uakseptable feil oppstå, som <strong>administrerende direktør i Google</strong> ikke unnlate å gjenkjenne. Enten når det gjelder informasjonsbehandling, innholdsgenerering eller til og med når en <strong>dommer avsier dom fulle av feil i Brasil</strong>, kan disse teknologiske tabberne og “hallusinasjonene av kunstig intelligens” noen ganger gjøre oss forvirrede. </p>
 
 
 
-<p>Blant disse AI-ene, <strong>ChatGPT</strong> &#8211; en spesielt populær tekstgenereringsmodell &#8211; er et offer for sine egne feil. Feil fra denne typen AI kommer uunngåelig inn i kommersiell programvare. Men hvordan kan vi løse disse vanlige ChatGPT-feilene og optimalisere bruken? </p>
+<p>Blant disse AI-ene, <strong>ChatGPT</strong> – en spesielt populær tekstgenereringsmodell – er et offer for sine egne feil. Feil fra denne typen AI kommer uunngåelig inn i kommersiell programvare. Men hvordan kan vi løse disse vanlige ChatGPT-feilene og optimalisere bruken? </p>
 
 
 
@@ -65,7 +65,7 @@ categories: ["ai-applikasjoner-nb"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original &#8211; OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original – OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 
@@ -102,7 +102,7 @@ categories: ["ai-applikasjoner-nb"]
 
 
 
-<p><strong>OpenAI via lekeplassen</strong> tilbyr noen justerbare parametere for å administrere oppførselen, som &#8220;temperatur&#8221; og &#8220;maxitokens&#8221;. Lek deg rundt med disse innstillingene for å se hvordan de påvirker AIs svar. For eksempel vil en høyere temperatur gi mer tilfeldige responser, mens en lavere temperatur vil gi mer ensartede og forutsigbare responser.</p>
+<p><strong>OpenAI via lekeplassen</strong> tilbyr noen justerbare parametere for å administrere oppførselen, som “temperatur” og “maxitokens”. Lek deg rundt med disse innstillingene for å se hvordan de påvirker AIs svar. For eksempel vil en høyere temperatur gi mer tilfeldige responser, mens en lavere temperatur vil gi mer ensartede og forutsigbare responser.</p>
 
 
 

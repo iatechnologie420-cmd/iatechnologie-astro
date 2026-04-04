@@ -2,7 +2,7 @@
 lang: "lt"
 title: "Objektinis programavimas: kas tai yra ir kam jis skirtas?"
 slug: "objektinis-programavimas-kas-tai-yra-ir-kam-jis-skirtas"
-excerpt: "Objektinio programavimo pagrindai Ten Objektinis programavimas (OOP) yra programavimo paradigma, kuri naudoja „objektus“ kompiuterių programoms ir programoms kurti. Šie objektai yra realaus pasaulio subjektai ir leidžia kūrėjams kurti lankstesnę, keičiamo dydžio ir prižiūrimą programinę įrangą. Šiame straipsnyje mes išnagrinėsime pagrindines sąvokas, kurios sudaro OOP pagrindą. Abstrakcija L&#8217;abstrakcija yra procesas, kurio metu programuotojas paslepia visas nereikšmingas [&hellip;]"
+excerpt: "Objektinio programavimo pagrindai Ten Objektinis programavimas (OOP) yra programavimo paradigma, kuri naudoja „objektus“ kompiuterių programoms ir programoms kurti. Šie objektai yra realaus pasaulio subjektai ir leidžia kūrėjams kurti lankstesnę, keičiamo dydžio ir prižiūrimą programinę įrangą. Šiame straipsnyje mes išnagrinėsime pagrindines sąvokas, kurios sudaro OOP pagrindą. Abstrakcija L’abstrakcija yra procesas, kurio metu programuotojas paslepia visas nereikšmingas […]"
 date: "2024-03-09T12:47:38"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Programmation-orientee-objet-quest-ce-que-cest-et-a-quoi-ca-sert-1-3.png"
 categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
@@ -30,7 +30,7 @@ categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>L&#8217;<strong>abstrakcija</strong> yra procesas, kurio metu programuotojas paslepia visas nereikšmingas objekto detales, kad vartotojui parodytų tik svarbias funkcijas. Taip lengviau suprasti, kaip veikia objektai, nesijaudinant dėl ​​jų vidinio sudėtingumo.</p>
+<p>L’<strong>abstrakcija</strong> yra procesas, kurio metu programuotojas paslepia visas nereikšmingas objekto detales, kad vartotojui parodytų tik svarbias funkcijas. Taip lengviau suprasti, kaip veikia objektai, nesijaudinant dėl ​​jų vidinio sudėtingumo.</p>
 
 
 
@@ -38,7 +38,7 @@ categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>L&#8217;<strong>inkapsuliavimas</strong> yra metodas, kurį sudaro duomenų grupavimas ir metodai, kuriais jais manipuliuojama tame pačiame vienete, dažnai vadinamame klase. Inkapsuliavimas taip pat apsaugo duomenų vientisumą, leisdamas keisti tik nustatytais metodais, užkertant kelią tiesioginei neteisėtai prieigai.</p>
+<p>L’<strong>inkapsuliavimas</strong> yra metodas, kurį sudaro duomenų grupavimas ir metodai, kuriais jais manipuliuojama tame pačiame vienete, dažnai vadinamame klase. Inkapsuliavimas taip pat apsaugo duomenų vientisumą, leisdamas keisti tik nustatytais metodais, užkertant kelią tiesioginei neteisėtai prieigai.</p>
 
 
 
@@ -46,7 +46,7 @@ categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>L&#8217;<strong>palikimas</strong> yra OOP funkcija, leidžianti sukurti naują klasę pagal esamą klasę. Naujoji klasė, vadinama išvestine klase, paveldi pagrindinės klasės atributus ir metodus, leidžiančius pakartotinai naudoti kodą ir kurti klasių hierarchijas.</p>
+<p>L’<strong>palikimas</strong> yra OOP funkcija, leidžianti sukurti naują klasę pagal esamą klasę. Naujoji klasė, vadinama išvestine klase, paveldi pagrindinės klasės atributus ir metodus, leidžiančius pakartotinai naudoti kodą ir kurti klasių hierarchijas.</p>
 
 
 
@@ -191,7 +191,7 @@ categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C&#8217;est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original &#8211; Louis Dhanis &#8211; Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@louis_dhanis/video/7291716348722351392" data-video-id="7291716348722351392" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@louis_dhanis" href="https://www.tiktok.com/@louis_dhanis?refer=embed" rel="noopener">@louis_dhanis</a> <p>C’est quoi la programmation orientée objet ? Comment ça marche ? C’est quoi la différence entre une voiture et une maison ? <a title="astucetech" target="_blank" href="https://www.tiktok.com/tag/astucetech?refer=embed" rel="noopener">#astucetech</a> <a title="louis_dhanis" target="_blank" href="https://www.tiktok.com/tag/louis_dhanis?refer=embed" rel="noopener">#louis_dhanis</a> <a title="apprendreautrement" target="_blank" href="https://www.tiktok.com/tag/apprendreautrement?refer=embed" rel="noopener">#apprendreautrement</a> <a title="apprendreacoder" target="_blank" href="https://www.tiktok.com/tag/apprendreacoder?refer=embed" rel="noopener">#apprendreacoder</a> <a title="devweb" target="_blank" href="https://www.tiktok.com/tag/devweb?refer=embed" rel="noopener">#devweb</a> <a title="entrepreneuriat" target="_blank" href="https://www.tiktok.com/tag/entrepreneuriat?refer=embed" rel="noopener">#entrepreneuriat</a> <a title="entrepreneurtech" target="_blank" href="https://www.tiktok.com/tag/entrepreneurtech?refer=embed" rel="noopener">#entrepreneurtech</a> <a title="developpement" target="_blank" href="https://www.tiktok.com/tag/developpement?refer=embed" rel="noopener">#developpement</a> <a title="poo" target="_blank" href="https://www.tiktok.com/tag/poo?refer=embed" rel="noopener">#POO</a> <a title="programmation" target="_blank" href="https://www.tiktok.com/tag/programmation?refer=embed" rel="noopener">#programmation</a></p> <a target="_blank" title="♬ son original - Louis Dhanis - Louis Dhanis" href="https://www.tiktok.com/music/son-original-Louis-Dhanis-7291716399008598816?refer=embed" rel="noopener">♬ son original – Louis Dhanis – Louis Dhanis</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

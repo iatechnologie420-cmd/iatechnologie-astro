@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Hva er et digitalt arbeidsområde / utvidet arbeid?"
 slug: "hva-er-et-digitalt-arbeidsomrade-utvidet-arbeid"
-excerpt: "Hva er et digitalt arbeidsområde? Begrepet Digitalt arbeidsområde, Eller digital arbeidsplass, definerer et arbeidsmiljø som ikke lenger har fysiske barrierer takket være digitale teknologier. Den samler et sett med verktøy og teknologier som lar brukere koble seg til, samarbeide og utføre sine profesjonelle oppgaver uavhengig av deres fysiske plassering. Denne artikkelen vil diskutere de grunnleggende [&hellip;]"
+excerpt: "Hva er et digitalt arbeidsområde? Begrepet Digitalt arbeidsområde, Eller digital arbeidsplass, definerer et arbeidsmiljø som ikke lenger har fysiske barrierer takket være digitale teknologier. Den samler et sett med verktøy og teknologier som lar brukere koble seg til, samarbeide og utføre sine profesjonelle oppgaver uavhengig av deres fysiske plassering. Denne artikkelen vil diskutere de grunnleggende […]"
 date: "2024-03-09T12:24:43"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Digital-workspace-le-travail-augmente-3.png"
 categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
@@ -162,7 +162,7 @@ categories: ["infrastruktur-og-nettverk-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>L&#8217;<strong>Kunstig intelligens (AI)</strong> og<strong>Maskinlæring</strong> (Machine Learning) er kjernen i utvidet arbeid. De gjør det ikke bare mulig å automatisere repeterende oppgaver, og dermed frigjøre tid til oppdrag med høyere merverdi, men også å gi beslutningsstøtte takket være analysen av massive data (Big Data). Virtuelle assistenter, chatboter og personlige anbefalingssystemer er noen av de AI-drevne verktøyene som forvandler arbeidsverdenen.</p>
+<p>L’<strong>Kunstig intelligens (AI)</strong> og<strong>Maskinlæring</strong> (Machine Learning) er kjernen i utvidet arbeid. De gjør det ikke bare mulig å automatisere repeterende oppgaver, og dermed frigjøre tid til oppdrag med høyere merverdi, men også å gi beslutningsstøtte takket være analysen av massive data (Big Data). Virtuelle assistenter, chatboter og personlige anbefalingssystemer er noen av de AI-drevne verktøyene som forvandler arbeidsverdenen.</p>
 
 
 

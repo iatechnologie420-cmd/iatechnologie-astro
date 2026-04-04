@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Definicja CIO: kim jest dyrektor usług IT"
 slug: "definicja-cio-kim-jest-dyrektor-uslug-it"
-excerpt: "Rola i misja Dyrektora Usług IT Istotna rola Dyrektora Usług IT TO Dyrektor Usług Informatycznych, znany również jako Dyrektor ds. informatyki Lub Dyrektor systemów informatycznych, zajmuje strategiczne miejsce w nowoczesnych firmach. W epoce cyfrowej, gdzie informacja i technologia stały się podstawą działalności zawodowej, zrozumienie swoich obowiązków i misji jest niezbędne. Artykuł ten zawiera pełny obraz [&hellip;]"
+excerpt: "Rola i misja Dyrektora Usług IT Istotna rola Dyrektora Usług IT TO Dyrektor Usług Informatycznych, znany również jako Dyrektor ds. informatyki Lub Dyrektor systemów informatycznych, zajmuje strategiczne miejsce w nowoczesnych firmach. W epoce cyfrowej, gdzie informacja i technologia stały się podstawą działalności zawodowej, zrozumienie swoich obowiązków i misji jest niezbędne. Artykuł ten zawiera pełny obraz […]"
 date: "2024-03-09T12:04:17"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/DSI-definition-quest-ce-quun-Directeur-des-Services-Informatiques-3.png"
 categories: ["infrastruktura-i-sieci-pl"]

@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Sandaran data: apakah itu, mengapa melakukannya?"
 slug: "sandaran-data-apakah-itu-mengapa-melakukannya"
-excerpt: "Fahami kepentingan sandaran Sandaran data adalah penting untuk melindungi maklumat daripada kemungkinan kehilangan akibat kegagalan perkakasan, ralat manusia, perisian hasad atau bencana alam. Sistem sandaran yang mencukupi membolehkan untuk memulihkan data yang hilang atau rosak dan memastikan kesinambungan operasi. Ketahui jenis sandaran Terdapat beberapa kaedah sandaran, setiap satu disesuaikan dengan keperluan khusus: Pilih kekerapan sandaran [&hellip;]"
+excerpt: "Fahami kepentingan sandaran Sandaran data adalah penting untuk melindungi maklumat daripada kemungkinan kehilangan akibat kegagalan perkakasan, ralat manusia, perisian hasad atau bencana alam. Sistem sandaran yang mencukupi membolehkan untuk memulihkan data yang hilang atau rosak dan memastikan kesinambungan operasi. Ketahui jenis sandaran Terdapat beberapa kaedah sandaran, setiap satu disesuaikan dengan keperluan khusus: Pilih kekerapan sandaran […]"
 date: "2024-03-09T12:05:05"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Backup-de-donnees-quest-ce-que-cest-a-quoi-ca-sert-1-3.png"
 categories: ["pengkomputeran-dan-data-ms", "teknologi-dan-digital-ms"]

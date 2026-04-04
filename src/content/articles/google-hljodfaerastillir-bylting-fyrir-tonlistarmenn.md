@@ -2,7 +2,7 @@
 lang: "is"
 title: "Google hljóðfærastillir: bylting fyrir tónlistarmenn?"
 slug: "google-hljodfaerastillir-bylting-fyrir-tonlistarmenn"
-excerpt: "Mikilvægi þess að stilla hljóðfæri Stilling er einn mikilvægasti þátturinn þegar kemur að því að spila á hljóðfæri. Hvort sem þú ert byrjandi eða reyndur tónlistarmaður þarftu að stilla hljóðfærið þitt reglulega til að fá sem besta hljóðið. Í þessari grein munum við kanna mikilvægi þess að stilla hljóðfæri og gefa þér nokkur ráð til [&hellip;]"
+excerpt: "Mikilvægi þess að stilla hljóðfæri Stilling er einn mikilvægasti þátturinn þegar kemur að því að spila á hljóðfæri. Hvort sem þú ert byrjandi eða reyndur tónlistarmaður þarftu að stilla hljóðfærið þitt reglulega til að fá sem besta hljóðið. Í þessari grein munum við kanna mikilvægi þess að stilla hljóðfæri og gefa þér nokkur ráð til […]"
 date: "2024-03-09T12:37:52"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["taekni-og-stafraen-is"]

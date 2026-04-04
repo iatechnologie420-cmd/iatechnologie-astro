@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Teorema de Bayes e seu uso em IA"
 slug: "teorema-de-bayes-e-seu-uso-em-ia"
-excerpt: "Introdução ao teorema de Bayes O Teorema de Bayes é uma fórmula fundamental em probabilidade e estatística que descreve a atualização de nossas crenças na presença de novas informações. Nomeado em homenagem ao reverendo Thomas Bayes, este teorema desempenha um papel crucial em muitos campos, desde o aprendizado de máquina até a tomada de decisões [&hellip;]"
+excerpt: "Introdução ao teorema de Bayes O Teorema de Bayes é uma fórmula fundamental em probabilidade e estatística que descreve a atualização de nossas crenças na presença de novas informações. Nomeado em homenagem ao reverendo Thomas Bayes, este teorema desempenha um papel crucial em muitos campos, desde o aprendizado de máquina até a tomada de decisões […]"
 date: "2024-03-09T12:14:12"
 categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
 ---
@@ -93,7 +93,7 @@ categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
 
 
 
-<p>EU&#8217;<strong>Inferência Bayesiana</strong> é um ramo da estatística que fornece uma estrutura teórica para a interpretação de eventos em termos de probabilidades. É baseado no <strong>Teorema de Bayes</strong>, que é uma fórmula para atualizar a probabilidade de um evento ocorrer à luz de novos dados. </p>
+<p>EU’<strong>Inferência Bayesiana</strong> é um ramo da estatística que fornece uma estrutura teórica para a interpretação de eventos em termos de probabilidades. É baseado no <strong>Teorema de Bayes</strong>, que é uma fórmula para atualizar a probabilidade de um evento ocorrer à luz de novos dados. </p>
 
 
 
@@ -187,7 +187,7 @@ categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
 
 
 
-<p>EU&#8217;<strong>Inferência Bayesiana</strong> fornece uma estrutura poderosa para raciocinar com incerteza e integrar de forma coerente novas informações. Suas aplicações são vastas e seu uso em campos avançados como<strong>inteligência artificial</strong> onde o <strong>grandes dados</strong> cresce continuamente. Compreender os seus princípios fundamentais é, portanto, essencial para aqueles que desejam interpretar o mundo através do prisma da probabilidade.</p>
+<p>EU’<strong>Inferência Bayesiana</strong> fornece uma estrutura poderosa para raciocinar com incerteza e integrar de forma coerente novas informações. Suas aplicações são vastas e seu uso em campos avançados como<strong>inteligência artificial</strong> onde o <strong>grandes dados</strong> cresce continuamente. Compreender os seus princípios fundamentais é, portanto, essencial para aqueles que desejam interpretar o mundo através do prisma da probabilidade.</p>
 
 
 
@@ -232,7 +232,7 @@ categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
 
 
 <ul class="wp-block-list">
-<li><strong>Baías ingénuas</strong>: Um classificador probabilístico que, apesar do nome &#8216;ingênuo&#8217;, se destaca pela sua simplicidade e eficácia, principalmente quando a probabilidade das características é independente.</li>
+<li><strong>Baías ingénuas</strong>: Um classificador probabilístico que, apesar do nome ‘ingênuo’, se destaca pela sua simplicidade e eficácia, principalmente quando a probabilidade das características é independente.</li>
 
 
 

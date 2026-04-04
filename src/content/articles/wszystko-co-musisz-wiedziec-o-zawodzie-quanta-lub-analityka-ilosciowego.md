@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Wszystko, co musisz wiedzieć o zawodzie Quanta lub analityka ilościowego"
 slug: "wszystko-co-musisz-wiedziec-o-zawodzie-quanta-lub-analityka-ilosciowego"
-excerpt: "Wprowadzenie do świata finansów ilościowych Finanse ilościowe to wyspecjalizowana dziedzina finansów, która wykorzystuje modele matematyczne, statystyki i techniki komputerowe do zrozumienia i przewidywania zachowania rynków finansowych. W tym artykule zbadamy tę dziedzinę, omawiając narzędzia, z których korzysta, jej zastosowania, a także umiejętności wymagane do osiągnięcia w niej doskonałości. Finanse ilościowe stały się niezbędne przy podejmowaniu [&hellip;]"
+excerpt: "Wprowadzenie do świata finansów ilościowych Finanse ilościowe to wyspecjalizowana dziedzina finansów, która wykorzystuje modele matematyczne, statystyki i techniki komputerowe do zrozumienia i przewidywania zachowania rynków finansowych. W tym artykule zbadamy tę dziedzinę, omawiając narzędzia, z których korzysta, jej zastosowania, a także umiejętności wymagane do osiągnięcia w niej doskonałości. Finanse ilościowe stały się niezbędne przy podejmowaniu […]"
 date: "2024-03-09T11:57:21"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-3.png"
 categories: ["technologia-i-cyfrowosc-pl"]

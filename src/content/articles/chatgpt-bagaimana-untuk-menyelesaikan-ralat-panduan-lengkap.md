@@ -2,7 +2,7 @@
 lang: "ms"
 title: "ChatGPT: bagaimana untuk menyelesaikan ralat? Panduan lengkap"
 slug: "chatgpt-bagaimana-untuk-menyelesaikan-ralat-panduan-lengkap"
-excerpt: "Fahami dan selesaikan ralat ChatGPT biasa Kecerdasan buatan terus membuat kemajuan besar dalam pembangunan dan peningkatan, tetapi ia jauh dari sempurna. Oleh itu, kita telah melihat kadangkala ralat yang tidak boleh diterima berlaku, yang Ketua Pegawai Eksekutif Google jangan gagal mengenali. Sama ada dari segi pemprosesan maklumat, penjanaan kandungan atau pun apabila a hakim mengeluarkan [&hellip;]"
+excerpt: "Fahami dan selesaikan ralat ChatGPT biasa Kecerdasan buatan terus membuat kemajuan besar dalam pembangunan dan peningkatan, tetapi ia jauh dari sempurna. Oleh itu, kita telah melihat kadangkala ralat yang tidak boleh diterima berlaku, yang Ketua Pegawai Eksekutif Google jangan gagal mengenali. Sama ada dari segi pemprosesan maklumat, penjanaan kandungan atau pun apabila a hakim mengeluarkan […]"
 date: "2024-03-09T11:51:14"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["aplikasi-ai-ms"]
@@ -24,11 +24,11 @@ categories: ["aplikasi-ai-ms"]
 
 
 
-<p>Kecerdasan buatan terus membuat kemajuan besar dalam pembangunan dan peningkatan, tetapi ia jauh dari sempurna. Oleh itu, kita telah melihat kadangkala ralat yang tidak boleh diterima berlaku, yang <strong>Ketua Pegawai Eksekutif Google</strong> jangan gagal mengenali. Sama ada dari segi pemprosesan maklumat, penjanaan kandungan atau pun apabila a <strong>hakim mengeluarkan hukuman yang penuh dengan kesilapan di Brazil</strong>, kesilapan teknologi dan &#8220;halusinasi kecerdasan buatan&#8221; ini kadangkala boleh membuatkan kita bingung. </p>
+<p>Kecerdasan buatan terus membuat kemajuan besar dalam pembangunan dan peningkatan, tetapi ia jauh dari sempurna. Oleh itu, kita telah melihat kadangkala ralat yang tidak boleh diterima berlaku, yang <strong>Ketua Pegawai Eksekutif Google</strong> jangan gagal mengenali. Sama ada dari segi pemprosesan maklumat, penjanaan kandungan atau pun apabila a <strong>hakim mengeluarkan hukuman yang penuh dengan kesilapan di Brazil</strong>, kesilapan teknologi dan “halusinasi kecerdasan buatan” ini kadangkala boleh membuatkan kita bingung. </p>
 
 
 
-<p>Antara AI ini, <strong>SembangGPT</strong> &#8211; model penjanaan teks yang sangat popular &#8211; menjadi mangsa kelemahannya sendiri. Ralat daripada jenis AI ini tidak dapat dielakkan menjalar ke dalam perisian komersial. Tetapi, bagaimanakah kita boleh menyelesaikan ralat ChatGPT biasa ini dan mengoptimumkan penggunaannya? </p>
+<p>Antara AI ini, <strong>SembangGPT</strong> – model penjanaan teks yang sangat popular – menjadi mangsa kelemahannya sendiri. Ralat daripada jenis AI ini tidak dapat dielakkan menjalar ke dalam perisian komersial. Tetapi, bagaimanakah kita boleh menyelesaikan ralat ChatGPT biasa ini dan mengoptimumkan penggunaannya? </p>
 
 
 
@@ -65,7 +65,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original &#8211; OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original – OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 
@@ -102,7 +102,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 
-<p><strong>OpenAI melalui taman permainan</strong> menawarkan beberapa parameter boleh laras untuk mengurus tingkah lakunya, seperti &#8220;suhu&#8221; dan &#8220;maxitokens&#8221;. Main-main dengan tetapan ini untuk melihat cara ia mempengaruhi tindak balas AI. Sebagai contoh, suhu yang lebih tinggi akan menghasilkan lebih banyak tindak balas rawak, manakala suhu yang lebih rendah akan memberikan respons yang lebih seragam dan boleh diramal.</p>
+<p><strong>OpenAI melalui taman permainan</strong> menawarkan beberapa parameter boleh laras untuk mengurus tingkah lakunya, seperti “suhu” dan “maxitokens”. Main-main dengan tetapan ini untuk melihat cara ia mempengaruhi tindak balas AI. Sebagai contoh, suhu yang lebih tinggi akan menghasilkan lebih banyak tindak balas rawak, manakala suhu yang lebih rendah akan memberikan respons yang lebih seragam dan boleh diramal.</p>
 
 
 

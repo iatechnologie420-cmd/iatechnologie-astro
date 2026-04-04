@@ -2,7 +2,7 @@
 lang: "pt"
 title: "O que é um infocenter de TI? definição e explicação"
 slug: "o-que-e-um-infocenter-de-ti-definicao-e-explicacao"
-excerpt: "A centro de informações de informática, também conhecido como Centro de Informações, refere-se a um sistema centralizado dedicado ao gerenciamento de dados dentro de uma organização. Tem como objetivo recolher, armazenar, organizar e divulgar a informação necessária à atividade da empresa. A sua função é essencial para permitir que analistas e decisores explorem os dados [&hellip;]"
+excerpt: "A centro de informações de informática, também conhecido como Centro de Informações, refere-se a um sistema centralizado dedicado ao gerenciamento de dados dentro de uma organização. Tem como objetivo recolher, armazenar, organizar e divulgar a informação necessária à atividade da empresa. A sua função é essencial para permitir que analistas e decisores explorem os dados […]"
 date: "2024-03-09T12:26:24"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-3.png"
 categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
@@ -10,7 +10,7 @@ categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Les métiers d&#039;avenir de l&#039;informatique à votre portée" width="500" height="281" src="https://www.youtube.com/embed/RxJltgMbuvo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Les métiers d'avenir de l'informatique à votre portée" width="500" height="281" src="https://www.youtube.com/embed/RxJltgMbuvo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -66,7 +66,7 @@ categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
 
 
 
-<p>EU&#8217;<strong>arquitetura de um infocenter de computador</strong> normalmente é composto de várias camadas, cada uma com uma função específica:</p>
+<p>EU’<strong>arquitetura de um infocenter de computador</strong> normalmente é composto de várias camadas, cada uma com uma função específica:</p>
 
 
 

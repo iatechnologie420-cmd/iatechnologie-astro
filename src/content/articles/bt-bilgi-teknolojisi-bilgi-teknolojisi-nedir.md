@@ -2,7 +2,7 @@
 lang: "tr"
 title: "BT / Bilgi Teknolojisi: bilgi teknolojisi nedir?"
 slug: "bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir"
-excerpt: "BT&#8217;yi Anlamak: Bilgi teknolojilerinin tanımı ve gelişimi Nedir? Dönem BT, İçin Bilgi Teknolojisi İngilizce olarak, işlenmesi ve yönetimi ile ilgili tüm teknolojileri belirtir. bilgi ve veriler. Bu geniş alan dolayısıyla bilgisayar bilimini de içerir, telekomünikasyon, veritabanı yönetim sistemleri, bilgi güvenliği ve çok daha fazlası. BT modern dünyada çok önemlidir: işletmelerin verimli bir şekilde çalışmasına, hükümetlerin [&hellip;]"
+excerpt: "BT’yi Anlamak: Bilgi teknolojilerinin tanımı ve gelişimi Nedir? Dönem BT, İçin Bilgi Teknolojisi İngilizce olarak, işlenmesi ve yönetimi ile ilgili tüm teknolojileri belirtir. bilgi ve veriler. Bu geniş alan dolayısıyla bilgisayar bilimini de içerir, telekomünikasyon, veritabanı yönetim sistemleri, bilgi güvenliği ve çok daha fazlası. BT modern dünyada çok önemlidir: işletmelerin verimli bir şekilde çalışmasına, hükümetlerin […]"
 date: "2024-03-09T12:23:16"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
@@ -10,7 +10,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -19,8 +19,8 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTyi_Anlamak_Bilgi_teknolojilerinin_tanimi_ve_gelisimi" >BT&#8217;yi Anlamak: Bilgi teknolojilerinin tanımı ve gelişimi</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Nedir" >Nedir?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTnin_tarihsel_gelisimi" >BT&#8217;nin tarihsel gelişimi</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTnin_temel_bilesenleri" >BT&#8217;nin temel bileşenleri</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Cagdas_dunyada_BTnin_rolu" >Çağdaş dünyada BT&#8217;nin rolü</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTdeki_guncel_trendler" >BT&#8217;deki güncel trendler</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTnin_temel_bilesenleri_yazilim_donanim_ve_aglar" >BT&#8217;nin temel bileşenleri: yazılım, donanım ve ağlar</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Yazilim" >Yazılım</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Malzemeler" >Malzemeler</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Aglar" >Ağlar</a></li></ul></li></ul></li></ul></nav></div>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="BTyi_Anlamak_Bilgi_teknolojilerinin_tanimi_ve_gelisimi"></span>BT&#8217;yi Anlamak: Bilgi teknolojilerinin tanımı ve gelişimi<span class="ez-toc-section-end"></span></h2>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTyi_Anlamak_Bilgi_teknolojilerinin_tanimi_ve_gelisimi" >BT’yi Anlamak: Bilgi teknolojilerinin tanımı ve gelişimi</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Nedir" >Nedir?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTnin_tarihsel_gelisimi" >BT’nin tarihsel gelişimi</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTnin_temel_bilesenleri" >BT’nin temel bileşenleri</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Cagdas_dunyada_BTnin_rolu" >Çağdaş dünyada BT’nin rolü</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTdeki_guncel_trendler" >BT’deki güncel trendler</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#BTnin_temel_bilesenleri_yazilim_donanim_ve_aglar" >BT’nin temel bileşenleri: yazılım, donanım ve ağlar</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Yazilim" >Yazılım</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Malzemeler" >Malzemeler</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/tr/bt-bilgi-teknolojisi-bilgi-teknolojisi-nedir/#Aglar" >Ağlar</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="BTyi_Anlamak_Bilgi_teknolojilerinin_tanimi_ve_gelisimi"></span>BT’yi Anlamak: Bilgi teknolojilerinin tanımı ve gelişimi<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -36,11 +36,11 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="BTnin_tarihsel_gelisimi"></span>BT&#8217;nin tarihsel gelişimi<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="BTnin_tarihsel_gelisimi"></span>BT’nin tarihsel gelişimi<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>    Evrimi<strong>Bilişim teknolojisi</strong> birkaç önemli dönem tarafından işaretlenmiştir. Her şey 20. yüzyılın ortalarına kadar uzanan bilgisayarın icadıyla başlıyor. Devasa ana bilgisayarların çağı hızlı yeniliklere yol açmaya başladı: bileşenlerin minyatürleştirilmesi, 1980&#8217;lerde PC&#8217;lerin (Kişisel Bilgisayarlar) ortaya çıkışı, 1990&#8217;larda İnternet&#8217;in ortaya çıkışı ve Web&#8217;in gelişimi. </p>
+<p>    Evrimi<strong>Bilişim teknolojisi</strong> birkaç önemli dönem tarafından işaretlenmiştir. Her şey 20. yüzyılın ortalarına kadar uzanan bilgisayarın icadıyla başlıyor. Devasa ana bilgisayarların çağı hızlı yeniliklere yol açmaya başladı: bileşenlerin minyatürleştirilmesi, 1980’lerde PC’lerin (Kişisel Bilgisayarlar) ortaya çıkışı, 1990’larda İnternet’in ortaya çıkışı ve Web’in gelişimi. </p>
 
 
 
@@ -48,11 +48,11 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="BTnin_temel_bilesenleri"></span>BT&#8217;nin temel bileşenleri<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="BTnin_temel_bilesenleri"></span>BT’nin temel bileşenleri<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>    BT&#8217;yi anlamak için çeşitli bileşenlerine ilgi duymanız gerekir. Her şey onunla başlar <strong>donanım</strong> (donanım), sunucuları, bilgisayarları, depolama aygıtlarını vb. içerir. Sonra gelir <strong>yazılım</strong> (yazılım), işletim sistemlerini, uygulamaları ve veritabanlarını ifade eder. </p>
+<p>    BT’yi anlamak için çeşitli bileşenlerine ilgi duymanız gerekir. Her şey onunla başlar <strong>donanım</strong> (donanım), sunucuları, bilgisayarları, depolama aygıtlarını vb. içerir. Sonra gelir <strong>yazılım</strong> (yazılım), işletim sistemlerini, uygulamaları ve veritabanlarını ifade eder. </p>
 
 
 
@@ -60,7 +60,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Cagdas_dunyada_BTnin_rolu"></span>Çağdaş dünyada BT&#8217;nin rolü<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Cagdas_dunyada_BTnin_rolu"></span>Çağdaş dünyada BT’nin rolü<span class="ez-toc-section-end"></span></h4>
 
 
 
@@ -72,11 +72,11 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="BTdeki_guncel_trendler"></span>BT&#8217;deki güncel trendler<span class="ez-toc-section-end"></span></h4>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="BTdeki_guncel_trendler"></span>BT’deki güncel trendler<span class="ez-toc-section-end"></span></h4>
 
 
 
-<p>    Şu anda birçok önemli trend BT&#8217;yi dönüştürüyor. Ben<strong>yapay zeka</strong> ve makine öğrenimi (<em>makine öğrenme</em>) daha akıllı ve otonom çözümlerin geliştirilmesinde temel unsurlar haline geldi. THE <strong>Bulut bilişim</strong> BT hizmetlerinde daha önce görülmemiş esneklik ve ölçek sağlayarak popülaritesini artırmaya devam ediyor. </p>
+<p>    Şu anda birçok önemli trend BT’yi dönüştürüyor. Ben<strong>yapay zeka</strong> ve makine öğrenimi (<em>makine öğrenme</em>) daha akıllı ve otonom çözümlerin geliştirilmesinde temel unsurlar haline geldi. THE <strong>Bulut bilişim</strong> BT hizmetlerinde daha önce görülmemiş esneklik ve ölçek sağlayarak popülaritesini artırmaya devam ediyor. </p>
 
 
 
@@ -84,7 +84,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="BTnin_temel_bilesenleri_yazilim_donanim_ve_aglar"></span>BT&#8217;nin temel bileşenleri: yazılım, donanım ve ağlar<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="BTnin_temel_bilesenleri_yazilim_donanim_ve_aglar"></span>BT’nin temel bileşenleri: yazılım, donanım ve ağlar<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -165,11 +165,11 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<li><strong>Geniş Alan Ağları (WAN)</strong> : Büyük mesafeleri kat edin ve sıklıkla birden fazla LAN&#8217;ı birbirine bağlayın.</li>
+<li><strong>Geniş Alan Ağları (WAN)</strong> : Büyük mesafeleri kat edin ve sıklıkla birden fazla LAN’ı birbirine bağlayın.</li>
 
 
 
-<li><strong>Kablosuz ağlar (Wi-Fi)</strong> : Kablo kullanmadan İnternet&#8217;e veya diğer cihazlara bağlantıya izin verin.</li>
+<li><strong>Kablosuz ağlar (Wi-Fi)</strong> : Kablo kullanmadan İnternet’e veya diğer cihazlara bağlantıya izin verin.</li>
 
 
 

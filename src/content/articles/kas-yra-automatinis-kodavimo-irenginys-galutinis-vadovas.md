@@ -2,14 +2,14 @@
 lang: "lt"
 title: "Kas yra automatinis kodavimo įrenginys? Galutinis vadovas!"
 slug: "kas-yra-automatinis-kodavimo-irenginys-galutinis-vadovas"
-excerpt: "Automatiniai kodavimo įrenginiai arba automatiniai kodavimo įrenginiai anglų kalba, pozicionuoja save kaip galingus įrankius mašininio mokymosi ir dirbtinio intelekto srityje. Šie specialūs neuroniniai tinklai naudojami matmenų mažinimui, anomalijų aptikimui, duomenų triukšmo slopinimui ir kt. Šiame straipsnyje pateikiamas šios patrauklios technologijos įvadas, pabrėžiamas jos veikimo principas, pritaikymas ir didėjanti svarba moksliniams tyrimams bei pramonei. Kas yra [&hellip;]"
+excerpt: "Automatiniai kodavimo įrenginiai arba automatiniai kodavimo įrenginiai anglų kalba, pozicionuoja save kaip galingus įrankius mašininio mokymosi ir dirbtinio intelekto srityje. Šie specialūs neuroniniai tinklai naudojami matmenų mažinimui, anomalijų aptikimui, duomenų triukšmo slopinimui ir kt. Šiame straipsnyje pateikiamas šios patrauklios technologijos įvadas, pabrėžiamas jos veikimo principas, pritaikymas ir didėjanti svarba moksliniams tyrimams bei pramonei. Kas yra […]"
 date: "2024-03-09T12:06:40"
 categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Tracking Corn &amp; Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Tracking Corn & Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -153,7 +153,7 @@ categories: ["skaiciavimas-ir-duomenys-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>L&#8217;<strong>automatinis kodavimo įrenginys</strong>, pagrindinis dirbtinio intelekto (DI) gilaus mokymosi arsenalo komponentas, yra neuroninis tinklas, skirtas koduoti duomenis į žemesnio matmens atvaizdą ir išskaidyti juos taip, kad būtų galima atlikti atitinkamą rekonstrukciją. Panagrinėkime juos <strong>praktiniai pritaikymai</strong> ir variantai, kurie atsirado šioje žavioje srityje.</p>
+<p>L’<strong>automatinis kodavimo įrenginys</strong>, pagrindinis dirbtinio intelekto (DI) gilaus mokymosi arsenalo komponentas, yra neuroninis tinklas, skirtas koduoti duomenis į žemesnio matmens atvaizdą ir išskaidyti juos taip, kad būtų galima atlikti atitinkamą rekonstrukciją. Panagrinėkime juos <strong>praktiniai pritaikymai</strong> ir variantai, kurie atsirado šioje žavioje srityje.</p>
 
 
 

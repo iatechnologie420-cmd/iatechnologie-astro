@@ -2,7 +2,7 @@
 lang: "fr"
 title: "Vibe Code avec Gemini : Créez une Web App Gratuitement avec Gemini"
 slug: "vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini"
-excerpt: "Tu as une idée d’app, mais pas envie d’ouvrir VS Code, installer Node, gérer une API, ni lire 15 pages de doc ?Google vient de te faire un cadeau :&nbsp;Vibe Code dans Google AI Studio. En gros :➡️ Tu décris ton idée en français➡️ Gemini génère&nbsp;une vraie web app➡️ Tu vois le résultat en live [&hellip;]"
+excerpt: "Tu as une idée d’app, mais pas envie d’ouvrir VS Code, installer Node, gérer une API, ni lire 15 pages de doc ?Google vient de te faire un cadeau : Vibe Code dans Google AI Studio. En gros :➡️ Tu décris ton idée en français➡️ Gemini génère une vraie web app➡️ Tu vois le résultat en live […]"
 date: "2026-01-22T19:45:57"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Gemini_Generated_Image_3tzhu23tzhu23tzh-2.png"
 categories: ["ia"]
@@ -15,19 +15,19 @@ categories: ["ia"]
 
 
 
-<p>Tu as une idée d’app, mais pas envie d’ouvrir VS Code, installer Node, gérer une API, ni lire 15 pages de doc ?<br>Google vient de te faire un cadeau :&nbsp;<strong>Vibe Code dans Google AI Studio</strong>.</p>
+<p>Tu as une idée d’app, mais pas envie d’ouvrir VS Code, installer Node, gérer une API, ni lire 15 pages de doc ?<br>Google vient de te faire un cadeau : <strong>Vibe Code dans Google AI Studio</strong>.</p>
 
 
 
-<p>En gros :<br>➡️ Tu décris ton idée en français<br>➡️ Gemini génère&nbsp;<strong>une vraie web app</strong><br>➡️ Tu vois le résultat en live dans ton navigateur<br>➡️ Tu déploies sur le web en&nbsp;<strong>un clic</strong>, grâce à Cloud Run&nbsp;</p>
+<p>En gros :<br>➡️ Tu décris ton idée en français<br>➡️ Gemini génère <strong>une vraie web app</strong><br>➡️ Tu vois le résultat en live dans ton navigateur<br>➡️ Tu déploies sur le web en <strong>un clic</strong>, grâce à Cloud Run </p>
 
 
 
-<p>Et le meilleur dans tout ça : tu peux le faire&nbsp;<strong>gratuitement</strong>&nbsp;dans le cadre de l’offre AI Studio + Google Cloud Free Tier (300 $ de crédits pour les nouveaux comptes).&nbsp;</p>
+<p>Et le meilleur dans tout ça : tu peux le faire <strong>gratuitement</strong> dans le cadre de l’offre AI Studio + Google Cloud Free Tier (300 $ de crédits pour les nouveaux comptes). </p>
 
 
 
-<p>Dans ce guide, on va voir&nbsp;<strong>pas à pas</strong>&nbsp;comment :</p>
+<p>Dans ce guide, on va voir <strong>pas à pas</strong> comment :</p>
 
 
 
@@ -67,16 +67,16 @@ categories: ["ia"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#1_Vibe_Coding_cest_quoi_concretement" >1. Vibe Coding, c’est quoi concrètement ?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#2_Comment_acceder_a_Vibe_Code_avec_Gemini" >2. Comment accéder à Vibe Code avec Gemini ?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-3" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#3_Sous_le_capot_Gemini_Nano_Banana_Veo_co" >3. Sous le capot : Gemini, Nano Banana, Veo &amp; co.</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#4_Creer_une_web_app_gratuitement_avec_Vibe_Code_tuto_etape_par_etape" >4. Créer une web app gratuitement avec Vibe Code (tuto étape par étape)</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_1_%E2%80%93_Ouvrir_linterface_Vibe_Code" >Étape 1 – Ouvrir l’interface Vibe Code</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_2_%E2%80%93_Decrire_ton_app_dans_un_prompt" >Étape 2 – Décrire ton app dans un prompt</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_3_%E2%80%93_Iterer_sans_toucher_au_code" >Étape 3 – Itérer sans toucher au code</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_4_%E2%80%93_Tester_lapp" >Étape 4 – Tester l’app</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_5_%E2%80%93_Deployer_sur_le_web_Cloud_Run" >Étape 5 – Déployer sur le web (Cloud Run)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#5_Est-ce_vraiment_gratuit_Gemini_Cloud_Run_credits" >5. Est-ce vraiment gratuit ? (Gemini + Cloud Run + crédits)</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#1_AI_Studio_Gemini" >1) AI Studio &amp; Gemini</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-12" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#2_Deploiement_sur_Google_Cloud_Run" >2) Déploiement sur Google Cloud Run</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#3_Free_Tier_Always_Free" >3) Free Tier &amp; Always Free</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-14" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#6_Pour_qui_cest_interessant" >6. Pour qui c’est intéressant ?</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-15" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Createurs_de_contenu_YouTube_TikTok" >Créateurs de contenu / YouTube / TikTok</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-16" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Freelances_agences" >Freelances &amp; agences</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-17" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Founders_indie_hackers" >Founders &amp; indie hackers</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-18" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etudiants_curieux" >Étudiants &amp; curieux</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-19" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#7_Limites_a_garder_en_tete_tres_important" >7. Limites à garder en tête (très important)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-20" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#8_Conclusion_du_prompt_au_produit_en_quelques_minutes" >8. Conclusion : du prompt au produit en quelques minutes</a></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#1_Vibe_Coding_cest_quoi_concretement" >1. Vibe Coding, c’est quoi concrètement ?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#2_Comment_acceder_a_Vibe_Code_avec_Gemini" >2. Comment accéder à Vibe Code avec Gemini ?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-3" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#3_Sous_le_capot_Gemini_Nano_Banana_Veo_co" >3. Sous le capot : Gemini, Nano Banana, Veo & co.</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#4_Creer_une_web_app_gratuitement_avec_Vibe_Code_tuto_etape_par_etape" >4. Créer une web app gratuitement avec Vibe Code (tuto étape par étape)</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_1_%E2%80%93_Ouvrir_linterface_Vibe_Code" >Étape 1 – Ouvrir l’interface Vibe Code</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_2_%E2%80%93_Decrire_ton_app_dans_un_prompt" >Étape 2 – Décrire ton app dans un prompt</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_3_%E2%80%93_Iterer_sans_toucher_au_code" >Étape 3 – Itérer sans toucher au code</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_4_%E2%80%93_Tester_lapp" >Étape 4 – Tester l’app</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etape_5_%E2%80%93_Deployer_sur_le_web_Cloud_Run" >Étape 5 – Déployer sur le web (Cloud Run)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-10" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#5_Est-ce_vraiment_gratuit_Gemini_Cloud_Run_credits" >5. Est-ce vraiment gratuit ? (Gemini + Cloud Run + crédits)</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#1_AI_Studio_Gemini" >1) AI Studio & Gemini</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-12" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#2_Deploiement_sur_Google_Cloud_Run" >2) Déploiement sur Google Cloud Run</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#3_Free_Tier_Always_Free" >3) Free Tier & Always Free</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-14" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#6_Pour_qui_cest_interessant" >6. Pour qui c’est intéressant ?</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-15" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Createurs_de_contenu_YouTube_TikTok" >Créateurs de contenu / YouTube / TikTok</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-16" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Freelances_agences" >Freelances & agences</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-17" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Founders_indie_hackers" >Founders & indie hackers</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-18" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#Etudiants_curieux" >Étudiants & curieux</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-19" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#7_Limites_a_garder_en_tete_tres_important" >7. Limites à garder en tête (très important)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-20" href="/vibe-code-avec-gemini-creez-une-web-app-gratuitement-avec-gemini/#8_Conclusion_du_prompt_au_produit_en_quelques_minutes" >8. Conclusion : du prompt au produit en quelques minutes</a></li></ul></nav></div>
 <h2 class="wp-block-heading" id="1-vibe-coding-c-est-quoi-concretement"><span class="ez-toc-section" id="1_Vibe_Coding_cest_quoi_concretement"></span>1. Vibe Coding, c’est quoi concrètement ?<span class="ez-toc-section-end"></span></h2>
 
 
 
-<p>Officiellement, Google définit le&nbsp;<strong>vibe coding</strong>&nbsp;comme une façon de coder où tu décris ce que tu veux en langage naturel, et l’IA se charge de générer le code, la logique, la structure, et même le déploiement.&nbsp;</p>
+<p>Officiellement, Google définit le <strong>vibe coding</strong> comme une façon de coder où tu décris ce que tu veux en langage naturel, et l’IA se charge de générer le code, la logique, la structure, et même le déploiement. </p>
 
 
 
-<p>✅ Toi : tu joues le rôle de&nbsp;<strong>réalisateur / product owner</strong><br>✅ L’IA : fait le&nbsp;<strong>développeur + intégrateur + devops</strong></p>
+<p>✅ Toi : tu joues le rôle de <strong>réalisateur / product owner</strong><br>✅ L’IA : fait le <strong>développeur + intégrateur + devops</strong></p>
 
 
 
@@ -170,11 +170,11 @@ categories: ["ia"]
 
 
 
-<h2 class="wp-block-heading" id="3-sous-le-capot-gemini-nano-banana-veo-co"><span class="ez-toc-section" id="3_Sous_le_capot_Gemini_Nano_Banana_Veo_co"></span>3. Sous le capot : Gemini, Nano Banana, Veo &amp; co.<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading" id="3-sous-le-capot-gemini-nano-banana-veo-co"><span class="ez-toc-section" id="3_Sous_le_capot_Gemini_Nano_Banana_Veo_co"></span>3. Sous le capot : Gemini, Nano Banana, Veo & co.<span class="ez-toc-section-end"></span></h2>
 
 
 
-<p>Vibe Code n’est pas “juste” un chat avec Gemini. C’est un&nbsp;<strong>orchestrateur de modèles</strong>&nbsp;:</p>
+<p>Vibe Code n’est pas “juste” un chat avec Gemini. C’est un <strong>orchestrateur de modèles</strong> :</p>
 
 
 
@@ -336,11 +336,11 @@ categories: ["ia"]
 
 
 
-<p>Tu peux aussi utiliser le&nbsp;<strong>mode Annotation</strong>&nbsp;: tu cliques directement sur une zone de l’interface, tu expliques ce que tu veux changer (“rétrécis cette carte”, “arrondis ces bords”, “centre ce bloc”), et Gemini adapte le code.&nbsp;</p>
+<p>Tu peux aussi utiliser le <strong>mode Annotation</strong> : tu cliques directement sur une zone de l’interface, tu expliques ce que tu veux changer (“rétrécis cette carte”, “arrondis ces bords”, “centre ce bloc”), et Gemini adapte le code. </p>
 
 
 
-<p>L’idée : tu restes dans un&nbsp;<strong>dialogue naturel</strong>, sans plonger dans les fichiers.</p>
+<p>L’idée : tu restes dans un <strong>dialogue naturel</strong>, sans plonger dans les fichiers.</p>
 
 
 
@@ -418,7 +418,7 @@ categories: ["ia"]
 
 
 
-<p>Techniquement, l’app tourne sur&nbsp;<strong>Google Cloud Run</strong>, un service serverless qui scale automatiquement et peut même descendre à zéro quand personne ne l’utilise.&nbsp;</p>
+<p>Techniquement, l’app tourne sur <strong>Google Cloud Run</strong>, un service serverless qui scale automatiquement et peut même descendre à zéro quand personne ne l’utilise. </p>
 
 
 
@@ -434,11 +434,11 @@ categories: ["ia"]
 
 
 
-<h3 class="wp-block-heading" id="1-ai-studio-gemini"><span class="ez-toc-section" id="1_AI_Studio_Gemini"></span>1) AI Studio &amp; Gemini<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading" id="1-ai-studio-gemini"><span class="ez-toc-section" id="1_AI_Studio_Gemini"></span>1) AI Studio & Gemini<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>L’utilisation de Vibe Code dans AI Studio est&nbsp;<strong>gratuite dans la limite des quotas</strong>&nbsp;gratuits de Gemini (charge d’utilisation mensuelle).&nbsp;</p>
+<p>L’utilisation de Vibe Code dans AI Studio est <strong>gratuite dans la limite des quotas</strong> gratuits de Gemini (charge d’utilisation mensuelle). </p>
 
 
 
@@ -482,15 +482,15 @@ categories: ["ia"]
 
 
 
-<p>Mais :<br>👉&nbsp;<strong>Tous les nouveaux comptes Google Cloud</strong>&nbsp;reçoivent&nbsp;<strong>300 $ de crédits</strong>&nbsp;pour tester et déployer des apps.&nbsp;</p>
+<p>Mais :<br>👉 <strong>Tous les nouveaux comptes Google Cloud</strong> reçoivent <strong>300 $ de crédits</strong> pour tester et déployer des apps. </p>
 
 
 
-<p>Avec une petite web app générée par Vibe Code, ces crédits peuvent durer&nbsp;<strong>très longtemps</strong>&nbsp;(surtout si le trafic est modeste).</p>
+<p>Avec une petite web app générée par Vibe Code, ces crédits peuvent durer <strong>très longtemps</strong> (surtout si le trafic est modeste).</p>
 
 
 
-<h3 class="wp-block-heading" id="3-free-tier-always-free"><span class="ez-toc-section" id="3_Free_Tier_Always_Free"></span>3) Free Tier &amp; Always Free<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading" id="3-free-tier-always-free"><span class="ez-toc-section" id="3_Free_Tier_Always_Free"></span>3) Free Tier & Always Free<span class="ez-toc-section-end"></span></h3>
 
 
 
@@ -504,7 +504,7 @@ categories: ["ia"]
 
 
 
-<p>Concrètement : pour des petits projets, MVP, démos clients, portfolio, c’est largement suffisant pour ne&nbsp;<strong>rien payer</strong>&nbsp;tant que tu surveilles ton usage.</p>
+<p>Concrètement : pour des petits projets, MVP, démos clients, portfolio, c’est largement suffisant pour ne <strong>rien payer</strong> tant que tu surveilles ton usage.</p>
 
 
 
@@ -530,7 +530,7 @@ categories: ["ia"]
 
 
 
-<h3 class="wp-block-heading" id="freelances-agences"><span class="ez-toc-section" id="Freelances_agences"></span>Freelances &amp; agences<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading" id="freelances-agences"><span class="ez-toc-section" id="Freelances_agences"></span>Freelances & agences<span class="ez-toc-section-end"></span></h3>
 
 
 
@@ -544,7 +544,7 @@ categories: ["ia"]
 
 
 
-<h3 class="wp-block-heading" id="founders-indie-hackers"><span class="ez-toc-section" id="Founders_indie_hackers"></span>Founders &amp; indie hackers<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading" id="founders-indie-hackers"><span class="ez-toc-section" id="Founders_indie_hackers"></span>Founders & indie hackers<span class="ez-toc-section-end"></span></h3>
 
 
 
@@ -558,7 +558,7 @@ categories: ["ia"]
 
 
 
-<h3 class="wp-block-heading" id="etudiants-curieux"><span class="ez-toc-section" id="Etudiants_curieux"></span>Étudiants &amp; curieux<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading" id="etudiants-curieux"><span class="ez-toc-section" id="Etudiants_curieux"></span>Étudiants & curieux<span class="ez-toc-section-end"></span></h3>
 
 
 
@@ -606,7 +606,7 @@ categories: ["ia"]
 
 
 
-<p>Google recommande d’ailleurs explicitement une phase de&nbsp;<strong>revue humaine</strong>&nbsp;pour les apps avant mise en production.&nbsp;</p>
+<p>Google recommande d’ailleurs explicitement une phase de <strong>revue humaine</strong> pour les apps avant mise en production. </p>
 
 
 
@@ -615,7 +615,7 @@ categories: ["ia"]
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>un&nbsp;<strong>booster de productivité</strong>&nbsp;et un générateur de prototypes<br>pas un remplaçant magique d’une équipe dev pour du lourd en prod.</p>
+<p>un <strong>booster de productivité</strong> et un générateur de prototypes<br>pas un remplaçant magique d’une équipe dev pour du lourd en prod.</p>
 </blockquote>
 
 
@@ -628,7 +628,7 @@ categories: ["ia"]
 
 
 
-<p>Avec&nbsp;<strong>Vibe Code + Gemini</strong>, on n’est plus sur un simple “copier-coller de code proposé par un chatbot”.</p>
+<p>Avec <strong>Vibe Code + Gemini</strong>, on n’est plus sur un simple “copier-coller de code proposé par un chatbot”.</p>
 
 
 

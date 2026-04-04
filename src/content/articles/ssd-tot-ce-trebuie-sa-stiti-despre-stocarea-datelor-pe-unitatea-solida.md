@@ -2,14 +2,14 @@
 lang: "ro"
 title: "SSD: tot ce trebuie să știți despre stocarea datelor pe unitatea solidă"
 slug: "ssd-tot-ce-trebuie-sa-stiti-despre-stocarea-datelor-pe-unitatea-solida"
-excerpt: "Introducere în SSD-uri și modul în care funcționează Apariția discurilor cu stare solidă, sau SSD (Unitate solidă în limba engleză), a marcat o adevărată revoluție în domeniul stocării datelor. Spre deosebire de hard disk-urile tradiționale (HDD) care folosesc platouri magnetice pentru a stoca informații, HDD-urile SSD bazează-te pe cipuri de memorie flash fără piese mobile. [&hellip;]"
+excerpt: "Introducere în SSD-uri și modul în care funcționează Apariția discurilor cu stare solidă, sau SSD (Unitate solidă în limba engleză), a marcat o adevărată revoluție în domeniul stocării datelor. Spre deosebire de hard disk-urile tradiționale (HDD) care folosesc platouri magnetice pentru a stoca informații, HDD-urile SSD bazează-te pe cipuri de memorie flash fără piese mobile. […]"
 date: "2024-03-09T12:24:11"
 categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How It&#039;s Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="How It's Actually Made - Solid State Drives" width="500" height="281" src="https://www.youtube.com/embed/hoXJ0ki94fI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

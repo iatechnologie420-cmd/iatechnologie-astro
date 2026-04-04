@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Aceste jocuri în care inteligența artificială învinge oamenii"
 slug: "aceste-jocuri-in-care-inteligenta-artificiala-invinge-oamenii"
-excerpt: "Zorii supercomputerelor și provocarea de șah Era supercomputerelor nu mai este o viziune futuristă îndepărtată, ci o realitate tangibilă care revoluționează diverse sectoare, inclusiv jocurile de strategie precum șahul. Aceste mașini cu o putere de calcul fenomenală oferă un loc de joacă ideal pentru a explora frontierele inteligenței artificiale și a prelua provocarea șahului punând [&hellip;]"
+excerpt: "Zorii supercomputerelor și provocarea de șah Era supercomputerelor nu mai este o viziune futuristă îndepărtată, ci o realitate tangibilă care revoluționează diverse sectoare, inclusiv jocurile de strategie precum șahul. Aceste mașini cu o putere de calcul fenomenală oferă un loc de joacă ideal pentru a explora frontierele inteligenței artificiale și a prelua provocarea șahului punând […]"
 date: "2024-03-09T12:40:41"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["training-ai-si-elemente-fundamentale-ro"]
@@ -118,7 +118,7 @@ categories: ["training-ai-si-elemente-fundamentale-ro"]
 
 
 
-<p>&#8211; Oponenți virtuali îmbunătățiți: AI face posibilă crearea de inamici non-umani cu capacități strategice avansate și capabili să se adapteze în timp real la acțiunile jucătorului. <br>&#8211; Învățare profundă: sistemele moderne de inteligență artificială se bazează pe învățarea automată, în special pe învățarea profundă, pentru a analiza milioane de jocuri și a deriva strategii optime.<br>&#8211; Personalizarea experienței: AI poate ajusta dificultatea și stilul de joc în funcție de jucător, oferind o experiență personalizată.<br>&#8211; Dezvoltarea de noi mecanici de joc**: inteligența artificială permite introducerea unor dinamici nemaivăzute până acum, datorită capacității sale de a gestiona sisteme complexe.</p>
+<p>– Oponenți virtuali îmbunătățiți: AI face posibilă crearea de inamici non-umani cu capacități strategice avansate și capabili să se adapteze în timp real la acțiunile jucătorului. <br>– Învățare profundă: sistemele moderne de inteligență artificială se bazează pe învățarea automată, în special pe învățarea profundă, pentru a analiza milioane de jocuri și a deriva strategii optime.<br>– Personalizarea experienței: AI poate ajusta dificultatea și stilul de joc în funcție de jucător, oferind o experiență personalizată.<br>– Dezvoltarea de noi mecanici de joc**: inteligența artificială permite introducerea unor dinamici nemaivăzute până acum, datorită capacității sale de a gestiona sisteme complexe.</p>
 
 
 
@@ -130,11 +130,11 @@ categories: ["training-ai-si-elemente-fundamentale-ro"]
 
 
 
-<p>&#8211; <strong>DeepMind</strong>AlphaGo a lui: acest AI a făcut istorie învingându-l pe campionul mondial Go, Lee Sedol, în 2016.</p>
+<p>– <strong>DeepMind</strong>AlphaGo a lui: acest AI a făcut istorie învingându-l pe campionul mondial Go, Lee Sedol, în 2016.</p>
 
 
 
-<p>&#8211; <strong>OpenAI</strong> Cinci: Dezvoltat de OpenAI, acest AI a învins echipele profesioniste în jocul competitiv de strategie Dota 2.</p>
+<p>– <strong>OpenAI</strong> Cinci: Dezvoltat de OpenAI, acest AI a învins echipele profesioniste în jocul competitiv de strategie Dota 2.</p>
 
 
 
@@ -170,7 +170,7 @@ categories: ["training-ai-si-elemente-fundamentale-ro"]
 
 
 
-<p>&#8211; Personalizarea și adaptarea jocurilor video la experiența utilizatorului.<br>&#8211; Îmbunătățirea jocurilor de simulare cu IA capabilă să reproducă comportamente umane realiste în strategii, diplomație sau economie.<br>&#8211; Utilizare în Serious Games pentru aplicații educaționale, medicale și de formare profesională.<br>&#8211; Progrese în e-sport, unde IA ar putea fi folosite pentru antrenament, dar și ca competitori și parteneri de jocuri.<br>&#8211; Creșterea cercetării academice privind luarea deciziilor, strategie și psihologie.</p>
+<p>– Personalizarea și adaptarea jocurilor video la experiența utilizatorului.<br>– Îmbunătățirea jocurilor de simulare cu IA capabilă să reproducă comportamente umane realiste în strategii, diplomație sau economie.<br>– Utilizare în Serious Games pentru aplicații educaționale, medicale și de formare profesională.<br>– Progrese în e-sport, unde IA ar putea fi folosite pentru antrenament, dar și ca competitori și parteneri de jocuri.<br>– Creșterea cercetării academice privind luarea deciziilor, strategie și psihologie.</p>
 
 
 

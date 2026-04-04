@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Naucz się szybkiej inżynierii: w 12 krokach"
 slug: "naucz-sie-szybkiej-inzynierii-w-12-krokach"
-excerpt: "Wprowadzenie do szybkiej inżynierii Co to jest szybka inżynieria? TO Szybka inżynieria to wyłaniająca się dziedzina, która koncentruje się na optymalizacji podpowiedzi lub poleceń wydawanych systemom sztucznej inteligencji (AI), szczególnie tym opartym na języku naturalnym, takim jak generatory tekstu. Jest to szczególnie ważna dyscyplina wraz z pojawieniem się modeli przetwarzania języka, takich jak GPT-4 OpenAI. [&hellip;]"
+excerpt: "Wprowadzenie do szybkiej inżynierii Co to jest szybka inżynieria? TO Szybka inżynieria to wyłaniająca się dziedzina, która koncentruje się na optymalizacji podpowiedzi lub poleceń wydawanych systemom sztucznej inteligencji (AI), szczególnie tym opartym na języku naturalnym, takim jak generatory tekstu. Jest to szczególnie ważna dyscyplina wraz z pojawieniem się modeli przetwarzania języka, takich jak GPT-4 OpenAI. […]"
 date: "2024-03-09T12:52:46"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
 categories: ["szkolenia-i-podstawy-ai-pl"]

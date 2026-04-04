@@ -2,14 +2,14 @@
 lang: "es"
 title: "¿Qué es un codificador automático? ¡La ultima guia!"
 slug: "que-es-un-codificador-automatico-la-ultima-guia"
-excerpt: "Codificadores automáticos, o codificadores automáticos en inglés, se posicionan como poderosas herramientas en el campo del aprendizaje automático y la inteligencia artificial. Estas redes neuronales especiales se utilizan para la reducción de dimensiones, la detección de anomalías, la eliminación de ruido de datos y más. Este artículo proporciona una introducción a esta fascinante tecnología, destacando [&hellip;]"
+excerpt: "Codificadores automáticos, o codificadores automáticos en inglés, se posicionan como poderosas herramientas en el campo del aprendizaje automático y la inteligencia artificial. Estas redes neuronales especiales se utilizan para la reducción de dimensiones, la detección de anomalías, la eliminación de ruido de datos y más. Este artículo proporciona una introducción a esta fascinante tecnología, destacando […]"
 date: "2024-03-09T12:05:29"
 categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 ---
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Tracking Corn &amp; Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Tracking Corn & Weed with Yolov5 and Auto Encoder - Tracker" width="500" height="281" src="https://www.youtube.com/embed/8-jWgsGWaR0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -88,7 +88,7 @@ categories: ["computacion-y-datos-es", "tecnologia-y-digital-es"]
 
 
 
-<li><strong>Eliminación de ruido</strong>: son capaces de aprender a ignorar el &#8220;ruido&#8221; de los datos.</li>
+<li><strong>Eliminación de ruido</strong>: son capaces de aprender a ignorar el “ruido” de los datos.</li>
 
 
 

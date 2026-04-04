@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Spot: pes robot iz Boston Dynamics"
 slug: "spot-pes-robot-iz-boston-dynamics"
-excerpt: "Odkritje Spota, psa robota podjetja Boston Dynamics Slovi kot smetana sodobne robotike, Spot, pes robot podjetja Boston Dynamics, je povzročil šok v svetu novih tehnologij. Zasnovan, da nadomesti svoje vrstnike, je simbolični primer živalskih robotov, ki so pripravljeni nadomestiti svoje modele. Spot, tehnološka revolucija Spot popolnoma uteleša ta tehnološki napredek. Njegovo zasnovo je vodila ideja [&hellip;]"
+excerpt: "Odkritje Spota, psa robota podjetja Boston Dynamics Slovi kot smetana sodobne robotike, Spot, pes robot podjetja Boston Dynamics, je povzročil šok v svetu novih tehnologij. Zasnovan, da nadomesti svoje vrstnike, je simbolični primer živalskih robotov, ki so pripravljeni nadomestiti svoje modele. Spot, tehnološka revolucija Spot popolnoma uteleša ta tehnološki napredek. Njegovo zasnovo je vodila ideja […]"
 date: "2024-03-09T11:49:05"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Spot-guide-complet-du-robot-chien-de-Boston-Dynamics-2.png"
 categories: ["prelomne-in-nastajajoce-inovacije-sl"]
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=Ltt-_GNdNbk
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@leotechmaker/video/6967733120455953669" data-video-id="6967733120455953669" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@leotechmaker" href="https://www.tiktok.com/@leotechmaker?refer=embed" rel="noopener">@leotechmaker</a> <p>Voici un chien robot qui va remplacer votre VRAI chien ! <a title="tiktokacademie" target="_blank" href="https://www.tiktok.com/tag/tiktokacademie?refer=embed" rel="noopener">#tiktokacademie</a></p> <a target="_blank" title="♬ son original - Léo - TechMaker" href="https://www.tiktok.com/music/son-original-6967733022481271557?refer=embed" rel="noopener">♬ son original &#8211; Léo &#8211; TechMaker</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@leotechmaker/video/6967733120455953669" data-video-id="6967733120455953669" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@leotechmaker" href="https://www.tiktok.com/@leotechmaker?refer=embed" rel="noopener">@leotechmaker</a> <p>Voici un chien robot qui va remplacer votre VRAI chien ! <a title="tiktokacademie" target="_blank" href="https://www.tiktok.com/tag/tiktokacademie?refer=embed" rel="noopener">#tiktokacademie</a></p> <a target="_blank" title="♬ son original - Léo - TechMaker" href="https://www.tiktok.com/music/son-original-6967733022481271557?refer=embed" rel="noopener">♬ son original – Léo – TechMaker</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

@@ -2,7 +2,7 @@
 lang: "es"
 title: "AlphaGo vs Leedsol: una súper IA vence al maestro de Go"
 slug: "alphago-vs-leedsol-una-super-ia-vence-al-maestro-de-go"
-excerpt: "Un choque histórico: la inteligencia artificial desafía al maestro del Go El mundo del Go estuvo históricamente dominado por maestros humanos, hasta que ocurrió un hecho significativo que sacudió los paradigmas establecidos. La inteligencia artificial, esta herramienta desarrollada por el ingenio humano, asumió el desafío de abordar uno de los juegos de estrategia más complejos [&hellip;]"
+excerpt: "Un choque histórico: la inteligencia artificial desafía al maestro del Go El mundo del Go estuvo históricamente dominado por maestros humanos, hasta que ocurrió un hecho significativo que sacudió los paradigmas establecidos. La inteligencia artificial, esta herramienta desarrollada por el ingenio humano, asumió el desafío de abordar uno de los juegos de estrategia más complejos […]"
 date: "2024-03-09T12:53:36"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-3.png"
 categories: ["formacion-y-fundamentos-de-la-ia-es"]
@@ -10,7 +10,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="AlphaGo Triomphe : Lee Sedol Battu par l&#039;IA!" width="500" height="281" src="https://www.youtube.com/embed/KJ1Me8vHlYY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="AlphaGo Triomphe : Lee Sedol Battu par l'IA!" width="500" height="281" src="https://www.youtube.com/embed/KJ1Me8vHlYY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -96,7 +96,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>Además, la introducción de la noción de intuición en la inteligencia artificial fue decisiva. La IA ha comenzado a &#8220;comprender&#8221; patrones y estrategias complejos sin estar explícitamente programada para hacerlo. Desarrolló estilos de juego innovadores y hasta entonces desconocidos, demostrando su capacidad para innovar y evolucionar de forma independiente.</p>
+<p>Además, la introducción de la noción de intuición en la inteligencia artificial fue decisiva. La IA ha comenzado a “comprender” patrones y estrategias complejos sin estar explícitamente programada para hacerlo. Desarrolló estilos de juego innovadores y hasta entonces desconocidos, demostrando su capacidad para innovar y evolucionar de forma independiente.</p>
 
 
 
@@ -140,7 +140,7 @@ categories: ["formacion-y-fundamentos-de-la-ia-es"]
 
 
 
-<p>El movimiento 37 de AlphaGo fue particularmente notable; Los expertos hablaron de un movimiento &#8220;de otra galaxia&#8221;, completamente inesperado para los profesionales del Go. Esta ronda fue un punto de inflexión y una perfecta ilustración del enfoque poco convencional del Go.<strong>AlfaGo</strong> basado en el aprendizaje profundo.</p>
+<p>El movimiento 37 de AlphaGo fue particularmente notable; Los expertos hablaron de un movimiento “de otra galaxia”, completamente inesperado para los profesionales del Go. Esta ronda fue un punto de inflexión y una perfecta ilustración del enfoque poco convencional del Go.<strong>AlfaGo</strong> basado en el aprendizaje profundo.</p>
 
 
 

@@ -1,8 +1,8 @@
 ---
-lang: "fr"
+lang: "es"
 title: "Hyundai: ¿Cómo está revolucionando la tecnología la industria automotriz?"
 slug: "hyundai-como-esta-revolucionando-la-tecnologia-la-industria-automotriz"
-excerpt: "La transformación digital ha cambiado significativamente la forma en que interactuamos con productos y servicios, y la industria automotriz no es una excepción. Un excelente ejemplo de esta evolución se puede ver en hyundai, que ha logrado incorporar los últimos avances tecnológicos a su producción y operaciones para mantenerse a la vanguardia de la industria. [&hellip;]"
+excerpt: "La transformación digital ha cambiado significativamente la forma en que interactuamos con productos y servicios, y la industria automotriz no es una excepción. Un excelente ejemplo de esta evolución se puede ver en hyundai, que ha logrado incorporar los últimos avances tecnológicos a su producción y operaciones para mantenerse a la vanguardia de la industria. […]"
 date: "2024-03-09T11:52:45"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Hyundai-Comment-la-technologie-digitale-revolutionne-lindustrie-automobile-1-2.png"
 categories: ["innovaciones-disruptivas-y-emergentes-es", "tecnologia-y-digital-es"]
@@ -92,7 +92,7 @@ categories: ["innovaciones-disruptivas-y-emergentes-es", "tecnologia-y-digital-e
 
 
 
-<p>El punto de inflexión digital <strong>hyundai</strong> en la industria automotriz se está materializando en autos cada vez más conectados y automatizados. De hecho, la automatización y <strong>digitalización</strong> se han vuelto imprescindibles en la industria del automóvil, como lo podemos observar con la iniciativa Stellantis &#038;YOU. Hyundai no se queda atrás y se esfuerza por integrar estas tendencias ofreciendo automóviles cada vez más inteligentes y conectados. La integración de la IA en el corazón de sus vehículos es uno de los ejemplos más llamativos de la revolución digital liderada por Hyundai. </p>
+<p>El punto de inflexión digital <strong>hyundai</strong> en la industria automotriz se está materializando en autos cada vez más conectados y automatizados. De hecho, la automatización y <strong>digitalización</strong> se han vuelto imprescindibles en la industria del automóvil, como lo podemos observar con la iniciativa Stellantis &YOU. Hyundai no se queda atrás y se esfuerza por integrar estas tendencias ofreciendo automóviles cada vez más inteligentes y conectados. La integración de la IA en el corazón de sus vehículos es uno de los ejemplos más llamativos de la revolución digital liderada por Hyundai. </p>
 
 
 

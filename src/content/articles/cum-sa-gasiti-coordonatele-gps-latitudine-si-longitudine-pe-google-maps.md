@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Cum să găsiți coordonatele GPS (latitudine și longitudine) pe Google Maps?"
 slug: "cum-sa-gasiti-coordonatele-gps-latitudine-si-longitudine-pe-google-maps"
-excerpt: "THE GPS (Global Positioning System) este o tehnologie care a devenit esențială în viața noastră de zi cu zi. Folosind semnale transmise de sateliți, sistem GPS ne permite să ne determinăm cu precizie poziția sub formă de coordonate geografice. Aceste coordonate sunt reprezentate de două elemente cheie: the latitudine si longitudine. În acest articol, vom [&hellip;]"
+excerpt: "THE GPS (Global Positioning System) este o tehnologie care a devenit esențială în viața noastră de zi cu zi. Folosind semnale transmise de sateliți, sistem GPS ne permite să ne determinăm cu precizie poziția sub formă de coordonate geografice. Aceste coordonate sunt reprezentate de două elemente cheie: the latitudine si longitudine. În acest articol, vom […]"
 date: "2024-03-09T12:04:29"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["tehnologie-si-digital-ro"]

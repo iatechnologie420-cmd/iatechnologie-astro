@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Master Data Manager: função, habilidades, treinamento e salário"
 slug: "master-data-manager-funcao-habilidades-treinamento-e-salario"
-excerpt: "O papel fundamental do Master Data Manager na governança de dados Num mundo onde os dados se tornaram um importante ativo estratégico para as empresas, Gestão de dados é essencial para garantir a qualidade, segurança e eficácia da informação. No centro desta governação, o Gerenciador de dados mestre (MDM) desempenha um papel crucial. Vamos explorar [&hellip;]"
+excerpt: "O papel fundamental do Master Data Manager na governança de dados Num mundo onde os dados se tornaram um importante ativo estratégico para as empresas, Gestão de dados é essencial para garantir a qualidade, segurança e eficácia da informação. No centro desta governação, o Gerenciador de dados mestre (MDM) desempenha um papel crucial. Vamos explorar […]"
 date: "2024-03-09T12:17:08"
 categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
 ---
@@ -111,7 +111,7 @@ categories: ["computacao-e-dados-pt", "tecnologia-e-digital-pt"]
 
 
 
-<p>O Master Data Manager deve enfrentar constantemente novos desafios, ligados em particular aos desenvolvimentos tecnológicos como <strong>grandes dados</strong>, EU&#8217;<strong>inteligência artificial</strong> e a <strong>computação em nuvem</strong>. Isto significa permanecer na vanguarda do conhecimento técnico e das tendências do mercado para continuar a garantir uma governação de dados eficaz.</p>
+<p>O Master Data Manager deve enfrentar constantemente novos desafios, ligados em particular aos desenvolvimentos tecnológicos como <strong>grandes dados</strong>, EU’<strong>inteligência artificial</strong> e a <strong>computação em nuvem</strong>. Isto significa permanecer na vanguarda do conhecimento técnico e das tendências do mercado para continuar a garantir uma governação de dados eficaz.</p>
 
 
 

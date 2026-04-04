@@ -2,7 +2,7 @@
 lang: "lt"
 title: "IT / Informacinės technologijos: kas yra informacinės technologijos?"
 slug: "it-informacines-technologijos-kas-yra-informacines-technologijos"
-excerpt: "IT supratimas: informacinių technologijų apibrėžimas ir raida Kas tai? Terminas IT, Dėl Informacinės technologijos anglų kalba žymi visas technologijas, susijusias su apdorojimu ir valdymu informacija ir duomenis. Taigi ši didžiulė sritis apima kompiuterių mokslą, telekomunikacijos, duomenų bazių valdymo sistemos, informacijos saugumas ir daug daugiau. IT yra labai svarbios šiuolaikiniame pasaulyje: jos leidžia įmonėms efektyviai veikti, [&hellip;]"
+excerpt: "IT supratimas: informacinių technologijų apibrėžimas ir raida Kas tai? Terminas IT, Dėl Informacinės technologijos anglų kalba žymi visas technologijas, susijusias su apdorojimu ir valdymu informacija ir duomenis. Taigi ši didžiulė sritis apima kompiuterių mokslą, telekomunikacijos, duomenų bazių valdymo sistemos, informacijos saugumas ir daug daugiau. IT yra labai svarbios šiuolaikiniame pasaulyje: jos leidžia įmonėms efektyviai veikti, […]"
 date: "2024-03-09T12:21:27"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
@@ -10,7 +10,7 @@ categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infrastruktura-ir-tinklai-lt", "technologijos-ir-skaitmeninis-lt"]
 
 
 
-<p>    Šiuo metu IT transformuoja kelios pagrindinės tendencijos. L&#8217;<strong>dirbtinis intelektas</strong> ir mašininis mokymasis (<em>mašininis mokymasis</em>) tapo pagrindiniais elementais kuriant protingesnius ir savarankiškesnius sprendimus. THE <strong>debesų kompiuterija</strong> ir toliau populiarėja, suteikdamas lankstumo ir masto, kurio IT paslaugose dar nebuvo matyti. </p>
+<p>    Šiuo metu IT transformuoja kelios pagrindinės tendencijos. L’<strong>dirbtinis intelektas</strong> ir mašininis mokymasis (<em>mašininis mokymasis</em>) tapo pagrindiniais elementais kuriant protingesnius ir savarankiškesnius sprendimus. THE <strong>debesų kompiuterija</strong> ir toliau populiarėja, suteikdamas lankstumo ir masto, kurio IT paslaugose dar nebuvo matyti. </p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "vi"
 title: "Định lý Bayes và ứng dụng của nó trong AI"
 slug: "dinh-ly-bayes-va-ung-dung-cua-no-trong-ai"
-excerpt: "Giới thiệu định lý Bayes CÁC Định lý Bayes là một công thức cơ bản về xác suất và thống kê mô tả việc cập nhật niềm tin của chúng ta trước sự hiện diện của thông tin mới. Được đặt tên để vinh danh Mục sư Thomas Bayes, định lý này đóng một vai [&hellip;]"
+excerpt: "Giới thiệu định lý Bayes CÁC Định lý Bayes là một công thức cơ bản về xác suất và thống kê mô tả việc cập nhật niềm tin của chúng ta trước sự hiện diện của thông tin mới. Được đặt tên để vinh danh Mục sư Thomas Bayes, định lý này đóng một vai […]"
 date: "2024-03-09T12:14:49"
 categories: ["cong-nghe-va-ky-thuat-so-vi", "may-tinh-va-du-lieu-vi"]
 ---
@@ -93,7 +93,7 @@ categories: ["cong-nghe-va-ky-thuat-so-vi", "may-tinh-va-du-lieu-vi"]
 
 
 
-<p>L&#8217;<strong>Suy luận Bayes</strong> là một nhánh của thống kê cung cấp khung lý thuyết để giải thích các sự kiện theo xác suất. Nó dựa trên <strong>Định lý Bayes</strong>, đây là công thức cập nhật xác suất xảy ra sự kiện dựa trên dữ liệu mới. </p>
+<p>L’<strong>Suy luận Bayes</strong> là một nhánh của thống kê cung cấp khung lý thuyết để giải thích các sự kiện theo xác suất. Nó dựa trên <strong>Định lý Bayes</strong>, đây là công thức cập nhật xác suất xảy ra sự kiện dựa trên dữ liệu mới. </p>
 
 
 
@@ -187,7 +187,7 @@ categories: ["cong-nghe-va-ky-thuat-so-vi", "may-tinh-va-du-lieu-vi"]
 
 
 
-<p>L&#8217;<strong>Suy luận Bayes</strong> cung cấp một khuôn khổ mạnh mẽ để lý luận với sự không chắc chắn và tích hợp mạch lạc thông tin mới. Ứng dụng của nó rất rộng lớn và được sử dụng trong các lĩnh vực tiên tiến như<strong>trí tuệ nhân tạo</strong> ở đâu <strong>dữ liệu lớn</strong> tăng trưởng liên tục. Do đó, việc hiểu các nguyên tắc cơ bản của nó là điều cần thiết đối với những ai muốn giải thích thế giới thông qua lăng kính xác suất.</p>
+<p>L’<strong>Suy luận Bayes</strong> cung cấp một khuôn khổ mạnh mẽ để lý luận với sự không chắc chắn và tích hợp mạch lạc thông tin mới. Ứng dụng của nó rất rộng lớn và được sử dụng trong các lĩnh vực tiên tiến như<strong>trí tuệ nhân tạo</strong> ở đâu <strong>dữ liệu lớn</strong> tăng trưởng liên tục. Do đó, việc hiểu các nguyên tắc cơ bản của nó là điều cần thiết đối với những ai muốn giải thích thế giới thông qua lăng kính xác suất.</p>
 
 
 
@@ -232,7 +232,7 @@ categories: ["cong-nghe-va-ky-thuat-so-vi", "may-tinh-va-du-lieu-vi"]
 
 
 <ul class="wp-block-list">
-<li><strong>Vịnh ngây thơ</strong>: Một bộ phân loại xác suất, mặc dù có cái tên &#8216;ngây thơ&#8217;, nhưng rất đáng chú ý vì tính đơn giản và hiệu quả của nó, đặc biệt khi xác suất của các đặc điểm là độc lập.</li>
+<li><strong>Vịnh ngây thơ</strong>: Một bộ phân loại xác suất, mặc dù có cái tên ‘ngây thơ’, nhưng rất đáng chú ý vì tính đơn giản và hiệu quả của nó, đặc biệt khi xác suất của các đặc điểm là độc lập.</li>
 
 
 

@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Li-Fi: revoluția în conectivitatea wireless ultra-rapidă"
 slug: "li-fi-revolutia-in-conectivitatea-wireless-ultra-rapida"
-excerpt: "Revoluția silentioasă Li-Fi: conectivitate ușoară de mâine Introducere în iluminatul high-tech Este un fapt puțin cunoscut publicului larg, dar Li-Fi (acronim pentru Light Fidelity) se numără printre cele mai promițătoare tehnologii de transmisie wireless până în prezent, deși primele sale teste datează din 2005. A fost dezvoltat în umbră, departe de lumina reflectoarelor care luminează [&hellip;]"
+excerpt: "Revoluția silentioasă Li-Fi: conectivitate ușoară de mâine Introducere în iluminatul high-tech Este un fapt puțin cunoscut publicului larg, dar Li-Fi (acronim pentru Light Fidelity) se numără printre cele mai promițătoare tehnologii de transmisie wireless până în prezent, deși primele sale teste datează din 2005. A fost dezvoltat în umbră, departe de lumina reflectoarelor care luminează […]"
 date: "2024-03-09T12:49:09"
 categories: ["tehnologie-si-digital-ro", "tehnologii-purtabile-si-iot-ro"]
 ---

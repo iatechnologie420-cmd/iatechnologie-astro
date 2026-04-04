@@ -2,7 +2,7 @@
 lang: "vi"
 title: "Alan Turing và sự ra đời của trí tuệ nhân tạo"
 slug: "alan-turing-va-su-ra-doi-cua-tri-tue-nhan-tao"
-excerpt: "Alan Turing: Cha đẻ của trí tuệ nhân tạo Alan Turing: Cha đẻ của trí tuệ nhân tạoLịch sử của trí tuệ nhân tạo (AI) không thể kể hết nếu không nhắc đến cái tên Alan Turing, người được nhiều người coi là cha đẻ của lĩnh vực này, lĩnh vực đang cách mạng hóa [&hellip;]"
+excerpt: "Alan Turing: Cha đẻ của trí tuệ nhân tạo Alan Turing: Cha đẻ của trí tuệ nhân tạoLịch sử của trí tuệ nhân tạo (AI) không thể kể hết nếu không nhắc đến cái tên Alan Turing, người được nhiều người coi là cha đẻ của lĩnh vực này, lĩnh vực đang cách mạng hóa […]"
 date: "2024-03-09T12:56:01"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
@@ -10,7 +10,7 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Video Alan Turing: Cha đẻ của AI</figcaption></figure>
 
 
@@ -32,7 +32,7 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 
-<p>Alan Turing là nhà toán học người Anh, công trình của ông có tác động quyết định đến sự phát triển của máy tính và trí tuệ nhân tạo. Trong Chiến tranh thế giới thứ hai, cam kết của ông trong việc giải mã các mật mã của Đức Quốc xã, đặc biệt là với chiếc máy của ông có tên là <strong>Bom</strong>, góp phần to lớn vào chiến thắng của quân Đồng minh. Tuy nhiên, phải sau cuộc xung đột thế giới, nghiên cứu của ông mới thực sự mang tính cách mạng với việc viết bài báo nổi tiếng &#8220;Máy tính và trí thông minh&#8221; vào năm 1950.</p>
+<p>Alan Turing là nhà toán học người Anh, công trình của ông có tác động quyết định đến sự phát triển của máy tính và trí tuệ nhân tạo. Trong Chiến tranh thế giới thứ hai, cam kết của ông trong việc giải mã các mật mã của Đức Quốc xã, đặc biệt là với chiếc máy của ông có tên là <strong>Bom</strong>, góp phần to lớn vào chiến thắng của quân Đồng minh. Tuy nhiên, phải sau cuộc xung đột thế giới, nghiên cứu của ông mới thực sự mang tính cách mạng với việc viết bài báo nổi tiếng “Máy tính và trí thông minh” vào năm 1950.</p>
 
 
 
@@ -192,7 +192,7 @@ categories: ["dao-tao-va-kien-thuc-co-ban-ve-ai-vi"]
 
 
 
-<p>&#8211; Giải mã mã Enigma<br>&#8211; Thiết kế bom giải mã<br>&#8211; Công thức của máy Turing<br>&#8211; Nghĩ về khái niệm phép thử Turing<br>&#8211; Mở đường nghiên cứu về trí tuệ nhân tạo</p>
+<p>– Giải mã mã Enigma<br>– Thiết kế bom giải mã<br>– Công thức của máy Turing<br>– Nghĩ về khái niệm phép thử Turing<br>– Mở đường nghiên cứu về trí tuệ nhân tạo</p>
 
 
 

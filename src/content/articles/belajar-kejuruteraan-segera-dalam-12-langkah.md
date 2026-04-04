@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Belajar kejuruteraan segera: dalam 12 langkah"
 slug: "belajar-kejuruteraan-segera-dalam-12-langkah"
-excerpt: "Pengenalan kepada kejuruteraan segera Apakah Kejuruteraan Prompt? THE Kejuruteraan Segera ialah bidang baru muncul yang memfokuskan pada mengoptimumkan gesaan, atau perintah, yang kami berikan kepada sistem kecerdasan buatan (AI), terutamanya yang berdasarkan bahasa semula jadi, seperti penjana teks. Ia merupakan disiplin yang sangat penting dengan kedatangan model pemprosesan bahasa seperti GPT-4 daripada OpenAI. Ideanya adalah [&hellip;]"
+excerpt: "Pengenalan kepada kejuruteraan segera Apakah Kejuruteraan Prompt? THE Kejuruteraan Segera ialah bidang baru muncul yang memfokuskan pada mengoptimumkan gesaan, atau perintah, yang kami berikan kepada sistem kecerdasan buatan (AI), terutamanya yang berdasarkan bahasa semula jadi, seperti penjana teks. Ia merupakan disiplin yang sangat penting dengan kedatangan model pemprosesan bahasa seperti GPT-4 daripada OpenAI. Ideanya adalah […]"
 date: "2024-03-09T12:52:17"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
 categories: ["latihan-dan-asas-ai-ms"]
@@ -22,7 +22,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>    THE <strong>Kejuruteraan Segera</strong> ialah bidang baru muncul yang memfokuskan pada mengoptimumkan gesaan, atau perintah, yang kami berikan kepada sistem kecerdasan buatan (AI), terutamanya yang berdasarkan bahasa semula jadi, seperti penjana teks. Ia merupakan disiplin yang sangat penting dengan kedatangan model pemprosesan bahasa seperti GPT-4 daripada <strong>OpenAI</strong>. Ideanya adalah untuk belajar &#8220;bercakap&#8221; secara berkesan dengan AI ini untuk meningkatkan kualiti dan kaitan respons yang diperoleh.</p>
+<p>    THE <strong>Kejuruteraan Segera</strong> ialah bidang baru muncul yang memfokuskan pada mengoptimumkan gesaan, atau perintah, yang kami berikan kepada sistem kecerdasan buatan (AI), terutamanya yang berdasarkan bahasa semula jadi, seperti penjana teks. Ia merupakan disiplin yang sangat penting dengan kedatangan model pemprosesan bahasa seperti GPT-4 daripada <strong>OpenAI</strong>. Ideanya adalah untuk belajar “bercakap” secara berkesan dengan AI ini untuk meningkatkan kualiti dan kaitan respons yang diperoleh.</p>
 
 
 
@@ -67,7 +67,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<li><strong>Sediakan &#8220;output&#8221; kepada model:</strong> Kadangkala model mungkin mengalami kesukaran untuk menyelesaikan tugas dengan tepat. Untuk mengurangkan perkara ini, sediakan laluan atau arahan alternatif untuk diikuti oleh model jika ia tidak menemui jawapan yang memuaskan.</li>
+<li><strong>Sediakan “output” kepada model:</strong> Kadangkala model mungkin mengalami kesukaran untuk menyelesaikan tugas dengan tepat. Untuk mengurangkan perkara ini, sediakan laluan atau arahan alternatif untuk diikuti oleh model jika ia tidak menemui jawapan yang memuaskan.</li>
 
 
 

@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Tot ce trebuie să știi despre profesia de analist cuant sau cantitativ"
 slug: "tot-ce-trebuie-sa-stii-despre-profesia-de-analist-cuant-sau-cantitativ"
-excerpt: "Introducere în lumea finanțelor cantitative Finanțarea cantitativă este un domeniu specializat al finanțelor care utilizează modele matematice, statistici și tehnici informatice pentru a înțelege și prezice comportamentul piețelor financiare. În acest articol, vom explora acest domeniu, discutând despre instrumentele pe care le folosește, despre aplicațiile sale, precum și despre abilitățile necesare pentru a excela în [&hellip;]"
+excerpt: "Introducere în lumea finanțelor cantitative Finanțarea cantitativă este un domeniu specializat al finanțelor care utilizează modele matematice, statistici și tehnici informatice pentru a înțelege și prezice comportamentul piețelor financiare. În acest articol, vom explora acest domeniu, discutând despre instrumentele pe care le folosește, despre aplicațiile sale, precum și despre abilitățile necesare pentru a excela în […]"
 date: "2024-03-09T11:57:46"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-3.png"
 categories: ["tehnologie-si-digital-ro"]

@@ -2,7 +2,7 @@
 lang: "et"
 title: "Arvuti lukustamise juhend (PC, Mac, Windows jne)"
 slug: "arvuti-lukustamise-juhend-pc-mac-windows-jne"
-excerpt: "Vajadus arvuti turvalisuse tagamiseks Praegusel ajastul, mil tegevused muutuvad kiirenenud tempos digitaalseks, on meie arvuti turvalisus muutunud nii üksikisikute kui ka ettevõtete jaoks suureks murekohaks. Siin on üksikasjalik juhend heade reflekside kohta, mida oma arvutisüsteemi tõhusaks kaitsmiseks kasutada. Arvutid on meie isiklike ja ametialaste andmete kesksed keskused. Need on ka väravad juurdepääsuks piiramatule hulgale teabele [&hellip;]"
+excerpt: "Vajadus arvuti turvalisuse tagamiseks Praegusel ajastul, mil tegevused muutuvad kiirenenud tempos digitaalseks, on meie arvuti turvalisus muutunud nii üksikisikute kui ka ettevõtete jaoks suureks murekohaks. Siin on üksikasjalik juhend heade reflekside kohta, mida oma arvutisüsteemi tõhusaks kaitsmiseks kasutada. Arvutid on meie isiklike ja ametialaste andmete kesksed keskused. Need on ka väravad juurdepääsuks piiramatule hulgale teabele […]"
 date: "2024-03-09T11:57:02"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/LArt-de-Verrouiller-son-Ordinateur-PC-Mac-et-Toutes-les-Versions-de-Windows-3.png"
 categories: ["blockchain-ja-digitaalne-turvalisus-et", "tehnoloogia-ja-digitaalne-et"]

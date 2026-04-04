@@ -2,7 +2,7 @@
 lang: "sl"
 title: "Samsung Xcover 7: Najboljša rešitev za pustolovce?"
 slug: "samsung-xcover-7-najboljsa-resitev-za-pustolovce"
-excerpt: "Tehnične lastnosti Samsung Xcover 7 Samsung Xcover 7 je najnovejši telefon v seriji Xcover, znan po svoji odpornosti na vremenske vplive in vzdržljivosti. Z naprednimi funkcijami in robustno zasnovo je Xcover 7 zasnovan za aktivne ljudi, ki potrebujejo zanesljiv pametni telefon v vsaki situaciji. V tem članku si bomo podrobneje ogledali tehnične lastnosti, zaradi katerih [&hellip;]"
+excerpt: "Tehnične lastnosti Samsung Xcover 7 Samsung Xcover 7 je najnovejši telefon v seriji Xcover, znan po svoji odpornosti na vremenske vplive in vzdržljivosti. Z naprednimi funkcijami in robustno zasnovo je Xcover 7 zasnovan za aktivne ljudi, ki potrebujejo zanesljiv pametni telefon v vsaki situaciji. V tem članku si bomo podrobneje ogledali tehnične lastnosti, zaradi katerih […]"
 date: "2024-03-09T12:14:29"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Samsung-Xcover-7-La-solution-ultime-pour-les-baroudeurs-.png"
 categories: ["nosljive-tehnologije-in-iot-sl", "tehnologija-in-digital-sl"]

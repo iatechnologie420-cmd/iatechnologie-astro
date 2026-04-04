@@ -2,7 +2,7 @@
 lang: "en"
 title: "Google instrument tuner: revolution for musicians?"
 slug: "google-instrument-tuner-revolution-for-musicians"
-excerpt: "The importance of tuning musical instruments Tuning is one of the most important aspects when it comes to playing a musical instrument. Whether you&#8217;re a beginner or an experienced musician, you need to tune your instrument regularly to get the best sound possible. In this article, we&#8217;ll explore the importance of tuning musical instruments and [&hellip;]"
+excerpt: "The importance of tuning musical instruments Tuning is one of the most important aspects when it comes to playing a musical instrument. Whether you’re a beginner or an experienced musician, you need to tune your instrument regularly to get the best sound possible. In this article, we’ll explore the importance of tuning musical instruments and […]"
 date: "2024-03-09T12:37:18"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-laccordeur-dinstruments-Google-revolutionne-t-il-lexperience-des-musiciens-.png"
 categories: ["technology-and-digital-en"]
@@ -18,11 +18,11 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>Tuning is one of the most important aspects when it comes to playing a musical instrument. Whether you&#8217;re a beginner or an experienced musician, you need to tune your instrument regularly to get the best sound possible. </p>
+<p>Tuning is one of the most important aspects when it comes to playing a musical instrument. Whether you’re a beginner or an experienced musician, you need to tune your instrument regularly to get the best sound possible. </p>
 
 
 
-<p>In this article, we&#8217;ll explore the importance of tuning musical instruments and give you some tips for making sure your instrument is always in tune while introducing you to Google&#8217;s new tools that meet just that need!</p>
+<p>In this article, we’ll explore the importance of tuning musical instruments and give you some tips for making sure your instrument is always in tune while introducing you to Google’s new tools that meet just that need!</p>
 
 
 
@@ -70,7 +70,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>With the advent of new technologies, many tools have emerged to make musicians&#8217; lives easier. Among these innovations, the Google instrument tuner quickly gained popularity. Indeed, this online tool offers a practical and accessible solution for tuning your musical instruments. Simple and effective use</p>
+<p>With the advent of new technologies, many tools have emerged to make musicians’ lives easier. Among these innovations, the Google instrument tuner quickly gained popularity. Indeed, this online tool offers a practical and accessible solution for tuning your musical instruments. Simple and effective use</p>
 
 
 
@@ -78,7 +78,7 @@ categories: ["technology-and-digital-en"]
 
 
 
-<p>Once the instrument is selected, the Google tuner displays a user-friendly interface with a graph that indicates whether the string is too high or too low. The user simply plays the instrument&#8217;s string and adjusts its tension until the graph indicates perfect tuning. Google Instrument Tuner can be used to tune many instruments such as guitar, piano, violin, and many more.</p>
+<p>Once the instrument is selected, the Google tuner displays a user-friendly interface with a graph that indicates whether the string is too high or too low. The user simply plays the instrument’s string and adjusts its tension until the graph indicates perfect tuning. Google Instrument Tuner can be used to tune many instruments such as guitar, piano, violin, and many more.</p>
 
 
 

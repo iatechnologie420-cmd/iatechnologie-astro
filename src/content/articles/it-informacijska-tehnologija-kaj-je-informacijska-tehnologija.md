@@ -2,7 +2,7 @@
 lang: "sl"
 title: "IT/Informacijska tehnologija: kaj je informacijska tehnologija?"
 slug: "it-informacijska-tehnologija-kaj-je-informacijska-tehnologija"
-excerpt: "Razumevanje IT: Definicija in razvoj informacijskih tehnologij Kaj je to? Izraz IT, Za Informacijska tehnologija v angleščini označuje vse tehnologije, povezane z obdelavo in upravljanjem informacije in podatkov. To obsežno področje tako vključuje računalništvo, telekomunikacije, sistemi za upravljanje baz podatkov, informacijska varnost in še veliko več. IT je bistvenega pomena v sodobnem svetu: podjetjem omogoča [&hellip;]"
+excerpt: "Razumevanje IT: Definicija in razvoj informacijskih tehnologij Kaj je to? Izraz IT, Za Informacijska tehnologija v angleščini označuje vse tehnologije, povezane z obdelavo in upravljanjem informacije in podatkov. To obsežno področje tako vključuje računalništvo, telekomunikacije, sistemi za upravljanje baz podatkov, informacijska varnost in še veliko več. IT je bistvenega pomena v sodobnem svetu: podjetjem omogoča […]"
 date: "2024-03-09T12:23:06"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastruktura-in-omrezja-sl", "tehnologija-in-digital-sl"]
@@ -10,7 +10,7 @@ categories: ["infrastruktura-in-omrezja-sl", "tehnologija-in-digital-sl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infrastruktura-in-omrezja-sl", "tehnologija-in-digital-sl"]
 
 
 
-<p>    Trenutno več glavnih trendov spreminja IT. L&#8217;<strong>umetna inteligenca</strong> in strojno učenje (<em>strojno učenje</em>) so postali ključni elementi pri razvoju bolj inteligentnih in avtonomnih rešitev. THE <strong>računalništvo v oblaku</strong> še naprej postaja vse bolj priljubljena, saj zagotavlja prilagodljivost in obseg, ki ju doslej še ni bilo v storitvah IT. </p>
+<p>    Trenutno več glavnih trendov spreminja IT. L’<strong>umetna inteligenca</strong> in strojno učenje (<em>strojno učenje</em>) so postali ključni elementi pri razvoju bolj inteligentnih in avtonomnih rešitev. THE <strong>računalništvo v oblaku</strong> še naprej postaja vse bolj priljubljena, saj zagotavlja prilagodljivost in obseg, ki ju doslej še ni bilo v storitvah IT. </p>
 
 
 

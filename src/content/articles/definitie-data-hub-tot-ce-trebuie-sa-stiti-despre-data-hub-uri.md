@@ -2,7 +2,7 @@
 lang: "ro"
 title: "Definiție Data Hub: tot ce trebuie să știți despre data hub-uri"
 slug: "definitie-data-hub-tot-ce-trebuie-sa-stiti-despre-data-hub-uri"
-excerpt: "Înțelegeți elementele fundamentale În era Big Data și transformarea digitală, companiile trebuie să fie capabile să își exploateze în mod eficient datele. THE Hub de date, sau „centrul de date”, este un răspuns arhitectural la această nevoie tot mai mare de gestionare, partajare și analiză a datelor. În acest articol, vom detalia elementele fundamentale ale [&hellip;]"
+excerpt: "Înțelegeți elementele fundamentale În era Big Data și transformarea digitală, companiile trebuie să fie capabile să își exploateze în mod eficient datele. THE Hub de date, sau „centrul de date”, este un răspuns arhitectural la această nevoie tot mai mare de gestionare, partajare și analiză a datelor. În acest articol, vom detalia elementele fundamentale ale […]"
 date: "2024-03-09T11:55:39"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
 categories: ["calculatoare-si-date-ro", "tehnologie-si-digital-ro"]

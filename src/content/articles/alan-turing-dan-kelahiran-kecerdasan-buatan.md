@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Alan Turing dan kelahiran kecerdasan buatan"
 slug: "alan-turing-dan-kelahiran-kecerdasan-buatan"
-excerpt: "Alan Turing: Bapa Pengasas Kepintaran Buatan Alan Turing: Bapa Pengasas Kepintaran BuatanSejarah kecerdasan buatan (AI) tidak dapat diceritakan sepenuhnya tanpa menyebut nama Alan Turing, yang dianggap ramai sebagai bapa pengasas bidang ini yang kini merevolusikan begitu banyak aspek kehidupan seharian kita. Sumbangannya melangkaui ciptaan mudah; ia berdasarkan konsep dan teori yang masih membentuk asas di [&hellip;]"
+excerpt: "Alan Turing: Bapa Pengasas Kepintaran Buatan Alan Turing: Bapa Pengasas Kepintaran BuatanSejarah kecerdasan buatan (AI) tidak dapat diceritakan sepenuhnya tanpa menyebut nama Alan Turing, yang dianggap ramai sebagai bapa pengasas bidang ini yang kini merevolusikan begitu banyak aspek kehidupan seharian kita. Sumbangannya melangkaui ciptaan mudah; ia berdasarkan konsep dan teori yang masih membentuk asas di […]"
 date: "2024-03-09T12:54:25"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["latihan-dan-asas-ai-ms"]
@@ -10,7 +10,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Video Alan Turing: Bapa AI</figcaption></figure>
 
 
@@ -32,7 +32,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>Alan Turing adalah seorang ahli matematik British yang kerjanya mempunyai kesan yang menentukan ke atas pembangunan pengkomputeran dan kecerdasan buatan. Semasa Perang Dunia Kedua, komitmennya untuk mentafsir kod Nazi, terutamanya dengan mesinnya yang dipanggil the <strong>Bom</strong>, banyak menyumbang kepada kemenangan pihak Berikat. Walau bagaimanapun, selepas konflik dunia penyelidikannya mengambil dimensi yang benar-benar revolusioner dengan penulisan artikel terkenalnya &#8220;Jentera Pengkomputeran dan Perisikan&#8221; pada tahun 1950.</p>
+<p>Alan Turing adalah seorang ahli matematik British yang kerjanya mempunyai kesan yang menentukan ke atas pembangunan pengkomputeran dan kecerdasan buatan. Semasa Perang Dunia Kedua, komitmennya untuk mentafsir kod Nazi, terutamanya dengan mesinnya yang dipanggil the <strong>Bom</strong>, banyak menyumbang kepada kemenangan pihak Berikat. Walau bagaimanapun, selepas konflik dunia penyelidikannya mengambil dimensi yang benar-benar revolusioner dengan penulisan artikel terkenalnya “Jentera Pengkomputeran dan Perisikan” pada tahun 1950.</p>
 
 
 
@@ -180,7 +180,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>Dalam eseinya pada tahun 1950, &#8220;Jentera Pengkomputeran dan Perisikan,&#8221; Alan Turing mempersoalkan kemungkinan mesin berfikir. Dia mencadangkan ujian Turing yang terkenal, eksperimen pemikiran yang bertujuan untuk menentukan sama ada mesin boleh mempamerkan tingkah laku pintar yang tidak dapat dibezakan daripada manusia.</p>
+<p>Dalam eseinya pada tahun 1950, “Jentera Pengkomputeran dan Perisikan,” Alan Turing mempersoalkan kemungkinan mesin berfikir. Dia mencadangkan ujian Turing yang terkenal, eksperimen pemikiran yang bertujuan untuk menentukan sama ada mesin boleh mempamerkan tingkah laku pintar yang tidak dapat dibezakan daripada manusia.</p>
 
 
 
@@ -192,7 +192,7 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>&#8211; Penyahsulitan kod Enigma<br>&#8211; Reka bentuk Bom Kriptanalitik<br>&#8211; Formulasi mesin Turing<br>&#8211; Fikirkan tentang konsep ujian Turing<br>&#8211; Buka laluan kepada penyelidikan dalam kecerdasan buatan</p>
+<p>– Penyahsulitan kod Enigma<br>– Reka bentuk Bom Kriptanalitik<br>– Formulasi mesin Turing<br>– Fikirkan tentang konsep ujian Turing<br>– Buka laluan kepada penyelidikan dalam kecerdasan buatan</p>
 
 
 
@@ -212,6 +212,6 @@ categories: ["latihan-dan-asas-ai-ms"]
 
 
 
-<p>Kemunculan teknologi AI memberi impak yang ketara kepada masyarakat kita, daripada sistem pengesyoran pada platform penstriman kepada pembantu maya seperti Siri Apple atau Alexa Amazon atau lebih baru-baru ini OpenAi&#8217;s ChatGPT</p>
+<p>Kemunculan teknologi AI memberi impak yang ketara kepada masyarakat kita, daripada sistem pengesyoran pada platform penstriman kepada pembantu maya seperti Siri Apple atau Alexa Amazon atau lebih baru-baru ini OpenAi’s ChatGPT</p>
 
 

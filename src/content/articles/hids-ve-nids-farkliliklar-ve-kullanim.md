@@ -2,7 +2,7 @@
 lang: "tr"
 title: "HIDS ve NIDS: Farklılıklar ve Kullanım"
 slug: "hids-ve-nids-farkliliklar-ve-kullanim"
-excerpt: "Saldırı Tespit Sistemlerine Giriş: HIDS ve NIDS Bilgi sistemi güvenliği her büyüklükteki işletme ve kuruluş için merkezi bir konudur. Büyüyen tehditlerle ve siber saldırıların karmaşıklığıyla karşı karşıya kalındığında, etkili savunma mekanizmalarının devreye sokulması zorunludur. Bunlar arasında, Saldırı Tespit Sistemleri (Kimlikler) bilgisayar ağlarının izlenmesinde ve şüpheli etkinliklerin tespitinde çok önemli bir rol oynar. Özellikle, ana bilgisayar [&hellip;]"
+excerpt: "Saldırı Tespit Sistemlerine Giriş: HIDS ve NIDS Bilgi sistemi güvenliği her büyüklükteki işletme ve kuruluş için merkezi bir konudur. Büyüyen tehditlerle ve siber saldırıların karmaşıklığıyla karşı karşıya kalındığında, etkili savunma mekanizmalarının devreye sokulması zorunludur. Bunlar arasında, Saldırı Tespit Sistemleri (Kimlikler) bilgisayar ağlarının izlenmesinde ve şüpheli etkinliklerin tespitinde çok önemli bir rol oynar. Özellikle, ana bilgisayar […]"
 date: "2024-03-09T11:59:16"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/HIDS-vs-NIDS-differences-et-utilisation-3.png"
 categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
@@ -19,7 +19,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#Saldiri_Tespit_Sistemlerine_Giris_HIDS_ve_NIDS" >Saldırı Tespit Sistemlerine Giriş: HIDS ve NIDS</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_Ana_Bilgisayar_Tabanli_Saldiri_Tespit_Sistemi_nedir" >HIDS (Ana Bilgisayar Tabanlı Saldırı Tespit Sistemi) nedir?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDS_Ag_Tabanli_Saldiri_Tespit_Sistemi_nedir" >NIDS (Ağ Tabanlı Saldırı Tespit Sistemi) nedir?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_ve_NIDS_arasindaki_karsilastirma" >HIDS ve NIDS arasındaki karşılaştırma</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDSi_Anlamak_Ozellikleri_ve_Faydalari" >HIDS&#8217;i Anlamak: Özellikleri ve Faydaları</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#Bir_HIDSin_ozellikleri" >Bir HIDS&#8217;in özellikleri</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDSin_Avantajlari" >HIDS&#8217;in Avantajları</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-8" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDS_Aciklamasi_Nasil_Calisir_ve_Faydalari" >NIDS Açıklaması: Nasıl Çalışır ve Faydaları</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDS_nasil_calisir" >NIDS nasıl çalışır?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-10" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDSin_faydalari" >NIDS&#8217;in faydaları</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDS_Seciminde_Dikkat_Edilecek_Hususlar" >NIDS Seçiminde Dikkat Edilecek Hususlar</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_ve_NIDS_arasinda_secim_yapma_Karar_kriterleri_ve_kullanim_baglamlari" >HIDS ve NIDS arasında seçim yapma: Karar kriterleri ve kullanım bağlamları</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_ve_NIDS_arasinda_secim_yapmak_icin_karar_kriterleri" >HIDS ve NIDS arasında seçim yapmak için karar kriterleri</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_ve_NIDSin_kullanim_baglamlari" >HIDS ve NIDS&#8217;in kullanım bağlamları</a></li></ul></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#Saldiri_Tespit_Sistemlerine_Giris_HIDS_ve_NIDS" >Saldırı Tespit Sistemlerine Giriş: HIDS ve NIDS</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_Ana_Bilgisayar_Tabanli_Saldiri_Tespit_Sistemi_nedir" >HIDS (Ana Bilgisayar Tabanlı Saldırı Tespit Sistemi) nedir?</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDS_Ag_Tabanli_Saldiri_Tespit_Sistemi_nedir" >NIDS (Ağ Tabanlı Saldırı Tespit Sistemi) nedir?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_ve_NIDS_arasindaki_karsilastirma" >HIDS ve NIDS arasındaki karşılaştırma</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDSi_Anlamak_Ozellikleri_ve_Faydalari" >HIDS’i Anlamak: Özellikleri ve Faydaları</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#Bir_HIDSin_ozellikleri" >Bir HIDS’in özellikleri</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDSin_Avantajlari" >HIDS’in Avantajları</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-8" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDS_Aciklamasi_Nasil_Calisir_ve_Faydalari" >NIDS Açıklaması: Nasıl Çalışır ve Faydaları</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDS_nasil_calisir" >NIDS nasıl çalışır?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-10" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDSin_faydalari" >NIDS’in faydaları</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#NIDS_Seciminde_Dikkat_Edilecek_Hususlar" >NIDS Seçiminde Dikkat Edilecek Hususlar</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-12" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_ve_NIDS_arasinda_secim_yapma_Karar_kriterleri_ve_kullanim_baglamlari" >HIDS ve NIDS arasında seçim yapma: Karar kriterleri ve kullanım bağlamları</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_ve_NIDS_arasinda_secim_yapmak_icin_karar_kriterleri" >HIDS ve NIDS arasında seçim yapmak için karar kriterleri</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="/tr/hids-ve-nids-farkliliklar-ve-kullanim/#HIDS_ve_NIDSin_kullanim_baglamlari" >HIDS ve NIDS’in kullanım bağlamları</a></li></ul></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="Saldiri_Tespit_Sistemlerine_Giris_HIDS_ve_NIDS"></span>Saldırı Tespit Sistemlerine Giriş: HIDS ve NIDS<span class="ez-toc-section-end"></span></h2>
 
 
@@ -52,7 +52,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<figure class="wp-block-table"><table><thead><tr><th>Kriterler</th><th>GİZLİLER</th><th>YUVALAR</th></tr></thead><tbody><tr><td>Konumlandırma</td><td>Bireysel ana bilgisayarlara yüklenir</td><td>Ağ altyapısında uygulanır</td></tr><tr><td>İşleyiş</td><td>Yerel dosyaları ve süreçleri izler</td><td>Ağ trafiğini izler</td></tr><tr><td>Tespit edilen saldırı türleri</td><td>Dosya değişiklikleri, rootkit&#8217;ler vb.</td><td>Bağlantı noktası taramaları, DDoS vb.</td></tr><tr><td>Kapsam</td><td>Ana makineyle sınırlı</td><td>Tüm ağa genişletildi</td></tr><tr><td>Verim</td><td>Ana bilgisayar yükünden etkilenebilir</td><td>Ağ trafiği hacmine bağlıdır</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th>Kriterler</th><th>GİZLİLER</th><th>YUVALAR</th></tr></thead><tbody><tr><td>Konumlandırma</td><td>Bireysel ana bilgisayarlara yüklenir</td><td>Ağ altyapısında uygulanır</td></tr><tr><td>İşleyiş</td><td>Yerel dosyaları ve süreçleri izler</td><td>Ağ trafiğini izler</td></tr><tr><td>Tespit edilen saldırı türleri</td><td>Dosya değişiklikleri, rootkit’ler vb.</td><td>Bağlantı noktası taramaları, DDoS vb.</td></tr><tr><td>Kapsam</td><td>Ana makineyle sınırlı</td><td>Tüm ağa genişletildi</td></tr><tr><td>Verim</td><td>Ana bilgisayar yükünden etkilenebilir</td><td>Ağ trafiği hacmine bağlıdır</td></tr></tbody></table></figure>
 
 
 
@@ -60,11 +60,11 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<p>HIDS ve NIDS&#8217;in uygulanması, siber tehditlere karşı mücadelede proaktif bir stratejiyi temsil etmektedir. Her kuruluş, bu temel izinsiz giriş tespit sistemlerini entegre ederek en uygun güvenlik altyapısını oluşturmak için kendi özel ihtiyaçlarını değerlendirmelidir. Dikkatli kalarak ve kendinizi doğru araçlarla donatarak dijital kaynakları izinsiz girişlere karşı önemli ölçüde korumak mümkündür.</p>
+<p>HIDS ve NIDS’in uygulanması, siber tehditlere karşı mücadelede proaktif bir stratejiyi temsil etmektedir. Her kuruluş, bu temel izinsiz giriş tespit sistemlerini entegre ederek en uygun güvenlik altyapısını oluşturmak için kendi özel ihtiyaçlarını değerlendirmelidir. Dikkatli kalarak ve kendinizi doğru araçlarla donatarak dijital kaynakları izinsiz girişlere karşı önemli ölçüde korumak mümkündür.</p>
 
 
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="HIDSi_Anlamak_Ozellikleri_ve_Faydalari"></span>HIDS&#8217;i Anlamak: Özellikleri ve Faydaları<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="HIDSi_Anlamak_Ozellikleri_ve_Faydalari"></span>HIDS’i Anlamak: Özellikleri ve Faydaları<span class="ez-toc-section-end"></span></h2>
 
 
 
@@ -72,19 +72,19 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="Bir_HIDSin_ozellikleri"></span>Bir HIDS&#8217;in özellikleri<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="Bir_HIDSin_ozellikleri"></span>Bir HIDS’in özellikleri<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>        THE <strong>özellikler</strong> HIDS&#8217;in temel özellikleri arasında yapılandırma ve dosya denetimi, dosya bütünlüğü izleme, kötü amaçlı davranış kalıbı tanıma ve günlük yönetimi yer alır. HIDS sistemleri ayrıca şüpheli etkinlik tespit edildiğinde bağlantıları kapatarak veya erişim haklarını değiştirerek proaktif davranabilir. HIDS, daha kapsamlı BT güvenliği kapsamı için NIDS&#8217;e ek olarak sıklıkla kullanılır.</p>
+<p>        THE <strong>özellikler</strong> HIDS’in temel özellikleri arasında yapılandırma ve dosya denetimi, dosya bütünlüğü izleme, kötü amaçlı davranış kalıbı tanıma ve günlük yönetimi yer alır. HIDS sistemleri ayrıca şüpheli etkinlik tespit edildiğinde bağlantıları kapatarak veya erişim haklarını değiştirerek proaktif davranabilir. HIDS, daha kapsamlı BT güvenliği kapsamı için NIDS’e ek olarak sıklıkla kullanılır.</p>
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDSin_Avantajlari"></span>HIDS&#8217;in Avantajları<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDSin_Avantajlari"></span>HIDS’in Avantajları<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>        HIDS kullanımı çeşitli avantajlar sunar <strong>faydalar</strong>. İlk olarak, ana bilgisayar sistemlerinin hassas bir şekilde izlenmesi, bir NIDS tarafından gözden kaçırılmış olabilecek izinsiz girişlerin ayrıntılı bir şekilde tespit edilmesine olanak tanır. Kritik sistem dosyalarındaki yasa dışı değişiklikleri ve yerel istismar girişimlerini tespit etmede özellikle etkilidirler. Diğer bir avantaj ise HIDS&#8217;in, ağ trafiği şifrelendiğinde bile etkinliğini korumasıdır; bu, NIDS&#8217;de her zaman geçerli değildir. Ayrıca HIDS, geçerli güvenlik politikaları ve düzenlemelerine uygunluğun sağlanmasına yardımcı olabilir.</p>
+<p>        HIDS kullanımı çeşitli avantajlar sunar <strong>faydalar</strong>. İlk olarak, ana bilgisayar sistemlerinin hassas bir şekilde izlenmesi, bir NIDS tarafından gözden kaçırılmış olabilecek izinsiz girişlerin ayrıntılı bir şekilde tespit edilmesine olanak tanır. Kritik sistem dosyalarındaki yasa dışı değişiklikleri ve yerel istismar girişimlerini tespit etmede özellikle etkilidirler. Diğer bir avantaj ise HIDS’in, ağ trafiği şifrelendiğinde bile etkinliğini korumasıdır; bu, NIDS’de her zaman geçerli değildir. Ayrıca HIDS, geçerli güvenlik politikaları ve düzenlemelerine uygunluğun sağlanmasına yardımcı olabilir.</p>
 
 
 
@@ -122,7 +122,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="NIDSin_faydalari"></span>NIDS&#8217;in faydaları<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="NIDSin_faydalari"></span>NIDS’in faydaları<span class="ez-toc-section-end"></span></h3>
 
 
 
@@ -161,7 +161,7 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 <ul class="wp-block-list">
-<li><strong>Ağ Uyumluluğu</strong> : NIDS&#8217;nin mevcut ağ altyapısıyla sorunsuz bir şekilde entegre olabildiğinden emin olun.</li>
+<li><strong>Ağ Uyumluluğu</strong> : NIDS’nin mevcut ağ altyapısıyla sorunsuz bir şekilde entegre olabildiğinden emin olun.</li>
 
 
 
@@ -211,12 +211,12 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<li><strong>Dağıtım karmaşıklığı</strong> : Bir HIDS&#8217;in kurulumu, daha özel ağ yapılandırması gerektiren bir NIDS&#8217;in kurulumundan daha az karmaşık olabilir.</li>
+<li><strong>Dağıtım karmaşıklığı</strong> : Bir HIDS’in kurulumu, daha özel ağ yapılandırması gerektiren bir NIDS’in kurulumundan daha az karmaşık olabilir.</li>
 </ul>
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDS_ve_NIDSin_kullanim_baglamlari"></span>HIDS ve NIDS&#8217;in kullanım bağlamları<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="HIDS_ve_NIDSin_kullanim_baglamlari"></span>HIDS ve NIDS’in kullanım bağlamları<span class="ez-toc-section-end"></span></h3>
 
 
 
@@ -229,11 +229,11 @@ categories: ["altyapi-ve-aglar-tr", "teknoloji-ve-dijital-tr"]
 
 
 
-<li>Büyük, heterojen ağlara sahip kuruluşlar, ağ etkinliklerinin küresel görünürlüğü için NIDS&#8217;yi tercih edebilir.</li>
+<li>Büyük, heterojen ağlara sahip kuruluşlar, ağ etkinliklerinin küresel görünürlüğü için NIDS’yi tercih edebilir.</li>
 
 
 
-<li>Sunucu performansının ve bütünlüğünün kritik olduğu veri merkezleri, HIDS&#8217;in sunucu bazında uygulanmasından yararlanabilir.</li>
+<li>Sunucu performansının ve bütünlüğünün kritik olduğu veri merkezleri, HIDS’in sunucu bazında uygulanmasından yararlanabilir.</li>
 </ul>
 
 

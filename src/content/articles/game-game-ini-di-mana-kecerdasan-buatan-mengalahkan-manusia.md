@@ -2,7 +2,7 @@
 lang: "id"
 title: "Game-game ini di mana kecerdasan buatan mengalahkan manusia"
 slug: "game-game-ini-di-mana-kecerdasan-buatan-mengalahkan-manusia"
-excerpt: "Awal mula superkomputer dan tantangan catur Era superkomputer bukan lagi sebuah visi futuristik, namun sebuah kenyataan nyata yang merevolusi berbagai sektor, termasuk permainan strategi seperti catur. Mesin dengan kekuatan komputasi yang fenomenal ini menawarkan tempat bermain yang ideal untuk menjelajahi batas-batas kecerdasan buatan dan menerima tantangan catur dengan mengajukan pertanyaan mendasar: Apa potensi superkomputer yang [&hellip;]"
+excerpt: "Awal mula superkomputer dan tantangan catur Era superkomputer bukan lagi sebuah visi futuristik, namun sebuah kenyataan nyata yang merevolusi berbagai sektor, termasuk permainan strategi seperti catur. Mesin dengan kekuatan komputasi yang fenomenal ini menawarkan tempat bermain yang ideal untuk menjelajahi batas-batas kecerdasan buatan dan menerima tantangan catur dengan mengajukan pertanyaan mendasar: Apa potensi superkomputer yang […]"
 date: "2024-03-09T12:38:11"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["pelatihan-dan-dasar-dasar-ai-id"]
@@ -118,7 +118,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>&#8211; Peningkatan lawan virtual: AI memungkinkan untuk menciptakan musuh non-manusia dengan kemampuan strategis tingkat lanjut dan mampu beradaptasi secara real time dengan tindakan pemain. <br>&#8211; Pembelajaran mendalam: sistem AI modern mengandalkan pembelajaran mesin, khususnya pembelajaran mendalam, untuk menganalisis jutaan game dan mendapatkan strategi optimal.<br>&#8211; Personalisasi pengalaman: AI dapat menyesuaikan kesulitan dan gaya bermain berdasarkan pemain, memberikan pengalaman yang disesuaikan.<br>&#8211; Pengembangan mekanisme permainan baru**: kecerdasan buatan memungkinkan pengenalan dinamika yang belum pernah ada sebelumnya, berkat kemampuannya mengelola sistem yang kompleks.</p>
+<p>– Peningkatan lawan virtual: AI memungkinkan untuk menciptakan musuh non-manusia dengan kemampuan strategis tingkat lanjut dan mampu beradaptasi secara real time dengan tindakan pemain. <br>– Pembelajaran mendalam: sistem AI modern mengandalkan pembelajaran mesin, khususnya pembelajaran mendalam, untuk menganalisis jutaan game dan mendapatkan strategi optimal.<br>– Personalisasi pengalaman: AI dapat menyesuaikan kesulitan dan gaya bermain berdasarkan pemain, memberikan pengalaman yang disesuaikan.<br>– Pengembangan mekanisme permainan baru**: kecerdasan buatan memungkinkan pengenalan dinamika yang belum pernah ada sebelumnya, berkat kemampuannya mengelola sistem yang kompleks.</p>
 
 
 
@@ -130,11 +130,11 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>&#8211; <strong>Pikiran Dalam</strong>AlphaGo: AI ini membuat sejarah dengan mengalahkan juara dunia Go Lee Sedol pada tahun 2016.</p>
+<p>– <strong>Pikiran Dalam</strong>AlphaGo: AI ini membuat sejarah dengan mengalahkan juara dunia Go Lee Sedol pada tahun 2016.</p>
 
 
 
-<p>&#8211; <strong>OpenAI</strong> Kelima: Dikembangkan oleh OpenAI, AI ini mengalahkan tim profesional dalam permainan strategi kompetitif Dota 2.</p>
+<p>– <strong>OpenAI</strong> Kelima: Dikembangkan oleh OpenAI, AI ini mengalahkan tim profesional dalam permainan strategi kompetitif Dota 2.</p>
 
 
 
@@ -170,7 +170,7 @@ categories: ["pelatihan-dan-dasar-dasar-ai-id"]
 
 
 
-<p>&#8211; Personalisasi dan adaptasi video game dengan pengalaman pengguna.<br>&#8211; Peningkatan game simulasi dengan AI yang mampu mereproduksi perilaku manusia yang realistis dalam strategi, diplomasi, atau ekonomi.<br>&#8211; Gunakan dalam Game Serius untuk aplikasi pendidikan, medis, dan pelatihan profesional.<br>&#8211; Kemajuan dalam e-sport di mana AI dapat digunakan untuk pelatihan, tetapi juga sebagai pesaing dan mitra permainan.<br>&#8211; Peningkatan penelitian akademis tentang pengambilan keputusan, strategi dan psikologi.</p>
+<p>– Personalisasi dan adaptasi video game dengan pengalaman pengguna.<br>– Peningkatan game simulasi dengan AI yang mampu mereproduksi perilaku manusia yang realistis dalam strategi, diplomasi, atau ekonomi.<br>– Gunakan dalam Game Serius untuk aplikasi pendidikan, medis, dan pelatihan profesional.<br>– Kemajuan dalam e-sport di mana AI dapat digunakan untuk pelatihan, tetapi juga sebagai pesaing dan mitra permainan.<br>– Peningkatan penelitian akademis tentang pengambilan keputusan, strategi dan psikologi.</p>
 
 
 

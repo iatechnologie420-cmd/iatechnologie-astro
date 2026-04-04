@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Co to jest centrum informacyjne IT? definicja i wyjaśnienie"
 slug: "co-to-jest-centrum-informacyjne-it-definicja-i-wyjasnienie"
-excerpt: "A centrum informacyjne komputerowe, zwany także Centrum Informacji, oznacza scentralizowany system przeznaczony do zarządzania danymi w organizacji. Jej celem jest gromadzenie, przechowywanie, porządkowanie i rozpowszechnianie informacji niezbędnych do działalności firmy. Jego funkcja jest niezbędna, aby umożliwić analitykom i decydentom wykorzystywanie danych w sposób efektywny i świadomy. W tym artykule omówimy różne komponenty i wartość dodaną [&hellip;]"
+excerpt: "A centrum informacyjne komputerowe, zwany także Centrum Informacji, oznacza scentralizowany system przeznaczony do zarządzania danymi w organizacji. Jej celem jest gromadzenie, przechowywanie, porządkowanie i rozpowszechnianie informacji niezbędnych do działalności firmy. Jego funkcja jest niezbędna, aby umożliwić analitykom i decydentom wykorzystywanie danych w sposób efektywny i świadomy. W tym artykule omówimy różne komponenty i wartość dodaną […]"
 date: "2024-03-09T12:26:07"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-infocentre-informatique-Definition-3.png"
 categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
@@ -10,7 +10,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Les métiers d&#039;avenir de l&#039;informatique à votre portée" width="500" height="281" src="https://www.youtube.com/embed/RxJltgMbuvo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Les métiers d'avenir de l'informatique à votre portée" width="500" height="281" src="https://www.youtube.com/embed/RxJltgMbuvo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -66,7 +66,7 @@ categories: ["obliczenia-i-dane-pl", "technologia-i-cyfrowosc-pl"]
 
 
 
-<p>L&#8217;<strong>architektura komputerowego centrum informacyjnego</strong> zazwyczaj składa się z kilku warstw, z których każda pełni określoną rolę:</p>
+<p>L’<strong>architektura komputerowego centrum informacyjnego</strong> zazwyczaj składa się z kilku warstw, z których każda pełni określoną rolę:</p>
 
 
 

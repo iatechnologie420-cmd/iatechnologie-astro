@@ -2,7 +2,7 @@
 lang: "id"
 title: "ChatGPT: bagaimana cara mengatasi kesalahan? Panduan lengkap"
 slug: "chatgpt-bagaimana-cara-mengatasi-kesalahan-panduan-lengkap"
-excerpt: "Pahami dan atasi kesalahan umum ChatGPT Kecerdasan buatan terus membuat kemajuan luar biasa dalam pengembangan dan perbaikan, namun masih jauh dari sempurna. Oleh karena itu, kita telah melihat terkadang terjadi kesalahan yang tidak dapat diterima CEO Google jangan gagal untuk mengenali. Baik dalam hal pemrosesan informasi, pembuatan konten atau bahkan ketika a hakim mengeluarkan hukuman [&hellip;]"
+excerpt: "Pahami dan atasi kesalahan umum ChatGPT Kecerdasan buatan terus membuat kemajuan luar biasa dalam pengembangan dan perbaikan, namun masih jauh dari sempurna. Oleh karena itu, kita telah melihat terkadang terjadi kesalahan yang tidak dapat diterima CEO Google jangan gagal untuk mengenali. Baik dalam hal pemrosesan informasi, pembuatan konten atau bahkan ketika a hakim mengeluarkan hukuman […]"
 date: "2024-03-09T11:50:10"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["aplikasi-ai-id"]
@@ -28,7 +28,7 @@ categories: ["aplikasi-ai-id"]
 
 
 
-<p>Di antara AI tersebut, <strong>ObrolanGPT</strong> &#8211; model pembuatan teks yang sangat populer &#8211; adalah korban dari kekurangannya sendiri. Kesalahan dari AI jenis ini pasti menyusup ke perangkat lunak komersial. Namun, bagaimana kita dapat mengatasi kesalahan umum ChatGPT ini dan mengoptimalkan penggunaannya? </p>
+<p>Di antara AI tersebut, <strong>ObrolanGPT</strong> – model pembuatan teks yang sangat populer – adalah korban dari kekurangannya sendiri. Kesalahan dari AI jenis ini pasti menyusup ke perangkat lunak komersial. Namun, bagaimana kita dapat mengatasi kesalahan umum ChatGPT ini dan mengoptimalkan penggunaannya? </p>
 
 
 
@@ -65,7 +65,7 @@ categories: ["aplikasi-ai-id"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original &#8211; OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original – OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 
@@ -102,7 +102,7 @@ categories: ["aplikasi-ai-id"]
 
 
 
-<p><strong>OpenAI melalui taman bermain</strong> menawarkan beberapa parameter yang dapat disesuaikan untuk mengatur perilakunya, seperti &#8220;suhu&#8221; dan &#8220;maksitoken&#8221;. Coba-coba pengaturan ini untuk melihat pengaruhnya terhadap respons AI. Misalnya, suhu yang lebih tinggi akan menghasilkan respons yang lebih acak, sedangkan suhu yang lebih rendah akan menghasilkan respons yang lebih seragam dan dapat diprediksi.</p>
+<p><strong>OpenAI melalui taman bermain</strong> menawarkan beberapa parameter yang dapat disesuaikan untuk mengatur perilakunya, seperti “suhu” dan “maksitoken”. Coba-coba pengaturan ini untuk melihat pengaruhnya terhadap respons AI. Misalnya, suhu yang lebih tinggi akan menghasilkan respons yang lebih acak, sedangkan suhu yang lebih rendah akan menghasilkan respons yang lebih seragam dan dapat diprediksi.</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Esses jogos onde a inteligência artificial venceu os humanos"
 slug: "esses-jogos-onde-a-inteligencia-artificial-venceu-os-humanos"
-excerpt: "O surgimento dos supercomputadores e o desafio do xadrez A era dos supercomputadores não é mais uma visão futurista distante, mas uma realidade tangível que está revolucionando vários setores, incluindo jogos de estratégia como o xadrez. Estas máquinas com um poder computacional fenomenal oferecem um playground ideal para explorar as fronteiras da inteligência artificial e [&hellip;]"
+excerpt: "O surgimento dos supercomputadores e o desafio do xadrez A era dos supercomputadores não é mais uma visão futurista distante, mas uma realidade tangível que está revolucionando vários setores, incluindo jogos de estratégia como o xadrez. Estas máquinas com um poder computacional fenomenal oferecem um playground ideal para explorar as fronteiras da inteligência artificial e […]"
 date: "2024-03-09T12:40:31"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Ces-jeux-ou-lintelligence-artificielle-a-battu-lhumain-3.png"
 categories: ["treinamento-e-fundamentos-de-ia-pt"]
@@ -118,7 +118,7 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<p>&#8211; Oponentes virtuais melhorados: a IA permite criar inimigos não humanos com capacidades estratégicas avançadas e capazes de se adaptar em tempo real às ações do jogador. <br>&#8211; Aprendizagem profunda: os sistemas modernos de IA baseiam-se na aprendizagem automática, especialmente na aprendizagem profunda, para analisar milhões de jogos e derivar estratégias ideais.<br>&#8211; Personalização da experiência: a IA pode ajustar a dificuldade e o estilo de jogo com base no jogador, proporcionando uma experiência personalizada.<br>&#8211; Desenvolvimento de novas mecânicas de jogo**: a inteligência artificial permite a introdução de dinâmicas nunca antes vistas, graças à sua capacidade de gerir sistemas complexos.</p>
+<p>– Oponentes virtuais melhorados: a IA permite criar inimigos não humanos com capacidades estratégicas avançadas e capazes de se adaptar em tempo real às ações do jogador. <br>– Aprendizagem profunda: os sistemas modernos de IA baseiam-se na aprendizagem automática, especialmente na aprendizagem profunda, para analisar milhões de jogos e derivar estratégias ideais.<br>– Personalização da experiência: a IA pode ajustar a dificuldade e o estilo de jogo com base no jogador, proporcionando uma experiência personalizada.<br>– Desenvolvimento de novas mecânicas de jogo**: a inteligência artificial permite a introdução de dinâmicas nunca antes vistas, graças à sua capacidade de gerir sistemas complexos.</p>
 
 
 
@@ -130,11 +130,11 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<p>&#8211; <strong>DeepMind</strong>AlphaGo de: esta IA fez história ao derrotar o campeão mundial de Go, Lee Sedol, em 2016.</p>
+<p>– <strong>DeepMind</strong>AlphaGo de: esta IA fez história ao derrotar o campeão mundial de Go, Lee Sedol, em 2016.</p>
 
 
 
-<p>&#8211; <strong>OpenAI</strong> Cinco: Desenvolvido pela OpenAI, esta IA venceu equipes profissionais no jogo de estratégia competitiva Dota 2.</p>
+<p>– <strong>OpenAI</strong> Cinco: Desenvolvido pela OpenAI, esta IA venceu equipes profissionais no jogo de estratégia competitiva Dota 2.</p>
 
 
 
@@ -170,7 +170,7 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<p>&#8211; Personalização e adaptação dos videojogos à experiência do utilizador.<br>&#8211; Aprimoramento de jogos de simulação com IA capazes de reproduzir comportamentos humanos realistas em estratégia, diplomacia ou economia.<br>&#8211; Utilização em Jogos Sérios para aplicações educacionais, médicas e de treinamento profissional.<br>&#8211; Avanços no e-sport onde as IAs poderiam ser utilizadas para treino, mas também como competidores e parceiros de jogo.<br>&#8211; Aumento da pesquisa acadêmica sobre tomada de decisão, estratégia e psicologia.</p>
+<p>– Personalização e adaptação dos videojogos à experiência do utilizador.<br>– Aprimoramento de jogos de simulação com IA capazes de reproduzir comportamentos humanos realistas em estratégia, diplomacia ou economia.<br>– Utilização em Jogos Sérios para aplicações educacionais, médicas e de treinamento profissional.<br>– Avanços no e-sport onde as IAs poderiam ser utilizadas para treino, mas também como competidores e parceiros de jogo.<br>– Aumento da pesquisa acadêmica sobre tomada de decisão, estratégia e psicologia.</p>
 
 
 

@@ -2,7 +2,7 @@
 lang: "id"
 title: "Bagaimana Cara Menemukan Koordinat GPS (Lintang dan Bujur) di Google Maps?"
 slug: "bagaimana-cara-menemukan-koordinat-gps-lintang-dan-bujur-di-google-maps"
-excerpt: "ITU GPS (Global Positioning System) adalah teknologi yang menjadi penting dalam kehidupan kita sehari-hari. Menggunakan sinyal yang ditransmisikan oleh satelit, itu sistem GPS memungkinkan kita menentukan posisi kita secara akurat dalam bentuk koordinat geografis. Koordinat ini diwakili oleh dua elemen kunci: the Garis Lintang dan itu garis bujur. Pada artikel ini, kita akan menjelajahi dunia [&hellip;]"
+excerpt: "ITU GPS (Global Positioning System) adalah teknologi yang menjadi penting dalam kehidupan kita sehari-hari. Menggunakan sinyal yang ditransmisikan oleh satelit, itu sistem GPS memungkinkan kita menentukan posisi kita secara akurat dalam bentuk koordinat geografis. Koordinat ini diwakili oleh dua elemen kunci: the Garis Lintang dan itu garis bujur. Pada artikel ini, kita akan menjelajahi dunia […]"
 date: "2024-03-09T12:02:53"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-Trouver-les-Coordonnees-GPS-Latitude-et-Longitude-sur-Google-Maps-1-3.png"
 categories: ["teknologi-dan-digital-id"]
@@ -65,7 +65,7 @@ categories: ["teknologi-dan-digital-id"]
 
 
 
-<li>Di menu yang muncul, klik &#8220;Berapa koordinatnya?&#8221; atau Anda akan langsung melihat koordinat yang ditampilkan dalam popup kecil.</li>
+<li>Di menu yang muncul, klik “Berapa koordinatnya?” atau Anda akan langsung melihat koordinat yang ditampilkan dalam popup kecil.</li>
 
 
 
@@ -78,7 +78,7 @@ categories: ["teknologi-dan-digital-id"]
 
 
 
-<p>Untuk lebih presisi lagi, setelah mengklik kanan pada lokasi yang diinginkan, Anda dapat mempersempit pilihan dengan menggerakkan penunjuk sedikit sebelum memilih &#8220;Info lebih lanjut tentang lokasi ini&#8221;. Hal ini berguna saat mencari koordinat lokasi yang sangat spesifik, misalnya pintu masuk gedung atau tempat wisata alam.</p>
+<p>Untuk lebih presisi lagi, setelah mengklik kanan pada lokasi yang diinginkan, Anda dapat mempersempit pilihan dengan menggerakkan penunjuk sedikit sebelum memilih “Info lebih lanjut tentang lokasi ini”. Hal ini berguna saat mencari koordinat lokasi yang sangat spesifik, misalnya pintu masuk gedung atau tempat wisata alam.</p>
 
 
 
@@ -151,7 +151,7 @@ categories: ["teknologi-dan-digital-id"]
 
 
 
-<li>Untuk menyematkan lokasi, klik ikon pin di samping rincian kontak untuk menambahkannya ke &#8220;Tempat Anda&#8221; agar mudah diakses nanti.</li>
+<li>Untuk menyematkan lokasi, klik ikon pin di samping rincian kontak untuk menambahkannya ke “Tempat Anda” agar mudah diakses nanti.</li>
 </ol>
 
 

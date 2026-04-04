@@ -2,7 +2,7 @@
 lang: "nl"
 title: "Technologische innovatie: waar staan ​​we vandaag?"
 slug: "technologische-innovatie-waar-staan-we-vandaag"
-excerpt: "Recente technologische vooruitgang Recente technologische vooruitgang Recente technologische ontwikkelingen hebben de manier waarop we leven, werken en communiceren radicaal veranderd. Er ontstaan ​​regelmatig nieuwe technologieën, die onze samenleving naar een steeds meer verbonden en innovatieve toekomst stuwen. In dit artikel zullen we enkele van de meest recente baanbrekende technologische ontwikkelingen op verschillende gebieden onderzoeken. 1. [&hellip;]"
+excerpt: "Recente technologische vooruitgang Recente technologische vooruitgang Recente technologische ontwikkelingen hebben de manier waarop we leven, werken en communiceren radicaal veranderd. Er ontstaan ​​regelmatig nieuwe technologieën, die onze samenleving naar een steeds meer verbonden en innovatieve toekomst stuwen. In dit artikel zullen we enkele van de meest recente baanbrekende technologische ontwikkelingen op verschillende gebieden onderzoeken. 1. […]"
 date: "2024-03-09T12:44:47"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["technologie-en-digitaal-nl"]
@@ -54,7 +54,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<p>Autonome voertuigen, ook wel zelfrijdende auto’s genoemd, zorgen voor een revolutie in de transportsector. Bedrijven vinden het leuk <strong>Je bent hier</strong>, <strong>Waymo</strong> En <strong>Uber</strong> ontwikkelen autonome auto&#8217;s die kunnen bewegen zonder menselijke tussenkomst. Deze voertuigen beloven het aantal verkeersongevallen te verminderen, het reizen te vergemakkelijken en de stedelijke congestie te verminderen.</p>
+<p>Autonome voertuigen, ook wel zelfrijdende auto’s genoemd, zorgen voor een revolutie in de transportsector. Bedrijven vinden het leuk <strong>Je bent hier</strong>, <strong>Waymo</strong> En <strong>Uber</strong> ontwikkelen autonome auto’s die kunnen bewegen zonder menselijke tussenkomst. Deze voertuigen beloven het aantal verkeersongevallen te verminderen, het reizen te vergemakkelijken en de stedelijke congestie te verminderen.</p>
 
 
 
@@ -166,7 +166,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<p>3. Ongelijkheid op het gebied van toegang: Technologische innovatie kan de ongelijkheid tussen individuen en regio&#8217;s accentueren. In sommige delen van de wereld is de toegang tot snel internet of geavanceerde technologieën beperkt, waardoor er een digitale kloof ontstaat. Het is van essentieel belang ervoor te zorgen dat alle mensen kunnen profiteren van de technologische vooruitgang.</p>
+<p>3. Ongelijkheid op het gebied van toegang: Technologische innovatie kan de ongelijkheid tussen individuen en regio’s accentueren. In sommige delen van de wereld is de toegang tot snel internet of geavanceerde technologieën beperkt, waardoor er een digitale kloof ontstaat. Het is van essentieel belang ervoor te zorgen dat alle mensen kunnen profiteren van de technologische vooruitgang.</p>
 
 
 
@@ -218,7 +218,7 @@ categories: ["technologie-en-digitaal-nl"]
 
 
 
-<p>Tablets, laptops en educatieve software zorgen voor boeiendere en interactievere leerervaringen. Bovendien bieden online cursussen en programma&#8217;s voor afstandsonderwijs studenten toegang tot leermogelijkheden over geografische en temporele grenzen heen.</p>
+<p>Tablets, laptops en educatieve software zorgen voor boeiendere en interactievere leerervaringen. Bovendien bieden online cursussen en programma’s voor afstandsonderwijs studenten toegang tot leermogelijkheden over geografische en temporele grenzen heen.</p>
 
 
 

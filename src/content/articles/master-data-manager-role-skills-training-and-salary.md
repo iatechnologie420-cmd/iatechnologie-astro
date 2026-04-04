@@ -2,7 +2,7 @@
 lang: "en"
 title: "Master Data Manager: role, skills, training and salary"
 slug: "master-data-manager-role-skills-training-and-salary"
-excerpt: "The key role of the Master Data Manager in data governance In a world where data has become a major strategic asset for businesses, data governance is essential to ensure the quality, security and effectiveness of information. At the heart of this governance, the Master Data Manager (MDM) plays a crucial role. Let’s explore together [&hellip;]"
+excerpt: "The key role of the Master Data Manager in data governance In a world where data has become a major strategic asset for businesses, data governance is essential to ensure the quality, security and effectiveness of information. At the heart of this governance, the Master Data Manager (MDM) plays a crucial role. Let’s explore together […]"
 date: "2024-03-09T12:15:18"
 categories: ["computing-and-data-en", "technology-and-digital-en"]
 ---
@@ -39,7 +39,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>The Master Data Manager is the cornerstone of good master data management. Its main role is to ensure that master data is constantly up to date, accurate and available to the company&#8217;s various stakeholders. To do this, he works closely with IT teams and business lines to define the rules, standards and processes that will govern this data.</p>
+<p>The Master Data Manager is the cornerstone of good master data management. Its main role is to ensure that master data is constantly up to date, accurate and available to the company’s various stakeholders. To do this, he works closely with IT teams and business lines to define the rules, standards and processes that will govern this data.</p>
 
 
 
@@ -85,7 +85,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>The contribution of the Master Data Manager to the company&#8217;s performance is significant:</p>
+<p>The contribution of the Master Data Manager to the company’s performance is significant:</p>
 
 
 
@@ -111,11 +111,11 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 
-<p>The Master Data Manager must constantly face new challenges, linked in particular to technological developments such as <strong>big data</strong>, L&#8217;<strong>artificial intelligence</strong> and the <strong>cloud computing</strong>. This means staying at the forefront of technical knowledge and market trends to continue to ensure effective data governance.</p>
+<p>The Master Data Manager must constantly face new challenges, linked in particular to technological developments such as <strong>big data</strong>, L’<strong>artificial intelligence</strong> and the <strong>cloud computing</strong>. This means staying at the forefront of technical knowledge and market trends to continue to ensure effective data governance.</p>
 
 
 
-<p>The position of Master Data Manager is therefore essential for <strong>ensure robust data governance</strong> within companies. As a guarantor of the quality and integrity of master data, MDM has a direct impact on the success and performance of the company. The challenges are many, but the importance and added value of this role continues to grow in today&#8217;s data-centric business environment.</p>
+<p>The position of Master Data Manager is therefore essential for <strong>ensure robust data governance</strong> within companies. As a guarantor of the quality and integrity of master data, MDM has a direct impact on the success and performance of the company. The challenges are many, but the importance and added value of this role continues to grow in today’s data-centric business environment.</p>
 
 
 
@@ -204,7 +204,7 @@ categories: ["computing-and-data-en", "technology-and-digital-en"]
 
 
 <ul class="wp-block-list">
-<li>Bachelor&#8217;s degree in computer science or data management</li>
+<li>Bachelor’s degree in computer science or data management</li>
 
 
 

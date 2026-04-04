@@ -2,7 +2,7 @@
 lang: "es"
 title: "¿Cómo agregar música a tus notas en Instagram?"
 slug: "como-agregar-musica-a-tus-notas-en-instagram"
-excerpt: "Usa funciones de música en Instagram Instagram se ha convertido en una plataforma imprescindible para compartir momentos, imágenes y vídeos de la vida. Para que tus publicaciones sean aún más atractivas, puedes integrar música en tu contenido. En este artículo, exploraremos las diferentes funciones de música de Instagram y cómo usarlas para crear publicaciones originales [&hellip;]"
+excerpt: "Usa funciones de música en Instagram Instagram se ha convertido en una plataforma imprescindible para compartir momentos, imágenes y vídeos de la vida. Para que tus publicaciones sean aún más atractivas, puedes integrar música en tu contenido. En este artículo, exploraremos las diferentes funciones de música de Instagram y cómo usarlas para crear publicaciones originales […]"
 date: "2024-03-09T12:24:52"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-ajouter-de-la-musique-a-vos-notes-sur-Instagram-.png"
 categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
@@ -38,7 +38,7 @@ categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
 
 
 
-<p>1. Abre la aplicación Instagram y toca el ícono de la cámara en la parte superior izquierda de tu pantalla.<br>2. Tome una foto o grabe un video tocando el botón circular en la parte inferior de la pantalla.<br>3. Una vez que haya guardado su contenido, puede tocar la etiqueta de la cara sonriente en la parte superior de la pantalla.<br>4. Seleccione la opción &#8220;Música&#8221; en el menú desplegable.<br>5. Busque la canción que desea agregar usando el motor de búsqueda integrado.<br>6. Elija una muestra de la canción ajustando el tiempo de reproducción.<br>7. Personaliza la apariencia de la pegatina musical eligiendo el tamaño y la ubicación.<br>8. Toca &#8220;Listo&#8221; para agregar la música a tu Historia.</p>
+<p>1. Abre la aplicación Instagram y toca el ícono de la cámara en la parte superior izquierda de tu pantalla.<br>2. Tome una foto o grabe un video tocando el botón circular en la parte inferior de la pantalla.<br>3. Una vez que haya guardado su contenido, puede tocar la etiqueta de la cara sonriente en la parte superior de la pantalla.<br>4. Seleccione la opción “Música” en el menú desplegable.<br>5. Busque la canción que desea agregar usando el motor de búsqueda integrado.<br>6. Elija una muestra de la canción ajustando el tiempo de reproducción.<br>7. Personaliza la apariencia de la pegatina musical eligiendo el tamaño y la ubicación.<br>8. Toca “Listo” para agregar la música a tu Historia.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
 
 
 
-<p>1. Abra la aplicación Instagram y toque el ícono &#8220;+&#8221; en la parte inferior de la pantalla para crear una nueva publicación.<br>2. Selecciona la imagen o video que deseas compartir desde tu galería o tomando una nueva foto/video.<br>3. En la pantalla de edición posterior, toque el ícono de nota musical en la parte superior de la pantalla.<br>4. Busque la canción que desea agregar usando el motor de búsqueda integrado.<br>5. Seleccione una muestra de la canción ajustando el tiempo de reproducción.<br>6. Elija si desea mostrar la letra de la canción o el título y el artista.<br>7. Personaliza la apariencia de la pegatina musical eligiendo el tamaño y la ubicación.<br>8. Cuando hayas terminado, toca &#8220;Compartir&#8221; para publicar tu contenido con música.</p>
+<p>1. Abra la aplicación Instagram y toque el ícono “+” en la parte inferior de la pantalla para crear una nueva publicación.<br>2. Selecciona la imagen o video que deseas compartir desde tu galería o tomando una nueva foto/video.<br>3. En la pantalla de edición posterior, toque el ícono de nota musical en la parte superior de la pantalla.<br>4. Busque la canción que desea agregar usando el motor de búsqueda integrado.<br>5. Seleccione una muestra de la canción ajustando el tiempo de reproducción.<br>6. Elija si desea mostrar la letra de la canción o el título y el artista.<br>7. Personaliza la apariencia de la pegatina musical eligiendo el tamaño y la ubicación.<br>8. Cuando hayas terminado, toca “Compartir” para publicar tu contenido con música.</p>
 
 
 
@@ -62,7 +62,7 @@ categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
 
 
 
-<p>1. Siga los pasos mencionados anteriormente para agregar contenido a su Historia o publicación.<br>2. En lugar de seleccionar &#8220;Música&#8221;, elija la opción &#8220;Efectos de sonido&#8221;.<br>3. Explore las diferentes categorías de efectos de sonido disponibles (por ejemplo, animales, ciudad, naturaleza, etc.).<br>4. Seleccione el efecto de sonido que desea agregar a su contenido.<br>5. Personaliza la apariencia de la pegatina de efectos de sonido eligiendo el tamaño y la ubicación.<br>6. Toca &#8220;Listo&#8221; o &#8220;Compartir&#8221; para agregar el efecto de sonido a tu historia o publicación.</p>
+<p>1. Siga los pasos mencionados anteriormente para agregar contenido a su Historia o publicación.<br>2. En lugar de seleccionar “Música”, elija la opción “Efectos de sonido”.<br>3. Explore las diferentes categorías de efectos de sonido disponibles (por ejemplo, animales, ciudad, naturaleza, etc.).<br>4. Seleccione el efecto de sonido que desea agregar a su contenido.<br>5. Personaliza la apariencia de la pegatina de efectos de sonido eligiendo el tamaño y la ubicación.<br>6. Toca “Listo” o “Compartir” para agregar el efecto de sonido a tu historia o publicación.</p>
 
 
 
@@ -102,19 +102,19 @@ categories: ["medios-y-plataformas-digitales-es", "tecnologia-y-digital-es"]
 
 
 
-<p>&#8211; Elige la música que vaya acorde con tu mensaje o la emoción que quieres transmitir. La música bien elegida puede mejorar el impacto de su contenido y provocar una respuesta emocional de su audiencia.</p>
+<p>– Elige la música que vaya acorde con tu mensaje o la emoción que quieres transmitir. La música bien elegida puede mejorar el impacto de su contenido y provocar una respuesta emocional de su audiencia.</p>
 
 
 
-<p>&#8211; Asegúrate de que el volumen de la música esté equilibrado con el de los demás elementos de audio de tu publicación. Si la música está demasiado alta, puede ahogar su mensaje, mientras que la música demasiado baja puede pasar desapercibida.</p>
+<p>– Asegúrate de que el volumen de la música esté equilibrado con el de los demás elementos de audio de tu publicación. Si la música está demasiado alta, puede ahogar su mensaje, mientras que la música demasiado baja puede pasar desapercibida.</p>
 
 
 
-<p>&#8211; Utiliza transiciones y efectos de sonido para crear una experiencia audiovisual inmersiva. Las transiciones suaves y los efectos de sonido bien ubicados pueden hacer que tu publicación sea más profesional y atractiva.</p>
+<p>– Utiliza transiciones y efectos de sonido para crear una experiencia audiovisual inmersiva. Las transiciones suaves y los efectos de sonido bien ubicados pueden hacer que tu publicación sea más profesional y atractiva.</p>
 
 
 
-<p>&#8211; No olvides dar crédito al artista o la fuente musical si usas una canción específica en tu publicación. Esto muestra su respeto por los derechos de autor y también puede ayudar a promocionar al artista.</p>
+<p>– No olvides dar crédito al artista o la fuente musical si usas una canción específica en tu publicación. Esto muestra su respeto por los derechos de autor y también puede ayudar a promocionar al artista.</p>
 
 
 

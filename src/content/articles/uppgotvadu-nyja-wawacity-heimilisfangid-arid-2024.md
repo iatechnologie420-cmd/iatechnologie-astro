@@ -1,8 +1,8 @@
 ---
-lang: "other"
+lang: "is"
 title: "Uppgötvaðu nýja Wawacity heimilisfangið árið 2024!"
 slug: "uppgotvadu-nyja-wawacity-heimilisfangid-arid-2024"
-excerpt: "Wawacity: viðmiðið fyrir ókeypis (en ólöglegt) niðurhal Wawacity er netvettvangur sem býður upp á breitt úrval af ókeypis efni til að hlaða niður á mismunandi sviðum: kvikmyndir, seríur, tónlist, tölvuleiki, hugbúnað, bækur og margt fleira. Þetta nýja heimilisfang hefur fljótt orðið nauðsyn fyrir skemmtanaunnendur sem vilja njóta uppáhaldsmiðilsins síns án þess að brjóta bankann. Notendavænt [&hellip;]"
+excerpt: "Wawacity: viðmiðið fyrir ókeypis (en ólöglegt) niðurhal Wawacity er netvettvangur sem býður upp á breitt úrval af ókeypis efni til að hlaða niður á mismunandi sviðum: kvikmyndir, seríur, tónlist, tölvuleiki, hugbúnað, bækur og margt fleira. Þetta nýja heimilisfang hefur fljótt orðið nauðsyn fyrir skemmtanaunnendur sem vilja njóta uppáhaldsmiðilsins síns án þess að brjóta bankann. Notendavænt […]"
 date: "2024-03-09T12:39:10"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Decouvrez-la-nouvelle-adresse-de-Wawacity-.png"
 categories: ["stafraenir-midlar-og-vettvangar-is", "taekni-og-stafraen-is"]

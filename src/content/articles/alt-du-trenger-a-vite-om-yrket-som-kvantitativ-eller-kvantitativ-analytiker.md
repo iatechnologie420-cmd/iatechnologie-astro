@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Alt du trenger å vite om yrket som kvantitativ eller kvantitativ analytiker"
 slug: "alt-du-trenger-a-vite-om-yrket-som-kvantitativ-eller-kvantitativ-analytiker"
-excerpt: "Introduksjon til verden av kvantitativ finans Kvantitativ finans er et spesialisert finansfelt som bruker matematiske modeller, statistikk og datateknikker for å forstå og forutsi oppførselen til finansmarkedene. I denne artikkelen vil vi utforske dette feltet ved å diskutere verktøyene det bruker, dets applikasjoner samt ferdighetene som kreves for å utmerke seg i det. Kvantitativ finansiering [&hellip;]"
+excerpt: "Introduksjon til verden av kvantitativ finans Kvantitativ finans er et spesialisert finansfelt som bruker matematiske modeller, statistikk og datateknikker for å forstå og forutsi oppførselen til finansmarkedene. I denne artikkelen vil vi utforske dette feltet ved å diskutere verktøyene det bruker, dets applikasjoner samt ferdighetene som kreves for å utmerke seg i det. Kvantitativ finansiering […]"
 date: "2024-03-09T11:57:05"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-savoir-sur-le-metier-de-Quant-ou-analyste-quantitatif-3.png"
 categories: ["teknologi-og-digitalt-nb"]
@@ -36,7 +36,7 @@ categories: ["teknologi-og-digitalt-nb"]
 
 
 
-<p>Kvantitative finansspesialister, ofte kalt &#8220;kvanter&#8221;, er avhengige av en rekke verktøy for å utføre arbeidet sitt. Blant disse verktøyene finner vi:</p>
+<p>Kvantitative finansspesialister, ofte kalt “kvanter”, er avhengige av en rekke verktøy for å utføre arbeidet sitt. Blant disse verktøyene finner vi:</p>
 
 
 

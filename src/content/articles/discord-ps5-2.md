@@ -1,8 +1,8 @@
 ---
-lang: "other"
+lang: "hk"
 title: "如何在 Discord 上共享 PS5 屏幕？"
 slug: "discord-ps5-2"
-excerpt: "第 1 步：准备您的配置 在 PS5 上玩游戏时，在 Discord 上与朋友分享您的体验可能会很好。为此，您可以将 PS5 屏幕直接流式传输到 Discord。在本文中，我们将解释如何以两种不同的方法在 Discord 上共享 PS5 屏幕。我们走吧 ！ 检查你的硬件 在开始之前，请确保您拥有必要的材料。这是您需要的：&#8211; 功能齐全的 PS5：确保您的主机工作正常并已连接到电视。&#8211; Discord 帐户：如果您还没有帐户，请前往他们的网站免费注册。 在您的电脑上安装 Discord 软件 为了能够将 PS5 屏幕流式传输到 Discord，您需要在 PC 上安装 Discord 应用程序。操作方法如下：1. 打开网络浏览器并访问 Discord 网站。2. 单击“下载”按钮下载应用程序。3. 下载完成后，打开安装程序文件并按照屏幕上的说明在您的 PC 上安装应用程序。 配置您的 PS5 设置 现在您已在 PC 上安装了 Discord，现在可以配置 PS5 设置以流式传输到 Discord。以下是要遵循的步骤： 1. 打开 PS5 并登录您的帐户。2. 选择主屏幕右上角的齿轮图标，转到控制台设置。3. [&hellip;]"
+excerpt: "第 1 步：准备您的配置 在 PS5 上玩游戏时，在 Discord 上与朋友分享您的体验可能会很好。为此，您可以将 PS5 屏幕直接流式传输到 Discord。在本文中，我们将解释如何以两种不同的方法在 Discord 上共享 PS5 屏幕。我们走吧 ！ 检查你的硬件 在开始之前，请确保您拥有必要的材料。这是您需要的：– 功能齐全的 PS5：确保您的主机工作正常并已连接到电视。– Discord 帐户：如果您还没有帐户，请前往他们的网站免费注册。 在您的电脑上安装 Discord 软件 为了能够将 PS5 屏幕流式传输到 Discord，您需要在 PC 上安装 Discord 应用程序。操作方法如下：1. 打开网络浏览器并访问 Discord 网站。2. 单击“下载”按钮下载应用程序。3. 下载完成后，打开安装程序文件并按照屏幕上的说明在您的 PC 上安装应用程序。 配置您的 PS5 设置 现在您已在 PC 上安装了 Discord，现在可以配置 PS5 设置以流式传输到 Discord。以下是要遵循的步骤： 1. 打开 PS5 并登录您的帐户。2. 选择主屏幕右上角的齿轮图标，转到控制台设置。3. […]"
 date: "2024-03-09T12:55:14"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["%e6%95%b0%e5%ad%97%e5%aa%92%e4%bd%93%e5%92%8c%e5%b9%b3%e5%8f%b0-zh-hk", "%e7%a7%91%e6%8a%80%e4%b8%8e%e6%95%b0%e5%ad%97-zh-hk"]
@@ -26,7 +26,7 @@ categories: ["%e6%95%b0%e5%ad%97%e5%aa%92%e4%bd%93%e5%92%8c%e5%b9%b3%e5%8f%b0-zh
 
 
 
-<p>在开始之前，请确保您拥有必要的材料。这是您需要的：<br>&#8211; 功能齐全的 PS5：确保您的主机工作正常并已连接到电视。<br>&#8211; Discord 帐户：如果您还没有帐户，请前往他们的网站免费注册。</p>
+<p>在开始之前，请确保您拥有必要的材料。这是您需要的：<br>– 功能齐全的 PS5：确保您的主机工作正常并已连接到电视。<br>– Discord 帐户：如果您还没有帐户，请前往他们的网站免费注册。</p>
 
 
 
@@ -147,7 +147,7 @@ categories: ["%e6%95%b0%e5%ad%97%e5%aa%92%e4%bd%93%e5%92%8c%e5%b9%b3%e5%8f%b0-zh
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Comment réparer l&#039;audio de partage d&#039;écran Discord ne fonctionne pas | Discord Audio Not Working" width="500" height="281" src="https://www.youtube.com/embed/qq56ONDC-2k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Comment réparer l'audio de partage d'écran Discord ne fonctionne pas | Discord Audio Not Working" width="500" height="281" src="https://www.youtube.com/embed/qq56ONDC-2k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

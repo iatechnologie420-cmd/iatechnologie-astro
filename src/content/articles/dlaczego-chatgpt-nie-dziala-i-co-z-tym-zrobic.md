@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Dlaczego ChatGPT nie działa i co z tym zrobić?"
 slug: "dlaczego-chatgpt-nie-dziala-i-co-z-tym-zrobic"
-excerpt: "Dlaczego ChatGPT nie działa? Kiedy korzystasz z ChatGPT, możesz napotkać problemy, które spowodują, że nie będzie on działać poprawnie. Problemy te, choć frustrujące, mogą mieć różne przyczyny. W tym artykule przeanalizujemy kilka typowych powodów, dla których ChatGPT może nie działać poprawnie i przedstawimy rozwiązania tego problemu. 1. Niestabilne połączenie internetowe Niestabilne połączenie internetowe może powodować [&hellip;]"
+excerpt: "Dlaczego ChatGPT nie działa? Kiedy korzystasz z ChatGPT, możesz napotkać problemy, które spowodują, że nie będzie on działać poprawnie. Problemy te, choć frustrujące, mogą mieć różne przyczyny. W tym artykule przeanalizujemy kilka typowych powodów, dla których ChatGPT może nie działać poprawnie i przedstawimy rozwiązania tego problemu. 1. Niestabilne połączenie internetowe Niestabilne połączenie internetowe może powodować […]"
 date: "2024-03-09T12:17:08"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["aplikacje-ai-pl"]
@@ -38,7 +38,7 @@ categories: ["aplikacje-ai-pl"]
 
 
 
-<p>&#8211; Upewnij się, że korzystasz z najnowszej wersji przeglądarki.<br>&#8211; Wyczyść pamięć podręczną przeglądarki, aby usunąć wszelkie uszkodzone dane, które mogłyby mieć wpływ na działanie ChatGPT.<br>&#8211; Wypróbuj inną przeglądarkę, aby sprawdzić, czy problem nadal występuje. Niektóre przeglądarki mogą mieć problemy ze zgodnością z niektórymi funkcjami ChatGPT.</p>
+<p>– Upewnij się, że korzystasz z najnowszej wersji przeglądarki.<br>– Wyczyść pamięć podręczną przeglądarki, aby usunąć wszelkie uszkodzone dane, które mogłyby mieć wpływ na działanie ChatGPT.<br>– Wypróbuj inną przeglądarkę, aby sprawdzić, czy problem nadal występuje. Niektóre przeglądarki mogą mieć problemy ze zgodnością z niektórymi funkcjami ChatGPT.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["aplikacje-ai-pl"]
 
 
 
-<p>&#8211; Zmniejsz rozmiar swojej prośby, zmniejszając liczbę słów lub formułując ją inaczej.<br>&#8211; Podziel swoją prośbę na kilka mniejszych części i wyślij je osobno.<br>&#8211; Bądź cierpliwy i poczekaj, aż serwery przetwarzające zakończą przetwarzanie poprzedniego żądania, zanim wyślesz nowe.</p>
+<p>– Zmniejsz rozmiar swojej prośby, zmniejszając liczbę słów lub formułując ją inaczej.<br>– Podziel swoją prośbę na kilka mniejszych części i wyślij je osobno.<br>– Bądź cierpliwy i poczekaj, aż serwery przetwarzające zakończą przetwarzanie poprzedniego żądania, zanim wyślesz nowe.</p>
 
 
 

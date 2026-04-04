@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Data Hub-definisjon: alt du trenger å vite om datahuber"
 slug: "data-hub-definisjon-alt-du-trenger-a-vite-om-datahuber"
-excerpt: "Forstå det grunnleggende I en tid med Big Data og digital transformasjon, må bedrifter være i stand til å effektivt utnytte dataene sine. DE Data Hub, eller &#8220;datasenter&#8221;, er et arkitektonisk svar på dette økende behovet for dataadministrasjon, deling og analyse. I denne artikkelen vil vi detaljere det grunnleggende om en datahub og dens sentrale [&hellip;]"
+excerpt: "Forstå det grunnleggende I en tid med Big Data og digital transformasjon, må bedrifter være i stand til å effektivt utnytte dataene sine. DE Data Hub, eller “datasenter”, er et arkitektonisk svar på dette økende behovet for dataadministrasjon, deling og analyse. I denne artikkelen vil vi detaljere det grunnleggende om en datahub og dens sentrale […]"
 date: "2024-03-09T11:54:50"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Data-Hub-definition-tout-savoir-sur-les-hubs-de-donnees-3.png"
 categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
@@ -24,7 +24,7 @@ categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]
 
 
 
-<p>I en tid med Big Data og digital transformasjon, må bedrifter være i stand til å effektivt utnytte dataene sine. DE <strong>Data Hub</strong>, eller &#8220;datasenter&#8221;, er et arkitektonisk svar på dette økende behovet for dataadministrasjon, deling og analyse. I denne artikkelen vil vi detaljere det grunnleggende om en datahub og dens sentrale rolle i bedrifters datastrategi.</p>
+<p>I en tid med Big Data og digital transformasjon, må bedrifter være i stand til å effektivt utnytte dataene sine. DE <strong>Data Hub</strong>, eller “datasenter”, er et arkitektonisk svar på dette økende behovet for dataadministrasjon, deling og analyse. I denne artikkelen vil vi detaljere det grunnleggende om en datahub og dens sentrale rolle i bedrifters datastrategi.</p>
 
 
 

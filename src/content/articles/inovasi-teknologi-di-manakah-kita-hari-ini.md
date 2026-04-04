@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Inovasi teknologi: di manakah kita hari ini?"
 slug: "inovasi-teknologi-di-manakah-kita-hari-ini"
-excerpt: "Kemajuan teknologi terkini Kemajuan teknologi terkini Kemajuan teknologi terkini telah mengubah secara radikal cara kita hidup, bekerja dan berkomunikasi. Teknologi baharu muncul dengan kerap, mendorong masyarakat kita ke arah masa depan yang lebih berhubung dan inovatif. Dalam artikel ini, kami akan meneroka beberapa kemajuan teknologi terkini yang mengubah permainan dalam pelbagai bidang. 1. Kepintaran Buatan [&hellip;]"
+excerpt: "Kemajuan teknologi terkini Kemajuan teknologi terkini Kemajuan teknologi terkini telah mengubah secara radikal cara kita hidup, bekerja dan berkomunikasi. Teknologi baharu muncul dengan kerap, mendorong masyarakat kita ke arah masa depan yang lebih berhubung dan inovatif. Dalam artikel ini, kami akan meneroka beberapa kemajuan teknologi terkini yang mengubah permainan dalam pelbagai bidang. 1. Kepintaran Buatan […]"
 date: "2024-03-09T12:44:32"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Linnovation-technologique-ou-en-est-on-aujourdhui-.png"
 categories: ["teknologi-dan-digital-ms"]

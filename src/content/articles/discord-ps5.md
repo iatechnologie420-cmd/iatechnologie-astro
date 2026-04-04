@@ -1,8 +1,8 @@
 ---
-lang: "other"
+lang: "ko"
 title: "Discord에서 PS5 화면을 공유하는 방법은 무엇입니까?"
 slug: "discord-ps5"
-excerpt: "1단계: 구성 준비 PS5에서 게임을 플레이할 때 Discord를 통해 친구들과 경험을 공유하는 것이 좋을 수도 있습니다. 이를 위해 PS5 화면을 Discord로 직접 스트리밍할 수 있습니다. 이 글에서는 두 가지 방법으로 Discord에서 PS5 화면을 공유하는 방법을 설명하겠습니다. 갑시다 ! 하드웨어를 확인하세요 시작하기 전에 필요한 자료가 있는지 확인하십시오. 필요한 것은 다음과 같습니다.&#8211; 제대로 작동하는 PS5: 콘솔이 제대로 [&hellip;]"
+excerpt: "1단계: 구성 준비 PS5에서 게임을 플레이할 때 Discord를 통해 친구들과 경험을 공유하는 것이 좋을 수도 있습니다. 이를 위해 PS5 화면을 Discord로 직접 스트리밍할 수 있습니다. 이 글에서는 두 가지 방법으로 Discord에서 PS5 화면을 공유하는 방법을 설명하겠습니다. 갑시다 ! 하드웨어를 확인하세요 시작하기 전에 필요한 자료가 있는지 확인하십시오. 필요한 것은 다음과 같습니다.– 제대로 작동하는 PS5: 콘솔이 제대로 […]"
 date: "2024-03-09T12:52:30"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Comment-partager-lecran-de-votre-PS5-sur-Discord-.png"
 categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%94%94%ec%a7%80%ed%84%b8-%eb%af%b8%eb%94%94%ec%96%b4-%eb%b0%8f-%ed%94%8c%eb%9e%ab%ed%8f%bc-ko"]
@@ -26,7 +26,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<p>시작하기 전에 필요한 자료가 있는지 확인하십시오. 필요한 것은 다음과 같습니다.<br>&#8211; 제대로 작동하는 PS5: 콘솔이 제대로 작동하고 TV에 연결되어 있는지 확인하세요.<br>&#8211; Discord 계정: 아직 계정이 없다면 해당 웹사이트로 가서 무료로 등록하세요.</p>
+<p>시작하기 전에 필요한 자료가 있는지 확인하십시오. 필요한 것은 다음과 같습니다.<br>– 제대로 작동하는 PS5: 콘솔이 제대로 작동하고 TV에 연결되어 있는지 확인하세요.<br>– Discord 계정: 아직 계정이 없다면 해당 웹사이트로 가서 무료로 등록하세요.</p>
 
 
 
@@ -34,7 +34,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<p>PS5 화면을 Discord로 스트리밍하려면 PC에 Discord 앱을 설치해야 합니다. 수행 방법은 다음과 같습니다.<br>1. 웹 브라우저를 열고 Discord 웹사이트로 이동합니다.<br>2. &#8220;다운로드&#8221; 버튼을 클릭하여 애플리케이션을 다운로드합니다.<br>3. 다운로드가 완료되면 설치 프로그램 파일을 열고 화면의 지시에 따라 PC에 애플리케이션을 설치합니다.</p>
+<p>PS5 화면을 Discord로 스트리밍하려면 PC에 Discord 앱을 설치해야 합니다. 수행 방법은 다음과 같습니다.<br>1. 웹 브라우저를 열고 Discord 웹사이트로 이동합니다.<br>2. “다운로드” 버튼을 클릭하여 애플리케이션을 다운로드합니다.<br>3. 다운로드가 완료되면 설치 프로그램 파일을 열고 화면의 지시에 따라 PC에 애플리케이션을 설치합니다.</p>
 
 
 
@@ -46,7 +46,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<p>1. PS5를 켜고 계정에 로그인하세요.<br>2. 홈 화면 오른쪽 상단에 있는 기어 아이콘을 선택하여 콘솔 설정으로 이동합니다.<br>3. 설정에서 &#8220;캡처 및 방송&#8221;을 선택한 다음 &#8220;방송 설정&#8221;을 선택하세요.<br>4. 방송 설정에서 &#8216;방송 허용&#8217; 옵션을 활성화하세요.<br>5. 원하는 대로 스트리밍 품질을 설정하세요. 품질이 향상되려면 더 빠른 인터넷 연결이 필요하다는 점을 기억하세요.</p>
+<p>1. PS5를 켜고 계정에 로그인하세요.<br>2. 홈 화면 오른쪽 상단에 있는 기어 아이콘을 선택하여 콘솔 설정으로 이동합니다.<br>3. 설정에서 “캡처 및 방송”을 선택한 다음 “방송 설정”을 선택하세요.<br>4. 방송 설정에서 ‘방송 허용’ 옵션을 활성화하세요.<br>5. 원하는 대로 스트리밍 품질을 설정하세요. 품질이 향상되려면 더 빠른 인터넷 연결이 필요하다는 점을 기억하세요.</p>
 
 
 
@@ -58,7 +58,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<p>1. PC에서 Discord를 엽니다.<br>2. Discord 앱에서 왼쪽 하단의 &#8220;사용자 설정&#8221;을 클릭하세요.<br>3. 사용자 설정에서 &#8220;게임&#8221;을 선택한 다음 &#8220;게임 활동&#8221;을 선택하세요.<br>4. &#8220;게임 추가&#8221;에서 &#8220;+&#8221; 버튼을 클릭하세요. &#8220;PlayStation&#8221; 앱을 찾아서 선택하세요.<br>5. PlayStation 앱을 추가한 후 스위치가 &#8220;켜짐&#8221; 위치에 있는지 확인하여 스트리밍이 활성화되어 있는지 확인하세요.</p>
+<p>1. PC에서 Discord를 엽니다.<br>2. Discord 앱에서 왼쪽 하단의 “사용자 설정”을 클릭하세요.<br>3. 사용자 설정에서 “게임”을 선택한 다음 “게임 활동”을 선택하세요.<br>4. “게임 추가”에서 “+” 버튼을 클릭하세요. “PlayStation” 앱을 찾아서 선택하세요.<br>5. PlayStation 앱을 추가한 후 스위치가 “켜짐” 위치에 있는지 확인하여 스트리밍이 활성화되어 있는지 확인하세요.</p>
 
 
 
@@ -70,7 +70,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<p>1. PS5 홈 화면으로 돌아갑니다.<br>2. Discord에서 친구들과 공유하고 싶은 게임을 플레이하세요.<br>3. PC의 Discord 앱에서 음성방을 만들거나 친구 중 한 명과 합류하세요.<br>4. Voice Room의 “Shared Screen” 아이콘을 클릭하면 스트리밍이 시작됩니다.<br>5. PS5 화면을 스트리밍하려면 &#8220;PlayStation&#8221; 옵션을 선택하세요.<br>6. 친구들이 귀하의 화면을 보고 게임 경험을 귀하와 공유할 수 있습니다.</p>
+<p>1. PS5 홈 화면으로 돌아갑니다.<br>2. Discord에서 친구들과 공유하고 싶은 게임을 플레이하세요.<br>3. PC의 Discord 앱에서 음성방을 만들거나 친구 중 한 명과 합류하세요.<br>4. Voice Room의 “Shared Screen” 아이콘을 클릭하면 스트리밍이 시작됩니다.<br>5. PS5 화면을 스트리밍하려면 “PlayStation” 옵션을 선택하세요.<br>6. 친구들이 귀하의 화면을 보고 게임 경험을 귀하와 공유할 수 있습니다.</p>
 
 
 
@@ -118,7 +118,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<p>설정에서 &#8216;음성 및 영상&#8217; 탭으로 이동하여 &#8216;감지된 장치&#8217; 섹션까지 아래로 스크롤하세요. &#8220;비디오 장치&#8221; 아래에 &#8220;PS 원격 재생&#8221;이 표시됩니다. Discord가 PS Remote Play 앱을 스트리밍 소스로 사용할 수 있도록 이 옵션을 선택하세요.</p>
+<p>설정에서 ‘음성 및 영상’ 탭으로 이동하여 ‘감지된 장치’ 섹션까지 아래로 스크롤하세요. “비디오 장치” 아래에 “PS 원격 재생”이 표시됩니다. Discord가 PS Remote Play 앱을 스트리밍 소스로 사용할 수 있도록 이 옵션을 선택하세요.</p>
 
 
 
@@ -130,7 +130,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 
-<p><strong>트릭 :</strong> PS5의 개인 정보 보호 설정에서 콘텐츠를 다른 장치로 스트리밍할 수 있는지 확인하세요. PS5 설정의 &#8220;캡처 및 스트리밍&#8221; 탭에서 이러한 설정을 확인할 수 있습니다.</p>
+<p><strong>트릭 :</strong> PS5의 개인 정보 보호 설정에서 콘텐츠를 다른 장치로 스트리밍할 수 있는지 확인하세요. PS5 설정의 “캡처 및 스트리밍” 탭에서 이러한 설정을 확인할 수 있습니다.</p>
 
 
 
@@ -147,7 +147,7 @@ categories: ["%ea%b8%b0%ec%88%a0%ea%b3%bc-%eb%94%94%ec%a7%80%ed%84%b8-ko", "%eb%
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Comment réparer l&#039;audio de partage d&#039;écran Discord ne fonctionne pas | Discord Audio Not Working" width="500" height="281" src="https://www.youtube.com/embed/qq56ONDC-2k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Comment réparer l'audio de partage d'écran Discord ne fonctionne pas | Discord Audio Not Working" width="500" height="281" src="https://www.youtube.com/embed/qq56ONDC-2k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

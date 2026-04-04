@@ -2,7 +2,7 @@
 lang: "ro"
 title: "IT / Tehnologia informației: ce este tehnologia informației?"
 slug: "it-tehnologia-informatiei-ce-este-tehnologia-informatiei"
-excerpt: "Înțelegerea IT: Definiția și evoluția tehnologiilor informaționale Ce este? Termenul ACEASTA, Pentru Tehnologia de informație în limba engleză, desemnează toate tehnologiile legate de prelucrarea și gestionarea informație și date. Acest domeniu vast include astfel informatica, telecomunicatii, sisteme de gestionare a bazelor de date, securitatea informațiilor și multe altele. IT-ul este esențial în lumea modernă: permite [&hellip;]"
+excerpt: "Înțelegerea IT: Definiția și evoluția tehnologiilor informaționale Ce este? Termenul ACEASTA, Pentru Tehnologia de informație în limba engleză, desemnează toate tehnologiile legate de prelucrarea și gestionarea informație și date. Acest domeniu vast include astfel informatica, telecomunicatii, sisteme de gestionare a bazelor de date, securitatea informațiilor și multe altele. IT-ul este esențial în lumea modernă: permite […]"
 date: "2024-03-09T12:22:50"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/IT-ou-Information-Technology-tout-savoir-sur-les-technologies-de-linformation-3.png"
 categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
@@ -10,7 +10,7 @@ categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Technologies de l&#039;information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Technologies de l'information et de la communication" width="500" height="281" src="https://www.youtube.com/embed/L_TyE81sjJs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -76,7 +76,7 @@ categories: ["infrastructura-si-retele-ro", "tehnologie-si-digital-ro"]
 
 
 
-<p>    În prezent, mai multe tendințe majore transformă IT. L&#8217;<strong>inteligenţă artificială</strong> și învățarea automată (<em>învățare automată</em>) au devenit elemente cheie în dezvoltarea unor soluții mai inteligente și autonome. THE <strong>cloud computing</strong> continuă să crească în popularitate, oferind flexibilitate și amploare nemaivăzute până acum în serviciile IT. </p>
+<p>    În prezent, mai multe tendințe majore transformă IT. L’<strong>inteligenţă artificială</strong> și învățarea automată (<em>învățare automată</em>) au devenit elemente cheie în dezvoltarea unor soluții mai inteligente și autonome. THE <strong>cloud computing</strong> continuă să crească în popularitate, oferind flexibilitate și amploare nemaivăzute până acum în serviciile IT. </p>
 
 
 

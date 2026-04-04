@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Aprenda engenharia imediata: em 12 etapas"
 slug: "aprenda-engenharia-imediata-em-12-etapas"
-excerpt: "Introdução à engenharia imediata O que é engenharia imediata? O Engenharia imediata é um campo emergente que se concentra na otimização dos prompts, ou comandos, que damos aos sistemas de inteligência artificial (IA), especialmente aqueles baseados em linguagem natural, como geradores de texto. É uma disciplina particularmente importante com a chegada de modelos de processamento [&hellip;]"
+excerpt: "Introdução à engenharia imediata O que é engenharia imediata? O Engenharia imediata é um campo emergente que se concentra na otimização dos prompts, ou comandos, que damos aos sistemas de inteligência artificial (IA), especialmente aqueles baseados em linguagem natural, como geradores de texto. É uma disciplina particularmente importante com a chegada de modelos de processamento […]"
 date: "2024-03-09T12:53:05"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Tout-ce-que-vous-devez-savoir-sur-le-prompt-engineering-3.png"
 categories: ["treinamento-e-fundamentos-de-ia-pt"]
@@ -67,7 +67,7 @@ categories: ["treinamento-e-fundamentos-de-ia-pt"]
 
 
 
-<li><strong>Forneça &#8220;saída&#8221; ao modelo:</strong> Às vezes, o modelo pode ter dificuldade em concluir uma tarefa com precisão. Para mitigar isso, forneça caminhos alternativos ou instruções para o modelo seguir caso não consiga encontrar uma resposta satisfatória.</li>
+<li><strong>Forneça “saída” ao modelo:</strong> Às vezes, o modelo pode ter dificuldade em concluir uma tarefa com precisão. Para mitigar isso, forneça caminhos alternativos ou instruções para o modelo seguir caso não consiga encontrar uma resposta satisfatória.</li>
 
 
 

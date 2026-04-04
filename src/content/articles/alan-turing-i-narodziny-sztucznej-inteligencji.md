@@ -2,7 +2,7 @@
 lang: "pl"
 title: "Alan Turing i narodziny sztucznej inteligencji"
 slug: "alan-turing-i-narodziny-sztucznej-inteligencji"
-excerpt: "Alan Turing: Ojciec założyciel sztucznej inteligencji Alan Turing: Ojciec założyciel sztucznej inteligencjiNie można w całości opowiedzieć historii sztucznej inteligencji (AI) bez wspomnienia Alana Turinga, przez wielu uważanego za ojca założyciela tej dziedziny, która dziś rewolucjonizuje wiele aspektów naszego codziennego życia. Jego wkład wykracza daleko poza zwykły wynalazek; opiera się na koncepcjach i teoriach, które nadal [&hellip;]"
+excerpt: "Alan Turing: Ojciec założyciel sztucznej inteligencji Alan Turing: Ojciec założyciel sztucznej inteligencjiNie można w całości opowiedzieć historii sztucznej inteligencji (AI) bez wspomnienia Alana Turinga, przez wielu uważanego za ojca założyciela tej dziedziny, która dziś rewolucjonizuje wiele aspektów naszego codziennego życia. Jego wkład wykracza daleko poza zwykły wynalazek; opiera się na koncepcjach i teoriach, które nadal […]"
 date: "2024-03-09T12:54:56"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Alan-Turing-et-naissance-de-lintelligence-artificielle-3.png"
 categories: ["szkolenia-i-podstawy-ai-pl"]
@@ -10,7 +10,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Alan Turing : Le père de l&#039;IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="Alan Turing : Le père de l'IA" width="500" height="281" src="https://www.youtube.com/embed/doR1NpomIa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Film Alan Turing: Ojciec sztucznej inteligencji</figcaption></figure>
 
 
@@ -192,7 +192,7 @@ categories: ["szkolenia-i-podstawy-ai-pl"]
 
 
 
-<p>&#8211; Odszyfrowanie kodu Enigmy<br>&#8211; Projekt bomby kryptoanalitycznej<br>&#8211; Sformułowanie maszyny Turinga<br>&#8211; Pomyśl o koncepcji testu Turinga<br>&#8211; Otwórz drogę do badań nad sztuczną inteligencją</p>
+<p>– Odszyfrowanie kodu Enigmy<br>– Projekt bomby kryptoanalitycznej<br>– Sformułowanie maszyny Turinga<br>– Pomyśl o koncepcji testu Turinga<br>– Otwórz drogę do badań nad sztuczną inteligencją</p>
 
 
 

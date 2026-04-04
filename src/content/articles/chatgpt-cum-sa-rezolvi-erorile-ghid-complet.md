@@ -2,7 +2,7 @@
 lang: "ro"
 title: "ChatGPT: cum să rezolvi erorile? Ghid complet"
 slug: "chatgpt-cum-sa-rezolvi-erorile-ghid-complet"
-excerpt: "Înțelegeți și rezolvați erorile comune ChatGPT Inteligența artificială continuă să facă pași uriași în dezvoltare și îmbunătățire, dar este departe de a fi perfectă. Astfel, am văzut uneori apar erori inacceptabile, care CEO-ul Google nu eșuați să recunoașteți. Fie în ceea ce privește prelucrarea informațiilor, generarea de conținut sau chiar atunci când a judecătorul emite [&hellip;]"
+excerpt: "Înțelegeți și rezolvați erorile comune ChatGPT Inteligența artificială continuă să facă pași uriași în dezvoltare și îmbunătățire, dar este departe de a fi perfectă. Astfel, am văzut uneori apar erori inacceptabile, care CEO-ul Google nu eșuați să recunoașteți. Fie în ceea ce privește prelucrarea informațiilor, generarea de conținut sau chiar atunci când a judecătorul emite […]"
 date: "2024-03-09T11:51:52"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/ChatGPT-comment-resoudre-les-erreurs-Le-guide-complet-2.png"
 categories: ["aplicatii-ai-ro"]
@@ -28,7 +28,7 @@ categories: ["aplicatii-ai-ro"]
 
 
 
-<p>Printre aceste AI, <strong>ChatGPT</strong> &#8211; un model de generare de text deosebit de popular &#8211; este victima propriilor defecte. Erorile de la acest tip de IA se strecoară inevitabil în software-ul comercial. Dar atunci, cum putem rezolva aceste erori comune ChatGPT și cum putem optimiza utilizarea acestora? </p>
+<p>Printre aceste AI, <strong>ChatGPT</strong> – un model de generare de text deosebit de popular – este victima propriilor defecte. Erorile de la acest tip de IA se strecoară inevitabil în software-ul comercial. Dar atunci, cum putem rezolva aceste erori comune ChatGPT și cum putem optimiza utilizarea acestora? </p>
 
 
 
@@ -65,7 +65,7 @@ categories: ["aplicatii-ai-ro"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original &#8211; OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@graven.dev/video/7107708649002372358" data-video-id="7107708649002372358" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@graven.dev" href="https://www.tiktok.com/@graven.dev?refer=embed" rel="noopener">@graven.dev</a> <p>Quand tu recherches comment résoudre ton erreur</p> <a target="_blank" title="♬ son original - OVIÉ KAN OFFICIEL" href="https://www.tiktok.com/music/son-original-7070859916549966597?refer=embed" rel="noopener">♬ son original – OVIÉ KAN OFFICIEL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

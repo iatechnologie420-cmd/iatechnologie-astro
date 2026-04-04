@@ -2,7 +2,7 @@
 lang: "en"
 title: "AlphaGo vs Leedsol: A super AI beats the Go master"
 slug: "alphago-vs-leedsol-a-super-ai-beats-the-go-master"
-excerpt: "A historic clash: artificial intelligence challenges the master of Go The world of Go was historically dominated by human masters, until a significant event that shook established paradigms. Artificial intelligence, this tool developed by human ingenuity, took up the challenge of tackling one of the most complex strategy games in history. This historic clash between [&hellip;]"
+excerpt: "A historic clash: artificial intelligence challenges the master of Go The world of Go was historically dominated by human masters, until a significant event that shook established paradigms. Artificial intelligence, this tool developed by human ingenuity, took up the challenge of tackling one of the most complex strategy games in history. This historic clash between […]"
 date: "2024-03-09T12:53:27"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Le-champion-mondial-du-jeu-de-go-vaincu-par-une-super-IA-3.png"
 categories: ["ai-training-and-fundamentals-en"]
@@ -10,7 +10,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="AlphaGo Triomphe : Lee Sedol Battu par l&#039;IA!" width="500" height="281" src="https://www.youtube.com/embed/KJ1Me8vHlYY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="AlphaGo Triomphe : Lee Sedol Battu par l'IA!" width="500" height="281" src="https://www.youtube.com/embed/KJ1Me8vHlYY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -64,7 +64,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Artificial intelligence has progressed considerably in recent decades, particularly in the field of games. From traditional board games to complex virtual worlds, AIs have not only learned to play but have become formidable opponents, capable of challenging and beating human champions. The rise of these super artificial intelligences symbolizes the combination of several computational and cognitive advances. Let&#8217;s see how artificial intelligence learned the rules of playful competition and became a super AI in the gaming arena.</p>
+<p>Artificial intelligence has progressed considerably in recent decades, particularly in the field of games. From traditional board games to complex virtual worlds, AIs have not only learned to play but have become formidable opponents, capable of challenging and beating human champions. The rise of these super artificial intelligences symbolizes the combination of several computational and cognitive advances. Let’s see how artificial intelligence learned the rules of playful competition and became a super AI in the gaming arena.</p>
 
 
 
@@ -96,7 +96,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>Also, the introduction of the notion of intuition into artificial intelligence was decisive. AI has begun to &#8216;understand&#8217; complex patterns and strategies without being explicitly programmed to do so. She developed innovative, previously unknown playing styles, proving her ability to innovate and evolve independently.</p>
+<p>Also, the introduction of the notion of intuition into artificial intelligence was decisive. AI has begun to ‘understand’ complex patterns and strategies without being explicitly programmed to do so. She developed innovative, previously unknown playing styles, proving her ability to innovate and evolve independently.</p>
 
 
 
@@ -140,7 +140,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<p>AlphaGo&#8217;s move 37 was particularly notable; experts spoke of a move &#8220;from another galaxy&#8221;, completely unexpected for Go professionals. This round was a tipping point and a perfect illustration of Go&#8217;s unconventional approach.<strong>AlphaGo</strong> based on deep learning.</p>
+<p>AlphaGo’s move 37 was particularly notable; experts spoke of a move “from another galaxy”, completely unexpected for Go professionals. This round was a tipping point and a perfect illustration of Go’s unconventional approach.<strong>AlphaGo</strong> based on deep learning.</p>
 
 
 
@@ -195,7 +195,7 @@ categories: ["ai-training-and-fundamentals-en"]
 
 
 
-<li>Education and training of players could be inseparable from artificial intelligence tools, changing the way tomorrow&#8217;s strategists learn Go and other similar games.</li>
+<li>Education and training of players could be inseparable from artificial intelligence tools, changing the way tomorrow’s strategists learn Go and other similar games.</li>
 </ul>
 
 

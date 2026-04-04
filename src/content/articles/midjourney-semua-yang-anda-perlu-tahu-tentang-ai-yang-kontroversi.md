@@ -2,7 +2,7 @@
 lang: "ms"
 title: "MidJourney: semua yang anda perlu tahu tentang AI yang kontroversi"
 slug: "midjourney-semua-yang-anda-perlu-tahu-tentang-ai-yang-kontroversi"
-excerpt: "Memahami MidJourney MidJourney ialah kecerdasan buatan yang berkuasa, mengubah cara kita berinteraksi dengan teknologi. Gunakan panduan ini sebagai sumber untuk memahami asal usul dan fungsi utamanya. Apa itu MidJourney? MidJourney ialah alat kecerdasan buatan avant-garde direka untuk menambah baik dan memudahkan interaksi harian kita dengan teknologi baharu. Ia adalah sebahagian daripada landskap aplikasi AI yang [&hellip;]"
+excerpt: "Memahami MidJourney MidJourney ialah kecerdasan buatan yang berkuasa, mengubah cara kita berinteraksi dengan teknologi. Gunakan panduan ini sebagai sumber untuk memahami asal usul dan fungsi utamanya. Apa itu MidJourney? MidJourney ialah alat kecerdasan buatan avant-garde direka untuk menambah baik dan memudahkan interaksi harian kita dengan teknologi baharu. Ia adalah sebahagian daripada landskap aplikasi AI yang […]"
 date: "2024-03-09T11:51:24"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/MidJourney-tout-savoir-sur-lIA-qui-choque-2.png"
 categories: ["aplikasi-ai-ms"]
@@ -78,7 +78,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 
-<p>AI juga telah mula membuat gelombang dalam dunia budaya dan seni. Sama ada dengan filem pendek &#8220;Imagine&#8221;, dihasilkan sepenuhnya oleh AI dan dinobatkan di Festival Filem Nikon, atau dengan karya seni yang dicipta oleh AI dan memenangi pertandingan yang merugikan artis manusia, tempat AI terus berkembang .</p>
+<p>AI juga telah mula membuat gelombang dalam dunia budaya dan seni. Sama ada dengan filem pendek “Imagine”, dihasilkan sepenuhnya oleh AI dan dinobatkan di Festival Filem Nikon, atau dengan karya seni yang dicipta oleh AI dan memenangi pertandingan yang merugikan artis manusia, tempat AI terus berkembang .</p>
 
 
 
@@ -111,7 +111,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 <figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lelabodesreseaux/video/7242723401444412699" data-video-id="7242723401444412699" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@lelabodesreseaux" href="https://www.tiktok.com/@lelabodesreseaux?refer=embed" rel="noopener">@lelabodesreseaux</a> <p>Des Vidéos générés par l’IA en un seul Clic grâce à GEN 2 <a title="gen2" target="_blank" href="https://www.tiktok.com/tag/gen2?refer=embed" rel="noopener">#gen2</a> <a title="gen" target="_blank" href="https://www.tiktok.com/tag/gen?refer=embed" rel="noopener">#gen</a> <a title="ia" target="_blank" href="https://www.tiktok.com/tag/ia?refer=embed" rel="noopener">#ia</a> <a title="texteenvideo" target="_blank" href="https://www.tiktok.com/tag/texteenvideo?refer=embed" rel="noopener">#texteenvideo</a> <a title="texttovideo" target="_blank" href="https://www.tiktok.com/tag/texttovideo?refer=embed" rel="noopener">#texttovideo</a> </p> <a target="_blank" title="♬ Lo-Fi analog beat - Gloveity" href="https://www.tiktok.com/music/Lo-Fi-analog-beat-6817312022837872642?refer=embed" rel="noopener">♬ Lo-Fi analog beat &#8211; Gloveity</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lelabodesreseaux/video/7242723401444412699" data-video-id="7242723401444412699" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@lelabodesreseaux" href="https://www.tiktok.com/@lelabodesreseaux?refer=embed" rel="noopener">@lelabodesreseaux</a> <p>Des Vidéos générés par l’IA en un seul Clic grâce à GEN 2 <a title="gen2" target="_blank" href="https://www.tiktok.com/tag/gen2?refer=embed" rel="noopener">#gen2</a> <a title="gen" target="_blank" href="https://www.tiktok.com/tag/gen?refer=embed" rel="noopener">#gen</a> <a title="ia" target="_blank" href="https://www.tiktok.com/tag/ia?refer=embed" rel="noopener">#ia</a> <a title="texteenvideo" target="_blank" href="https://www.tiktok.com/tag/texteenvideo?refer=embed" rel="noopener">#texteenvideo</a> <a title="texttovideo" target="_blank" href="https://www.tiktok.com/tag/texttovideo?refer=embed" rel="noopener">#texttovideo</a> </p> <a target="_blank" title="♬ Lo-Fi analog beat - Gloveity" href="https://www.tiktok.com/music/Lo-Fi-analog-beat-6817312022837872642?refer=embed" rel="noopener">♬ Lo-Fi analog beat – Gloveity</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div></figure>
 
 

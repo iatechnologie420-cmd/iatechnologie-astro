@@ -2,7 +2,7 @@
 lang: "pt"
 title: "Google Deep Dream: guia completo para IA alucinante"
 slug: "google-deep-dream-guia-completo-para-ia-alucinante"
-excerpt: "Compreendendo o conceito do Google Deep Dream No fascinante mundo da inteligência artificial, surgiu uma inovação particularmente impressionante: o Sonho profundo do Google. Considerado como um IA alucinante, este conceito combina tecnologia avançada e imaginação sem limites para criar representações visuais de tirar o fôlego. Para compreender totalmente a essência desta tecnologia, exploraremos seus fundamentos, [&hellip;]"
+excerpt: "Compreendendo o conceito do Google Deep Dream No fascinante mundo da inteligência artificial, surgiu uma inovação particularmente impressionante: o Sonho profundo do Google. Considerado como um IA alucinante, este conceito combina tecnologia avançada e imaginação sem limites para criar representações visuais de tirar o fôlego. Para compreender totalmente a essência desta tecnologia, exploraremos seus fundamentos, […]"
 date: "2024-03-09T11:51:43"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Google-Deep-Dream-guide-complet-dune-IA-hallucinante-2.png"
 categories: ["aplicacoes-de-ia-pt"]
@@ -80,7 +80,7 @@ categories: ["aplicacoes-de-ia-pt"]
 
 
 
-<p>O campo da inteligência artificial também tem visto surgirem preocupações sobre a possibilidade de “curar” <strong>&#8220;alucinações&#8221;</strong> robôs conversadores. Embora isso possa parecer estranho e até um pouco assustador, a IA do Google tem potencial para entender e resolver esse problema. Usando algoritmos complexos e modelos preditivos, a IA pode identificar desvios e corrigir erros para uma interação mais suave e natural.</p>
+<p>O campo da inteligência artificial também tem visto surgirem preocupações sobre a possibilidade de “curar” <strong>“alucinações”</strong> robôs conversadores. Embora isso possa parecer estranho e até um pouco assustador, a IA do Google tem potencial para entender e resolver esse problema. Usando algoritmos complexos e modelos preditivos, a IA pode identificar desvios e corrigir erros para uma interação mais suave e natural.</p>
 
 
 

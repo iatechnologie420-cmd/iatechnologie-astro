@@ -2,7 +2,7 @@
 lang: "nb"
 title: "Hva er en Datamart / Datawarehouse?"
 slug: "hva-er-en-datamart-datawarehouse"
-excerpt: "Introduksjon til konseptet Datamart DE databutikk er et essensielt begrep i verden av dataanalyse og Business Intelligence (BI). Det er en underseksjon av et datavarehus, det vil si en spesialisert database som lagrer et segment av en bedrifts informasjon. Mens et datavarehus kan betraktes som et enormt bibliotek med bedriftsdata, kan et datamarked sees på [&hellip;]"
+excerpt: "Introduksjon til konseptet Datamart DE databutikk er et essensielt begrep i verden av dataanalyse og Business Intelligence (BI). Det er en underseksjon av et datavarehus, det vil si en spesialisert database som lagrer et segment av en bedrifts informasjon. Mens et datavarehus kan betraktes som et enormt bibliotek med bedriftsdata, kan et datamarked sees på […]"
 date: "2024-03-09T12:17:19"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Quest-ce-quun-Datamart-1-3.png"
 categories: ["databehandling-og-data-nb", "teknologi-og-digitalt-nb"]

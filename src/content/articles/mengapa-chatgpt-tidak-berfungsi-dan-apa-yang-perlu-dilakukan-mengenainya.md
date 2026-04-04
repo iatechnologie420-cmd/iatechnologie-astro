@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Mengapa ChatGPT tidak berfungsi dan apa yang perlu dilakukan mengenainya?"
 slug: "mengapa-chatgpt-tidak-berfungsi-dan-apa-yang-perlu-dilakukan-mengenainya"
-excerpt: "Mengapa ChatGPT tidak berfungsi? Apabila anda menggunakan ChatGPT, anda mungkin menghadapi masalah yang menyebabkan ia tidak berfungsi dengan betul. Masalah ini, walaupun mengecewakan, boleh mempunyai pelbagai punca. Dalam artikel ini, kami akan meneroka beberapa sebab biasa mengapa ChatGPT mungkin tidak berfungsi dengan betul dan memberi anda penyelesaian untuk menyelesaikannya. 1. Sambungan Internet Tidak Stabil Sambungan [&hellip;]"
+excerpt: "Mengapa ChatGPT tidak berfungsi? Apabila anda menggunakan ChatGPT, anda mungkin menghadapi masalah yang menyebabkan ia tidak berfungsi dengan betul. Masalah ini, walaupun mengecewakan, boleh mempunyai pelbagai punca. Dalam artikel ini, kami akan meneroka beberapa sebab biasa mengapa ChatGPT mungkin tidak berfungsi dengan betul dan memberi anda penyelesaian untuk menyelesaikannya. 1. Sambungan Internet Tidak Stabil Sambungan […]"
 date: "2024-03-09T12:16:46"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Pourquoi-ChatGPT-ne-fonctionne-t-il-pas-et-que-faire-a-ce-sujet-.png"
 categories: ["aplikasi-ai-ms"]
@@ -38,7 +38,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 
-<p>&#8211; Pastikan anda menggunakan versi terkini penyemak imbas anda.<br>&#8211; Kosongkan cache penyemak imbas anda untuk mengalih keluar sebarang data yang rosak yang boleh menjejaskan pengendalian ChatGPT.<br>&#8211; Cuba pelayar lain untuk melihat sama ada masalah berterusan. Sesetengah penyemak imbas mungkin mempunyai masalah keserasian dengan ciri ChatGPT tertentu.</p>
+<p>– Pastikan anda menggunakan versi terkini penyemak imbas anda.<br>– Kosongkan cache penyemak imbas anda untuk mengalih keluar sebarang data yang rosak yang boleh menjejaskan pengendalian ChatGPT.<br>– Cuba pelayar lain untuk melihat sama ada masalah berterusan. Sesetengah penyemak imbas mungkin mempunyai masalah keserasian dengan ciri ChatGPT tertentu.</p>
 
 
 
@@ -50,7 +50,7 @@ categories: ["aplikasi-ai-ms"]
 
 
 
-<p>&#8211; Kurangkan saiz permintaan anda dengan mengurangkan bilangan perkataan atau menyusun semula permintaan anda.<br>&#8211; Bahagikan permintaan anda kepada beberapa bahagian yang lebih kecil dan hantarkannya secara berasingan.<br>&#8211; Bersabar dan tunggu sehingga pelayan pemprosesan selesai memproses permintaan anda sebelum menghantar yang baharu.</p>
+<p>– Kurangkan saiz permintaan anda dengan mengurangkan bilangan perkataan atau menyusun semula permintaan anda.<br>– Bahagikan permintaan anda kepada beberapa bahagian yang lebih kecil dan hantarkannya secara berasingan.<br>– Bersabar dan tunggu sehingga pelayan pemprosesan selesai memproses permintaan anda sebelum menghantar yang baharu.</p>
 
 
 

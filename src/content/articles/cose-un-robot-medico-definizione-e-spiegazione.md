@@ -1,8 +1,8 @@
 ---
 lang: "it"
-title: "Cos&#8217;è un robot medico? definizione e spiegazione"
+title: "Cos’è un robot medico? definizione e spiegazione"
 slug: "cose-un-robot-medico-definizione-e-spiegazione"
-excerpt: "Definizione e tipologia di robot medici L’avvento della robotica nel settore sanitario ha aperto immense possibilità per migliorare l’assistenza medica e la chirurgia. Queste tecnologie, note come robot medici, sono dispositivi meccanici o sistemi informatici in grado di eseguire azioni complesse con elevata precisione, spesso sotto la supervisione o il controllo diretto di personale medico [&hellip;]"
+excerpt: "Definizione e tipologia di robot medici L’avvento della robotica nel settore sanitario ha aperto immense possibilità per migliorare l’assistenza medica e la chirurgia. Queste tecnologie, note come robot medici, sono dispositivi meccanici o sistemi informatici in grado di eseguire azioni complesse con elevata precisione, spesso sotto la supervisione o il controllo diretto di personale medico […]"
 date: "2024-03-09T12:24:41"
 categories: ["applicazioni-dellintelligenza-artificiale-it"]
 ---
@@ -25,7 +25,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<p>Per iniziare, diamo un&#8217;occhiata alla definizione stessa di a <strong>robot medico</strong>. Questo termine si riferisce a una macchina programmata per eseguire una serie di compiti medici, come la chirurgia, lo screening delle malattie, la riabilitazione o l&#8217;assistenza agli anziani o ai disabili. Queste macchine possono variare ampiamente in complessità e autonomia.</p>
+<p>Per iniziare, diamo un’occhiata alla definizione stessa di a <strong>robot medico</strong>. Questo termine si riferisce a una macchina programmata per eseguire una serie di compiti medici, come la chirurgia, lo screening delle malattie, la riabilitazione o l’assistenza agli anziani o ai disabili. Queste macchine possono variare ampiamente in complessità e autonomia.</p>
 
 
 
@@ -46,7 +46,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<li><strong>Robot per la telemedicina</strong> : Offrono consultazioni mediche a distanza, consentendo così l&#8217;accesso alle cure in aree remote o per i pazienti con mobilità ridotta.</li>
+<li><strong>Robot per la telemedicina</strong> : Offrono consultazioni mediche a distanza, consentendo così l’accesso alle cure in aree remote o per i pazienti con mobilità ridotta.</li>
 
 
 
@@ -63,7 +63,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<p>In breve, i robot medici rappresentano un importante progresso per il mondo della sanità. Con il continuo avanzamento di <strong>Tecnologia dell&#8217;intelligenza artificiale</strong> e sistemi di controllo, possiamo aspettarci miglioramenti significativi nella precisione chirurgica, nella riabilitazione e nella qualità complessiva della cura del paziente.</p>
+<p>In breve, i robot medici rappresentano un importante progresso per il mondo della sanità. Con il continuo avanzamento di <strong>Tecnologia dell’intelligenza artificiale</strong> e sistemi di controllo, possiamo aspettarci miglioramenti significativi nella precisione chirurgica, nella riabilitazione e nella qualità complessiva della cura del paziente.</p>
 
 
 
@@ -75,7 +75,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<p>La medicina è sempre stata un campo all’avanguardia nell’innovazione tecnica e tecnologica. L&#8217;uso dei robot in medicina, spesso indicato come <strong>robotica medica</strong>, rappresenta un progresso significativo che trasforma il modo in cui viene erogata l’assistenza. </p>
+<p>La medicina è sempre stata un campo all’avanguardia nell’innovazione tecnica e tecnologica. L’uso dei robot in medicina, spesso indicato come <strong>robotica medica</strong>, rappresenta un progresso significativo che trasforma il modo in cui viene erogata l’assistenza. </p>
 
 
 
@@ -92,7 +92,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 <ul class="wp-block-list">
-<li><strong>Chirurgia assistita da robot</strong>: Probabilmente l&#8217;applicazione più nota della robotica in medicina. Sistemi come <strong>da Vinci</strong> consentire ai chirurghi di eseguire procedure complesse con maggiore precisione e controllo.</li>
+<li><strong>Chirurgia assistita da robot</strong>: Probabilmente l’applicazione più nota della robotica in medicina. Sistemi come <strong>da Vinci</strong> consentire ai chirurghi di eseguire procedure complesse con maggiore precisione e controllo.</li>
 
 
 
@@ -100,7 +100,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<li><strong>Diagnostica</strong>: Alcuni robot possono spostarsi autonomamente nell&#8217;ospedale e raccogliere dati vitali dai pazienti o contribuire a eseguire scansioni di immagini mediche con precisione.</li>
+<li><strong>Diagnostica</strong>: Alcuni robot possono spostarsi autonomamente nell’ospedale e raccogliere dati vitali dai pazienti o contribuire a eseguire scansioni di immagini mediche con precisione.</li>
 
 
 
@@ -108,7 +108,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<li><strong>Assistenza ad anziani o disabili</strong>: L&#8217;utilizzo dei robot per aiutare le persone che necessitano di assistenza quotidiana apre prospettive nel campo dell&#8217;autonomia e del sostegno domiciliare.</li>
+<li><strong>Assistenza ad anziani o disabili</strong>: L’utilizzo dei robot per aiutare le persone che necessitano di assistenza quotidiana apre prospettive nel campo dell’autonomia e del sostegno domiciliare.</li>
 </ul>
 
 
@@ -167,7 +167,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<p>In terzo luogo, la questione della riservatezza e della protezione dei dati personali è essenziale. I robot medici raccolgono ed elaborano una grande quantità di dati sensibili. È quindi essenziale garantire la sicurezza di queste informazioni e assicurarsi che siano utilizzate in conformità con l&#8217;etica e le leggi in vigore.</p>
+<p>In terzo luogo, la questione della riservatezza e della protezione dei dati personali è essenziale. I robot medici raccolgono ed elaborano una grande quantità di dati sensibili. È quindi essenziale garantire la sicurezza di queste informazioni e assicurarsi che siano utilizzate in conformità con l’etica e le leggi in vigore.</p>
 
 
 
@@ -187,7 +187,7 @@ categories: ["applicazioni-dellintelligenza-artificiale-it"]
 
 
 
-<p>      Negli Stati Uniti, la Food and Drug Administration (<strong>FDA</strong>) è l&#8217;organizzazione che vigila sulla commercializzazione delle apparecchiature mediche, compresi i robot, garantendone la sicurezza e l&#8217;efficacia.</p>
+<p>      Negli Stati Uniti, la Food and Drug Administration (<strong>FDA</strong>) è l’organizzazione che vigila sulla commercializzazione delle apparecchiature mediche, compresi i robot, garantendone la sicurezza e l’efficacia.</p>
 
 
 

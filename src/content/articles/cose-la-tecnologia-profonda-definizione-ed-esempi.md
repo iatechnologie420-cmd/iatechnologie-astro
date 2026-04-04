@@ -2,7 +2,7 @@
 lang: "it"
 title: "Cos’è la tecnologia profonda? definizione ed esempi"
 slug: "cose-la-tecnologia-profonda-definizione-ed-esempi"
-excerpt: "Là Tecnologia profonda, o tecnologia all’avanguardia, rappresenta oggi una rivoluzione nel mondo delle startup e dell’innovazione. Si distingue dalle tecnologie più convenzionali per la profondità dei suoi cambiamenti e il suo potenziale dirompente. Ma cosa intendiamo veramente con? Tecnologia profondae in cosa differisce da altri tipi di tecnologia? Definizione di tecnologia profonda Il termine Tecnologia [&hellip;]"
+excerpt: "Là Tecnologia profonda, o tecnologia all’avanguardia, rappresenta oggi una rivoluzione nel mondo delle startup e dell’innovazione. Si distingue dalle tecnologie più convenzionali per la profondità dei suoi cambiamenti e il suo potenziale dirompente. Ma cosa intendiamo veramente con? Tecnologia profondae in cosa differisce da altri tipi di tecnologia? Definizione di tecnologia profonda Il termine Tecnologia […]"
 date: "2024-03-09T12:26:09"
 categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it"]
 ---
@@ -26,7 +26,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 <div class="ez-toc-title-container">
 <p class="ez-toc-title" style="cursor:inherit">Table of Contents</p>
 <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Definizione_di_tecnologia_profonda" >Definizione di tecnologia profonda</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Differenza_tra_deep_tech_e_altre_tecnologie" >Differenza tra deep tech e altre tecnologie</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Esempi_emblematici_di_Deep_Tech" >Esempi emblematici di Deep Tech</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Le_caratteristiche_distintive_delle_aziende_Deep_Tech" >Le caratteristiche distintive delle aziende Deep Tech</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Massiccio_impegno_in_Ricerca_e_Sviluppo_R_S" >Massiccio impegno in Ricerca e Sviluppo (R&#038;S)</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Contributo_al_progresso_scientifico" >Contributo al progresso scientifico</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Collaborazioni_con_il_mondo_accademico" >Collaborazioni con il mondo accademico</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Cicli_di_sviluppo_lunghi" >Cicli di sviluppo lunghi</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Alto_rischio_e_alto_potenziale_di_rendimento" >Alto rischio e alto potenziale di rendimento</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Accesso_al_capitale_specializzato" >Accesso al capitale specializzato</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Proprieta_intellettuale_solida" >Proprietà intellettuale solida</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Team_multidisciplinari" >Team multidisciplinari</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Contributo_alla_soluzione_delle_principali_sfide_globali" >Contributo alla soluzione delle principali sfide globali</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-14" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Concentrarsi_sulla_sostenibilita" >Concentrarsi sulla sostenibilità</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-15" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Le_principali_aree_di_innovazione_nel_Deep_Tech" >Le principali aree di innovazione nel Deep Tech</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-16" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Intelligenza_artificiale_e_apprendimento_automatico" >Intelligenza artificiale e apprendimento automatico</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-17" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Blockchain_e_sicurezza_dei_dati" >Blockchain e sicurezza dei dati</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-18" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Robotica_e_Automazione" >Robotica e Automazione</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-19" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Nanotecnologie_e_Materiali_Avanzati" >Nanotecnologie e Materiali Avanzati</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-20" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Biotecnologie_e_Genomica" >Biotecnologie e Genomica</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-21" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Informatica_quantistica" >Informatica quantistica</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-22" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Tecnologie_spaziali_e_aerospaziali" >Tecnologie spaziali e aerospaziali</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-23" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Realta_virtuale_e_aumentata" >Realtà virtuale e aumentata</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-24" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Energie_rinnovabili_e_tecnologie_verdi" >Energie rinnovabili e tecnologie verdi</a></li></ul></li></ul></li></ul></nav></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Definizione_di_tecnologia_profonda" >Definizione di tecnologia profonda</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Differenza_tra_deep_tech_e_altre_tecnologie" >Differenza tra deep tech e altre tecnologie</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Esempi_emblematici_di_Deep_Tech" >Esempi emblematici di Deep Tech</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Le_caratteristiche_distintive_delle_aziende_Deep_Tech" >Le caratteristiche distintive delle aziende Deep Tech</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Massiccio_impegno_in_Ricerca_e_Sviluppo_R_S" >Massiccio impegno in Ricerca e Sviluppo (R&S)</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Contributo_al_progresso_scientifico" >Contributo al progresso scientifico</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Collaborazioni_con_il_mondo_accademico" >Collaborazioni con il mondo accademico</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Cicli_di_sviluppo_lunghi" >Cicli di sviluppo lunghi</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-9" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Alto_rischio_e_alto_potenziale_di_rendimento" >Alto rischio e alto potenziale di rendimento</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-10" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Accesso_al_capitale_specializzato" >Accesso al capitale specializzato</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-11" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Proprieta_intellettuale_solida" >Proprietà intellettuale solida</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-12" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Team_multidisciplinari" >Team multidisciplinari</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-13" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Contributo_alla_soluzione_delle_principali_sfide_globali" >Contributo alla soluzione delle principali sfide globali</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-14" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Concentrarsi_sulla_sostenibilita" >Concentrarsi sulla sostenibilità</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-15" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Le_principali_aree_di_innovazione_nel_Deep_Tech" >Le principali aree di innovazione nel Deep Tech</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-16" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Intelligenza_artificiale_e_apprendimento_automatico" >Intelligenza artificiale e apprendimento automatico</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-17" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Blockchain_e_sicurezza_dei_dati" >Blockchain e sicurezza dei dati</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-18" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Robotica_e_Automazione" >Robotica e Automazione</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-19" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Nanotecnologie_e_Materiali_Avanzati" >Nanotecnologie e Materiali Avanzati</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-20" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Biotecnologie_e_Genomica" >Biotecnologie e Genomica</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-21" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Informatica_quantistica" >Informatica quantistica</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-22" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Tecnologie_spaziali_e_aerospaziali" >Tecnologie spaziali e aerospaziali</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-23" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Realta_virtuale_e_aumentata" >Realtà virtuale e aumentata</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-24" href="/it/cose-la-tecnologia-profonda-definizione-ed-esempi/#Energie_rinnovabili_e_tecnologie_verdi" >Energie rinnovabili e tecnologie verdi</a></li></ul></li></ul></li></ul></nav></div>
 <h2 class="wp-block-heading"><span class="ez-toc-section" id="Definizione_di_tecnologia_profonda"></span>Definizione di tecnologia profonda<span class="ez-toc-section-end"></span></h2>
 
 
@@ -40,7 +40,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 <ul class="wp-block-list">
-<li>Intelligenza artificiale (<strong>AI</strong>) e l&#8217;apprendimento automatico</li>
+<li>Intelligenza artificiale (<strong>AI</strong>) e l’apprendimento automatico</li>
 
 
 
@@ -60,7 +60,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<li>Elaborazione dell&#8217;informazione quantistica</li>
+<li>Elaborazione dell’informazione quantistica</li>
 </ul>
 
 
@@ -73,7 +73,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<p>Ciò che distingue il <strong>Tecnologia profonda</strong> Un&#8217;altra innovazione è che non si basa semplicemente sulle tecnologie esistenti, ma cerca di creare nuove basi per il futuro basate su sostanziali progressi scientifici. L&#8217;ambizione del <strong>Tecnologia profonda</strong> risiede nel suo potenziale di avere un impatto duraturo e significativo sul modo in cui viviamo e interagiamo con il mondo che ci circonda.</p>
+<p>Ciò che distingue il <strong>Tecnologia profonda</strong> Un’altra innovazione è che non si basa semplicemente sulle tecnologie esistenti, ma cerca di creare nuove basi per il futuro basate su sostanziali progressi scientifici. L’ambizione del <strong>Tecnologia profonda</strong> risiede nel suo potenziale di avere un impatto duraturo e significativo sul modo in cui viviamo e interagiamo con il mondo che ci circonda.</p>
 
 
 
@@ -90,7 +90,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 <ul class="wp-block-list">
-<li>Elon Musk e la sua azienda SpaceX: rivoluzionano l&#8217;industria spaziale con razzi riutilizzabili.</li>
+<li>Elon Musk e la sua azienda SpaceX: rivoluzionano l’industria spaziale con razzi riutilizzabili.</li>
 
 
 
@@ -98,11 +98,11 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<li>L&#8217;auto autonoma sviluppata da aziende come <strong>Waymo</strong> (filiale di Alphabet) o <strong>Sei qui</strong>.</li>
+<li>L’auto autonoma sviluppata da aziende come <strong>Waymo</strong> (filiale di Alphabet) o <strong>Sei qui</strong>.</li>
 
 
 
-<li>Sforzi nel settore dell&#8217;energia da fusione nucleare, con startup come <strong>Sistemi di fusione del Commonwealth</strong> che cercano di rendere l’energia da fusione una realtà.</li>
+<li>Sforzi nel settore dell’energia da fusione nucleare, con startup come <strong>Sistemi di fusione del Commonwealth</strong> che cercano di rendere l’energia da fusione una realtà.</li>
 </ul>
 
 
@@ -119,11 +119,11 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="Massiccio_impegno_in_Ricerca_e_Sviluppo_R_S"></span>Massiccio impegno in Ricerca e Sviluppo (R&#038;S)<span class="ez-toc-section-end"></span></h3>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="Massiccio_impegno_in_Ricerca_e_Sviluppo_R_S"></span>Massiccio impegno in Ricerca e Sviluppo (R&S)<span class="ez-toc-section-end"></span></h3>
 
 
 
-<p>Una delle caratteristiche molto importanti delle aziende Deep Tech è il loro sostanziale investimento in ricerca e sviluppo. Dedicano gran parte delle loro risorse, sia finanziarie che umane, all&#8217;esplorazione e allo sviluppo di soluzioni tecnologiche avanzate. Questo livello di impegno garantisce un’innovazione continua e mantiene l’azienda all’avanguardia nella tecnologia.</p>
+<p>Una delle caratteristiche molto importanti delle aziende Deep Tech è il loro sostanziale investimento in ricerca e sviluppo. Dedicano gran parte delle loro risorse, sia finanziarie che umane, all’esplorazione e allo sviluppo di soluzioni tecnologiche avanzate. Questo livello di impegno garantisce un’innovazione continua e mantiene l’azienda all’avanguardia nella tecnologia.</p>
 
 
 
@@ -131,7 +131,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<p>A differenza delle aziende tecnologiche tradizionali, le aziende Deep Tech spesso hanno origine o sono strettamente legate ai progressi scientifici. Si basano generalmente su principi e scoperte scoperte nei laboratori di ricerca e richiedono una conoscenza approfondita di campi come l&#8217;intelligenza artificiale, la biotecnologia, la robotica o l&#8217;aerospaziale.</p>
+<p>A differenza delle aziende tecnologiche tradizionali, le aziende Deep Tech spesso hanno origine o sono strettamente legate ai progressi scientifici. Si basano generalmente su principi e scoperte scoperte nei laboratori di ricerca e richiedono una conoscenza approfondita di campi come l’intelligenza artificiale, la biotecnologia, la robotica o l’aerospaziale.</p>
 
 
 
@@ -163,7 +163,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<p>La natura complessa delle tecnologie Deep Tech richiede investitori che comprendano le sfide inerenti al settore. Ecco perché l’accesso a fondi di venture capital specializzati è fondamentale. Questi offrono non solo supporto finanziario ma anche competenza e una rete che può essere decisiva per la crescita dell&#8217;azienda.</p>
+<p>La natura complessa delle tecnologie Deep Tech richiede investitori che comprendano le sfide inerenti al settore. Ecco perché l’accesso a fondi di venture capital specializzati è fondamentale. Questi offrono non solo supporto finanziario ma anche competenza e una rete che può essere decisiva per la crescita dell’azienda.</p>
 
 
 
@@ -179,7 +179,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<p>La natura innovativa delle aziende Deep Tech richiede competenze diversificate. Riuniscono quindi professionisti di diverse discipline (scienziati, ingegneri, specialisti di dati, esperti aziendali, ecc.) per affrontare le complesse sfide inerenti allo sviluppo di tecnologie all&#8217;avanguardia.</p>
+<p>La natura innovativa delle aziende Deep Tech richiede competenze diversificate. Riuniscono quindi professionisti di diverse discipline (scienziati, ingegneri, specialisti di dati, esperti aziendali, ecc.) per affrontare le complesse sfide inerenti allo sviluppo di tecnologie all’avanguardia.</p>
 
 
 
@@ -211,7 +211,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<p>L&#8217;<strong>Intelligenza artificiale</strong> (AI) e il <strong>Apprendimento automatico</strong> (machine learning) sono sicuramente i più pubblicizzati tra i campi della Deep Tech. Interessando quasi tutti i settori, dalla sanità alla finanza, queste tecnologie consentono di analizzare e interpretare enormi volumi di dati per ricavare apprendimento, prevedere comportamenti e automatizzare processi complessi.</p>
+<p>L’<strong>Intelligenza artificiale</strong> (AI) e il <strong>Apprendimento automatico</strong> (machine learning) sono sicuramente i più pubblicizzati tra i campi della Deep Tech. Interessando quasi tutti i settori, dalla sanità alla finanza, queste tecnologie consentono di analizzare e interpretare enormi volumi di dati per ricavare apprendimento, prevedere comportamenti e automatizzare processi complessi.</p>
 
 
 
@@ -259,7 +259,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<p>Con la riduzione dei costi di lancio e lo sviluppo di nuove tecnologie, lo spazio sta diventando un nuovo parco giochi per le innovazioni Deep Tech. Satelliti ultraminiaturizzati, propulsione avanzata, esplorazione spaziale&#8230; il potenziale commerciale e scientifico è colossale.</p>
+<p>Con la riduzione dei costi di lancio e lo sviluppo di nuove tecnologie, lo spazio sta diventando un nuovo parco giochi per le innovazioni Deep Tech. Satelliti ultraminiaturizzati, propulsione avanzata, esplorazione spaziale… il potenziale commerciale e scientifico è colossale.</p>
 
 
 
@@ -267,7 +267,7 @@ categories: ["innovazioni-dirompenti-ed-emergenti-it", "tecnologia-e-digitale-it
 
 
 
-<p>Combinando il mondo reale con dati e immagini digitali, la realtà aumentata (AR) e la realtà virtuale (VR) creano esperienze coinvolgenti che possono essere utilizzate per l&#8217;istruzione, l&#8217;intrattenimento e le simulazioni professionali in settori come quello immobiliare, medico o manifatturiero.</p>
+<p>Combinando il mondo reale con dati e immagini digitali, la realtà aumentata (AR) e la realtà virtuale (VR) creano esperienze coinvolgenti che possono essere utilizzate per l’istruzione, l’intrattenimento e le simulazioni professionali in settori come quello immobiliare, medico o manifatturiero.</p>
 
 
 

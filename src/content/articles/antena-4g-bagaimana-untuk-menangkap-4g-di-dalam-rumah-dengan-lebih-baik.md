@@ -2,7 +2,7 @@
 lang: "ms"
 title: "Antena 4G: Bagaimana untuk menangkap 4G di dalam rumah dengan lebih baik?"
 slug: "antena-4g-bagaimana-untuk-menangkap-4g-di-dalam-rumah-dengan-lebih-baik"
-excerpt: "Fahami cara 4G berfungsi dan hadnya Apa itu 4G? Teknologi 4G, juga dikenali sebagai generasi ke-4 piawaian untuk telekomunikasi mudah alih, adalah kesinambungan daripada 3G dan mendahului yang baru-baru ini 5G. Ia menawarkan sambungan Internet mudah alih berkelajuan tinggi, membolehkan anda mendapat manfaat daripada pemindahan data yang lebih baik. Ini termasuk penstriman video dalam definisi [&hellip;]"
+excerpt: "Fahami cara 4G berfungsi dan hadnya Apa itu 4G? Teknologi 4G, juga dikenali sebagai generasi ke-4 piawaian untuk telekomunikasi mudah alih, adalah kesinambungan daripada 3G dan mendahului yang baru-baru ini 5G. Ia menawarkan sambungan Internet mudah alih berkelajuan tinggi, membolehkan anda mendapat manfaat daripada pemindahan data yang lebih baik. Ini termasuk penstriman video dalam definisi […]"
 date: "2024-03-09T12:16:44"
 featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/Antennes-4G-Comment-Mieux-Capter-la-4G-en-Interieur-1-3.png"
 categories: ["infrastruktur-dan-rangkaian-ms", "teknologi-dan-digital-ms"]
