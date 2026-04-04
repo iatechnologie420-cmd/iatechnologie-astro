@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Master Data Manager : rôle, compétences, formations et salaire"
 slug: "master-data-manager-definition"
 excerpt: "Le rôle clé du Master Data Manager dans la gouvernance des données Dans un monde où les données sont devenues un actif stratégique majeur pour les entreprises, la gouvernance des données est essentielle pour assurer la qualité, la sécurité et l&#8217;efficacité de l&#8217;information. Au cœur de cette gouvernance, le Master Data Manager (MDM) joue un [&hellip;]"

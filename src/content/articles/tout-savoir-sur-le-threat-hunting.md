@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Tout savoir sur le Threat Hunting"
 slug: "tout-savoir-sur-le-threat-hunting"
 excerpt: "Comprendre le concept de Threat Hunting Résumé Le Threat Hunting, ou chasse aux menaces, est une approche proactive visant à détecter et à neutraliser les menaces avancées qui peuvent échapper aux systèmes de sécurité traditionnels. Ce concept, qui gagne en popularité dans le domaine de la cybersécurité, exige une compréhension approfondie des tactiques, techniques et [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "CIO apibrėžimas: kas yra IT paslaugų direktorius"
 slug: "cio-apibrezimas-kas-yra-it-paslaugu-direktorius"
 excerpt: "IT paslaugų direktoriaus vaidmuo ir misijos Esminis IT paslaugų direktoriaus vaidmuo THE IT paslaugų direktorius, taip pat žinomas kaip CIO Arba Informacinių sistemų direktorius, užima strateginę vietą šiuolaikinėse įmonėse. Skaitmeniniame amžiuje, kai informacija ir technologijos tapo profesinės veiklos pagrindu, būtina suprasti savo pareigas ir misijas. Šiame straipsnyje pateikiamas išsamus CIO funkcijos ir svarbos vaizdas. Kontekste, [&hellip;]"

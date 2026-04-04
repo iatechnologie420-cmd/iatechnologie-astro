@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Telegram: everything you need to know about the secure messaging application"
 slug: "telegram-everything-you-need-to-know-about-the-secure-messaging-application"
 excerpt: "What is Telegram? Telegram is an instant messaging application focused on speed and security. It has become one of the most popular communications platforms in the world thanks to its combination of advanced features, intuitive interface and commitment to protecting user privacy. Since its launch in 2013, Telegram has stood out among a multitude of [&hellip;]"

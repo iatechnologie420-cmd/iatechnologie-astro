@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "HIDS và NIDS: Sự khác biệt và cách sử dụng"
 slug: "hids-va-nids-su-khac-biet-va-cach-su-dung"
 excerpt: "Giới thiệu về Hệ thống phát hiện xâm nhập: HIDS và NIDS Bảo mật hệ thống thông tin là mối quan tâm hàng đầu của các doanh nghiệp và tổ chức thuộc mọi quy mô. Đối mặt với các mối đe dọa ngày càng tăng và sự phức tạp của các cuộc tấn công mạng, [&hellip;]"

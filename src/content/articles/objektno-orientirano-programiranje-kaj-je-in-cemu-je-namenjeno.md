@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Objektno orientirano programiranje: kaj je in čemu je namenjeno?"
 slug: "objektno-orientirano-programiranje-kaj-je-in-cemu-je-namenjeno"
 excerpt: "Osnove objektno orientiranega programiranja tam Objektno orientirano programiranje (OOP) je programska paradigma, ki uporablja &#8220;objekte&#8221; za oblikovanje računalniških aplikacij in programov. Ti objekti predstavljajo entitete iz resničnega sveta in razvijalcem omogočajo ustvarjanje bolj prilagodljive, razširljive in vzdržljive programske opreme. V tem članku bomo raziskali osnovne koncepte, ki tvorijo temelj OOP. Abstrakcija L&#8217;abstrakcija je postopek, s [&hellip;]"

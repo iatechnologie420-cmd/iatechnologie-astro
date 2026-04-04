@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Guía para bloquear su computadora (PC, Mac, Windows, etc.)"
 slug: "guia-para-bloquear-su-computadora-pc-mac-windows-etc"
 excerpt: "La necesidad de proteger su computadora En la era actual, en la que las actividades se están volviendo digitales a un ritmo acelerado, la seguridad de nuestra computadora se ha convertido en una preocupación importante tanto para las personas como para las empresas. Aquí encontrará una guía detallada sobre los buenos reflejos que debe adoptar [&hellip;]"

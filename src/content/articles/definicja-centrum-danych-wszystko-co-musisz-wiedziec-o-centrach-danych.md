@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Definicja centrum danych: wszystko, co musisz wiedzieć o centrach danych"
 slug: "definicja-centrum-danych-wszystko-co-musisz-wiedziec-o-centrach-danych"
 excerpt: "Zrozum podstawy W dobie Big Data i transformacji cyfrowej firmy muszą umieć efektywnie wykorzystywać swoje dane. TO Centrum danychlub „centrum danych” to architektoniczna odpowiedź na rosnące zapotrzebowanie na zarządzanie danymi, ich udostępnianie i analizę. W tym artykule szczegółowo omówimy podstawy Data Hub i jego centralną rolę w strategii danych firm. Co to jest centrum danych? [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Interfața om-mașină: ce sunt HMI-urile?"
 slug: "interfata-om-masina-ce-sunt-hmi-urile"
 excerpt: "Definiția interfeței om-mașină Interfața om-mașină se referă la toate mijloacele și instrumentele implementate pentru a permite interacțiunea eficientă între un utilizator uman și un sistem informatic. Acesta cuprinde totul, de la designul vizual al ecranelor până la dispozitivele de intrare, cum ar fi tastatura, mouse-ul și chiar interfețele tactile și vocale. Evoluția istorică a HMI [&hellip;]"

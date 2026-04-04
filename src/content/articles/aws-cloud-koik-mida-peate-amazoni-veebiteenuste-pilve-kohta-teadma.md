@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "AWS Cloud – kõik, mida peate Amazoni veebiteenuste pilve kohta teadma"
 slug: "aws-cloud-koik-mida-peate-amazoni-veebiteenuste-pilve-kohta-teadma"
 excerpt: "Sissejuhatus Amazoni veebiteenustesse (AWS): revolutsioon pilvandmetöötluses Alates selle loomisest 2006. Amazon Web Services (AWS) on radikaalselt muutnud IT-maastikku, pakkudes pilveteenuste platvormi, mis pakub enneolematut paindlikkust, mastaapi ja mastaabisäästu. Selle sissejuhatuse eesmärk on selgitada selle toimimispõhimõtteidAWS ja selgitada, miks sellest lahendusest on saanud pilvandmetöötluse võtmemängija. Mis on Amazon Web Services (AWS)? AWS on maailma kõige põhjalikum [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "🎓 Comment Obtenir Google AI Pro Gratuitement Pendant 15 Mois (Veo 3 + Gemini Pro 2.5)"
 slug: "comment-obtenir-google-ai-pro-et-veo-3-gratuit"
 excerpt: "Tu veux tester&nbsp;Gemini 2.5 Pro, créer des vidéos avec&nbsp;Veo 3&nbsp;et profiter de&nbsp;l’IA Google&nbsp;gratuitement pendant&nbsp;15 mois&nbsp;?Voici un&nbsp;guide complet, légal et fonctionnel, même si tu ne vis pas aux États-Unis. Offre limitée jusqu’au&nbsp;30 juin 2025&nbsp;! ✅ Avantages de l’offre Google AI Pro Étudiant En activant cette offre, tu obtiens gratuitement : ⚠️ Conditions : Ce qu’il te [&hellip;]"

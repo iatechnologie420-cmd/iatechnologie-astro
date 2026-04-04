@@ -1,4 +1,5 @@
 ---
+lang: "de"
 title: "Spot: der Roboterhund von Boston Dynamics"
 slug: "spot-der-roboterhund-von-boston-dynamics"
 excerpt: "Entdeckung von Spot, dem Hunderoboter von Boston Dynamics Bekannt als Spitzenreiter der modernen Robotik, Stelle, der Roboterhund von Boston Dynamics, hat eine Schockwelle in der Welt der neuen Technologien ausgelöst. Entwickelt, um seine Artgenossen zu ersetzen, ist er das symbolische Beispiel für Tierroboter, die bereit sind, ihre Vorbilder zu ersetzen. Spot, eine technologische Revolution Stelle [&hellip;]"

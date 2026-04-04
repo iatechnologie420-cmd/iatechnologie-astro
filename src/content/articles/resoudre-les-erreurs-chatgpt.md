@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "ChatGPT : comment résoudre les erreurs ? Guide complet"
 slug: "resoudre-les-erreurs-chatgpt"
 excerpt: "Comprendre et résoudre les erreurs courantes de ChatGPT L&#8217;intelligence artificielle continue de faire des pas prodigieux en termes de développement et d&#8217;amélioration, mais elle est loin d&#8217;être parfaite. Ainsi, nous avons vu se produire des erreurs parfois inacceptables, que le PDG de Google ne manque pas de reconnaître. Que ce soit en termes de traitement [&hellip;]"

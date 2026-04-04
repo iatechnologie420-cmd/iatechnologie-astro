@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Comunicaciones Unificadas: ¿la inalcanzabilidad se ha vuelto imposible?"
 slug: "comunicaciones-unificadas-la-inalcanzabilidad-se-ha-vuelto-imposible"
 excerpt: "Comunicaciones unificadas: definición y principio ¿Qué son las Comunicaciones Unificadas? EL Comunicaciones Unificadas (CU), o Comunicaciones Unificadas en inglés, designa un conjunto de servicios y soluciones que tienen como objetivo integrar o unificar varias formas de comunicaciones dentro de una misma interfaz o plataforma. Esto incluye mensajería instantánea, videoconferencias, llamadas de voz (VoIP), correo electrónico, [&hellip;]"

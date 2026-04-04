@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Robot terbaik di alam semesta Star Wars"
 slug: "robot-terbaik-di-alam-semesta-star-wars"
 excerpt: "Legenda mekanis: C-3PO dan R2-D2 Dianggap sebagai droid paling simbolis dalam saga ini Perang Bintang, C-3PO dan R2-D2 telah menandai generasi penggemar dengan kepribadian unik, cerita, dan peran penting mereka sepanjang episode. Artikel ini menggali dunia legenda mekanik ini, mengungkap esensi dan dampak budayanya. C-3PO: Protokol Droid Poliglot C-3PO, sering dijuluki Threepio, adalah a protokol [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Telegram : tout savoir sur l’application de messagerie sécurisée"
 slug: "telegram-guide-tout-savoir-telegram-premium"
 excerpt: "Qu&#8217;est-ce que Telegram? Telegram est une application de messagerie instantanée focalisée sur la vitesse et la sécurité. Elle est devenue l&#8217;une des plateformes de communication les plus populaires dans le monde grâce à sa combinaison de fonctionnalités avancées, son interface intuitive et son engagement pour la protection de la vie privée des utilisateurs. Depuis son [&hellip;]"

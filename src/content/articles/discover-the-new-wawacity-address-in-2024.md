@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Discover the new Wawacity address in 2024!"
 slug: "discover-the-new-wawacity-address-in-2024"
 excerpt: "Wawacity: the benchmark for free (but illegal) downloading Wawacity is an online platform that offers a wide selection of free content to download in different areas: films, series, music, video games, software, books, and much more. This new address has quickly become a must for entertainment lovers who want to enjoy their favorite media without [&hellip;]"

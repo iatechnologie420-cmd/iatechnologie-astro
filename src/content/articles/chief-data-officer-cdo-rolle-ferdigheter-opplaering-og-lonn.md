@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Chief Data Officer (CDO): ​​rolle, ferdigheter, opplæring og lønn"
 slug: "chief-data-officer-cdo-rolle-ferdigheter-opplaering-og-lonn"
 excerpt: "Den strategiske plassen til Chief Data Officer i selskapet I en tid med big data og dataanalyse anerkjenner bedrifter i økende grad viktigheten av å administrere og utnytte dataene sine strategisk. I hjertet av denne anerkjennelsen er en nøkkelrolle: Chief Data Officer (CDO). CDO er avgjørende for å balansere styring, datakvalitet, regeloverholdelse og utnytte data [&hellip;]"

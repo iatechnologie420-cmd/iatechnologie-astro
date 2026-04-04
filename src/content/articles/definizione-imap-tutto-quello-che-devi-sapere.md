@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Definizione IMAP: tutto quello che devi sapere"
 slug: "definizione-imap-tutto-quello-che-devi-sapere"
 excerpt: "Introduzione all&#8217;IMAP Internet Message Access Protocol (IMAP) è uno standard di comunicazione che consente agli utenti di ricevere e gestire le proprie e-mail direttamente sui server di posta elettronica, diverso dall&#8217;approccio tradizionale in cui le e-mail vengono scaricate sul client di posta locale. Ciò comporta molti vantaggi pratici, soprattutto in un mondo in cui accediamo [&hellip;]"

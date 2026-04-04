@@ -1,4 +1,5 @@
 ---
+lang: "de"
 title: "IT / Informationstechnologie: Was ist Informationstechnologie?"
 slug: "it-informationstechnologie-was-ist-informationstechnologie"
 excerpt: "IT verstehen: Definition und Entwicklung von Informationstechnologien Was ist es? Der Begriff ES, Für Informationstechnologie bezeichnet im Englischen alle Technologien im Zusammenhang mit der Verarbeitung und Verwaltung von Information und Daten. Dieses weite Gebiet umfasst somit die Informatik, Telekommunikation, Datenbankmanagementsysteme, Informationssicherheit und vieles mehr. IT ist in der modernen Welt von entscheidender Bedeutung: Sie ermöglicht [&hellip;]"

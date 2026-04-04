@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Los mejores robots del universo Star Wars"
 slug: "los-mejores-robots-del-universo-star-wars"
 excerpt: "Leyendas mecánicas: C-3PO y R2-D2 Considerados los droides más emblemáticos de la saga. Guerra de las Galaxias, C-3PO y R2-D2 han marcado a generaciones de fans con su personalidad única, su historia y su papel crucial a lo largo de los episodios. Este artículo se adentra en el mundo de estas leyendas mecánicas, revelando su [&hellip;]"

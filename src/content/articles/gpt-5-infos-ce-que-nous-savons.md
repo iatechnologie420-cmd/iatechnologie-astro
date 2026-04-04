@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "GPT-5 : tout ce que nous savons"
 slug: "gpt-5-infos-ce-que-nous-savons"
 excerpt: "L&#8217;évolution de l&#8217;intelligence artificielle : de GPT-3 à GPT-5 La progression fulgurante de l&#8217;intelligence artificielle générative dans le paysage technologique est portée en ce moment même par le phénomène ChatGPT. Commençant avec GPT-3 puis, en attendant GPT-4, une version intermédiaire GPT-3.5 a été mise au point par OpenAI. Mais la véritable révolution se trame avec [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "PII : tout savoir sur les informations personnelles identifiables"
 slug: "pii-tout-savoir-sur-les-informations-personnelles-identifiables"
 excerpt: "Comprendre le concept de PII : les informations personnelles identifiables Dans le monde numérique actuel, la protection de vos informations personnelles identifiables ou PII est devenue essentielle. Les Informations personnelles identifiables, couramment connues sous l&#8217;acronyme PII, font référence à tout type d&#8217;information pouvant potentiellement être utilisée pour identifier un individu en particulier. Cela peut inclure [&hellip;]"

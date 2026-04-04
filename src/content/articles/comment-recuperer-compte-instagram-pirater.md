@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Comment récupérer un compte Instagram piraté ?"
 slug: "comment-recuperer-compte-instagram-pirater"
 excerpt: "Identification d&#8217;un compte Instagram compromis Avec l&#8217;augmentation constante des utilisateurs sur les plateformes sociales comme Instagram, les risques de piratage de comptes se sont intensifiés. Savoir identifier si votre compte Instagram a été compromis est essentiel pour pouvoir agir rapidement et efficacement. Dans cet article, découvrons ensemble les signaux d&#8217;alerte d&#8217;un compte compromis et les [&hellip;]"

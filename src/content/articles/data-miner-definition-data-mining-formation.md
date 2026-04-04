@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Data Miner : rôle, compétences, formations et salaire"
 slug: "data-miner-definition-data-mining-formation"
 excerpt: "Le rôle et les missions du data Miner Le Data Miner, ou prospecteur de données, joue un rôle crucial dans le monde des données et de l&#8217;intelligence artificielle. C&#8217;est un acteur de l&#8217;ombre indispensable qui facilite la prise de décision et le pilotage stratégique au sein des entreprises. Nous allons détailler ses missions et l&#8217;importance [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Spot : le robot chien de Boston Dynamics"
 slug: "spot-robot-chien-boston-dynamics"
 excerpt: "Découverte du Spot, le robot chien de Boston Dynamics Réputé pour être la fine fleur de la robotique moderne, Spot, le robot chien de Boston Dynamics, a su créer une onde de choc dans l&#8217;univers des nouvelles technologies. Conçu pour remplacer ses congénères, il est l&#8217;exemple emblématique de robots animaux prêts à se substituer à [&hellip;]"

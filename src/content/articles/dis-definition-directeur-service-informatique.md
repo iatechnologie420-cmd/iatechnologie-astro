@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "DSI définition : qu’est-ce qu’un Directeur des Services Informatiques"
 slug: "dis-definition-directeur-service-informatique"
 excerpt: "Rôle et missions du Directeur des Services Informatiques Le rôle essentiel du Directeur des Services Informatiques Le Directeur des Services Informatiques, aussi connu sous le nom de DSI ou Directeur des Systèmes d&#8217;Information, détient une place stratégique au sein des entreprises modernes. À l&#8217;ère du numérique, où l&#8217;information et la technologie sont devenues le noyau [&hellip;]"

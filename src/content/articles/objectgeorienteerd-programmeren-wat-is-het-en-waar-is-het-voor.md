@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Objectgeoriënteerd programmeren: wat is het en waar is het voor?"
 slug: "objectgeorienteerd-programmeren-wat-is-het-en-waar-is-het-voor"
 excerpt: "Grondbeginselen van objectgeoriënteerd programmeren Daar Object georiënteerd programmeren (OOP) is een programmeerparadigma dat &#8220;objecten&#8221; gebruikt om computertoepassingen en -programma&#8217;s te ontwerpen. Deze objecten vertegenwoordigen entiteiten uit de echte wereld en stellen ontwikkelaars in staat flexibelere, schaalbare en onderhoudbare software te creëren. In dit artikel zullen we de basisconcepten onderzoeken die de basis vormen van OOP. [&hellip;]"

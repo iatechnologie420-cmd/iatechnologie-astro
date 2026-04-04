@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "AWS Cloud – Vse, kar morate vedeti o oblaku Amazon Web Services"
 slug: "aws-cloud-vse-kar-morate-vedeti-o-oblaku-amazon-web-services"
 excerpt: "Uvod v spletne storitve Amazon (AWS): revolucija v računalništvu v oblaku Od svoje ustanovitve leta 2006, Spletne storitve Amazon (AWS) je radikalno spremenil krajino IT z zagotavljanjem platforme storitev v oblaku, ki zagotavlja neprimerljivo prilagodljivost, obseg in ekonomijo obsega. Namen tega uvoda je pojasniti načela delovanjaAWS in pojasniti, zakaj je ta rešitev postala ključni akter [&hellip;]"

@@ -24,6 +24,7 @@ const articlesCollection = defineCollection({
     date: z.string().optional().default(''),
     featuredImage: z.string().optional(),
     categories: z.array(z.string()).optional().default([]),
+    lang: z.string().optional(),
   }),
 });
 

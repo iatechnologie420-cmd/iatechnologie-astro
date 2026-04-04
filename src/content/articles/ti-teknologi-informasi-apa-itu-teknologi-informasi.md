@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "TI / Teknologi Informasi: apa itu teknologi informasi?"
 slug: "ti-teknologi-informasi-apa-itu-teknologi-informasi"
 excerpt: "Pengertian TI: Pengertian dan Evolusi Teknologi Informasi Apa itu? Syarat DIA, Untuk Teknologi Informasi dalam bahasa Inggris, mengacu pada semua teknologi yang terkait dengan pemrosesan dan pengelolaan informasi dan data. Bidang yang luas ini mencakup ilmu komputer, telekomunikasi, sistem manajemen basis data, keamanan informasi, dan banyak lagi. TI sangat penting di dunia modern: TI memungkinkan [&hellip;]"

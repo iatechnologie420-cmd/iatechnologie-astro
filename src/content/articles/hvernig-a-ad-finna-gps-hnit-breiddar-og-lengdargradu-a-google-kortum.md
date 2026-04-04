@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Hvernig á að finna GPS hnit (breiddar- og lengdargráðu) á Google kortum?"
 slug: "hvernig-a-ad-finna-gps-hnit-breiddar-og-lengdargradu-a-google-kortum"
 excerpt: "THE GPS (Global Positioning System) er tækni sem er orðin nauðsynleg í daglegu lífi okkar. Með því að nota merki sem send eru frá gervihnöttum, GPS kerfi gerir okkur kleift að ákvarða nákvæmlega staðsetningu okkar í formi landfræðilegra hnita. Þessi hnit eru táknuð með tveimur lykilþáttum: the breiddargráðu og lengdargráðu. Í þessari grein munum við [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Récupérer mes donnés snapchat gratuitement : Memories, Stories&#8230; sans payer"
 slug: "recuperer-donnes-snapchat-memories-gratuitement"
 excerpt: "Snapchat a annoncé la fin du stockage gratuit illimité : un changement qui pousse des millions d’utilisateurs à agir rapidement pour ne pas perdre leurs souvenirs. À partir de maintenant, seuls&nbsp;5 Go&nbsp;restent gratuits ; tout ce qui dépasse pourrait être&nbsp;supprimé au bout de 12 mois, sauf si tu passes à un abonnement payant. Photos, vidéos, [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "ALM arba programos gyvavimo ciklo valdymas: apibrėžimas"
 slug: "alm-arba-programos-gyvavimo-ciklo-valdymas-apibrezimas"
 excerpt: "Pagrindai L&#8217;Gyvenimo ciklo valdymo programa (ALM) yra sisteminga programinės įrangos kūrimo valdymo ir valdymo sistema. Ji apima praktiką, procesus ir įrankius, kurie leidžia komandoms valdyti programos gyvavimo ciklą nuo sumanymo iki išėjimo į pensiją. Pažvelkime į ALM komponentus ir svarbą šiuolaikinėje programinės įrangos kūrime. Kas yra ALM? ALM reiškia praktikos ir procesų tęstinumą kuriant ir [&hellip;]"

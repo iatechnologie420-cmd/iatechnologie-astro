@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "HIDS ve NIDS: Farklılıklar ve Kullanım"
 slug: "hids-ve-nids-farkliliklar-ve-kullanim"
 excerpt: "Saldırı Tespit Sistemlerine Giriş: HIDS ve NIDS Bilgi sistemi güvenliği her büyüklükteki işletme ve kuruluş için merkezi bir konudur. Büyüyen tehditlerle ve siber saldırıların karmaşıklığıyla karşı karşıya kalındığında, etkili savunma mekanizmalarının devreye sokulması zorunludur. Bunlar arasında, Saldırı Tespit Sistemleri (Kimlikler) bilgisayar ağlarının izlenmesinde ve şüpheli etkinliklerin tespitinde çok önemli bir rol oynar. Özellikle, ana bilgisayar [&hellip;]"

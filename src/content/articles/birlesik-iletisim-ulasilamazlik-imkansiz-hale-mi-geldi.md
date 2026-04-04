@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Birleşik İletişim: Ulaşılamazlık imkansız hale mi geldi?"
 slug: "birlesik-iletisim-ulasilamazlik-imkansiz-hale-mi-geldi"
 excerpt: "Birleşik iletişim: Tanım ve prensip Birleşik İletişim Nedir? THE Birleşik İletişim (CU) veya İngilizce Birleşik İletişim, çeşitli iletişim biçimlerini aynı arayüz veya platform içerisinde entegre etmeyi veya birleştirmeyi amaçlayan bir dizi hizmet ve çözümü belirtir. Buna anlık mesajlaşma, video konferans, sesli arama (VoIP), e-posta, web konferansı ve sesli posta dahildir. Ana amaç, coğrafi konuma veya [&hellip;]"

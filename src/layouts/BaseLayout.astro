@@ -53,8 +53,22 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, siteUrl).toString(
       <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     )}
   </head>
-  <body>
+  <body class="bg-background text-foreground antialiased selection:bg-primary/30 selection:text-primary">
     <slot />
+    
+    <script is:inline>
+      // Détection de la langue du visiteur
+      const supportedLangs = ['it', 'es', 'en', 'de', 'ro', 'sl', 'tr'];
+      const userLang = navigator.language.split('-')[0];
+      const currentPath = window.location.pathname;
 
+      // Si l'utilisateur est sur la page blog par défaut (FR) et qu'on a sa langue
+      if (currentPath === '/blog' || currentPath === '/blog/') {
+        if (supportedLangs.includes(userLang)) {
+          // Redirection vers la version localisée
+          window.location.href = `/${userLang}/blog`;
+        }
+      }
+    </script>
   </body>
 </html>

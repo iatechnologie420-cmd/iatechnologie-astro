@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Here are the best free alternatives to ChatGPT"
 slug: "here-are-the-best-free-alternatives-to-chatgpt"
 excerpt: "Discovering free alternatives to ChatGPT At a time when conversation systems based onArtificial Intelligence (AI) dominate the tech space, it seems the paid option like ChatGPT has become the norm. However, for those looking to explore free alternatives, there are plenty of equally effective and impactful options. This article explores a few AI chat models [&hellip;]"

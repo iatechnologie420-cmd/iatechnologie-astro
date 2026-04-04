@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Mọi điều bạn cần biết về nghề Chuyên viên phân tích định lượng hay định lượng"
 slug: "moi-dieu-ban-can-biet-ve-nghe-chuyen-vien-phan-tich-dinh-luong-hay-dinh-luong"
 excerpt: "Giới thiệu về thế giới tài chính định lượng Tài chính định lượng là một lĩnh vực tài chính chuyên biệt sử dụng các mô hình toán học, thống kê và kỹ thuật máy tính để hiểu và dự đoán hành vi của thị trường tài chính. Trong bài viết này, chúng ta sẽ khám [&hellip;]"

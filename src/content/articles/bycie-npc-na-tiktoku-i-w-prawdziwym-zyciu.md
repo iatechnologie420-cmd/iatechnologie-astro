@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Bycie NPC na Tiktoku i w prawdziwym życiu&#8230;?"
 slug: "bycie-npc-na-tiktoku-i-w-prawdziwym-zyciu"
 excerpt: "Fenomen „kontrolerów NPC” na TikToku W nieskończonym wszechświecie TIK Tok, uwagę użytkowników przykuło dość osobliwe zjawisko: „ Kontrolerzy NPC » (Postacie niezależne). Wyrażenie „NPC”, które wcześniej ograniczało się do gier wideo, wkrada się teraz do żargonu mediów społecznościowych, definiując doświadczenie łączące rzeczywistość rozszerzoną i interakcję społeczną. Ale co tak naprawdę kryje się za tym szaleństwem [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "BlueWillow AI: how to use the free alternative to MidJourney?"
 slug: "bluewillow-ai-how-to-use-the-free-alternative-to-midjourney"
 excerpt: "In the ever-evolving world of generative AI, alternatives like BlueWillow AI offer accessible solutions for those looking to harness the power of this type of technology. Known asfree alternative to MidJourney, BlueWillow AI represents a significant advance, notably with the use of the innovative Stable Diffusion method. Essential alternative to MidJourney BlueWillow AI is positioned [&hellip;]"

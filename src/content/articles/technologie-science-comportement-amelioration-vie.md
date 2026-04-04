@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Comment la technologie en sciences du comportement peut-elle améliorer notre quotidien ?"
 slug: "technologie-science-comportement-amelioration-vie"
 excerpt: "L&#8217;impact de la technologie en sciences du comportement La technologie a considérablement influencé de nombreux domaines, y compris les sciences du comportement. Grâce aux avancées technologiques, les chercheurs ont accès à des outils et des méthodes qui leur permettent de mieux comprendre et d&#8217;analyser le comportement humain. Dans cet article, nous explorerons les différents aspects [&hellip;]"

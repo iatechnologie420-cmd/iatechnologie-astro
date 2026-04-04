@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "La révolution du braille : Quand la technologie transforme l&#8217;accessibilité"
 slug: "eolution-braille-technologie-accessibiliter"
 excerpt: "La révolution du braille à l&#8217;ère technologique Genèse du braille et adaptations contemporaines À l&#8217;origine élaboré par Louis Braille au XIXe siècle, le système d&#8217;écriture pour les aveugles et malvoyants connu sous le nom de braille a révolutionné leur façon de communiquer. Inspiré par un mécanisme conçu pour l&#8217;armée pour lire dans le noir, Louis [&hellip;]"

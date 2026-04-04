@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Data Hub-definitie: alles wat u moet weten over datahubs"
 slug: "data-hub-definitie-alles-wat-u-moet-weten-over-datahubs"
 excerpt: "Begrijp de grondbeginselen In het tijdperk van Big Data en digitale transformatie moeten bedrijven hun data effectief kunnen exploiteren. DE Gegevenshub, of ‘datacenter’, is een architectonisch antwoord op deze groeiende behoefte aan gegevensbeheer, delen en analyse. In dit artikel gaan we dieper in op de fundamenten van een Data Hub en de centrale rol ervan [&hellip;]"

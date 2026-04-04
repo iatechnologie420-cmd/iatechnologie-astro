@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "La catena del valore PORTER | Esempi concreti per capire"
 slug: "la-catena-del-valore-porter-esempi-concreti-per-capire"
 excerpt: "Comprendere la catena del valore di Michael Porter La catena del valore è un concetto sviluppato dall’economista e accademico americano Michele Porter nella sua opera &#8220;Competitive Advantage&#8221; pubblicata nel 1985. Questo modello è essenziale per analizzare le attività interne di un&#8217;azienda al fine di ottimizzarne il valore creato e i vantaggi competitivi. Questo articolo fornisce [&hellip;]"

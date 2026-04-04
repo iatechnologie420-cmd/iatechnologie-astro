@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Cos&#8217;è lo Sharding? definizione e vantaggi"
 slug: "cose-lo-sharding-definizione-e-vantaggi"
 excerpt: "Comprendere lo sharding: definizione e principi di base Il mondo dei database e dell’archiviazione di dati su larga scala è complesso e in continua evoluzione. Per gestire in modo efficace volumi di dati in crescita esponenziale, le architetture IT devono innovarsi e trovare soluzioni per ottimizzare le prestazioni e la gestione di questi dati. Un [&hellip;]"

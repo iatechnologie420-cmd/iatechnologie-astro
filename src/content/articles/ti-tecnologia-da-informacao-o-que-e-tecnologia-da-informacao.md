@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "TI/Tecnologia da Informação: o que é tecnologia da informação?"
 slug: "ti-tecnologia-da-informacao-o-que-e-tecnologia-da-informacao"
 excerpt: "Entendendo TI: Definição e evolução das tecnologias de informação O que é? O termo ISTO, Para Tecnologia da Informação em inglês, designa todas as tecnologias relacionadas ao processamento e gerenciamento de Informação e dados. Este vasto campo inclui, portanto, a ciência da computação, telecomunicações, sistemas de gerenciamento de banco de dados, segurança da informação e [&hellip;]"

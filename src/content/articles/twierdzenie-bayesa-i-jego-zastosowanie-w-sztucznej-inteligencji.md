@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Twierdzenie Bayesa i jego zastosowanie w sztucznej inteligencji"
 slug: "twierdzenie-bayesa-i-jego-zastosowanie-w-sztucznej-inteligencji"
 excerpt: "Wprowadzenie do twierdzenia Bayesa TO Twierdzenie Bayesa to podstawowa formuła prawdopodobieństwa i statystyki, która opisuje aktualizację naszych przekonań w obecności nowych informacji. Twierdzenie to, nazwane na cześć wielebnego Thomasa Bayesa, odgrywa kluczową rolę w wielu dziedzinach, od uczenia maszynowego po podejmowanie decyzji w warunkach niepewności. Istota twierdzenia Bayesa Serce należące do Twierdzenie Bayesa jest prawdopodobieństwem [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "How much better is ChatGPT-4 than ChatGPT-3?"
 slug: "how-much-better-is-chatgpt-4-than-chatgpt-3"
 excerpt: "The rise of technologyartificial intelligence continues to transform the digital landscape by offering increasingly sophisticated tools. In this new era, successive versions of ChatGPT of OpenAI perfectly illustrate this progress. While ChatGPT-3 had already marked a turning point, its latest iteration, ChatGPT-4, pushes the boundaries of what the natural language processing (NLP) can do. Let&#8217;s [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Aprenda ingeniería rápida: en 12 pasos"
 slug: "aprenda-ingenieria-rapida-en-12-pasos"
 excerpt: "Introducción a la ingeniería rápida. ¿Qué es la ingeniería rápida? EL Ingeniería rápida Es un campo emergente que se centra en optimizar las indicaciones o comandos que damos a los sistemas de inteligencia artificial (IA), en particular aquellos basados ​​en lenguaje natural, como los generadores de texto. Es una disciplina particularmente importante con la llegada [&hellip;]"

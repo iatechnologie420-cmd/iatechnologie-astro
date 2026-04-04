@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Prix iCloud : comparatif des différents tarifs et formules possibles"
 slug: "prix-icloud-comparatif-tuto-changement-forfait"
 excerpt: "iCloud est un service de stockage en nuage proposé par Apple qui permet de stocker des données telles que des documents, des photos, et de la musique sur des serveurs distants pour les télécharger sur des appareils iOS, Mac ou Windows. Il offre également la possibilité de synchroniser des données entre différents appareils et de [&hellip;]"

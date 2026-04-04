@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Pepper: tutto quello che devi sapere sul robot sociale di SoftBank"
 slug: "pepper-tutto-quello-che-devi-sapere-sul-robot-sociale-di-softbank"
 excerpt: "Pepper: Presentazione e funzioni di base riassunto Il robot sociale Pepe è un&#8217;impresa tecnologica progettata per interagire con gli esseri umani in un ambiente sociale. Dotato di numerosi sensori e di un&#8217;intelligenza artificiale avanzata, Pepper comprende e reagisce alle nostre emozioni adattandosi ai nostri comportamenti. Attraverso questo articolo presenteremo le funzioni di base di Pepper [&hellip;]"

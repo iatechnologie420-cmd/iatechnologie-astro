@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "TI / Tecnologías de la Información: ¿qué es la tecnología de la información?"
 slug: "ti-tecnologias-de-la-informacion-que-es-la-tecnologia-de-la-informacion"
 excerpt: "Entendiendo las TI: Definición y evolución de las tecnologías de la información ¿Qué es? El término ÉL, para Tecnologías de la información en inglés, designa todas las tecnologías relacionadas con el procesamiento y gestión de información y datos. Este vasto campo incluye, por tanto, la informática, telecomunicaciones, sistemas de gestión de bases de datos, seguridad [&hellip;]"

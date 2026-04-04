@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "AWS Cloud – Tot ce trebuie să știți despre cloudul Amazon Web Services"
 slug: "aws-cloud-tot-ce-trebuie-sa-stiti-despre-cloudul-amazon-web-services"
 excerpt: "Introducere în Amazon Web Services (AWS): o revoluție în cloud computing De la crearea sa în 2006, Servicii web Amazon (AWS) a schimbat radical peisajul IT prin furnizarea unei platforme de servicii cloud care oferă flexibilitate, scară și economii de scară fără precedent. Această introducere își propune să clarifice principiile de funcționare aleAWS și pentru [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Questi giochi in cui l&#8217;intelligenza artificiale batte gli umani"
 slug: "questi-giochi-in-cui-lintelligenza-artificiale-batte-gli-umani"
 excerpt: "L&#8217;alba dei supercomputer e la sfida degli scacchi L’era dei supercomputer non è più una lontana visione futuristica, ma una realtà tangibile che sta rivoluzionando diversi settori, compresi i giochi di strategia come gli scacchi. Queste macchine dalla potenza di calcolo fenomenale offrono un terreno di gioco ideale per esplorare le frontiere dell’intelligenza artificiale e [&hellip;]"

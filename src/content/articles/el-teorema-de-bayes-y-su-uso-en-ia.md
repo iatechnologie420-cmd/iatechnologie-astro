@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "El teorema de Bayes y su uso en IA"
 slug: "el-teorema-de-bayes-y-su-uso-en-ia"
 excerpt: "Introducción al teorema de Bayes EL Teorema de Bayes Es una fórmula fundamental en probabilidad y estadística que describe la actualización de nuestras creencias en presencia de nueva información. Este teorema, que lleva el nombre del reverendo Thomas Bayes, desempeña un papel crucial en muchos campos que van desde el aprendizaje automático hasta la toma [&hellip;]"

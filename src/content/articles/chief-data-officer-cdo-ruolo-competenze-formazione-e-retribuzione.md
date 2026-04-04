@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Chief Data Officer (CDO): ​​ruolo, competenze, formazione e retribuzione"
 slug: "chief-data-officer-cdo-ruolo-competenze-formazione-e-retribuzione"
 excerpt: "Il posto strategico del Chief Data Officer in azienda Nell’era dei big data e dell’analisi dei dati, le aziende riconoscono sempre più l’importanza di gestire e sfruttare i propri dati in modo strategico. Al centro di questo riconoscimento c&#8217;è un ruolo chiave: l&#8217; Responsabile dei dati (CDO). Il CDO è essenziale per bilanciare governance, qualità [&hellip;]"

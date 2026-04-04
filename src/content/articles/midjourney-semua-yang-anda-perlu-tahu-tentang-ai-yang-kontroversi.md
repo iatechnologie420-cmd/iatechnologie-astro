@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "MidJourney: semua yang anda perlu tahu tentang AI yang kontroversi"
 slug: "midjourney-semua-yang-anda-perlu-tahu-tentang-ai-yang-kontroversi"
 excerpt: "Memahami MidJourney MidJourney ialah kecerdasan buatan yang berkuasa, mengubah cara kita berinteraksi dengan teknologi. Gunakan panduan ini sebagai sumber untuk memahami asal usul dan fungsi utamanya. Apa itu MidJourney? MidJourney ialah alat kecerdasan buatan avant-garde direka untuk menambah baik dan memudahkan interaksi harian kita dengan teknologi baharu. Ia adalah sebahagian daripada landskap aplikasi AI yang [&hellip;]"

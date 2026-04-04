@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Master Data Manager: ruolo, competenze, formazione e retribuzione"
 slug: "master-data-manager-ruolo-competenze-formazione-e-retribuzione"
 excerpt: "Il ruolo chiave del Master Data Manager nella governance dei dati In un mondo in cui i dati sono diventati una risorsa strategica importante per le aziende, governance dei dati è essenziale per garantire la qualità, la sicurezza e l’efficacia delle informazioni. Al centro di questa governance, il Responsabile dei dati anagrafici (MDM) gioca un [&hellip;]"

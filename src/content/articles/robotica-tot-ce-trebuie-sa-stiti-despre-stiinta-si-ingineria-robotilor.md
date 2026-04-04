@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Robotică: tot ce trebuie să știți despre știința și ingineria roboților"
 slug: "robotica-tot-ce-trebuie-sa-stiti-despre-stiinta-si-ingineria-robotilor"
 excerpt: "Înțelegerea științei din spatele mașinilor Robotica este o ramură fascinantă a tehnologiei care combină diverse domenii de cunoaștere pentru a crea mașini capabile să execute sarcini autonom sau semi-autonom. În acest articol, vom explora bazele roboticii, vom înțelege principiile de bază care permit roboților să funcționeze și vom lua în considerare impactul acestor tehnologii în [&hellip;]"

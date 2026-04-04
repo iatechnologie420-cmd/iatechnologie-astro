@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "La robotique : tout savoir sur la science et l&#8217;ingénierie des robots"
 slug: "la-robotique-conception-ingenierie-technologie"
 excerpt: "Comprendre la science derrière les machines La robotique est une branche fascinante de la technologie qui combine divers domaines du savoir pour créer des machines capables d&#8217;exécuter des tâches de manière autonome ou semi-autonome. Dans cet article, nous allons explorer les fondements de la robotique, comprendre les principes de base qui permettent aux robots de [&hellip;]"

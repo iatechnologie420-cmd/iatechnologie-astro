@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "PORTER vertės grandinė | Konkretūs pavyzdžiai suprasti"
 slug: "porter-vertes-grandine-konkretus-pavyzdziai-suprasti"
 excerpt: "Michaelo Porterio vertės grandinės supratimas Vertės grandinė yra amerikiečių ekonomisto ir akademiko sukurta koncepcija Maiklas Porteris 1985 metais išleistame darbe „Konkurencinis pranašumas“. Šis modelis būtinas analizuojant įmonės vidinę veiklą, siekiant optimizuoti jos kuriamą vertę ir konkurencinius pranašumus. Šiame straipsnyje pateikiamas Michaelo Porterio vertės grandinės supratimo ir naudojimo vadovas. Vertės grandinės apibrėžimas Vertės grandinė atspindi visą [&hellip;]"

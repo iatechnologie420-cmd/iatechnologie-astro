@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Sora 2 : comment obtenir un code d’invitation gratuit et accéder à l’application partout dans le monde"
 slug: "obtenir-code-invitation-sora-2-gratuit-acces-application"
 excerpt: "Tu veux tester&nbsp;Sora 2, la nouvelle&nbsp;application vidéo IA ultra-réaliste&nbsp;d’OpenAI, mais elle n’est pas disponible dans ton pays ?Bonne nouvelle : il existe une méthode simple et gratuite pour&nbsp;obtenir un code d’invitation&nbsp;et&nbsp;accéder à Sora 2 depuis n’importe où dans le monde, même si tu n’es pas aux États-Unis ou au Canada. Dans cet article, je t’explique&nbsp;pas [&hellip;]"

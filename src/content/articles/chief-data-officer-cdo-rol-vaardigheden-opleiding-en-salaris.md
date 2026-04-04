@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Chief Data Officer (CDO): ​​rol, vaardigheden, opleiding en salaris"
 slug: "chief-data-officer-cdo-rol-vaardigheden-opleiding-en-salaris"
 excerpt: "De strategische plek van de Chief Data Officer in het bedrijf In het tijdperk van big data en data-analyse erkennen bedrijven steeds meer het belang van het strategisch beheren en benutten van hun gegevens. De kern van deze erkenning is een sleutelrol: de Hoofd Datafunctionaris (CDO). De CDO is essentieel voor het balanceren van governance, [&hellip;]"

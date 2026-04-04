@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Gagner de l’argent avec sa voix grâce à ElevenLabs : fonctionnement réel, limites et potentiel"
 slug: "gagner-de-l-argent-avec-sa-voix-ia-clone-eleven-labs"
 excerpt: "Et si ta voix devenait un actif numérique ?Pas une prestation freelance. Pas des missions à la demande. Pas de clients à gérer. Avec ElevenLabs, certaines personnes mettent en ligne une version clonée de leur voix et sont rémunérées chaque fois qu’elle est utilisée. Elles ne travaillent pas plus : leur voix circule, est sélectionnée, [&hellip;]"

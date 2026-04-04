@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "¿Qué es un Datamart/Datawarehouse?"
 slug: "que-es-un-datamart-datawarehouse"
 excerpt: "Introducción al concepto de Datamart EL centro de datos es un término imprescindible en el mundo del análisis de datos y del Business Intelligence (BI). Es una subsección de un almacén de datos, es decir, una base de datos especializada que almacena un segmento de la información de una empresa. Alors qu&#8217;un data warehouse peut [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "2024 yılında iOS, Android ve Windows mobil işletim sistemlerinin pazar payı"
 slug: "2024-yilinda-ios-android-ve-windows-mobil-isletim-sistemlerinin-pazar-payi"
 excerpt: "Mobil işletim sistemleri pazar payları Akıllı telefonların yükselişi ve teknolojinin sürekli gelişmesiyle birlikte, aralarındaki rekabet iOS, Android ve Windows giderek daha yoğun hale geliyor. Her işletim sisteminin pazar payları çeşitli faktörlere bağlı olarak yaratıcı bir şekilde değişir. 2024 yılında mobil işletim sistemi pazarının büyüme tahmini Son raporlara göre akıllı telefon satışları benimsenmesinin artmasıyla birlikte artış [&hellip;]"

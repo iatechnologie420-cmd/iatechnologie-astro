@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Robotik: robot bilimi ve mühendisliği hakkında bilmeniz gereken her şey"
 slug: "robotik-robot-bilimi-ve-muhendisligi-hakkinda-bilmeniz-gereken-her-sey"
 excerpt: "Makinelerin arkasındaki bilimi anlamak Robotik, görevleri otonom veya yarı otonom olarak gerçekleştirebilen makineler yaratmak için çeşitli bilgi alanlarını birleştiren büyüleyici bir teknoloji dalıdır. Bu makalede robotiğin temellerini inceleyeceğiz, robotların çalışmasına izin veren temel ilkeleri anlayacağız ve bu teknolojilerin günlük hayatımızdaki etkisini ele alacağız. Robotiğin tanımı ve tarihçesi Dönem robotik Robotların incelenmesi, tasarlanması ve uygulanması anlamına [&hellip;]"

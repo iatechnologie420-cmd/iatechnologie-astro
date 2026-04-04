@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Kako dodati glasbo svojim zapiskom na Instagramu?"
 slug: "kako-dodati-glasbo-svojim-zapiskom-na-instagramu"
 excerpt: "Uporabite glasbene funkcije na Instagramu Instagram je postal bistvena platforma za deljenje življenjskih trenutkov, slik in videoposnetkov. Če želite, da bodo vaše objave še bolj privlačne, lahko v svojo vsebino vključite glasbo. V tem članku bomo raziskali različne glasbene funkcije na Instagramu in kako jih uporabiti za ustvarjanje izvirnih in privlačnih objav. Zakaj bi svojim [&hellip;]"

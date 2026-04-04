@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "How to Find GPS Coordinates (Latitude and Longitude) on Google Maps?"
 slug: "how-to-find-gps-coordinates-latitude-and-longitude-on-google-maps"
 excerpt: "THE GPS (Global Positioning System) is a technology that has become essential in our daily lives. Using signals transmitted by satellites, the GPS system allows us to accurately determine our position in the form of geographic coordinates. These coordinates are represented by two key elements: the latitude and the longitude. In this article, we will [&hellip;]"

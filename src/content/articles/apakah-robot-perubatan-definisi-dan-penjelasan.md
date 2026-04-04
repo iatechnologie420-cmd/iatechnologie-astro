@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Apakah robot perubatan? definisi dan penjelasan"
 slug: "apakah-robot-perubatan-definisi-dan-penjelasan"
 excerpt: "Definisi dan tipologi robot perubatan Kemunculan robotik dalam penjagaan kesihatan telah membuka kemungkinan besar untuk meningkatkan penjagaan perubatan dan pembedahan. Teknologi ini, yang dikenali sebagai robot perubatan, ialah peranti mekanikal atau sistem komputer yang mampu melakukan tindakan kompleks dengan ketepatan tinggi, selalunya di bawah pengawasan atau kawalan terus kakitangan perubatan yang berkelayakan. Tetapi apakah jenis [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Robotika: semua yang perlu Anda ketahui tentang sains dan teknik robot"
 slug: "robotika-semua-yang-perlu-anda-ketahui-tentang-sains-dan-teknik-robot"
 excerpt: "Memahami ilmu di balik mesin Robotika adalah cabang teknologi menarik yang menggabungkan berbagai bidang pengetahuan untuk menciptakan mesin yang mampu melakukan tugas secara mandiri atau semi-otonom. Dalam artikel ini, kita akan mempelajari dasar-dasar robotika, memahami prinsip dasar yang memungkinkan robot beroperasi, dan mempertimbangkan dampak teknologi ini dalam kehidupan kita sehari-hari. Pengertian dan Sejarah Robotika Syarat [&hellip;]"

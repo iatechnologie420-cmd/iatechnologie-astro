@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Robotics: everything you need to know about the science and engineering of robots"
 slug: "robotics-everything-you-need-to-know-about-the-science-and-engineering-of-robots"
 excerpt: "Understanding the science behind the machines Robotics is a fascinating branch of technology that combines various fields of knowledge to create machines capable of performing tasks autonomously or semi-autonomously. In this article, we&#8217;ll explore the foundations of robotics, understand the basic principles that allow robots to operate, and consider the impact of these technologies in [&hellip;]"

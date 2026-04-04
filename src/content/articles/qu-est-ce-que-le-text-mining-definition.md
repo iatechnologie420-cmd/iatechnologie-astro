@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Qu’est-ce que le text mining ? définition"
 slug: "qu-est-ce-que-le-text-mining-definition"
 excerpt: "Introduction au text mining Le text mining, ou exploration de texte en français, est une branche de la science des données qui se concentre sur l&#8217;extraction d&#8217;informations utiles à partir de grands ensembles de données textuelles. Souvent associé au traitement automatique du langage naturel (TALN), le text mining implique un ensemble de techniques et d&#8217;outils [&hellip;]"

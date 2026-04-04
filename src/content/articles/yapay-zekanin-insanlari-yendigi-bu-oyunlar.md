@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Yapay zekanın insanları yendiği bu oyunlar"
 slug: "yapay-zekanin-insanlari-yendigi-bu-oyunlar"
 excerpt: "Süper bilgisayarların doğuşu ve satranç mücadelesi Süper bilgisayar çağı artık uzak bir fütüristik vizyon değil, satranç gibi strateji oyunları da dahil olmak üzere çeşitli sektörlerde devrim yaratan somut bir gerçekliktir. Olağanüstü bilgi işlem gücüne sahip bu makineler, yapay zekanın sınırlarını keşfetmek ve şu temel soruyu sorarak satranç mücadelesine girişmek için ideal bir oyun alanı sunuyor: [&hellip;]"

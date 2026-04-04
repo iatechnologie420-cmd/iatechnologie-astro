@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Robótica: todo lo que necesitas saber sobre la ciencia e ingeniería de los robots"
 slug: "robotica-todo-lo-que-necesitas-saber-sobre-la-ciencia-e-ingenieria-de-los-robots"
 excerpt: "Comprender la ciencia detrás de las máquinas La robótica es una fascinante rama de la tecnología que combina varios campos del conocimiento para crear máquinas capaces de realizar tareas de forma autónoma o semiautónoma. En este artículo, exploraremos los fundamentos de la robótica, comprenderemos los principios básicos que permiten que los robots funcionen y consideraremos [&hellip;]"

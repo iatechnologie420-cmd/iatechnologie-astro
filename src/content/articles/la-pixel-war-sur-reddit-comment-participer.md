@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "La Pixel War sur Reddit ! Comment participer ?"
 slug: "la-pixel-war-sur-reddit-comment-participer"
 excerpt: "Comprendre ce qu&#8217;est la Pixel War sur Reddit Décryptage de la Pixel War sur Reddit : Un phénomène à multiples facettes En parcourant le champs des réseaux sociaux, un phénomène particulier a retenu l&#8217;attention du grand public en avril 2017 : la Pixel War sur Reddit. Cette guerre des pixels, lancée sur la plateforme américaine [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "What is an IT infocenter? definition and explanation"
 slug: "what-is-an-it-infocenter-definition-and-explanation"
 excerpt: "A computer infocenter, also referred to as information Center, refers to a centralized system dedicated to data management within an organization. Its objective is to collect, store, organize and disseminate the information necessary for the company&#8217;s activity. Its function is essential to enable analysts and decision-makers to exploit data in an efficient and informed manner. [&hellip;]"

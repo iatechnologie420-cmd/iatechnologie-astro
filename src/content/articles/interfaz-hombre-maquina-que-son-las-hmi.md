@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Interfaz hombre-máquina: ¿qué son las HMI?"
 slug: "interfaz-hombre-maquina-que-son-las-hmi"
 excerpt: "Definición de interfaz hombre-máquina La interfaz hombre-máquina se refiere a todos los medios y herramientas implementados para permitir la interacción efectiva entre un usuario humano y un sistema informático. Abarca todo, desde el diseño visual de las pantallas hasta los dispositivos de entrada como el teclado, el mouse e incluso las interfaces táctiles y de [&hellip;]"

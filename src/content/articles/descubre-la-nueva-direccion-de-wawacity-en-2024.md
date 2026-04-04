@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "¡Descubre la nueva dirección de Wawacity en 2024!"
 slug: "descubre-la-nueva-direccion-de-wawacity-en-2024"
 excerpt: "Wawacity: la referencia en descargas gratuitas (pero ilegales) Wawacity es una plataforma online que ofrece una amplia selección de contenidos gratuitos para descargar en diferentes áreas: películas, series, música, videojuegos, software, libros y mucho más. Esta nueva dirección se ha convertido rápidamente en una visita obligada para los amantes del entretenimiento que desean disfrutar de [&hellip;]"

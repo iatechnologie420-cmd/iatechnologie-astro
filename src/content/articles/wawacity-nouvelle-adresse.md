@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Découvrez la nouvelle adresse de Wawacity en 2024 !"
 slug: "wawacity-nouvelle-adresse"
 excerpt: "Wawacity : la référence en matière de téléchargement gratuit (mais illégal) Wawacity est une plateforme en ligne qui offre une large sélection de contenus gratuits à télécharger dans différents domaines : films, séries, musique, jeux vidéo, logiciels, livres, et bien plus encore. Cette nouvelle adresse est rapidement devenue un incontournable pour les amateurs de divertissement [&hellip;]"

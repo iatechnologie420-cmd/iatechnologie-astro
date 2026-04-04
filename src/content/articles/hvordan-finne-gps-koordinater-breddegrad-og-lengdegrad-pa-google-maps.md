@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Hvordan finne GPS-koordinater (breddegrad og lengdegrad) på Google Maps?"
 slug: "hvordan-finne-gps-koordinater-breddegrad-og-lengdegrad-pa-google-maps"
 excerpt: "DE GPS (Global Positioning System) er en teknologi som har blitt essensiell i vårt daglige liv. Ved å bruke signaler som sendes av satellitter, GPS-system lar oss nøyaktig bestemme vår posisjon i form av geografiske koordinater. Disse koordinatene er representert av to nøkkelelementer: breddegrad og lengdegrad. I denne artikkelen vil vi utforske verden av GPS-koordinater [&hellip;]"

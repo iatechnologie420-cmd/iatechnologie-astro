@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Brailio rašto revoliucija: kai technologijos pakeičia prieinamumą"
 slug: "brailio-rasto-revoliucija-kai-technologijos-pakeicia-prieinamuma"
 excerpt: "Brailio rašto revoliucija technologijų amžiuje Brailio rašto genezė ir šiuolaikinės adaptacijos Iš pradžių XIX amžiuje Louis Braille sukurta rašymo sistema akliesiems ir silpnaregiams, žinoma kaip Brailio raštas, pakeitė jų bendravimo būdą. Įkvėptas mechanizmo, skirto armijai skaityti tamsoje, Louis Braille optimizavo metodą, kad jis būtų sklandus ir greitas po pirštais. Šis iškilusių taškų išdėstymas šešiose padėtyse [&hellip;]"

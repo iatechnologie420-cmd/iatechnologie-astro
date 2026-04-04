@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Scegliere il tuo primo server: una guida passo passo"
 slug: "scegliere-il-tuo-primo-server-una-guida-passo-passo"
 excerpt: "Comprendere le differenze tra i tipi di server I server svolgono un ruolo fondamentale nella gestione delle reti, nell&#8217;hosting di siti Web, nell&#8217;archiviazione di dati e nel supporto dell&#8217;elaborazione, tra le altre attività. Queste potenti macchine possono presentarsi in diverse forme, ognuna con le proprie particolarità e il proprio utilizzo ideale. Questo articolo si propone [&hellip;]"

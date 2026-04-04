@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Framkvæmdastjóri gagna (CDO): ​​hlutverk, færni, þjálfun og laun"
 slug: "framkvaemdastjori-gagna-cdo-hlutverk-faerni-thjalfun-og-laun"
 excerpt: "Stefnumótunarstaður gagnastjórans í fyrirtækinu Á tímum stórra gagna og gagnagreininga viðurkenna fyrirtæki í auknum mæli mikilvægi þess að stjórna og nýta gögn sín á hernaðarlegan hátt. Kjarninn í þessari viðurkenningu er lykilhlutverk: að Framkvæmdastjóri gagna (CDO). CDO er nauðsynlegt til að koma jafnvægi á stjórnunarhætti, gagnagæði, reglufylgni og nýta gögn til samkeppnisforskots. Þessi grein mun [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Rantaian nilai PORTER | Contoh konkrit untuk difahami"
 slug: "rantaian-nilai-porter-contoh-konkrit-untuk-difahami"
 excerpt: "Memahami Rantaian Nilai Michael Porter Rantaian nilai adalah konsep yang dibangunkan oleh ahli ekonomi dan akademik Amerika Michael Porter dalam karyanya &#8220;Kelebihan Daya Saing&#8221; yang diterbitkan pada tahun 1985. Model ini penting untuk menganalisis aktiviti dalaman syarikat untuk mengoptimumkan nilai yang dicipta dan kelebihan daya saingnya. Artikel ini memberi anda panduan untuk memahami dan menggunakan [&hellip;]"

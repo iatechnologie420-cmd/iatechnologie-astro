@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Qu’est-ce qu’un infocentre informatique ? définition et explication"
 slug: "infocentre-informatique-definition"
 excerpt: "Un infocentre informatique, également désigné sous le terme de centre d&#8217;information, désigne un système centralisé dédié à la gestion des données au sein d&#8217;une organisation. Il a pour objectif de collecter, stocker, organiser, et diffuser l&#8217;information nécessaire à l&#8217;activité de l&#8217;entreprise. Sa fonction est essentielle pour permettre aux analystes et aux décideurs d&#8217;exploiter les données [&hellip;]"

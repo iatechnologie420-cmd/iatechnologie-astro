@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Master Data Manager: rol, habilidades, formación y salario"
 slug: "master-data-manager-rol-habilidades-formacion-y-salario"
 excerpt: "El papel clave del Master Data Manager en el gobierno de datos En un mundo donde los datos se han convertido en un importante activo estratégico para las empresas, dato de governancia es esencial para garantizar la calidad, seguridad y eficacia de la información. En el centro de esta gobernanza, la Administrador de datos maestros [&hellip;]"

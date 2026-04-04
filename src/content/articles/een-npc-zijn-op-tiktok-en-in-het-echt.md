@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Een NPC zijn op Tiktok en in het echt&#8230;?"
 slug: "een-npc-zijn-op-tiktok-en-in-het-echt"
 excerpt: "Het fenomeen van “NPC-controllers” op TikTok In het oneindige universum van TikTok, heeft een nogal uniek fenomeen de aandacht van gebruikers getrokken: “ NPC-controllers » (Niet-speler-personages). De uitdrukking &#8216;NPC&#8217;, die voorheen beperkt was tot videogames, sluipt nu in het jargon van sociale media en definieert een ervaring die augmented reality en sociale interactie combineert. Maar [&hellip;]"

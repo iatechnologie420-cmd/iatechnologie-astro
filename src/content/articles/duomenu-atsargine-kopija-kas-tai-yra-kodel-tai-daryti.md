@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Duomenų atsarginė kopija: kas tai yra, kodėl tai daryti?"
 slug: "duomenu-atsargine-kopija-kas-tai-yra-kodel-tai-daryti"
 excerpt: "Supraskite atsarginės kopijos svarbą Duomenų atsarginė kopija yra būtina norint apsaugoti informaciją nuo galimo praradimo dėl aparatinės įrangos gedimo, žmogaus klaidų, kenkėjiškų programų ar stichinių nelaimių. Tinkama atsarginių kopijų sistema leidžia atkurti prarastus ar sugadintus duomenis ir užtikrina operacijų tęstinumą. Žinokite atsarginių kopijų tipus Yra keletas atsarginių kopijų kūrimo būdų, kurių kiekvienas yra pritaikytas konkretiems [&hellip;]"

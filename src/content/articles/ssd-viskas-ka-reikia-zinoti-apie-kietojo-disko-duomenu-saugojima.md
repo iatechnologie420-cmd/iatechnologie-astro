@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "SSD: viskas, ką reikia žinoti apie kietojo disko duomenų saugojimą"
 slug: "ssd-viskas-ka-reikia-zinoti-apie-kietojo-disko-duomenu-saugojima"
 excerpt: "Įvadas į SSD ir kaip jie veikia Kietojo kūno diskų atsiradimas arba SSD (Kietojo kūno diskas anglų kalba), pažymėjo tikrą revoliuciją duomenų saugojimo srityje. Skirtingai nuo tradicinių standžiųjų diskų (HDD), kuriuose informacijai saugoti naudojamos magnetinės plokštelės, HDD SSD pasikliaukite „flash“ atminties lustais be judančių dalių. Šis technologijos pokytis suteikia didelę naudą našumo, ilgaamžiškumo ir energijos [&hellip;]"

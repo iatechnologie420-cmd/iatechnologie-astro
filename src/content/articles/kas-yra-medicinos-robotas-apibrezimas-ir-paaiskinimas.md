@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Kas yra medicinos robotas? apibrėžimas ir paaiškinimas"
 slug: "kas-yra-medicinos-robotas-apibrezimas-ir-paaiskinimas"
 excerpt: "Medicininių robotų apibrėžimas ir tipologija Robotikos atsiradimas sveikatos priežiūros srityje atvėrė didžiules galimybes gerinti medicininę priežiūrą ir chirurgiją. Šios technologijos, žinomos kaip medicinos robotai, yra mechaniniai įrenginiai arba kompiuterinės sistemos, galinčios labai tiksliai atlikti sudėtingus veiksmus, dažnai juos prižiūrint arba tiesiogiai kontroliuojant kvalifikuotam medicinos personalui. Tačiau kokie yra šiuo metu sveikatos priežiūros sektoriuje naudojami skirtingi [&hellip;]"

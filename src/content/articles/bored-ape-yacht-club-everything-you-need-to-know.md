@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Bored Ape Yacht Club: everything you need to know"
 slug: "bored-ape-yacht-club-everything-you-need-to-know"
 excerpt: "What is the Bored Ape Yacht Club? THE Bored Ape Yacht Club is a recent phenomenon that is shaking up the world of Non-Fungible Tokens (NFT). These uniquely illustrated virtual monkeys have become the symbol of billionaire status in the crypto world. But what makes these NFTs so special? And why have they captured the [&hellip;]"

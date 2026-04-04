@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Kaip pridėti muzikos prie savo užrašų „Instagram“?"
 slug: "kaip-prideti-muzikos-prie-savo-uzrasu-instagram"
 excerpt: "Naudokite muzikos funkcijas „Instagram“. „Instagram“ tapo pagrindine platforma dalytis gyvenimo akimirkomis, vaizdais ir vaizdo įrašais. Kad įrašai būtų dar patrauklesni, į turinį galite integruoti muziką. Šiame straipsnyje apžvelgsime įvairias „Instagram“ muzikos funkcijas ir kaip jas naudoti kuriant originalius ir įtraukiančius įrašus. Kam pridėti muzikos prie savo istorijų Muzikos pridėjimas prie „Instagram Stories“ gali būti veiksmingas [&hellip;]"

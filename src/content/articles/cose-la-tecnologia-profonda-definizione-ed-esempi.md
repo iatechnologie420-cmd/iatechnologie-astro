@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Cos’è la tecnologia profonda? definizione ed esempi"
 slug: "cose-la-tecnologia-profonda-definizione-ed-esempi"
 excerpt: "Là Tecnologia profonda, o tecnologia all’avanguardia, rappresenta oggi una rivoluzione nel mondo delle startup e dell’innovazione. Si distingue dalle tecnologie più convenzionali per la profondità dei suoi cambiamenti e il suo potenziale dirompente. Ma cosa intendiamo veramente con? Tecnologia profondae in cosa differisce da altri tipi di tecnologia? Definizione di tecnologia profonda Il termine Tecnologia [&hellip;]"

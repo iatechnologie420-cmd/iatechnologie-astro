@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Co to jest głęboka technologia? Definicja i przykłady"
 slug: "co-to-jest-gleboka-technologia-definicja-i-przyklady"
 excerpt: "Tam Głęboka technologia, czyli najnowocześniejsza technologia, stanowi dziś rewolucję w świecie startupów i innowacji. Na tle bardziej konwencjonalnych technologii wyróżnia się głębokością zmian i rewolucyjnym potencjałem. Ale co tak naprawdę mamy na myśli Głęboka technologiai czym różni się od innych rodzajów technologii? Definicja głębokiej technologii Termin Głęboka technologia odnosi się do technologii opartych na znaczących [&hellip;]"

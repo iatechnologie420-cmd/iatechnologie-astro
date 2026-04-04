@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Cloud AWS – Tout savoir sur le cloud Amazon Web Services"
 slug: "cloud-aws-amazon-web-service-qu-est-ce-que-c-est"
 excerpt: "Introduction à Amazon Web Services (AWS) : une révolution dans le cloud computing Depuis sa création en 2006, Amazon Web Services (AWS) a radicalement changé le paysage de l&#8217;informatique en proposant une plateforme de services cloud qui offre flexibilité, échelle et économies d&#8217;échelle sans précédent. Cette introduction vise à éclairer les principes de fonctionnement d&#8217;AWS [&hellip;]"

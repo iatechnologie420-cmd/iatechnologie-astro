@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Robotika: viskas, ką reikia žinoti apie robotų mokslą ir inžineriją"
 slug: "robotika-viskas-ka-reikia-zinoti-apie-robotu-moksla-ir-inzinerija"
 excerpt: "Suprasti mokslą už mašinų Robotika yra patraukli technologijų šaka, kuri sujungia įvairias žinių sritis, kad sukurtų mašinas, galinčias atlikti užduotis autonomiškai arba pusiau autonomiškai. Šiame straipsnyje mes išnagrinėsime robotikos pagrindus, suprasime pagrindinius principus, leidžiančius robotams veikti, ir apsvarstysime šių technologijų poveikį mūsų kasdieniame gyvenime. Robotikos apibrėžimas ir istorija Terminas robotika nurodo robotų tyrimą, projektavimą ir [&hellip;]"

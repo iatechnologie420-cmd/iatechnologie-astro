@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Cognitivismo: ¿Es nuestra inteligencia artificial?"
 slug: "cognitivismo-es-nuestra-inteligencia-artificial"
 excerpt: "Los orígenes del cognitivismo y la inteligencia humana Los orígenes del cognitivismo EL cognitivismo Es un enfoque de la psicología que se centra en los mecanismos internos del pensamiento, tratando la mente humana como un sistema de procesamiento de información. Los orígenes de este enfoque se remontan principalmente a las décadas de 1950 y 1960, [&hellip;]"

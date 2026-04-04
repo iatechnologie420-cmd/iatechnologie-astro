@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Kuidas leida Google Mapsist GPS-koordinaate (laius- ja pikkuskraad)?"
 slug: "kuidas-leida-google-mapsist-gps-koordinaate-laius-ja-pikkuskraad"
 excerpt: "THE GPS (Global Positioning System) on tehnoloogia, mis on muutunud meie igapäevaelus hädavajalikuks. Kasutades satelliitide poolt edastatavaid signaale, GPS süsteem võimaldab meil täpselt määrata oma asukoha geograafiliste koordinaatide kujul. Neid koordinaate esindavad kaks põhielementi: laiuskraad ja pikkuskraad. Selles artiklis uurime GPS-koordinaatide maailma ja mõistame nende olulist rolli geolokatsioonis. Mis on GPS-koordinaadid? GPS-koordinaadid on võrdluspunktid, mis [&hellip;]"

@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Oppdag den nye Wawacity-adressen i 2024!"
 slug: "oppdag-den-nye-wawacity-adressen-i-2024"
 excerpt: "Wawacity: standarden for gratis (men ulovlig) nedlasting Wawacity er en nettplattform som tilbyr et bredt utvalg av gratis innhold som kan lastes ned på forskjellige områder: filmer, serier, musikk, videospill, programvare, bøker og mye mer. Denne nye adressen har raskt blitt et must for underholdningselskere som ønsker å nyte favorittmediene sine uten å tømme banken. [&hellip;]"

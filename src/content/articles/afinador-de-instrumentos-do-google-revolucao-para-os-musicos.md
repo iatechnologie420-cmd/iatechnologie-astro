@@ -1,4 +1,5 @@
 ---
+lang: "es"
 title: "Afinador de instrumentos do Google: revolução para os músicos?"
 slug: "afinador-de-instrumentos-do-google-revolucao-para-os-musicos"
 excerpt: "A importância de afinar instrumentos musicais A afinação é um dos aspectos mais importantes quando se trata de tocar um instrumento musical. Seja você um iniciante ou um músico experiente, você precisa afinar seu instrumento regularmente para obter o melhor som possível. Neste artigo, exploraremos a importância de afinar instrumentos musicais e daremos algumas dicas [&hellip;]"

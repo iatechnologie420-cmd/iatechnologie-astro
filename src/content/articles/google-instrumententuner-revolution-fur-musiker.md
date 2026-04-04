@@ -1,4 +1,5 @@
 ---
+lang: "de"
 title: "Google-Instrumententuner: Revolution für Musiker?"
 slug: "google-instrumententuner-revolution-fur-musiker"
 excerpt: "Die Bedeutung des Stimmens von Musikinstrumenten Das Stimmen ist einer der wichtigsten Aspekte beim Spielen eines Musikinstruments. Egal, ob Sie Anfänger oder erfahrener Musiker sind, Sie müssen Ihr Instrument regelmäßig stimmen, um den bestmöglichen Klang zu erzielen. In diesem Artikel gehen wir auf die Bedeutung des Stimmens von Musikinstrumenten ein und geben Ihnen einige Tipps, [&hellip;]"

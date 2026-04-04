@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Deepfake: alt du trenger å vite om den nye trusselen knyttet til AI"
 slug: "deepfake-alt-du-trenger-a-vite-om-den-nye-trusselen-knyttet-til-ai"
 excerpt: "Definisjon og drift av Deepfake Definisjon av Deepfake Begrepet dypfalske er en sammentrekning av de engelske ordene «deep learning» og «fake». Denne teknologien er basert på algoritmerkunstig intelligens spesialdesignet for å lage eller redigere audiovisuelt innhold, inkludert videoer og lydspor. Resultatet er ofte så overbevisende at det kan lure øyet og øret, noe som gjør [&hellip;]"

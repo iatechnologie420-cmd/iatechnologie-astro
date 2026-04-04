@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Market share of iOS, Android and Windows mobile operating systems in 2024"
 slug: "market-share-of-ios-android-and-windows-mobile-operating-systems-in-2024"
 excerpt: "Mobile operating systems market shares With the rise of smartphones and the constant evolution of technology, the rivalry between iOS, Android and Windows becomes more and more intense. The market shares for each operating system vary inventively depending on several factors. Mobile operating system market growth forecast in 2024 According to recent reports smartphone sales [&hellip;]"

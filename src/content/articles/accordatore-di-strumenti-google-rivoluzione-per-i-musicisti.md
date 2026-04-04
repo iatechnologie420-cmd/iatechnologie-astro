@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Accordatore di strumenti Google: rivoluzione per i musicisti?"
 slug: "accordatore-di-strumenti-google-rivoluzione-per-i-musicisti"
 excerpt: "L&#8217;importanza di accordare gli strumenti musicali L&#8217;accordatura è uno degli aspetti più importanti quando si tratta di suonare uno strumento musicale. Che tu sia un principiante o un musicista esperto, devi accordare regolarmente il tuo strumento per ottenere il miglior suono possibile. In questo articolo esploreremo l&#8217;importanza dell&#8217;accordatura degli strumenti musicali e ti forniremo alcuni [&hellip;]"

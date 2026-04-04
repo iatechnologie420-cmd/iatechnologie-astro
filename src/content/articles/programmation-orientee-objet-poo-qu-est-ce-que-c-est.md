@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Programmation orientée objet : qu’est-ce que c’est et à quoi ça sert ?"
 slug: "programmation-orientee-objet-poo-qu-est-ce-que-c-est"
 excerpt: "Les Fondamentaux de la Programmation Orientée Objet La Programmation Orientée Objet (POO) est un paradigme de programmation qui utilise des &#8220;objets&#8221; pour concevoir des applications et des programmes informatiques. Ces objets représentent des entités du monde réel et permettent aux développeurs de créer des logiciels plus flexibles, évolutifs et faciles à maintenir. Dans cet article, [&hellip;]"

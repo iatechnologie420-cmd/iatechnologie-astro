@@ -1,4 +1,5 @@
 ---
+lang: "it"
 title: "Master Data Manager: rola, umiejętności, szkolenia i wynagrodzenie"
 slug: "master-data-manager-rola-umiejetnosci-szkolenia-i-wynagrodzenie"
 excerpt: "Kluczowa rola Master Data Managera w zarządzaniu danymi W świecie, w którym dane stały się głównym zasobem strategicznym przedsiębiorstw, zarządzanie danymi jest niezbędne do zapewnienia jakości, bezpieczeństwa i skuteczności informacji. W sercu tego zarządzania znajduje się Główny menedżer danych (MDM) odgrywa kluczową rolę. Przeanalizujmy wspólnie obowiązki i skutki tej strategicznej pozycji. Co to jest zarządzanie [&hellip;]"

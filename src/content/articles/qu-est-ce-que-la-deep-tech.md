@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "Qu’est-ce que la deep tech ? définition et exemples"
 slug: "qu-est-ce-que-la-deep-tech"
 excerpt: "La Deep Tech, ou technologie de pointe, représente aujourd&#8217;hui une révolution dans le monde des startups et de l&#8217;innovation. Elle se distingue des technologies plus conventionnelles par la profondeur de ses changements et par son potentiel disruptif. Mais qu&#8217;entend-on vraiment par Deep Tech, et en quoi est-ce différent des autres types de technologies ? Définition [&hellip;]"

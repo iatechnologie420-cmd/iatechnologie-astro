@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 title: "L’e-réputation : Gérer l’image d’une personne en ligne"
 slug: "e-reputation-gerer-son-image-en-ligne"
 excerpt: "Comprendre l&#8217;e-réputation et son importance Avec l&#8217;évolution continue des technologies numériques et l&#8217;intégration croissante des médias sociaux dans notre vie quotidienne, l&#8217;e-réputation est devenue un facteur crucial pour les individus et les entreprises. Elle constitue l&#8217;ensemble des informations présentes sur Internet qui influencent la perception publique à l&#8217;égard d&#8217;une marque, d&#8217;une entreprise ou d&#8217;une personne. [&hellip;]"

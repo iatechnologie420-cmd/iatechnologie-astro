@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Google&#8217;i pillihäälestaja: revolutsioon muusikute jaoks?"
 slug: "googlei-pillihaalestaja-revolutsioon-muusikute-jaoks"
 excerpt: "Muusikariistade häälestamise tähtsus Häälestamine on muusikariistade mängimisel üks olulisemaid aspekte. Olenemata sellest, kas olete algaja või kogenud muusik, peate oma instrumenti regulaarselt häälestama, et saada parim võimalik heli. Selles artiklis uurime muusikariistade häälestamise tähtsust ja anname teile mõned näpunäited, kuidas tagada, et teie instrument on alati hääles, ning tutvustame teile Google&#8217;i uusi tööriistu, mis vastavad [&hellip;]"

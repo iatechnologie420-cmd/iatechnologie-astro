@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "IT / Information Technology: what is information technology?"
 slug: "it-information-technology-what-is-information-technology"
 excerpt: "Understanding IT: Definition and evolution of information technologies What is IT? The term IT, For Information technology in English, designates all the technologies related to the processing and management of information and data. This vast field thus includes computer science, telecommunications, database management systems, information security, and much more. IT is essential in the modern [&hellip;]"

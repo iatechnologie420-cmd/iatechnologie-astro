@@ -1,4 +1,5 @@
 ---
+lang: "en"
 title: "Ăng-ten 4G: Làm thế nào để thu sóng 4G trong nhà tốt hơn?"
 slug: "ang-ten-4g-lam-the-nao-de-thu-song-4g-trong-nha-tot-hon"
 excerpt: "Hiểu cách hoạt động của 4G và các giới hạn của nó 4G là gì? Công nghệ 4G, còn được biết là thế hệ thứ 4 của các tiêu chuẩn viễn thông di động, là sự tiếp nối của 3G và đi trước sự việc gần đây 5G. Nó cung cấp kết nối Internet di [&hellip;]"
