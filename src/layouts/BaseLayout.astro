@@ -15,14 +15,18 @@ const {
   canonical,
   ogImage = 'https://storage.googleapis.com/gpt-engineer-file-uploads/b0drPDn3ZvcJn2jHDGaBhnXuMWq2/social-images/social-1772964214434-channels4_profile-8.webp',
   jsonLd,
+  lang = 'fr',
 } = Astro.props;
 
 const siteUrl = 'https://iatechnologie.com';
 const canonicalUrl = canonical || new URL(Astro.url.pathname, siteUrl).toString();
+
+// Gestion des langues supportées
+const supportedLangs = ['it', 'es', 'en', 'de', 'ro', 'sl', 'tr'];
 ---
 
 <!doctype html>
-<html lang="fr" class="dark">
+<html lang={lang} class="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -30,6 +34,13 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, siteUrl).toString(
     <meta name="description" content={description} />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href={canonicalUrl} />
+
+    <!-- Hreflang Tags (SEO International) -->
+    <link rel="alternate" hreflang="x-default" href={`${siteUrl}/blog`} />
+    <link rel="alternate" hreflang="fr" href={`${siteUrl}/blog`} />
+    {supportedLangs.map((l) => (
+      <link rel="alternate" hreflang={l} href={`${siteUrl}/${l}/blog`} />
+    ))}
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
