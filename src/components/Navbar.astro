@@ -56,16 +56,31 @@ const navLinks = [
   </div>
 
   <!-- Mobile menu -->
-  <nav id="mobile-menu" class="hidden overflow-hidden glass border-t border-border/50 px-4 pb-4 md:hidden">
-    {navLinks.map((link) => (
+  <div 
+    id="mobile-menu" 
+    class="fixed inset-0 top-16 z-50 bg-background/60 backdrop-blur-xl translate-x-full transition-transform duration-500 ease-out md:hidden"
+  >
+    <nav class="container flex flex-col gap-2 py-8">
+      {navLinks.map((link, i) => (
+        <a
+          href={link.href}
+          class="flex items-center justify-between rounded-2xl border border-border/50 bg-card/40 p-5 text-lg font-medium text-foreground transition-all active:scale-95"
+          style={`transition-delay: ${i * 50}ms`}
+        >
+          {link.label}
+          <svg class="h-5 w-5 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      ))}
       <a
-        href={link.href}
-        class="block w-full py-3 text-left text-sm text-muted-foreground transition-colors hover:text-primary"
+        href="/#categories"
+        class="mt-4 inline-flex items-center justify-center rounded-2xl bg-primary px-8 h-14 text-lg font-bold text-primary-foreground shadow-xl shadow-primary/20"
       >
-        {link.label}
+        Explorer l'annuaire
       </a>
-    ))}
-  </nav>
+    </nav>
+  </div>
 </header>
 
 <script>
@@ -88,9 +103,27 @@ const navLinks = [
   const closeIcon = document.getElementById('close-icon');
 
   btn?.addEventListener('click', () => {
-    const isOpen = !menu?.classList.contains('hidden');
-    menu?.classList.toggle('hidden');
+    const isOpen = !menu?.classList.contains('translate-x-full');
+    
+    if (isOpen) {
+      menu?.classList.add('translate-x-full');
+      document.body.style.overflow = '';
+    } else {
+      menu?.classList.remove('translate-x-full');
+      document.body.style.overflow = 'hidden';
+    }
+    
     menuIcon?.classList.toggle('hidden');
     closeIcon?.classList.toggle('hidden');
+  });
+
+  // Close menu on link click
+  menu?.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      menu?.classList.add('translate-x-full');
+      document.body.style.overflow = '';
+      menuIcon?.classList.remove('hidden');
+      closeIcon?.classList.add('hidden');
+    });
   });
 </script>

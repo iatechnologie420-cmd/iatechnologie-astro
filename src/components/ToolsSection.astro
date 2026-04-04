@@ -41,9 +41,10 @@ const outils = allOutils.slice(0, 12);
               <div class="relative h-44 overflow-hidden">
                 <img
                   src={outil.data.featuredImage}
-                  alt={outil.data.title}
+                  alt={`Aperçu de l'outil IA ${outil.data.title}`}
                   class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                   loading="lazy"
+                  decoding="async"
                 />
                 <div class="absolute inset-0 bg-gradient-to-t from-card via-transparent to-transparent"></div>
               </div>
