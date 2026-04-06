@@ -1,10 +1,10 @@
 ---
 lang: "fr"
-title: "Seedance 2.0 : Test Complet, Avis et Comment l'Utiliser Gratuitement en 2026"
+title: "Seedance 2.0 : Comment l'utiliser Gratuitement en 2026 + Avis Complet."
 slug: "seedance-2-0-test-complet-avis-guide-2026"
 excerpt: "Seedance 2.0 fait exploser les compteurs depuis son lancement. Mais derrière le buzz, que vaut réellement ce modèle de ByteDance ? Découvrez notre test complet : fonctionnalités, qualité réelle, prix et comment y accéder gratuitement en 2026."
 date: "2026-04-06T17:55:00"
-featuredImage: "https://pub-5bb2cd26c04a41efbcb7bf8a165f9044.r2.dev/images/blog/seedance-2-0-test-avis.png"
+featuredImage: "/images/blog/seedance-2-0-gratuit-v2.jpg"
 categories: ["outils-ia-saas-tests-et-avis", "ia", "applications-de-l-ia-fr"]
 ---
 
