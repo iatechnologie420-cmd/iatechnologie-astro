@@ -117,7 +117,7 @@ Pour commencer gratuitement : <a href="https://dreamina.capcut.com/tools/seedanc
 
 *Le test vidéo complet de Vincent sur YouTube :*
 
-**[▶ Voir le test vidéo de Seedance 2.0](https://www.youtube.com/watch?v=78bdw1MT14o)** (nofollow)
+**<a href="https://www.youtube.com/watch?v=78bdw1MT14o" rel="nofollow" target="_blank">▶ Voir le test vidéo de Seedance 2.0 sur YouTube</a>**
 
 ---
 
