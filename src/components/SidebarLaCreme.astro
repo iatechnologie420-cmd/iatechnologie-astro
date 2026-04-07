@@ -1,0 +1,75 @@
+---
+// SidebarLaCreme.astro
+// Composant de navigation latérale inspiré de LaCreme.ai
+// Fixe à gauche, n'affiche que les icônes par défaut, et s'élargit au survol pour révéler le texte.
+// Ne contient que le "Top 30" des catégories à fort potentiel SEO.
+
+const topDirectories = [
+  { label: 'Assistant IA', icon: '🤖', href: '/categorie/assistant' },
+  { label: 'Audio & Voix', icon: '🔊', href: '/categorie/audio' },
+  { label: 'Automatisation', icon: '⚙️', href: '/categorie/automatisation' },
+  { label: 'Chatbot', icon: '💬', href: '/categorie/chatbot' },
+  { label: 'Code & Dev', icon: '💻', href: '/categorie/code' },
+  { label: 'Copywriting', icon: '✍️', href: '/categorie/copywriting' },
+  { label: 'Design', icon: '🎨', href: '/categorie/design' },
+  { label: 'E-commerce', icon: '🛒', href: '/categorie/ecommerce' },
+  { label: 'Emailing', icon: '📧', href: '/categorie/emailing' },
+  { label: 'Formation', icon: '🎓', href: '/categorie/formation' },
+  { label: 'Génération Images', icon: '🖼️', href: '/categorie/images' },
+  { label: 'Immobilier', icon: '🏠', href: '/categorie/immobilier' },
+  { label: 'Jeux Vidéo', icon: '🎮', href: '/categorie/jeux' },
+  { label: 'Marketing', icon: '📈', href: '/categorie/marketing' },
+  { label: 'Montage Vidéo', icon: '🎬', href: '/categorie/montage' },
+  { label: 'Musique', icon: '🎵', href: '/categorie/musique' },
+  { label: 'No-code', icon: '🧩', href: '/categorie/nocode' },
+  { label: 'Podcast', icon: '🎙️', href: '/categorie/podcast' },
+  { label: 'Productivité', icon: '⚡', href: '/categorie/productivite' },
+  { label: 'Présentation', icon: '📋', href: '/categorie/presentation' },
+  { label: 'SEO', icon: '🔍', href: '/categorie/seo' },
+  { label: 'Santé', icon: '🏥', href: '/categorie/sante' },
+  { label: 'Startup', icon: '🚀', href: '/categorie/startup' },
+  { label: 'Storytelling', icon: '💡', href: '/categorie/storytelling' },
+  { label: 'Texte', icon: '📝', href: '/categorie/texte' },
+  { label: 'Web3', icon: '🪙', href: '/categorie/web3' },
+];
+---
+
+<aside 
+  id="hover-sidebar"
+  class="fixed left-0 top-16 bottom-0 z-40 hidden lg:flex flex-col bg-background/95 backdrop-blur-xl border-r border-border/50 group w-16 hover:w-64 transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] will-change-[width] shadow-2xl shadow-background/0 hover:shadow-background/50 overflow-hidden"
+>
+  <div class="flex-1 overflow-y-auto overflow-x-hidden no-scrollbar py-6 flex flex-col gap-1 w-full">
+    {topDirectories.map(item => (
+      <a 
+        href={item.href} 
+        class="flex items-center gap-4 px-4 py-2.5 mx-2 rounded-xl text-muted-foreground hover:bg-card/80 hover:text-foreground hover:shadow-sm hover:shadow-primary/5 border border-transparent hover:border-border/50 transition-all whitespace-nowrap"
+      >
+        <span class="text-xl shrink-0 leading-none flex justify-center items-center w-6">{item.icon}</span>
+        <span class="text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-75">{item.label}</span>
+      </a>
+    ))}
+  </div>
+  
+  <div class="px-2 py-4 border-t border-border/50 w-full mt-auto bg-background/95 relative">
+    <a 
+      href="/categories" 
+      class="flex items-center gap-4 px-4 py-3 rounded-xl text-primary font-bold hover:bg-primary/10 transition-colors whitespace-nowrap"
+    >
+      <span class="text-xl shrink-0 leading-none flex justify-center items-center w-6"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></span>
+      <span class="text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-75">Toutes les catégories</span>
+    </a>
+  </div>
+</aside>
+
+<script>
+  // Script optionnel pour s'assurer que le focus ou le tactile (tablette) garde le menu ouvert proprement
+  const sidebar = document.getElementById('hover-sidebar');
+  if (sidebar) {
+    sidebar.addEventListener('mouseenter', () => {
+      document.body.classList.add('sidebar-expanded');
+    });
+    sidebar.addEventListener('mouseleave', () => {
+      document.body.classList.remove('sidebar-expanded');
+    });
+  }
+</script>

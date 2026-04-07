@@ -2,8 +2,8 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import HeroSection from '@/components/HeroSection.astro';
-import LogoMarquee from '@/components/LogoMarquee.astro';
 import DirectoryInterface from '@/components/DirectoryInterface.astro';
+import SidebarLaCreme from '@/components/SidebarLaCreme.astro';
 import HowItWorksSection from '@/components/HowItWorksSection.astro';
 import ToolsSection from '@/components/ToolsSection.astro';
 import TestimonialsSection from '@/components/TestimonialsSection.astro';
@@ -30,20 +30,23 @@ const jsonLd = {
   title="L'annuaire des meilleurs outils IA 2026 : comparatif, avis et guide complet — IA Technologie"
   jsonLd={jsonLd}
 >
-  <div class="min-h-screen bg-background">
-    <Navbar />
-    <main>
-      <HeroSection />
-      <LogoMarquee />
-      <DirectoryInterface activeTab="populaires">
-        <ToolsSection />
-      </DirectoryInterface>
-      <HowItWorksSection />
-      <TestimonialsSection />
+  <div class="min-h-screen bg-background relative flex">
+    <SidebarLaCreme />
+    
+    <div class="flex-1 min-w-0 transition-all duration-300 lg:ml-16">
+      <Navbar />
+      <main>
+        <HeroSection />
+        <DirectoryInterface activeTab="populaires">
+          <ToolsSection />
+        </DirectoryInterface>
+        <HowItWorksSection />
+        <TestimonialsSection />
       <YouTubeSection />
       <SeoSection />
       <CtaSection />
-    </main>
-    <Footer />
+      </main>
+      <Footer />
+    </div>
   </div>
 </BaseLayout>
