@@ -19,45 +19,10 @@ const tabs = [
 ];
 ---
 
-<section id="directory" class="relative pb-12">
-  <div class="container max-w-6xl mx-auto flex flex-col gap-12 pt-4">
-    <!-- 1. Les 3 Boutons "Onglets" -->
-    <div class="flex flex-col items-center gap-4">
-      <nav class="flex flex-wrap justify-center items-center gap-4">
-        {tabs.map(tab => {
-          const isActive = tab.id === activeTab;
-          return (
-            <a
-              href={tab.href}
-              class:list={[
-                "inline-flex items-center justify-center px-6 py-3.5 rounded-full text-base font-bold transition-all duration-300",
-                isActive 
-                  ? "bg-primary text-primary-foreground shadow-lg shadow-primary/20 scale-105" 
-                  : "bg-card/50 border border-border/50 text-muted-foreground hover:bg-card hover:text-foreground hover:border-primary/30 hover:scale-105"
-              ]}
-            >
-              {tab.label}
-            </a>
-          );
-        })}
-      </nav>
-
-      <!-- Sous-filtres conditionnels pour 'Gratuits' -->
-      {activeTab === 'gratuits' && (
-        <div class="flex flex-wrap justify-center gap-6 mt-4 animate-in fade-in slide-in-from-top-2 duration-500">
-          <label class="flex items-center gap-2 cursor-pointer group">
-            <input type="checkbox" checked class="w-5 h-5 rounded border-border/50 bg-card/50 text-primary focus:ring-primary focus:ring-offset-background" />
-            <span class="text-sm font-medium text-muted-foreground group-hover:text-foreground transition-colors">1er plan gratuit</span>
-          </label>
-          <label class="flex items-center gap-2 cursor-pointer group">
-            <input type="checkbox" checked class="w-5 h-5 rounded border-border/50 bg-card/50 text-primary focus:ring-primary focus:ring-offset-background" />
-            <span class="text-sm font-medium text-muted-foreground group-hover:text-foreground transition-colors">Essai gratuit</span>
-          </label>
-        </div>
-      )}
-    </div>
-
-    <!-- 2. Le Social Proof (Chiffres Clés) -->
+<section id="directory" class="relative pb-12 flex flex-col justify-between">
+  <!-- PREMIER BLOC : Social Proof & Marquee (Pour s'ancrer au bas de l'écran initial) -->
+  <div class="container max-w-6xl mx-auto pt-0 flex flex-col gap-10">
+    <!-- 1. Le Social Proof (Chiffres Clés) -->
     <div class="grid grid-cols-2 gap-6 md:flex md:flex-wrap md:items-center md:justify-center md:gap-12 animate-in fade-in duration-1000">
       <div class="flex items-center gap-4">
         <div class="flex h-12 w-12 items-center justify-center rounded-2xl bg-card border border-border/50 shadow-sm group-hover:border-primary/30 transition-colors">
@@ -96,17 +61,57 @@ const tabs = [
         </div>
       </div>
     </div>
+  </div>
 
-  </div> <!-- Fermeture du container -->
-
-  <!-- 3. Le Marquee de Logos -->
-  <div class="w-full mt-12">
+  <!-- 2. Le Marquee de Logos -->
+  <div class="w-full mt-10 mb-16">
     <LogoMarquee />
   </div>
 
-  <!-- 4. La Grille de Résultats -->
-  <div class="w-full">
-    <slot />
+  <!-- DEUXIÈME BLOC : Contrôles & Contenu -->
+  <!-- Target Scroll Anchor -->
+  <div id="tools-explorer" class="scroll-mt-24"></div>
+  
+  <div class="container max-w-6xl mx-auto flex flex-col gap-10">
+    <!-- 3. Les 3 Boutons "Onglets" -->
+    <div class="flex flex-col items-center gap-4">
+      <nav class="flex flex-wrap justify-center items-center gap-4">
+        {tabs.map(tab => {
+          const isActive = tab.id === activeTab;
+          return (
+            <a
+              href={tab.href}
+              class:list={[
+                "inline-flex items-center justify-center px-6 py-3.5 rounded-full text-base font-bold transition-all duration-300",
+                isActive 
+                  ? "bg-primary text-primary-foreground shadow-lg shadow-primary/20 scale-105" 
+                  : "bg-card/50 border border-border/50 text-muted-foreground hover:bg-card hover:text-foreground hover:border-primary/30 hover:scale-105"
+              ]}
+            >
+              {tab.label}
+            </a>
+          );
+        })}
+      </nav>
+
+      <!-- Sous-filtres conditionnels pour 'Gratuits' -->
+      {activeTab === 'gratuits' && (
+        <div class="flex flex-wrap justify-center gap-6 mt-4 animate-in fade-in slide-in-from-top-2 duration-500">
+          <label class="flex items-center gap-2 cursor-pointer group">
+            <input type="checkbox" checked class="w-5 h-5 rounded border-border/50 bg-card/50 text-primary focus:ring-primary focus:ring-offset-background" />
+            <span class="text-sm font-medium text-muted-foreground group-hover:text-foreground transition-colors">1er plan gratuit</span>
+          </label>
+          <label class="flex items-center gap-2 cursor-pointer group">
+            <input type="checkbox" checked class="w-5 h-5 rounded border-border/50 bg-card/50 text-primary focus:ring-primary focus:ring-offset-background" />
+            <span class="text-sm font-medium text-muted-foreground group-hover:text-foreground transition-colors">Essai gratuit</span>
+          </label>
+        </div>
+      )}
+    </div>
+
+    <!-- 4. La Grille de Résultats -->
+    <div class="w-full">
+      <slot />
+    </div>
   </div>
-    
 </section>

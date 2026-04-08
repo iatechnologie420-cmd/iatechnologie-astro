@@ -1,7 +1,7 @@
 ---
 ---
 
-<section class="py-24">
+<section id="newsletter" class="py-24">
   <div class="container">
     <div class="relative overflow-hidden rounded-3xl px-8 py-20 text-center md:px-16 ">
       <div class="absolute inset-0 bg-gradient-to-br from-primary via-primary/90 to-primary-glow"></div>
@@ -17,26 +17,29 @@
         </div>
 
         <h2 class="mb-4 font-heading text-4xl font-bold text-primary-foreground md:text-5xl">
-          Prêt à booster votre<br />productivité avec l'IA ?
+          Rejoignez le <span class="text-white">Cercle Privé</span> de l'IA
         </h2>
         <p class="mx-auto mb-10 max-w-lg text-primary-foreground/80 text-lg">
-          Explorez notre catalogue complet d'outils IA, classés par catégorie et cas d'usage.
+          Recevez chaque mardi une analyse pointue des 3 nouveaux outils indispensables qui vont booster votre secteur. Pas de spam, que de la valeur pure.
         </p>
-        <div class="flex flex-wrap items-center justify-center gap-4">
-          <a
-            href="#categories"
-            class="inline-flex items-center justify-center rounded-full px-10 h-13 font-semibold text-base shadow-xl bg-secondary text-secondary-foreground"
+        
+        <form class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row shadow-2xl p-2 bg-white/10 backdrop-blur-xl rounded-full border border-white/20">
+          <input 
+            type="email" 
+            placeholder="Votre meilleure adresse email" 
+            class="w-full flex-1 rounded-full bg-transparent px-6 py-3 text-base text-white placeholder-white/60 focus:outline-none focus:ring-0"
+            required
+          />
+          <button 
+            type="submit" 
+            class="flex items-center justify-center rounded-full bg-white px-8 py-3 text-base font-bold text-primary transition-transform hover:scale-105"
           >
-            Explorer les outils
-            <svg class="ml-2 h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>
-          </a>
-          <a
-            href="#cas-usage"
-            class="inline-flex items-center justify-center rounded-full border border-primary-foreground/20 px-10 h-13 text-primary-foreground hover:bg-primary-foreground/10 text-base"
-          >
-            Voir les cas d'usage
-          </a>
-        </div>
+            S'inscrire
+          </button>
+        </form>
+        <p class="mt-4 text-xs text-primary-foreground/60">
+          Déjà 10 400+ membres inscrits. Désinscription en 1 clic.
+        </p>
       </div>
     </div>
   </div>
