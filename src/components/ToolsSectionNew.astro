@@ -1,0 +1,76 @@
+---
+import { getCollection } from 'astro:content';
+
+const allOutils = await getCollection('outils');
+const outils = allOutils.slice(0, 12);
+---
+
+<section id="outils" class="relative py-24 noise-bg">
+  <div class="absolute inset-0 bg-gradient-to-b from-card/50 via-background to-card/50"></div>
+
+  <div class="container relative z-10">
+    <div class="mb-16 flex flex-col gap-6 md:flex-row md:items-end md:justify-between ">
+      <div>
+        <span class="mb-4 inline-block rounded-full bg-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-primary">
+          Derniers Ajouts
+        </span>
+        <h2 class="mb-4 font-heading text-4xl font-bold text-foreground md:text-5xl">
+          Les <span class="gradient-text">nouveautés IA</span> de la semaine
+        </h2>
+        <p class="max-w-xl text-muted-foreground">
+          Restez à la pointe avec les nouveaux outils fraîchement référencés.
+        </p>
+      </div>
+    </div>
+
+    {outils.length === 0 ? (
+      <div class="rounded-2xl border border-dashed border-border py-16 text-center glass-card">
+        <p class="text-muted-foreground">
+          Les outils sont en cours d'ajout. Revenez bientôt !
+        </p>
+      </div>
+    ) : (
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {outils.map((outil, i) => (
+          <a
+            href={`/outil/${outil.data.slug}`}
+            class="group relative h-full overflow-hidden rounded-2xl glass-card text-left transition-all duration-500 hover:border-primary/30 hover:shadow-xl hover:shadow-primary/5 hover:-translate-y-2 block "
+            style={`transition-delay: ${i * 0.06}s;`}
+          >
+            {outil.data.featuredImage && (
+              <div class="relative h-44 overflow-hidden">
+                <img
+                  src={outil.data.featuredImage}
+                  alt={`Aperçu de l'outil IA ${outil.data.title}`}
+                  class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                  loading="lazy"
+                  decoding="async"
+                />
+                <div class="absolute inset-0 bg-gradient-to-t from-card via-transparent to-transparent"></div>
+              </div>
+            )}
+            <div class="p-5">
+              <div class="mb-3 flex flex-wrap gap-1.5">
+                {outil.data.categories.map((cat: string) => (
+                  <span class="inline-flex items-center rounded-full text-xs bg-primary/10 text-primary border-0 px-2.5 py-0.5 font-medium">
+                    {cat}
+                  </span>
+                ))}
+              </div>
+              <h3 class="mb-2 font-heading text-lg font-semibold text-foreground group-hover:text-primary transition-colors">
+                {outil.data.title}
+              </h3>
+              <p class="mb-4 text-sm leading-relaxed text-muted-foreground line-clamp-3">
+                {outil.data.excerpt}
+              </p>
+              <div class="flex items-center text-sm font-medium text-primary group-hover:gap-2 transition-all">
+                Voir l'outil
+                <svg class="ml-1.5 h-3.5 w-3.5 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    )}
+  </div>
+</section>

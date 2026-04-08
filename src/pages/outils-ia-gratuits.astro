@@ -1,0 +1,52 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import HeroSection from '@/components/HeroSection.astro';
+import DirectoryInterface from '@/components/DirectoryInterface.astro';
+import SidebarLaCreme from '@/components/SidebarLaCreme.astro';
+import HowItWorksSection from '@/components/HowItWorksSection.astro';
+import ToolsSectionFree from '@/components/ToolsSectionFree.astro';
+import TestimonialsSection from '@/components/TestimonialsSection.astro';
+import YouTubeSection from '@/components/YouTubeSection.astro';
+import SeoSection from '@/components/SeoSection.astro';
+import CtaSection from '@/components/CtaSection.astro';
+import Footer from '@/components/Footer.astro';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'IA Technologie',
+  url: 'https://iatechnologie.com',
+  description: "Découvrez les meilleurs outils IA pour chaque besoin. Trouvez, comparez et utilisez les outils d'intelligence artificielle les plus performants.",
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: 'https://iatechnologie.com/?s={search_term_string}',
+    'query-input': 'required name=search_term_string',
+  },
+};
+---
+
+<BaseLayout
+  title="L'annuaire des meilleurs outils IA 2026 : comparatif, avis et guide complet — IA Technologie"
+  jsonLd={jsonLd}
+>
+  <div class="min-h-screen bg-background relative flex">
+    <SidebarLaCreme />
+    
+    <div class="flex-1 min-w-0 transition-all duration-300 lg:ml-16">
+      <Navbar />
+      <main>
+        <HeroSection />
+        <DirectoryInterface activeTab="gratuits">
+          <ToolsSectionFree />
+        </DirectoryInterface>
+        <HowItWorksSection />
+        <TestimonialsSection />
+      <YouTubeSection />
+      <SeoSection />
+      <CtaSection />
+      </main>
+      <Footer />
+    </div>
+  </div>
+</BaseLayout>
