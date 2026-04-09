@@ -13,9 +13,9 @@ const formatCount = (count: number) => {
 const { activeTab = 'populaires' } = Astro.props;
 
 const tabs = [
-  { id: 'populaires', label: '🔥 Les + Populaires', href: '/' },
-  { id: 'gratuits', label: '💸 Gratuits', href: '/outils-ia-gratuits' },
-  { id: 'nouveaux', label: '✨ Les Derniers Ajouts', href: '/nouveaux-outils-ia' },
+  { id: 'populaires', label: '🔥 Les + Populaires', href: '/#tools-explorer' },
+  { id: 'gratuits', label: '💸 Gratuits', href: '/outils-ia-gratuits#tools-explorer' },
+  { id: 'nouveaux', label: '✨ Les Derniers Ajouts', href: '/nouveaux-outils-ia#tools-explorer' },
 ];
 ---
 
@@ -64,7 +64,7 @@ const tabs = [
   </div>
 
   <!-- 2. Le Marquee de Logos -->
-  <div class="w-full mt-[6vh] lg:mt-[8vh] mb-16">
+  <div class="w-full mt-[9vh] lg:mt-[11vh] mb-16">
     <LogoMarquee />
   </div>
 
