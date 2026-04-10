@@ -53,9 +53,10 @@ const formattedDate = `${dayNames[today.getDay()]} ${today.getDate()} ${monthNam
         <!-- CTA: Newsletter FIRST, Explorer second -->
         <div class="mx-auto max-w-lg animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-300 fill-mode-both" style="transition-delay: 0.6s;">
           <!-- Email capture inline -->
-          <form id="hero-newsletter-form" class="flex flex-col sm:flex-row gap-3 sm:gap-0 sm:p-1.5 sm:rounded-full sm:border sm:border-border/50 sm:bg-card/50 sm:backdrop-blur-sm sm:shadow-lg sm:shadow-primary/5" onsubmit="event.preventDefault();">
+          <form id="hero-newsletter-form" class="flex flex-col sm:flex-row gap-3 sm:gap-0 sm:p-1.5 sm:rounded-full sm:border sm:border-border/50 sm:bg-card/50 sm:backdrop-blur-sm sm:shadow-lg sm:shadow-primary/5 transition-all">
             <input 
               type="email" 
+              name="email"
               placeholder="votre@email.com" 
               class="w-full flex-1 rounded-full border border-border/50 sm:border-0 bg-card/50 sm:bg-transparent px-6 py-3.5 text-base text-foreground placeholder-muted-foreground/60 focus:outline-none focus:ring-2 focus:ring-primary/30 sm:focus:ring-0"
               required
@@ -68,7 +69,13 @@ const formattedDate = `${dayNames[today.getDay()]} ${today.getDate()} ${monthNam
               Recevoir la sélection
             </button>
           </form>
-          <p class="mt-3 text-xs text-muted-foreground/60 text-center">
+          
+          <!-- Message de succès (caché par défaut) -->
+          <div id="hero-success-message" class="hidden py-3 px-6 rounded-full bg-primary/10 border border-primary/20 text-primary font-bold animate-in zoom-in duration-300">
+            ✅ C'est noté ! Surveillez votre boîte mail.
+          </div>
+
+          <p id="hero-disclaimer" class="mt-3 text-xs text-muted-foreground/60 text-center">
             Chaque jeudi. Gratuit. Désinscription en 1 clic.
           </p>
         </div>
@@ -103,3 +110,25 @@ const formattedDate = `${dayNames[today.getDay()]} ${today.getDate()} ${monthNam
     </div>
   </div>
 </section>
+
+<script>
+  const heroForm = document.getElementById('hero-newsletter-form');
+  const heroSuccess = document.getElementById('hero-success-message');
+  const heroDisclaimer = document.getElementById('hero-disclaimer');
+
+  heroForm?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = (heroForm as HTMLFormElement).email.value;
+    
+    // ICI : Branchement futur vers ton API (Brevo, Formspree, etc.)
+    // const response = await fetch('TA_URL_ICI', { method: 'POST', body: JSON.stringify({ email }) });
+
+    // UX Immédiate : On cache le formulaire et on montre le succès
+    heroForm.classList.add('hidden');
+    heroDisclaimer?.classList.add('hidden');
+    heroSuccess?.classList.remove('hidden');
+    
+    // Optionnel : Envoi réel si tu utilises une plateforme de capture (ex: Formspree)
+    // heroForm.submit(); // Si tu configures l'action sur le tag form directement
+  });
+</script>

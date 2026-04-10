@@ -35,9 +35,10 @@
       </p>
 
       <!-- Email form -->
-      <form id="newsletter-form" class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row sm:gap-0 sm:p-1.5 sm:bg-white/10 sm:backdrop-blur-xl sm:rounded-full sm:border sm:border-white/15 sm:shadow-2xl" onsubmit="event.preventDefault();">
+      <form id="middle-newsletter-form" class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row sm:gap-0 sm:p-1.5 sm:bg-white/10 sm:backdrop-blur-xl sm:rounded-full sm:border sm:border-white/15 sm:shadow-2xl transition-all">
         <input 
           type="email" 
+          name="email"
           placeholder="votre@email.com" 
           class="w-full flex-1 rounded-full border border-white/15 sm:border-0 bg-white/10 sm:bg-transparent px-6 py-3.5 text-base text-brand-surface-fg placeholder-brand-surface-fg/40 focus:outline-none focus:ring-2 focus:ring-primary/40 sm:focus:ring-0"
           required
@@ -50,6 +51,11 @@
           M'inscrire gratuitement
         </button>
       </form>
+
+      <!-- Message de succès -->
+      <div id="middle-success-message" class="hidden mx-auto max-w-md py-4 px-6 rounded-2xl bg-white/5 border border-white/10 text-brand-surface-fg font-bold animate-in fade-in zoom-in duration-300">
+        ✨ Bienvenue à bord ! Vérifiez vos mails.
+      </div>
 
       <!-- Reassurance -->
       <p class="mt-4 text-sm text-brand-surface-fg/50">
@@ -80,3 +86,15 @@
     </div>
   </div>
 </section>
+
+<script>
+  const middleForm = document.getElementById('middle-newsletter-form');
+  const middleSuccess = document.getElementById('middle-success-message');
+
+  middleForm?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    // UX Immédiate
+    middleForm.classList.add('hidden');
+    middleSuccess?.classList.remove('hidden');
+  });
+</script>
