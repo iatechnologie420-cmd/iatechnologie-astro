@@ -71,15 +71,22 @@
 
     <!-- CTA form -->
     <div class="text-center">
-      <form id="bottom-newsletter-form" class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row sm:gap-0 sm:p-1.5 sm:bg-white/10 sm:backdrop-blur-xl sm:rounded-full sm:border sm:border-white/15 sm:shadow-2xl transition-all">
+      <form 
+        id="bottom-newsletter-form" 
+        action="https://a9004679.sibforms.com/serve/MUIFACbRWtBQ58ZmHzft3_TYeb6dgjn8pxrvkPC4295ca3r6HbKwB6l48zrrXllACuSgL9wreMo-NLKumsoeeGZuh7cMZpAXoRPqk00rvRE8kb5AM5-Hq3QfTxNBvuOo-u15nR0Ir-rqLA3HAyb8X8h8pkvDgfdhzkf85zkwp3R2LJ4mKXqeZD-dpkrLcAqIMmq0uxaHh2JxaESzPQ=="
+        method="POST"
+        class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row sm:gap-0 sm:p-1.5 sm:bg-white/10 sm:backdrop-blur-xl sm:rounded-full sm:border sm:border-white/15 sm:shadow-2xl transition-all"
+      >
         <input 
           type="email" 
-          name="email"
+          name="EMAIL"
           placeholder="votre@email.com" 
           class="w-full flex-1 rounded-full border border-white/15 sm:border-0 bg-white/10 sm:bg-transparent px-6 py-3.5 text-base text-brand-surface-fg placeholder-brand-surface-fg/40 focus:outline-none focus:ring-2 focus:ring-primary/40 sm:focus:ring-0"
           required
           id="cta-email-input"
         />
+        <input type="text" name="email_address_check" value="" class="hidden" aria-hidden="true" />
+        <input type="hidden" name="locale" value="fr" />
         <button 
           type="submit" 
           class="inline-flex items-center justify-center rounded-full bg-primary px-8 py-3.5 text-base font-bold text-primary-foreground transition-all hover:scale-105 shadow-lg shadow-primary/30 whitespace-nowrap"
@@ -105,13 +112,25 @@
 </section>
 
 <script>
-  const bottomForm = document.getElementById('bottom-newsletter-form');
+  const bottomForm = document.getElementById('bottom-newsletter-form') as HTMLFormElement;
   const bottomSuccess = document.getElementById('bottom-success-message');
 
   bottomForm?.addEventListener('submit', async (e) => {
     e.preventDefault();
-    // UX Immédiate
-    bottomForm.classList.add('hidden');
-    bottomSuccess?.classList.remove('hidden');
+    const formData = new FormData(bottomForm);
+    
+    try {
+      fetch(bottomForm.action, {
+        method: 'POST',
+        body: formData,
+        mode: 'no-cors'
+      });
+      bottomForm.classList.add('hidden');
+      bottomSuccess?.classList.remove('hidden');
+    } catch (err) {
+      console.error('Erreur:', err);
+      bottomForm.classList.add('hidden');
+      bottomSuccess?.classList.remove('hidden');
+    }
   });
 </script>

@@ -53,15 +53,22 @@ const formattedDate = `${dayNames[today.getDay()]} ${today.getDate()} ${monthNam
         <!-- CTA: Newsletter FIRST, Explorer second -->
         <div class="mx-auto max-w-lg animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-300 fill-mode-both" style="transition-delay: 0.6s;">
           <!-- Email capture inline -->
-          <form id="hero-newsletter-form" class="flex flex-col sm:flex-row gap-3 sm:gap-0 sm:p-1.5 sm:rounded-full sm:border sm:border-border/50 sm:bg-card/50 sm:backdrop-blur-sm sm:shadow-lg sm:shadow-primary/5 transition-all">
+          <form 
+            id="hero-newsletter-form" 
+            action="https://a9004679.sibforms.com/serve/MUIFACbRWtBQ58ZmHzft3_TYeb6dgjn8pxrvkPC4295ca3r6HbKwB6l48zrrXllACuSgL9wreMo-NLKumsoeeGZuh7cMZpAXoRPqk00rvRE8kb5AM5-Hq3QfTxNBvuOo-u15nR0Ir-rqLA3HAyb8X8h8pkvDgfdhzkf85zkwp3R2LJ4mKXqeZD-dpkrLcAqIMmq0uxaHh2JxaESzPQ=="
+            method="POST"
+            class="flex flex-col sm:flex-row gap-3 sm:gap-0 sm:p-1.5 sm:rounded-full sm:border sm:border-border/50 sm:bg-card/50 sm:backdrop-blur-sm sm:shadow-lg sm:shadow-primary/5 transition-all"
+          >
             <input 
               type="email" 
-              name="email"
+              name="EMAIL"
               placeholder="votre@email.com" 
               class="w-full flex-1 rounded-full border border-border/50 sm:border-0 bg-card/50 sm:bg-transparent px-6 py-3.5 text-base text-foreground placeholder-muted-foreground/60 focus:outline-none focus:ring-2 focus:ring-primary/30 sm:focus:ring-0"
               required
               id="hero-email-input"
             />
+            <input type="text" name="email_address_check" value="" class="hidden" aria-hidden="true" />
+            <input type="hidden" name="locale" value="fr" />
             <button 
               type="submit" 
               class="inline-flex items-center justify-center rounded-full bg-primary px-8 py-3.5 text-base font-bold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:scale-105 hover:bg-primary/90 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background whitespace-nowrap"
@@ -112,23 +119,32 @@ const formattedDate = `${dayNames[today.getDay()]} ${today.getDate()} ${monthNam
 </section>
 
 <script>
-  const heroForm = document.getElementById('hero-newsletter-form');
+  const heroForm = document.getElementById('hero-newsletter-form') as HTMLFormElement;
   const heroSuccess = document.getElementById('hero-success-message');
   const heroDisclaimer = document.getElementById('hero-disclaimer');
 
   heroForm?.addEventListener('submit', async (e) => {
     e.preventDefault();
-    const email = (heroForm as HTMLFormElement).email.value;
     
-    // ICI : Branchement futur vers ton API (Brevo, Formspree, etc.)
-    // const response = await fetch('TA_URL_ICI', { method: 'POST', body: JSON.stringify({ email }) });
+    // Envoi en arrière-plan vers Brevo
+    const formData = new FormData(heroForm);
+    
+    try {
+      fetch(heroForm.action, {
+        method: 'POST',
+        body: formData,
+        mode: 'no-cors'
+      });
 
-    // UX Immédiate : On cache le formulaire et on montre le succès
-    heroForm.classList.add('hidden');
-    heroDisclaimer?.classList.add('hidden');
-    heroSuccess?.classList.remove('hidden');
-    
-    // Optionnel : Envoi réel si tu utilises une plateforme de capture (ex: Formspree)
-    // heroForm.submit(); // Si tu configures l'action sur le tag form directement
+      // Succès visuel immédiat
+      heroForm.classList.add('hidden');
+      heroDisclaimer?.classList.add('hidden');
+      heroSuccess?.classList.remove('hidden');
+    } catch (err) {
+      console.error('Erreur:', err);
+      heroForm.classList.add('hidden');
+      heroDisclaimer?.classList.add('hidden');
+      heroSuccess?.classList.remove('hidden');
+    }
   });
 </script>
