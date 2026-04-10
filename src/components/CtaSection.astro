@@ -1,46 +1,99 @@
 ---
+// CtaSection.astro — CTA final avant/après + formulaire newsletter
 ---
 
-<section id="newsletter" class="py-24">
-  <div class="container">
-    <div class="relative overflow-hidden rounded-3xl px-8 py-20 text-center md:px-16 ">
-      <div class="absolute inset-0 bg-gradient-to-br from-primary via-primary/90 to-primary-glow"></div>
+<section class="py-20 lg:py-28 relative overflow-hidden">
+  <!-- Background sombre contrasté -->
+  <div class="absolute inset-0 bg-gradient-to-br from-brand-surface via-brand-surface to-brand-surface"></div>
+  
+  <!-- Noise texture -->
+  <div class="absolute inset-0 noise-bg"></div>
+  
+  <!-- Orbs -->
+  <div class="absolute top-0 left-1/4 h-60 w-60 rounded-full bg-primary/10 blur-3xl" style="animation: float-orb 8s ease-in-out infinite;"></div>
+  <div class="absolute bottom-0 right-1/4 h-80 w-80 rounded-full bg-accent/5 blur-3xl" style="animation: float-orb 10s ease-in-out infinite 1s;"></div>
 
-      <div class="absolute top-0 left-1/4 h-60 w-60 rounded-full bg-white/10 blur-3xl" style="animation: float-orb 8s ease-in-out infinite;"></div>
-      <div class="absolute bottom-0 right-1/4 h-80 w-80 rounded-full bg-white/5 blur-3xl" style="animation: float-orb 10s ease-in-out infinite 1s;"></div>
+  <div class="container max-w-5xl mx-auto px-4 md:px-8 relative z-10">
+    <!-- Title -->
+    <div class="text-center mb-14">
+      <h2 class="font-heading text-3xl font-bold text-brand-surface-fg md:text-4xl lg:text-5xl tracking-tight mb-4">
+        Ne soyez plus le dernier à découvrir <br class="hidden md:block" />
+        <span class="gradient-text">l'outil qui change tout.</span>
+      </h2>
+    </div>
 
-      <div class="absolute inset-0 opacity-[0.05]" style="background-image: radial-gradient(circle at 1px 1px, white 1px, transparent 0); background-size: 30px 30px;"></div>
-
-      <div class="relative z-10">
-        <div class="mx-auto mb-6 flex h-14 w-14 items-center justify-center rounded-2xl bg-white/10 backdrop-blur-sm">
-          <svg class="h-7 w-7 text-primary-foreground" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" /></svg>
+    <!-- Avant / Après -->
+    <div class="grid gap-6 md:grid-cols-2 mb-14 max-w-3xl mx-auto">
+      <!-- Avant -->
+      <div class="rounded-2xl border border-red-500/20 bg-red-500/5 p-6">
+        <div class="flex items-center gap-2 mb-4">
+          <svg class="h-5 w-5 text-red-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+          <span class="font-heading font-bold text-red-400 text-sm uppercase tracking-wider">Avant</span>
         </div>
-
-        <h2 class="mb-4 font-heading text-4xl font-bold text-primary-foreground md:text-5xl">
-          Rejoignez le <span class="text-white">Cercle Privé</span> de l'IA
-        </h2>
-        <p class="mx-auto mb-10 max-w-lg text-primary-foreground/80 text-lg">
-          Recevez chaque mardi une analyse pointue des 3 nouveaux outils indispensables qui vont booster votre secteur. Pas de spam, que de la valeur pure.
-        </p>
-        
-        <form class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row shadow-2xl p-2 bg-white/10 backdrop-blur-xl rounded-full border border-white/20">
-          <input 
-            type="email" 
-            placeholder="Votre meilleure adresse email" 
-            class="w-full flex-1 rounded-full bg-transparent px-6 py-3 text-base text-white placeholder-white/60 focus:outline-none focus:ring-0"
-            required
-          />
-          <button 
-            type="submit" 
-            class="flex items-center justify-center rounded-full bg-white px-8 py-3 text-base font-bold text-primary transition-transform hover:scale-105"
-          >
-            S'inscrire
-          </button>
-        </form>
-        <p class="mt-4 text-xs text-primary-foreground/60">
-          Déjà 10 400+ membres inscrits. Désinscription en 1 clic.
-        </p>
+        <ul class="space-y-3 text-sm text-brand-surface-fg/70">
+          <li class="flex items-start gap-2">
+            <span class="mt-1 text-red-400/60">—</span>
+            <span>Des heures sur Google à tester des outils décevants</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="mt-1 text-red-400/60">—</span>
+            <span>Vous apprenez les lancements avec 3 semaines de retard</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="mt-1 text-red-400/60">—</span>
+            <span>Vos concurrents avancent plus vite que vous</span>
+          </li>
+        </ul>
       </div>
+
+      <!-- Après -->
+      <div class="rounded-2xl border border-primary/20 bg-primary/5 p-6">
+        <div class="flex items-center gap-2 mb-4">
+          <svg class="h-5 w-5 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+          <span class="font-heading font-bold text-primary text-sm uppercase tracking-wider">Après</span>
+        </div>
+        <ul class="space-y-3 text-sm text-brand-surface-fg/70">
+          <li class="flex items-start gap-2">
+            <span class="mt-1 text-primary/60">✓</span>
+            <span>3 outils testés et validés chaque jeudi dans votre boîte</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="mt-1 text-primary/60">✓</span>
+            <span>Premiers sur les lancements, avant tout le monde</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="mt-1 text-primary/60">✓</span>
+            <span>Vous avancez plus vite que 95% de votre marché</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- CTA form -->
+    <div class="text-center">
+      <form id="cta-newsletter-form" class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row sm:gap-0 sm:p-1.5 sm:bg-white/10 sm:backdrop-blur-xl sm:rounded-full sm:border sm:border-white/15 sm:shadow-2xl" onsubmit="event.preventDefault();">
+        <input 
+          type="email" 
+          placeholder="votre@email.com" 
+          class="w-full flex-1 rounded-full border border-white/15 sm:border-0 bg-white/10 sm:bg-transparent px-6 py-3.5 text-base text-brand-surface-fg placeholder-brand-surface-fg/40 focus:outline-none focus:ring-2 focus:ring-primary/40 sm:focus:ring-0"
+          required
+          id="cta-email-input"
+        />
+        <button 
+          type="submit" 
+          class="inline-flex items-center justify-center rounded-full bg-primary px-8 py-3.5 text-base font-bold text-primary-foreground transition-all hover:scale-105 shadow-lg shadow-primary/30 whitespace-nowrap"
+        >
+          Recevoir la sélection
+        </button>
+      </form>
+
+      <!-- Reassurance -->
+      <p class="mt-4 text-sm text-brand-surface-fg/50">
+        Gratuit · Pas de spam · Désinscription en 1 clic
+      </p>
+      <p class="mt-2 text-xs text-brand-surface-fg/40">
+        Rejoignez les <span class="font-semibold text-brand-surface-fg/60">10 400+</span> professionnels qui ne ratent plus rien en IA.
+      </p>
     </div>
   </div>
 </section>

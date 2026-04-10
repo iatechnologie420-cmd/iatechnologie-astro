@@ -1,0 +1,82 @@
+---
+// NewsletterSection.astro
+// Section dédiée capture email — point de conversion principal au milieu de page
+---
+
+<section id="newsletter" class="py-20 lg:py-28 relative overflow-hidden">
+  <!-- Background contrasté -->
+  <div class="absolute inset-0 bg-gradient-to-br from-brand-surface via-brand-surface to-brand-surface"></div>
+  
+  <!-- Dot pattern -->
+  <div class="absolute inset-0 opacity-[0.04]" style="background-image: radial-gradient(circle at 1px 1px, white 1px, transparent 0); background-size: 32px 32px;"></div>
+  
+  <!-- Glowing orbs -->
+  <div class="absolute top-0 right-[15%] h-60 w-60 rounded-full bg-primary/10 blur-3xl" style="animation: float-orb 10s ease-in-out infinite;"></div>
+  <div class="absolute bottom-0 left-[10%] h-72 w-72 rounded-full bg-accent/8 blur-3xl" style="animation: float-orb 12s ease-in-out infinite 3s;"></div>
+
+  <div class="container max-w-4xl mx-auto px-4 md:px-8 relative z-10">
+    <div class="text-center">
+      <!-- Icon -->
+      <div class="mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-2xl bg-primary/15 backdrop-blur-sm border border-primary/20">
+        <svg class="h-8 w-8 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
+        </svg>
+      </div>
+
+      <!-- Title -->
+      <h2 class="font-heading text-3xl font-bold text-brand-surface-fg md:text-4xl lg:text-5xl tracking-tight mb-4">
+        3 outils IA. Chaque jeudi. <br class="hidden sm:block" />
+        <span class="gradient-text">Testés pour vous.</span>
+      </h2>
+      
+      <!-- Description -->
+      <p class="mx-auto max-w-xl text-brand-surface-fg/70 text-lg leading-relaxed mb-10">
+        Un email par semaine, 5 minutes de lecture. Les 3 outils IA que vous devriez tester cette semaine — avec notre verdict honnête, les cas d'usage concrets et les pièges à éviter.
+      </p>
+
+      <!-- Email form -->
+      <form id="newsletter-form" class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row sm:gap-0 sm:p-1.5 sm:bg-white/10 sm:backdrop-blur-xl sm:rounded-full sm:border sm:border-white/15 sm:shadow-2xl" onsubmit="event.preventDefault();">
+        <input 
+          type="email" 
+          placeholder="votre@email.com" 
+          class="w-full flex-1 rounded-full border border-white/15 sm:border-0 bg-white/10 sm:bg-transparent px-6 py-3.5 text-base text-brand-surface-fg placeholder-brand-surface-fg/40 focus:outline-none focus:ring-2 focus:ring-primary/40 sm:focus:ring-0"
+          required
+          id="newsletter-email-input"
+        />
+        <button 
+          type="submit" 
+          class="inline-flex items-center justify-center rounded-full bg-primary px-8 py-3.5 text-base font-bold text-primary-foreground transition-all hover:scale-105 shadow-lg shadow-primary/30 whitespace-nowrap"
+        >
+          M'inscrire gratuitement
+        </button>
+      </form>
+
+      <!-- Reassurance -->
+      <p class="mt-4 text-sm text-brand-surface-fg/50">
+        Rejoignez <span class="font-semibold text-brand-surface-fg/70">10 400+</span> professionnels. Pas de spam. Désinscription en 1 clic.
+      </p>
+
+      <!-- Newsletter preview mini-card -->
+      <div class="mx-auto mt-10 max-w-md rounded-2xl border border-white/10 bg-white/5 backdrop-blur-sm p-5 text-left">
+        <div class="flex items-center gap-2 mb-4">
+          <svg class="h-4 w-4 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
+          <span class="text-xs font-semibold text-brand-surface-fg/60 uppercase tracking-wider">Aperçu — Dernière édition</span>
+        </div>
+        <ul class="space-y-2.5">
+          <li class="flex items-start gap-2 text-sm text-brand-surface-fg/80">
+            <span class="mt-0.5 text-primary font-bold">→</span>
+            <span><span class="font-semibold text-brand-surface-fg">Bolt.new</span> (Code) — Génère des apps complètes en 30 sec</span>
+          </li>
+          <li class="flex items-start gap-2 text-sm text-brand-surface-fg/80">
+            <span class="mt-0.5 text-primary font-bold">→</span>
+            <span><span class="font-semibold text-brand-surface-fg">Heygen 5</span> (Vidéo) — Clonage vidéo en temps réel</span>
+          </li>
+          <li class="flex items-start gap-2 text-sm text-brand-surface-fg/80">
+            <span class="mt-0.5 text-primary font-bold">→</span>
+            <span><span class="font-semibold text-brand-surface-fg">Gamma 3.0</span> (Présentation) — Slides parfaites en 1 prompt</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

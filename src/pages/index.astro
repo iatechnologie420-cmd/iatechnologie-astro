@@ -5,6 +5,8 @@ import HeroSection from '@/components/HeroSection.astro';
 import DirectoryInterface from '@/components/DirectoryInterface.astro';
 import SidebarLaCreme from '@/components/SidebarLaCreme.astro';
 import ToolsSection from '@/components/ToolsSection.astro';
+import WhySection from '@/components/WhySection.astro';
+import NewsletterSection from '@/components/NewsletterSection.astro';
 import YouTubeSection from '@/components/YouTubeSection.astro';
 import SeoSection from '@/components/SeoSection.astro';
 import CtaSection from '@/components/CtaSection.astro';
@@ -25,7 +27,8 @@ const jsonLd = {
 ---
 
 <BaseLayout
-  title="L'annuaire des meilleurs outils IA 2026 : comparatif, avis et guide complet — IA Technologie"
+  title="Les meilleurs outils IA 2026 — Testés, comparés, répertoriés | IA Technologie"
+  description="Découvrez 534+ outils IA testés et mis à jour quotidiennement. Trouvez l'outil parfait pour votre métier en 30 secondes. Rejoignez 10 400+ pros."
   jsonLd={jsonLd}
 >
   <div class="min-h-screen bg-background relative flex">
@@ -34,13 +37,28 @@ const jsonLd = {
     <div class="flex-1 min-w-0 transition-all duration-300 lg:ml-16">
       <Navbar />
       <main>
+        <!-- 1. HÉRO — CTA newsletter + Explorer -->
         <HeroSection />
+
+        <!-- 2. RÉPERTOIRE — Outils (la valeur immédiate) -->
         <DirectoryInterface activeTab="populaires">
           <ToolsSection />
         </DirectoryInterface>
-      <YouTubeSection />
-      <SeoSection />
-      <CtaSection />
+
+        <!-- 3. PROPOSITION DE VALEUR — Pourquoi IATechnologie -->
+        <WhySection />
+
+        <!-- 4. CAPTURE NEWSLETTER — Section dédiée (milieu de page) -->
+        <NewsletterSection />
+
+        <!-- 5. YOUTUBE — Tutoriels vidéo -->
+        <YouTubeSection />
+
+        <!-- 6. SEO + FAQ — Cocon sémantique + objections -->
+        <SeoSection />
+
+        <!-- 7. CTA FINAL — Dernière chance, avant/après -->
+        <CtaSection />
       </main>
       <Footer />
     </div>

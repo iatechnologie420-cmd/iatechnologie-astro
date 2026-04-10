@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -6,7 +6,7 @@
 
 @layer base {
   :root {
-    /* LIGHT THEME (Antigravity inspired) */
+    /* LIGHT THEME */
     --background: 0 0% 100%;
     --foreground: 0 0% 10%;
 
@@ -38,10 +38,14 @@
     --ring: 135 70% 45%;
 
     --radius: 0.75rem;
+
+    /* Brand accent for newsletter/CTA sections */
+    --brand-surface: 220 60% 12%;
+    --brand-surface-fg: 0 0% 95%;
   }
 
   .dark {
-    /* DARK THEME (Original) */
+    /* DARK THEME */
     --background: 0 0% 4%;
     --foreground: 0 0% 95%;
 
@@ -70,6 +74,9 @@
     --border: 0 0% 14%;
     --input: 0 0% 14%;
     --ring: 135 100% 55%;
+
+    --brand-surface: 220 50% 8%;
+    --brand-surface-fg: 0 0% 95%;
   }
 }
 
@@ -83,7 +90,7 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Plus Jakarta Sans', sans-serif;
   }
 }
 
@@ -184,4 +191,9 @@
   25% { transform: translateY(-30px) translateX(15px) scale(1.1); }
   50% { transform: translateY(10px) translateX(-10px) scale(0.95); }
   75% { transform: translateY(-20px) translateX(20px) scale(1.05); }
+}
+
+@keyframes count-up-num {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
 }

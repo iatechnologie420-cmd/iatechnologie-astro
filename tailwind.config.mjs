@@ -10,7 +10,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        heading: ['Space Grotesk', 'sans-serif'],
+        heading: ['Plus Jakarta Sans', 'sans-serif'],
         body: ['Inter', 'sans-serif'],
       },
       colors: {
@@ -48,6 +48,8 @@ export default {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))',
         },
+        'brand-surface': 'hsl(var(--brand-surface))',
+        'brand-surface-fg': 'hsl(var(--brand-surface-fg))',
       },
       borderRadius: {
         lg: 'var(--radius)',
