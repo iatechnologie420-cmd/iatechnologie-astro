@@ -3,7 +3,7 @@
 ---
 
 <div id="construction-popup" class="fixed inset-0 z-[100] flex items-center justify-center p-4 sm:p-6 opacity-0 pointer-events-none transition-all duration-700 ease-out backdrop-blur-md bg-black/40">
-  <div class="relative w-full max-w-lg overflow-hidden rounded-[2.5rem] border border-white/10 bg-brand-surface/90 shadow-[0_32px_64px_-16px_rgba(0,0,0,0.5)] backdrop-blur-3xl transition-all duration-700 translate-y-8 scale-95 group">
+    <div class="relative w-full max-w-lg max-h-[92vh] overflow-y-auto hide-scrollbar rounded-[2rem] sm:rounded-[2.5rem] border border-white/10 bg-brand-surface/95 shadow-[0_32px_64px_-16px_rgba(0,0,0,0.6)] backdrop-blur-3xl transition-all duration-700 translate-y-8 scale-95 group">
     
     <!-- Pattern deco -->
     <div class="absolute inset-0 -z-10 opacity-[0.03]" style="background-image: radial-gradient(circle at 1px 1px, white 1px, transparent 0); background-size: 24px 24px;"></div>
@@ -12,29 +12,33 @@
     <div class="absolute -top-24 -right-24 h-48 w-48 rounded-full bg-primary/10 blur-[80px]"></div>
 
     <!-- Close button -->
-    <button id="close-popup" class="absolute top-6 right-6 flex h-10 w-10 items-center justify-center rounded-full border border-white/5 bg-white/5 text-white/40 transition-all hover:bg-white/10 hover:text-white group-hover:border-white/10">
+    <button id="close-popup" class="absolute top-4 right-4 sm:top-6 sm:right-6 flex h-10 w-10 items-center justify-center rounded-full border border-white/5 bg-white/5 text-white/40 transition-all hover:bg-white/10 hover:text-white group-hover:border-white/10 z-20">
       <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
     </button>
 
-    <div class="p-8 sm:p-10 pt-12 text-center">
+    <div class="p-6 sm:p-10 pt-12 text-center">
       <!-- Icon/Badge -->
-      <div class="mx-auto mb-8 flex h-16 w-16 items-center justify-center rounded-2xl bg-primary/10 border border-primary/20 shadow-inner group">
-        <svg class="h-8 w-8 text-primary animate-pulse" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+      <div class="mx-auto mb-6 sm:mb-8 flex h-14 w-14 sm:h-16 sm:w-16 items-center justify-center rounded-2xl bg-primary/10 border border-primary/20 shadow-inner group">
+        <svg class="h-7 w-7 sm:h-8 sm:w-8 text-primary animate-pulse" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
           <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z" />
         </svg>
       </div>
 
       <!-- Title -->
-      <h2 class="mb-4 font-heading text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
-        Migration en cours... <br />
+      <h2 class="mb-4 font-heading text-2xl sm:text-3xl font-extrabold tracking-tight text-white md:text-4xl">
+        Migration en cours... <br class="hidden sm:block" />
         <span class="gradient-text">On arrive bientôt.</span>
       </h2>
 
       <!-- Text -->
-      <p class="mb-8 text-white/60 text-base sm:text-lg leading-relaxed">
-        Le site fait peau neuve ! Les articles et le répertoire de 500+ outils sont en cours de mise à jour complète.<br />
-        <span class="font-semibold text-primary/80">Rendez-vous la semaine du 20 avril</span> pour l'ouverture officielle et le lancement de la newsletter.
-      </p>
+      <div class="mb-8 text-white/70 text-sm sm:text-base leading-relaxed space-y-4">
+        <p>
+          Le site fait peau neuve ! Les articles et le répertoire de 500+ outils font l'objet d'une <span class="text-white font-semibold">refonte et mise à jour complète</span>.
+        </p>
+        <p>
+          <span class="font-semibold text-primary/90">Rendez-vous la semaine du 20 avril</span> pour l'ouverture officielle et le lancement de la newsletter.
+        </p>
+      </div>
 
       <!-- Newsletter Form -->
       <div class="relative space-y-4">
